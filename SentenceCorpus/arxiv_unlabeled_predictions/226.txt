@@ -1,0 +1,30 @@
+MISC--: inferring sequence states observations one most fundamental problems hidden markov models
+MISC--: statistical physics language this problem equivalent computing marginals one dimensional model random external field
+MISC--: while this task accomplished through transfer matrix methods becomes quickly intractable when underlying state space large
+AIMX--: this paper develops several low complexity approximate algorithms address this inference problem when state space becomes large
+MISC--: new algorithms based various mean field approximations transfer matrix
+OWNX--: their performances studied detail simple realistic model dna pyrosequencing
+MISC--: hidden markov models hmm s workhorse modern statistics machine learning applications ranging speech recognition biological sequence alignment pattern classification citation
+BASE--: hmm defines joint distribution over sequence states symbol symbol observations symbol whereby states form markov chain observations conditionally independent given sequence states
+AIMX--: formulae we symbol most fundamental algorithmic task related hmm s arguably problem inferring sequence states symbol observations
+MISC--: conditional distribution state sequence given observations bayes theorem symbol where symbol thought normalization constant
+MISC--: state sequence then estimated sequence most likely states symbol maximum posteriori probability map estimation symbol this reduces inference problem problem computing marginals symbol
+MISC--: statistical physics point view citation conditional distribution regarded boltzmann distribution one dimensional system variables symbol energy function symbol at temperature symbol
+MISC--: sequence observations thus act quenched external field
+OWNX--: suggested this analogy marginals symbol computed efficiently using transfer matrix algorithm
+MISC--: present context this also known bahl cocke jelinek raviv bcjr algorithm citation
+MISC--: bcjr algorithm complexity linear sequence length quadratic number states symbol
+MISC--: more precisely complexity symbol same multiplying symbol matrix times symbol vector
+MISC--: while this easy simple models few states becomes intractable complex models
+OWNX--: simple mechanism leading state space explosion presence memory underlying markov chain dependence each observation multiple states
+OWNX--: all cases model reduced standard hmm via state space augmentation but augmented state space becomes exponential memory length
+MISC--: this leads severe limitations tractable memory length
+AIMX--: this paper proposes several new algorithms addressing this problem
+OWNX--: our basic intuition when memory length gets large transfer matrix accurately approximated using mean field ideas
+OWNX--: we study proposed method concrete model used dna pyrosequencing
+OWNX--: this case one interested inferring underlying dna sequence absorption signal carries traces base type at several positions
+MISC--: effective memory length scales roughly square root sequence length thus making plain transfer matrix impractical
+AIMX--: paper organized follows
+OWNX--: next section will define concrete model we study section describes connection dna pyrosequencing motivate
+OWNX--: section describes transfer matrix algorithm several low complexity approximation schemes
+OWNX--: after describing few bounds numerical analytical results collected section

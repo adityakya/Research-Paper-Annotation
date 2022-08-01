@@ -1,0 +1,37 @@
+MISC--: epidemic spread infectious diseases ubiquitous often considerable impact public health economic wealth
+MISC--: large variability spatio temporal patterns epidemics prohibits simple interventions requires detailed analysis each epidemic respect its infectious agent corresponding routes transmission
+AIMX--: facilitate this analysis we introduce mathematical framework links epidemic patterns topology dynamics underlying transmission network
+MISC--: evolution both disease prevalence transmission network topology derived closed set partial differential equations infections without allowing recovery
+MISC--: predictions excellent agreement complementarily conducted agent based simulations
+MISC--: capacity this new method demonstrated several case studies hiv epidemics synthetic populations allows us monitor evolution contact behavior among healthy infected individuals contributions different disease stages spreading epidemic
+OWNX--: this gives both direction test bed targeted intervention strategies epidemic control
+MISC--: conclusion this mathematical framework provides capable toolbox analysis epidemics first principles
+MISC--: this allows fast silico modeling manipulation epidemics especially powerful if complemented adequate empirical data parameterization
+MISC--: despite huge efforts improve public health spread infectious diseases still ubiquitous at beginning st century there considerable variability epidemic patterns between locations
+MISC--: although recent influenza pandemic been global challenge there nonetheless been differences its timing northern southern hemisphere due seasonal effects citation citation
+MISC--: another prominent example epidemic variability prevalence sexually transmitted diseases specifically hiv infections
+MISC--: although hiv endemic many populations at low levels restricted high risk groups become highly endemic other parts world citation citation
+MISC--: consequence spread infectious diseases cannot understood globally but understood only result several local factors climate hygiene conditions population density structure cultural habits mobility
+MISC--: epidemic models aim capture mechanisms link factors emergent epidemics promote understanding underlying dynamic processes prerequisite intervention strategies citation citation
+MISC--: useful abstraction this context regard individuals may infected nodes network links potentially infectious contacts among individuals
+MISC--: major remaining challenge modern epidemiology link variability transmission networks corresponding emergent epidemics
+MISC--: models flexible adapted specific epidemic situations best meet challenges
+OWNX--: because we focus interplay between transmission network topology epidemics we will restrict ourselves diseases caused agents lead either immunity death their host i e infection occur only once
+MISC--: epidemics described susceptible infected recovered sir models citation citation
+OWNX--: we refer mathematically closely related case where infection eventually leads death host sid model
+MISC--: original classical sir model citation assumes mass action type dynamic consequence describes epidemics homogeneous well mixed populations
+MISC--: because this generally not good approximation real world situations current epidemic models strive integrated approach considers both information about course disease relevant transmission network citation citation
+MISC--: models vary their assumptions attention detail computational costs consequence their fields application
+MISC--: compartmental sir models consider different contact patterns sub populations link them via contact matrix citation providing coarse grained but often adequate representation
+MISC--: network based sir models consider distribution each individual s number infectious contacts formula transmission network citation citation
+MISC--: models allow study transmission networks strong heterogeneity number contacts among individuals some cases also means they consider correlations way contacts made citation citation clustering citation citation
+MISC--: although approaches focus static networks recent approach considers networks arbitrary degree distributions transient contacts allows derivation temporal evolution number susceptible infected nodes closed set equations citation citation
+MISC--: finally pair models very general approach citation studying sir epidemics heterogeneous networks
+MISC--: they provide large amount flexibility considering way contacts made maintained citation citation but trade off they quickly become very computationally demanding citation
+MISC--: assumption often implicitly made epidemic models epidemic sweeps through population at much shorter time scales than time scale background demographic processes i e natural birth death processes neglected
+MISC--: this good approximation cases yearly influenza epidemics but hardly adequate hiv epidemics span decades
+MISC--: compensate this limitation we integrated demographic background processes into recent network epidemic models citation citation
+OWNX--: hiv mind case study we focus disease epidemics lead death after infection susceptible individuals possibly after undergoing several stages disease
+AIMX--: addition earlier work our approach also allows depth study interplay between epidemic spreading structure dynamics underlying transmission network
+OWNX--: strictly speaking all approaches discussed only predict mean behavior epidemics within limit infinite host population
+OWNX--: however our comparisons finite size agent based simulations show this good computationally efficient approximation already moderate population sizes

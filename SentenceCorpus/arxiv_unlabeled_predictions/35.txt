@@ -1,0 +1,14 @@
+MISC--: we propose analyze new vantage point learning mixtures gaussians namely pac style model learning probability distributions introduced kearns et al citation
+MISC--: here task construct hypothesis mixture gaussians statistically indistinguishable actual mixture generating data specifically kl divergence should at most symbol
+CONT--: this scenario we give symbol time algorithm learns class mixtures any constant number axis aligned gaussians symbol
+OWNX--: our algorithm makes no assumptions about separation between means gaussians nor does any dependence minimum mixing weight
+MISC--: this contrast learning results known clustering model where assumptions unavoidable
+CONT--: our algorithm relies method moments subalgorithm developed citation discrete mixture learning problem
+MISC--: citation kearns et al introduced elegant natural model learning unknown probability distributions
+OWNX--: this framework we given class symbol probability distributions over symbol access random data sampled unknown distribution symbol belongs symbol goal output hypothesis distribution symbol high confidence symbol close symbol measured kullback leibler kl divergence standard measure distance between probability distributions see section details this distance measure
+CONT--: learning algorithm should run time symbol
+OWNX--: this model well motivated its close analogy valiant s classical probably approximately correct pac framework learning boolean functions citation
+MISC--: several notable results both positive negative been obtained learning kearns et al framework citation see eg citation
+MISC--: here we briefly survey some positive results been obtained learning various types mixture distributions recall given distributions symbol mixing weights symbol sum draw corresponding mixture distribution obtained first selecting symbol probability symbol then making draw symbol kearns et al gave efficient algorithm learning certain mixtures hamming balls product distributions over symbol each coordinate mean either symbol symbol some symbol fixed over all mixture components
+MISC--: subsequently freund mansour citation independently cryan et al citation gave efficient algorithms learning mixture two arbitrary product distributions over symbol
+MISC--: recently feldman et al citation gave symbol time algorithm learns mixture any symbol many arbitrary product distributions over discrete domain symbol any symbol

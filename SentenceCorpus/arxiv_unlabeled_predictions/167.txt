@@ -1,0 +1,35 @@
+OWNX--: we develop concept abc boost daptive b ase c lass boost multi class classification present abc mart concrete implementation abc boost
+MISC--: original mart m ultiple dditive r egression t rees algorithm been very successful large scale applications
+MISC--: binary classification abc mart recovers mart
+MISC--: multi class classification abc mart considerably improves mart evaluated several public data sets
+MISC--: classification basic task machine learning
+MISC--: training data set symbol consists symbol feature vectors samples symbol symbol class labels symbol symbol symbol
+MISC--: here symbol symbol number classes
+MISC--: task predict class labels
+MISC--: this study focuses multi class classification symbol
+MISC--: many classification algorithms based boosting citation regarded one most significant breakthroughs machine learning
+MISC--: mart citation m ultiple dditive r egression t rees successful boosting algorithm especially large scale applications industry practice
+OWNX--: example regression based ranking method developed yahoo
+MISC--: citation used underlying learning algorithm based mart
+OWNX--: mcrank citation classification based ranking method also used mart underlying learning procedure
+MISC--: this study proposes abc boost daptive b ase c lass boost multi class classification
+OWNX--: we present abc mart concrete implementation abc boost
+MISC--: abc boost based following two key ideas multi class classification popular loss functions symbol classes usually assume constraint citation only values symbol classes needed
+MISC--: therefore we choose base class derive algorithms only symbol classes
+MISC--: at each boosting step although base class not explicitly trained will implicitly benefit training symbol classes due constraint
+OWNX--: thus we adaptively choose base class worst performance
+MISC--: idea assuming constraint loss function using base class may not at all surprising
+MISC--: binary symbol classification sum zero constraint loss function automatically considered so we only need train algorithm one instead symbol class
+MISC--: multi class symbol classification sum zero constraint loss function also ubiquitously adopted citation
+MISC--: particular multi class logitboost citation algorithm was derived explicitly averaging over symbol base classes
+MISC--: loss function adopted our abc mart same mart citation logitboost citation
+MISC--: all three algorithms assume sum zero constraint
+BASE--: however we obtain different first second derivatives loss function mart citation logitboost citation
+MISC--: see section details
+CONT--: terms implementation our proposed abc mart differs original mart algorithm only few lines code
+MISC--: since mart known successful algorithm much our work devoted empirical comparisons abc mart mart
+OWNX--: our experiment results publicly available data sets will demonstrate abc mart could considerably improves mart
+MISC--: also abc mart reduces both training testing time symbol may quite beneficial when symbol small
+MISC--: we notice data sets industry applications often quite large e g several million samples citation
+OWNX--: publicly available data sets e g uci repository however mostly small
+OWNX--: our study covertype data set uci repository reasonably large observations we first review original mart algorithm functional gradient boosting citation

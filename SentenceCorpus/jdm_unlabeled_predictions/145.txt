@@ -1,0 +1,40 @@
+OWNX--: tempting fate effect probability fateful outcome deemed higher following action tempts outcome than absence action
+AIMX--: this paper we evaluate hypothesis effect due illusion control induced causal framing situation
+OWNX--: causal frames require action make difference outcome action precedes outcome
+MISC--: if illusion control modulates reluctance tempt fate then actions make difference well being occur prior outcome should tempt fate most strongly
+OWNX--: experiments number number we varied whether action makes difference temporal order action outcome
+OWNX--: experiment number we tested whether action tempt fate if all outcomes negative
+OWNX--: results all four experiments supported our hypothesis tempting fate effect depends causal construal gives rise false sense control
+MISC--: risen gilovich citation shown taking action making decision presupposes certain state world make opposite state seem more likely even when action decision no real causal impact
+MISC--: example people judge leaving one s umbrella at home increases probability will rain
+MISC--: risen gilovich argue this reluctance tempt fate occurs because action presupposes good outcome leads anticipated regret therefore draws attention disproportionally negative outcome
+MISC--: negative outcome then seems more likely because more available
+AIMX--: this paper we elaborate risen gilovich s hypothesis specify conditions exacerbate attenuate feeling tempting fate
+OWNX--: our claim not merely availability bad outcome makes seem more likely
+MISC--: rather reluctance tempt fate stems illusory causal belief action will influence outcome illusion control citation
+OWNX--: we further argue this illusion control depends causal construal role one s action outcome
+OWNX--: we understand illusion control more than feeling taking action one bring about desired outcome when fact outcome due chance
+OWNX--: we take term control more general encompass any counterfactual dependency between action outcome including possible action bad outcome
+MISC--: our use term control denotes relation between variables not states variables
+OWNX--: agent will feel control over outcome only if agent believes at some level his her action causal relation outcome
+MISC--: causality imposes certain requirements relations between actions outcomes
+OWNX--: first action cause outcome action must make difference outcome citation
+MISC--: second action must precede outcome citation
+MISC--: people highly sensitive requirements therefore we propose they experience reluctance tempt fate when there cues environment suggesting they should frame their actions causally specifically action potential make difference actor s well being action precedes determination outcome
+MISC--: definition fate tempting actions no real causal impact outcome question bringing leaving umbrella does not influence whether will rain
+OWNX--: however actions affect well being way depends uncontrolled outcome
+MISC--: instance decision leave umbrella at home weather jointly determine whether one gets wet
+OWNX--: we argue actions well being joint function choice uncontrolled outcome likely inspire reluctance tempt because casual efficacy action leads sense control
+MISC--: contrast actions do not directly influence well being will not seem tempt fate
+OWNX--: we use term make difference denote choice interacts uncontrolled outcome determine well being
+MISC--: temporal priority another fundamental property causal relations one people highly sensitive citation
+OWNX--: morris sim girotto citation used this principle provide evidence illusion control mediated choices prisoner s dilemma game
+CONT--: they compared behavior games where opponent had already chosen but what they chose was unknown cases where opponent had not chosen yet
+MISC--: people were more likely cooperate if their opponent had not chosen yet even though their own choice was unknown opponent
+OWNX--: this suggests decision making was influenced belief at some level one s choice could influence opponent even though was unknown him her citation
+MISC--: similarly we hypothesized feeling tempting fate will attenuated if outcome already been determined even if one lacks knowledge outcome
+CONT--: sum our hypothesis predicts feeling one tempting fate should strengthened when choice makes difference well being uncontrolled outcome not yet been determined
+OWNX--: first study we manipulated both whether choice makes difference temporal order outcome decision test this prediction
+MISC--: second study replicated first using different wording rule out alternative explanation
+MISC--: third study extended manipulation scenario adapted risen gilovich citation
+OWNX--: fourth study examined whether choice must make difference matters

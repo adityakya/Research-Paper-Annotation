@@ -1,0 +1,70 @@
+MISC--: determination factors influence protein conformational changes very important identification potentially amyloidogenic disordered regions polypeptide chains
+AIMX--: our work we introduce new parameter mean packing density detect both amyloidogenic disordered regions protein sequence
+MISC--: been shown regions strong expected packing density responsible amyloid formation
+MISC--: our predictions consistent known disease related amyloidogenic regions eight amyloid forming proteins peptides positions amyloidogenic regions been revealed experimentally
+OWNX--: our findings support concept mechanism amyloid fibril formation similar different peptides proteins
+OWNX--: moreover we demonstrated regions weak expected packing density responsible appearance disordered regions
+OWNX--: our method been tested datasets globular proteins long disordered protein segments shows improved performance over other widely used methods
+OWNX--: thus we demonstrate expected packing density useful value one predict both intrinsically disordered amyloidogenic regions protein based sequence alone
+OWNX--: our results important understanding structural characteristics protein folding misfolding
+MISC--: amyloid fibril formation associated increase structure content leads fibrillar aggregation citation
+MISC--: however should noted increased level beta structure characteristic property several different types protein aggregates citation citation
+MISC--: addition proteins observed amyloid diseases recent studies shown diverse proteins not related any amyloid disease aggregate into fibrils under destabilizing conditions citation citation
+MISC--: normal proteins become toxic when they undergo fibrillation citation
+MISC--: there no consensus about toxicity different states small oligomers large oligomers protofilaments protofibrils filaments mature fibrils amorphous aggregates
+MISC--: significant advancements recent research led discovery toxic species amyloid diseases may not fibrils themselves but rather pre fibrillar aggregates citation
+MISC--: possible mechanism toxicity synuclein protofibrils been demonstrated citation
+MISC--: been shown protofibrils form elliptical pores like bacterial toxins puncture cell membranes resulting cell death citation
+MISC--: therefore mechanism amyloid formation under intensive investigation
+MISC--: recognition factors influence protein conformational changes misfolding one general fundamental problems solution will help us find effective treatments amyloid illnesses
+MISC--: experimental observation not all proteins amyloidogenic specific continuous regions amyloid forming proteins more amyloidogenic than others suggests there sequence propensity amyloid formation
+MISC--: moreover observation some short peptides also form amyloids implies segments usually exposed environment nucleate transition native proteins into amyloid state suggests fibril formation sequence specific citation
+MISC--: mechanism amyloidogenesis natively folded proteins microglobulin transthyretin partial unfolding observed believed prerequisite proteins assembly into amyloid fibrils both vitro vivo citation
+MISC--: been suggested residues enhanced flexibility solvent accessibility important initiation fibrillation citation
+MISC--: this means partial unfolding rigid native structure provide specific interface beginning fibrillation
+OWNX--: thus understand molecular mechanism amyloidosis necessary find factors induce partial unfolding proteins subsequent amyloid fibril formation at near physiological conditions
+MISC--: some intrinsically disordered proteins involved amyloid diseases
+MISC--: this fact may indicate disorder necessary condition aggregation
+MISC--: been shown very small change environment proteins often might cause their partial folding aggregation citation
+MISC--: knowledge characteristics control process amyloid fibril formation important finding effective drugs treatment amyloid diseases
+MISC--: uversky fink their review citation illustrate protein fibrillogenesis requires partially folded conformation
+OWNX--: first high resolution crystal amyloid fiber formed sequence designed polypeptide been obtained citation
+MISC--: recently atomic structure cross spine citation seven residue peptide segment sup was determined
+MISC--: double sheet each sheet formed parallel segments stacked register
+MISC--: side chains protruding two sheets form dry tightly self complementing steric zipper bonds sheets
+OWNX--: within each sheet every segment bound two neighboring segments through stacks both backbone side chain hydrogen bonds
+MISC--: there several computational methods predicting protein s propensity amyloid fibril formation
+MISC--: work fernandez et al citation was shown concentration defects insufficient shielding hydrogen bonds water attack might yield aggregation induced nucleus
+MISC--: but analysis defects revealed extensive exposure hydrogen bonds water attack might necessary but not sufficient condition imply propensity organized aggregation citation
+MISC--: computational algorithm been suggested detects nonnative strand propensity sequences consideration relationships between protein local sequence secondary structure terms tertiary contacts citation
+MISC--: this algorithm detects sequences within protein favorable triggering amyloid fibril formation
+MISC--: worthwhile emphasize here both algorithms prediction amyloidogenic properties polypeptide chains considered above applied only those proteins three dimensional structure known
+MISC--: based physico chemical properties aggregation sequences computational algorithm model was developed predicting aggregation rate broad range polypeptide chains citation
+MISC--: model identifies aggregation sites within protein predicts parallel antiparallel organization sheets fibril
+OWNX--: should noted however overpredictions aggregation sites were not analyzed statistically
+MISC--: other hand there method prediction amyloidogenic regions amino acid sequence alone citation
+MISC--: after experimental investigation amyloidogenic properties model six residue peptide its mutants authors obtained six residue amyloidogenic pattern used this pattern identification amyloidogenic fragments proteins citation
+MISC--: this amyloidogenic pattern been used validate premise amyloidogenicity protein indeed localized short protein stretches
+MISC--: been demonstrated conversion soluble non amyloidogenic protein into amyloidogenic prone molecule triggered non destabilizing six residue amyloidogenic insertion particular structural environment
+MISC--: recently new method identifying fibril forming segments proteins been suggested citation
+MISC--: this method based threading six residue peptides through known crystal structure amyloid fiber citation formed peptide sup
+MISC--: putative prediction accepted prediction if its energy evaluated rosettadesign lower than threshold energy
+MISC--: should added molecular dynamics yield valuable information about structural changes arise at atomic level upon formation amyloid fibrils citation citation while information difficult obtain experimentally
+MISC--: another interesting new method based sequence specific interaction energies between pairs protein fragments calculated statistical analysis native folds globular proteins citation
+CONT--: this algorithm correctly predicts positions most aggregation prone portions some polypeptide chains
+MISC--: formation sufficient number interactions necessary compensate loss conformational entropy during protein folding process
+MISC--: therefore structural uniqueness native proteins result balance between conformational entropy energy residue interactions
+MISC--: seems disordered regions protein chain do not sufficient number interactions compensate loss conformational entropy results formation globular state
+MISC--: other hand large increase energy interactions will lead loss unique structure because strengthening contact energy will speed up folding but also likely lead erroneous folds
+CONT--: been suggested lack rigid globular structure under physiological conditions might represent considerable functional advantage intrinsically disordered proteins their large plasticity allows them interact efficiently several different targets compared folded protein limited conformational flexibility citation citation
+MISC--: been shown disordered regions involved dna binding other types molecular recognition citation
+MISC--: large portion sequences intrinsically disordered proteins contain segments low complexity high predicted flexibility citation citation
+MISC--: also been indicated combination low overall hydrophobicity large net charge represent structural feature intrinsically disordered proteins comparison small globular proteins citation citation
+MISC--: there currently several widely used methods prediction disordered regions globplot citation simple propensity based approach evaluating tendency residues regular secondary structure pondr vl h citation able distinguish experimentally verified disordered proteins globular proteins various machine learning approaches disopred citation definition disorder restrained regions missing x ray structures but specifically recognized support vector machine disopred model iupred citation assigns order disorder status residues basis their ability form favorable pairwise contacts
+OWNX--: we were first our knowledge who used number contacts per residue parameter distinguish folded intrinsically disordered proteins citation
+OWNX--: we extended our method predict disordered regions made comparisons above mentioned methods citation
+MISC--: been demonstrated our method best among widely used methods sets proteins considered here
+OWNX--: despite considerable efforts understand mechanism still unclear what responsible amyloidogenic disordered regions
+AIMX--: goal this work test our hypothesis about whether protein regions possess expected strong packing density responsible amyloidogenic properties proteins while regions weak packing density simultaneously responsible appearance disordered regions
+AIMX--: we introduce new parameter namely mean packing density enables prediction both amyloidogenic intrinsically disordered regions protein sequence
+OWNX--: findings support concept occurrence amyloidogenic intrinsically disordered regions similar basis different peptides proteins

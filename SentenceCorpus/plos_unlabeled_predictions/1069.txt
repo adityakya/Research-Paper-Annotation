@@ -1,0 +1,33 @@
+MISC--: transcription factor regulation often post translational
+MISC--: tf modifications reversible phosphorylation missense mutations act independent tf expression level overlooked differential expression analysis
+OWNX--: using bovine piedmontese myostatin mutants proof concept we propose new algorithm correctly identifies gene containing causal mutation microarray data alone
+MISC--: myostatin mutation releases brakes piedmontese muscle growth translating dysfunctional protein
+OWNX--: compared less muscular non mutant breed we find myostatin not differentially expressed at any ten developmental time points
+OWNX--: despite this challenge algorithm identifies myostatin smoking gun through coordinated simultaneous weighted integration three sources microarray information transcript abundance differential expression differential wiring
+MISC--: asking novel question regulator cumulatively most differentially wired abundant most differentially expressed genes
+MISC--: yields correct answer myostatin
+AIMX--: our new approach identifies causal regulatory changes globally contrasting co expression network dynamics
+MISC--: entirely data driven weighting procedure emphasises regulatory movement relative phenotypically relevant part network
+MISC--: contrast other published methods compare co expression networks significance testing not used eliminate connections
+MISC--: evolution normal development immune responses aberrant processes diseases cancer all involve at least some rewiring regulatory circuits citation citation
+MISC--: indeed subtle differences circuit wiring makes each individual unique
+MISC--: key nodes regulatory circuits frequently transcription factors citation
+MISC--: thus there great deal interest developing methods decoding tf changes
+OWNX--: regulator target interactions assessed chip chip but this requires large amounts homogenous starting material tf specific reagents
+MISC--: furthermore recruitment tf promoter does not necessarily correlate transcriptional status so biological interpretation complex citation
+OWNX--: likely sites key regulatory mutations revealed whole genome scans but this approach requires large numbers individuals very dense snp panels
+MISC--: even so exact causal gene may remain ambiguous if there several genes near marker
+MISC--: any case little insight gained into underlying regulatory mechanisms
+MISC--: order gain further insights into regulatory apparatus computational approaches continuously being proposed
+MISC--: date they all operate integrating information multiple levels biological organisation particularly eqtl protein protein interaction tf binding site data citation citation
+OWNX--: identifying regulatory change solely through contrasts gene expression data been elusive because tf tend stably expressed at baseline levels citation close sensitivity standard high throughput expression profiling platforms
+OWNX--: further tf activation often regulated post translationally thereby act somewhat independently expression level
+MISC--: biologically important common tf activation processes poorly detected conventional differential expression analysis
+CONT--: we hypothesised system wide network approach might utility grounds while differentially regulated tf might not de between two systems its new position network perturbed system might allow detection smoking gun
+MISC--: allow reliable evaluation hypothesis well defined experimental model system required
+MISC--: piedmontese cattle double muscled because they possess genomic dna mutation myostatin mrna transcript citation
+MISC--: resulting dysfunctional myostatin protein transcriptional regulator releases brakes muscle growth reflecting importance tgf signalling pathways determination final muscle mass fibre composition citation citation
+MISC--: preliminary analysis expression myostatin piedmontese hereford versus wagyu hereford animals found de myostatin was not detectable using cdna based expression microarrays citation citation
+OWNX--: thus we system we know identity gene containing causal mutation myostatin but we cannot identify de mrna muscle samples
+OWNX--: contrasting muscle transcriptomes piedmontese wagyu crosses across developmental time points our aim was establish question myostatin answer
+OWNX--: other words what question do we need ask gene expression data reveal identity transcriptional regulator containing causal mutation

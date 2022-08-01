@@ -1,0 +1,25 @@
+MISC--: what role recognition consumer choice
+MISC--: recognition heuristic rh proposes situations where recognition correlated decision criterion recognized objects will chosen more often than unrecognized ones regardless any other relevant information available about recognized object
+MISC--: past research investigated this non compensatory decision heuristic inference
+OWNX--: here we report two experiments preference using naturalistic consumer choice task
+OWNX--: results revealed although recognition was powerful driver preferences was used compensatory rather than non compensatory way
+MISC--: specifically additional information learned about recognized brand objects significantly affected choices
+MISC--: appears recognition processed compensatory manner combined other attributes preferential choice
+OWNX--: we tend like what we know
+MISC--: studies mere exposure effect citation decades experience product manufacturers advertisers confirm our preferences products other objects tend related their familiarity brand awareness citation
+MISC--: but what precisely mechanism familiarity recognition guides choice
+MISC--: this article asks whether choice sometimes guided non compensatory mechanism recognition heuristic rh
+MISC--: rh been primarily investigated inferential choice domains larger city frankfurt koblenz
+MISC--: simple tool adaptive tool box human judgment decision making proposed gigerenzer todd abc research group citation
+MISC--: researchers shown unlike classical decision strategies e g linear regression bayesian models aim maximize integration relevant knowledge gain statistically optimal prediction decision criterion efficient inferences drawn minimal knowledge this case mere recognition
+MISC--: additionally rh was proposed most applicable situations where knowledge limited not all entities choice set recognized citation
+MISC--: there various other domains recognition knowledge limited where choices depend preferences rather than inferences
+MISC--: one obvious example consumer choice
+MISC--: everyone knows firms invest huge sums money advertising
+MISC--: although many advertisements informative often their purpose simply increase brand awareness
+MISC--: firms attempt repeatedly expose consumers brand names hope achieving positive brand image customer loyalty
+BASE--: present study aims investigate exact role brand recognition consumer choice
+MISC--: more specifically aims see whether under certain circumstances participants will rely recognition choice strategy regardless any other information they may about recognized well known brand
+MISC--: instance when choosing between two brands chocolate only one brand recognized participants may employ simple heuristic choose recognized brand
+MISC--: alternatively they may combine recognition other information known about brand whether manufacturer good poor environmental record
+MISC--: present research therefore extends past studies recognition heuristic into new domain preferential choice

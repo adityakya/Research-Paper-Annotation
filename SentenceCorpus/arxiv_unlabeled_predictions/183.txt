@@ -1,0 +1,43 @@
+CONT--: emergence low cost sensor architectures diverse modalities made possible deploy sensor arrays capture single event large number vantage points using multiple modalities
+MISC--: many scenarios sensors acquire very high dimensional data audio signals images video
+OWNX--: cope high dimensional data we typically rely low dimensional models
+MISC--: manifold models provide particularly powerful model captures structure high dimensional data when governed low dimensional set parameters
+MISC--: however models do not typically take into account dependencies among multiple sensors
+OWNX--: we thus propose new joint manifold framework data ensembles exploits dependencies
+OWNX--: we show simple algorithms exploit joint manifold structure improve their performance standard signal processing applications
+MISC--: additionally recent results concerning dimensionality reduction manifolds enable us formulate network scalable data compression scheme uses random projections sensed data
+OWNX--: this scheme efficiently fuses data all sensors through addition projections regardless data modalities dimensions
+OWNX--: geometric notion low dimensional manifold common yet powerful tool modeling high dimensional data
+MISC--: manifold models arise cases where i symbol dimensional parameter symbol identified carries relevant information about signal ii signal symbol changes continuous typically nonlinear function parameters
+OWNX--: some typical examples include one dimensional d signal shifted unknown time delay parameterized translation variable recording speech signal parameterized underlying phonemes spoken speaker image d object at unknown location captured unknown viewing angle parameterized d coordinates object its roll pitch yaw
+MISC--: many other cases geometry signal class forms nonlinear symbol dimensional manifold symbol symbol where symbol symbol dimensional parameter space citation
+MISC--: low dimensional manifolds also been proposed approximate models nonparametric signal classes images human faces handwritten digits citation
+MISC--: many scenarios multiple observations same event may performed simultaneously resulting acquisition multiple manifolds share same parameter space
+MISC--: example sensor networks camera networks microphone arrays typically observe single event variety vantage points while underlying phenomenon often described set common global parameters location orientation objects interest
+MISC--: similarly when sensing single phenomenon using multiple modalities video audio underlying phenomenon may again described single parameterization spans all modalities
+AIMX--: cases we will show advantageous model this joint structure contained ensemble manifolds opposed simply treating each manifold independently
+OWNX--: thus we introduce concept joint manifold model concatenation data vectors observed group sensors
+MISC--: joint manifolds enable development improved manifold based learning estimation algorithms exploit this structure
+MISC--: furthermore they applied data any modality dimensionality
+OWNX--: this work we conduct careful examination theoretical properties joint manifolds
+MISC--: particular we compare joint manifolds their component manifolds see how quantities like geodesic distances curvature branch separation condition number affected
+AIMX--: we then observe properties lead improved performance noise tolerance variety signal processing algorithms when they exploit joint manifold structure opposed processing data each manifold separately
+OWNX--: we also illustrate how this joint manifold structure exploited through simple efficient data fusion algorithm uses random projections also applied multimodal data
+MISC--: related prior work studied manifold alignment where goal discover maps between several datasets governed same underlying low dimensional structure
+MISC--: lafon et al proposed algorithm obtain one one matching between data points several manifold modeled classes citation
+MISC--: algorithm first applies dimensionality reduction using diffusion maps obtain data representations encode intrinsic geometry class
+MISC--: then affine function matches set landmark points computed applied remainder datasets
+MISC--: this concept was extended wang mahadevan who apply procrustes analysis dimensionality reduced datasets obtain alignment function between pair manifolds citation
+MISC--: since alignment function provided instead data point matching mapping obtained applicable entire manifold rather than set sampled points
+OWNX--: our setting we assume either i manifold alignment provided intrinsically via synchronization between different sensors ii manifolds been aligned using one approaches described above
+OWNX--: our main focus theoretical analysis benefits provided analyzing joint manifold versus solving our task interest separately each manifolds observed individual sensors
+AIMX--: this paper organized follows
+OWNX--: section introduces establishes some basic properties joint manifolds
+OWNX--: section considers application joint manifolds tasks classification manifold learning
+OWNX--: section then describes efficient method processing aggregating data when lies joint manifold section concludes discussion
+AIMX--: jam paper
+AIMX--: bbl ustar root root jam paper
+MISC--: tex ustar root root documentclass pt article input preamble title theoretical analysis joint manifolds mark
+MISC--: davenport chinmay hegde marco f
+MISC--: duarte richard g
+MISC--: baraniuk protect protect rice university protect department electrical computer engineering protect technical report tree end document jam

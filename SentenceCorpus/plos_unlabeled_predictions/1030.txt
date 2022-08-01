@@ -1,0 +1,38 @@
+MISC--: trans cis prolyl isomerisation involved several biological processes including development numerous diseases
+BASE--: hiv capsid protein process takes place uncoating recruitment virion catalyzed cyclophilin here we use metadynamics simulations investigate isomerization ca s model substrate hagpia water its target protein cypa
+OWNX--: our results allow us propose novel mechanistic hypothesis finally consistent all available molecular biology data
+MISC--: proline trans cis isomerization takes part several fundamental biological processes including protein folding citation citation immune response citation citation ion channel gating citation cellular signalling citation citation citation
+MISC--: process also associated development variety diseases including hiv infection citation citation carcinogenesis citation alzheimer s citation catalyzed prolyl isomerase enzymes citation citation citation
+MISC--: best characterized isomerization vivo vitro occurs uncoating recruitment human hiv capsid protein virions citation catalyzed cyclophilin isomerase
+OWNX--: at structural level cypa features helices flanking beta barrel while ca made several helices connected loops
+MISC--: x ray structure complex citation targeted proline containing backbone unit accommodated hydrophobic pocket cypa
+MISC--: although backbone unit trans conformation x ray structure citation nmr studies shown percent conformers cis ca cypa r aqueous solution citation
+OWNX--: rather significant population cis conformers could arise not only replacement r ala but also crystal packing forces different temperature conditions along different hydration ionic strength two experiments
+MISC--: free energy calculations further support hypothesis cypa promotes significant population cis conformation citation citation
+MISC--: thus cis population likely increase substantially water where percent citation complex aqueous solution
+MISC--: vitro kinetic measurements show cypa decreases isomerization free energy barrier modified substrate fragments solution kcal mol citation citation
+MISC--: free energy calculations based either classical citation quantum mechanical molecular mechanics citation aminoacids long substrate fragment point similar trend
+MISC--: addition they suggest h bonding between backbone unit targeted glycine proline peptidyl bond n cypa citation citation citation well van der waals interactions between substrate cypa hydrophobic pocket stabilize transition state citation citation citation
+MISC--: hypotheses consistent decrease k cat k m associated polymorphism cyclophilins position f f h q cypa mutants citation citation
+MISC--: nmr studies along computations further suggested motions several cypa residues linked enzymatic activity citation citation citation
+MISC--: free energy calculations characterized network protein vibrations cypa associated its isomerase activity flexible loops surface connected active site network hydrogen bonds citation citation citation
+MISC--: spite great progress describing catalytic process key mechanistic issues need addressed
+MISC--: kinetic studies citation suggested overall process involves trans cis forms solution complex protein
+MISC--: however studies so far consider mostly ts stabilization
+MISC--: most importantly current proposed mechanism cannot explain plethora molecular biology data
+MISC--: studies show residues not involved ts stabilization proposed mechanisms important function their mutations cause decrease k cat k m indeed k cat k m passes m s wild type m s mutating fully conserved r residue ala citation
+MISC--: although this mutation was proposed originally destroy h bond stabilizing uniquely ts citation citation h bond was subsequently ruled out computational works citation citation citation so far no functional role been ascribed r
+MISC--: addition h q mutation along i v polymorphism causes decrease k cat k m although residues not involved ts stabilization
+OWNX--: here we use molecular simulations address issues
+OWNX--: we calculate free energy associated isomerisation aminoacids long substrate fragment water complex cypa
+OWNX--: free energy calculated function two reaction coordinates been suggested describe best energetics process citation well other pairs different coordinates cross check our results
+MISC--: we use here metadynamics citation already been employed predict energetics protein peptide interactions citation
+OWNX--: potential used effective one
+MISC--: this choice allows very efficient sampling because its relatively small computational cost
+OWNX--: spite its limitations citation this force field expected relatively accurate describe equilibrium conformations key aspect our problem
+OWNX--: accuracy force field minima transition states assessed comparing our results first principle quantum chemistry calculations
+OWNX--: based this comparison we find force field biases energetics minima negligible whereas their influence barriers more significant
+OWNX--: therefore here free energy differences between minima used predict relative populations equilibrium conformations whilst calculated barriers only compared at qualitative level discriminate most likely cis trans isomerisation path
+MISC--: enzyme turns out dramatically stabilize populations one specific cis conformer relative trans ones instead far most stable aqueous solution
+OWNX--: addition lowers free energy barrier specific one way isomerization trans cis
+OWNX--: findings allow us propose mechanistic hypothesis isomerization process consistent all available experimental data

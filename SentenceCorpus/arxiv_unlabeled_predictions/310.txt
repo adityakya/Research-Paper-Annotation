@@ -1,0 +1,26 @@
+MISC--: dictionary defines words terms other words
+MISC--: definitions tell you meanings words you don t know but only if you know meanings defining words
+MISC--: how many words do you need know ones order able learn all rest definitions
+OWNX--: we reduced dictionaries their grounding kernels gks about dictionary all other words could defined
+MISC--: gk words turned out psycholinguistic correlates they were learned at earlier age more concrete than rest dictionary
+OWNX--: but one compress still more gk turns out internal structure strongly connected kernel core kc surrounding layer hierarchy definitional distances derived all way out periphery full dictionary
+MISC--: definitional distances too correlated psycholinguistic variables age acquisition concreteness imageability oral written frequency hence perhaps mental lexicon each our heads
+OWNX--: category kind thing object event action trait state
+MISC--: categorize do right thing eat fight flee mate etc right kind thing
+OWNX--: all species acquire categories through trial error sensorimotor induction
+OWNX--: we only species also acquire transmit categories through verbal instruction naming defining them
+OWNX--: words our dictionaries almost all names categories followed their definitions
+OWNX--: principle all categories acquired through verbal definition but we cannot acquire all them way we know meanings some defining words already some other means
+MISC--: this symbol grounding problem citation presumably other means acquiring categories sensorimotor induction
+OWNX--: but how many words ones need grounded directly through sensorimotor induction order allow all rest acquired through verbal definition
+OWNX--: we been analyzing dictionaries order answer this question
+OWNX--: eliminating all words reached other words through definition alone we been able reduce dictionary its grounding kernel gk set words about symbol out all rest words reached through definition alone citation
+MISC--: gk some striking properties words learned at significantly younger age than rest dictionary also more concrete citation but if variance correlated age removed residual gk words more abstract than rest dictionary
+OWNX--: what cause this polarity shift
+OWNX--: gk unique sufficient ground all rest dictionary but not minimal not smallest set words all rest reached via definition alone
+MISC--: would minimum grounding set mgs not general unique we not yet been able compute mgs because this problem equivalent finding minimum cardinality feedback vertex set general graph np complete i e too hard compute general
+OWNX--: we hope able compute mgss our special cases but meanwhile gks our dictionaries cambridge international dictionary english cide citation longman dictionary contemporary english ldoce citation already turn out more differentiated internal substructure we begin analyzing further this article
+OWNX--: particular two substructures play important roles gk itself strongly connected subset gk we call kernel core kc
+MISC--: gk words acquired earlier more concrete than rest dictionary tend kc whereas gk words uncorrelated age acquisition tend outer layer surrounding kc more abstract
+MISC--: correlations between kc rest gk between gk rest dictionary whole binary but one make more graded comparisons considering definitional chains increasing lengths
+MISC--: we accordingly extracted two hierarchies based degrees definitional distance one based gk one based strongly connected components analyze how definitional distance correlates age acquisition concreteness abstractness other psycholinguistic variables

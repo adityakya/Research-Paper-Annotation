@@ -1,0 +1,58 @@
+MISC--: role mechanistic mathematical modeling systems biology will play molecular medicine clinical development remains uncertain
+OWNX--: this study mathematical modeling sensitivity analysis were used explore working hypothesis mechanistic models human cascades despite model uncertainty computationally screened points fragility sensitive mechanisms could serve therapeutic targets
+OWNX--: we tested our working hypothesis screening model well studied coagulation cascade developed validated literature
+OWNX--: predicted sensitive mechanisms were then compared treatment literature
+MISC--: model composed proteins protein protein interactions was validated using published datasets generated two different quiescent vitro coagulation models
+OWNX--: simulated platelet activation thrombin generation profiles presence absence natural anticoagulants were consistent measured values mean correlation across all trials
+MISC--: overall state sensitivity coefficients measure robustness fragility given mechanism were calculated using monte carlo strategy
+OWNX--: absence anticoagulants fluid surface phase factor x activated factor x activity thrombin mediated platelet activation were found fragile while fix fixa fviii fviiia activation activity were robust
+OWNX--: both anti fx fxa direct thrombin inhibitors important classes anticoagulants example anti fx fxa inhibitors fda approval prevention venous thromboembolism following surgical intervention initial treatment deep venous thrombosis pulmonary embolism
+MISC--: both vitro vivo experimental evidence reviewed supporting prediction fix fixa activity robust
+OWNX--: when taken together results support our working hypothesis computationally derived points fragility human relevant cascades could used rational basis target selection despite model uncertainty
+MISC--: role mechanistic mathematical modeling systems biology will play molecular medicine clinical development remains uncertain
+MISC--: kitano suggested understanding critical questions biology required integration experimental computational research citation
+MISC--: assmus et al others maintained analysis dynamics human relevant networks using predictive computer models high throughput data generation would play increasingly important role medical research elucidation disease mechanisms citation citation
+MISC--: however parametric structural uncertainty remains open challenge mechanistic modeling medicine
+MISC--: strategies integrate experimental computational techniques had success at elucidating network structures
+MISC--: arm arkin reviewed experimental computational techniques uncover molecular interaction networks citation
+MISC--: central experimental advancements area protein protein network identification been yeast two hybrid system citation citation quantitative mass spectrometry proteomic techniques determine protein complexes citation citation
+MISC--: young coworkers explored protein dna interactions using chromatin immunoprecipitation technique citation where likely transcription factor binding sites were determined using combination chromatin immunoprecipitation chips dna microarrays
+MISC--: time lagged correlation matrices citation citation genetic programming techniques citation network decomposition strategies also been used time series concentration measurements estimate reaction network structures citation
+MISC--: sensitivity analysis been used integrate model identification discrimination optimal experimental design knowledge discovery
+MISC--: cho et al used sensitivity analysis study tnf mediated nf b signalling where parametric uncertainty was addressed using monte carlo sensitivity analysis using best guess parameter set family random parameter sets was generated where sensitivity coefficients were calculated each member random family citation
+MISC--: cho et al went develop unifying framework building upon earlier work kholodenko et al sontag et al unravel functional interactions biomolecular networks using stimulus response strategy metabolic control analysis citation citation
+MISC--: kremling et al investigated benchmark problem growth microorganism continuous bioreactor subject feed shifts using sensitivity based model identification discrimination strategies they determined optimal experimental design perturbation strategies identify discriminate between rival model formulations citation
+MISC--: gadkar et al identified signal transduction models time course measurements using nonlinear scheme estimate missing protein measurements measured values citation
+MISC--: they went further proposed strategies calculate d optimal experimental designs maximized experimental information used identify signal transduction models well iterative strategy explore model structure citation citation
+MISC--: sensitivity analysis also been used explore robustness fragility metabolic signaling networks
+MISC--: robustness ability maintain system performance face perturbation uncertainty desirable feature both biological well man made networks machines systems citation
+MISC--: conversely fragility i e extreme sensitivity small perturbations very undesirable trait could lead catastrophic system failure following seemingly innocuous perturbations e g boeing crashing because minor software failures microscopic alterations few integrated chips citation
+MISC--: stelling et al reviewed several examples robustness biological networks citation while leibler first computationally predicted later experimentally verified robust features chemotaxis control networks citation citation
+MISC--: bullinger coworkers explored robustness models programmed cell death apoptosis citation while stelling et al computationally identified points robustness fragility using monte carlo sensitivity analysis overall state sensitivity coefficients models circadian rhythm citation
+AIMX--: this study we use tools systems biology namely mathematical modeling sensitivity analysis explore working hypothesis mechanistic models human relevant cascades despite model uncertainty computationally screened points fragility i e sensitive mechanisms mechanisms could serve rational basis therapeutic target selection
+OWNX--: we test our working hypothesis computationally screening mechanistic model well studied coagulation cascade developed validated literature sources
+BASE--: after model validation using published datasets generated two different quiescent vitro coagulation models we use monte carlo sensitivity analysis computationally screen model sensitive mechanisms presence absence natural anticoagulants
+OWNX--: we then contrast predicted fragile mechanisms literature determine if they consistent experimental investigation thereby proving disproving our working hypothesis
+MISC--: while current development restricted coagulation broader strategy general could applied arbitrary network
+MISC--: coagulation mediated family serine proteases key group blood cells both normally inactive circulation directly relevant human health been suggested somogyi greller ideal candidate silico drug discovery citation
+MISC--: insufficient coagulation manifested disorders haemophilia haemophilia b von willebrand disease citation citation
+OWNX--: conversely unwanted clotting serious complication following surgical intervention directly involved coronary artery diseases collectively account percent all deaths north america citation
+OWNX--: salient features coagulation cascade included our model shown schematically figure presented detail table reviewed here
+MISC--: several extensive reviews underlying biochemistry cell biology coagulation found elsewhere citation citation
+OWNX--: there two pathways lead activation master protease thrombin eventually clot intrinsic extrinsic cascades
+MISC--: generally believed extrinsic cascade main mechanism thrombinogenesis blood citation citation
+AIMX--: upstream coagulation factors activated materials exposed because vessel injury chief among tissue factors citation tf activated factor viia present blood form complex activates factor x fix
+MISC--: fxa activates downstream factors including fv fviii fix
+MISC--: fxa also along fva form complex surface activated platelets converts prothrombin thrombin
+CONT--: tf fviia not only mechanism activate fx fixa fviiia complex surface activated platelets catalyze formation fxa
+OWNX--: platelet localization at wound site occurs through specific interactions between platelet subendothelium primarily through recognition exposed materials collagen fibronectin von willebrand factor
+MISC--: localized platelets activated external signals adenosine diphosphate thrombin
+MISC--: thrombin irreversibly activates platelets through family transmembrane receptors platelet surface called protease activated receptors citation citation
+MISC--: thrombin addition playing key role platelet activation catalyzes conversion fibrinogen fibrin
+MISC--: fibrin help fviiia forms cross linked mesh inside platelet plug stops blood flow
+MISC--: thrombin also activates upstream coagulation factors thereby forming strong positive feedback ensures rapid activation
+MISC--: three control points inhibit thrombin formation considered model
+MISC--: tf pathway inhibitor downregulates fxa formation activity sequestering free fxa tf fviia fxa dependent manner
+MISC--: antithrombin iii neutralizes all serine proteases generated during coagulation response making perhaps most powerful control element cascade
+MISC--: thrombin itself plays inadvertent role its own inhibition binding surface protein thrombomodulin expressed normal vasculature citation
+MISC--: fiia tm complex catalyzes conversion protein c activated pc apc attenuates coagulation response proteolytic cleavage fv fva fviii fviiia citation

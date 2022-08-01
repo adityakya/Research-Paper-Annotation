@@ -1,0 +1,50 @@
+OWNX--: kinetically stable proteins those whose stability derived their slow unfolding kinetics not thermodynamics examples evolution s best attempts at suppressing unfolding
+MISC--: especially highly proteolytic environments both partially fully unfolded proteins face potential inactivation through degradation aggregation hence slowing unfolding greatly extend protein s functional lifetime
+MISC--: prokaryotic serine protease lytic protease done just its unfolding both very slow so cooperative partial unfolding negligible providing functional advantage over its thermodynamically stable homologs trypsin
+MISC--: previous studies identified regions domain interface critical lp unfolding though complete description unfolding pathway missing
+OWNX--: order identify lp unfolding pathway mechanism its extreme cooperativity we performed high temperature molecular dynamics unfolding simulations both lp trypsin
+OWNX--: simulated lp unfolding pathway produces robust transition state ensemble consistent prior biochemical experiments clearly shows unfolding proceeds through preferential disruption domain interface
+OWNX--: through novel method calculating unfolding cooperativity we show lp unfolds extremely cooperatively while trypsin unfolds gradually
+OWNX--: finally examining behavior both domain interfaces we propose model differential unfolding cooperativity lp trypsin involving three key regions differ between kinetically stable thermodynamically stable classes serine proteases
+MISC--: lytic protease prokaryotic serine protease chymotrypsin family evolved unusual energetic landscape providing functional advantage over its metazoan homologs
+MISC--: unlike most proteins lp s active state not stabilized thermodynamics but large kinetic barrier unfolding unfolding t year
+MISC--: citation while thermodynamically stable homologs like trypsin similar unfolding rates they degraded at rates up x faster than lp under highly proteolytic conditions
+MISC--: citation citation addition rates lp unfolding degradation nearly identical indicating partial unfolding leading proteolysis negligible
+MISC--: therefore lp s functional advantage derived not only its very slow unfolding shares trypsin but also its suppression local unfolding events would render protease accessible
+OWNX--: thus appears evolution lp generated extreme cooperativity unfolding order maximize its functional lifetime under harsh conditions
+MISC--: cost maximizing resistance unfolding comes form extremely slow folding consequent loss thermodynamic stability active state relative unfolded state
+MISC--: citation citation however lp also evolved large pro region folding catalyst speeds folding nine orders magnitude then degraded mature protease decoupling folding unfolding landscapes so unfolding resistance maximized
+MISC--: citation citation citation
+MISC--: given lp s unusual energetic landscape its reliance kinetic stability much effort focused elucidating its unfolding mechanism detail
+OWNX--: native state hydrogen deuterium exchange showed over half its backbone amides well protected exchange protection factors greater than
+MISC--: citation this extreme rigidity spread throughout both domains indicative lp s high unfolding cooperativity
+OWNX--: thermodynamic decomposition unfolding energetics into entropic enthalpic contributions suggested prominent role extensive domain interface unfolding critical step involving solvation domain interface while individual domains remain relatively intact
+OWNX--: citation mutational studies lp inspired acid resistant homolog napase were consistent this hypothesis
+OWNX--: distribution salt bridges napase lp differ markedly replacement salt bridge at lp s domain interface intra domain salt bridge resulted significant increases lp s resistance low ph unfolding
+MISC--: citation major component domain interface domain bridge only covalent linkage between two domains
+MISC--: this structure exists only prokaryotic proteases varies considerably among lp its homologs
+OWNX--: area buried domain bridge inversely correlated high temperature unfolding rate four kinetically stable proteases indicating both its relevance weakened early unfolding
+MISC--: citation another domain interface component hairpin c terminal domain unique kinetically stable proteases forms part active site
+MISC--: substitution more stable turn was consistent unfolding pathway where c h loses its domain interface contacts early unfolding
+OWNX--: citation despite much progress we still lack global picture lp unfolding especially at high resolution
+MISC--: higher resolution views protein folding unfolding researchers often turned value analysis
+MISC--: citation citation studies involve large scale protein engineering experiments investigate molecule s folding unfolding kinetics after making perturbing mutations normally hydrophobic deletions
+OWNX--: analyzing sufficiently large numbers perturbations structure transition state ensemble inferred folding unfolding mechanism proposed
+MISC--: unfortunately extremely slow folding unfolding rates lp make large scale value analysis lp impractical
+OWNX--: alternative we decided investigate lp unfolding pathway computationally order explain previous experiments guide new ones
+OWNX--: high temperature molecular dynamics unfolding simulations offer highest structural temporal resolution studying protein unfolding but their results must validated experimentally
+MISC--: since unfolding rates proteins typically very slow under physiological conditions very high temperatures required accelerate unfolding into ns range required computational analysis
+OWNX--: consequence initially there was significant concern relevance high temperature tses real proteins under physiological conditions
+CONT--: daggett co workers been pioneers this field using chymotrypsin inhibitor model system shown simulated unfolding calculations agree remarkably well experimental values were even able predict faster folding mutants
+MISC--: citation citation further work other proteins multiple groups established md unfolding simulations useful tool examining protein unfolding at atomic resolution while correlating well experiments
+MISC--: citation citation
+MISC--: critical step analyzing unfolding simulations accurately pinpointing tse multitude conformations generated
+OWNX--: because tse experimentally accessible through molecule s folding unfolding kinetics its identification computationally used both explanatory predictive purposes
+MISC--: various methods identifying tse been used past breaking down into conformational clustering landscape methods
+MISC--: citation citation citation citation citation citation conformational clustering relies all versus all comparisons conformations often c rmsd while landscapes separating native unfolded structures generated using properties conformations fraction native contacts secondary structure
+OWNX--: here we report results multiple md simulations carried out at high temperature order probe mechanism lp s extremely cooperative unfolding
+MISC--: due robustness cooperativity lp unfolding same tse obtained using either conformational clustering landscape methods
+CONT--: simulated unfolding pathway lp matches well previously described experiments provides atomic resolution previous models lp unfolding highlight role domain interface
+OWNX--: addition we performed similar simulations trypsin goal understanding observed experimental differences unfolding cooperativity
+OWNX--: through novel method calculating cooperativity md simulations we show lp unfolds significantly more cooperatively than trypsin mirroring experimental results
+AIMX--: finally analyzing domain interfaces both proteins during unfolding we propose mechanism how this differential cooperativity achieved

@@ -1,0 +1,47 @@
+OWNX--: recent advances machine learning make possible design efficient prediction algorithms data sets huge numbers parameters
+MISC--: this paper describes new technique hedging predictions output many algorithms including support vector machines kernel ridge regression kernel nearest neighbours many other state art methods
+OWNX--: hedged predictions labels new objects include quantitative measures their own accuracy reliability
+OWNX--: measures provably valid under assumption randomness traditional machine learning objects their labels assumed generated independently same probability distribution
+MISC--: particular becomes possible control up statistical fluctuations number erroneous predictions selecting suitable confidence level
+MISC--: validity being achieved automatically remaining goal hedged prediction efficiency taking full account new objects features other available information produce accurate predictions possible
+MISC--: this done successfully using powerful machinery modern machine learning
+MISC--: two main varieties problem prediction classification regression standard subjects statistics machine learning
+OWNX--: classical classification regression techniques deal successfully conventional small scale low dimensional data sets however attempts apply techniques modern high dimensional high throughput data sets encounter serious conceptual computational difficulties
+OWNX--: several new techniques first all support vector machines citation other kernel methods been developed machine learning recently explicit goal dealing high dimensional data sets large numbers objects
+MISC--: typical drawback new techniques lack useful measures confidence their predictions
+MISC--: example some tightest upper bounds popular pac theory probability error exceed even relatively clean data sets citation p
+AIMX--: this paper describes efficient way hedge predictions produced new traditional machine learning methods i e complement them measures their accuracy reliability
+OWNX--: appropriately chosen not only measures valid informative but they also take full account special features object predicted
+OWNX--: we call our algorithms producing hedged predictions conformal predictors they formally introduced section
+MISC--: their most important property automatic validity under randomness assumption discussed shortly
+MISC--: informally validity means conformal predictors never overrate accuracy reliability their predictions
+OWNX--: this property stated sections formalized terms finite data sequences without any recourse asymptotics
+OWNX--: claim validity conformal predictors depends assumption shared many other algorithms machine learning we call assumption randomness objects their labels assumed generated independently same probability distribution
+MISC--: admittedly this strong assumption areas machine learning emerging rely other assumptions markovian assumption reinforcement learning see eg citation dispense any stochastic assumptions altogether competitive line learning see eg citation
+MISC--: however much weaker than assuming parametric statistical model sometimes complemented prior distribution parameter space customary statistical theory prediction
+OWNX--: taking into account strength guarantees proved under this assumption does not appear overly restrictive
+OWNX--: so we know conformal predictors tell truth
+OWNX--: clearly this not enough truth uninformative so useless
+OWNX--: we will refer various measures informativeness conformal predictors their efficiency
+OWNX--: conformal predictors provably valid efficiency only thing we need worry about when designing conformal predictors solving specific problems
+MISC--: virtually any classification regression algorithm transformed into conformal predictor so most arsenal methods modern machine learning brought bear design efficient conformal predictors
+OWNX--: we start main part paper section description idealized predictor based kolmogorov s algorithmic theory randomness
+MISC--: this universal predictor produces best possible hedged predictions but unfortunately noncomputable
+OWNX--: we however set ourselves task approximating universal predictor well possible
+OWNX--: section we formally introduce notion conformal predictors state simple result about their validity
+OWNX--: section we also briefly describe results computer experiments demonstrating methodology conformal prediction
+OWNX--: section we consider example demonstrating how conformal predictors react violation our model stochastic mechanism generating data within framework randomness assumption
+MISC--: if model coincides actual stochastic mechanism we construct optimal conformal predictor turns out almost good bayes optimal confidence predictor formal definitions will given later
+MISC--: when stochastic mechanism significantly deviates model conformal predictions remain valid but their efficiency inevitably suffers
+MISC--: bayes optimal predictor starts producing very misleading results superficially look good when model correct
+OWNX--: section we describe line setting problem prediction section contrast more standard batch setting
+OWNX--: notion validity introduced section applicable both settings but line setting strengthened we now prove percentage erroneous predictions will close high probability chosen confidence level
+MISC--: batch setting stronger property validity conformal predictors remains empirical fact
+OWNX--: section we also discuss limitations line setting introduce new settings intermediate between line batch
+MISC--: large degree conformal predictors still enjoy stronger property validity intermediate settings
+OWNX--: section devoted discussion difference between two kinds inference empirical data induction transduction emphasized vladimir vapnik citation
+OWNX--: conformal predictors belong transduction but combining them elements induction lead significant improvement their computational efficiency section
+OWNX--: we show how some popular methods machine learning used underlying algorithms hedged prediction
+OWNX--: we do not give full description methods refer reader existing readily accessible descriptions
+OWNX--: this paper however self contained sense we explain all features underlying algorithms used hedging their predictions
+OWNX--: we hope information we provide will enable reader apply our hedging techniques their favourite machine learning methods

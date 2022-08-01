@@ -1,0 +1,45 @@
+MISC--: ensemble methods stacking designed boost predictive accuracy blending predictions multiple machine learning models
+MISC--: recent work shown use meta features additional inputs describing each example dataset boost performance ensemble methods but greatest reported gains come nonlinear procedures requiring significant tuning training time
+OWNX--: here we present linear technique feature weighted linear stacking fwls incorporates meta features improved accuracy while retaining well known virtues linear regression regarding speed stability interpretability
+MISC--: fwls combines model predictions linearly using coefficients themselves linear functions meta features
+MISC--: this technique was key facet solution second place team recently concluded netflix prize competition
+MISC--: significant increases accuracy over standard linear stacking demonstrated netflix prize collaborative filtering dataset
+MISC--: stacking technique predictions collection models given inputs second level learning algorithm
+OWNX--: this second level algorithm trained combine model predictions optimally form final set predictions
+MISC--: many machine learning practitioners had success using stacking related techniques boost prediction accuracy beyond level obtained any individual models
+BASE--: some contexts stacking also referred blending we will use terms interchangeably here
+MISC--: since its introduction citation modellers employed stacking successfuly wide variety problems including chemometrics citation spam filtering citation large collections datasets drawn uci machine learning repository citation
+OWNX--: one prominent recent example power model blending was netflix prize collaborative filtering competition
+MISC--: team bellkor s pragmatic chaos won million prize using blend hundreds different models citation
+OWNX--: indeed winning solution was blend at multiple levels i e blend blends
+OWNX--: intuition suggests reliability model may vary function conditions used
+OWNX--: instance collaborative filtering context where we wish predict preferences customers various products amount data collected may vary significantly depending customer product under consideration
+MISC--: model may more reliable than model b users who rated many products but model b may outperform model users who only rated few products
+MISC--: attempt capitalize this intuition many researchers developed approaches attempt improve accuracy stacked regression adapting blending basis side information
+MISC--: additional source information like number products rated user number days since product was released often referred meta feature we will use terminology here
+MISC--: unsurprisingly linear regression most common learning algorithm used stacked regression
+MISC--: many virtues linear models well known modellers
+MISC--: computational cost involved fitting models via solution linear system usually modest always predictable
+MISC--: they typically require minimum tuning
+MISC--: transparency functional form lends itself naturally interpretation
+MISC--: at minimum linear models often obvious initial attempt against performance more complex models benchmarked
+OWNX--: unfortunately linear models do not at first glance appear well suited capitalize meta features
+OWNX--: if we simply merge list meta features list models form one overall list independent variables linearly combined blending algorithm then resulting functional form does not appear capture intuition relative emphasis given predictions various models should depend meta features since coefficient associated each model constant unaffected values meta features
+CONT--: previous work indeed suggested nonlinear iteratively trained models needed make good use meta features blending
+CONT--: winning netflix prize submission bellkor s pragmatic chaos complex blend many sub blends many sub blends use blending techniques incorporate meta features
+OWNX--: number user movie ratings number items user rated particular day date predicted various internal parameters extracted some recommendation models were all used within overall blend
+OWNX--: almost all cases algorithms used sub blends incorporating meta features were nonlinear iterative i e either neural network gradient boosted decision tree
+MISC--: citation system called stream stacking recommendation engines additional meta features blends recommendation models presented
+OWNX--: eight meta features tested but results showed most benefit came using number user ratings number item ratings were also two most commonly used meta features bellkor s pragmatic chaos
+OWNX--: linear regression model trees bagged model trees used blending algorithms bagged model trees yielding best results
+MISC--: linear regression was least successful approaches
+CONT--: collaborative filtering not only application area where use meta features other dynamic approaches model blending been attempted
+MISC--: classification problem context citation dzeroski zenko attempt augment linear regression stacking algorithm meta features entropy predicted class probabilities although they found yielded limited benefit suite tasks uc irvine machine learning repository
+CONT--: approach does not use meta features per se but does employ adaptive approach blending described puuronen terziyan tsymbal citation
+MISC--: they present blending algorithm based weighted nearest neighbors changes weightings assigned models depending estimates accuracies models within particular subareas input space
+MISC--: thus survey pre existing literature suggests nonparametric iterative nonlinear approaches usually required order make good use meta features when blending
+OWNX--: method presented this paper however capitalize meta features while being fit via linear regression techniques
+OWNX--: method does not simply add meta features additional inputs regressed against
+MISC--: parametrizes coefficients associated models linear functions meta features
+OWNX--: thus technique all familiar speed stability interpretability advantages associated linear regression while still yielding significant accuracy boost
+MISC--: blending approach was important part solution submitted ensemble team finished second place netflix prize competition

@@ -1,0 +1,96 @@
+MISC--: group diffusion effect tendency people judge themselves less likely experience negative outcome total number people exposed threat increases even when probability outcome explicitly presented citation
+OWNX--: experiment number we replicated this effect two health threat scenarios using variant yamaguchi s original experimental paradigm
+MISC--: experiment number we showed people also judge themselves less likely selected lottery number people playing lottery increases
+OWNX--: experiment number we showed explicitly presenting number people expected selected eliminates group diffusion effect experiment number we showed presenting number expected affected health threat without presenting total number exposed threat produces reverse effect
+OWNX--: we propose therefore group diffusion effect related ratio bias
+MISC--: both effects occur when people make risk likelihood judgments based information presented ratio
+MISC--: difference group diffusion effect occurs when denominator relevant ratio more salient than numerator while ratio bias occurs when numerator more salient than denominator
+MISC--: many situations there safety numbers
+MISC--: person group less susceptible wide variety threats than person who alone
+MISC--: consider example traveler who walking strange city at night
+MISC--: if this person group he she probably less likely get lost less likely mugged more likely receive help event he she twists ankle
+MISC--: however there many other kinds threats being part group makes no difference
+MISC--: imagine example traveler who eats at local restaurant
+MISC--: if food restaurant were found contaminated e
+OWNX--: coli then person would just likely get sick after dining group after dining alone
+MISC--: there evidence however people tend confuse latter type situation former
+MISC--: people sometimes perceive illusory safety numbers
+MISC--: first demonstration this effect yamaguchi citation presented college students one six scenarios they were exposed threat e g carcinogen financial risk asked them judge probability they would experience associated negative outcome
+OWNX--: one his scenarios example read follows
+MISC--: infectious disease prevalent foreign city
+MISC--: disease comprises fever temperatures over number degrees more than week together severe diarrhea
+MISC--: although death rate not high disease after effects total hair loss
+MISC--: city authorities afraid losing tourists abroad kept matter confidential
+MISC--: group number japanese tourists including yourself arrived city plan stay one week
+MISC--: how likely do you think you will catch disease if you stay planned one week
+MISC--: each scenario there was alone condition participant was exposed threat alone you arrived city small group condition participant was one number people exposed large group condition anywhere number number million people were exposed depending scenario
+MISC--: across all scenarios there was strong tendency participants give lower probability judgments number people exposed threat increased
+OWNX--: furthermore function relating group size perceived risk was roughly logarithmic
+MISC--: there was large drop perceived risk alone small group condition smaller drop small group large group condition
+MISC--: yamaguchi citation referred this group diffusion effect he proposed occurs because people use interdependence heuristic
+MISC--: they apply general rule i am safer larger group even when group size irrelevant
+MISC--: according yamaguchi interdependence heuristic could evolved cognitive concomitant motivational mechanisms lead humans many other animals form maintain social groups
+MISC--: course mechanisms evolved because there often safety numbers
+MISC--: individuals groups better able fend off attacks find mates find create shelter forage successfully
+MISC--: but group diffusion effect result over applying this generally useful rule
+OWNX--: our purpose conducting present research group diffusion effect was twofold
+OWNX--: first we wanted replicate because there been only two published studies since yamaguchi s citation was conducted japan
+MISC--: one replicated basic effect hong kong citation
+MISC--: other was only partially successful replicating effect united states citation group diffusion effect being observed only two six scenarios tested
+OWNX--: results leave open possibility yamaguchi himself pointed out culture might play role group diffusion effect
+MISC--: because both japan hong kong culturally more collectivist than united states citation participants those countries might more attentive number people exposed threat more likely apply interdependence heuristic perhaps because their greater sense collective control opposed individual control citation
+MISC--: important therefore replicate group diffusion effect individualistic culture united states
+OWNX--: our second purpose conducting this research was consider alternative explanation group diffusion effect
+MISC--: specifically we thought might result people s attending weighting number people exposed risk more heavily than other information making their likelihood judgments
+MISC--: consider two scenarios
+MISC--: one number person expected taken ill out number people exposed virus
+MISC--: other number people expected taken ill out number people exposed
+MISC--: probability any individual will taken ill given ratio number people expected affected number people exposed course two probabilities this example same number number number number number percent
+MISC--: however if people attend weight number people exposed denominator fraction more than number expected affected numerator then they would perceive lower risk when number people exposed number than when number
+OWNX--: note there no motivational component our theory
+MISC--: people do not attend weight denominator more than numerator because makes them feel safe
+MISC--: they attend weight more because more attentionally salient
+MISC--: potential problem this idea there considerable research phenomenon called ratio bias seems show just opposite
+MISC--: when reasoning about likelihoods based ratios people attend weight numerators more than denominators
+MISC--: example denes raj epstein citation asked people choose between two gambles
+MISC--: one they would win if they selected red jelly bean bin containing number jelly beans where one them was red
+MISC--: other they would win if they selected red jelly bean bin containing number jelly beans where between number number them were red
+MISC--: surprisingly many people preferred select second bin implying they were focusing greater number red jelly beans bin citation
+MISC--: yamagishi citation shown something similar domain risk perception
+MISC--: his participants judged riskiness various causes death when death rates were presented ratios they appeared attend weight numerators more than denominators
+MISC--: example they judged risk dying cancer greater when told kills number number people out number number than when told kills number number people out number
+MISC--: ratio bias also been shown influence elicitation health state utilities citation perceived guilt defendant based dna evidence citation
+MISC--: our proposal however although people attend weight numerator more than denominator many situations they do opposite others
+OWNX--: furthermore this mainly consequence relative salience numerator denominator
+MISC--: terms classic jelly bean scenario been used demonstrate ratio bias people might exhibit group diffusion effect judging likelihood selecting red jelly bean lower when there number jelly beans bin than when there number if their attention drawn primarily total number jelly beans rather than number red ones
+OWNX--: one way do this might present number red jelly beans implicitly rather than explicitly giving total number jelly beans along probability selecting red one number percent
+MISC--: consider analogous situation described following letter popular media columnist who answers people s mathematical scientific technical questions citation
+OWNX--: family friends ganged up me but we agree believe what you say
+MISC--: i say odds winning six number lottery you choose numbers same whether number number number tickets sold
+MISC--: they say chances better if only number sold
+MISC--: who s right
+MISC--: although chances winning same regardless how many tickets sold letter writer s family friends appear influenced number perhaps because most salient one presented explicitly scenario
+MISC--: scenarios used yamaguchi citation similar our hypothetical jelly bean example lottery example above they seem draw attention denominator relevant ratio number people exposed threat
+MISC--: while all six yamaguchi s scenarios prominently featured number people exposed threat none them explicitly presented number people expected affected
+MISC--: one his scenarios citation probability negative outcome was presented e g number percent chance developing cancer but given difficulty people understanding single event probabilities citation seems likely number exposed threat remained highly salient piece information certainly more salient than non presented implicitly presented number people expected affected
+MISC--: similar ideas been explored other researchers although not connection group diffusion effect
+MISC--: example stone et al citation speculated greater impact certain graphical risk communication methods occurs because graphical methods emphasize number people expected affected more than number exposed
+MISC--: example bar graph compared gum disease risk associated two brands toothpaste terms number people expected affected produced relatively large differences what people were willing pay two products citation
+MISC--: however stone et al citation found stacked bar graph shows both number expected affected total number who use each toothpaste produced much smaller differences par differences produced presenting risks terms probabilities
+MISC--: bonner newell citation however found no effect conceptually similar manipulation
+MISC--: they presented people information about various causes death terms number people who die per day cause number who die per year
+MISC--: example frequency death cancer australia was presented number deaths per day number number deaths per year
+MISC--: essence ratios number deaths numerator time period denominator
+MISC--: researchers also included condition number deaths numerator was made more salient e g number people australia die every day cancer
+MISC--: condition time frame denominator was made more salient every day australia number people die cancer
+MISC--: 
+MISC--: consistent research ratio bias they found most people rated causes death riskier per year condition than per day condition minority showing opposite effect
+OWNX--: salience manipulation however had no effect
+OWNX--: we began our research replicating group diffusion effect college students united states two health scenarios sure occurs participants more individualistic culture
+OWNX--: we continued replicating again experiment number but new context
+OWNX--: instead health threat scenarios we used lottery scenarios participants had chance lose win money
+OWNX--: our rationale was if participants exhibited group diffusion effect positive outcome i e winning money then unlikely effect result interdependence heuristic applied response threat
+MISC--: result would consistent however idea people simply attend weight denominator relevant ratio more than numerator
+OWNX--: experiment number we show group diffusion effect eliminated when we change scenarios slightly include explicit presentation numerator relevant ratio well denominator
+OWNX--: finally experiment number we show explicitly presenting numerator but not denominator produces effect opposite direction ratio bias
+OWNX--: all results consistent our proposal group diffusion effect result people s attending weighting denominator relevant ratio more than numerator

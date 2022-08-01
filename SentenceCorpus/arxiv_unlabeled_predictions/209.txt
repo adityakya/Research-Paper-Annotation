@@ -1,0 +1,42 @@
+OWNX--: we study tracking problem namely estimating hidden state object over time unreliable noisy measurements
+MISC--: standard framework tracking problem generative framework basis solutions bayesian algorithm its approximation particle filters
+MISC--: however problem solutions they very sensitive model mismatches
+AIMX--: this paper motivated online learning we introduce new framework explanatory framework tracking
+OWNX--: we provide efficient tracking algorithm this framework
+OWNX--: we provide experimental results comparing our algorithm bayesian algorithm simulated data
+CONT--: our experiments show when there slight model mismatches our algorithm vastly outperforms bayesian algorithm
+OWNX--: we study tracking problem numerous applications ai control finance
+OWNX--: tracking we given noisy measurements over time problem estimate hidden state object
+MISC--: challenge do this reliably combining measurements multiple time steps prior knowledge about state dynamics goal tracking produce estimates close true states possible
+MISC--: most popular solutions tracking problem kalman filter citation particle filter citation their numerous extensions variations eg citation based generative framework tracking problem
+OWNX--: suppose we want track state symbol object at time symbol given only measurement vectors symbol changeto at time times symbol
+OWNX--: generative approach we think state symbol measurements symbol random variables
+OWNX--: we represent our knowledge regarding dynamics states using transition process symbol our knowledge regarding noisy relationship between states observations measurement process symbol
+MISC--: then given only observations goal tracking estimate hidden state sequence symbol
+MISC--: this done calculating likelihood each state sequence then using estimate either sequence highest posterior probability maximum posteriori map expected value state respect posterior distribution bayesian algorithm
+MISC--: practice one uses particle filters approximation bayesian algorithm
+MISC--: problem generative framework practice very difficult precisely determine distributions measurements
+MISC--: moreover bayesian algorithm very sensitive model mismatches changeto so using model slightly different model generating measurements lead large divergence between estimated states true states
+AIMX--: address this we introduce online learning based framework tracking
+OWNX--: our framework called framework we given set state sequences paths state space but instead assuming observations changeto generated generated measurement model changeto path this set path this set we think each path mechanism explaining observations
+OWNX--: we emphasize this done regardless how observations generated
+OWNX--: suppose changeto path changeto symbol symbol proposed explanation observations changeto symbol symbol changeto then we we measure quality this explanatory path using predefined loss function depends only measurements not hidden true state
+MISC--: tracking algorithm selects its own explanatory path taking weighted average best explanatory paths according past observations
+OWNX--: theoretical guarantee we provide loss explanatory path generated this online way tracking algorithm close explanatory path minimum changeto loss where loss here loss measured according loss function supplied algorithm
+MISC--: guarantees analogous competitive analysis used online learning citation important note guarantees hold uniformly any sequence observations regardless any probabilistic assumptions
+OWNX--: our next contribution provide online learning based algorithm tracking explanatory framework
+CONT--: our algorithm based nhedge citation general online learning algorithm nhedge instantiated any loss function
+MISC--: when supplied bounded loss function guaranteed produce path loss close path minimum loss set candidate paths
+OWNX--: inefficient directly apply nhedge tracking we derive sequential changeto monte carlo based monte carlo approximation nhedge we show this approximation efficient
+OWNX--: demonstrate robustness our tracking algorithm we perform simulations simple one dimensional tracking problem
+OWNX--: we evaluate tracking performance measuring average distance between states estimated algorithms true hidden states
+OWNX--: we instantiate our algorithm simple clipping loss function
+CONT--: our simulations show our algorithm consistently outperforms bayesian algorithm under high measurement noise wide range levels model mismatch
+OWNX--: we note bayesian algorithm also interpreted explanatory framework
+MISC--: particular if loss path negative log likelihood log loss under some measurement model then bayesian algorithm shown produce path log loss close path minimum log loss
+AIMX--: one may tempted think our tracking solution follows same approach however point our paper one use loss functions different log loss particular we show scenario changeto where using other loss functions produces better tracking performance than bayesian algorithm its approximations
+AIMX--: rest paper organized follows
+OWNX--: section we explain detail our explanatory model tracking
+OWNX--: section we present changeto normalhedge normalhedge our tracking algorithm based
+OWNX--: section we provide our changeto actual tracking algorithm tracking algorithm changeto section presents some experiments compare our algorithm bayesian algorithm simulated data section presents experimental comparison our algorithm bayesian algorithm changeto finally section we report our experiments face tracking finally we discuss related work section detailed bounds proofs normalhedge provided supplementary material
+AIMX--: we feel algorithm normalhedge may more general interest hence details normalhedge been submitted nips companion paper

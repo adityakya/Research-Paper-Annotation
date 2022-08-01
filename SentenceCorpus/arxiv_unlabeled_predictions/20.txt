@@ -1,0 +1,34 @@
+OWNX--: this paper we interested optimal decisions partially observable universe
+OWNX--: our approach directly approximate optimal strategic tree depending observation
+MISC--: this approximation made means parameterized probabilistic law
+MISC--: particular family hidden markov models input output considered model policy
+OWNX--: method optimizing parameters hmms proposed applied
+OWNX--: this optimization based cross entropic principle rare events simulation developed rubinstein
+MISC--: there different degrees difficulty planning control problems
+MISC--: most problems planner start given state terminate required final state
+MISC--: there several transition rules condition sequence decision
+MISC--: example robot may required move room starting state room b final state its decision could go forward turn right turn left cannot cross wall conditions over decision
+OWNX--: first degree difficulty find at least one solution planning
+MISC--: when states only partially known resulting actions not deterministic difficulty quite enhanced planner take into account various observations
+MISC--: now problem becomes much more complex when this planning required optimal near optimal
+MISC--: example find shortest trajectory moves robot room room b
+MISC--: there again different degrees difficulty depending problem deterministic not depending model future observations
+MISC--: particular case markovian problem full observation hypothesis dynamic programming principle citation could efficiently applied markov decision process theory mdp
+MISC--: this solution been extended case partial observation partially observable markov decision process pomdp but this solution generally not practicable owing huge dimension variables citation reason different methods approximating this problem been introduced
+MISC--: example reinforcement learning methods citation able learn evaluation table decision conditionnally known universe states observation short range
+OWNX--: this case range observation indeed limited time because exponential grow table learn
+MISC--: recent works citation investigating case hierarchical rl order go beyond this range limitation
+MISC--: whatever methods generally based additivity hypothesis about reward
+MISC--: another viewpoint based direct learning policy citation
+OWNX--: our approach this kind
+MISC--: particularly based cross entropy optimisation algorithm developed rubinstein citation
+AIMX--: this simulation method relies both probabilistic modelling policies this paper models bayesian networks efficient robust iterative algorithm optimizing model parameters
+OWNX--: more precisely policy will modelled conditional probabilistic law i e decisions depending observations involving memories typically hidden markov models used
+OWNX--: also implemented hierachical modelling policies means hierarchical hidden markov models next section introduces some formalism gives quick description optimal planning partially observable universes
+OWNX--: proposed near optimal planning method based direct approximation optimal decision tree
+MISC--: third section introduces family hierarchical hidden markov models being use approximating decision trees
+OWNX--: fourth section describes method optimizing parameters hhmm order approximate optimal decision tree pomdp problem
+OWNX--: cross entropy method described applied
+OWNX--: fifth section gives example application
+MISC--: comparison reinforcement learning method q learning made
+AIMX--: paper then concluded

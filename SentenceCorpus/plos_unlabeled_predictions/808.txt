@@ -1,0 +1,42 @@
+MISC--: ryanodine receptors ion channels regulate muscle contraction releasing calcium ions intracellular stores into cytoplasm
+MISC--: mutations skeletal muscle ryr give rise congenital diseases central core disease
+OWNX--: absence high resolution structures ryr limited our understanding channel function disease mechanisms at molecular level
+OWNX--: here we report structural model pore forming region ryr
+OWNX--: molecular dynamics simulations show high ion binding putative pore residues d e d d experimentally known critical channel conductance selectivity
+OWNX--: we also observe preferential localization ca over k selectivity filter ryr
+MISC--: simulations ryr d q mutant show loss preference ca selectivity filter seen experimentally
+CONT--: electrophysiological experiments central core disease mutant ryr g r show constitutively open channels conduct k but not ca
+OWNX--: our simulations g r likewise show decrease preference ca over k selectivity filter
+OWNX--: together computational experimental results shed light ion conductance selectivity ryr at atomistic level
+MISC--: muscle contraction upon excitation nerve impulse initiated rapid rise cytoplasmic ca
+MISC--: skeletal muscle rise cytoplasmic ca brought about opening ryanodine receptor releases ca intracellular stores citation citation
+CONT--: ryrs large tetrameric ion channels present membranes endoplasmic sarcoplasmic reticulum
+MISC--: they high conductance monovalent divalent cations while being selective divalent cations citation
+MISC--: ryrs important mediators excitation contraction coupling congenital mutations ryrs result neuromuscular diseases malignant hypothermia central core disease citation
+OWNX--: although ryrs physiologically important molecular basis their function poorly understood
+MISC--: ryrs unique properties their modes selectivity permeation not seen other ion channels known structures
+MISC--: next putative selectivity filter there two negatively charged residues ryr essential normal selectivity conductance citation
+CONT--: k channels analogous selectivity filter but contrast ryr only one adjacent negative residue not even conserved while other ca channels only one conserved negative residue equivalent position citation
+MISC--: selectivity filter mutations result non functional channels citation leading ccd
+MISC--: structural model pore region would reveal location function residues will useful understanding role residues channel function
+MISC--: early model ryr ion permeation postulated potential barriers within pore corresponding three putative binding sites citation
+MISC--: without any knowledge structure pore model was able quantitatively reproduce conductance data various ions
+MISC--: pnp dft model citation accurately modeled role residues d e ryr generating high ion conductances ryrs established mutagenesis citation citation
+MISC--: selectivity was attributed charge space competition ca could accommodate most charge least space compared k however since channel model used simulations relied fixed structure could not predict changes due mutations potentially alter structure channel
+MISC--: additionally there two homology models ryr pore region citation citation based kcsa bacterial k channel whose solution structure known citation
+MISC--: shah et al citation used bioinformatics approaches construct models ryr related inositol triphosphate channel
+MISC--: luminal loop their ryr model begins at g resulting selectivity filter being gvragg
+MISC--: however mutagenesis shown residues i g d e important channel conductance selectivity suggests they part conduction pathway ryr resulting predicted selectivity filter being gggigde
+MISC--: welch et al also constructed homology model cardiac ryanodine receptor using structure kcsa channel citation performed simulations identify residues important channel function
+CONT--: their simulations failed identify d important residue ion permeation contrary what been shown experimentally citation
+MISC--: furthermore cryo electron microscopy ryr revealed significant differences between pore region kcsa ryr citation
+MISC--: experimental structure determinations ryrs been mainly performed cryo em citation citation
+MISC--: studies revealed conformational changes accompany channel opening citation binding sites various effectors ryrs citation citation
+MISC--: cryo em resolution thus able provide only limited structural information regarding pore structure
+MISC--: samso et al citation manually docked kcsa pore structure into transmembrane region their cryoem map intact closed ryr
+OWNX--: furthermore they predicted presence at least transmembrane helices simple volumetric constraints
+MISC--: ludtke et al citation identified several secondary structure elements their resolution cryo em map closed ryr
+MISC--: pore forming region visualized ludtke et al consists long inner helix made up residues pore helix made up residues presumably connected long luminal loop made up residues
+MISC--: since structure derived cryo em positions pore residues side chains structure loops connecting helices unknown
+OWNX--: we build molecular model pore region ryr based their cryo em study adding luminal loop missing side chains residues forming helices pore
+OWNX--: furthermore our molecular dynamics simulations we examine interactions pore region mono divalent cations known permeate channel

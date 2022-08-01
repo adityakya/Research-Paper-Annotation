@@ -1,0 +1,51 @@
+MISC--: experiments suggested decisions experience differ decisions description
+MISC--: experience based decisions decision makers often fail maximise their payoffs
+MISC--: previous authors ascribed effect underweighting rare outcomes this deviation maximisation
+AIMX--: this paper i re examine provide further analysis effect experiment involves series simple binary choice gambles
+MISC--: current experiment decisions bear small consequences repeated hundreds times feedback consequence each decision provided immediately decision outcomes accumulated
+MISC--: participants learn about outcome distributions through sampling they not explicitly provided prior information payoff structure
+MISC--: current results suggest hot stove effect stronger than suggested previous research important payoff variability effect effect underweighting rare outcomes analysing decisions experience features gambles must learned through sampling process
+MISC--: much attention been given distinction between decisions description decisions experience
+MISC--: experience based decisions people experience difficulty estimating understanding uncertainty
+MISC--: erev barron citation hypothesised two main behavioural tendencies determine effect rare events repeated decisions experience
+MISC--: first tendency rely small samples past experiences citation
+MISC--: this tendency leads underweighting rare events most samples not likely include rare events
+MISC--: second tendency rely recent experiences
+MISC--: when information available decision makers dms limited obtained payoffs this tendency leads hot stove effect implies overweighting worst outcomes
+OWNX--: hot stove effect was first introduced mark twain his observation if cat jumped hot stove then she would never jump hot stove again
+MISC--: however cat would never jump even cold stove
+MISC--: coutu citation states hot stove effect fundamental problem learning reduces dms likelihood repeating decisions got them trouble
+MISC--: hot stove effect implies bias against risky alternative binary experience based decisions citation
+MISC--: bias product tendency reproduce actions been successful avoid recent actions led poor outcomes
+MISC--: previous research experience based decisions led mixed conclusions regard descriptive value hot stove effect
+MISC--: whereas some studies citation demonstrate its importance other studies citation suggest this effect weak
+BASE--: this paper i try clarify this picture focusing choice problems barron erev citation erev barron citation
+BASE--: authors conducted experiments three choice problems problem number number number were performed participants each involving number fold binary choice between h alternative higher expected value l alternative lower expected value
+MISC--: table number shows payoff structure each problem
+MISC--: example one selection h problem number made participants earn four points probability number number zero point otherwise
+MISC--: participants their study were told experiments included many trials their goal each trial t t number number was select click one two unmarked buttons appeared computer screen
+MISC--: each click resulted immediate payoff random draw payoff distribution associated selected button
+MISC--: thus prior information was minimalistic participants had base their decisions experience
+MISC--: participants deviated maximisation
+MISC--: table number shows maximisation rate overall proportion h choices each problem example overall proportion h choices was number number problem number
+MISC--: data considered erev barron citation tendency rely small samples appeared stronger than hot stove effect
+OWNX--: clearest support this conclusion came problem number used clicking paradigm where number participants were asked select between unlabelled buttons computer screen number each selection click led random draw payoff distribution associated different buttons number choosing among possible options participants had rely immediate feedback obtained similar situations past
+MISC--: notice problem number worst outcome number h also rare outcome probability number number
+MISC--: problem number reliance small samples hot stove effect lead contradicting predictions
+OWNX--: reliance small samples implies rare outcome number h will underweighted this prediction implies h will preferred
+MISC--: hot stove effect predicts participants learning reduces their likelihood repeating decisions they done poorly i e getting burned hot stove twain s example thus referring earning worst outcome h
+OWNX--: thus hot stove effect implies worst outcome number h will overweighted this prediction implies l will preferred
+MISC--: barron erev citation erev barron citation reported observed proportion h choices over number trials was number number
+MISC--: their results suggest tendency rely small samples stronger than hot stove effect
+MISC--: follow up studies demonstrated descriptive value assumed tendency rely small samples hot stove effect
+MISC--: example all leading models recent choice prediction competition focused repeated decisions experience described alternative quantifications assumptions citation
+MISC--: however some recent results appear question erev barron s citation conclusions regard relative magnitude two effects
+MISC--: review erev barron citation suggests clearest indications underweighting rare events come studies examine decisions experience complete feedback citation
+MISC--: this design controls hot stove effect provision complete feedback
+MISC--: different picture however shown studies focus decisions experience limited feedback citation feedback limited obtained payoff foregone payoff payoff unselected option not presented
+MISC--: studies reveal strong underweighting attractive rare events when reliance small samples hot stove effect lead same predictions but no clear indication underweighting unattractive rare events when two tendencies lead contradicting predictions
+OWNX--: this verbal summary results consistent predictions leading models choice prediction competition
+MISC--: example best baseline model explorative sampler recency erev et al citation predicts h rate only number number problem number
+AIMX--: main goal current paper clarify this picture picture hot stove effect stronger than suggested barron erev citation erev barron citation
+MISC--: order achieve this goal i implemented problem number number number
+OWNX--: note again hot stove effect implies bias toward l low variability option problem number number

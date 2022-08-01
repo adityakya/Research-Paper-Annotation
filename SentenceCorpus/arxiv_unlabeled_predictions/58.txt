@@ -1,0 +1,49 @@
+MISC--: line shortest path problem considered under various models partial monitoring
+MISC--: given weighted directed acyclic graph whose edge weights change arbitrary adversarial way decision maker choose each round game path between two distinguished vertices loss chosen path defined sum weights its composing edges small possible
+MISC--: setting generalizing multi armed bandit problem after choosing path decision maker learns only weights those edges belong chosen path
+MISC--: this problem algorithm given whose average cumulative loss symbol rounds exceeds best path matched off line entire sequence edge weights quantity proportional symbol depends only polynomially number edges graph
+MISC--: algorithm implemented linear complexity number rounds symbol number edges
+MISC--: extension so called label efficient setting also given decision maker informed about weights edges corresponding chosen path at total symbol time instances
+MISC--: another extension shown where decision maker competes against time varying path generalization problem tracking best expert
+MISC--: version multi armed bandit setting shortest path also discussed where decision maker learns only total weight chosen path but not weights individual edges path
+MISC--: applications routing packet switched networks along simulation results also presented
+MISC--: sequential decision problem decision maker forecaster performs sequence actions
+MISC--: after each action decision maker suffers some loss depending response state environment its goal minimize its cumulative loss over certain period time
+MISC--: setting considered here no probabilistic assumption made how losses corresponding different actions generated
+MISC--: particular losses may depend previous actions decision maker whose goal perform well relative set reference forecasters so called experts any possible behavior environment
+MISC--: more precisely aim decision maker achieve asymptotically same average per round loss best expert
+MISC--: research into this problem started s see example blackwell citation hannan citation some basic results gained new life s following work vovk citation littlestone warmuth citation cesa bianchi et al symbol citation
+MISC--: results show any bounded loss function if decision maker access past losses all experts then possible construct line algorithms perform any possible behavior environment almost well best symbol experts
+MISC--: more precisely per round cumulative loss algorithms at most large best expert plus quantity proportional symbol any bounded loss function where symbol number rounds decision game
+MISC--: logarithmic dependence number experts makes possible obtain meaningful bounds even if pool experts very large
+MISC--: certain situations decision maker only limited knowledge about losses all possible actions
+MISC--: example often natural assume decision maker gets know only loss corresponding action made no information about loss would suffered had made different decision
+MISC--: this setup referred multi armed bandit problem was considered adversarial setting auer et al symbol citation who gave algorithm whose normalized regret difference algorithm s average loss best expert upper bounded quantity proportional symbol
+MISC--: note compared full information case described above where losses all possible actions revealed decision maker there extra symbol factor performance bound seriously limits usefulness bound if number experts large
+MISC--: another interesting example limited information case so called label efficient decision problem see helmbold panizza citation too costly observe state environment so decision maker query losses all possible actions only limited number times
+MISC--: recent result cesa bianchi lugosi stoltz citation shows this case if decision maker query losses symbol times during period length symbol then achieve symbol average excess loss relative best expert
+MISC--: many applications set experts certain structure may exploited construct efficient line decision algorithms
+MISC--: construction algorithms been great interest computational learning theory
+MISC--: partial list works dealing this problem includes herbster warmuth citation vovk citation bousquet warmuth citation helmbold schapire citation takimoto warmuth citation kalai vempala citation gy orgy at al symbol citation
+MISC--: more complete survey we refer cesa bianchi lugosi citation
+MISC--: this paper we study line shortest path problem representative example structured expert classes received attention literature its many applications including among others routing communication networks see eg takimoto warmuth citation awerbuch et al citation gy orgy ottucs ak citation adaptive quantizer design zero delay lossy source coding see gy orgy et al symbol citation
+MISC--: this problem weighted directed acyclic graph given whose edge weights change arbitrary manner decision maker pick each round path between two given vertices weight this path sum weights its composing edges small possible
+MISC--: efficient solutions time space complexity proportional number edges rather than number paths latter typically being exponential number edges been given full information case where each round weights all edges revealed after path been chosen see example mohri citation takimoto warmuth citation kalai vempala citation gy orgy et al symbol citation
+MISC--: bandit setting only weights edges just sum weights edges composing chosen path revealed decision maker
+MISC--: if one applies general bandit algorithm auer et al citation resulting bound will too large practical use because its square root type dependence number paths symbol
+MISC--: other hand using special graph structure problem awerbuch kleinberg citation mcmahan blum citation managed get rid exponential dependence number edges performance bound
+CONT--: they achieved this extending exponentially weighted average predictor follow perturbed leader algorithm hannan citation generalization multi armed bandit setting shortest paths when only sum weights edges available algorithm
+MISC--: however dependence bounds obtained citation citation number rounds symbol significantly worse than symbol bound auer et al citation
+MISC--: awerbuch kleinberg citation consider model non oblivious adversaries shortest path i e losses assigned edges depend previous actions forecaster prove symbol bound expected per round regret
+MISC--: mcmahan blum citation give simpler algorithm than citation however obtain bound order symbol expected regret
+BASE--: this paper we provide extension bandit algorithm auer et al citation unifying advantages above approaches performance bound polynomial number edges converges zero at right symbol rate number rounds increases
+OWNX--: we achieve this bound model assumes losses all edges path chosen forecaster available separately after making decision
+MISC--: we also discuss case considered citation citation only total loss i e sum losses chosen path known decision maker
+OWNX--: we exhibit simple algorithm achieves symbol per round regret high probability against non oblivious adversary
+MISC--: this case remains open problem find algorithm whose cumulative loss polynomial number edges graph decreases symbol number rounds
+OWNX--: section we formally define line shortest path problem extended multi armed bandit setting section
+OWNX--: our new algorithm shortest path problem bandit setting given section together its performance analysis
+OWNX--: algorithm extended solve shortest path problem combined label efficient multi armed bandit setting section
+OWNX--: another extension when algorithm competes against time varying path studied section
+OWNX--: algorithm restricted multi armed bandit setting when only sums losses edges available given section
+OWNX--: simulation results presented section

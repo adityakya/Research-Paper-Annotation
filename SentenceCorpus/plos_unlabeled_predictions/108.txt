@@ -1,0 +1,53 @@
+MISC--: angiogenesis plays crucial role variety physiological pathological conditions including cancer cardiovascular disease wound healing
+MISC--: vascular endothelial growth factor critical regulator angiogenesis
+OWNX--: multiple vegf receptors expressed endothelial cells including signaling receptor tyrosine kinases nonsignaling co receptor neuropilin
+OWNX--: neuropilin binds only isoform vegf responsible pathological angiogenesis thus potential target inhibiting vegf signaling
+OWNX--: using first molecularly detailed computational model vegf its receptors we shown previously vegfr neuropilin interactions explain observed differential effects vegf isoforms vegf signaling vitro demonstrated potent vegf inhibition antibody neuropilin does not block ligand binding but blocks subsequent receptor coupling
+AIMX--: present study we extend computational model simulation vivo vegf transport binding predict vivo efficacy several neuropilin targeted therapies inhibiting vegf signaling blocking neuropilin expression blocking vegf binding neuropilin blocking neuropilin vegfr coupling
+MISC--: model predicts blockade neuropilin vegfr coupling significantly more effective than other approaches decreasing vegf vegfr signaling
+MISC--: addition tumor types different receptor expression levels respond differently each treatments
+MISC--: designing human therapeutics mechanism attacking target plays significant role outcome strategies tested here drugs similar properties neuropilin antibody predicted most effective
+OWNX--: tumor type microenvironment target tissue also significant determining therapeutic efficacy each treatments studied
+MISC--: angiogenesis growth new blood microvessels preexisting microvasculature critical physiological process growth developing organs during wound healing ovulation pregnancy
+MISC--: coronary peripheral ischemia may relieved inducing angiogenesis citation citation while diseases hypervascularization cancer diabetic retinopathy targets anti angiogenic drugs citation citation
+MISC--: neuronal expression angiogenic receptors citation citation suggests this work may also relevant development nervous system
+MISC--: our goal propose effective targeted therapies using anatomically accurate molecularly detailed computational models growth factors receptors involved angiogenesis
+AIMX--: this study we predict three methods targeting same molecule result distinct therapeutic outcomes one methods more effective than others
+OWNX--: thus identification therapeutic target must followed rational design targeting molecule obtain characteristics maximize therapeutic potential
+OWNX--: addition microenvironment drug act example expression level receptors tissue critical factor impact therapy
+MISC--: vascular endothelial growth factor family secreted glycoproteins critical regulators angiogenesis citation citation
+MISC--: vitro vegf increases endothelial cell survival proliferation migration
+MISC--: vivo increases vascular permeability activates endothelial cells acts chemoattractant nascent vessel sprouts
+MISC--: multiple splice isoforms vegf exist two most abundant human vegf vegf
+MISC--: both isoforms bind vegf receptor tyrosine kinases induce signals
+MISC--: vegf also interacts nonsignaling neuropilin co receptors proteoglycans extracellular matrix citation citation
+MISC--: binding sites vegf vegfr neuropilin nonoverlapping so vegf may bind both simultaneously citation
+OWNX--: there thus two parallel pathways vegf bind its signaling receptor binding directly vegfr binding neuropilin presents vegf vegfr
+MISC--: vegf only form vegfr complexes directly citation
+OWNX--: vegf neuropilin interaction thus particular value therapeutic target because vegf isoform vegf been identified inducing pathological angiogenesis citation citation aberrant angiogenic signaling may targeted while allowing normal levels physiological vegf signaling continue
+MISC--: previous work citation citation we developed computational models vegf interactions endothelial cell receptors vitro incorporated previously published experimental data estimate kinetic rate vegfr neuropilin coupling vegf
+OWNX--: we showed vegfr neuropilin coupling sufficient account observed differential effects vegf isoforms multiple cell types our model reproduces distinct vegf binding signaling effects each cell types citation citation citation
+OWNX--: addition we used model distinguish between alternate hypotheses molecular mechanisms action demonstrated neuropilin antibody under investigation acts blocking vegfr neuropilin coupling not blocking vegf neuropilin binding
+OWNX--: here we extend validated model molecular interactions vegf family its receptors predict vivo behavior system including ecm basement membranes well multiple cell types geometrical parameters characteristic tissue
+MISC--: three methods targeting vegf neuropilin interaction modeled here
+MISC--: first blockade neuropilin expression may induced use sirna other methods prevent synthesis protein cells
+MISC--: second protein occupies vegf binding site neuropilin compete vegf binding receptor
+MISC--: example fragment placental growth factor isoform plgf
+MISC--: full length plgf binds neuropilin vegfr citation
+MISC--: fragment denoted plgf here contains only neuropilin binding site does not bind vegfr
+MISC--: this protein been used block vegf binding neuropilin vitro citation citation
+MISC--: alternative would neuropilin binding fragment vegf itself citation citation
+OWNX--: third we may block interaction between neuropilins vegfrs preventing presentation vegf signaling receptor but permitting neuropilin sequester isoform
+BASE--: this may done using neuropilin antibody citation citation we previously characterized permitting vegf binding neuropilin but blocking subsequent vegfr coupling citation
+MISC--: each three strategies been demonstrated inhibit vegf signaling vitro assays citation citation citation citation here we predict their vivo efficacy
+OWNX--: this first computational model our knowledge include interactions vegf family their receptors explicitly biophysical detail
+OWNX--: model includes kinetics all ligand receptor interactions allows us examine both short term long term behavior system
+CONT--: all parameters model been obtained previously published experimental data
+OWNX--: analysis characteristic parameters shows kinetics vegf interactions slower than diffusion process so diffusion assumed fast we construct compartmental model parenchymal cells secreting vegf into interstitial space vegf binding receptors endothelial cell surface
+MISC--: geometrical parameters tissue under investigation here also incorporated into model interstitial space tumor cell volume surface area microvessel volume surface area
+MISC--: changes parameters would result changes kinetic parameters concentrations model
+MISC--: results presented here therefore tissue specific but model may applied other tissues
+OWNX--: vegfr primary signaling receptor vegf we first analyze results model tissue endothelial cells express vegfr neuropilin but not vegfr effect vegfr considered later
+MISC--: initially system steady state vegf secreted parenchymal cells internalized endothelial cells resulting flux through interstitial space ecm
+MISC--: one three treatments initiated at time zero time course vegf binding followed hours
+MISC--: vegf vegfr vegf vegfr binding taken surrogate vegf signaling

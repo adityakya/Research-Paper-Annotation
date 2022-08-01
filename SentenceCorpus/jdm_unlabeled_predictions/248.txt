@@ -1,0 +1,75 @@
+MISC--: people tend overestimate emotional responses future events
+MISC--: this study examined whether affective forecasting errors occur feelings regret measured self report subsequent decision making
+OWNX--: some participants played pricing game lost narrow wide margin while others were asked imagine losing margins
+MISC--: participants who experienced narrow loss reported more regret than those who imagined narrow loss
+MISC--: furthermore those experiencing narrow loss behaved more cautiously subsequent gambling task
+MISC--: thus study provides self report behavioral evidence reversal affective forecasting phenomenon feelings regret
+MISC--: people want happy when confronted decision they d rather choose path joy than path misery
+MISC--: if only were simple
+MISC--: one problem paths rarely labeled instead people imagine feelings outcome their decisions would trigger
+MISC--: although people relatively skilled at predicting how certain outcome will make them feel they less skilled at predicting intensity duration those emotions
+MISC--: you guess getting tenure will make you happy but elation will dissipate faster than you would imagine
+MISC--: this asymmetry between anticipating experiencing emotions been studied laboratory well natural settings under banner affective forecasting citation
+MISC--: typical laboratory study affective forecasting participants first report their general happiness next engage some experimental procedure uncertain outcome
+OWNX--: finally some participants asked predict how happy they would feel after receiving particular outcome while others told outcome first then asked report happiness they experience
+OWNX--: this allows researchers measure extent anticipated experienced feelings depart baseline level happiness reported at beginning session
+OWNX--: typical result participants overestimate duration their forecasted emotions leads them overestimate how intense their feelings will some time after outcome
+MISC--: example when asked imagine how they would feel number minutes after losing money gambling task people predict more unhappiness than unhappiness they experience number minutes after actually losing citation
+MISC--: people also overestimate intensity their initial reaction citation
+MISC--: considerable evidence accumulated over last number years support basic finding people overestimate impact future events will their emotional response citation
+MISC--: most studies equated emotional response changes valence
+MISC--: example some studies asked participants report their happiness scale ranging not happy very happy
+MISC--: other studies asked participants report intensity several different emotions those reports were later converted into composites scores positive negative valence citation
+MISC--: this emphasis pleasant unpleasant dimension proved useful study affective forecasting
+CONT--: however this approach also begs question whether forecast bias extends beyond pleasant unpleasant dimension include biases when predicting intensity specific emotions
+OWNX--: we know people relatively skilled at predicting specific emotions e g anger fear disgust etc
+MISC--: they will experience different situations citation
+MISC--: we know less about how accurate people at predicting intensity duration those specific emotions
+MISC--: few studies started examine this question particularly feeling regret
+MISC--: current study another step direction
+OWNX--: regret defined negative cognitively based emotion we experience when realizing imagining our present situation would been better had we decided differently citation
+MISC--: thus regret unique among emotions its reliance counterfactual thinking if i had chosen differently then things would turned out better
+MISC--: when counterfactuals readily available regret seems grow more intense
+MISC--: example people s intuition poor choices most regretful when they unusual choices those cases conventional approach readily available counterfactual
+MISC--: similar reason people believe they will experience more regret when desired outcome narrowly missed than when missed wide margin
+MISC--: presumably loss narrow margin highlights unfulfilled success citation
+MISC--: consequence people believe missing flight number minutes should cause more regret than missing hour
+MISC--: psychologists shared same intuition over number years citation
+MISC--: intuition narrow margins loss highly effective at triggering regret been challenged recent study affective forecasting citation
+MISC--: naturalistic setting people who missed subway narrow margin reported no more regret than those who missed wide margin
+MISC--: this result was stark contrast predictions people made when interviewed before train arrived
+MISC--: finding was replicated experimental setting
+OWNX--: this new set participants was recruited play game inspired tv show price right
+OWNX--: before starting game participants were asked report their emotional state at time including report their level regret disappointment
+OWNX--: next people were asked rank several household products price
+OWNX--: participants had create two arrangements exemplified their two best guesses then proceeded choose best one opportunity win prize
+OWNX--: some participants were asked predict how much regret they would feel if they were find out correct arrangement was one they did not choose narrow margin loss
+OWNX--: this condition aimed experimentally recreate situation participant asked imagine having narrowly missed desired outcome e g catching subway
+OWNX--: participants predictions this condition were compared actual feelings regret reported participants who actually experienced narrow margin loss
+MISC--: other participants were asked predict how much regret they would feel if they found out neither two arrangements was correct wide margin loss
+OWNX--: hypothesized authors study participants predicted they would feel more regret after losing narrow margin but reality they did not
+MISC--: other words there was asymmetry between amount regret anticipated amount regret experienced
+OWNX--: results were consistent theory affective forecasting received substantial empirical support over years citation
+MISC--: at same time some aspects experimental design cast doubt generalizability findings
+MISC--: particular participants gilbert et al s citation study were offered consolation prize after being told they had lost
+MISC--: this small prize may helped participants re conceptualize loss minor win thus reducing amount regret experienced
+MISC--: fact previous research shows people recover most quickly negative events when easier them rationalize outcome their favor citation
+MISC--: thus absence consolation prize might lead very different pattern results one experience regret stronger than anticipated
+OWNX--: our study tested this hypothesis
+MISC--: another limitation number study gilbert et al its reliance self report measure
+CONT--: while this approach been validated basic emotions happiness its use assessing more complex emotions regret matter debate
+MISC--: asking people directly report how much regret they feeling assumes people easily associate their feelings verbal label
+MISC--: although some researchers claim this indeed possible citation others argue direct questioning fails discriminate regret other negative emotions disappointment citation
+MISC--: furthermore self report measures subject possible carry over effects when same emotion probed twice often case studies affective forecasting
+MISC--: one way overcome limitations self report measures explore influence regret future behavior
+MISC--: some researchers argued emotions general regret particular exist sake guiding behaviors citation
+MISC--: many choices people make aim minimize experience regret anticipation regret serves deter risk taking citation
+OWNX--: merely imagining regretful consequences our potential actions sometimes enough make us decide differently citation
+MISC--: thus measuring risky behavior after narrow loss should possible us assess whether experiencing imagining narrow loss more effective triggering emotion
+OWNX--: we explored this possibility variant gambling task first introduced slovic citation our participants completed after participating price right task
+MISC--: participants viewed ten cards face down computer screen instructions nine cards were good i e selecting any them would earn participant dollar per card but one cards was disaster card i e choosing would cause loss every dollar collected up point end game
+MISC--: following instructions participant reported how many cards they would like turn
+MISC--: after turning initial number cards participants made second more important decision
+MISC--: they had decide whether stop walk away money continue pick one more card chance win another dollar
+OWNX--: thus opportunity winning relatively small prize was pitted against risk losing larger amount i e regret prone situation
+AIMX--: sum using self report behavioral measures regret we aimed show absence consolation prize experience regret larger than anticipated

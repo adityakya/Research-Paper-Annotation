@@ -1,0 +1,74 @@
+MISC--: sequential decision theory formally solves problem rational agents uncertain worlds if true environmental prior probability distribution known
+MISC--: solomonoff s theory universal induction formally solves problem sequence prediction unknown prior distribution
+OWNX--: we combine both ideas get parameter free theory universal artificial intelligence
+OWNX--: we give strong arguments resulting aixi model most intelligent unbiased agent possible
+AIMX--: we outline how aixi model formally solve number problem classes including sequence prediction strategic games function minimization reinforcement supervised learning
+MISC--: major drawback aixi model uncomputable
+OWNX--: overcome this problem we construct modified algorithm aixi symbol still effectively more intelligent than any other time symbol length symbol bounded agent
+MISC--: computation time aixi symbol order symbol
+MISC--: discussion includes formal definitions intelligence order relations horizon problem relations aixi theory other ai approaches
+MISC--: this chapter article gives introduction mathematical theory intelligence
+OWNX--: we present aixi model parameter free optimal reinforcement learning agent embedded arbitrary unknown environment
+MISC--: science artificial intelligence ai may defined construction intelligent systems their analysis
+MISC--: natural definition system anything input output stream
+MISC--: intelligence more complicated
+MISC--: many faces like creativity solving problems pattern recognition classification learning induction deduction building analogies optimization surviving environment language processing knowledge many more
+CONT--: formal definition incorporating every aspect intelligence however seems difficult
+MISC--: most if not all known facets intelligence formulated goal driven more precisely maximizing some utility function
+MISC--: therefore sufficient study goal driven ai eg biological goal animals humans survive spread
+MISC--: goal ai systems should useful humans
+OWNX--: problem except special cases we know neither utility function nor environment agent will operate advance
+MISC--: mathematical theory coined aixi supposed solve problems
+MISC--: assume availability unlimited computational resources
+OWNX--: first important observation this does not make ai problem trivial
+MISC--: playing chess optimally solving np complete problems become trivial but driving car surviving nature don t
+OWNX--: this because challenge itself well define latter problems not mention presenting algorithm
+MISC--: other words ai problem not yet been well defined
+MISC--: one may view aixi suggestion mathematical definition ai
+MISC--: aixi universal theory sequential decision making akin solomonoff s celebrated universal theory induction
+MISC--: solomonoff derived optimal way predicting future data given previous perceptions provided data sampled computable probability distribution
+OWNX--: aixi extends this approach optimal decision making agent embedded unknown environment
+MISC--: main idea replace unknown environmental distribution symbol bellman equations suitably generalized universal solomonoff distribution symbol
+MISC--: state space space complete histories
+MISC--: aixi universal theory without adjustable parameters making no assumptions about environment except sampled computable distribution
+MISC--: algorithmic complexity perspective aixi model generalizes optimal passive universal induction case active agents
+MISC--: decision theoretic perspective aixi suggestion new implicit learning algorithm may overcome all except computational problems previous reinforcement learning algorithms
+MISC--: there strong arguments aixi most intelligent unbiased agent possible
+AIMX--: we outline number problem classes including sequence prediction strategic games function minimization reinforcement supervised learning how aixi model formally solve them
+MISC--: major drawback aixi model incomputable
+OWNX--: overcome this problem we construct modified algorithm aixi symbol still effectively more intelligent than any other time symbol length symbol bounded agent
+MISC--: computation time aixi symbol order symbol
+MISC--: other discussed topics formal definition intelligence order relation horizon problem relations aixi theory other ai approaches
+MISC--: article meant gentle introduction discussion aixi model
+MISC--: mathematically rigorous treatment many subtleties proofs see references author s works annotated bibliography section at end this chapterarticle fi particular book citation
+MISC--: this section also provides references introductory textbooks original publications algorithmic information theory sequential decision theory
+MISC--: presents theory sequential decisions very general form called ai symbol model actions perceptions may depend arbitrary past events
+OWNX--: we clarify connection bellman equations discuss minor parameters including size i o spaces lifetime agent their universal choice we mind
+OWNX--: optimality ai symbol obvious construction
+OWNX--: how sense induction possible at all been subject long philosophical controversies
+MISC--: highlights epicurus principle multiple explanations occam s razor probability theory
+MISC--: solomonoff elegantly unified all aspects into one formal theory inductive inference based universal probability distribution symbol closely related kolmogorov complexity symbol length shortest program computing symbol
+MISC--: rapid convergence symbol unknown true environmental distribution symbol tight loss bounds arbitrary bounded loss functions finite alphabet shown
+MISC--: pareto optimality symbol sense there no other predictor performs better equal all environments strictly better at least one also shown
+MISC--: view results fair say problem sequence prediction possesses universally optimal solution
+MISC--: active case reinforcement learning algorithms usually used if symbol unknown
+MISC--: they succeed if state space either small effectively been made small generalization techniques
+MISC--: algorithms work only restricted e g markovian domains problems optimally trading off exploration versus exploitation nonoptimal learning rate prone diverge otherwise ad hoc
+OWNX--: formal solution proposed here generalize solomonoff s universal prior symbol include action conditions replace symbol symbol ai symbol model resulting ai symbol aixi model we claim universally optimal
+OWNX--: we investigate what we expect universally optimal agent clarify meanings universal optimal etc
+MISC--: other discussed topics formal definitions intelligence order relation horizon problem pareto optimality aixi
+OWNX--: we show how number ai problem classes fit into general aixi model
+MISC--: they include sequence prediction strategic games function minimization supervised learning
+OWNX--: we first formulate each problem class its natural way known symbol then construct formulation within ai symbol model show their equivalence
+OWNX--: we then consider consequences replacing symbol symbol
+OWNX--: main goal understand sense problems solved aixi
+MISC--: major drawback aixi incomputable more precisely only asymptotically computable makes implementation impossible
+CONT--: overcome this problem we construct modified model aixi symbol still superior any other time symbol length symbol bounded algorithm
+MISC--: computation time aixi symbol order symbol
+OWNX--: solution requires implementation first order logic definition universal turing machine within proof theory system
+OWNX--: finally we discuss remark some otherwise unmentioned topics general interest
+OWNX--: we remark various topics including concurrent actions perceptions choice i o spaces treatment encrypted information peculiarities mortal embodies agents
+OWNX--: we continue outlook further research including optimality down scaling implementation approximation elegance extra knowledge training aixi symbol
+OWNX--: we also include some personal remarks non computable physics number wisdom symbol consciousness
+MISC--: annotated bibliography concludes this chapter
+MISC--: annotated bibliography other references conclude this work

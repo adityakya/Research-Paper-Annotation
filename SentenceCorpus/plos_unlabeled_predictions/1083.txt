@@ -1,0 +1,26 @@
+OWNX--: one most critical problems we face study biological systems building accurate statistical descriptions them
+CONT--: this problem been particularly challenging because biological systems typically contain large numbers interacting elements precludes use standard brute force approaches
+MISC--: recently though several groups reported there may alternate strategy
+MISC--: reports show reliable statistical models built without knowledge all interactions system instead pairwise interactions suffice
+MISC--: findings however based analysis small subsystems
+MISC--: here we ask whether observations will generalize systems realistic size whether pairwise models will provide reliable descriptions true biological systems
+OWNX--: our results show most cases they will not
+MISC--: reason there crossover predictive power pairwise models if size subsystem below crossover point then results no predictive power large systems
+MISC--: if size above crossover point then results may predictive power
+MISC--: this work thus provides general framework determining extent pairwise models used predict behavior large biological systems
+MISC--: applied neural data size most systems studied so far below crossover point
+MISC--: many fundamental questions biology naturally treated probabilistic setting
+MISC--: instance deciphering neural code requires knowledge probability observing patterns activity response stimuli citation determining features protein important correct folding requires knowledge probability particular sequence amino acids folds naturally citation citation determining patterns foraging animals their social individual behavior requires knowledge distribution food species over both space time citation citation
+MISC--: constructing probability distributions however hard
+CONT--: there several reasons this biological systems composed large numbers elements so exhibit huge number configurations fact exponentially large number ii elements typically interact each other making impossible view system collection independent entities iii because technological considerations descriptions biological systems built very little data
+OWNX--: example current technology neuroscience we record simultaneously only about neurons out approximately billion human brain
+OWNX--: so not only we faced problem estimating probability distributions high dimensional spaces we must do this based small fraction neurons network
+MISC--: despite apparent difficulties recent work suggested situation may less bleak than seems accurate statistical description systems achieved without having examine all possible configurations citation citation citation citation
+MISC--: one merely measure probability distribution over pairs elements use those build full distribution
+MISC--: pairwise models potentially offer fundamental simplification number pairs quadratic number elements not exponential
+MISC--: however support efficacy pairwise models necessarily come relatively small subsystems small enough true probability distribution could measured experimentally citation citation citation
+MISC--: while studies provided key first step critical question remains will results analysis small subsystems extrapolate large ones
+MISC--: if pairwise model predicts probability distribution subset elements system will also predict probability distribution whole system
+MISC--: here we find biologically relevant class systems this question answered quantitatively importantly generically independent many details biological system under consideration
+MISC--: answer generally no
+AIMX--: this paper we explain both analytically simulations why this case

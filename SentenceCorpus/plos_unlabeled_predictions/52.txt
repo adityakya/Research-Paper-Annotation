@@ -1,0 +1,35 @@
+MISC--: amplification deletion loss heterozygosity genomic dna hallmarks cancer
+MISC--: recent years variety studies emerged measuring total chromosomal copy number at increasingly high resolution
+MISC--: similarly loss heterozygosity events been finely mapped using high throughput genotyping technologies
+OWNX--: we developed probe level allele specific quantitation procedure extracts both copy number allelotype information single nucleotide polymorphism array data arrive at allele specific copy number across genome
+OWNX--: our approach applies expectation maximization algorithm model derived novel classification snp array probes
+OWNX--: this method first our knowledge able determine generalized genotype aberrant samples at each snp site infer copy number each parental chromosome across genome
+OWNX--: this method we able determine not just where amplifications deletions occur but also haplotype region being amplified deleted
+CONT--: merit our model general approach demonstrated very precise genotyping normal samples our allele specific copy number inferences validated using pcr experiments
+OWNX--: applying our method collection lung cancer samples we able conclude amplification essentially monoallelic would expected under mechanisms currently believed responsible gene amplification
+MISC--: this suggests specific parental chromosome may targeted amplification whether because germ line somatic variation
+AIMX--: r software package containing methods described this paper freely available at link
+MISC--: genomic alterations believed major underlying cause cancer citation citation
+MISC--: alterations include various types mutations translocations copy number alterations
+MISC--: last category involves chromosomal regions either more than two copies one copy zero copies cell
+MISC--: genes contained amplified regions natural candidates cancer causing oncogenes citation while those regions deletion potential tumor suppressor genes citation
+OWNX--: thus localization alterations cell lines tumor samples central aim cancer research
+MISC--: recent years variety array based technologies been developed identify classify genomic alterations citation citation
+MISC--: studies using technologies typically analyze raw data produce estimates total copy number across genome citation citation
+MISC--: however studies ignore individual contributions copy number each chromosome
+MISC--: thus example if region containing heterozygous locus undergoes amplification question allele being amplified generally remains unanswered
+MISC--: amplified allele interest because may been selected amplification because its oncogenic effect
+MISC--: data array based platforms also been employed identify loss heterozygosity events citation citation
+MISC--: studies loh typically inferred occurred where there allelic imbalance tumor sample at same site at matched normal sample heterozygous
+MISC--: complicating issue imbalance may due amplification one alleles rather than deletion other thus loh may not fact present
+MISC--: copy number analysis loh detection both improved combining copy number measurement allelotype data
+OWNX--: this paper we present probe level allele specific quantitation procedure infers allele specific copy numbers k single nucleotide polymorphism array citation data
+OWNX--: our algorithm yields highly accurate genotypes at over snp sites
+OWNX--: we also able infer parent specific copy numbers across genome making use fact pscn locally constant each chromosome
+OWNX--: our results also allow distinction made between true loh apparent loh due amplification portion only one chromosomes
+OWNX--: pscns lung cancer samples we initially analyzed reveal almost exclusively monoallelic amplification genomic dna result we subsequently confirm other lung cell lines tumors
+MISC--: monoallelic amplification previously been noted literature single gene level citation citation wherein mutant forms known oncogenes amplified while their wild type counterparts left unaltered
+OWNX--: our knowledge this phenomenon not previously been described genome wide scale though proposed mechanisms amplification unequal sister chromatid exchange citation would suggest monoallelic amplification expected result
+OWNX--: addition our ascns identify snp haplotypes being amplified
+MISC--: haplotypes could conceivably serve markers deleterious germ line mutations via linkage disequilibrium
+MISC--: indeed presence monoallelic amplification makes linkage studies statistically tractable

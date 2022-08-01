@@ -1,0 +1,49 @@
+MISC--: paradigm biological membranes recently gone through major update
+MISC--: instead being fluid homogeneous recent studies suggest membranes characterized transient domains varying fluidity
+MISC--: particular number experimental studies revealed existence highly ordered lateral domains rich sphingomyelin cholesterol
+MISC--: domains called functional lipid rafts been suggested take part variety dynamic cellular processes membrane trafficking signal transduction regulation activity membrane proteins
+CONT--: however despite proposed importance domains their properties even precise nature lipid phases remained open issues mainly because associated short time length scales posed major challenge experiments
+OWNX--: this work we employ extensive atom scale simulations elucidate properties ternary raft mixtures chol palmitoylsphingomyelin palmitoyloleoylphosphatidylcholine
+OWNX--: we simulate two bilayers lipids ns liquid ordered phase one system same size liquid disordered phase
+MISC--: studies provide evidence presence psm chol raft like membranes leads strongly packed rigid bilayers
+OWNX--: we also find simulated raft bilayers characterized nanoscale lateral heterogeneity though slow lateral diffusion renders interpretation observed lateral heterogeneity more difficult
+MISC--: findings reveal aspects role favored lipid lipid interactions within rafts clarify prominent role chol altering properties membrane locally its neighborhood
+OWNX--: also we show presence psm chol rafts leads intriguing lateral pressure profiles distinctly different corresponding profiles nonraft like membranes
+MISC--: results propose functioning certain classes membrane proteins regulated changes lateral pressure profile altered change lipid content
+MISC--: understanding lipid membrane structures their role cellular functions developed significantly since introduction classical fluid mosaic model singer nicolson citation
+OWNX--: fluid mosaic model predicted cellular membranes fluid characterized random distribution molecular components membrane resulting lateral rotational freedom
+MISC--: more recent picture considerably more elaborate however
+MISC--: large number experimental results converge toward idea lateral domains enriched sphingomyelin cholesterol exist biological membranes
+MISC--: nanosized domains called functional lipid rafts been suggested take part various dynamic cellular processes membrane trafficking signal transduction regulation activity membrane proteins citation citation
+MISC--: existence stable lipid rafts biological membranes under intense scrutiny their existence actually under debate since lipid rafts if they do exist probably too small resolved techniques fluorescence microscopy citation
+MISC--: direct evidence rafts vivo mainly based monitoring motions membrane proteins citation differential partitioning fluorescent probes membrane environments citation
+MISC--: however difficult perform experiments using living cells complicates measurements physical quantities rafts exact lipid composition characteristic size lifetime citation citation
+MISC--: model membranes coexistence domains liquid ordered liquid disordered phase widely accepted citation citation
+MISC--: example l d phase may formed unsaturated phosphatidylcholine while formation l o phase promoted mixture sm chol
+MISC--: rafts current understanding lipid rafts biological membranes suggests granular structure nanometer scale domains various compositions citation citation citation rather than large scale phase separation
+MISC--: exact nature underlying interactions lead lipid immiscibilities membranes under debate citation citation
+MISC--: chol particularly important been shown increase conformational order acyl chains reduce bilayer area hence significantly increasing packing density lipids citation citation
+MISC--: chol particularly effective reducing void space within acyl chain region lipids citation related suppressed area compressibility increased bending rigidity membrane increasing chol concentrations
+MISC--: however lateral diffusion rates not expected slow down more than factor when l d phase compared chol induced l o phase citation citation
+MISC--: also chol recently been reported significantly alter lateral pressure profile membranes citation
+MISC--: this important changes lateral pressure profiles been suggested related changes membrane protein structure activity citation
+MISC--: considering smallest estimates sizes rafts fall range nanometers citation citation they make accessible subject computational studies
+MISC--: though spite considerable importance rafts somewhat surprising only few atom scale simulations dealt ternary mixtures chol sm pc citation citation concentrating mainly small scale structural properties local interactions between lipids
+MISC--: particular there no previous atom level computational studies rafts aiming characterize nature their structural dynamical features
+MISC--: example nanometer scale structure within raft domains its interplay chol induced effects not understood
+MISC--: further resulting large scale properties membrane elasticity ternary raft like lipid mixtures not understood either
+MISC--: finally perhaps most importantly lateral pressure profiles associated rafts completely unknown
+MISC--: concept lateral pressure profile across lipid membrane exceptionally significant since describes pressure exerted molecules embedded membrane
+MISC--: cantor proposed incorporation molecules into membrane changes lipid content would alter lateral pressure profile across membrane hence changes pressure profile would induce changes membrane protein structure citation citation
+CONT--: experimental studies this issue remarkably difficult however currently there only one study employed fluorescent probes gauge overall shape lateral pressure profile citation
+MISC--: evidently detailed atomistic simulations called
+MISC--: state art extent simulations conducted this work nm lateral dimensions ns time enables reliable quantitative analysis properties raft like membranes not accomplished before
+OWNX--: we employ large scale atom level simulations three mixtures palmitoyloleoylphosphatidylcholine psm chol
+OWNX--: molar fractions popc psm chol systems we call s s b s c respectively
+MISC--: based recent experimental phase diagram citation mixtures expected display coexistent l o l d phase domains single l d phase
+AIMX--: here we illustrate distinct nature raft like domains three parts
+MISC--: first we consider elastic thermodynamic dynamic properties rafts turn out very different those nonraft like membranes
+OWNX--: second we provide evidence presence psm chol raft like membranes leads strongly packed rigid bilayers characterized significant nanoscale lateral heterogeneity within raft domains
+MISC--: findings express prominent role favored lipid lipid interactions within rafts highlight significant role chol promoting formation rafts
+OWNX--: third we provide compelling evidence lateral pressure profiles altered change lipid content
+AIMX--: particular we show how presence psm chol leads intriguing lateral pressure profiles distinctly different corresponding lateral pressure profiles nonraft like membranes proposing lipid membranes may regulate functioning certain classes membrane proteins mechanosensitive channels through changes lipid composition hence lateral pressure profile

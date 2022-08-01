@@ -1,0 +1,32 @@
+MISC--: feature markov decision processes symbol mdps citation well suited learning agents general environments
+OWNX--: nevertheless unstructured symbol mdps limited relatively simple environments
+MISC--: structured mdps like dynamic bayesian networks dbns used large scale real world problems
+MISC--: this article i extend symbol mdp symbol dbn
+MISC--: primary contribution derive cost criterion allows automatically extract most relevant features environment leading best dbn representation
+OWNX--: i discuss all building blocks required complete general learning algorithm
+MISC--: keywords reinforcement learning dynamic bayesian network structure learning feature learning global vs local reward explore exploit
+MISC--: agent environment setup agent interacts environment very general prevalent framework studying intelligent learning systems citation
+MISC--: cycles symbol environment provides regular observation symbol e g camera image agent then agent chooses action symbol e g limb movement finally environment provides real valued reward symbol agent
+MISC--: reward may very scarce eg just winning losing chess game at all other times citation
+MISC--: then next cycle symbol starts
+OWNX--: agent s objective maximize his reward
+MISC--: example sequence prediction concerned environments do not react agents actions e g weather forecasting action citation planning deals case where environmental function known citation classification regression conditionally independent observations citation markov decision processes mdps assume symbol symbol only depend symbol symbol citation pomdps deal partially observable mdps citation dynamic bayesian networks dbns structured mdps citation
+MISC--: concrete real world problems often modeled mdps
+OWNX--: this purpose designer extracts relevant features history e g position velocity all objects i e history symbol summarized feature vector symbol
+MISC--: feature vectors regarded states mdp assumed approximately markov
+MISC--: artificial general intelligence agi citation concerned designing agents perform well very large range environments citation including all mentioned ones above more
+CONT--: this general situation not priori clear what useful features
+MISC--: indeed any observation far past may relevant future
+MISC--: solution suggested citation learn symbol itself
+MISC--: if symbol keeps too much history e g symbol resulting mdp too large infinite cannot learned
+MISC--: if symbol keeps too little resulting state sequence not markov
+MISC--: cost criterion i develop formalizes this tradeoff minimized best symbol
+MISC--: at any time symbol best symbol one minimizes markov code length symbol symbol
+MISC--: this reminds but actually quite different mdl minimizes model data code length citation
+CONT--: use unstructured mdps citation even our symbol optimal ones clearly limited relatively simple tasks
+MISC--: real world problems structured often represented dynamic bayesian networks dbns reasonable number nodes citation
+MISC--: bayesian networks general dbns particular powerful tools modeling solving complex real world problems
+MISC--: advances theory increase computation power constantly broaden their range applicability citation
+MISC--: primary contribution this work extend symbol selection principle developed citation mdps conceptually much more demanding dbn case
+MISC--: major extra complications approximating learning coding rewards dependence cost criterion dbn structure learning dbn structure how store find optimal value function policy
+MISC--: although this article self contained recommended read citation first

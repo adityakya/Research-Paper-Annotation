@@ -1,0 +1,21 @@
+OWNX--: two studies mobile phone purchase decisions we investigated consumers decision strategies newly developed process tracing tool called interactive process tracing iapt
+MISC--: this tool combination several process tracing techniques active information search mouselab retrospective verbal protocol
+OWNX--: after repeatedly choosing one four mobile phones participants formalized their strategy so could used make choices them
+OWNX--: choices made identified strategies correctly predicted observed choices number percent experiment number number percent experiment number cases
+OWNX--: moreover experiment number we directly compared mouselab eye tracking respect their impact information search strategy description
+OWNX--: we found only minor differences between two methods
+OWNX--: we conclude iapt useful research tool identify choice strategies using eye tracking technology did not increase its validity beyond gained mouselab
+MISC--: identifying processes underlie judgment decision making been great interest researchers several decades already
+OWNX--: this context two major paradigms been used structural modeling process tracing citation
+MISC--: structural modeling aims uncover psychological processes relating provided information decisions judgments typically via multiple linear regression analysis
+MISC--: parameters models thought represent important features participants decision strategies instance if particular attribute receives high weight regression equation interpreted being very important decision maker
+MISC--: despite its popularity this approach been criticized ignoring predecisional phase processes take place between stimulus presentation final decision
+MISC--: example svenson citation concluded gradually becoming clear human decision making cannot understood simply studying final decisions p number similarly payne braunstein carroll citation argued input output analyses been used most decision research not fully adequate develop test process models decision behavior p number
+MISC--: response other objections against structural modeling citation payne citation others developed process tracing approach adapting methods research human problem solving citation
+OWNX--: opposed structural modeling aim process tracing directly describe processes taking place during predecisional phase
+MISC--: achieve this participants information search integration closely observed while they work decision task
+MISC--: frequently used methods within this paradigm information boards citation verbal protocols citation recording eye movements citation method active information search citation
+OWNX--: following we briefly describe process tracing methodologies discuss their strengths weaknesses
+OWNX--: we then present new tool called interactive process tracing iapt we developed identify decision processes underlying preferential choice
+MISC--: iapt uses various elements process tracing measures mentioned above combine their strengths simultaneously overcome some their weaknesses
+OWNX--: we subsequently describe two experiments we successfully applied iapt identify participants decision strategies

@@ -1,0 +1,7 @@
+OWNX--: we examine complexity learning distributions produced finite state quantum sources
+MISC--: we show how prior techniques learning hidden markov models adapted quantum generator model find analogous state affairs holds information theoretically polynomial number samples suffice approximately identify distribution but computationally problem hard learning parities noise notorious open question computational learning theory
+MISC--: recent work wiesner crutchfield citation introduced quantum generators formal model simple quantum mechanical systems
+AIMX--: this model simple quantum mechanical system observed repeatedly yielding classical stochastic process consisting sequence discrete measurement outcomes analogous how underlying markov process yields sequence observations hidden markov model
+AIMX--: this perspective natural wonder what learned about simple quantum mechanical system sequence measurement outcomes
+BASE--: this work we consider question whether not feasible learn distribution measurement outcomes reasonable polynomially bounded number observations
+OWNX--: we state two theorems this subject first section we show information theoretically possible learn distribution over measurements binary processes polynomially many observations but we then show section under standard hardness assumption conjecture computationally infeasible learn parity functions presence classification noise also computationally infeasible learn output distribution quantum generator also binary alphabet

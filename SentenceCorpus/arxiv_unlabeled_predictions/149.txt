@@ -1,0 +1,23 @@
+CONT--: supervised unsupervised learning positive definite kernels allow use large potentially infinite dimensional feature spaces computational cost only depends number observations
+OWNX--: this usually done through penalization predictor functions euclidean hilbertian norms
+AIMX--: this paper we explore penalizing sparsity inducing norms symbol norm block symbol norm
+OWNX--: we assume kernel decomposes into large sum individual basis kernels embedded directed acyclic graph we show then possible perform kernel selection through hierarchical multiple kernel learning framework polynomial time number selected kernels
+AIMX--: this framework naturally applied non linear variable selection our extensive simulations synthetic datasets datasets uci repository show efficiently exploring large feature space through sparsity inducing norms leads state art predictive performance
+MISC--: last two decades kernel methods been prolific theoretical algorithmic machine learning framework
+MISC--: using appropriate regularization hilbertian norms representer theorems enable consider large potentially infinite dimensional feature spaces while working within implicit feature space no larger than number observations
+MISC--: this led numerous works kernel design adapted specific data types generic kernel based algorithms many learning tasks see eg citation
+MISC--: regularization sparsity inducing norms symbol norm also attracted lot interest recent years
+MISC--: while early work focused efficient algorithms solve convex optimization problems recent research looked at model selection properties predictive performance methods linear case citation within multiple kernel learning framework citation
+OWNX--: this paper we aim bridge gap between two lines research trying use symbol norms inside feature space
+OWNX--: indeed feature spaces large we expect estimated predictor function require only small number features exactly situation where symbol norms proven advantageous
+AIMX--: this leads two natural questions we try answer this paper feasible perform optimization this very large feature space cost polynomial size input space does lead better predictive performance feature selection
+OWNX--: more precisely we consider positive definite kernel expressed large sum positive definite basis local kernels
+MISC--: this exactly corresponds situation where large feature space concatenation smaller feature spaces we aim do selection among many kernels may done through multiple kernel learning citation
+OWNX--: one major difficulty however number smaller kernels usually exponential dimension input space applying multiple kernel learning directly this decomposition would intractable
+OWNX--: order peform selection efficiently we make extra assumption small kernels embedded directed acyclic graph dag
+OWNX--: following citation we consider mysec mkl specific combination symbol norms adapted dag will restrict authorized sparsity patterns our specific kernel framework we able use dag design optimization algorithm polynomial complexity number selected kernels mysec optimization
+OWNX--: simulations mysec simulations we focus directed grids where our framework allows perform non linear variable selection
+OWNX--: we provide extensive experimental validation our novel regularization framework particular we compare regular symbol regularization shows always competitive often leads better performance both synthetic examples standard regression classification datasets uci repository
+OWNX--: finally we extend mysec consistency some known consistency results lasso multiple kernel learning citation give partial answer model selection capabilities our regularization framework giving necessary sufficient conditions model consistency
+OWNX--: particular we show our framework adapted estimating consistently only hull relevant variables
+OWNX--: hence restricting statistical power our method we gain computational efficiency

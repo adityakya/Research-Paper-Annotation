@@ -1,0 +1,69 @@
+MISC--: position determination biological systems often achieved through protein concentration gradients
+MISC--: measuring local concentration protein spatially varying distribution allows measurement position within system
+MISC--: systems work effectively position determination must robust noise
+OWNX--: here we calculate fundamental limits precision position determination concentration gradients due unavoidable biochemical noise perturbing gradients
+OWNX--: we focus gradient proteins first order reaction kinetics
+MISC--: systems this type been experimentally characterised both developmental cell biology settings
+OWNX--: single gradient we show through time averaging great precision potentially achieved even very low protein copy numbers
+OWNX--: second example we investigate ability system oppositely directed gradients find its centre
+CONT--: this mechanism positional precision close centre improves more slowly increasing averaging time so longer averaging times higher copy numbers required high precision
+OWNX--: both single double gradients we demonstrate existence optimal length scales gradients precision maximized well analyze how precision depends size concentration measuring apparatus
+OWNX--: results provide fundamental constraints positional precision supplied concentration gradients various contexts including both developmental biology also within single cell
+MISC--: determine position biological system some component within system must nonuniform spatial distribution
+MISC--: often this achieved through formation gradients protein concentration
+MISC--: typically gradient forms when protein manufactured injected within small region subsequently spreads decays citation
+MISC--: measuring local concentration position relative source determined
+OWNX--: developmental biology where gradients used control patterns gene expression gradient proteins called morphogens
+MISC--: however intracellular concentration gradients also thought important organisation inside single cells
+MISC--: gradient mechanism biologically viable position determination must precise therefore robust noise
+MISC--: variability one copy system another will certainly compromise positional precision
+MISC--: production degradation rates vary
+MISC--: physical size system will also vary this may affect proper positioning
+MISC--: most previous analyses morphogen gradients focused robustness changes extrinsic factors citation citation between different copies system
+MISC--: however there will also intrinsic noise affecting gradient within single copy system example due unavoidably noisy nature biochemical reactions involved
+MISC--: this dissection fluctuations into extrinsic intrinsic components mirrors introduced into analysis stochastic gene expression citation citation
+CONT--: however here intrinsic noise alters not only overall protein copy numbers but also crucially spatiotemporal protein distribution
+MISC--: even if all extrinsic variation could eliminated intrinsic biochemical noise would still lead fundamental limit precision position determination similar way limits precision protein concentration measurement citation citation
+AIMX--: this paper we therefore address question how precisely concentration gradient specify positional information calculate limits positional precision simple but biologically relevant gradient formation mechanism first order reaction kinetics
+MISC--: quantitative measurements example bicoid hunchback system drosophila citation shown remarkable positional precision sometimes obtained
+MISC--: this reason understanding fundamental limits precision concentration gradients clearly important issue developmental biology
+MISC--: our results will equally relevant gradients form within single cells where protein copy numbers few thousand citation citation will lead large density fluctuations
+MISC--: properties intracellular protein gradients been studied brown kholodenko citation
+MISC--: recently number gradients been observed experimentally both prokaryotic eukaryotic systems
+MISC--: bacterial virulence factor icsa forms polar gradient cell membrane shigella flexneri citation
+MISC--: mipz caulobacter crescentus forms polar gradients aid division site selection citation
+MISC--: bacillus subtilis mincd complex also forms polar gradients order direct division site selection mid plane cell citation citation
+MISC--: escherichia coli oscillatory dynamics min proteins creates time averaged gradient directs cell division placement citation citation
+MISC--: using mechanisms this sort division site placement bacteria achieve impressive precision percent cell length citation citation
+MISC--: cell division eukaryotic cells also believed regulated concentration gradients
+MISC--: example fission yeast protein pom p forms cortical concentration gradient emanating cell tip thereby restricting cell division protein mid p cell centre citation citation
+MISC--: eukaryotic cells gradients ran hurp proteins aid formation mitotic spindle biasing microtubule growth toward chromosomes citation citation
+MISC--: gradients may also play role localization cdc activation thereby permitting coupling between cell shape protein activation citation citation
+MISC--: suppose biological system needs identify particular position along its length mid plane ensure symmetrical cell division
+MISC--: concrete examples mipz mincd complex act displacing essential cell division protein ftsz cell membrane
+OWNX--: since concentrations mipz mincd higher near cell poles ftsz accumulates near cell centre
+MISC--: below some critical threshold mincd mipz concentration enough ftsz will presumably accumulate form division apparatus
+MISC--: locations where concentration gradient crosses thresholds mark positions within cell
+OWNX--: our analysis we simply postulate existence well defined critical thresholds where gradient sharply switches downstream signal off
+MISC--: clearly any real gradient cannot act sharp switch reality certain amount smearing inevitable
+MISC--: furthermore there will additional noise process actually measuring concentration due both binding gradient proteins receptor molecules citation citation also downstream reactions process this incoming signal citation citation citation citation
+MISC--: general noise output signal processing network written sum contribution noise input signal plus contribution reactions constitute processing network
+MISC--: we assume here detector processing network ideal do not add any noise gradient input signal
+OWNX--: result our calculated variation constitutes lower bound any real gradient signalling system will inevitably lower precision
+OWNX--: we first considered system single planar morphogen source linear degradation thereby producing exponentially decaying average concentration profile
+MISC--: while this model very simple remains biologically relevant both developmental intracellular contexts
+MISC--: gradients bicoid drosophila icsa shigella been quantitatively measured shown fit this exponential decay profile average high accuracy citation citation
+OWNX--: we then calculated expected distribution positions where noisy gradient crosses concentration threshold
+OWNX--: typical cellular copy numbers few thousand proteins system would unable identify correct threshold position single measurement
+MISC--: achieve reliable position determination concentration must averaged over time
+AIMX--: we show averaging measurements biological system able achieve precision position determination few percent system size even hundreds protein copies result we verified computer simulations
+OWNX--: furthermore we find precision position determination maximised when particular choice gradient decay length made
+OWNX--: we also show how precision depends detector size
+MISC--: d gradient precision possible after certain averaging time depends only very weakly detector size
+OWNX--: we relate all results experimental measurements gradients shigella fission yeast
+OWNX--: we also considered ability gradients two poles identify centre system mipz pom p gradients discussed above
+MISC--: related designs also been proposed control hunchback positioning drosophila citation citation citation
+OWNX--: before we find precision system optimised particular choice decay length
+MISC--: however if threshold position set at system centre time averaging improves precision more slowly than single source model
+OWNX--: subcellular gradients we find few thousand copies gradient proteins may therefore required high precision
+OWNX--: our results strongly constrain possible concentrations gradient proteins two gradient systems

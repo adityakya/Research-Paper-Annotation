@@ -1,0 +1,73 @@
+OWNX--: first efficacy trials named step t cell vaccine against hiv aids began
+MISC--: unprecedented structure trials raised new modeling statistical challenges
+MISC--: plausible memory t cells opposed antibodies actually prevent infection
+MISC--: if they fail at prevention what extent they ameliorate disease
+OWNX--: how do we estimate efficacy vaccine trial two primary endpoints one traditional one entirely novel where latter may influenced selection bias due former
+MISC--: preparation step trials biostatisticians developed novel techniques estimating causal effect vaccine viral load while accounting post randomization selection bias
+MISC--: but techniques not been tested biologically plausible scenarios
+AIMX--: we introduce new stochastic models t cell hiv kinetics making use new estimates rate cytotoxic t lymphocytes ctls so called killer t cells kill hiv infected cells
+OWNX--: based models we make surprising discovery not entirely implausible hiv specific ctls might prevent infection designers explicitly acknowledged when they chose endpoints step trials
+OWNX--: simulating thousands trials we demonstrate new statistical methods correctly identify efficacious vaccine while protecting against false conclusion vaccine exacerbates disease
+OWNX--: addition uncovering surprising immunological scenario our results illustrate utility mechanistic modeling biostatistics
+MISC--: first generation vaccines against human immunodeficiency virus designed prevent hiv acquisition stimulating neutralizing antibodies failed protect efficacy trials citation
+MISC--: second generation vaccines been designed elicit hiv specific cellular immune responses citation
+MISC--: candidates supported evidence so called killer t cells cytotoxic t lymphocytes bearing cd membrane molecule react kill infected target cells play crucial role controlling hiv infection citation citation
+MISC--: first efficacy trial named step t cell directed hiv vaccine began december being conducted merck research laboratories collaboration hiv vaccine trials network division aids at us national institutes health
+MISC--: candidate vaccine consists three vectors ferry hiv proteins into human cells
+MISC--: vaccine elicits broad t cell responses majority vaccinated hiv uninfected adults citation
+MISC--: step trial will randomize hiv uninfected volunteers receive mrkad placebo ratio follow participants until hiv infections occur
+MISC--: mehrotra li gilbert citation provide details this trial
+MISC--: second step trial mrkad nearly identical design will begin south africa
+MISC--: co primary endpoints step trials hiv infection clinical measure disease setpoint viral load
+OWNX--: terminology reflects typical course hiv disease appears first flu like illness progresses through stable asymptomatic phase then progresses aids
+MISC--: viral load typically measured blood drawn sometime after primary stage
+MISC--: even without preventing infection vaccine suppresses viral load could confer benefit individual slowing progression aids citation citation preventing need antiretroviral treatment community reducing hiv transmission citation citation
+MISC--: second primary analysis step compares viral load setpoints among hiv infected subjects vaccine placebo groups
+MISC--: besides unprecedented nature trials nontraditional design presented statistical challenge
+MISC--: because subjects included viral load comparison determined post randomization event hiv infection analysis susceptible selection bias citation citation
+MISC--: specifically conventional analysis viral load differences would not uniquely assess causal effect vaccine but rather mixture causal vaccine effect effects variables correlated viral load
+MISC--: latter may unevenly distributed between infected vaccinated infected placebo groups
+MISC--: example selection bias would occur if vaccine protects hiv infection only vaccinees relatively strong immune system implies infected vaccine group would weaker immunologically than infected placebo group
+MISC--: consequently even if vaccine no causal effect viremia viral loads vaccine group would expected higher than those placebo group
+MISC--: failing account this selection bias would lead incorrect inference vaccine harmfully increases viral load
+MISC--: preparation analysis step trials gilbert bosch hudgens citation other investigators citation citation developed statistical techniques assessing vaccine effect viral load allow plausible levels selection bias
+CONT--: however papers did not consider underlying biological mechanisms could account causal vaccine effects
+MISC--: rather they simulated arbitrary effects studied purely statistical operating characteristics methodology
+MISC--: evaluate statistical methods more biologically relevant manner we consider here various mechanistic hypotheses vaccine effects
+MISC--: at their present stage development mathematical models hiv infection immune system made few compelling predictions primarily because uncertainty about most important mechanisms values rate constants
+MISC--: nevertheless models attained enough maturity they quantitatively reproduce drop primary viremia after appearance hiv specific ctls lag between peak viremia peak immune response formation steady state other aspects hiv infection citation citation
+OWNX--: addition we exploit recent estimate rate at hiv specific ctls kill hiv infected cells citation
+AIMX--: building developments we constructed new stochastic models primary infection immune response made surprising observation does not appear implausible ctls might abort hiv infection
+MISC--: using infection co primary endpoint setpoint viral load designers step trials explicitly acknowledged this possibility
+MISC--: purposes discussion let us distinguish prevention eradication infection
+OWNX--: prevention we will mean either no productively infected target cells arise at all pool does not expand beyond some small number cells afterward driven extinction
+MISC--: number pits at any time insufficient cause disease
+OWNX--: favorable outcome might described transient infection sterilizing immunity depending assays employed detect exposure
+OWNX--: eradication we restrict consistent common usage clearing infection after primary symptomatic viremia
+MISC--: because cd t cells require priming step expansion period before they clear infected cells most immunologists regard preventing infection we defined unlikely citation
+MISC--: vaccines against simian immunodeficiency virus not prevented infection may consequence large inoculums used experiments citation
+MISC--: more relevant hiv observation t cell memory hiv antigens frequently exposed but seronegative sex workers kenya citation
+MISC--: one mechanistic interpretation this finding productive cellular infection was initially established but was either cleared ctls went extinct due chance
+MISC--: transient infection left behind small pool latently infected resting cd t cells due occasional activation events continuously expose immune system hiv antigens maintaining ctl memory
+MISC--: however investigators could not prove hiv specific ctls actually protected women
+MISC--: but vaccine derived adoptively transferred ctls prevented infection other viruses particular sendai citation ebola citation mice
+AIMX--: however we may judge plausibility prevention t cells we interested here impact statistical estimation we incorporate some biological mechanism into our simulations
+AIMX--: we combined stochastic deterministic models so simulate impact t cells both probability infection given exposure viral load assuming infection vaccinated unvaccinated subjects
+MISC--: course concatenation requires more hypotheses particular about vaccine action
+OWNX--: again because extent uncertainty about mechanisms we do not claim predict outcome vaccine trials
+MISC--: rather models provide cases where influence selection bias present absent when present magnitude resulting biological scenarios rather than ad hoc assumptions
+OWNX--: we then generate thousands hypothetical step trials put gbh method test
+MISC--: step trials two vaccine efficacy parameters will assessed one minus relative risk hiv infection difference mean viral load setpoint hiv infected subjects where setpoint viral load defined average two log plasma hiv rna levels measured at month visits after diagnosis hiv infection
+OWNX--: data will analyzed using adaption gbh method estimates causal vaccine effect viral load while accounting plausible levels selection bias
+MISC--: this technique was developed potential outcomes framework causal inference citation citation
+MISC--: this framework each trial participant two potential hiv infection outcomes one under assignment vaccine one under assignment placebo
+MISC--: following gbh causal effect viral load defined subpopulation always infected subjects who would become hiv infected regardless randomization vaccine placebo
+OWNX--: effect causal because always infected subpopulations two study arms identical characteristics except vaccine placebo assignment therefore observed differences directly attributable vaccination
+MISC--: methods estimate average causal effect vaccine viral load equal difference mean setpoint viral loads always infected subpopulation
+MISC--: fundamental difficulty evaluating ace lack knowledge about infected subjects always infected group knowing this would require data subjects hiv infection outcome both under assignment vaccine under assignment placebo but each subject only one outcomes observed
+MISC--: address identifiability problem gbh made simplifying assumption vaccine does not increase risk infection any subject posited model whether infected placebo recipient setpoint viral load y would been infected had they been assigned vaccine
+MISC--: this model indexed sensitivity parameter log odds ratio infection under assignment vaccine comparing two infected placebo recipients setpoint viral loads y y
+MISC--: value reflects case no selection bias case naive analysis assesses causal vaccine effect positive values reflect selection bias odds infection higher larger setpoint viral loads y parameter fixed investigator at each possible value within plausible range each gbh provided procedures estimating ace confidence interval
+MISC--: see materials methods mathematical details
+OWNX--: first step trial panel ten experts proposed plausible range log log see discussion section
+BASE--: cautious our analysis will estimate ace over somewhat wider range namely log log i e

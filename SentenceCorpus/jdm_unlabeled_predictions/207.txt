@@ -1,0 +1,28 @@
+OWNX--: ambiguity aversion been widely observed individuals judgments
+OWNX--: using scenarios typical decision analysis we investigate ambiguity aversion pairs individuals
+AIMX--: we examine risky cautious shifts individuals original judgments their judgments when they paired up dyads
+OWNX--: our experiment participants were first asked specify individually their willingness pay six monetary gambles
+OWNX--: they were then paired at random into dyads were asked specify their willingness pay amount same gambles
+MISC--: dyad s willingness pay amount was shared equally two individuals
+OWNX--: six gambles our experiment one involved no ambiguity remaining five involved different degrees ambiguity
+OWNX--: we found dyads exhibited risk aversion well ambiguity aversion
+MISC--: majority dyads exhibited cautious shift face ambiguity stating smaller willingness pay than two individuals average
+OWNX--: our study thus confirms persistence ambiguity aversion group setting demonstrates predominance cautious shifts dyads
+MISC--: much theoretical experimental research decision analysis examined how individuals do should make choices set prices they willing pay risky ambiguous options
+MISC--: but not much focus been placed decisions made groups though group decisions common
+MISC--: would helpful understand relationship between individual decisions group decisions first examining simplest setting pricing lottery
+MISC--: start this direction primary question we address here via experiment when decision makers act two person group called dyad do they exhibit more less ambiguity aversion than observed individual settings
+OWNX--: we note some situations forecasting e g delphi technique two heads indeed better than one
+MISC--: context monetary policy blinder morgan citation find groups make better decisions than individuals
+MISC--: therefore natural examine how decisions under ambiguity differ when made individually versus when made dyads
+MISC--: many real world decisions entrusted groups hope collective wisdom will prevail
+MISC--: will individuals our scenarios share their knowledge see light probability winning due construction our scenarios at least number number therefore become less ambiguity averse
+MISC--: risk aversion consistent rational decision making been observed variety settings
+MISC--: evidence ambiguity aversion been mixed
+MISC--: raiffa citation argued rational decision maker should not ambiguity averse
+MISC--: fox tversky citation found ambiguity aversion disappears when individuals evaluate single gamble non comparative setting chow sarin citation found ambiguity aversion reduced when making separate evaluations
+MISC--: sarin weber citation found market settings ambiguity aversion reduced independent auctions but not simultaneous auctions
+OWNX--: we at least two reasons expect less ambiguity aversion thus higher prices dyads
+MISC--: first two people face face discussion may more fully understand ambiguous setting they facing
+OWNX--: because our subjects know our scenarios they choose either side bet discussion between two subjects may lead realization probability winning at least number number
+MISC--: second individual blame regret should moderated group setting

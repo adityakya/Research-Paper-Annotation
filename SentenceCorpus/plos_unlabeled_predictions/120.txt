@@ -1,0 +1,38 @@
+MISC--: one major goals structural genomics projects determine three dimensional structure representative members many different fold families possible
+MISC--: comparative modeling expected fill remaining gaps providing structural models homologs experimentally determined proteins
+MISC--: however approach successful essential quality experimentally determined structures adequate
+OWNX--: attempt build homology model protein dynein light chain we found two potential templates both experimentally determined nuclear magnetic resonance structures originating structural genomics efforts
+MISC--: despite their high sequence identity folds two structures markedly different
+OWNX--: this urged us perform depth analyses both structure ensembles deposited experimental data results clearly identify one two models largely incorrect
+OWNX--: next we analyzed quality large set recent nmr derived structure ensembles originating both structural genomics projects individual structure determination groups
+MISC--: unfortunately visual inspection structures exhibiting lower quality scores than dlc reveals seriously flawed dlc structure not isolated incident
+CONT--: overall our results illustrate quality nmr structures cannot reliably evaluated using only traditional experimental input data overall quality indicators reference clearly demonstrate urgent need tight integration more sophisticated structure validation tools nmr structure determination projects
+MISC--: contrast common methodologies where structures typically evaluated whole tools should preferentially operate per residue basis
+MISC--: experimentally determined three dimensional structures biomolecules form foundation structural bioinformatics any structural analysis would impossible without them
+OWNX--: two main techniques available biomolecular structure determination x ray crystallography nuclear magnetic resonance spectroscopy
+MISC--: important realize all resulting structure models derived their underlying experimental data
+MISC--: unfortunately any experiment thus any structure model will errors associated
+MISC--: random errors depend precision experimental measurements propagated precision final models
+MISC--: systematic errors mistakes often result errors interpretation experimental data relate directly accuracy final structure models
+MISC--: example nmr spectroscopy errors introduced misassignment spectral signals x ray crystallography errors most likely made when protein structure positioned electron density citation citation
+MISC--: several studies shown not all experimentally determined biomolecular structure models equally high quality citation citation
+MISC--: many different types errors identified protein structures ranging too tightly restrained bond lengths angles molecules exhibiting completely incorrect fold
+MISC--: where former type errors often does not large consequences analysis structure typically easily remedied refinement proper force field citation citation latter renders structure model completely useless all practical purposes
+MISC--: throughout years several errors been uncovered protein data bank citation often resulted replacement incorrect models improved ones
+MISC--: typical example incorrectly folded structure model first crystal structure photoactive yellow protein
+MISC--: structure was solved initially citation deposited under now obsolete pdb entry phy
+MISC--: updated model released y later showed original model electron density had been misinterpreted citation
+MISC--: similar chain tracing problems led incorrect model dd peptidase citation was corrected y later when structure was solved again but now at higher resolution citation
+MISC--: also structures determined using nmr spectroscopy cases known where reevaluation experimental data often prompted publication corresponding structure resulted replacement structures pdb
+MISC--: well known example original nmr structure oligomerization domain p citation
+OWNX--: this dimer dimers difference orientation two dimers was observed between nmr crystal structure latter published shortly after nmr structure citation
+MISC--: reexamination nuclear overhauser enhancement data led identification three misinterpreted peaks original p noe assignments inclusion several new noes resulting revision original pdb entry citation
+MISC--: similar low number misinterpreted noe signals resulted largely incorrect fold anti factor asia citation
+BASE--: this case was not until second solution structure asia was published citation experimental data original asia structure were reexamined assignment errors were discovered citation
+AIMX--: this paper we describe detailed analysis two recently released nmr structures protein dynein light chain one human one mouse
+MISC--: both structures originate large structural genomics initiatives structure human dlc was determined northeast structural genomics consortium mouse variant was determined center eukaryotic structural genomics
+OWNX--: despite percent sequence identity large structural differences observed between two ensembles unexpected extremely unlikely result
+AIMX--: using deposited experimental data we show only y o structure ensemble correct
+AIMX--: subsequently we analyze both ensembles using various structure data validation methods show erroneous structure ensemble could been identified prior deposition
+OWNX--: finally we validate large set protein nmr structures were released pdb period show dlc example does not stand its own but more errors this magnitude found
+OWNX--: we conclude some suggestions how future large errors identified during structure determination process using readily available validation software

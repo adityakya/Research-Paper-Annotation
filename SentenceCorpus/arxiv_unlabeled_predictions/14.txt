@@ -1,0 +1,36 @@
+MISC--: adaptation rule vector quantization algorithms consequently convergence generated sequence depends existence properties function called energy function defined topological manifold
+MISC--: our aim investigate conditions existence function class algorithms examplified initial k means citation kohonen algorithms citation
+MISC--: results presented here supplement previous studies including citation citation citation citation citation
+OWNX--: our work shows energy function not always potential but at least uniform limit series potential functions we call pseudo potential
+MISC--: also shows large number existing vector quantization algorithms developed artificial neural networks community fall into this category
+OWNX--: framework we define opens way study convergence all corresponding adaptation rules at once theorem gives promising insights direction
+OWNX--: we also demonstrate k means energy function pseudo potential but not potential general
+OWNX--: consequently energy function associated neural gas not potential general
+MISC--: vector quantization theory citation set prototypes symbol placed manifold symbol order minimize following integral function called energy function symbol where symbol indicates probability density defined symbol
+AIMX--: we focus stochastic iterative approaches where at each time step datum symbol drawn probability density function pdf symbol prototypes symbol adapted according symbol using adaptation rule symbol where adaptation step tuned using parameter symbol generally decreasing over time symbol taken thereafter equal without restricting general results symbol neighborhood function particular each vector quantization algorithm
+OWNX--: here we focus discontinuous symbol functions
+OWNX--: main concern field vector quantization decide whether adaptation rule corresponds not stochastic gradient descent along energy function i e whether this energy function not potential onto entire manifold symbol
+AIMX--: one hand if energy function potential then convergence prototypes obeying their adaptation rule toward minimum this energy function well established particular stochastic optimization framework citation this paper concerned
+MISC--: example energy function associated k means algorithm citation stochastic version lbg algorithm linde et al citation potential long pdf symbol continuous citation
+MISC--: other hand if energy function not potential then very few known about convergence corresponding adaptation rule
+MISC--: example several results citation already shown continuous density symbol corresponding vector adaptation rule kohonen self organizing map som algorithm citation citation does not correspond stochastic gradient descent along global energy function convergence although being observed practice turns out very difficult prove not mention most efforts been carried out kohonen rule citation
+AIMX--: all vector quantization algorithms we study this paper variants k means algorithm we will see section
+MISC--: we know algorithms converge practice toward acceptable value their energy functions whenever they proved associated not potentials
+CONT--: however theoretical study their convergence not available so they remain largely heuristics
+MISC--: among all algorithms neural gas citation deserves particular attention
+MISC--: been claimed its authors associated global potential general hence converging adaptation rule
+OWNX--: we propose counter example discontinuous pdf symbol demonstrates this claim not true
+MISC--: this shows study convergence all algorithms still its infancy motivates present work
+AIMX--: this paper we propose framework encompasses all algorithms
+OWNX--: we study this framework we demonstrate energy function associated algorithms not potential general
+OWNX--: we also demonstrate this energy function belongs broad class functions includes potential functions special case
+MISC--: energy functions within this class called pseudo potentials
+OWNX--: results we obtain do not depend continuity probability density function symbol give first step toward explanation why all algorithms shown belong this framework succeed practice minimizing their associated energy function whether they potentials not
+MISC--: this framework should open up further avenues general study convergence properties all algorithms contains at once
+OWNX--: section we present framework this study
+OWNX--: section we define pseudo potential function approximated series potential functions we define concept cellular manifold this series potentials
+OWNX--: section we give main theorem states energy function framework necessarily pseudo potential
+OWNX--: we consider k means show pseudo potentials not always potentials
+MISC--: we discuss consequence convergence corresponding adaptation rule
+OWNX--: section we show most common vector quantization algorithms belong framework
+OWNX--: at last we conclude section

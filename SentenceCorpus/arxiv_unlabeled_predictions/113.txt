@@ -1,0 +1,33 @@
+MISC--: counting fundamental operation
+MISC--: example counting symbol th frequency moment symbol streaming signal symbol where symbol denotes time been active area research theoretical computer science databases data mining
+MISC--: when symbol task i e counting sum accomplished using counter
+MISC--: when symbol however becomes non trivial design small space i e low memory counting system
+MISC--: compressed counting cc proposed efficiently computing symbol th frequency moment data stream symbol where symbol
+OWNX--: cc applicable if streaming data follow turnstile model restriction at time symbol evaluation symbol includes strict turnstile model special case
+MISC--: data streams practice this restriction minor
+MISC--: underlying technique skewed stable random projections captures intuition when symbol simple counter suffices when symbol small symbol sample complexity should low continuously function symbol
+OWNX--: we show sample complexity number projections symbol where symbol symbol
+OWNX--: other words small symbol symbol instead symbol
+MISC--: case symbol practically very important
+MISC--: now well understood one obtain good approximations entropies data streams using symbol th moments symbol very small symbol
+MISC--: statistical inference using method moments sometimes reasonable use symbol th moments symbol very close
+MISC--: another example symbol might decay rate interest rate usually small
+MISC--: thus compressed counting will ideal tool estimating total value future taking account effect decaying interest accruement
+OWNX--: finally our another contribution algorithm approximating logarithmic norm symbol logarithmic distance symbol
+MISC--: logarithmic norm arises statistical estimations
+MISC--: logarithmic distance useful machine learning practice heavy tailed data
+AIMX--: this paper focuses counting among most fundamental operations almost every field science engineering
+MISC--: computing sum symbol simplest counting symbol denotes time
+MISC--: counting symbol th moment symbol more general
+MISC--: when symbol symbol counts total number non zeros symbol
+MISC--: when symbol symbol counts energy power signal symbol
+MISC--: if symbol actually outputs power underlying signal symbol counting sum symbol equivalent computing symbol
+MISC--: here symbol denotes time varying signal example data streams citation
+MISC--: literature symbol th frequency moment data stream symbol defined counting symbol massive data streams practically important among many challenging issues data stream computations
+OWNX--: fact general theme scaling up high dimensional data high speed data streams among ten challenging problems data mining research
+MISC--: because elements symbol time varying na ive counting mechanism requires system symbol counters compute symbol exactly
+OWNX--: this not always realistic when symbol large we only need approximate answer
+MISC--: example symbol may symbol if symbol records arrivals ip addresses
+MISC--: symbol total number checking savings accounts
+MISC--: compressed counting cc new scheme approximating symbol th frequency moments data streams where symbol using low memory
+OWNX--: underlying technique based what we call skewed stable random projections

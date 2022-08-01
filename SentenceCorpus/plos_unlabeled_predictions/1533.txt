@@ -1,0 +1,55 @@
+MISC--: many behavioral phenomena been found spread interpersonally through social networks manner similar infectious diseases
+MISC--: important difference between social contagion traditional infectious diseases however behavioral phenomena acquired non social mechanisms well through social transmission
+OWNX--: we introduce novel theoretical framework studying phenomena adapting classic disease model include possibility automatic non social infection
+AIMX--: we provide example use this framework examining spread obesity framingham heart study network
+MISC--: interaction assumptions model validated using longitudinal network transmission data
+MISC--: we find current rate becoming obese formula per year increases percentage points each obese social contact
+MISC--: rate recovering obesity formula per year does not depend number non obese contacts
+OWNX--: model predicts long term obesity prevalence approximately formula used evaluate effect different interventions steady state obesity
+MISC--: model predictions quantitatively reproduce actual historical time course prevalence obesity
+OWNX--: we find since s rate recovery obesity remained relatively constant while rates both spontaneous infection transmission steadily increased over time
+MISC--: this suggests obesity epidemic may driven increasing rates becoming obese both spontaneously transmissively rather than decreasing rates losing weight
+MISC--: key feature sisa model its ability characterize relative importance social transmission quantitatively comparing rates spontaneous versus contagious infection
+MISC--: provides theoretical framework studying interpersonal spread any state may also arise spontaneously emotions behaviors health states ideas diseases reservoirs
+MISC--: social network effects great importance understanding human behavior
+MISC--: people interact varying number individuals some individuals more than others this affects behavior fundamental ways
+MISC--: sociologists long studied social influence through networks networks now routinely appear investigations other fields including economics citation physics citation public health citation scientific publishing citation citation
+MISC--: extensive reviews social networks analysis including investigations their structure their effect social dynamics include mitchell citation wasserman citation watts citation rogers citation jackson citation smith citation
+MISC--: networks also long been known important many areas biology including ecological food webs evolution cooperation citation citation
+MISC--: social networks also been studied determinants health ranging determining patterns infectious disease spread citation propagation phenomena emotions citation citation smoking cessation citation obesity citation suicide citation altruism citation anti social behavior citation online health forum participation citation
+MISC--: studies suggest top physical environment social environment also important contributor health
+MISC--: they lead suggestions public health interventions must designed work network structure network exploited spread health related information citation citation
+MISC--: within network studies much work focused how information trends behaviors other entities spread between individuals social networks
+MISC--: processes generally referred contagion
+MISC--: suggestions contagious dynamics possible relevance network structure rigorously examined using mathematical models contagious processes
+OWNX--: then used obtain accurate measures expected prevalences interventional efficacy optimized information flow
+MISC--: many previous models been proposed study influential interactions between individuals
+MISC--: most considered well mixed populations although more recent work focused network structured populations
+MISC--: most well studied classic epidemiological models spread microbial infectious diseases citation including spread network structured populations citation citation citation citation
+MISC--: various related processes been used model social influence important contributions including same epidemiological models citation citation diffusion models citation citation citation statistical mechanics type interactions citation citation threshold models citation
+MISC--: each models however one more properties problematic studying social contagion
+MISC--: many do not capture probabilistic nature contagion asymmetry inherent traditional infectious disease
+MISC--: others only consider well mixed populations where everyone influenced everyone else ignoring effect network structure
+MISC--: most models inspired epidemiology not directly applicable social spread other phenomenon because many phenomena spread social contagion may also arise spontaneously
+MISC--: possible adopt trend behavior obtain information outside source without directly catching contact network
+MISC--: other words top probability obtaining infection each infected contact there also non zero probability automatically obtaining infection independent local network
+MISC--: this automatic non social infection not included traditional infectious disease models
+MISC--: economic models diffusion innovations based early work bass citation do take into account automatic infection
+MISC--: individuals move susceptible infected state adopting new product idea influenced both social non social factors
+MISC--: however models do not allow recovery because innovation adoptions assumed permanent changes behavior individuals never move back susceptible state
+OWNX--: this results entire population becoming adopters at equilibrium
+MISC--: this does not reflect dynamics many phenomena spread socially may repeatedly acquired lost
+OWNX--: through balance infection recovery steady state multiple states individuals coexisting reached
+MISC--: finally most previous models make assumptions about type interaction between individuals particulars not usually validated real data
+OWNX--: yet long term behavior model prevention strategies suggests depend critically specifics interaction assumptions
+AIMX--: here we introduce new model study spread entities social network all important properties listed above
+AIMX--: we then analyze its characteristics show how applied different contexts
+MISC--: this model extension classical infectious disease model combining features other models mentioned above
+MISC--: describes infections contracted both spontaneously through social transmission allows recovery infection
+AIMX--: example we focus spread obesity framingham heart study network
+MISC--: interaction assumptions model will validated using longitudinal network transmission data
+OWNX--: we show how we quantitatively assess values rate adopting trend spontaneously versus contagion determine extent social transmission important
+OWNX--: we use predict prevalences intervention effectiveness
+OWNX--: results this model very different models other interaction assumptions majority rules models
+OWNX--: we will show transmissive components often small compared automatic component but may still contribute materially prevalence levels
+MISC--: lastly we will use pair wise approximations generate analytic results infections network structured populations well presenting simulations using real social network

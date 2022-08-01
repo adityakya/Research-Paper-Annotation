@@ -1,0 +1,38 @@
+MISC--: recent breakthrough bshouty et al obtained first passive lear ning algorithm dnfs under uniform distribution
+MISC--: they showed dnfs learnable random walk noise sensitivity models
+OWNX--: we extend their results several directions
+AIMX--: we first show thresholds parities natural class encompassing dnfs cannot learned efficiently noise sensitivity model using only statistical queries
+OWNX--: contrast we show cyclic version random walk model allows learn efficiently polynomially weighted thresholds parities
+OWNX--: we also extend algorithm bshouty et al case unions rectangles natural generalization dnfs symbol
+MISC--: learning boolean formulae disjunctive normal form dnf been central problem computational learning theory literature since valiant s seminal paper pac learning citation
+MISC--: citation was shown dnfs learned using membership queries form active learning
+MISC--: jackson s algorithm also known harmonic sieve hs uses clever combination two fundamental techniques learning harmonic analysis boosting
+CONT--: use harmonic analysis study boolean functions was introduced citation
+OWNX--: was subsequently used basis learning algorithm symbol circuits citation
+MISC--: harmonic analysis used hs algorithm based parity finding algorithm goldreich levin citation was first applied learning problem kushilevitz mansour citation
+MISC--: hypothesis boosting technique reduce classification error learning algorithm was introduced schapire citation
+MISC--: boosting algorithm used hs actually due freund citation
+MISC--: recent breakthrough bshouty et al citation obtained first passive learning algorithm dnfs
+OWNX--: their algorithm based modification hs focuses low degree fourier coefficients
+MISC--: variant hs called bounded sieve bs was first obtained citation
+MISC--: citation bs was used learn dnfs under uniform distribution two natural passive learning models
+MISC--: first one random walk model where examples instead being iid follow random walk boolean cube see also citation related work
+MISC--: second model closely related noise sensitivity model where this time examples come pairs second instance being noisy version first one
+MISC--: results citation interesting they give learning algorithm dnfs case where observer no control over examples provided
+MISC--: however problem learning dnfs under uniform distribution when examples iid
+MISC--: still remains open
+MISC--: known dnfs cannot learned more restrictive statistical query model introduced citation where one ask only about statistics over random examples citation
+MISC--: jackson citation also showed hs applies thresholds parities top class express dnfs decision trees only polynomial increase size extended his algorithm non boolean case unions rectangles generalization dnfs symbol where symbol
+MISC--: whether those classes functions learned random walk noise sensitivity models was left open citation
+OWNX--: our contribution threefold
+AIMX--: we first show tops cannot learned noise sensitivity model using statistical queries sqs
+OWNX--: far we know this first example negative result second order statistical queries i e queries pairs examples
+MISC--: this does not rule out possibility learning tops random walk model although provides evidence techniques citation cannot easily extended case
+OWNX--: other hand we show simple variant random walk model where component updates follow fixed cycle allows learn tops efficiently
+OWNX--: this seems first not too contrived passive model tops efficiently learnable respect uniform distribution
+OWNX--: actually one perform harmonic sieve this cyclic random walk model we also show this model strictly weaker than active setting under standard cryptographic assumption
+BASE--: finally we extend techniques citation citation non boolean domain symbol use this learn unions rectangles noise sensitivity random walk models
+OWNX--: this last result turns out rather straightforward once proper analogues boolean case found
+OWNX--: section we introduce learning models give brief review fourier analysis
+OWNX--: negative result learning tops derived section
+MISC--: learning algorithms tops unions rectangles presented sections respectively

@@ -1,0 +1,11 @@
+OWNX--: let symbol symbol matrix rank symbol assume uniformly random subset symbol its entries observed
+OWNX--: we describe efficient algorithm reconstructs symbol symbol observed entries relative root mean square error symbol further if symbol symbol sufficiently unstructured then reconstructed exactly symbol entries
+OWNX--: this settles case bounded rank question left open cand e s recht improves over guarantees their reconstruction algorithm
+CONT--: complexity our algorithm symbol opens way its use massive data sets
+OWNX--: process proving statements we obtain generalization celebrated result friedman kahn szemer edi feige ofek spectrum sparse random matrices
+OWNX--: imagine each symbol customers watches rates subset symbol movies available through movie rental service
+MISC--: this yields dataset customer movie pairs symbol each pair rating symbol
+OWNX--: objective collaborative filtering predict rating missing pairs way provide targeted suggestions
+MISC--: made public dataset symbol symbol symbol challenged research community predict missing ratings root mean square error below symbol citation general question we address here under conditions do known ratings provide sufficient information infer unknown ones
+MISC--: this inference problem solved efficiently
+MISC--: second question particularly important view massive size actual data sets

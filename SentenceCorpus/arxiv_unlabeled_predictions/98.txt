@@ -1,0 +1,14 @@
+OWNX--: markov random fields used model high dimensional distributions number applied areas
+MISC--: much recent interest been devoted reconstruction dependency structure independent samples markov random fields
+OWNX--: we analyze simple algorithm reconstructing underlying graph defining markov random field symbol nodes maximum degree symbol given observations
+OWNX--: we show under mild non degeneracy conditions reconstructs generating graph high probability using symbol samples where symbol depend local interactions
+OWNX--: most local interaction symbol order symbol
+OWNX--: our results optimal function symbol up multiplicative constant depending symbol strength local interactions
+OWNX--: our results seem first results general models guarantee generating model reconstructed
+OWNX--: furthermore we provide explicit symbol running time bound
+MISC--: cases where measure graph correlation decay running time symbol all fixed symbol
+OWNX--: we also discuss effect observing noisy samples show long noise level low our algorithm effective
+MISC--: other hand we construct example where large noise implies non identifiability even generic noise interactions
+OWNX--: finally we briefly show some simple cases models hidden nodes also recovered
+AIMX--: this paper we consider problem reconstructing graph structure markov random field independent identically distributed samples
+MISC--: markov random fields mrf provide very general framework defining high dimensional distributions reconstruction mrf observations attracted much recent interest particular biology see eg citation list related references citation

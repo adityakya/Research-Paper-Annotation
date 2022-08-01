@@ -1,0 +1,66 @@
+AIMX--: text abstract we present family pairwise tournaments reducing symbol class classification binary classification
+OWNX--: reductions provably robust against constant fraction binary errors simultaneously matching best possible computation symbol regret symbol
+OWNX--: construction also works robustly selecting best symbol choices tournament
+AIMX--: we strengthen previous results defeating more powerful adversary than previously addressed while providing new form analysis
+OWNX--: this setting error correcting tournament depth symbol while using symbol comparators both optimal up small constant
+MISC--: we consider classical problem multiclass classification where given instance symbol goal predict most likely label symbol according some unknown probability distribution
+MISC--: common general approach multiclass learning reduce multiclass problem set binary classification problems citation
+CONT--: this approach composable any binary learning algorithm including online algorithms bayesian algorithms even humans shrink alternative design multiclass learning algorithm directly typically extending existing algorithm binary classification
+MISC--: difficulty this direct approach some algorithms cannot easily modified handle different learning problem
+OWNX--: example first still commonly used multiclass versions support vector machine may not even converge best possible predictor no matter how many examples used see citation
+MISC--: single reduction yields number different multiclass algorithms this way
+MISC--: key technique analyzing reductions regret analysis bounding regret resulting multiclass learner terms regret binary classifiers binary problems
+MISC--: informally regret difference loss between predictor best possible predictor same problem
+MISC--: regret analysis more refined than loss analysis bounds only avoidable excess loss thus bounds remain meaningful problems high conditional noise key technique analyzing reductions regret analysis bounds regret resulting multiclass classifier terms average classification regret induced binary problems
+MISC--: here regret formally defined section difference between incurred loss smallest achievable loss problem i e excess loss due suboptimal prediction
+MISC--: most commonly applied reduction one against all creates binary classification problem each symbol classes
+MISC--: classifier class symbol trained predict whether label symbol not predictions then done evaluating each binary classifier randomizing over those predict yes over all labels if all answers no
+MISC--: this simple reduction inconsistent sense given optimal zero regret binary classifiers reduction may not yield optimal multiclass classifier presence noise
+MISC--: optimizing squared loss binary predictions instead symbol loss makes approach consistent but resulting multiclass regret scales symbol worst case where symbol average squared loss regret induced problems
+MISC--: probing reduction citation upper bounds symbol average binary classification regret
+MISC--: this composition gives consistent reduction binary classification but square root dependence binary regret undesirable regrets between
+MISC--: probabilistic error correcting output code approach pecoc citation reduces symbol class classification learning symbol regressors interval symbol creating symbol binary examples per multiclass example at both training test time test time computation symbol
+MISC--: resulting multiclass regret bounded symbol removing dependence number classes symbol
+MISC--: when only constant number labels non zero probability given features computation reduced symbol per example citation
+MISC--: this state problem raises several questions there consistent reduction multiclass binary classification does not square root dependence symbol citation
+MISC--: example average binary regret just symbol may imply pecoc multiclass regret symbol
+OWNX--: at level there consistent reduction requires just symbol computation matching information theoretic lower bound
+MISC--: well known symbol tree reduction distinguishes between labels using balanced binary tree each non leaf node predicting correct multiclass label left not
+MISC--: citation
+OWNX--: shown section this method inconsistent
+MISC--: above achieved reduction only performs pairwise comparisons between classes
+MISC--: one fear associated pecoc approach creates binary problems form what probability label given random subset labels may hard solve
+CONT--: although this fear addressed regret analysis latter operates only avoidable excess loss overstated some cases citation still some concern especially larger values symbol
+MISC--: error correcting tournament family presented here answers all questions affirmative
+MISC--: provides exponentially faster symbol method multiclass prediction resulting multiclass regret bounded symbol where symbol average binary regret every binary classifier logically compares two distinct class labels
+MISC--: result based basic observation if non leaf node fails predict its binary label may unavoidable due noise distribution nodes between this node root should no preference class label prediction
+OWNX--: utilizing this observation we construct reduction called filter tree uses symbol computation per multiclass example at both training test time whose multiclass regret bounded symbol times average binary regret
+MISC--: decision process filter tree viewed bottom up viewed single elimination tournament set symbol players
+CONT--: using multiple independent single elimination tournaments no use does not affect average regret adversary controlling binary classifiers
+MISC--: somewhat surprisingly possible symbol complete single elimination tournaments between symbol players symbol rounds no player playing twice same round
+MISC--: citation
+OWNX--: error correcting tournament first pairs labels simultaneous single elimination tournaments followed final carefully weighted single elimination tournament decides among symbol winners first phase
+MISC--: filter tree test time evaluation start at root proceed multiclass label symbol computation
+CONT--: this construction also useful problem robust search yielding first algorithm allows adversary err constant fraction time full lie setting citation where comparator missort any comparison
+MISC--: previous work either applied half lie case where comparator fail sort but not actively missort citation full lie setting where adversary fixed known bound number lies citation fixed budget fraction errors so far citation
+OWNX--: indeed might even appear impossible algorithm robust constant fraction full lie errors since error always reserved last comparison
+OWNX--: repeating last comparison symbol times defeats this strategy
+MISC--: result here also useful actual problem tournament construction games real players
+MISC--: our analysis does not assume errors iid citation known noise distributions citation known outcome distributions given player skills citation
+OWNX--: consequently tournaments we construct robust against severe bias biased referee some forms bribery collusion
+OWNX--: furthermore tournaments we construct shallow requiring fewer rounds than symbol elimination bracket tournaments do not satisfy guarantee provided here
+OWNX--: symbol elimination bracket tournament bracket symbol single elimination tournament all players except winners brackets symbol
+MISC--: after bracket winners determined player winning last bracket symbol plays winner bracket symbol repeatedly until one player suffered symbol losses they start symbol symbol losses respectively
+OWNX--: winner moves pair against winner bracket symbol process continues until only one player remains
+OWNX--: this method does not scale well large symbol final elimination phase takes symbol rounds
+MISC--: even symbol symbol our constructions smaller maximum depth than bracketed symbol elimination
+OWNX--: see bracketed symbol elimination tournament does not satisfy our goal note second best player could defeat first player first single elimination tournament then once more final elimination phase win implying adversary need control only two matches paragraph paper overview we begin defining basic concepts introducing some notation section
+OWNX--: section shows simple divide conquer tree approach inconsistent motivating filter tree algorithm described section applies more general cost sensitive multiclass problems
+OWNX--: section proves algorithm best possible computational dependence gives two upper bounds regret returned cost sensitive multiclass classifier
+CONT--: subsection presents some experimental evidence filter tree indeed practical approach multiclass classification
+OWNX--: section presents error correcting tournament family parametrized integer symbol controls tradeoff between maximizing robustness symbol large minimizing depth symbol small
+MISC--: setting symbol gives filter tree while symbol gives multiclass binary regret ratio symbol symbol depth
+MISC--: setting symbol gives regret ratio symbol depth symbol
+BASE--: results here provide nearly free generalization earlier work citation robust search setting more powerful adversary missort well fail sort
+OWNX--: only charged according two labels conditional section gives algorithm independent lower bound regret ratio large symbol
+OWNX--: when number calls binary classifier independent nearly independent label predicted we strengthen this lower bound symbol large symbol

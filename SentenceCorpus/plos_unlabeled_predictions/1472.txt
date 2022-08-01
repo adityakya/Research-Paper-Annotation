@@ -1,0 +1,43 @@
+OWNX--: cytokines tnf fasl trigger death survival depending cell lines cellular conditions
+MISC--: mechanistic details how cell chooses among cell fates still unclear
+MISC--: understanding processes important since they altered many diseases including cancer aids
+AIMX--: using discrete modelling formalism we present mathematical model cell fate decision recapitulating integrating most consistent facts extracted literature
+OWNX--: this model provides generic high level view interplays between nf b pro survival pathway rip dependent necrosis apoptosis pathway response death receptor mediated signals
+OWNX--: wild type simulations demonstrate robust segregation cellular responses receptor engagement
+MISC--: model simulations recapitulate documented phenotypes protein knockdowns enable prediction effects novel knockdowns
+OWNX--: silico experiments simulate outcomes following ligand removal at different stages suggest experimental approaches further validate specialise model particular cell types
+OWNX--: we also propose reduced conceptual model implementing logic decision process
+OWNX--: this analysis gives specific predictions regarding cross talks between three pathways well transient role rip protein necrosis confirms phenotypes novel perturbations
+OWNX--: our wild type mutant simulations provide novel insights restore apoptosis defective cells
+MISC--: model analysis expands our understanding how cell fate decision made
+OWNX--: moreover our current model used assess contradictory controversial data literature
+MISC--: ultimately constitutes valuable reasoning tool delineate novel experiments
+OWNX--: engagement tnf fas receptors trigger cell death apoptosis necrosis yet lead activation pro survival signalling pathway nf b apoptosis represents tightly controlled mechanism cell death triggered internal external death signals stresses
+MISC--: this mechanism involves sequence biochemical morphological changes resulting vacuolisation cellular content followed its phagocyte mediated elimination
+MISC--: this physiological process regulates cell homeostasis development clearance damaged virus infected cancer cells
+OWNX--: contrast pathological necrosis results plasma membrane disruption release intracellular content trigger inflammation neighbouring tissues
+MISC--: long seen accidental cell death necrosis also appears regulated possibly involved clearance virus infected cancer cells escaped apoptosis citation
+OWNX--: dynamical modelling regulatory network controlling apoptosis non apoptotic cell death survival pathways could help identify how under conditions cell chooses between different types cellular deaths survival
+MISC--: moreover modelling could suggest ways re establish apoptotic death when altered yet trigger necrosis apoptosis resistant cells
+OWNX--: decision process involves several signalling pathways well multiple positive negative regulatory circuits
+MISC--: mathematical modelling provides rigorous integrative approach understand analyse dynamical behaviours complex systems
+MISC--: published models cell death control usually focus one death pathway only apoptotic extrinsic intrinsic pathways citation citation citation
+MISC--: few studies integrate both pathways citation some show concentration specific components contribute decision between death survival citation citation while other studies investigate balance between proliferation survival apoptosis specific cell types along role key components pathways citation but no mathematical models including necrosis available yet
+OWNX--: moreover we still lack models properly demonstrating how cellular conditions determine choice between necrosis apoptosis survival how what extent conversions allowed between fates
+OWNX--: our study aims at identifying determinants this cell fate decision process
+MISC--: three main phenotypes considered apoptosis non apoptotic cell death survival
+OWNX--: although pathways leading three phenotypes highly intertwined we first describe them separately hereafter concentrating players we chose include each pathway
+OWNX--: summarised figure this description does not intend exhaustive but rather aims at covering most established processes participating cell fate decision
+MISC--: only apoptotic caspase dependent pathway downstream fas tnf receptors considered here
+MISC--: upon engagement their ligands presence fadd specific death inducible signalling complex forms recruits pro caspase
+MISC--: this leads cleavage activation caspase
+OWNX--: so called type ii cells casp triggers intrinsic mitochondria dependent apoptotic pathway also responds dna damage directly through p mediated chain events
+MISC--: casp cleaves bh only protein bid then translocate mitochondria outer membrane
+MISC--: there bid competes anti apoptotic bh family members bcl interaction proteins bax bak
+OWNX--: consequently oligomerisation bax results mitochondrial outer membrane permeabilisation release pro apoptotic factors
+MISC--: once released cytosol cytochrome c interacts apaf recruiting pro caspase
+MISC--: presence datp this enables assembly apoptosome complex responsible caspase activation followed proteolytic activation pro caspase citation
+MISC--: cleavage specific targets executioner caspases responsible major biochemical morphological changes characteristic apoptosis
+MISC--: smac diablo released during momp cytosol where able inactivate caspase inhibitor xiap citation
+MISC--: casp also participates positive circuit inducing activation casp citation citation
+MISC--: type i cells casp directly cleaves activates executioner caspases casp

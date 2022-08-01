@@ -1,0 +1,38 @@
+OWNX--: arabidopsis tandemly arrayed genes comprise percent genes genome
+MISC--: duplicated genes represent rich template genetic innovation but little known evolutionary forces governing their generation maintenance
+OWNX--: here we compare organization evolution tags between arabidopsis rice two plant genomes diverged million years ago
+OWNX--: tags two genomes similar number respects including proportion genes tandemly arrayed number genes within array number tandem arrays dearth tags relative single copy genes centromeric regions
+MISC--: analysis recombination rates along rice chromosomes confirms positive correlation between occurrence tags recombination rate found arabidopsis
+OWNX--: tags also biased functionally relative duplicated nontandemly arrayed genes
+OWNX--: both genomes tags enriched genes encode membrane proteins function abiotic biotic stress but underrepresented genes involved transcription dna rna binding functions
+OWNX--: we speculate observations reflect evolutionary trend successful tandem duplication involves genes either at end biochemical pathways flexible steps pathway fluctuation copy number unlikely affect downstream genes
+MISC--: despite differences age distribution tandem arrays striking similarities between rice arabidopsis indicate similar mechanisms tag generation maintenance
+MISC--: genomes arabidopsis thaliana oryza sativa contain substantial proportions duplicated chromosomal segments presumably reflecting ancient polyploidy events
+MISC--: arabidopsis example there been at least three paleopolyploid events citation most recent occurring million years ago citation
+MISC--: duplicated chromosomal regions retain percent their genes duplicates citation remaining duplicate pairs having lost one copy deletion pseudogenization
+MISC--: surprisingly process gene loss nonrandom respect function because genes retained duplicates enriched functions related transcription signal transduction development citation citation
+MISC--: like arabidopsis rice also history extensive duplication citation up percent genome apparently duplicated paleopolyploid events citation up percent genes retained duplicates duplicated chromosomal segments citation
+MISC--: although there been numerous studies identify genes duplicated via paleopolyploidy one important source duplication plant genomes not been studied great detail tandemly arrayed genes
+MISC--: tags gene family members tightly clustered chromosome they frequent plant genomes
+MISC--: thaliana tags comprise almost many genes those duplicated paleopolyploid events citation
+MISC--: they also represent broad functional component genome ranging genes encode secondary metabolites citation disease resistance genes citation regulatory genes citation
+MISC--: evolution organization tags been studied arabidopsis
+MISC--: tags underrepresented centromeric regions relative non tag genes their prevalence relative non tag genes positively correlated recombination rates along chromosomes citation
+MISC--: evolutionary processes contributing this correlation unclear
+MISC--: correlation could reflect generation tags via recombination mediated processes unequal crossing over could produced indirectly interplay among selection recombination gene gain gene loss
+MISC--: also unclear whether tag organization arabidopsis representative other plant genomes
+MISC--: tags also likely differ dispersed gene families their process divergence
+MISC--: close physical proximity tags facilitates gene conversion recently demonstrated both yeast citation arabidopsis citation
+MISC--: one practical ramification synonymous distance between tags cannot easily used proxy time duplication event gave rise two genes citation
+MISC--: instead ks provides insight into either age duplication event age homogenizing gene conversion events citation
+OWNX--: nonetheless careful study ks values among clustered genes could uncover clues tag maintenance diversification
+MISC--: completion rice genome sequence provides first opportunity compare structure evolution tags between two plant genomes arabidopsis rice
+MISC--: two species diverged million years ago citation but similar they relatively small genomes reproduce predominantly selfing
+MISC--: genomic analyses rice sequence already revealed some properties tags i e tags compose between percent citation percent rice genes citation preponderance tandemly duplicated genes differentiated relatively low ks values citation
+OWNX--: nonetheless tags rice not been studied comparative context nor context genomic features chromosomal location recombination
+AIMX--: this paper we address several basic questions about organization evolution function tags
+MISC--: first does number distribution tags differ substantially between rice arabidopsis
+MISC--: second tags more frequent high recombination regions rice they arabidopsis
+MISC--: third do two species exhibit clear similarities differences distribution ks among tags
+OWNX--: fourth do genes tags represent functional biases relative non tag genes
+OWNX--: finally we infer any general mechanisms contribute similarities differences between distribution tags arabidopsis rice genomes

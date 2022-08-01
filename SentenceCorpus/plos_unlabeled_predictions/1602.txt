@@ -1,0 +1,51 @@
+MISC--: contemporary theory spiking neuronal networks based linear response integrate fire neuron model derived diffusion limit
+OWNX--: we find non zero synaptic weights response transient inputs differs qualitatively this approximation
+MISC--: response instantaneous rather than exhibiting low pass characteristics non linearly dependent input amplitude asymmetric excitation inhibition promoted characteristic level synaptic background noise
+OWNX--: we show at threshold probability density potential drops zero within range one synaptic weight explain how this shapes response
+MISC--: novel mechanism exhibited network level generic property pulse coupled networks threshold units
+MISC--: understanding dynamics single neurons recurrent networks neurons spike timing dependent synaptic plasticity requires quantification how single neuron transfers synaptic input into outgoing spiking activity
+MISC--: if incoming activity slowly varying constant rate membrane potential distribution neuron quasi stationary its steady state properties characterize how input mapped output rate
+OWNX--: fast transients input time dependent neural dynamics gains importance
+MISC--: integrate fire neuron model citation efficiently simulated citation citation well approximates properties mammalian neurons citation citation more detailed models citation
+OWNX--: captures gross features neural dynamics membrane potential driven synaptic impulses each causes small deflection absence further input relaxes back resting level
+OWNX--: if potential reaches threshold neuron emits action potential membrane potential reset mimicking after hyperpolarization
+MISC--: analytical treatment threshold process hampered pulsed nature input
+MISC--: frequently applied approximation treats synaptic inputs diffusion limit postsynaptic potentials vanishingly small while their rate arrival high
+MISC--: this limit summed input replaced gaussian white noise current enables application fokker planck theory citation citation
+MISC--: this approximation stationary membrane potential distribution firing rate known exactly citation citation citation
+MISC--: important effect synaptic filtering been studied this limit well modelling synaptic currents low pass filtered gaussian white noise non vanishing temporal correlations citation citation
+MISC--: again results strictly valid only if synaptic amplitudes tend zero their rate arrival goes infinity
+MISC--: finite incoming synaptic events excitatory only steady state solution still obtained analytically citation citation also transient solution efficiently obtained numerical solution population equation citation
+MISC--: different approach takes into account non zero synaptic amplitudes first calculate free membrane potential distribution then obtain firing rate solving first passage time problem numerically citation
+MISC--: this approach may extendable conductance based synapses citation
+MISC--: exact results steady state so far only been presented case exponentially distributed synaptic amplitudes citation
+MISC--: spike threshold renders model extremely non linear unit
+OWNX--: however if synaptic input signal under consideration small compared total synaptic barrage linear approximation captures main characteristics evoked response
+OWNX--: this scenario all remaining inputs neuron treated background noise
+MISC--: calculations linear response kernel diffusion limit suggested integrate fire model acts low pass filter citation
+MISC--: here spectrum amplitude synaptic background input decisive transient properties integrate fire model contrast white noise low pass filtered synaptic noise leads fast response conserved linear term citation
+MISC--: linear response theory predicts optimal level noise promotes response citation
+MISC--: framework spike response models immediate response depending temporal derivative postsynaptic potential been demonstrated regime low background noise citation
+MISC--: maximization input output correlation at finite amplitude additional noise called stochastic resonance been found experimentally mechanoreceptors crayfish citation cercal sensory system crickets citation human muscle spindles citation
+MISC--: relevance diversity stochastic resonance neurobiology was recently highlighted review article citation
+MISC--: linear response theory enables characterization recurrent dynamics random networks phase diagram citation citation
+MISC--: also yields approximations transmission correlated activity pairs neurons feed forward networks citation citation
+MISC--: furthermore spike timing dependent synaptic plasticity sensitive correlations between incoming synaptic spike train firing neuron captured up first order linear response kernel citation citation
+MISC--: neuron models non linear membrane potential dynamics linear response properties citation citation time dependent dynamics obtained numerically citation
+MISC--: afferent synchronized activity occurs e g primary sensory cortex citation easily drives neuron beyond range validity linear response
+MISC--: order understand transmission correlated activity response neuron fast transients multiple single synaptic amplitude citation hence needs quantified
+OWNX--: simulations neuron models realistic amplitudes postsynaptic potentials we observed systematic deviation output spike rate membrane potential distribution predictions fokker planck theory modeling synaptic currents gaussian white noise
+OWNX--: we excluded any artifacts numerics employing dedicated high accuracy integration algorithm citation citation
+MISC--: novel theory developed here explains observations lead us discovery new early component response neuron model linear response theory fails predict
+OWNX--: order quantify our observations we extend existing fokker planck theory citation hereby obtain mean time at membrane potential first reaches threshold mean first passage time
+MISC--: advantage fokker planck approach over alternative techniques been demonstrated citation
+CONT--: non gaussian noise however treatment appropriate boundary conditions membrane potential distribution utmost importance citation
+OWNX--: results section we develop fokker planck formalism treat absorbing boundary presence non zero jumps
+MISC--: special case simulated systems propagated time steps analog theory recently been published same authors citation allows assess artifacts introduced time discretization
+OWNX--: our theory applied integrate fire model small but finite synaptic amplitudes citation introduced section leaky integrate fire model quantitatively explains deviations classical theory gaussian white noise input
+OWNX--: after reviewing diffusion approximation general first order stochastic differential equation we derive novel boundary condition section diffusion finite increments absorbing boundary
+OWNX--: we then demonstrate section application leaky integrate fire neuron how steady state properties model influenced density just below threshold increased firing rate reduced correcting preexisting mean first passage time solution citation case finite jumps
+OWNX--: turning dynamic properties section response fast transients we investigate consequences transient responses firing rate synaptic impulse
+MISC--: we find instantaneous non linear response not captured linear perturbation theory diffusion limit displays marked stochastic resonance
+OWNX--: network level we demonstrate section dominance non linear component network level non linear fast response becomes most important component case feed forward inhibition
+OWNX--: discussion we consider limitations our approach mention possible extensions speculate about implications neural processing learning

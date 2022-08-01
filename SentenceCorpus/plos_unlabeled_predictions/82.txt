@@ -1,0 +1,23 @@
+OWNX--: well established various cortical regions implement wide array neural processes yet mechanisms integrate processes into behavior producing brain scale activity remain elusive
+OWNX--: we propose important role this respect might played executive structures controlling traffic information between cortical regions involved
+AIMX--: illustrate this hypothesis we present neural network model comprising set interconnected structures harboring stimulus related activity group executive units task related activity patterns manage information flowing between them
+MISC--: resulting dynamics allows network perform dual task either retaining image during delay recalling this image another one been associated during training
+MISC--: model reproduces behavioral electrophysiological data gathered inferior temporal prefrontal cortices primates performing same tasks
+OWNX--: also makes predictions how neural activity coding recall image associated sample emerges becomes prospective during training phase
+MISC--: network dynamics proves very stable against perturbations exhibits signs scale invariant organization cooperativity
+MISC--: present network represents possible neural implementation active top down prospective memory retrieval primates
+OWNX--: model suggests brain activity leading performance cognitive tasks might organized modular fashion simple neural functions becoming integrated into more complex behavior executive structures harbored prefrontal cortex basal ganglia
+MISC--: important unanswered question neurobiology how neural activity organizes itself produce coherent behavior
+MISC--: lesion electrophysiological imaging studies targeting specific cognitive functions provided very detailed insights into how different regions brain contribute behavior
+MISC--: more specifically they shown role various regions cortex implementing functions visual representation stimuli citation citation sustainment memory stimulus citation representation tasks citation abstract rules citation citation selection response among set possibilities citation citation shielding memory distractions citation planning movements citation
+MISC--: however remains unclear how different regions cortex interact together build even simplest behavior
+OWNX--: indeed even elementary action looking at object preparing reach requires cascade neural processes take place right order proper timing successful
+MISC--: here we propose adequate behavior generated set functions mentioned above if information cortical regions contain exchange each other managed executive control structures manner suiting task at hand
+OWNX--: brain scale activity coding integrated behavior might then constructed executive units repertoire simple neurocognitive functions would selected recruited ordered synchronized implement necessary neural computations
+AIMX--: illustrate this hypothesis we present neural network model able pass mixed delayed response task was introduced study memory retrieval monkey using visual associations citation citation citation
+MISC--: this task consists randomly mixed delayed matching sample delayed pair association trials citation citation require subject either maintain memory image during delay remember image associated respectively
+MISC--: type trial performed signaled subject during delay
+MISC--: network contains structures harboring image related activities each them implementing one elementary functions crucial task execution visual representation working memory planning memory
+MISC--: areas complemented executive units control activity held layers regulate information flow between them
+MISC--: neural computations necessary perform tasks encoded firing patterns control units coordinated depend strongly both trial type phase trial
+MISC--: resulting dynamics allows network trained dms then dpa task while reproducing electrophysiological data gathered inferior temporal citation citation prefrontal citation cortices monkeys performing similar tasks

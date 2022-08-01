@@ -1,0 +1,31 @@
+OWNX--: when movement outcome differs consistently intended movement errors used correct subsequent movements updating internal model motor sensory systems
+AIMX--: here we examine changes internal model motor system under changes variance structure movement errors lacking overall bias
+MISC--: we introduced horizontal visuomotor perturbation change statistical distribution movement errors anisotropically while monetary gains losses were awarded based movement outcomes
+OWNX--: we derive predictions simulated movement planners each differing its internal model motor system
+OWNX--: we find humans optimally respond overall change error magnitude but ignore anisotropy error distribution
+OWNX--: through comparison simulated movement planners we found aimpoints corresponded quantitatively ideal movement planner updates strictly isotropic internal model error distribution
+MISC--: aimpoints were planned manner ignored direction dependence error magnitudes despite continuous availability unambiguous information regarding anisotropic distribution actual motor errors
+MISC--: motor system exquisitely sensitive perturbation
+MISC--: ability sense discrepancy between planned executed movement respond accordingly one hallmarks motor learning citation citation citation citation
+OWNX--: here we concerned nature error signal used update future movement plans when result movement does not match intended outcome
+MISC--: course there infinite number statistics error signal cns might use update future motor plans ranging running average recent errors n th order moments distribution past errors
+OWNX--: we interested exploring limits what statistics modeled nervous system
+MISC--: previous work focused neuromotor corrections imposed bias where corrective responses found opposite direction previous errors proportional prior error extents citation citation citation
+MISC--: this work supports motor learning models future motor plans incorporate inverse command would produced previous error
+MISC--: this deterministic model motor learning suggests errors past movements subtracted off future motor plans
+OWNX--: models traced at least helmholtz citation who used this type model describe perceptual constancy following eye movements
+MISC--: however deterministic models fail recognize cns neither simply read off motor error noisy sensory signals nor produce identical motor outcomes repetitions motor commands
+MISC--: relationships between sensory signal motor error between motor command motor outcome must inferred those inferences far certain
+MISC--: recognizing this current research examined role uncertainty motor learning citation citation
+MISC--: example sheidt et al citation added stochastic element average force field found subjects adapted uncertain field strength tracking its expectation over recent errors
+OWNX--: here we interested response changes motor uncertainty ask whether responses result updating internal model motor variance if so aspects variance structure uncertain error signal modeled
+MISC--: studies we increased motor noise anisotropically stimulating reflexive motor response known occur when reaching presence horizontal visual field motion drift citation
+OWNX--: trial trial observers were shown leftward motion rightward motion static stimulus random order
+MISC--: motion if present began at halfway point reach resulted perturbation reach direction visual motion
+MISC--: subjects could not plan advance any particular drift condition since were randomly intermixed nor could they compensate drift online because timing reach drift onset insured reaches were completed before feedback correction was possible citation
+AIMX--: because this reflexive manual following response affects only horizontal component reach was possible test aspects new anisotropic distribution motor errors was modeled cns
+MISC--: we test changes internal representation motor noise monitoring changes reach plans toward visible targets depend details information available cns concerning motor uncertainty
+MISC--: experiments successful reaches targets earn subjects monetary bonus reaches instead intersect neighboring region screen induce monetary loss
+MISC--: two sessions each beginning reaches targets without penalties subjects learn their natural perturbed noise distributions then respond target penalty pairs later session allowing us assess their internal representation motor uncertainty
+OWNX--: our results indicate cns updates strictly circular internal model motor variance even when distribution actual errors anisotropic
+MISC--: this result consistent recent psychophysical neurophysiological results citation citation citation citation indicating independent encoding directions extents movement errors because system updates only circular internal representation errors equivalent system monitors only magnitudes those errors ignoring their directions

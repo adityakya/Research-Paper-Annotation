@@ -1,0 +1,37 @@
+MISC--: most non asymptotic theoretical work regression carried out square loss where estimators obtained through closed form expressions
+OWNX--: this paper we use extend tools convex optimization literature namely self concordant functions provide simple extensions theoretical results square loss logistic loss
+OWNX--: we apply extension techniques logistic regression regularization symbol norm regularization symbol norm showing new results binary classification through logistic regression easily derived corresponding results least squares regression
+MISC--: theoretical analysis statistical methods usually greatly simplified when estimators closed form expressions
+MISC--: methods based minimization certain functional m estimation methods citation this true when function minimize quadratic i e context regression square loss
+MISC--: when loss used asymptotic non asymptotic results may derived classical tools probability theory see eg citation
+MISC--: when function minimized m estimation not amenable closed form solutions local approximations then needed obtaining analyzing solution optimization problem
+MISC--: asymptotic regime this led interesting developments extensions results quadratic case eg consistency asymptotic normality see eg citation
+OWNX--: however situation different when one wishes derive non asymptotic results i e results where all constants problem explicit
+MISC--: indeed order prove results sharp square loss much notation many assumptions introduced regarding second third derivatives this makes derived results much more complicated than ones closed form estimators citation
+OWNX--: similar situation occurs convex optimization study newton s method obtaining solutions unconstrained optimization problems
+MISC--: known locally quadratically convergent convex problems
+MISC--: however its classical analysis requires cumbersome notations assumptions regarding second third order derivatives see eg citation
+OWNX--: this situation was greatly enhanced introduction notion self concordant functions i e functions whose third derivatives controlled their second derivatives
+MISC--: this tool analysis much more transparent citation
+AIMX--: while newton s method commonly used algorithm logistic regression see eg citation leading iterative least squares algorithms we don t focus paper resolution optimization problems but statistical analysis associated global minimizers
+AIMX--: this paper we aim borrow tools convex optimization self concordance analyze statistical properties logistic regression
+AIMX--: since logistic loss not itself self concordant function we introduce mysec self new type functions different control third derivatives
+OWNX--: functions we prove two types results first we provide lower upper taylor expansions i e taylor expansions globally upper bounding lower bounding given function
+OWNX--: second we prove results behavior newton s method similar ones self concordant functions
+OWNX--: we then apply them sections one step newton iterate population solution corresponding problem i e symbol symbol regularized logistic regression
+MISC--: this essentially shows analysis logistic regression done non asymptotically using local quadratic approximation logistic loss without complex additional assumptions
+OWNX--: since this approximation corresponds weighted least squares problem results least squares regression thus naturally extended
+AIMX--: order consider extensions make sure new results closely match corresponding ones least squares regression we derive appendix new bernstein like concentration inequalities quadratic forms bounded random variables obtained general results u statistics citation
+OWNX--: we first apply mysec l extension technique regularization symbol norm where we consider two settings situation no assumptions regarding conditional distribution observations another one where model assumed well specified we derive asymptotic expansions generalization performance explicit bounds remainder terms
+OWNX--: mysec l we consider regularization symbol norm extend two known recent results square loss one model consistency citation one prediction efficiency citation
+AIMX--: main contribution this paper make extensions simple possible allowing use non asymptotic second order taylor expansions paragraph notation symbol symbol we denote symbol symbol norm symbol defined symbol
+OWNX--: we also denote symbol its symbol norm
+OWNX--: we denote symbol symbol largest smallest eigenvalue symmetric matrix symbol
+OWNX--: we use notation symbol resp
+OWNX--: symbol positive semi definiteness matrix symbol resp
+MISC--: symbol
+MISC--: symbol symbol denotes sign symbol defined symbol if symbol symbol if symbol symbol if symbol
+MISC--: vector symbol symbol denotes vector signs elements symbol
+MISC--: moreover given vector symbol subset symbol symbol symbol denotes cardinal set symbol symbol denotes vector symbol elements symbol indexed symbol
+MISC--: similarly matrix symbol symbol denotes submatrix symbol composed elements symbol whose rows symbol columns symbol
+OWNX--: finally we let denote symbol symbol general probability measures expectations

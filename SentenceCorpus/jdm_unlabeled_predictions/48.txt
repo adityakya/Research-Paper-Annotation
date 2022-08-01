@@ -1,0 +1,38 @@
+MISC--: professional judges traffic courts sentence many hundreds offenders per year
+OWNX--: using number case files archives we compared matching heuristic mh compensatory weighing algorithms wm
+MISC--: we modeled cross validated models different subsets data took several other methodological precautions allowing each model select optimal number variables ordering weighing variables accordance different logics
+OWNX--: we did not reproduce finding dhami citation who found mh superior compensatory algorithm modeling bail granting decisions
+OWNX--: simulations brought out inner logic two family models showing what combination parameters works best
+MISC--: remains remarkable using only fraction variables combining them non compensatorily mh obtained nearly good fit weighing method
+AIMX--: this paper compares compensatory non conpensatory models descriptions how decisions made real life settings experienced practitioners
+MISC--: study concerns traffic judges punishment they mete out alleged offenders brought their court
+MISC--: judges traffic courts professional decision makers
+MISC--: their decisions them routine they handle dozens cases every month
+MISC--: defendants appearing court decisions significant involving sometimes hefty fines driving license suspension even prison
+OWNX--: we asked how many elements traffic judges consider how complex their decision patterns
+MISC--: study relying actual cases professional decision making contributes debate about plausibilitiy fast frugal heuristics psychological models cognition citation
+MISC--: there extensive literature how decision makers proceed when they rely multiple cues come decision
+MISC--: many researchers maintain decisions makers do not rely all information available combine any sophisticated way
+MISC--: instead claimed they rely simple heuristics sometimes turn out surprisingly efficient valid more complex approaches favored rational analysis citation
+AIMX--: this paper analyzes attempts model decisions made real life experienced traffic judges
+CONT--: how simple how complex judgments meted out
+OWNX--: do traffic judges consider all elements case
+MISC--: what extent do they integrate all information available them
+MISC--: there at least two causes superficial treatment available information
+OWNX--: first cognitive limitation
+CONT--: people do not use optimal approach because proper integration all information available beyond their mental powers
+OWNX--: all humans limited cognitive abilities citation this fundamental difficulty exacerbated conditions under traffic court judges work
+OWNX--: their workload high only few minutes available case each characterized some twenty parameters
+MISC--: strategy selection contingent task demands citation
+MISC--: time pressure specifically time available per variable been shown affect decision making citation resulting fewer variables being considered replacement complex cognitive strategies simpler ones citation processing hundreds cases month after month traffic court judges acquire vast experience
+MISC--: there therefore reason expect their decisions settle into some pattern
+CONT--: however this second factor they do not benefit feedback this important consequences
+MISC--: feedback appropriateness one s decisions been shown essential developing good strategies citation
+MISC--: particular while interactions often ignored multivariable decisions citation this not case when decision makers habitual access feedback their decisions care greatly about outcome citation
+MISC--: even if judges knew what happened offenders they sentenced they lack clear criterion evaluate quality their decision
+MISC--: judges little incentive develop complex decision rules
+MISC--: yet they surely do not render random judgments
+MISC--: instead accuracy they may strive adequate judgment one they consider appropriate circumstances expresses their attitudes about each case
+MISC--: yet even if this criterion adequacy replaces accuracy unlikely judges attempt reach best possible decision every case
+MISC--: since their task routine each case must quickly dispatched lest backlog increase plausible they do not invest much care judges higher courts where stakes arehigher acquaintance offender protracted
+MISC--: they may also use methods less well thought out than if resources were unlimited motivation high information complete

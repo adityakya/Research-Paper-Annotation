@@ -1,0 +1,25 @@
+MISC--: many cellular systems rely ability interpret spatial heterogeneities chemoattractant concentration direct cell migration
+OWNX--: accuracy this process limited stochastic fluctuations concentration external signal internal signaling components
+MISC--: here we use information theory determine optimal scheme detect location external chemoattractant source presence noise
+OWNX--: we compute minimum amount mutual information needed between chemoattractant gradient internal signal achieve prespecified chemotactic accuracy
+OWNX--: we show more accurate chemotaxis requires greater mutual information
+OWNX--: we also demonstrate priori information improve chemotaxis efficiency
+OWNX--: we compare optimal signaling schemes existing experimental measurements models eukaryotic gradient sensing
+MISC--: remarkably there good quantitative agreement between optimal response when no priori assumption made about location existing source observed experimental response unpolarized dictyostelium discoideum cells
+MISC--: contrast measured response polarized d discoideum cells matches closely optimal scheme assuming prior knowledge external gradient example through prolonged chemotaxis given direction
+OWNX--: our results demonstrate different observed classes responses cells optimal under varying information assumptions
+MISC--: recently there been considerable research demonstrating critical role played random fluctuations cellular signaling systems citation citation
+MISC--: stochastic variations found external signaling molecules citation well intracellular components citation
+MISC--: they arise because small number molecules involved signaling play significant roles gene regulatory networks citation citation well prokaryotic citation citation eukaryotic signal transduction pathways citation citation citation
+MISC--: proper functioning cellular signaling networks requires mechanisms tolerate effects noise citation
+CONT--: however questions remain how evaluate performance efficiency cellular decision making systems
+MISC--: how well does signaling network cell make decisions based signaling cues available
+MISC--: improvements made altering parameters structure network
+MISC--: how efficiently resources used
+MISC--: here we argue rate distortion theory citation branch information theory used evaluate effectiveness systems
+MISC--: application information theory study biology been under way some time citation citation received considerable attention fields neuroscience citation genetics citation citation
+CONT--: however full breadth this utility biological signaling systems general not been realized primarily because difficulty defining information general biological systems
+MISC--: here we use rate distortion theory tool study performance cost tradeoffs general spatial gradient sensing mechanisms similar those found many eukaryotic cells including neutrophils amoebae
+MISC--: rate distortion theory provides bounds rate at information must transmitted through system achieve given performance criterion
+OWNX--: our results demonstrate depending prior knowledge cell about its chemoattractant environment different optimal chemotaxis strategies exist
+OWNX--: furthermore we show differences observed behaviors unpolarized polarized chemotactic cells correspond various optimally efficient decision making processes

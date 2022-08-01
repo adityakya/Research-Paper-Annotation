@@ -1,0 +1,79 @@
+MISC--: suppose we given two probability measures set one way infinite finite alphabet sequences consider question when one measures predicts other when conditional probabilities converge certain sense when one measures chosen generate sequence
+MISC--: this question may considered refinement problem sequence prediction its most general formulation given class probability measures does there exist measure predicts all measures class
+OWNX--: address this problem we find some conditions local absolute continuity sufficient prediction generalize several different notions known sufficient prediction
+OWNX--: we also formulate some open questions outline direction finding conditions classes measures prediction possible
+MISC--: let sequence symbol symbol letters some finite alphabet symbol generated some probability measure symbol
+OWNX--: having observed first symbol letters symbol we want predict what probability next letter being symbol each symbol
+MISC--: this task motivated numerous applications weather forecasting stock market prediction data compression
+OWNX--: if measure symbol known completely then best forecasts one make symbol st outcome sequence symbol symbol conditional probabilities symbol given symbol
+MISC--: other hand immediately apparent if nothing known about distribution symbol generating sequence then no prediction possible since any predictor there measure errs gives inadequate probability forecasts every step
+MISC--: thus one restrict attention some class measures
+OWNX--: laplace was perhaps first address question sequence prediction his motivation being follows suppose we know sun risen every day years what probability will rise tomorrow
+MISC--: he suggested assume probability sun rises same every day trials independent each other
+MISC--: thus laplace considered task sequence prediction when true generating measure belongs family bernoulli iid measures binary alphabet symbol
+MISC--: predicting measure suggested laplace was symbol where symbol number s symbol
+MISC--: conditional probabilities laplace s measure symbol converge true conditional probabilities symbol almost surely under any bernoulli iid measure symbol
+CONT--: this approach generalizes problem predicting any finite memory e g markovian measure
+MISC--: moreover citation measure symbol was constructed predicting arbitrary stationary measure
+MISC--: conditional probabilities symbol converge true ones average where average taken over time steps cesaro sense symbol almost surely any stationary measure symbol
+MISC--: however was shown same work there no measure conditional probabilities converge true ones symbol s every stationary symbol
+OWNX--: thus we see already problem predicting outcomes stationary measure two criteria prediction arise prediction average cesaro sense prediction each step solution exists only former problem
+MISC--: but what if measure generating sequence not stationary
+MISC--: different assumption one make measure symbol generating sequence computable
+MISC--: solomonoff citation suggested measure symbol predicting any computable probability measure
+MISC--: key observation here class all computable probability measures countable let us denote symbol
+MISC--: bayesian predictor symbol countable class measures symbol constructed follows symbol any measurable set where weights symbol positive sum one
+MISC--: best predictor measure symbol measure symbol itself
+MISC--: bayesian predictor simply takes weighted average predictors all measures class countable classes this possible
+MISC--: was shown solomonoff citation symbol conditional probabilities converge symbol conditional probabilities almost surely any computable measure symbol
+MISC--: fact this special case more general though without convergence rate result blackwell dubins citation states if measure symbol absolutely continuous respect measure symbol then symbol converges symbol total variation symbol almost surely
+MISC--: convergence total variation means prediction very strong sense convergence conditional probabilities arbitrary events not just next outcome prediction arbitrary fast growing horizon
+MISC--: since symbol we symbol every measurable set symbol every symbol each symbol absolutely continuous respect symbol
+MISC--: thus problem sequence prediction certain classes measures class all stationary measures class all computable measures was often addressed literature
+MISC--: although mentioned classes measures sufficiently interesting often hard decide applications assumptions does problem at hand comply not mention practical issues predicting measure all computable measures necessarily non computable itself
+MISC--: moreover able generalize solutions sequence prediction problem problems active learning where outcomes sequence may depend actions predictor one understand better under conditions problem sequence prediction solvable
+MISC--: particular active learning stationarity assumption does not seem applicable since predictions non stationary although say markov assumption often applicable extensively studied
+AIMX--: thus we formulate following general questions we start address present work classes measures sequence prediction possible
+OWNX--: under conditions does measure symbol predict measure symbol
+MISC--: we seen questions many facets particular there many criteria prediction considered almost sure convergence conditional probabilities convergence average etc
+MISC--: extensive literature sequence prediction questions their full generality not received much attention
+MISC--: one line research exhibits this kind generality consists extending result blackwell dubins mentioned above states if symbol absolutely continuous respect symbol then symbol predicts symbol total variation distance
+MISC--: citation question whether given class measures symbol prior meta measure symbol over this class measures conditional probabilities bayesian mixture class symbol w r t
+MISC--: symbol converge true symbol probabilities weakly merge terminology citation symbol almost any measure symbol symbol
+MISC--: this question considered solved since authors provide necessary sufficient conditions measure given mixture class symbol w r t
+MISC--: symbol under prediction possible
+OWNX--: major difference general questions we posed above we do not wish assume we measure our class measures
+MISC--: large non parametric classes measures may not intuitive measure over natural rather question whether natural measure used prediction exists
+OWNX--: address general questions posed we start following observation
+MISC--: was mentioned bayesian mixture symbol countable class measures symbol symbol we symbol any symbol any measurable set symbol where symbol constant
+MISC--: this condition stronger than assumption absolute continuity sufficient prediction very strong sense
+OWNX--: since we willing satisfied prediction weaker sense e g convergence conditional probabilities let us make weaker assumption say measure symbol dominates measure symbol coefficients symbol if rho x dots x n geq c n mu x dots x n all symbol paranodot first concrete question we pose under what conditions symbol does imply symbol predicts symbol
+MISC--: observe if symbol any symbol then any measure symbol locally absolutely continuous respect symbol measure symbol restricted first symbol trials symbol absolutely continuous w r t
+MISC--: symbol each symbol moreover any measure symbol some constants symbol found satisfy
+MISC--: example if symbol bernoulli iid measure parameter symbol symbol any other measure then trivially satisfied symbol
+OWNX--: thus we know if symbol then symbol predicts symbol very strong sense whereas exponentially decreasing symbol not enough prediction
+OWNX--: perhaps somewhat surprisingly we will show dominance any subexponentially decreasing coefficients sufficient prediction weak sense convergence expected averages
+MISC--: dominance any polynomially decreasing coefficients also coefficients decreasing example symbol sufficient almost sure prediction average i e cesaro sense
+CONT--: however prediction every step we negative result any dominance coefficients go zero there exists pair measures symbol symbol satisfy but symbol does not predict symbol sense almost sure convergence probabilities
+MISC--: thus situation similar predicting any stationary measure prediction possible average but not every step
+OWNX--: note also laplace s measure symbol shown symbol dominates any iid measure symbol linearly decreasing coefficients symbol generalization symbol predicting all measures memory symbol given symbol dominates them polynomially decreasing coefficients
+OWNX--: thus dominance decreasing coefficients generalizes sense predicting countable classes measures where we dominance constant absolute continuity via local absolute continuity predicting iid finite memory measures
+OWNX--: another way look generalizations follows
+MISC--: bayes mixture symbol being sum countably many measures predictors possesses some their predicting properties
+MISC--: general predictive properties preserved under summation
+OWNX--: particular if we two predictors symbol symbol two classes measures we interested question whether symbol predictor union two classes
+OWNX--: answer this question would improve our understanding how far class measures predicting measure exists extended without losing this property paranodot thus second question we consider following suppose measure symbol predicts symbol some weak sense let symbol some other measure e g predictor different class measures
+MISC--: does measure symbol still predict symbol
+OWNX--: we ask prediction quality criteria does idea taking bayesian sum generalize
+MISC--: absolute continuity preserved under summation along s strong prediction ability
+MISC--: was mentioned citation prediction weak sense convergence expected averages conditional probabilities preserved under summation
+OWNX--: here we find several stronger notions prediction not preserved under summation
+OWNX--: thus we address following two questions
+OWNX--: dominance decreasing coefficients sufficient prediction some sense under some conditions coefficients
+MISC--: if measure symbol predicts measure symbol some sense does measure symbol also predict symbol same sense where symbol arbitrary measure
+OWNX--: considering different criteria prediction s convergence conditional probabilities s convergence averages etc above two questions we obtain not two but many different questions some we answer positive some negative yet some left open
+AIMX--: paper organized follows
+OWNX--: section introduces necessary notation measures divergence probability measures
+OWNX--: section addresses question whether dominance decreasing coefficients sufficient prediction while section we consider question summing predictor arbitrary measure
+MISC--: both sections also propose some open questions directions future research
+OWNX--: section we discuss some interesting special cases questions considered also some related problems

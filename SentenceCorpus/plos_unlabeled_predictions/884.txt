@@ -1,0 +1,43 @@
+MISC--: evolution shaping world around us
+MISC--: at core every evolutionary process population reproducing individuals
+MISC--: outcome evolutionary process depends population structure
+MISC--: here we provide general formula calculating evolutionary dynamics wide class structured populations
+MISC--: this class includes recently introduced games phenotype space evolutionary set theory
+MISC--: there local interactions determining relative fitness individuals but we require global updating means all individuals compete uniformly reproduction
+OWNX--: we study competition two strategies context evolutionary game determine strategy favored limit weak selection
+OWNX--: we derive intuitive formula structure coefficient provide method efficient numerical calculation
+MISC--: constant selection implies fitness individuals does not depend composition population
+MISC--: general however success individuals affected what others doing
+BASE--: then we realm game theory citation citation evolutionary game theory citation citation
+MISC--: latter study frequency dependent selection fitness individuals typically assumed linear function frequencies strategies population
+MISC--: population trying adapt dynamic fitness landscape changes fitness landscape caused population moves over citation
+MISC--: there also close relationship between evolutionary game theory ecology citation success species ecosystem depends its own abundance abundance other species
+MISC--: classical approach evolutionary game dynamics based deterministic differential equations describing infinitely large well mixed populations citation citation
+MISC--: well mixed population any two individuals interact equally likely
+MISC--: some recent approaches consider stochastic evolutionary dynamics populations finite size citation citation
+MISC--: evolutionary game dynamics also affected population structure citation citation
+MISC--: example well mixed population typically opposes evolution cooperation while structured population promote
+MISC--: there also long standing tradition studying spatial models ecology citation citation population genetics citation citation inclusive fitness theory citation citation
+MISC--: evolutionary graph theory extension spatial games normally studied regular lattices general graphs citation citation
+MISC--: graph determines who meets whom reflects physical structure social networks
+MISC--: payoff individuals derived local interactions their neighbors graph
+MISC--: moreover individuals compete locally their neighbors reproduction
+MISC--: two processes also described separate graphs citation
+MISC--: games phenotype space citation represent another type spatial model evolutionary dynamics motivated idea tag based cooperation citation citation
+MISC--: addition behavioral strategies individuals express other phenotypic features serve markers identification
+MISC--: one version model individuals interact only those who carry same phenotypic marker
+MISC--: this approach lead clustering phenotype space promote evolution cooperation citation
+MISC--: evolutionary set theory represents another type spatial model citation
+MISC--: each individual belong several sets
+MISC--: at particular time some sets many members while others empty
+MISC--: individuals interact others same set thereby derive payoff
+MISC--: individuals update their set memberships strategies global comparison others
+MISC--: successful strategies spawn imitators successful sets attract more members
+MISC--: therefore population structure described ever changing dynamical graph
+MISC--: evolutionary dynamics set structured populations favor cooperators over defectors
+MISC--: all three frameworks evolutionary graph theory games phenotype space evolutionary set theory fitness individuals consequence local interactions
+MISC--: evolutionary graph theory there also local update rule individuals learn their neighbors graph compete nearby individuals placing offspring
+MISC--: evolutionary set theory however citation assumes global updating individuals learn all others population adopt their strategies set memberships
+MISC--: global updating also feature model games phenotype space citation
+AIMX--: approach presented this paper requires global updating
+MISC--: therefore our result holds evolutionary set theory games phenotype space but does not apply evolutionary graph theory

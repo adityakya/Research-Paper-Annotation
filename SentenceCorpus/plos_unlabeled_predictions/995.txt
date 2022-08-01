@@ -1,0 +1,55 @@
+OWNX--: t cell populations regulated both signals specific t cell receptor signals resources cytokines space act independently tcr specificity
+OWNX--: although been demonstrated disruption either pathways profound effect t cell development we do not yet understanding dynamical interactions pathways their joint shaping t cell repertoire
+MISC--: complete digeorge anomaly developmental abnormality results failure thymus develop absence t cells profound immune deficiency
+MISC--: after receiving thymic tissue grafts patients suffering digeorge anomaly develop t cells derived their own precursors but matured donor tissue
+OWNX--: we followed three digeorge patients after thymus transplantation utilize remarkable opportunity subjects provide elucidate human t cell developmental regulation
+OWNX--: our goal determination respective roles tcr specific vs tcr nonspecific regulatory signals growth emerging t cell populations
+OWNX--: during course study we measured peripheral blood t cell concentrations tcr v gene segment usage cdr length spectratypes over two years more each subjects
+MISC--: we find through statistical analysis based novel stochastic population dynamic t cell model carrying capacity corresponding tcr specific resources approximately fold larger than tcr nonspecific resources implying size peripheral t cell pool at steady state determined almost entirely tcr nonspecific mechanisms
+MISC--: nevertheless diversity tcr repertoire depends crucially tcr specific regulation
+MISC--: estimated strength this tcr specific regulation sufficient ensure rapid establishment tcr repertoire diversity early phase t cell population growth maintain tcr repertoire diversity face substantial clonal expansion induced perturbation steady state
+MISC--: essential characteristic t lymphocytes their ability population recognize enormous number peptide antigens
+MISC--: this capability essential function adaptive immune system attributable diversity t cell receptors they express
+MISC--: this diversity turn comes about through stochastic assembly tcr genomic libraries gene segments tcr alpha beta chains two polypeptides together make up most common form tcr citation citation
+MISC--: this rearrangement process takes place thymus ultimate source tcr repertoire diversity though many other forces shape raw materials thus provided citation
+OWNX--: other forces we concerned this study
+MISC--: peripheral t cell population maintained at constant size spite substantial continual turnover ongoing thymic production clonal expansion response immunological challenges citation citation
+OWNX--: although detailed understanding t cell homeostasis not yet complete clear maintenance t cell population size results interplay several mechanisms acting both enhance population growth at low population density limit population growth at high population density citation citation
+MISC--: healthy individual absence overt immune activation rate t cell division periphery small regulated through competition resources including growth signals
+MISC--: t cell deficient host however so called lymphopenia induced proliferation rapidly restores system steady state numbers citation
+MISC--: diverse lines investigation imply signals delivered resources provided through both tcr specific tcr nonspecific channels essential establishment maintenance size diversity t cell populations citation citation
+MISC--: experiments performed thus far been performed non human animals represent limiting cases one more signals resources entirely eliminated
+OWNX--: we interested understanding phenomena humans more natural setting regulation via both tcr specific tcr non specific mechanisms intact their interplay jointly determine size t cell population diversity tcr repertoire
+AIMX--: our intent this paper elucidate mechanisms lead expansion diversification tcr repertoire recovering t cell deficient host our case complete digeorge subject received unrelated unmatched thymus transplant
+MISC--: after transplantation host t cell precursors migrate bone marrow donor thymus where they develop via thymopoiesis into host t cells then emigrate into peripheral blood
+MISC--: here t cells capacity undergo spontaneous clonal expansion thus leading restoration peripheral t cell pool
+MISC--: expansion continues until steady state reached
+OWNX--: throughout this process selective pressure survival emerges among within clones through competition stimulatory signals
+MISC--: steady state t cell population size arises balance among several phenomena including rapid extensive expansion rare clones through activation induced peripheral division their subsequent contraction relatively slow turnover diverse pool naive cells through continuous thymic emigration cell death
+MISC--: specific memory t cells arise result clonal expansion appear regulated largely independently naive cells citation
+MISC--: t cells arising through lymphopenia induced proliferation acquire markers ordinarily indicate memory phenotype may regulated memory cells though this hypothesis not been definitively tested
+MISC--: both size diversity peripheral t cell populations controlled through competition limiting resources
+MISC--: citation citation may also controlled directly activities regulatory t cells citation
+MISC--: been shown example normal t cell population growth dependent stimulation self peptide major histocompatibility complex complexes through tcr citation citation requiring tcr specific spmhc complex
+MISC--: but t cell population growth also depends cytokines il il act independently tcr specificity citation citation citation
+MISC--: furthermore growth survival all cells require adequate space nutrients utilization independent tcr specificity citation citation
+MISC--: our current understanding lymphopenia induced proliferation due studies mice demonstrating t cells divide rapidly after transfer into t cell deficient irradiated mice but not after transfer normal mice citation citation
+OWNX--: moreover overall t cell numbers t cell deficient animals after transfer clonal expansion similar t cell numbers normal animals suggesting control mechanisms acting total t cell numbers rather than clone specific manner
+MISC--: importance tcr specific signals been studied at length showing competition within t cell clones important maintaining tcr repertoire diversity
+MISC--: been shown example t cell deficient host t cell must interact antigen presenting cells bearing mhc allele responsible cell s thymic selection order proliferate citation
+MISC--: t cell sufficient host tcr spmhc interaction necessary t cell survival citation citation
+MISC--: furthermore naive polyclonal t cells divide when transferred tcr transgenic hosts do monoclonal t cells transferred tcr transgenic hosts differing clonotype
+MISC--: t cells do not divide however hosts identical clonotype citation
+MISC--: mice lacking mhc class ii expression do not repopulate periphery cd t cells at all suggesting peripheral mhc class ii expression needed survival cd t cells citation
+MISC--: present context important note mhc class ii matching thymic grafts complete digeorge subjects not necessary development cd t cells citation
+MISC--: tcr nonspecific signals include cytokines cytokine interleukin necessary survival nave t cells citation citation
+MISC--: lymphopenia induced proliferation memory cells requires il il citation citation
+MISC--: t cells lost ability respond il after leaving thymus no longer able proliferate produce cytokines acquire memory cell phenotype citation
+MISC--: mice il signaling been completely abrogated few mature t cells found peripheral blood behave abnormally citation citation citation
+MISC--: experiments il receptor formula deficient mice shown reduction t cell capacity proliferate upon stimulation leading six seven fold reduction frequency clonogenic t cells compared t cells il r sufficient mice well percent reduction average clone size single il r t cells compared il r t cells citation
+OWNX--: another study mice lacking interleukin receptor formula chain jak family tyrosine kinase had severe combined immune defects lack t lymphocyte maturation function
+MISC--: this phenomenon presumably attributable fact formula part receptor il il citation its loss leads abrogation both cytokine signaling pathways citation citation others well
+MISC--: moreover humans absence formula jak family periphery lacks t cells completely citation citation
+MISC--: assess contributions thymic emigration rate steady state t cell population size berzins et al citation engrafted variable numbers thymuses into mice observed size naive t cell population increased proportion number thymic grafts while size memory population remained unchanged
+MISC--: may importance note thymus grafts themselves produced il
+OWNX--: humans transplantation thymic tissue at varying doses into complete digeorge anomaly subjects showed no significant effect nave cd cd t cell numbers citation

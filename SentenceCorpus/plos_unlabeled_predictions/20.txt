@@ -1,0 +1,79 @@
+MISC--: central problem bioinformatics gene regulation find binding sites regulatory proteins
+MISC--: one most promising approaches toward identifying short fuzzy sequence patterns comparative analysis orthologous intergenic regions related species
+MISC--: this analysis complicated various factors
+MISC--: first one needs take phylogenetic relationship between species into account order distinguish conservation due occurrence functional sites spurious conservation due evolutionary proximity
+MISC--: second one deal complexities multiple alignments orthologous intergenic regions one consider possibility functional sites may occur outside conserved segments
+AIMX--: here we present new motif sampling algorithm phylogibbs runs arbitrary collections multiple local sequence alignments orthologous sequences
+MISC--: algorithm searches over all ways arbitrary number binding sites arbitrary number transcription factors assigned multiple sequence alignments
+MISC--: binding site configurations scored bayesian probabilistic model treats aligned sequences model evolution binding sites background intergenic dna
+MISC--: this model takes phylogenetic relationship between species alignment explicitly into account
+OWNX--: algorithm uses simulated annealing monte carlo markov chain sampling rigorously assign posterior probabilities all binding sites reports
+MISC--: tests synthetic data real data five saccharomyces species our algorithm performs significantly better than four other motif finding algorithms including algorithms also take phylogeny into account
+OWNX--: our results also show contrast other algorithms phylogibbs make realistic estimates reliability its predictions
+OWNX--: our tests suggest running five species multiple alignment single gene s upstream region phylogibbs average recovers over percent all binding sites s cerevisiae at specificity about percent percent all binding sites at specificity about percent
+OWNX--: we also tested phylogibbs collections multiple alignments intergenic regions were recently annotated based chip chip data contain binding sites same tf
+OWNX--: we compared phylogibbs s results previous analysis data using six other motif finding algorithms
+MISC--: tfs all other motif finding methods failed find significant motif phylogibbs did recover motif matches literature consensus
+OWNX--: cases where there was disagreement results we compiled lists known target genes literature found running phylogibbs their regulatory regions yielded binding motif matching literature consensus all but one cases
+MISC--: interestingly literature gene lists had little overlap targets annotated based chip chip data
+MISC--: phylogibbs code downloaded link link
+OWNX--: full set predicted sites our tests yeast available at link
+MISC--: transcription factors proteins bind sequence specific manner short dna segments most commonly intergenic dna upstream gene activate suppress gene transcription
+MISC--: their dna binding domains recognize collections short related dna sequences
+MISC--: one generally finds although there no unique combination bases shared all binding sites although different bases occur at each position there clear biases distribution bases occur at each position binding sites
+MISC--: common mathematical representation motif takes this variability into account so called weight matrix citation citation w whose components w i give probabilities finding base c g t at position i binding site
+MISC--: main assumption underlying this mathematical representation bases occurring at different positions binding site probabilistically independent
+MISC--: this turn follows under some conditions citation assumption binding energy protein dna sum pairwise contact energies between individual nucleotides protein
+MISC--: there several algorithms based wm representation detect ab initio binding sites common tf collection dna sequences citation citation
+MISC--: algorithms broadly fall into two classes
+OWNX--: one class meme citation typical representative searches space all wms wm best explain observed sequences
+MISC--: class gibbs sampling algorithms gibbs motif sampler citation citation typical representative instead samples space all multiple alignments small sequence segments search one most likely consist samples common wm
+MISC--: crucial factor success ab initio methods ratio number binding sites total amount dna collection sequences
+MISC--: larger number binding sites set smaller total amount dna more likely ab initio methods discover binding sites among other dna sequences
+MISC--: order ensure reasonable chance success one thus needs provide methods collections sequences highly enriched binding sites common tf
+OWNX--: one possibility use sets upstream regions genes appear co regulated microarray experiments were bound common tf chip chip experiments
+MISC--: another possibility use upstream regions orthologous genes related organisms
+MISC--: here assumption regulation ancestor gene thus its binding sites been conserved orthologs descend
+CONT--: this latter approach general complicated number factors
+MISC--: when searching regulatory sites sequences not phylogenetically related upstream regions different genes same organism one may simply look short sequence motifs overrepresented among input sequences
+MISC--: if set species orthologous sequences derive sufficiently diverged one may simply choose ignore phylogenetic relationship between sequences treat orthologous sequences same way sequences not phylogenetically related
+MISC--: this was instance approach taken mccue et al citation citation where gibbs motif sampler algorithm citation citation was used upstream regions proteo bacteria
+CONT--: however this approach not applicable datasets containing more closely related species where some sequences will exhibit significant amounts similarity simply because their evolutionary proximity
+MISC--: moreover amount similarity will depend phylogenetic distance between species clear finding conserved sequence motifs between orthologous sequences closely related species much less indicative function than finding sequence motifs conserved between distant species
+MISC--: one will general thus distinguish conservation due functional constraints conservation due evolutionary proximity do this correctly phylogenetic relationship between sequences taken into account
+MISC--: second challenge using orthologous intergenic sequences multiple species nontrivial structure their multiple alignments
+MISC--: one typically finds very heterogeneous pattern conservation well conserved blocks different sizes covering different subsets species interspersed sequence segments show little similarity sequences other species
+MISC--: technique phylogenetic footprinting restricts attention only those sequence segments genome interest show significant conservation other species
+MISC--: conserved regions multiple genes then searched common motifs variety techniques
+CONT--: unclear however what extent regulatory sites restricted conserved segments
+MISC--: instance several studies drosophila yeast citation citation shown there no strong correlation between where experimentally annotated binding sites occur whether region conserved
+MISC--: thus at least yeast flies considerable information lost focusing conserved regions only
+OWNX--: we thus decided retain entire patchwork pattern conserved sequence blocks unaligned segments
+OWNX--: our strategy implemented gibbs sampling approach preliminary account algorithm was presented citation
+BASE--: algorithm operates arbitrary collections both phylogenetically related sequences orthologous intergenic regions sequences not phylogenetically related upstream regions different genes same organism
+MISC--: phylogenetically related groups sequences input pre aligned into local multiple alignments where clearly similar sequence segments aligned into blocks sequence segments no marginal similarity left unaligned citation
+OWNX--: although algorithm also take global multiple alignments input we believe often force phylogenetically unrelated segments into aligned blocks
+CONT--: this may adversely affect performance algorithm
+OWNX--: we score putative sites within blocks aligned sequences evolutionary model takes phylogenetic relationships species into account while putative sites unaligned segments treated independent occurrences
+OWNX--: this bayesian model defines probability distribution over arbitrary placements putative binding sites multiple motifs we sample monte carlo markov chain
+OWNX--: we first use simulated annealing search globally optimal configuration binding sites
+OWNX--: motifs this configuration then tracked further sampling run estimate realistic posterior probabilities all binding sites algorithm reports
+MISC--: recently number other algorithms been developed search regulatory motifs groups phylogenetically related sequences
+OWNX--: probably first algorithm was proposed generalization consensus algorithm citation called phylocon citation
+MISC--: phylocon operates sets co regulated genes their orthologs
+MISC--: greedy algorithm first finds ungapped alignments similar sequence segments sets orthologous sequences then combines alignments different upstream regions into larger alignments
+MISC--: this algorithm does not take any phylogenetic information into account i e closely related sequences treated same distantly related sequences
+OWNX--: other drawbacks this algorithm assumes each motif will exactly one site each intergenic regions assumes this site conserved all orthologs
+MISC--: more closely related phylogibbs s approach two recent algorithms citation citation generalize meme citation take phylogenetic relationships between species into account
+MISC--: main difference between emnem phyme phyme uses same evolutionary model evolution binding sites phylogibbs takes into account binding sites evolve under constraints set wm whereas emnem simply assumes overall slower rate evolution binding sites than background sequences
+MISC--: another difference phyme like phylogibbs treats multiple alignment more flexibly than emnem demands global multiple alignment
+CONT--: main difference between phylogibbs algorithms course phylogibbs takes motif sampling approach allows us search multiple motifs parallel whereas phyme emnem use expectation maximization search one wm at time
+OWNX--: following sections we first describe our bayesian model assigns posterior probability each configuration binding sites multiple motifs assigned input sequences
+BASE--: we start describing model phylogenetically unrelated sequences essentially equivalent model used gibbs motif sampler citation citation then describe how this model extended datasets contain phylogenetically related sequences
+OWNX--: after we describe move set we search state space all possible configurations annealing tracking strategy we use identify significant groups sites
+OWNX--: we then present examples performance ours other algorithms both synthetic real data
+OWNX--: synthetic datasets consist mixtures wm samples random sequences accordance assumptions all algorithms make
+OWNX--: this allows us compare performance algorithms idealized situation does not contain complexities real data
+OWNX--: tests also show what extent binding sites recovered this idealized data function quality wms number sites available number species available their phylogenetic distances
+BASE--: our tests real data we use upstream regions saccharomyces cerevisiae known binding sites collection citation compare ability different algorithms recover sites when running multiple alignments orthologs upstream regions recently sequenced saccharomyces genomes citation citation
+OWNX--: finally we run phylogibbs collections upstream region alignments were annotated citation contain binding sites common tf based data chip chip experiments we extensively compare phylogibbs results annotations citation literature

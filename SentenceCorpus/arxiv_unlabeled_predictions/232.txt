@@ -1,0 +1,50 @@
+AIMX--: this paper we consider coherent theory epistemic uncertainty walley beliefs represented through sets probability distributions we focus problem modeling prior ignorance about categorical random variable
+MISC--: this setting known result state prior ignorance not compatible learning
+OWNX--: overcome this problem another state beliefs called near ignorance been proposed
+MISC--: near ignorance resembles ignorance very closely satisfying some principles arguably regarded necessary state ignorance allows learning take place
+OWNX--: what this paper does provide new substantial evidence also near ignorance cannot really regarded way out problem starting statistical inference conditions very weak beliefs
+MISC--: key this result focusing setting characterized variable interest latent
+OWNX--: we argue setting far most common case practice we provide case categorical latent variables general manifest variables condition if satisfied prevents learning take place under prior near ignorance
+MISC--: this condition shown easily satisfied even most common statistical problems
+OWNX--: we regard results strong form evidence against possibility adopt condition prior near ignorance real statistical problems
+MISC--: epistemic theories statistics often confronted question prior ignorance
+MISC--: prior ignorance means subject who about perform statistical analysis missing substantial beliefs about underlying data generating process
+MISC--: yet subject would like exploit available sample draw some statistical conclusion i e subject would like use data learn moving away initial condition ignorance
+BASE--: this situation very important often desirable start statistical analysis weak assumptions about problem interest thus trying implement objective minded approach statistics
+MISC--: fundamental question whether prior ignorance compatible learning not
+OWNX--: walley gives negative answer case his self consistent coherent theory statistics based modeling beliefs through sets probability distributions
+OWNX--: he shows very general sense vacuous prior beliefs i e beliefs priori maximally imprecise lead vacuous posterior beliefs irrespective type amount observed data citation
+MISC--: at same time he proposes focusing slightly different state beliefs called near ignorance does enable learning take place citation
+OWNX--: loosely speaking near ignorant beliefs beliefs vacuous proper subset functions random variables under consideration see section
+OWNX--: this way near ignorance prior still gives one possibility express vacuous beliefs some functions interest at same time maintains possibility learn data
+MISC--: fact learning possible under prior near ignorance shown instance special case imprecise dirichlet model idm citation
+OWNX--: this popular model based near ignorance set priors used case inference categorical data generated multinomial process
+OWNX--: our aim this paper investigate whether near ignorance really regarded possible way out problem starting statistical inference conditions very weak beliefs
+OWNX--: we carry out this investigation setting made categorical data generated multinomial process like idm but we consider near ignorance sets priors general not only used idm
+MISC--: interest this investigation motivated fact near ignorance sets priors appear play crucially important role question modeling prior ignorance about categorical random variable
+MISC--: key point near ignorance sets priors made satisfy two principles symmetry embedding principles
+OWNX--: first well known equivalent laplace s indifference principle second states loosely speaking if we ignorant priori our prior beliefs event interest should not depend space possibilities event embedded see section discussion about two principles
+MISC--: walley citation later de cooman miranda citation argued extensively necessity both symmetry embedding principles order characterize condition ignorance about categorical random variable
+OWNX--: this implies if we agree symmetry embedding principles necessary ignorance near ignorance sets priors should regarded especially important avenue subject who wishes learn starting condition ignorance
+MISC--: our investigation starts focusing setting where categorical variable symbol under consideration latent
+AIMX--: this means we cannot observe realizations symbol so we learn about only means another not necessarily categorical variable symbol related symbol through known conditional probability distribution symbol
+OWNX--: variable symbol assumed manifest sense its realizations observed see section
+AIMX--: intuition behind setup considered made symbol symbol many real cases not possible directly observe value random variable we interested instance when this variable represents patient s health we observing result diagnostic test
+MISC--: cases we need use manifest variable medical test order obtain information about original latent variable patient s health
+AIMX--: this paper we regard passage latent manifest variable made process we call observational process
+OWNX--: using introduced setup we give condition section related likelihood function shown sufficient prevent learning about symbol under prior near ignorance
+MISC--: condition very general developed any set priors models near ignorance thus including case idm very general kinds probabilistic relations between symbol symbol
+OWNX--: we show then simple examples condition easily satisfied even most elementary common statistical problems
+MISC--: order fully appreciate this result important realize latent variables ubiquitous problems uncertainty
+AIMX--: key point here scope observational processes greatly extends if we consider even when we directly obtain value variable interest what we actually obtain observation value rather than value itself
+MISC--: doing this distinction makes sense because practice observational process usually imperfect i e there very often could argued there always positive probability confounding realized value symbol another possible value committing thus observation error
+OWNX--: course if probability observation error very small we consider one common bayesian model proposed learn under prior ignorance then there little difference between results provided latent variable model modeling correctly observational process results provided model where observations assumed perfect
+MISC--: this reason observational process often neglected practice distinction between latent variable manifest one not enforced
+OWNX--: but other hand if we consider sets probability distributions model our prior beliefs instead single probability distribution particular if we consider near ignorance sets priors then there extreme difference between latent variable model model where observations considered perfect so learning may impossible first model possible second
+MISC--: consequence when dealing sets probability distributions neglecting observational process may no longer justified even if probability observation error tiny
+OWNX--: this shown definite sense example section where we analyze relevance our results special case idm
+AIMX--: proofs this paper follows this kind behavior mainly determined presence near ignorance set priors extreme almost deterministic distributions
+MISC--: question problematic distributions usually not considered when dealing bayesian models single prior cannot ruled out without dropping near ignorance
+OWNX--: considerations highlight quite general applicability present results raise hence serious doubts about possibility adopt condition prior near ignorance real opposed idealized applications statistics
+MISC--: consequence may make sense consider re focusing research about this subject developing models very weak states belief however stronger than near ignorance
+MISC--: this might also involve dropping idea both symmetry embedding principles realistically met practice

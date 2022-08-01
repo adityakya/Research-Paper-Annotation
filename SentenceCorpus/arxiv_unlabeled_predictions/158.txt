@@ -1,0 +1,14 @@
+OWNX--: we consider task learning classifier feature space symbol set classes symbol when features partitioned into class conditionally independent feature sets symbol symbol
+MISC--: we show surprising fact class conditional independence used represent original learning task terms learning classifier symbol symbol learning class conditional distribution feature set symbol
+OWNX--: this fact exploited semi supervised learning because former task accomplished purely unlabeled samples
+OWNX--: we present experimental evaluation idea two real world applications
+MISC--: semi supervised learning said occur when learner exploits presumably large quantity unlabeled data supplement relatively small labeled sample accurate induction
+MISC--: high cost labeled data simultaneous plenitude unlabeled data many application domains led considerable interest semi supervised learning recent years
+OWNX--: we show somewhat surprising consequence class conditional feature independence leads simple semi supervised learning algorithm
+MISC--: when feature set partitioned into two class conditionally independent sets we show original learning problem reformulated terms problem learning predictor one partitions other
+MISC--: latter partition acts surrogate class variable
+OWNX--: since predictor learned only unlabeled samples effective semi supervised algorithm results
+OWNX--: next section we present simple yet interesting result our semi supervised learning algorithm we call surrogate learning based
+OWNX--: we present examples clarify intuition behind approach present special case our approach used applications section
+AIMX--: we then examine related ideas previous work situate our algorithm among previous approaches semi supervised learning
+OWNX--: we present empirical evaluation two real world applications where required assumptions our algorithm satisfied

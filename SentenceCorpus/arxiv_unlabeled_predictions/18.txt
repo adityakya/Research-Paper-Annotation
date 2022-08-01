@@ -1,0 +1,70 @@
+MISC--: consider agent interacting environment cycles
+MISC--: every interaction cycle agent rewarded its performance
+OWNX--: we compare average reward symbol cycle symbol symbol average value future discounted reward symbol cycle symbol symbol discounted value
+OWNX--: we consider essentially arbitrary non geometric discount sequences arbitrary reward sequences non mdp environments
+OWNX--: we show asymptotically symbol symbol symbol symbol equal provided both limits exist
+MISC--: further if effective horizon grows linearly symbol faster then existence limit symbol implies limit symbol exists
+MISC--: conversely if effective horizon grows linearly symbol slower then existence limit symbol implies limit symbol exists
+MISC--: we consider reinforcement learning setup citation where agent interacts environment cycles
+OWNX--: cycle symbol agent outputs acts symbol then makes observation symbol receives reward symbol both provided environment
+MISC--: then next cycle symbol starts
+OWNX--: simplicity we assume agent environment deterministic
+OWNX--: typically one interested action sequences called plans policies agents result high reward
+MISC--: simplest reasonable measure performance total reward sum equivalently average reward called average value symbol where symbol should lifespan agent
+MISC--: one problem lifetime often not known advance eg often time one willing let system run depends its displayed performance
+MISC--: more serious measure indifferent whether agent receives high rewards early late if values same
+MISC--: natural non arbitrary choice symbol consider limit symbol
+MISC--: while indifference may acceptable finite symbol catastrophic symbol
+OWNX--: consider agent receives no reward until its first action symbol then once receives reward symbol
+MISC--: finite symbol optimal symbol switch action symbol symbol symbol
+MISC--: hence symbol symbol so reward maximizing agent symbol actually always acts symbol hence zero reward although value arbitrarily close would achievable immortal agents lazy citation
+MISC--: more serious general limit symbol may not even exist
+MISC--: another approach consider moving horizon
+MISC--: cycle symbol agent tries maximize symbol where symbol increases symbol eg symbol symbol being horizon
+OWNX--: this naive truncation often used games like chess plus heuristic reward cycle symbol get reasonably small search tree
+MISC--: while this work practice lead inconsistent optimal strategies i e agents change their mind
+MISC--: consider example above symbol
+MISC--: every cycle symbol better first act symbol then symbol symbol rather than immediately symbol symbol symbol symbol
+MISC--: but entering next cycle symbol agent throws its original plan overboard now choose symbol favor symbol followed symbol
+OWNX--: this pattern repeats resulting no reward at all
+MISC--: standard solution above problems consider geometrically exponentially discounted reward citation
+MISC--: one discounts reward every cycle delay factor symbol i e considers symbol
+MISC--: symbol maximizing policy consistent sense its actions symbol coincide optimal policy based symbol
+MISC--: at first glance there seems no arbitrary lifetime symbol horizon symbol but this illusion
+MISC--: symbol dominated contributions rewards symbol so effective horizon symbol
+MISC--: while sliding effective horizon does not cause inconsistent policies nevertheless lead suboptimal behavior
+MISC--: every effective horizon there task needs larger horizon solved
+MISC--: instance while symbol sufficient tic tac toe definitely insufficient chess
+MISC--: there elegant closed form solutions bandit problems show any symbol bayes optimal policy get stuck suboptimal arm not self optimizing citation
+MISC--: symbol symbol defect decreases
+MISC--: there various deep papers considering limit symbol citation comparing limit symbol citation
+MISC--: analysis typically restricted ergodic mdps limits symbol symbol exist
+MISC--: but like limit policy symbol limit policy symbol display very poor performance i e we need choose symbol fixed advance but how consider higher order terms citation
+OWNX--: we also cannot consistently adapt symbol symbol
+MISC--: finally value limits may not exist beyond ergodic mdps
+MISC--: there little work other than geometric discounts
+MISC--: psychology economics literature been argued people discount one day cycle delay reward more if concerns rewards now rather than later eg year plus one day citation
+MISC--: so there some work sliding discount sequences symbol
+MISC--: one show this also leads inconsistent policies if symbol non geometric citation
+MISC--: there any non geometric discount leading consistent policies
+MISC--: citation generally discounted value symbol symbol been introduced
+MISC--: well defined arbitrary environments leads consistent policies eg quadratic discount symbol increasing effective horizon proportionally symbol i e optimal agent becomes increasingly farsighted consistent way leads self optimizing policies ergodic symbol th order mdps general bandits particular even beyond mdps
+MISC--: see citation citation more results
+CONT--: only other serious analysis general discounts we aware citation but their analysis limited bandits so called regular discount
+OWNX--: this discount bounded effective horizon so also does not lead self optimizing policies
+MISC--: asymptotic total average performance symbol future discounted performance symbol key interest
+MISC--: instance often we do not know exact environment advance but learn past experience domain reinforcement learning citation adaptive control theory citation
+OWNX--: ideally we would like learning agent performs asymptotically well optimal agent knows environment advance
+AIMX--: subject study this paper relation between symbol symbol general discount symbol arbitrary environment
+MISC--: importance performance measures symbol symbol general discount symbol been discussed above
+MISC--: there also clear need study general environments beyond ergodic mdps since real world neither ergodic e g losing arm irreversible nor completely observable
+OWNX--: only restriction we impose discount sequence symbol summability symbol so symbol exists monotonicity symbol
+OWNX--: our main result if both limits symbol symbol exist then they necessarily equal section theorem
+MISC--: somewhat surprisingly this holds any discount sequence symbol any environment reward sequence symbol whatsoever
+CONT--: note limit symbol may exist not independent whether symbol exists not
+OWNX--: we present examples four possibilities section
+OWNX--: under certain conditions symbol existence symbol implies existence symbol vice versa
+OWNX--: we show if quantity closely related effective horizon grows linearly symbol faster then existence symbol implies existence symbol their equality section theorem
+OWNX--: conversely if effective horizon grows linearly symbol slower then existence symbol implies existence symbol their equality section theorem
+OWNX--: note apart discounts oscillating effective horizons this implies this actually path used prove first mentioned main result
+OWNX--: sections we define provide some basic properties average discounted value respectively

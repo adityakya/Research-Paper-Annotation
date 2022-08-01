@@ -1,0 +1,50 @@
+AIMX--: we address problem reinforcement learning observations may exhibit arbitrary form stochastic dependence past observations actions
+MISC--: task agent attain best possible asymptotic reward where true generating environment unknown but belongs known countable family environments
+MISC--: we find some sufficient conditions class environments under agent exists attains best asymptotic reward any environment class
+AIMX--: we analyze how tight conditions how they relate different probabilistic assumptions known reinforcement learning related fields markov decision processes mixing conditions
+MISC--: many real world learning problems like learning drive car playing game modelled agent symbol interacts environment symbol occasionally rewarded its behavior
+OWNX--: we interested agents perform well sense having high long term reward also called value symbol agent symbol environment symbol
+MISC--: if symbol known pure non learning computational problem determine optimal agent symbol
+MISC--: far less clear what optimal agent means if symbol unknown
+MISC--: reasonable objective single policy symbol high value simultaneously many environments
+OWNX--: we will formalize call this criterion self optimizing later
+MISC--: reinforcement learning sequential decision theory adaptive control theory active expert advice theories dealing this problem
+MISC--: they overlap but different core focus reinforcement learning algorithms citation developed learn symbol directly its value
+MISC--: temporal difference learning computationally very efficient but slow asymptotic guarantees only effectively small observable mdps
+MISC--: others faster guarantee finite state mdps citation
+MISC--: there algorithms citation optimal any finite connected pomdp this apparently largest class environments considered
+MISC--: sequential decision theory bayes optimal agent symbol maximizes symbol considered where symbol mixture environments symbol symbol class environments contains true environment symbol citation
+MISC--: policy symbol self optimizing arbitrary class symbol provided symbol allows self optimizingness citation
+MISC--: adaptive control theory citation considers very simple ai perspective special systems e g linear quadratic loss function sometimes allow computationally data efficient solutions
+MISC--: action expert advice citation constructs agent called master performs nearly well best agent best expert hindsight some class experts any environment symbol
+MISC--: important special case passive sequence prediction arbitrary unknown environments where actions predictions do not affect environment comparably easy citation
+OWNX--: difficulty active learning problems identified at least countable classes traps environments
+MISC--: initially agent does not know symbol so asymptotically forgiven taking initial wrong actions
+MISC--: well studied class ergodic mdps guarantee any action history every state re visited citation
+AIMX--: aim this paper characterize general possible classes symbol self optimizing behaviour possible more general than pomdps
+OWNX--: do this we need characterize classes environments forgive
+MISC--: instance exact state recovery unnecessarily strong sufficient being able recover high rewards whatever states
+MISC--: further many real world problems there no information available about states environment e g pomdps environment may exhibit long history dependencies
+OWNX--: rather than trying model environment e g mdp we try identify conditions sufficient learning
+OWNX--: towards this aim we propose consider only environments after any arbitrary finite sequence actions best value still achievable
+MISC--: performance criterion here asymptotic average reward
+OWNX--: thus we consider environments there exists policy whose asymptotic average reward exists upper bounds asymptotic average reward any other policy
+MISC--: moreover same property should hold after any finite sequence actions been taken no traps
+OWNX--: yet this property itself not sufficient identifying optimal behavior
+OWNX--: we require further any sequence symbol actions possible return optimal level reward symbol steps above conditions will formulated probabilistic form environments possess this property called strongly value stable
+MISC--: we show any countable class value stable environments there exists policy achieves best possible value any environments class i e self optimizing this class
+OWNX--: we also show strong value stability certain sense necessary
+OWNX--: we also consider examples environments possess strong value stability
+MISC--: particular any ergodic mdp easily shown this property
+MISC--: mixing type condition implies value stability also demonstrated
+OWNX--: finally we provide construction allowing build examples value stable environments not isomorphic finite pomdp thus demonstrating class value stable environments quite general
+OWNX--: important our argument class environments we seek self optimizing policy countable although class all value stable environments uncountable
+MISC--: find set conditions necessary sufficient learning do not rely countability class yet open problem
+MISC--: however computational perspective countable classes sufficiently large e g class all computable probability measures countable
+AIMX--: paper organized follows
+OWNX--: section introduces necessary notation agent framework
+OWNX--: section we define explain notion value stability central paper
+OWNX--: section presents theorem about self optimizing policies classes value stable environments illustrates applicability theorem providing examples strongly value stable environments
+OWNX--: section we discuss necessity conditions main theorem
+OWNX--: section provides some discussion results outlook future research
+OWNX--: formal proof main theorem given appendix while section contains only intuitive explanations

@@ -1,0 +1,41 @@
+MISC--: noncoding rnas important functional rnas do not code proteins
+OWNX--: we present highly efficient computational pipeline discovering cis regulatory ncrna motifs de novo
+MISC--: pipeline differs previous methods structure oriented does not require multiple sequence alignment input capable detecting rna motifs low sequence conservation
+OWNX--: we also integrate rna motif prediction rna homolog search improves quality rna motifs significantly
+OWNX--: here we report results applying this pipeline firmicute bacteria
+OWNX--: our top ranking motifs include most known firmicute elements found rna family database
+OWNX--: comparing our motif models rfam s hand curated motif models we achieve high accuracy both membership prediction base pair level secondary structure prediction
+OWNX--: ncrna candidates not rfam we find compelling evidence some them functional analyze several potential ribosomal protein leaders depth
+MISC--: recent discoveries novel noncoding rnas micrornas riboswitches suggest ncrnas important diverse functional regulatory roles impact gene transcription translation localization replication degradation citation citation
+MISC--: last few years several groups performed genome scale computational ncrna predictions based comparative genomic analysis
+MISC--: particular barrick et al citation used pairwise blast based approach discover novel riboswitch candidates bacterial genomes many now been experimentally verified
+MISC--: similar studies been conducted various bacterial groups citation citation
+MISC--: more recent work extended searches eukaryotes citation citation discovering large number known micrornas while producing thousands novel ncrna candidates
+MISC--: some exceptions citation citation approaches follow similar paradigm search conserved secondary structures multiple sequence alignments constructed based sequence similarity alone
+MISC--: typically schemes use measures mutual information between pairs alignment columns signal base paired regions
+MISC--: however signals methods seek namely compensatory base pair mutations exactly signals may cause sequence based alignment methods misalign alternatively refuse align homologous ncrna sequences
+CONT--: even local misalignments may weaken this key structural signal making methods sensitive alignment quality especially problematic diverged sequences
+AIMX--: this paper we present novel structure oriented computational pipeline genome scale prediction cis regulatory ncrnas
+MISC--: exploits but does not require sequence conservation
+MISC--: pipeline differs previous methods three respects
+OWNX--: first searches unaligned upstream sequences homologous genes instead well aligned regions constructed sequence based methods
+BASE--: second we predict rna motifs unaligned sequences using tool called cmfinder citation very sensitive rna motifs low sequence conservation robust inclusion long flanking regions unrelated sequences
+OWNX--: finally we integrate rna motif prediction rna homology search
+OWNX--: every predicted motif we scan genome database more homologs then used refine model
+OWNX--: this iterative process improves model expands motif families automatically
+OWNX--: this study we apply this pipeline discover ncrna elements prokaryotes
+OWNX--: we chose prokaryotes mainly because large number fully sequenced genomes great sequence divergence among species well exploited our approach
+OWNX--: our approach two key advantages
+OWNX--: first efficient highly automated
+MISC--: earlier steps more computationally efficient than later steps we apply filters between steps so poor candidates eliminated subsequent analysis
+MISC--: thus even though we use some computationally expensive algorithms pipeline scalable larger problems
+OWNX--: besides providing rna motif prediction pipeline also integrates gene context functional analysis facilitates manual biological evaluation
+MISC--: second this pipeline highly accurate finding prokaryotic ncrnas especially rna cis regulatory elements
+OWNX--: demonstrate performance this approach we report our search results firmicutes gram positive bacterial division includes bacillus subtilis relatively well studied model organism many known ncrnas
+OWNX--: method exhibits low false positive rates negative controls low false negative rates known firmicute ncrnas
+MISC--: rna family database citation partially hand curated database noncoding rnas includes ncrna families categorized cis regulatory elements representatives b subtilis
+OWNX--: included among our top predictions th appears somewhat lower our ranking
+OWNX--: two other rfam families also represented among our top predictions
+OWNX--: addition both secondary structure prediction identified family members excellent agreement rfam annotation
+OWNX--: rfam families mentioned above we achieved percent specificity percent sensitivity average identifying family members percent specificity percent sensitivity secondary structure prediction
+MISC--: many promising novel ncrna candidates were also discovered discussed below

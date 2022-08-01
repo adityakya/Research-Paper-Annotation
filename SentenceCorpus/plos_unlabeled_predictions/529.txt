@@ -1,0 +1,55 @@
+MISC--: two main agents human malaria plasmodium vivax plasmodium falciparum induce severe anemia provoke strong complex immune reactions
+MISC--: dynamical behaviors host immune erythropoietic responses would foster control infection would lead runaway parasitemia severe anemia
+OWNX--: answer questions we developed differential equation models interacting parasite red blood cell populations modulated host immune erythropoietic responses
+MISC--: model immune responses incorporate both rapidly responding innate component slower responding long term antibody component several parasite developmental stages considered targets each type immune response
+OWNX--: we found simulated infections highest parasitemia tended those ineffective innate immunity even if antibodies were present
+OWNX--: we also compared infections dyserythropoiesis those compensatory erythropoiesis fixed basal rbc production rate
+MISC--: dyserythropoiesis tended reduce parasitemia slightly but at cost host aggravating anemia
+MISC--: other hand compensatory erythropoiesis tended reduce severity anemia but enhanced parasitemia if innate response was ineffective
+MISC--: both parasite species sharp transitions between schizont merozoite stages development were associated lower parasitemia less severe anemia
+OWNX--: thus tight synchronization asexual parasite development might help control parasitemia
+MISC--: finally our simulations suggest p vivax induce severe anemia readily p falciparum same type immune response though p vivax attacks much smaller subset rbcs
+MISC--: since most p vivax infections nonlethal clinically this suggests p falciparum adaptations countering evading immune responses more effective than those p vivax
+MISC--: parasites cause human malaria inoculated anopheles mosquito initially multiply liver
+MISC--: after about week primary wave merozoite forms enters bloodstream invades rbcs continues asexual cycle multiplication developing into schizont forms burst release more merozoites
+MISC--: pathology malaria due this asexual blood stage cycle
+MISC--: sexual forms transmissible mosquitoes appear over time but much smaller numbers than asexual forms
+MISC--: two parasite species cause vast majority human cases plasmodium vivax plasmodium falciparum induce severe anemia p vivax especially anemia appear far out proportion percentage rbcs infected citation
+MISC--: both innate adaptive arms human immune system mount responses infections both species
+OWNX--: high fevers classic feature infections
+MISC--: during p vivax infections near periodic episodes fever associated high levels tumor necrosis factor other cytokines associated innate immunity citation citation
+MISC--: strong cytokine responses also occur p falciparum infection though timing paroxysms tends irregular citation citation
+MISC--: fever paroxysms associated synchronized release merozoites bursting schizonts
+MISC--: this synchronization been subject considerable experimental theoretical work
+MISC--: possible febrile temperatures induce synchronization differentially influencing development rates different parasite stages citation immune responses citation citation well host s melatonin release cycle citation citation contribute this phenomenon
+CONT--: but not yet clear whether synchronization helps parasites perhaps way sudden overwhelming abundance prey may overwhelm predator s capacity hinders them
+MISC--: malaria parasites certainly evolved mechanisms immune evasion however p falciparum exhibits antigenic variation citation adheres vascular endothelium response fever citation produces prostaglandins probably modulate host tnf production citation
+MISC--: this species also manages keep membrane infected rbcs deformable during its ring stage apparently reducing exposure ring stage parasites clearance spleen citation
+MISC--: p vivax also evade spleen clearance suppress immune responses directed against its liver stage citation
+MISC--: clinical investigations suggest malaria parasite host immune response interact host erythropoietic system complex dynamic manner
+MISC--: increased production tnf host apparently induces anemia citation experimental evidence suggests hemozoin produced p falciparum suppresses rbc production citation
+MISC--: abnormalities observed p falciparum infected patients include suppression erythroid progenitor cells bone marrow citation sequestration parasites marrow citation decreased iron absorption hemoglobin synthesis citation decreased rbc survival time citation
+MISC--: leucocyte infiltration marrow erythroblast degradation macrophages been observed p vivax infections citation
+MISC--: phagocytosis uninfected rbcs been observed vitro p berghei infected mice citation suspected human malaria citation citation
+MISC--: p chabaudi infected mice show enhanced erythropoiesis compensate rbc loss citation humans elevated levels erythropoietin produced response p falciparum infection citation
+MISC--: overall evidence suggests rbc destruction ineffective erythropoiesis may thwart erythropoietin initiated processes might otherwise compensate rbc loss although erythropoietin may other protective effects citation
+MISC--: most fatal malaria infections due p falciparum induce cerebral complications well severe anemia
+OWNX--: p vivax infections characterized lower levels parasitemia though often debilitating rarely fatal
+MISC--: p falciparum attacks rbcs all ages while p vivax mainly attacks reticulocytes citation citation possibly rbcs up two weeks old citation
+MISC--: previous report we argued targeted depletion youngest rbcs makes p vivax infection potentially much more dangerous than commonly appreciated unchecked growth p vivax population would eventually prevent replacement older uninfected rbcs senesce culled circulation citation
+MISC--: thus one might expect strong immune response p vivax despite its seemingly lower threat relative p falciparum
+CONT--: furthermore model did not incorporate immune response compensatory boosting rbc production tended increase parasitemia while dyserythropoietic response had opposite effect
+MISC--: here we consider compartmentalized ordinary differential equations representing p vivax p falciparum infections incorporate quick acting innate response longer term acquired antibody response well dynamic erythropoietic system
+OWNX--: figure shows basic scheme details presented below model section
+MISC--: innate response emulates aspects fever paroxysm response hallmark symptom malaria
+OWNX--: we analyze how components jointly affect parasite rbc dynamics
+OWNX--: we do not attempt model full complexity immune response malaria infections our aim assess potential trade offs between host parasite given characteristics immune erythropoietic responses
+OWNX--: however we do consider several choices targets both innate antibody responses model
+MISC--: we assume bursting schizonts activate innate response stage triggers antibody response same stage targets
+OWNX--: we also consider different values time constant decay effective clearance rate parasites antibody response
+MISC--: this time constant not necessarily biochemical decay constant actual antibodies also incorporates possibility long lived population b cells producing antibodies
+MISC--: models also incorporate nonzero standard deviation time parasites develop within rbcs
+OWNX--: we show host erythopoietic response affect infection outcome even presence sustained immunological action
+OWNX--: we show how infection outcome varies life stages parasite targeted model immune responses
+OWNX--: furthermore we show tight synchronization merozoite release does not necessarily help parasite populations evade host immune responses
+OWNX--: most our simulated infections assume host no pre existing antibodies memory b cells parasite but some examples we examine effects pre existing antibodies

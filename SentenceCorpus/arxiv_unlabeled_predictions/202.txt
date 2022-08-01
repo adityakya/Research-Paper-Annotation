@@ -1,0 +1,39 @@
+OWNX--: problem completing low rank matrix subset its entries often encountered analysis incomplete data sets exhibiting underlying factor model applications collaborative filtering computer vision control
+MISC--: most recent work had been focused constructing efficient algorithms exact approximate recovery missing matrix entries proving lower bounds number known entries guarantee successful recovery high probability
+MISC--: related problem both mathematical algorithmic point view distance geometry problem realizing points euclidean space given subset their pairwise distances
+MISC--: rigidity theory answers basic questions regarding uniqueness realization satisfying given partial set distances
+OWNX--: we observe basic ideas tools rigidity theory adapted determine uniqueness low rank matrix completion where inner products play role distances play rigidity theory
+OWNX--: this observation leads efficient randomized algorithm testing both local global unique completion
+OWNX--: crucial our analysis new matrix we call completion matrix serves analogue rigidity matrix
+OWNX--: missing entries incomplete real valued matrix recovered
+OWNX--: clearly matrix completed infinite number ways replacing missing entries arbitrary values
+MISC--: order completion question any value we must restrict matrix belong certain class matrices
+OWNX--: popular class matrices matrices limited rank problem completing low rank matrix subset its entries received great deal attention lately
+MISC--: completion problem comes up naturally variety settings
+MISC--: one netflix problem citation where users submit rankings only small subset movies one would like infer their preference unrated movies
+OWNX--: data matrix all user ratings may approximately low rank because believed only few factors contribute individual s preferences
+MISC--: completion problem also arises computer vision problem inferring three dimensional structure motion citation well many other data analysis machine learning citation control citation other problems modeled factor model
+MISC--: numerous completion algorithms been proposed over years see eg citation
+MISC--: many algorithms relax non convex rank constraint convex set semidefinite positive matrices solve convex optimization problem using semidefinite programming sdp citation
+MISC--: recently using techniques compressed sensing citation cand es recht citation proved if pattern missing entries random then minimization convex nuclear norm symbol norm singular values vector finds high probability exact completion most symbol matrices rank symbol long number observed entries symbol satisfies symbol where symbol some function
+MISC--: even more recently keshavan oh montanari citation improved bound symbol also provided efficient completion algorithm
+OWNX--: fascinating recent results do not provide however solution more practical case pattern missing entries non random
+OWNX--: given specific pattern missing entries extremely desirable would algorithm determine uniqueness rank symbol matrix completion
+MISC--: prior running any numerous existing completion algorithms sdp important analyst know if completion indeed unique
+OWNX--: building ideas rigidity theory see eg citation we propose efficient randomized algorithm determines whether not possible uniquely complete incomplete matrix matrix specified rank symbol
+OWNX--: our proposed algorithm does not attempt complete matrix but only determines if unique completion possible
+OWNX--: we introduce new matrix we call completion matrix serves analogue rigidity matrix rigidity theory
+OWNX--: rank completion matrix determines property we call infinitesimal completion
+MISC--: whenever completion matrix large sparse its rank efficiently determined using iterative methods lsqr citation
+OWNX--: rigidity theory we will also make distinction between local completion global completion
+OWNX--: analogy between rigidity completion quite striking we believe many results rigidity theory usefully translated completion setup
+BASE--: our randomized algorithm testing local completion based similar randomized algorithm testing local rigidity was suggested hendrickson citation whereas our randomized algorithm testing global completion based recent randomized global rigidity testing algorithm gortler healy thurston citation who proved conjecture connelly citation characterization globally rigid frameworks
+BASE--: due large body existing work rigidity theory we postpone some translation efforts future
+AIMX--: organization paper follows
+OWNX--: section contains glossary definitions results rigidity theory our algorithms based
+OWNX--: section we analyze low rank completion problem particular case positive semidefinite gram matrices present algorithms testing local global completion matrices
+MISC--: section analysis generalized more common completion problem general low rank rectangular matrices corresponding algorithms provided
+OWNX--: section concerned combinatorial characterization entry patterns either locally completed globally completed
+OWNX--: particular we present simple combinatorial characterization rank matrices comment rank rank symbol symbol cases
+OWNX--: section we detail results extensive numerical simulations we tested performance our algorithms while verifying theoretical bounds citation matrices random missing patterns
+OWNX--: finally section summary discussion

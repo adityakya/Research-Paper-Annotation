@@ -1,0 +1,11 @@
+OWNX--: we give characterization maximum entropy minimum relative entropy inference providing two strong entropy concentration theorems
+MISC--: theorems unify generalize jaynes concentration phenomenon van campenhout cover s conditional limit theorem
+MISC--: theorems characterize exactly what sense prior distribution symbol conditioned given constraint distribution symbol minimizing symbol over all symbol satisfying constraint close each other
+OWNX--: we then apply our theorems establish relationship between entropy concentration game theoretic characterization maximum entropy inference due tops o e others
+MISC--: jaynes maximum entropy maxent principle well known principle inductive inference citation
+MISC--: been applied statistical machine learning problems ranging protein modeling stock market prediction citation
+MISC--: one its characterizations some would say justifications so called concentration phenomenon citation
+BASE--: here informal version this phenomenon words citation case prior distribution over domain at hand available citation proven related conditional limit theorem
+OWNX--: sections we provide strong generalization both concentration phenomenon conditional limit theorem
+OWNX--: section results section used extend existing game theoretic characterization again some would say justification maximum entropy due citation
+OWNX--: this way we provide sharper results two most frequently cited characterizations maximum entropy principle

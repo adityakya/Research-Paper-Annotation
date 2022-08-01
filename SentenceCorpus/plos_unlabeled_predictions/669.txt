@@ -1,0 +1,56 @@
+MISC--: macrophages versatile immune cells detect variety pathogen associated molecular patterns through their toll like receptors
+MISC--: response microbial challenge tlr stimulated macrophage undergoes activation program controlled dynamically inducible transcriptional regulatory network
+MISC--: mapping complex mammalian transcriptional network poses significant challenges requires integration multiple experimental data types
+BASE--: this work we inferred transcriptional network underlying tlr stimulated murine macrophage activation
+OWNX--: microarray based expression profiling transcription factor binding site motif scanning were used infer network associations between transcription factor genes clusters co expressed target genes
+MISC--: time lagged correlation was used analyze temporal expression data order identify potential causal influences network
+MISC--: novel statistical test was developed assess significance time lagged correlation
+MISC--: several associations resulting inferred network were validated using targeted chip chip experiments
+MISC--: network incorporates known regulators gives insight into transcriptional control macrophage activation
+OWNX--: our analysis identified novel regulator may role macrophage activation
+MISC--: dynamic cellular processes response signaling event governed complex transcriptional regulatory networks
+MISC--: networks typically involve large number transcription factors activated different combinations order produce particular cellular response
+MISC--: macrophage vital cell type mammalian immune system marshals variety phenotypic responses pathogenic challenge secretion pro inflammatory mediators phagocytosis antigen presentation stimulation mucus production adherence
+MISC--: innate immune system first line defense against infection macrophage s toll like receptors play crucial role recognizing distinct pathogen associated molecular patterns flagellin lipopeptides double stranded rna citation citation
+OWNX--: tlr signals first channeled through adapter molecules then through parallel cross talking signal pathways
+BASE--: activated pathways initiate transcriptional program over genes citation hundreds tf genes citation differentially expressed tailored type infection citation citation
+MISC--: transcriptional network underlying macrophage activation exhibit many distinct steady states associated tissue infection specific macrophage functions citation
+MISC--: transcriptional response also dynamic characterized temporal waves gene activation citation citation citation each enriched distinct sets gene functions citation citation likely controlled different combinations transcriptional regulators citation citation
+MISC--: long term elucidating transcriptional network underlying tlr stimulated macrophage activation identifying key regulators their functions would greatly enhance our understanding innate immune response infection potentially yield new ideas vaccine development
+MISC--: computational analysis high throughput experimental data proving increasingly useful inference transcriptional regulatory interaction networks citation citation identification prioritization potential regulators targeted experimental validation citation citation
+MISC--: time course microarray expression measurements been used infer dynamic transcriptional networks yeast citation citation static influence networks mammalian cell lines citation
+MISC--: context primary macrophages expression based computational reconstruction transcriptional control logic underlying activation program not straightforward progress difficult measure several reasons
+MISC--: first transcriptional control within mammalian networks general citation key tlr responsive genes particular citation combinatorial
+MISC--: second many induced tfs subject post translational activation citation dynamic control nuclear localization citation
+MISC--: third targeted genetic perturbations presently infeasible perform large scale mammalian animal model expression knockdown difficult macrophages due tendency vector stimulate tlrs
+OWNX--: finally few transcriptional regulatory interactions been validated through targeted experiments tlr stimulated primary macrophages not available single gold standard dataset
+OWNX--: therefore context transcriptional regulation mammalian macrophage presently accessible expression data sets large scale computational inference primarily useful statistically identifying potential regulatory interactions rather than inference tool predicting transcriptional control logic specific target genes
+MISC--: reasons described above order computationally infer transcriptional regulatory interactions mammalian system necessary include additional sources evidence constrain inform transcriptional network model selection
+MISC--: computational scanning promoter sequences clusters co expressed genes known transcription factor binding site motifs proved particularly valuable when combined global expression data citation citation citation
+MISC--: recently nilsson et al citation used combination expression clustering promoter sequence scanning tfbs motifs construct initial transcriptional network macrophage stimulated tlr stimulus lipopolysaccharide
+CONT--: their work identified two novel regulators but clustering was based expression dataset single stimulus limited biological replicates few time points
+CONT--: moreover tfbs motif scanning co expressed clusters without utilizing expression dynamics provides only limited static picture underlying transcriptional network
+MISC--: many tfbs motifs often recognized multiple tfs making difficult unambiguous identification regulating tf tfbs enrichment alone
+MISC--: furthermore because tendency tfbs motifs co occur citation difficult determine among set co occurring motifs associated tf most relevant condition specific regulation target cluster
+MISC--: tlr stimulated macrophage core transcription factors already expressed cell rapidly activated initiate transcriptional regulation second wave tf genes citation
+MISC--: transcriptionally regulated tf genes key candidates integrated analysis combining tf specific dynamic expression data sequence based motif scanning data
+MISC--: this work concerned using computational data integration identify set core differentially expressed transcriptional regulators tlr stimulated macrophage form statistical associations clusters co expressed genes they may regulate
+MISC--: clusters differentiated based temporal stimulus specific activation this sense inferred associations constitute preliminary dynamic transcriptional network tlr stimulated macrophage
+AIMX--: achieve this we used novel computational approach incorporating tfbs motif scanning statistical inference based time course expression data across diverse array stimuli
+OWNX--: our approach involved four steps
+OWNX--: set genes was identified were differentially expressed wild type macrophages under at least one tlr stimulation experiment
+OWNX--: genes were clustered based their expression profiles across wide range conditions strains grouping genes based similarity timing stimulus dependence their induction
+OWNX--: gene ontology annotations were used identify functional categories enriched within gene clusters
+OWNX--: promoter sequences upstream genes within each cluster were scanned library tfbs motifs each recognized at least one differentially expressed tf identify possible associations between tfs gene clusters
+OWNX--: across eleven different time course studies dynamic expression profiles tf genes target genes were compared order identify possible causal influences between differentially expressed tf genes clusters
+MISC--: several techniques been developed specifically model inference time course expression data notably dynamic bayesian networks citation ode based model selection citation
+CONT--: however parametric complexity model classes makes difficult apply them infer network underlying specific cellular perturbation limited expression dataset
+MISC--: here potential transcriptional regulatory influence inferred time course expression data using time lagged correlation statistic been used infer biochemical interaction networks citation well transcriptional networks citation citation
+MISC--: tlc advantage accounts time delay between differential expression induced tf differential expression target gene
+OWNX--: contrast standard correlation based methods identify co expressed genes tlc method uses temporal ordering expression determine whether time lag between two correlated genes consistent causal interaction
+OWNX--: we developed novel method identify optimal time lag each gene pair used prior probability distribution transcriptional time delays score possible interactions
+OWNX--: combining promoter scanning based evidence evidence obtained time lagged correlation analysis expression data we were able identify network statistically significant associations between tf genes co expressed clusters
+MISC--: overall percent differentially expressed genes included network
+MISC--: network provided insights into temporal organization transcriptional response into combinations tfs may act key regulators macrophage activation
+OWNX--: finally analysis identified potential transcriptional regulator tgif was not previously known play role macrophage activation
+OWNX--: targeted experimental validation inferred network two transcriptional regulators p irf were assayed binding cis regulatory elements lps stimulated macrophages using chip chip were confirmed bind promoters genes four out five predicted target clusters at significantly higher proportions than expected random set tlr responsive genes

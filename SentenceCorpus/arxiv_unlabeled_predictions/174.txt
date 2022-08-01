@@ -1,0 +1,40 @@
+OWNX--: we consider multi round auction setting motivated pay per click auctions internet advertising
+MISC--: each round auctioneer selects advertiser shows her ad then either clicked not
+MISC--: advertiser derives value clicks value click her private information
+MISC--: initially neither auctioneer nor advertisers any information about likelihood clicks advertisements
+MISC--: auctioneer s goal design dominant strategies truthful mechanism approximately maximizes social welfare
+OWNX--: if advertisers bid their true private values our problem equivalent multi armed bandit problem thus viewed strategic version latter
+MISC--: particular both problems quality algorithm characterized regret difference social welfare between algorithm benchmark always selects same best advertisement
+OWNX--: we investigate how design multi armed bandit algorithms affected restriction resulting mechanism must truthful
+MISC--: we find deterministic truthful mechanisms certain strong structural properties essentially they must separate exploration exploitation they incur much higher regret than optimal multi armed bandit algorithms
+OWNX--: moreover we provide truthful mechanism essentially matches our lower bound regret
+MISC--: recent years there been much interest understanding implication strategic behavior performance algorithms whose input distributed among selfish agents
+OWNX--: this study was mainly motivated internet main arena large scale interaction agents conflicting goals
+MISC--: field algorithmic mechanism design citation studies design mechanisms computational settings background see recent book citation survey citation
+MISC--: much attention been drawn market sponsored search e g citation multi billion dollar market numerous auctions running every second
+MISC--: research sponsored search mostly focus equilibria generalized second price gsp auction citation auction most commonly used practice e g google bing design truthful auctions citation
+OWNX--: all auctions rely knowing rates at users click different advertisements k
+MISC--: click through rates ctrs do not consider process ctrs learned refined over time observing users behavior
+MISC--: we argue strategic agents would take this process into account influences their utility
+MISC--: while prior work citation focused influence click fraud methods learning ctrs we interested implications strategic bidding agents
+OWNX--: thus we consider problem designing truthful sponsored search auctions when process learning ctrs part game
+OWNX--: we mainly interested interplay between online learning strategic bidding
+OWNX--: isolate this issue we consider following setting natural strategic version multi armed bandit mab problem
+MISC--: this setting there symbol agents
+MISC--: each agent symbol single advertisement private value symbol every click she gets
+OWNX--: mechanism online algorithm first solicits bids agents then runs symbol rounds
+MISC--: each round mechanism picks agent using bids clicks observed past rounds displays her advertisement receives feedback if there was click not
+OWNX--: payments charged after round symbol
+MISC--: each agent tries maximize her own utility value she derives clicks minus payment she pays
+MISC--: we assume initially no information known about likelihood each agent clicked particular there no bayesian priors
+MISC--: we interested designing mechanisms truthful dominant strategies every agent maximizes her utility bidding truthfully any bids others any clicks would been received
+MISC--: goal maximize social welfare omit since payments cancel out this equivalent maximizing total value derived clicks where agent s contribution total her private value times number clicks she receives
+OWNX--: we call this setting omit absence strategic behavior this problem reduces standard mab formulation algorithm repeatedly chooses one symbol alternatives arms observes associated payoff value per click corresponding ad if ad clicked symbol otherwise
+MISC--: crucial aspect mab problems tradeoff between acquiring more information exploration using current information choose good agent exploitation
+MISC--: mab problems been studied intensively past three decades
+MISC--: particular above formulation well understood citation terms regret relative benchmark always chooses same best alternative time invariant benchmark
+MISC--: this notion regret naturally extends strategic setting outlined above total payoff being exactly equal social welfare regret being exactly loss social welfare relative time invariant benchmark
+MISC--: thus one directly compare mab algorithms mab mechanisms terms welfare loss regret
+OWNX--: broadly we ask how design mab algorithms affected restriction truthfulness what difference between best algorithms best truthful mechanisms
+MISC--: we interested both terms structural properties gap performance terms regret
+OWNX--: we not aware any prior work characterizes truthful online learning algorithms proves negative results their performance

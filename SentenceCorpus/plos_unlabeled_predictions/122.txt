@@ -1,0 +1,50 @@
+MISC--: become clear large proportion functional dna human genome does not code protein
+CONT--: identification this non coding functional sequence using comparative approaches proving difficult previously been thought require deep sequencing multiple vertebrates
+AIMX--: here we introduce new model comparative method instead nucleotide substitutions uses evolutionary imprint insertions deletions infer past consequences selection
+MISC--: model predicts distribution indels under neutrality shows excellent fit human mouse ancestral repeat data
+OWNX--: across genome many unusually long ungapped regions detected unaccounted neutral model we predict highly enriched functional dna been subject purifying selection respect indels
+OWNX--: we use model determine proportion under indel purifying selection between percent percent human euchromatin
+MISC--: since annotated protein coding genes comprise only percent euchromatin results lend further weight proposition more than half functional complement human genome non protein coding
+OWNX--: method surprisingly powerful at identifying selected sequence using only two three mammalian genomes
+OWNX--: applying method human mouse dog genomes we identify mb human sequence under indel purifying selection at predicted percent false discovery rate percent sensitivity
+OWNX--: expected most identified sequence represents unannotated material while recovered proportions known protein coding microrna genes closely match predicted sensitivity method
+OWNX--: method s high sensitivity functional sequence micrornas suggest yet unannotated microrna genes enriched among sequences identified
+MISC--: futhermore its independence substitutions allowed us identify sequence been subject heterogeneous selection sequence subject both positive selection respect substitutions purifying selection respect indels
+OWNX--: ability identify elements under heterogeneous selection enables first time genome wide investigation positive selection functional elements other than protein coding genes
+MISC--: human genome been shaped evolutionary forces mutation genetic drift selection latter acting main purify functional regions deleterious mutations
+MISC--: comparing human mouse genomes previously was estimated about percent human genome undergone fewer point mutations than expected under neutral substitution model citation citation
+MISC--: accepting this most likely caused effects purifying selection acting deleterious mutations observation implies at least percent human genome biologically functional
+CONT--: since only known large class functional genomic elements protein coding exons believed constitute only percent our genome citation this remains surprising result
+MISC--: begin understand biological role remaining non genic functional elements essential first step their identification
+MISC--: recent studies focussed most highly conserved elements namely ultraconserved elements citation
+MISC--: elements exhibit surprisingly high level conservation rare even among protein coding exons studies begun suggest intriguing roles elements alternative splicing development citation citation
+CONT--: however vast majority non genic elements not perfectly conserved respect point mutations reliable identification elements within sea neutrally evolving dna proved difficult
+MISC--: deep conservation among diverse phyla reliable sign conserved biological function but less suitable identifying recently evolved sequence
+MISC--: comparative methods closely related species typically analyze substitution patterns flag conserved regions citation
+MISC--: methods well developed they exploit phylogenetic information correlations along sequence achieve high sensitivities
+MISC--: although extremely powerful methods hard calibrate because incompletely understood variations neutral rates substitution due instance methylation levels chromatin state transcriptional activity chromosomal location conservative calibration leads reduction sensitivity
+MISC--: deep sequencing mammalian genomes considerably improves power comparative methods citation while expensive this will eventually represent most satisfying solution sensitivity problem
+MISC--: all mutation processes point substitutions most prevalent insertions deletions approximately fold less frequent
+MISC--: while nucleotide substitution models been studied intensively citation citation exception gene finding citation indels largely been treated evolutionary nuisance events accounted alignment procedures but otherwise uninformative
+OWNX--: contrary this view we show indels highly informative evolutionary events
+AIMX--: we introduce model describing neutral distribution indels over genome show this model fits large proportion human mouse alignment data remarkably well
+OWNX--: we then show deviations model main not caused variations neutral indel rates but consistent selection acting purify genome deleterious indels arise functional regions
+OWNX--: we first applied this neutral indel model derive upper lower bounds proportion genome under purifying selection respect indels
+MISC--: our observations explained proposing between mb mb human genome been under indel purifying selection since human mouse split
+MISC--: although still much higher than percent represented coding exons this represents substantially lower estimate than previous percent estimate based substitution level conservation citation citation but consistent more recent estimate citation
+OWNX--: restricting ourselves ancestral repeats transposable elements inserted before human mouse split we found near exact fit between observations neutral model predictions
+OWNX--: applying same method before we predict among mb tes only at most mb been under sustained purifying selection
+OWNX--: this first time our knowledge model neutral evolution quantified proportion tes evolved neutrally
+OWNX--: second application neutral indel model we identified large proportion sequence elements evolved under indel purifying selection
+MISC--: model allowed us calculate predicted false discovery rate entire set well bayesian posterior probabilities individual elements under indel purifying selection
+OWNX--: correlating this set various independent functional indicators both positive negative shown highly enriched functional dna
+OWNX--: key strength proposed method lies its independence selection respect point mutations
+OWNX--: consequently method provide independent confirmation selection thereby improving specificity methods based substitutions alone
+MISC--: moreover exciting possibility method allows identification sequence elements been under heterogeneous selection i e been subject purifying selection respect indels but subject positive selection relaxed constraints respect substitutions
+MISC--: examples elements would include spacers between regulatory elements whose relative distance functionally constrained those shown exist drosophila citation
+MISC--: although functional nucleotide sequence spacers probably immaterial implying relaxed constraints respect substitutions
+MISC--: even more interesting class consists elements whose sequence under positive selection respect substitutions while at same time under purifying selection respect indels
+OWNX--: since indels highly disruptive function protein coding rna genes evident fold reduced indel rates exons compared neutrally evolving dna conceivable elements exist
+MISC--: without exploiting evolutionary imprint indel purifying selection difficult see how identify functional elements under positive selection respect substitutions absence comprehensive functional annotation only exists currently protein coding genes
+MISC--: analysis percent sequence identity suggested much percent dna under indel purifying selection roughly mb may under heterogeneous selection
+MISC--: among indel conserved elements identified those exhibit more than expected number substitutions neutrally evolving dna still showed correlations functional indicators mentioned above thereby further confirming existence elements under heterogeneous selection

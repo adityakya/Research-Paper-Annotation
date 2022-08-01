@@ -1,0 +1,38 @@
+MISC--: general purpose intelligent learning agents cycle through complex non mdp sequences observations actions rewards
+MISC--: other hand reinforcement learning well developed small finite state markov decision processes mdps
+MISC--: so far art performed human designers extract right state representation out bare observations ie reduce agent setup mdp framework
+OWNX--: before we think mechanizing this search suitable mdps we need formal objective criterion
+OWNX--: main contribution this article develop criterion
+MISC--: i also integrate various parts into one learning algorithm
+MISC--: extensions more realistic dynamic bayesian networks developed companion article citation keywords evolutionary algorithms ranking selection tournament selection equivalence efficiency
+MISC--: artificial general intelligence agi concerned designing agents perform well wide range environments citation
+MISC--: among well established narrow ai approaches arguably reinforcement learning rl pursues most directly same goal
+MISC--: rl considers general agent environment setup agent interacts environment acts observes cycles receives occasional rewards
+MISC--: agent s objective collect much reward possible
+MISC--: most if not all ai problems formulated this framework
+MISC--: simplest interesting environmental class consists finite state fully observable markov decision processes mdps citation reasonably well understood
+MISC--: extensions continuous states non linear function approximation citation partial observability pomdp citation structured mdps dbns citation others been considered but algorithms much more brittle
+MISC--: any case lot work still left designer namely extract right state representation features out bare observations
+MISC--: even if potentially useful representations been found usually not clear one will turn out better except situations where we already know perfect model
+MISC--: think mobile robot equipped camera plunged into unknown environment
+OWNX--: while we imagine image features potentially useful we cannot know ones will actually useful
+OWNX--: before we think mechanically searching best mdp representation we need formal objective criterion
+MISC--: obviously at any point time if we want criterion effective only depend agents past experience
+OWNX--: main contribution this article develop criterion
+MISC--: reality non ergodic partially observable uncertain unknown environment acquiring experience expensive
+MISC--: so we want need exploit data past experience at hand optimally cannot generate virtual samples since model not given need learned itself there no reset option
+MISC--: regression classification penalized maximum likelihood criteria citation successfully been used semi parametric model selection
+OWNX--: far obvious how apply them rl
+OWNX--: ultimately we do not care about observations but rewards
+MISC--: rewards depend states but states arbitrary sense they model dependent functions data
+MISC--: indeed our derived cost function cannot interpreted usual model data code length
+MISC--: partly detailed later suggested symbol mdp model could regarded scaled down practical instantiation aixi citation way side step open problem learning pomdps extending idea state aggregation planning based bi simulation metrics citation rl based code length generalizing u tree citation arbitrary features alternative psrs citation proper learning algorithms yet developed
+MISC--: throughout this article symbol denotes binary logarithm symbol empty string symbol if symbol symbol else kronecker symbol
+MISC--: i generally omit separating commas if no confusion arises particular indices
+MISC--: any symbol suitable type string vector set i define string symbol sum symbol union symbol vector symbol where symbol ranges over full range symbol symbol length dimension size symbol
+MISC--: symbol denotes estimate symbol
+MISC--: symbol denotes probability over states rewards parts thereof
+MISC--: i do not distinguish between random variables symbol realizations symbol abbreviation symbol never leads confusion
+CONT--: more specifically symbol denotes number states symbol any state index symbol current time symbol any time
+CONT--: further order not get distracted at several places i gloss over initial conditions special cases where inessential
+MISC--: also symbol undefined symbol infinity

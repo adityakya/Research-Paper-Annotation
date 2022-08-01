@@ -1,0 +1,38 @@
+MISC--: history judgment decision making defined trend toward increasingly nuanced explanations decision making process
+MISC--: recently process models become incredibly sophisticated yet tools available directly test models not kept pace
+MISC--: increasingly complex process models require increasingly complex process data they adequately tested
+OWNX--: we propose new class data collection will facilitate evaluation sophisticated process models
+MISC--: tracking mouse paths during continuous response provides implicit measure growth preference produces choice rather than current practice recording just button press indicates choice itself
+MISC--: recent research cognitive science citation shown cognitive processing revealed dynamic motor responses
+CONT--: unlike current process methodologies response dynamics studies demonstrate continuous competition between choice options even online preference reversals
+AIMX--: here order demonstrate mechanics utility methodology we present example response dynamics experiment utilizing common multi alternative decision task
+MISC--: past few decades seen notable change level analysis characterizing theories models decision making
+MISC--: generally paramorphic models concerned largely outcome prediction giving way computational models focus processes assumed produce responses citation
+MISC--: this focus underlying cognitive processes enabled explanations paradoxes e g decoy compromise effects within unified frameworks citation rather than increasingly complex algebraic functions divorced cognitive operations
+OWNX--: this theoretical shift demands accompanying empirical methodologies order evaluate more precisely specified process theories
+MISC--: example tracking information search acquisition during decision tasks developed use information boards citation mouse tracking techniques citation eye tracking techniques citation
+MISC--: other methods think aloud protocols response time analyses citation been used clever combinations several methodologies together provide converging evidence citation
+OWNX--: here we would like introduce what we consider next important logical step this important methodological evolution our field tracking response dynamics decision making
+MISC--: shortcoming inherent process tracing techniques identified above citation lies their neglect dynamic nature choice preferences
+MISC--: process traced mouse eye tracking one information search not deliberation process itself utilizes this information verbal reports reflect subject s perception how they engaged task subject demand characteristics response times rt indicate how long task takes but not nature processing occurs during interval
+MISC--: not say measures always uninformative many authors fruitfully applied rt analyses example infer characteristics decision process citation
+OWNX--: however traditional metrics generally fail capture notion observed choices result dynamic process where evidence various response choice alternatives may accumulate over course task
+OWNX--: rts specifically lack sufficient resolution explore this dynamic evolution preference real time
+OWNX--: this deficiency quite serious given evidence accumulation assumption received extensive theoretical treatment neurophysiological support citation
+MISC--: recently growing body research cognitive science citation utilized novel paradigm compensates deficiency current jdm methods identified above
+MISC--: research response dynamics captures continuous online processing information revealed subject s motor response
+MISC--: spivey dale citation describe theoretical basis representative mouse tracking applications this approach citation
+MISC--: basic paradigm involves simply recording position mouse en route selection option decision task
+MISC--: theoretical assumption competitive pull foregone alternatives exerts influence response trajectories there now substantial behavioral neurophysiological evidence citation
+MISC--: therefore one measure properties response trajectory draw inferences about underlying mental processes
+MISC--: goal current work introduce this research stream jdm community illustrate types analyses comparisons makes possible
+MISC--: only other explicitly jdm application citation tracked mouse responses risky decision making task traditional economic gambles involving either gains losses highlighted ability describe changes direction strength preference online during task
+MISC--: when choosing safe gamble realm gains subjects proceeded very directly gamble
+MISC--: alternatively when they chose risky gamble they first proceeded towards safe gamble before rapidly changing direction towards risky gamble
+MISC--: opposite pattern was generally true realm losses
+MISC--: theoretically results support models allow momentary preference one option during task but ultimate choice other option e g dual process models sequential sampling models behavior would not captured existing discrete response methods
+OWNX--: following demonstration study we show another application traditional jdm task iowa gambling task
+AIMX--: we chose this task because its ubiquitous use experience based design allow us showcase utility response dynamics both within trial types e g following gain loss classified below across course task metric learning
+MISC--: iowa gambling task citation traditionally been used diagnose decision making deficits individuals neurological damage
+MISC--: subjects presented four decks cards each provides wins every draw occasional accompanying losses but they slightly different payout characteristics see figure number
+MISC--: typically two decks hereafter b considered bad decks offering high rewards high punishments result net loss whereas two other decks c d good decks lower rewards but also lower more infrequent punishments citation resulting net gain

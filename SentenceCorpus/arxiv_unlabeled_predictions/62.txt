@@ -1,0 +1,40 @@
+OWNX--: we introduce framework filtering features employs hilbert schmidt independence criterion hsic measure dependence between features labels
+MISC--: key idea good features should maximise dependence
+MISC--: feature selection various supervised learning problems including classification regression unified under this framework solutions approximated using backward elimination algorithm
+OWNX--: we demonstrate usefulness our method both artificial real world datasets
+OWNX--: supervised learning problems we typically given symbol data points symbol their labels symbol
+OWNX--: task find functional dependence between symbol symbol symbol subject certain optimality conditions
+MISC--: representative tasks include binary classification multi class classification regression ranking
+MISC--: we often want reduce dimension data number features before actual learning citation larger number features associated higher data collection cost more difficulty model interpretation higher computational cost classifier decreased generalisation ability
+MISC--: therefore important select informative feature subset
+MISC--: problem supervised feature selection cast combinatorial optimisation problem
+OWNX--: we full set features denoted symbol whose elements correspond dimensions data
+OWNX--: we use features predict particular outcome instance presence cancer clearly only subset symbol features will relevant
+OWNX--: suppose relevance symbol outcome quantified symbol computed restricting data dimensions symbol
+MISC--: feature selection then formulated cm cm where symbol computes cardinality set symbol upper bounds number selected features
+MISC--: two important aspects problem choice criterion symbol selection algorithm paragraph feature selection criterion choice symbol should respect underlying supervised learning tasks estimate dependence function symbol training data guarantee symbol predicts well test data
+MISC--: therefore good criteria should satisfy two conditions cm while many feature selection criteria been explored few take two conditions explicitly into account
+MISC--: examples include leave one out error bound svm citation mutual information citation
+MISC--: although latter good theoretical justification requires density estimation problematic high dimensional continuous variables
+MISC--: we sidestep problems employing mutual information like quantity hilbert schmidt independence criterion hsic citation
+MISC--: hsic uses kernels measuring dependence does not require density estimation
+MISC--: hsic also good uniform convergence guarantees
+OWNX--: we show section hsic satisfies conditions i ii required symbol paragraph feature selection algorithm finding global optimum eq eq fs general np hard citation
+MISC--: many algorithms transform eq eq fs into continuous problem introducing weights dimensions citation
+MISC--: methods perform well linearly separable problems
+MISC--: nonlinear problems however optimisation usually becomes non convex local optimum does not necessarily provide good features
+OWNX--: greedy approaches forward selection backward elimination often used tackle problem directly
+MISC--: forward selection tries increase symbol much possible each inclusion features backward elimination tries achieve this each deletion features citation
+MISC--: although forward selection computationally more efficient backward elimination provides better features general since features assessed within context all others paragraph bahsic principle hsic employed using either forwards backwards strategy mix strategies
+OWNX--: however this paper we will focus backward elimination algorithm
+OWNX--: our experiments show backward elimination outperforms forward selection hsic
+MISC--: backward elimination using hsic bahsic filter method feature selection
+OWNX--: selects features independent particular classifier
+MISC--: decoupling not only facilitates subsequent feature interpretation but also speeds up computation over wrapper embedded methods
+OWNX--: furthermore bahsic directly applicable binary multiclass regression problems
+MISC--: most other feature selection methods only formulated either binary classification regression
+MISC--: multi class extension methods usually accomplished using one versus rest strategy
+MISC--: still fewer methods handle classification regression cases at same time
+MISC--: bahsic other hand accommodates all cases principled way choosing different kernels bahsic also subsumes many existing methods special cases
+MISC--: versatility bahsic originates generality hsic
+OWNX--: therefore we begin our exposition introduction hsic

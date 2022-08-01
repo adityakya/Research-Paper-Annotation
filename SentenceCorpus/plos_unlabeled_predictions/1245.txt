@@ -1,0 +1,27 @@
+MISC--: male rocky mountain elk produce loud high fundamental frequency bugles during mating season contrast male european red deer who produces loud low fundamental frequency roaring calls
+MISC--: critical step understanding vocal communication relate sound complexity anatomy physiology causal manner
+MISC--: experimentation at sound source often difficult vivo mammals simulated here finite element model larynx wave propagation model vocal tract both based morphology biomechanics elk
+MISC--: model produce wide range fundamental frequencies
+OWNX--: low fundamental frequencies require low vocal fold strain but large lung pressure large glottal flow if sound intensity level exceed db at m distance
+OWNX--: high frequency bugle requires both large muscular effort high lung pressure but at least db more intensity level achieved
+OWNX--: glottal efficiency ration radiated sound power aerodynamic power at glottis higher elk suggesting advantage high pitched signaling
+OWNX--: this advantage based two aspects first lower airflow required aerodynamic power second acoustic radiation advantage at higher frequencies
+OWNX--: both signal types used respective males during mating season probably serve honest signals
+MISC--: two signal types relate differently physical qualities sender
+MISC--: low frequency sound relates overall body size via strong relationship between acoustic parameters size vocal organs body size
+OWNX--: high frequency bugle may signal muscular strength endurance via vocalizing at edge mechanism efficiency critical
+MISC--: contrary expectation based body size some large male mammals use high pitched vocalization display
+OWNX--: dichotomy between low frequency high frequency calls vocal signaling male characteristics rarely so dramatic two closely related cervid species european red deer rocky mountain elk
+MISC--: during mating season one species recognizable low frequency roar while other well known its high frequency bugle citation citation
+MISC--: acoustic signals vocal communication mammals generally very complex because various selective pressures shape them citation
+MISC--: complexity related natural sexual selection
+MISC--: example signal considered honest if reliable information about sender extracted body size physical strength
+MISC--: animal s body size physical strength important implications its physiology ecology fecundity its aggressive interactions mating success citation
+MISC--: male red deer mating call was selected low vocal tract resonance characteristics provide reliable information about body size due interconnected size dependent factors involved sound production citation
+OWNX--: contrast difficult make case body size signaled high fundamental frequency whistle like bugle elk
+MISC--: elk calls sometimes contain low frequency components but not consistently
+MISC--: signature bugle
+MISC--: what provoked evolution calls would generally associated much smaller animals
+OWNX--: here we investigate physiological tradeoffs related production high low frequency sounds
+BASE--: we simulated red deer elk calls finite element model oscillating vocal folds positioned within laryngeal cartilaginous framework applying intrinsic laryngeal muscle activations citation wave propagation model vocal tract citation goal better understand physiology this intriguing system
+MISC--: larynx finite element model was based anatomy biomechanics rocky mountain elk red deer larynges citation citation

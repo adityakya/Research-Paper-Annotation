@@ -1,0 +1,42 @@
+OWNX--: using college student samples two studies were conducted validate chinese version domain specific risk taking dospert scale
+MISC--: results replicated important findings reported weber et al citation chinese culture
+OWNX--: risk taking risk perception were domain specific whereas perceived risk attitudes were relatively stable across domains supporting risk return model risk taking
+OWNX--: results both exploratory factor analysis efa confirmatory factor analysis cfa showed ethical recreational health safety gambling domains were preserved chinese version dospert items social investment domains formed one factor
+MISC--: this result may explained weber hsee s citation cushion hypothesis
+OWNX--: other possible reasons this cross cultural difference factor structure were also discussed
+MISC--: significant past research been conducted understand people s differences their risk taking behaviors often referred differences risk attitude
+MISC--: according expected utility theory citation prospect theory citation risk attitude explained shape utility function
+MISC--: this model risk attitude individual s location continuum risk aversion risk seeking assumed personality trait citation
+MISC--: based this single trait view risk attitude researchers employed various methods measure
+OWNX--: some studies require participants choose between lotteries then compare participants observed choices choices predicted expected value citation
+MISC--: using probability equivalence method kogan wallach citation developed choice dilemma questionnaire asking respondents probability equivalents twelve choice dilemmas combined into single score represents risk attitude
+MISC--: nonetheless according blais weber citation studies were questionable due two major problems
+MISC--: firstly people may classified risk seeking risk averse depending method employed measure risk attitude citation
+MISC--: secondly even same method may categorize individual into different groups across different situations domains citation
+MISC--: problems suggest those measurements do not possess satisfactory predictive validity across range situations citation
+MISC--: given this obvious deficiency many risk attitude measurements recently some researchers claimed risk attitude should conceptualized risk return framework risky choice treated domain specific manner citation
+OWNX--: risk return models assume risk taking reflect tradeoff between perceived risk fear expected return hope citation risk taking preference x expected benefit x b perceived risk x c where represents marginal effect expected benefit x risk taking preference b represents marginal effect perceived risk x risk taking preference c error term
+MISC--: researchers found systematic situational group differences perceived risk expected benefit risky behaviors citation
+MISC--: nevertheless people s perceived risk attitude coefficient b remains relatively stable across situations groups citation
+MISC--: therefore differences perceived risk expected return risky choices seem play major part observed domain specificity risk attitude citation
+MISC--: this risk return framework weber et al citation developed domain specific risk taking dospert scale order assess both conventional risk attitudes apparent risk taking i e risk taking preference formula above perceived risk attitudes six domains namely social recreational gambling investment health safety ethical decisions
+MISC--: conventional risk attitudes defined people s stated level risk taking perceived risk attitude defined willingness engage risky behavior function its perceived risk citation
+AIMX--: therefore dospert scale measures both individuals propensity engage risk activities their perceived risk expected return activities making possible study relationship between apparent risk taking risk perception thus perceived risk attitude
+AIMX--: using this scale weber et al citation demonstrated participants degree risk taking differed across domains differences were primarily associated differences perceived risk expected return risky behaviors rather than differences perceived risk attitude
+OWNX--: results provided strong support risk return model risky choice
+MISC--: researchers provided strong evidence dospert scale s reliability validity citation
+MISC--: weber et al citation reported its initial psychometric properties including moderate reliability estimates satisfactory construct validity convergent discriminant validity respect constructs sensation seeking intolerance ambiguity social desirability
+MISC--: geographically dospert been validated many other cultures german dutch italian spanish citation
+MISC--: nonetheless date scale not been tested eastern cultures
+MISC--: mentioned above items six content domains dospert were originally developed validated u s since substantial cultural differences exist between western societies eastern societies there need examine its psychometric properties eastern culture
+AIMX--: therefore order further examine cross cultural validity dospert current paper validated scale chinese culture using university students china
+OWNX--: this process we looked similarities differences risk taking function culture then discuss possible explanations observed differences
+OWNX--: specifically we conducted two studies address issues
+OWNX--: simplicity sake we will refer our translated revised version scale dospert c
+AIMX--: study number we attempted identify factor structure dospert c using exploratory factor analytic procedure
+OWNX--: moreover we examined reliability dospert c
+OWNX--: we also performed regression examine relationship between risk perception risk behavior
+OWNX--: mentioned above risk return framework assumes involvement various determinants namely perceived risk expected benefit perceived risk attitude
+OWNX--: however because logistical constraints expected benefit could not collected present study
+AIMX--: thus this study s emphasis conventional risk attitudes perception risk perceived risk attitude
+OWNX--: study number order provide further empirical support factor structure dospert c we conducted confimatory factor analysis

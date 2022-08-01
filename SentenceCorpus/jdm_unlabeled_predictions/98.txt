@@ -1,0 +1,11 @@
+MISC--: although mechanical turk recently become popular among social scientists source experimental data doubts may linger about quality data provided subjects recruited online labor markets
+OWNX--: we address potential concerns presenting new demographic data about mechanical turk subject population reviewing strengths mechanical turk relative other online offline methods recruiting subjects comparing magnitude effects obtained using mechanical turk traditional subject pools
+OWNX--: we further discuss some additional benefits possibility longitudinal cross cultural prescreening designs offer some advice how best manage common subject pool
+MISC--: mechanical turk started number service crowd source labor intensive tasks now being used source subjects experimental research citation
+CONT--: however combination unfamiliarity what online labor markets how use them uncertainty about demographic characteristics their participants concerns about data quality this sample may make some researchers wary using mechanical turk collect data
+MISC--: address concerns we report demographic characteristics mechanical turk workers highlight some unique practical methodological strengths mechanical turk source research subjects compare classic judgment decision making effects this population more traditional subject populations
+MISC--: article organized follows
+OWNX--: section number we introduce main features mechanical turk demonstrate population mechanical turk at least representative u s population traditional subject pools
+OWNX--: further we show shifting include more international participants
+OWNX--: section number we review logic underlying concerns collecting data using mechanical turk present strengths potentials mechanical turk relative other online offline methods recruiting subjects
+OWNX--: section number we present results comparative study involving classic experiments judgment decision making we found no differences magnitude effects obtained using mechanical turk using traditional subject pools

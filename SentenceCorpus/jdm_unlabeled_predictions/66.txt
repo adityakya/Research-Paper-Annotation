@@ -1,0 +1,30 @@
+MISC--: current field study compares time preferences young adults similar ages but two very different environments one more dangerous uncertain than other
+MISC--: soldiers college students control group teenagers answered questionnaires about their time preferences
+MISC--: during mandatory service soldiers live violent atmosphere where they face great uncertainty about near future high risk mortality measured probability survival
+MISC--: university students teenagers live much calmer environment tested performance only periodically
+OWNX--: soldier subjects show relatively high subjective discount rates when compared other two groups
+OWNX--: we suggest higher subjective discount rate among soldiers result high perceived risk army institution higher mortality risk
+MISC--: subjective discount rate rate at individuals trade current value future outcome
+MISC--: this rate varies person person depending each one s willingness wait
+MISC--: general individual who values present more than future will higher subjective discount rate than person who places more value future
+AIMX--: current paper we examine how military service influences time preference soldiers
+OWNX--: we compare time discount soldiers israel defense forces idf time discount university high school students
+OWNX--: since its establishment number state israel had universal conscription all youths male female upon completing high school at age number
+MISC--: law soldiers serve full time two females three males years then continue serving reserves
+MISC--: idf plays important part israeli society supported national consensus israel population citation
+MISC--: soldiers unique group because they drafted at young age prior beginning their tertiary education earn similar very low salaries
+MISC--: their employer harsh total institution where all parts life individuals under its authority subordinate dependent upon hierarchy organization very clear values
+OWNX--: soldiers intensively trained tested first day basic training
+MISC--: conversely university students israel usually work higher earnings
+MISC--: they live much calmer environment tested performance only periodically
+MISC--: few studies tested soldiers decision making compare them civilians
+MISC--: warner pleeter citation studied choices regarding early retirement plans older soldiers us army
+OWNX--: soldiers were heterogenic age education earnings choose join army profession
+MISC--: recent article haerem et al citation compared educated military decision makers business students found soldiers exhibited high levels self efficacy correlated risk seeking behavior
+CONT--: unlike other studies our study first test time preferences young soldiers who did not join army career choice but rather were drafted mandatory service
+OWNX--: order ensure similar test conditions soldiers other young adults we distributed questionnaires both groups when they were travelling train
+OWNX--: we found soldiers higher subjective discount rate when compared similar age groups
+OWNX--: rest paper organized follows section number we discuss risk morbidity mortality their relation our research
+OWNX--: section number presents hypothesis
+OWNX--: section number describes experimental design
+OWNX--: section number presents results regarding time preferences soldiers students

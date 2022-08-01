@@ -1,0 +1,28 @@
+MISC--: several researchers recently investigated connection between reinforcement learning classification
+CONT--: we motivated proposals approximate policy iteration schemes without value functions focus policy representation using classifiers address policy learning supervised learning problem
+AIMX--: this paper proposes variants improved policy iteration scheme addresses core sampling problem evaluating policy through simulation multi armed bandit machine
+CONT--: resulting algorithm offers comparable performance previous algorithm achieved however significantly less computational effort
+MISC--: order magnitude improvement demonstrated experimentally two standard reinforcement learning domains inverted pendulum mountain car
+CONT--: supervised reinforcement learning two well known learning paradigms been researched mostly independently
+MISC--: recent studies investigated use supervised learning methods reinforcement learning either value function mycite lagoudakis lsp riedmiller nfq policy representation mycite lagoudakisicml fern api langfordicml
+MISC--: initial results shown policies approximately represented using either multi class classifiers combinations binary classifiers mycite rexakis lagoudakis ewrl therefore possible incorporate classification algorithms within inner loops several reinforcement learning algorithms mycite lagoudakisicml fern api
+MISC--: this viewpoint allows quantification performance reinforcement learning algorithms terms performance classification algorithms mycite langfordicml
+CONT--: while variety promising combinations become possible through this synergy heretofore there been limited practical widely applicable algorithms
+BASE--: our work builds work lagoudakis parr mycite lagoudakisicml who suggested approximate policy iteration algorithm learning good policy represented classifier avoiding representations any kind value function
+OWNX--: at each iteration new policy classifier produced using training data obtained through extensive simulation rollouts previous policy generative model process
+OWNX--: rollouts aim at identifying better action choices over subset states order form set data training classifier representing improved policy
+MISC--: similar algorithm was proposed fern et al mycite fern api at around same time
+MISC--: key differences between two algorithms related types learning problems they suitable choice underlying classifier type exact form classifier training
+MISC--: nevertheless main ideas producing training data using rollouts iterating over policies remain same
+MISC--: even though both studies look carefully into distribution training states over state space their major limitation remains large amount sampling employed at each training state
+MISC--: hinted mycite lagoudakisphd however great improvement could achieved sophisticated management rollout sampling
+CONT--: our paper suggests managing rollout sampling procedure within above algorithm goal obtaining comparable training sets therefore policies similar quality but significantly less effort terms number rollouts computation effort
+MISC--: this done viewing setting akin bandit problem over rollout states states sampled using rollouts
+MISC--: well known algorithms bandit problems upper confidence bounds mycite auermlj successive elimination mycite evendarjmlr allow optimal allocation resources rollouts trials states
+OWNX--: our contribution two fold we suitably adapt bandit techniques rollout management b we suggest improved statistical test identifying early high confidence states dominating actions
+OWNX--: return we obtain up order magnitude improvement over original algorithm terms effort needed collect training data each classifier
+CONT--: this makes resulting algorithm attractive practitioners who need address large real world problems
+AIMX--: remainder paper organized follows
+OWNX--: section provides necessary background section reviews original algorithm we based
+OWNX--: subsequently our approach presented detail section
+OWNX--: finally section includes experimental results obtained well known learning domains

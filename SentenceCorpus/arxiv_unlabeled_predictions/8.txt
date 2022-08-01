@@ -1,0 +1,26 @@
+OWNX--: we address problem autonomously learning controllers vision capable mobile robots
+OWNX--: we extend mccallum s nearest sequence memory algorithm allow general metrics over state action trajectories
+OWNX--: we demonstrate feasibility our approach successfully running our algorithm real mobile robot
+CONT--: algorithm novel unique explores environment learns directly mobile robot without using hand made computer model intermediate step b does not require manual discretization sensor input space c works piecewise continuous perceptual spaces d copes partial observability
+MISC--: together this allows learning much less experience compared previous methods
+MISC--: realization fully autonomous robots will require algorithms learn direct experience obtained visual input
+MISC--: vision systems provide rich source information but piecewise continuous pwc structure perceptual space e g video images implied typical mobile robot environments not compatible most current line reinforcement learning approaches
+OWNX--: environments characterized regions smooth continuity separated discontinuities represent boundaries physical objects sudden appearance disappearance objects visual field
+MISC--: there two broad approaches used adapt existing algorithms real world environments discretizing state space fixed citation adaptive citation grids using function approximator neural network citation radial basis functions rbfs citation cmac citation instance based memory citation
+MISC--: fixed discrete grids introduce artificial discontinuities while adaptive ones scale exponentially state space dimensionality
+MISC--: neural networks implement relatively smooth global functions not capable approximating discontinuities rbfs cmacs like fixed grid methods require knowledge appropriate local scale
+MISC--: instance based methods use neighborhood explicitly stored experiences generalize new experiences
+CONT--: methods more suitable our purposes because they implement local models principle approximate pwc functions but typically fall short because using fixed neighborhood radius they assume uniform sampling density state space
+OWNX--: fixed radius prevents approximator clearly identifying discontinuities because points both sides discontinuity averaged together thereby blurring its location
+OWNX--: if instead we use fixed number symbol neighbors effect using variable radius approximator arbitrary resolution near important state space boundaries where most needed accurately model local dynamics
+CONT--: use approach appropriate metric needed determine stored instances provide most relevant information deciding what do given situation citation
+MISC--: apart pwc structure perceptual space robot learning algorithm must also cope fact instantaneous sensory readings alone rarely provide sufficient information robot determine where localization problem what action best take
+OWNX--: some form short term memory needed integrate successive inputs identify underlying environment states otherwise only partially observable
+AIMX--: this paper we present algorithm called piecewise continuous nearest sequence memory pc nsm extends mccallum s instance based algorithm discrete partially observable state spaces nearest sequence memory nsm citation more general pwc case
+OWNX--: like nsm pc nsm stores all data collects environment but uses continuous metric history allows used real robot environments without prior discretization perceptual space
+MISC--: important priority this work minimizing amount priori knowledge about structure environment available learner
+MISC--: typically artificial learning conducted simulation then resulting policy transfered real robot
+CONT--: building accurate model real environment human resource intensive only really achievable when simple sensors used unlike full scale vision while overly simplified models make policy transfer difficult citation
+OWNX--: this reason we stipulate robot must learn directly real world
+CONT--: furthermore since gathering data real world costly algorithm should capable efficient autonomous exploration robot perceptual state space without knowing amount exploration required different parts state space normally case even most advanced approaches exploration discrete citation even metric citation state spaces
+OWNX--: next section introduces pc nsm section presents our experiments robot navigation section discusses our results future directions our research

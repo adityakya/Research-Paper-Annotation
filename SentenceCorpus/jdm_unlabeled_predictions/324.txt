@@ -1,0 +1,14 @@
+MISC--: one major statistical methodological challenge judgment decision making research reliable identification individual decision strategies selection diagnostic tasks tasks predictions strategies differ sufficiently
+MISC--: more strategies considered larger number dependent measures simultaneously taken into account strategy classification citation more complex selection most diagnostic tasks becomes
+OWNX--: we suggest euclidian diagnostic task selection edts method standardized solution problem
+MISC--: according edts experimental tasks selected maximize average difference between strategy predictions any multidimensional prediction space
+OWNX--: comprehensive model recovery simulation we evaluate quantify influence diagnostic task selection identification rates strategy classification
+MISC--: strategy classification edts shows superior performance comparison less diagnostic task selection algorithms representative sampling
+MISC--: advantage edts particularly large if only few dependent measures considered
+MISC--: we also provide easy use function free software package r allows generating predictions most commonly considered strategies specified set tasks evaluating diagnosticity those tasks via edts thus apply edts no prior programming knowledge necessary
+MISC--: identification individuals decision strategies always challenged behavioral decision research
+MISC--: there at least three traditional approaches
+MISC--: structural modeling applies regression based approach identify relation between distal criterion variable proximal cues peoples judgments citation process tracing methods example record information search citation use think aloud protocols citation trace decision process citation whereas comparative model fitting approaches investigate fit data predictions different models determine model decision strategy employed citation
+MISC--: comparative model fitting particular gained popularity recent judgment decision making jdm research
+AIMX--: this paper we discuss problem diagnostic task selection when using this strategy classification method
+OWNX--: we suggest euclidian diagnostic task selection edts method standardized solution

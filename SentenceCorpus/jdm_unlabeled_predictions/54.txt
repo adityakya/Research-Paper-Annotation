@@ -1,0 +1,46 @@
+MISC--: we study individual decision making lottery choice task performed three different populations gamblers under psychological treatment number ddicts gamblers spouses victims people who neither gamblers gamblers spouses normals
+MISC--: we find addicts willing take less risk than normals but difference smaller gambler s time under treatment increases
+MISC--: large majority victims report themselves unwilling take any risk at all
+MISC--: however addicts first year treatment react more than other addicts different values risk return parameter
+MISC--: since late number s individual decision making under risk been one most popular issues studied economists psychologists
+MISC--: one hand theoretical analysis initially undertaken mostly economists framed basic problem generic situation individuals choose number probability outcome pairs
+MISC--: other hand empirical contributions both disciplines adopted variety methodologies
+OWNX--: include questionnaires economic experiments real world data
+MISC--: most salient intriguing result across all different methodologies decisions risky environment very sensitive framing choice task some individual characteristics
+OWNX--: this paper we focus effects problem gambling individual choice under uncertainty natural field studying interaction between subjects characteristics their observed decision making behavior
+MISC--: since citation pathological gambling been included diagnostic statistical manual mental disorders published american psychiatric association number
+MISC--: patients spectrum related disorders show intense desire perform specific behavior preceded unpleasant feelings physiological activation all relieved when behavior performed citation
+MISC--: thus several authors consider pathological gambling pg obsessive compulsive spectrum disorder citation
+MISC--: contrary this view other authors argue gambling essentially egosyntonic patients all phases disorder contrast what happens obsessive compulsive spectrum disorders where behavior consistently egodystonic citation
+OWNX--: moreover compulsive behaviors include increased evasive behavior anticipatory anxiety risk aversion not usually observed behavior pathological gamblers pgs
+MISC--: this lack agreement among experts whether gambling egosyntonic egodystonic disorder could even imply gamblers may heterogeneous respect their attitudes towards their addiction
+OWNX--: therefore at first stage whether gambling egosyntonic egodystonic disorder would influence way pgs feel about their condition
+MISC--: at second stage this could interfere degree they feel more attracted than normal subjects bets involving riskier options
+MISC--: therefore studying whether pgs behave differently normal subjects risky decision making tasks would require isolating first level pleasure discomfort due being gambler second level pleasure due betting riskier options
+MISC--: natural way obtaining more homogeneous population gamblers respect their attitude towards their addiction isolating studying population egodystonic gamblers those who voluntarily decided quit participate gambler anonymous ga therapy group
+MISC--: several aspects pgs behavior been studied so far
+MISC--: studies either aimed at shedding light specific methodological issues should accounted when studying decision making pgs directly addressing question whether pgs suffer form some kind cognitive bias
+MISC--: among different kinds cognitive bias most obvious suspect probability distortion due attraction risky bets could yield irrational behavior reflected higher degrees risk taking compared normal subjects
+MISC--: along this line studies toneatto citation gaboury ladouceur citation especially leopard citation while goodie citation adopts slightly different approach higher levels risk taking showing they result overconfidence
+AIMX--: this paper we study risky decisions made subjects whose lives been directly affected pathological gambling decided quit participating therapy group ga
+OWNX--: furthermore we study risk taking behavior people who indirectly affected pathological gambling because they married pathological gambler
+OWNX--: we want know whether decisions aforementioned groups abstract lottery choice task significantly differ those taken normal subjects if so what way
+CONT--: order address this question number subjects played hypothetical version lottery choice task introduced sabater georgantz number s citation further developed discussed georgantz number s et al citation
+OWNX--: task designed capture two dimensions decision making under risk
+OWNX--: first used distinguish between risk averse risk neutral risk loving subjects
+MISC--: also measures individual s degree risk aversion
+MISC--: second task captures subject s reaction different risk premia
+OWNX--: our sample consists three different subsamples
+OWNX--: first labeled addicts consists number pgs attending gambler anonymous ga session at annual meeting cordobesian association patholical gamblers acojer
+MISC--: second subsample labeled victims consists number spouses subjects first subsample
+OWNX--: third subsample consists number subjects our control population labeled normals
+MISC--: sabater georgantz number s citation georgantz number s et al citation provide us much larger data set obtained normal student subjects faced same task under different payment methods
+OWNX--: however given age difference between students our two focus groups we created this new sample normal subjects sake comparability
+OWNX--: our results show addicts exhibit higher degree risk aversion than normal individuals although their behavior tends convergence towards normals decision making behavior time under treatment increases
+MISC--: interestingly victims even more risk averse
+OWNX--: fact large percentage them around number percent refused take any risk at all
+OWNX--: second salient result addicts first year treatment appear more sensitive risk rewarding increases expected rewards than all other subjects
+OWNX--: section number we further discuss our objectives hypothesis
+OWNX--: section number we explain experimental design
+OWNX--: section number summarizes results section number contains conclusions
+MISC--: appendix presents english translation instructions

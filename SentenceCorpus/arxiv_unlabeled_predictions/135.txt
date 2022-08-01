@@ -1,0 +1,16 @@
+OWNX--: we study priori semimeasure sets symbol random infinite sequences where symbol family probability distributions depending real parameter symbol
+OWNX--: case when computable probability distribution symbol effectively strictly consistent estimator exists we show levin s priory semimeasure set all symbol random sequences positive if only if parameter symbol computable real number
+OWNX--: bernoulli family symbol we show priory semimeasure set symbol where symbol set all symbol random sequences union taken over all non random symbol positive
+OWNX--: we use algorithmic randomness theory analyze size sets infinite sequences random respect parametric families probability distributions
+MISC--: let parametric family probability distributions symbol where symbol real number given effectively strictly consistent estimator exists this family
+MISC--: bernoulli family real parameter symbol example family
+MISC--: theorem shows levin s priory semimeasure set all symbol random sequences positive if only if parameter value symbol computable real number
+OWNX--: we say property infinite sequences no empirical meaning if levin s priory semimeasure set all sequences possessing this property symbol
+CONT--: this respect model biased coin prespecified probability symbol head meaningless when symbol noncomputable real number noncomputable parameters symbol empirical meaning only their totality i e elements some uncountable sets
+MISC--: example symbol random sequences noncomputable symbol generated bayesian mixture symbol using computable prior
+OWNX--: this case evidently semicomputable semimeasure set all sequences random respect this mixture positive
+OWNX--: we give appendix simple proof our previous result formulated theorem says levin s priory semimeasure set all infinite binary sequences non equivalent turing martin l random sequences positive
+MISC--: particular sequences non random respect each computable probability distribution
+OWNX--: we use this result prove theorem
+MISC--: this theorem shows probabilistic machine constructed probability close symbol outputs random symbol bernoulli sequence parameter symbol not random respect each computable probability distribution
+OWNX--: this result interpreted bayesian statistical approach insufficient cover all possible meaningful cases symbol random sequences

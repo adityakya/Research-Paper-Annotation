@@ -1,0 +1,26 @@
+AIMX--: this paper we study application sparse principal component analysis pca clustering feature selection problems
+CONT--: sparse pca seeks sparse factors linear combinations data variables explaining maximum amount variance data while having only limited number nonzero coefficients
+MISC--: pca often used simple clustering technique sparse factors allow us here interpret clusters terms reduced set variables
+OWNX--: we begin brief introduction motivation sparse pca detail our implementation algorithm d aspremont et al
+OWNX--: we then apply results some classic clustering feature selection problems arising biology
+AIMX--: this paper focuses applications sparse principal component analysis clustering feature selection problems particular focus gene expression data analysis
+MISC--: sparse methods had significant impact many areas statistics particular regression classification see citation citation citation among others
+OWNX--: areas our motivation developing sparse multivariate visualization tools potential methods yielding statistical results both more interpretable more robust than classical analyses while giving up little statistical efficiency
+MISC--: principal component analysis pca classic tool analyzing large scale multivariate data
+MISC--: seeks linear combinations data variables often called factors principal components capture maximum amount variance
+MISC--: numerically pca only amounts computing few leading eigenvectors data s covariance matrix so applied very large scale data sets
+MISC--: one key shortcomings pca however factors linear combinations all variables all factor coefficients loadings non zero
+MISC--: this means while pca facilitates model interpretation visualization concentrating information few key factors factors themselves still constructed using all observed variables
+MISC--: many applications pca coordinate axes direct physical interpretation finance biology example each axis might correspond specific financial asset gene
+MISC--: cases having only few nonzero coefficients principal components would greatly improve relevance interpretability factors
+MISC--: sparse pca we seek trade off between two goals expressive power explaining most variance information data interpretability making sure factors involve only few coordinate axes variables
+MISC--: when pca used clustering tool sparse factors will allow us identify clusters action only few variables
+MISC--: earlier methods produce sparse factors include cadima jolliffe citation where loadings smallest absolute value thresholded zero nonconvex algorithms called scotlass citation slra citation spca citation
+OWNX--: this last method works writing pca regression type optimization problem applies lasso citation penalization technique based symbol norm
+MISC--: very recently citation citation also proposed greedy approach seeks globally optimal solutions small problems uses greedy method approximate solution larger ones
+OWNX--: what follows we give brief introduction relaxation this problem citation describe how this smooth optimization algorithm was implemented
+CONT--: most expensive numerical step this algorithm computation gradient matrix exponential our key numerical contribution here show using only partial eigenvalue decomposition current iterate produce sufficiently precise gradient approximation while drastically improving computational efficiency
+OWNX--: we then show classic gene expression data sets using sparse pca simple clustering tool isolates very relevant genes compared other techniques recursive feature elimination ranking
+AIMX--: paper organized follows
+OWNX--: section we begin brief introduction motivation sparse pca detail our implementation algorithm numerical toolbox called dspca available download authors websites
+OWNX--: section we describe application sparse pca clustering feature selection gene expression data

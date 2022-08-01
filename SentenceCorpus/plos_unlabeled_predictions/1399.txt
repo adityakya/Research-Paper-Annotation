@@ -1,0 +1,58 @@
+MISC--: eukaryotes interphase nucleus organized morphologically functionally distinct nuclear compartments
+MISC--: numerous studies highlight functional relationships between spatial organization nucleus gene regulation
+MISC--: this raises question whether nuclear organization principles exist if so whether they identical animal plant kingdoms
+OWNX--: we addressed this issue through investigation three dimensional distribution centromeres chromocenters
+OWNX--: we investigated five very diverse populations interphase nuclei at different differentiation stages their physiological environment belonging rabbit embryos at cell blastocyst stages differentiated rabbit mammary epithelial cells during lactation differentiated cells arabidopsis thaliana plantlets
+OWNX--: we developed new tools based processing confocal images new statistical approach based g f distance functions used spatial statistics
+OWNX--: our original computational scheme takes into account both size shape variability comparing each nucleus observed distribution against reference distribution estimated monte carlo sampling over same nucleus
+OWNX--: this implicit normalization allowed similar data processing extraction rules five differentiated nuclei populations three studied biological systems despite differences chromosome number genome organization heterochromatin content
+OWNX--: we showed centromeres chromocenters form significantly more regularly spaced patterns than expected under completely random situation suggesting repulsive constraints spatial inhomogeneities underlay spatial organization heterochromatic compartments
+MISC--: proposed technique should useful identifying further spatial features wide range cell types
+MISC--: eukaryotes interphase nucleus organized into distinct nuclear compartments defined macroscopic regions within nucleus morphologically functionally distinct their surrounding citation
+MISC--: complex relationships between spatial organization compartments regulation genome function been previously described
+MISC--: furthermore changes nuclear architecture among most significant features differentiation development malignant processes
+MISC--: thus findings question whether topological landmarks nuclear organization principles exist if so whether architectural principles identical animal plant kingdoms
+MISC--: investigate nuclear organization principles multidisciplinary approaches required based image analysis computational biology spatial statistics
+MISC--: spatial distributions several compartments proteinaceous bodies genomic domains been analyzed
+MISC--: chromosome territories areas genetic content individual chromosomes confined citation citation usually radially distributed gene rich chromosomes more centrally located than gene poor chromosomes
+MISC--: some studies report chromosome size could also influence ct location citation citation
+MISC--: centromeres may close nuclear periphery those located chromosomes bearing ribosomal genes generally tethered nucleolar periphery citation
+MISC--: transcription sites well early replicating foci assumed correspond active chromatin more centrally located whereas inactive heterochromatin tends at nuclear periphery
+MISC--: at finer level active genes widely separated cis located different chromosomes colocalize active transcription sites citation citation whereas proximity centromeric heterochromatin nuclear periphery generally associated gene silencing citation citation
+MISC--: changes transcriptional status genes been frequently associated their repositioning nucleus relative their cts nuclear periphery repressive centromeric heterochromatin citation citation citation
+MISC--: furthermore large reorganization nuclear architecture accompany some differentiation development malignant processes natural variations citation citation
+MISC--: however still remains difficult extract common rules establish comparisons due various limitations
+MISC--: indeed most data been gathered limited sets nuclear elements isolated plant cell nuclei nuclei immortalized animal cell lines outside their physiological environment except circulating blood cells
+MISC--: little known about possible differences nuclear organization cells within their tissue citation
+OWNX--: some studies compared nuclear organization primary cells versus cell lines cell lines versus tissues d culture versus d cultures studies suggested tissue architecture involved control nuclear organization citation citation
+MISC--: addition data nuclear organization plant cell nuclei situ rare citation citation
+MISC--: finally few three dimensional studies quantitative measures been performed investigate spatial nuclear organization citation citation
+OWNX--: statistics used analyze data were mostly based radial patterns nuclear elements genes chromosome territories centromeres
+MISC--: radial positions been measured respect nuclear geometric center nuclear envelope citation citation
+MISC--: spatial affinity between several elements been investigated spatial correlations been assessed through central angles example between radii joining homologous chromosome territory centers nuclear center citation citation
+MISC--: alternative approaches based distances between elements been developed
+MISC--: distances between small number elements like two pairs homologous alleles were used testing spatial attraction repulsion citation
+MISC--: remarkably spatial statistics tools distance functions been developed ecology epidemiology analyzing spatial point patterns citation rarely been applied nuclear organization studies
+MISC--: example nearest neighbor distances been used analyze large numbers nuclear elements molecular complexes pml bodies rna polymerase ii foci citation citation
+MISC--: alternatively all pairwise inter distances been used analyze spatial distribution chromocenters citation nucleocapsids citation
+MISC--: spatial statistics data usually collected through sampling window over single realization point process
+MISC--: this point process generally considered unbounded spatially homogeneous
+OWNX--: theoretical framework makes sense applications investigated phenomenon extends far beyond observed region
+OWNX--: contrast analyses nuclear spatial patterns based images entire nuclei whole domain interest observed
+OWNX--: furthermore one should not consider observed nuclear patterns realizations spatially homogeneous point processes
+OWNX--: another difference replicated data available analysis carried out sample nuclei
+MISC--: recently distance functions been extended replicated spatially heterogeneous point patterns citation citation
+MISC--: instance extended f function been used analyzing spatial patterns transmissible spongiform encephalopathy lesions brain tissue citation
+MISC--: extended f function takes into account expected spatial heterogeneity point process intensity
+OWNX--: estimate this intensity replicated patterns first registered locate all observed points common coordinate system
+MISC--: however this type preliminary registration not possible nuclei due lack identifiable nuclear landmarks
+MISC--: hence further developments required make spatial statistics tools appropriate nuclear spatial organization studies
+AIMX--: this study we develop approach furthering analysis nuclear spatial organization
+MISC--: spatial distributions nuclear compartments were quantified using cumulative distribution functions nearest neighbor distances distances between arbitrary points within nucleus their nearest compartment
+OWNX--: analysis g f functions was designed specifically cope patterns observed non registered variable domains
+AIMX--: we applied this new approach investigation d distribution centric pericentric heterochromatin five interphase nuclei populations belonging animal plant kingdoms citation
+MISC--: centric pericentric compartment was chosen due its dual structural regulatory functions
+MISC--: indeed usually behaves transcription repressor essential genome organization proper segregation genetic information during cell division citation citation
+MISC--: this compartment often clusters forms chromocenters citation citation
+OWNX--: we studied nuclei cells at various differentiation stages three biological systems rabbit embryos at cell blastocyst stages differentiated rabbit mammary epithelial cells during lactation differentiated cells thaliana plantlets
+OWNX--: we found non completely random significantly more regularly spaced patterns than expected under complete randomness centric pericentric heterochromatin compartment five differentiated cell populations suggesting existence inter kingdom nuclear organizational rules possible nuclear regularities

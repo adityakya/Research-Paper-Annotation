@@ -1,0 +1,53 @@
+MISC--: actinin actin crosslinking molecule serve scaffold maintain dynamic actin filament networks
+OWNX--: crosslinker stressed cytoskeleton actinin retain conformation function strength
+MISC--: actinin actin binding domain calmodulin homology domain separated long rod domain
+OWNX--: using molecular dynamics normal mode analysis we suggest actinin rod domain flexible terminal regions twist extend under mechanical stress yet highly rigid interior region stabilized aromatic packing within each spectrin repeat electrostatic interactions between spectrin repeats strong salt bridges between its two anti parallel monomers
+OWNX--: exploring natural vibrations actinin rod domain conducting bending molecular dynamics simulations we also predict bending rod domain possible minimal force
+AIMX--: we introduce computational methods analyzing torsional strain molecules using rotating constraints
+OWNX--: molecular dynamics extension actinin rod also performed demonstrating transduction unfolding forces across salt bridges associated monomer actinin rod domain
+MISC--: cytoskeletal microfilament networks contribute mechanical stability cell dynamically arranging rearranging actin filaments reinforcement
+MISC--: dynamic arrangement actin filament requires actin filament crosslinking molecules actinin
+MISC--: actinin kda homodimer three major structural motifs actin binding domain calmodulin homology domain central rod domain citation
+OWNX--: each monomer contains all three structural domains but two monomers arranged anti parallel so two abds at opposite ends actinin
+MISC--: arrangement two abds at opposite ends allows actinin crosslink parallel actin filaments citation
+MISC--: actin filaments parallel arrangement very dynamic actin filaments move laterally horizontally relationship each other continuously bind unbind actinin crosslinking molecules citation
+MISC--: several cellular processes involving actin filament dynamic rearrangement scaffolding actinin include focal adhesion formation near membrane bound integrin molecules citation cytokinesis cytoplasmic dumping final stages mitosis citation citation z disk formation stabilization muscle cells citation
+MISC--: order actinin maintain its function actin filament scaffold dynamic environment actinin molecule must partially flexible meaning must simultaneously rigid stable at some regions resist external stress flexible at other regions maintain binding dynamic environment citation citation
+MISC--: structure actinin rod domain underlies function actinin partially flexible actin filament crosslinker
+MISC--: each central rod domain monomer long made up spectrin repeats connected helical linkers citation citation
+MISC--: other molecules spectrin repeats include dystophin utrophin
+MISC--: actinin rod domain differs other spectrin family molecules its shorter length its more rigid helical linkers its dimerization citation
+MISC--: spectrin repeats structure rod domain contributes several vital characteristics actinin rod domain aromatic packing hydrophobic residues within each repeat stabilize secondary structure citation acidic basic surfaces r r confer strong dimerization interactions citation kd pm between monomers citation interaction hydrophobic residues between r r both monomers electrostatic interactions produce coiled coil homodimer conformation degree bend degree left handed twist citation
+MISC--: together characteristics account rod domain maintaining both structural rigidity flexibility
+OWNX--: goal this investigation understand structural mechanisms partial flexibility actinin rod domain
+MISC--: coiled coil nature rod domain essential component rod domain structure
+MISC--: coiled coils dominant conformation fibrous proteins citation
+MISC--: most coiled coils heptad conformation hydrophobic residues every seventh residue citation citation
+MISC--: heptad conformation allows hydrophobic insertion one linker region into other monomers knobs into holes mechanism citation
+MISC--: presence heptad hydrophobic residues common coiled coil structure but neither necessary nor sufficient citation citation
+MISC--: coiled coils antiparallel dimers like actinin rod domain stabilized mainly electrostatic interactions between monomers within monomers citation
+MISC--: general knobs into holes mechanism coiled coil conformation exists only when stabilized electrostatic interactions citation
+MISC--: tendency electrostatic interactions play key role stabilizing coiled coil dimers like actinin contrast globular proteins where hydrophobic vdw electrostatic interactions equally significant molecular stability citation
+MISC--: coiled coil conformation rod domain significant structural feature significance electrostatic interactions coiled coil structure stability suggests significant role electrostatic interactions mechanical properties actinin rod domain
+MISC--: several studies examined mechanical properties other molecules rod like coiled coil conformations
+MISC--: studies dna citation citation myosin citation citation keratin citation citation together suggest coiled coil rod like structure contributes extensible rigidity torsional bending flexibility
+MISC--: tertiary structure dna referred coiled coil more commonly double helix because consists two intertwined helices
+MISC--: contrast actinin other fibrous proteins referred coiled coil due intertwining their quaternary structures
+MISC--: difference between dna coiled coil conformation protein coiled coil conformation significant but mechanical properties still compared
+MISC--: dna most studied coiled coil conformations been described elastic rod citation
+MISC--: its global mechanical behavior been described like thin isotropic homogeneous rod but its local mechanical behavior been described like anisotropic heterogeneous rod bending torsional flexibility citation citation
+MISC--: myosin s region functions lever arm muscle sarcomeres
+MISC--: using single molecule assay total internal reflection microscopy experiment citation been shown s region significant torsional flexibility underlying its lever arm function
+MISC--: keratin first coiled coil structure discovered citation major molecule hair fibers investigation its mechanical behavior molecular dynamics shown strong stretching rigidity over nn force needed stretch keratin percent citation
+MISC--: removing electrostatic interactions underlying coiled coil conformation keratin significantly reduces its rigidity citation
+MISC--: studies suggest coiled coil conformation actinin contributes extension rigidity but torsional bending flexibility
+MISC--: studies actinin other spectrin repeat molecules similarly demonstrated extension rigidity coiled coil rod domain citation citation
+MISC--: experimental investigation using atomic force microscopy spectrin unfolding demonstrated spectrin repeats unfold cooperative mechanism citation
+MISC--: several molecular dynamics investigations further characterize extension rigidity actinin rod domain resulting strength helical linker between spectrin repeats electrostatic hydrogen bonding within each repeat citation citation
+MISC--: there been no investigation bending torsional flexibility actinin rod domain other spectrin repeats but investigation actinin structure using cryoelectron microscopy shown there must some structural flexibility since actinin molecules form stable actin filaments crosslinks range crosslinking angles citation
+MISC--: flexibility actinin crosslinking actin filaments due torsional bending flexibility rod domain
+OWNX--: what features coiled coil structure actinin underlie its partial flexibility
+CONT--: using molecular dynamics normal mode analysis this study investigates mechanical partial flexibility actinin rod domain
+MISC--: bending torsion extension simulations demonstrate other coiled coil molecules actinin rod domain bending torsional flexibility extensional rigidity
+MISC--: normal mode analysis shows rod like structure actinin contributes towards its bending torsional flexibility
+OWNX--: our simulations suggest aromatic packing interactions determine trajectory torsion rod domain electrostatic interaction between monomers contributes extension rigidity rod domain

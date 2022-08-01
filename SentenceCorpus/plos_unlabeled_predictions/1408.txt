@@ -1,0 +1,28 @@
+MISC--: gene regulatory networks consist direct interactions but also include indirect interactions mediated metabolites signaling molecules
+MISC--: we describe how indirect interactions derived model underlying biochemical reaction network using weak time scale assumptions combination sensitivity criteria metabolic control analysis
+OWNX--: we apply this approach model carbon assimilation network escherichia coli
+OWNX--: our results show derived gene regulatory network densely connected contrary what usually assumed
+MISC--: moreover network largely sign determined meaning signs indirect interactions fixed flux directions biochemical reactions independently specific parameter values rate laws
+OWNX--: inversion fluxes following change growth conditions may affect signs indirect interactions though
+MISC--: this leads feedback structure at same time robust changes kinetic properties enzymes flexibility accommodate radical changes environment
+MISC--: adaptation bacteria changes their environment involves adjustments expression genes coding enzymes regulators membrane transporters etc citation citation
+MISC--: adjustments controlled gene regulatory networks ensuring coordinated expression clusters functionally related genes
+MISC--: interactions network may direct case gene coding transcription factor regulating expression another gene
+MISC--: most time however regulatory interactions indirect e g when gene encodes enzyme producing transcriptional effector citation
+OWNX--: gene regulatory network thus not reduced its transcriptional regulatory interactions ignoring indirect interactions mediated metabolic signaling pathways we may miss crucial feedback loops system
+MISC--: network controlling carbon uptake bacterium escherichia coli good example because integrates metabolism signal transduction gene expression
+MISC--: at level gene expression network includes intricate feedback loops arise indirect interactions between subsystems
+MISC--: global regulators like crp control expression enzymes carbon metabolism citation citation while intermediates latter pathways control expression global regulators
+MISC--: instance phosphorylation eiia activates adenylate cyclase produce camp required activation crp citation citation
+AIMX--: aim this paper develop method systematic derivation direct indirect interactions gene regulatory network underlying biochemical reaction network
+MISC--: due complexity intermediate metabolic signaling networks determining indirect interactions difficult general
+MISC--: we show model reduction based quasi steady state approximations expressing weak assumptions time scale hierarchies system citation citation together sensitivity criteria metabolic control analysis citation citation able uncover interactions
+MISC--: indeed mca formalism uniquely allows relate systemic sensitivities sensitivities individual reactions reactants effectors citation citation
+MISC--: therefore provides proper framework investigating metabolic effects gene regulation
+OWNX--: we apply our approach model upper part carbon assimilation network e coli consisting glycolysis gluconeogenesis pathways their genetic metabolic regulation
+MISC--: analysis derived gene regulatory network leads three new insights
+MISC--: first contrary what often assumed network densely connected due numerous feedback loops resulting indirect interactions
+MISC--: this additional complexity important issue correct interpretation data genome wide transcriptome studies
+MISC--: second derived gene regulatory network carbon assimilation e coli sign determined sense signs interactions essentially fixed weak information flux directions biochemical reactions without explicit specification kinetic rate laws parameter values
+MISC--: therefore feedback structure robust changes kinetic properties enzymes other biochemical reactions species
+MISC--: third change environmental conditions may invert fluxes thus signs indirect interactions resulting dynamic rewiring regulatory network

@@ -1,0 +1,36 @@
+OWNX--: cell polarity general cellular process seen various cell types migrating neutrophils dictyostelium cells
+MISC--: rho small gtpases been shown regulate cell polarity however its mechanism emergence yet clarified
+OWNX--: we first developed reaction diffusion model rho gtpases exhibits switch like reversible response gradient extracellular signals exclusive accumulation cdc rac rhoa at maximal minimal intensity signal respectively tracking changes signal gradient polarized peak
+OWNX--: previous cell polarity models proposed subramanian narang show similar behaviors our rho gtpase model despite difference molecular networks
+OWNX--: this led us compare models we found models commonly share instability mass conservation components
+MISC--: based common properties we developed conceptual models mass conserved reaction diffusion system diffusion driven instability
+MISC--: conceptual models retained similar behaviors cell polarity rho gtpase model
+OWNX--: using models we numerically analytically found multiple polarized peaks unstable resulting single stable peak sensitivity toward changes signal gradient specifically restricted at polarized peak
+MISC--: although molecular networks may differ one cell type another behaviors cell polarity migrating cells seem similar suggesting there should fundamental principle
+OWNX--: thus we propose mass conserved reaction diffusion system diffusion driven instability one principles cell polarity
+MISC--: eukaryotic cells neutrophils dictyostelium cells respond temporal spatial gradients extracellular signals directional movements citation citation
+MISC--: this process known chemotaxis fundamental cellular process citation citation citation
+MISC--: migrating cell specific molecular events take place at front back edges citation citation citation citation
+MISC--: spatially distinctive molecular accumulation inside cells known cell polarity
+MISC--: front back polarity usually one axis this uniqueness important property because migrating cell two fronts could not move effectively citation
+MISC--: another behavior front back polarity higher sensitivity front gradient extracellular signals citation citation
+OWNX--: this would also important because direction movement should controlled at front edge
+MISC--: many molecules involved chemotaxis mammalian cells been identified citation citation
+MISC--: some molecules including phosphoinositide kinase phosphatidylinositol triphosphate cdc rac f actin specifically localized at front whereas others including phosphatase tensin homologue deleted chromosome rhoa at back migrating cells citation citation citation citation citation
+MISC--: rho family small gtpases particular play central role chemotaxis establishing cell polarity citation citation
+MISC--: however mechanism generating spatial accumulation rho gtpases cell polarity yet clarified
+MISC--: many mathematical models account gradient sensing signal amplification cell polarity been proposed citation
+MISC--: local excitation global inhibition model been proposed explain spatial gradient sensing citation citation
+MISC--: some models involve positive feedback loops amplified accumulation signaling molecules citation citation
+MISC--: reaction diffusion model includes local self enhancement long range antagonistic effects been proposed directional sensitivity citation
+MISC--: most reported models cell polarity involve detailed parameters concentrations rate constants been constructed many parameters equations
+OWNX--: although detailed models at least partially successful reproducing experimental observations cell polarity theoretical essence underlying cell polarity not been explicitly demonstrated thus simple conceptual model used analytical study needed extract common principles cell polarity
+MISC--: although reported models consist distinct molecular species networks should especially emphasized many them able exhibit similar behaviors cell polarity regardless their different frameworks
+MISC--: this fact indicates common principle should underlie models conceptual model suitable extracting common principles cell polarity
+BASE--: because rho small gtpases key regulators cell polarity citation citation we first developed reaction diffusion model rho gtpases basis earlier model citation examine spatial properties rho gtpases
+OWNX--: we found interaction rho gtpases per se generate specific spatial accumulation rho gtpases our model shows important behaviors cell polarity
+BASE--: we also found our model exhibits behaviors similar model narang subramanian citation citation based molecular networks different ours
+MISC--: this suggests common principles should underlie both models
+OWNX--: we found mass conservation components diffusion driven instability commonly conserved narang subramanian models our model
+MISC--: based common properties we established conceptual models mass conserved reaction diffusion system found properties account critical behaviors cell polarity
+OWNX--: results strongly suggest mass conservation components diffusion driven instability one fundamental principles cell polarity

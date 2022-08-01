@@ -1,0 +1,22 @@
+OWNX--: we designed experiment test robustness dana weber kuang s dwk number results
+OWNX--: dwk observed when participants were given costless way click button ignore consequences their actions others payoffs they chose remain ignorant fair behavior diminished
+OWNX--: implementing double blind experiment together design controls alternative explanations observed behavior we confirmed dwk s findings
+MISC--: previous works indicated although individuals often act altruistically citation they also engage strategic ignorance thus avoid situations where altruism might expected required them citation
+MISC--: recent paper dana weber kuang citation henceforth dwk presented results experiment where participants were given choice either remaining uninformed about effects their actions someone else s earnings clicking button computer screen learn about how their decisions could affect another participant s earnings
+MISC--: despite this costless mechanism half participants their experiment chose strategic ignorance subsequently selfish actions
+OWNX--: contrast when participants did not choice remain ignorant behavior was mostly altruistic
+MISC--: based data dwk argue generosity observed many experiments may not due preference fair outcome but may result people feeling compelled give due situational factors while not really valuing corresponding outcome p number
+MISC--: indeed dwk observed when one one mapping between actions outcomes was relaxed fair behavior diminished
+MISC--: given potential significance findings reshaping discussion motives fair altruistic behavior role situational factors may play influencing them here we check robustness dwk s results alternative experimental design
+OWNX--: dwk s experiment subjects were asked click button screen make consequences their actions transparent
+MISC--: addition preference strategic ignorance there alternative reasons why subjects their experiments may chosen not click button remain ignorant behaved selfishly
+MISC--: first subjects may perceived click button costly not costless
+OWNX--: extra click requires additional effort click
+MISC--: secondly click may been avoided because generated delay consumption
+MISC--: dwk s experiment participant who chooses reveal other s payoffs forced wait learn about other s earnings before being able consume her own payoff
+MISC--: finally more importantly possible omission bias citation may caused curious results
+MISC--: indeed one reasonably expect more generosity experimental design where transparency default choice its avoidance click option
+OWNX--: this paper altering way we ask participants reveal not reveal information about others earnings we control decision costs consumption delay some caveats omission bias
+OWNX--: indeed our experiment reveal not reveal information about other s payoffs required same amount effort time both options required action commission
+OWNX--: we also implement double blind experiment generate most reliable environment test participant s decisions
+OWNX--: interestingly overall our results confirm results data weber kuang

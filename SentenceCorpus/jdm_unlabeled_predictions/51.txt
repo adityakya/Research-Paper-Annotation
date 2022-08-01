@@ -1,0 +1,44 @@
+MISC--: markets asymmetric information only sellers knowledge about quality goods
+MISC--: sellers may course make declaration quality but unless there sanctions imposed false declarations reputations at stake declarations tantamount cheap talk
+AIMX--: nonetheless experimental study we find most people make honest declarations line recent findings lies damaging another party costly terms liar s utility
+OWNX--: moreover we find this experimental market deceptive sellers offer lower prices than honest sellers could possibly explained same wish limit damage other party
+OWNX--: however when recipient offer social tie we find no evidence lower prices deceptive offers seems indicate rationale lower price deceptive offers strangers fact profit seeking making deal more attractive rather than moral
+MISC--: market said asymmetric information if only sellers know quality goods
+MISC--: george akerlof s citation famous game theoretic paper market lemons showed given certain conditions good quality would driven out markets information asymmetries
+MISC--: experimental studies support this basic argument citation
+MISC--: core features traditional market lemons model quality prices goods
+CONT--: high quality goods assumed more valuable sellers buyers alike but only sellers know quality at time sale
+MISC--: order any deception take place sellers must also able make quality declaration true false
+MISC--: if no reputation building other sanctions possible declarations considered cheap talk usually discarded irrelevant game theory citation
+MISC--: effect standard game theory everyone supposed lie if they benefit doing so
+OWNX--: archetypical example market lemons market used cars
+MISC--: however uri gneezy citation points out empirical departure theoretical prediction he then suggests buyers often place sufficient trust private sellers honesty because many private sellers actually prefer honest
+MISC--: indeed many experimental studies found most subjects usually do not take advantage possibility deceive another party citation
+MISC--: studies also identify several moderators decision whether deceive particular gneezy citation found deception less likely occur more damages other party
+OWNX--: we will think this moral cost deception
+AIMX--: here we present novel experimental study deception price market lemons
+CONT--: far we know there been no previous study deceptive declarations quality markets
+OWNX--: our first aim establish also this context most subjects will tend honest
+OWNX--: said differently we expect most subjects who advertise peach will actually sell peach not lemon
+OWNX--: our second main aim study relationship between deception pricing
+MISC--: market where sellers set prices no gain made deception unless seller actually charges more good when buyer believes high quality
+AIMX--: this pricing aspect no counterpart gneezy s study where subjects only chose whether honest deceive
+OWNX--: our experiment gadget sellers compete buyers both declared quality price
+MISC--: at first glance may seem unreasonable honest deceptive sellers deviate price they offer since gadgets indistinguishable buyers at time purchase
+OWNX--: however we will discuss immediately below there several reasons why deceptive sellers might charge less
+MISC--: terminology wolinsky citation higher price signals higher quality
+OWNX--: hence our second question whether sellers our market employ price signaling
+MISC--: why would deceptive sellers charge less
+OWNX--: following gneezy liars concerned damage their deception causes buyers might want compensate offering lower price let us call this mechanism moral price signaling
+MISC--: alternative mechanism rational price signaling profit maximizing sellers who believe most buyers prefer buy lower priced goods would actually charge less when deceptive than when honest
+OWNX--: reason possibility higher price relatively less attractive seller who does not bear cost parting high quality
+MISC--: difficult distinguish between two mechanisms within same market framework
+OWNX--: our approach let sellers make offers both strangers friends
+MISC--: rationale this comes research sociology social psychology showing information asymmetries lead strong preferences socially embedded transactions part buyers since friends more trusted behave honestly citation
+OWNX--: therefore seller who gives offer friend regardless price relatively certain this offer will not rejected out distrust
+MISC--: consequently rational price signaling would not expected between friends whereas moral price signaling would if anything more accentuated between friends
+MISC--: our third question thus whether price signaling dependent whether offers made social ties strangers
+OWNX--: cross national experiment outlined section follow was designed answer questions
+OWNX--: we collected data sellers well buyers
+MISC--: latter data allow us investigate buyers preferences over prices social embeddedness
+OWNX--: particular we want ascertain buyers tend prefer lower priced offers unless offer friend

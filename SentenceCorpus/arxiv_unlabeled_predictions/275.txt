@@ -1,0 +1,46 @@
+AIMX--: this paper introduces principled approach design scalable general reinforcement learning agent
+OWNX--: our approach based direct approximation aixi bayesian optimality notion general reinforcement learning agents
+MISC--: previously been unclear whether theory aixi could motivate design practical algorithms
+OWNX--: we answer this hitherto open question affirmative providing first computationally feasible approximation aixi agent
+OWNX--: develop our approximation we introduce new monte carlo tree search algorithm along agent specific extension context tree weighting algorithm
+AIMX--: empirically we present set encouraging results variety stochastic partially observable domains
+OWNX--: we conclude proposing number directions future research
+MISC--: reinforcement learning citation popular influential paradigm agents learn experience
+MISC--: aixi citation bayesian optimality notion reinforcement learning agents unknown environments
+AIMX--: this paper introduces evaluates practical reinforcement learning agent directly inspired aixi theory
+MISC--: consider agent exists within some unknown environment
+MISC--: agent interacts environment cycles
+MISC--: each cycle agent executes action turn receives observation reward
+MISC--: only information available agent its history previous interactions
+MISC--: general reinforcement learning problem construct agent over time collects much reward possible unknown environment
+MISC--: aixi agent mathematical solution general reinforcement learning problem
+MISC--: achieve generality environment assumed unknown but computable function i e observations rewards received agent given its past actions computed some program running turing machine
+MISC--: aixi agent results synthesis two ideas sep mm parskip mm use finite horizon expectimax operation sequential decision theory action selection extension solomonoff s universal induction scheme citation future prediction agent context
+MISC--: more formally let symbol denote output universal turing machine symbol supplied program symbol input symbol symbol finite lookahead horizon symbol length bits program symbol
+MISC--: action picked aixi at time symbol having executed actions symbol having received sequence observation reward pairs symbol environment given symbol intuitively agent considers sum total reward over all possible futures up symbol steps ahead weighs each them complexity programs consistent agent s past generate future then picks action maximises expected future rewards
+MISC--: equation embodies one line major ideas bayes ockham epicurus turing von neumann bellman kolmogorov solomonoff
+MISC--: aixi agent rigorously shown citation optimal many different senses word
+MISC--: particular aixi agent will rapidly learn accurate model environment proceed act optimally achieve its goal
+MISC--: accessible overviews aixi agent been given both citation citation
+MISC--: complete description agent found citation
+MISC--: aixi agent only asymptotically computable no means algorithmic solution general reinforcement learning problem
+MISC--: rather best understood bayesian optimality notion decision making general unknown environments
+MISC--: its role general ai research should viewed example same way minimax empirical risk minimisation principles viewed decision theory statistical machine learning research
+MISC--: principles define what optimal behaviour if computational complexity not issue provide important theoretical guidance design practical algorithms
+AIMX--: this paper demonstrates first time how practical agent built aixi theory
+MISC--: seen equation there two parts aixi
+OWNX--: first expectimax search into future we will call planning
+BASE--: second use bayesian mixture over turing machines predict future observations rewards based past experience we will call learning
+MISC--: both parts need approximated computational tractability
+MISC--: there many different approaches one try
+BASE--: this paper we opted use generalised version uct algorithm citation planning generalised version context tree weighting algorithm citation learning
+AIMX--: this combination ideas together attendant theoretical experimental results form main contribution this paper
+AIMX--: paper organised follows
+OWNX--: section introduces notation definitions we use describe environments accumulated agent experience including familiar notions reward policy value functions our setting
+OWNX--: section describes general bayesian approach learning model environment
+OWNX--: section then presents monte carlo tree search procedure we will use approximate expectimax operation aixi
+OWNX--: this followed description context tree weighting algorithm how generalised use agent setting section
+OWNX--: we put two ideas together section form our aixi approximation algorithm
+MISC--: experimental results then presented sections
+BASE--: section provides discussion related work limitations our current approach
+OWNX--: section highlights number areas future investigation

@@ -1,0 +1,50 @@
+OWNX--: n acetyl l glutamate kinase structural paradigm examining catalytic mechanisms dynamics amino acid kinase family members
+MISC--: given slow conformational dynamics nagk may rate limiting importance assess mechanisms most cooperative modes motion intrinsically accessible this enzyme
+AIMX--: here we present results normal mode analysis using elastic network model representation shows conformational mechanisms substrate binding nagk strongly correlate intrinsic dynamics enzyme unbound form
+OWNX--: we further analyzed potential mechanisms allosteric signalling within nagk using markov model network communication
+OWNX--: comparative analysis dynamics family members strongly suggests low frequency modes motion associated intramolecular couplings establish signal transduction highly conserved among family members support paradigm sequence structure dynamics function
+MISC--: many recent studies both experimental computational point inherent ability proteins undergo under native state conditions large amplitude conformational changes usually linked their biological function
+MISC--: proteins access via equilibrium fluctuations ensemble conformers encoded their dimensional structure ligand binding essentially shifts population pre existing conformers favour ligand bound form citation citation
+MISC--: accessibility multiple structures resolved given protein different forms now possible identify principal changes structure assumed given protein upon binding different ligands observed conform those intrinsically accessible protein prior ligand binding citation citation
+OWNX--: observations suggest dominance proteins intrinsic dynamics defining modes interactions ligands
+MISC--: this contrast induced fit model citation where ligand induces change conformation
+MISC--: instead monod wyman changeux citation model allostery where selection amongst those conformers already accessible triggered upon ligand binding
+AIMX--: yet choice between intrinsic vs induced dynamics correlations between dynamics function still established presumably depend particular systems study citation
+MISC--: nmr relaxation experiments provide evidence example existence correlations between time scales large amplitude conformational motions catalytic turnover citation citation collective motions low frequency regime appear potentially limiting reaction rates
+MISC--: other hand other studies point different time scales events control catalysis binding events citation citation
+MISC--: furthermore while intrinsic dynamics unbound form observed dominant mechanism facilitates protein protein protein ligand complexation ligand may also promote structural rearrangements local scale at binding site citation citation citation
+MISC--: given proteins collective dynamics thereby potential functional motions encoded structure proteins grouped families basis their fold similarities would expected share relevant dynamical features citation citation
+MISC--: paramount importance this respect clear understanding collective motions their relationship binding catalytic activities if any toward gaining deeper insights into functional mechanisms shared members protein families
+MISC--: protein dynamics explored means all atom force fields simulations coarse grained models methods
+MISC--: all atom simulations molecular dynamics describe conformational fluctuations system over broad range timescales
+MISC--: except small proteins main limitation md timescales computationally attainable do not allow accurate sampling slow large amplitude motions usually biological interest
+MISC--: cg approaches other hand lack atomic details but provide insights into global movements
+MISC--: among them elastic network models found wide use conjunction normal mode analyses last decade citation
+MISC--: enms describe protein network nodes usually identified spatial positions c atoms
+MISC--: elastic springs uniform force constant connect nodes simplest enm referred anisotropic network model citation citation
+MISC--: despite oversimplified description protein conveyed enms surge studies shown predicted low frequency modes describe well experimentally observed conformational changes provide insights into potential mechanisms function allostery citation citation citation citation accord nmas performed citation citation more detailed models force fields
+MISC--: additionally recent studies orozco co workers citation liu et al citation point similarities conformational space described low frequency modes obtained md cg nma provided md runs long enough accurately sample collective motions
+AIMX--: present study focuses amino acid kinase family
+OWNX--: this family comprises following enzymes basis sequence identity structural similarities n acetyl l glutamate kinase carbamate kinase glutamate kinase ump kinase aspartokinase fosfomycin resistance kinase
+MISC--: rubio co workers citation exhaustively studied this family proposed shared fold among members likely give rise similar mechanism substrate binding catalysis
+MISC--: nagk most widely studied member this family taking into account large amount structural information gathered citation citation
+MISC--: this enzyme indeed serves structural paradigm aak family studying its structure encoded dynamics shed light mechanisms shared family members perform their function citation
+MISC--: nagk catalyzes phosphorylation nag controlling step arginine biosynthesis
+MISC--: hallmark this biosynthetic route bacteria proceeds through n acetylated intermediates opposed mammals produce non acetylated intermediates
+MISC--: consequently nagk activity may selectively inhibited taking into account controlling enzyme arginine biosynthesis potential target antibacterial drugs
+MISC--: many organisms nagk phosphorylation controlling step arginine biosynthesis
+MISC--: cases nagk feedback inhibited end product arginine recent studies shed light this mechanism inhibition citation citation
+MISC--: nagk escherichia coli other hand arginine insensitive
+MISC--: its mechanism phosphoryl transfer been most thoroughly characterized among enzymes catalyze synthesis acylphosphates
+MISC--: particular crystallographic studies rubio coworkers citation citation provided insights into its mechanisms binding catalysis
+MISC--: ecnagk homodimer residues each monomer being folded into sandwich
+MISC--: n domain each subunit monomer makes intersubunit contacts hosts nag binding site whereas c domain binds atp
+MISC--: phosphoryl transfer reaction takes place at interface between two domains within each subunit
+CONT--: kinetic studies show no evidence cooperativity between subunits citation suggesting dimeric structure provides thermodynamic stability only monomeric fold been evolutionary selected perform catalytic function
+MISC--: diverse crystallographic structures solved bound state this enzyme indicate two types functional motions citation x ray structures ecnagk complexed either adp inert atp analogue amppnp too narrow active site let substrates bind directly whereas unbound structure more open active site
+OWNX--: this suggests enzyme undergoes conformational closure likely triggered upon nucleotide binding since all complexes display closed structure whether nag bound not
+OWNX--: ternary complex adp nag displays ability exchange nag sulphate ion solution without opening active site
+MISC--: nag lid therefore must able open close independently other structural elements
+OWNX--: aim present study two fold
+OWNX--: firstly given interest acquiring deeper knowledge enzymatic mechanism ecnagk potential role slow dynamics pre disposition enzymatic function we analyze here low frequency modes motion ecnagk
+OWNX--: secondly using ecnagk paradigm aak family we assess what extent slow modes motion shared other members aak family

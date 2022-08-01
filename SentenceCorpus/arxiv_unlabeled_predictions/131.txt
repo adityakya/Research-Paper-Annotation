@@ -1,0 +1,13 @@
+CONT--: remarkable results foster vohra was starting point series papers show any sequence outcomes learned no prior knowledge using some universal randomized forecasting algorithm forecast dependent checking rules
+OWNX--: we show class all computationally efficient outcome forecast based checking rules this property violated
+OWNX--: moreover we present probabilistic algorithm generating probability close one sequence subsequence simultaneously miscalibrates all partially weakly computable randomized forecasting algorithms
+OWNX--: according dawid s prequential framework we consider partial recursive randomized algorithms
+OWNX--: let binary sequence symbol outcomes observed forecaster whose task give probability symbol future event symbol
+MISC--: evaluation probability forecasts based method called calibration informally following dawid citation forecaster said well calibrated if any symbol event symbol holds symbol moments time he choose symbol see also citation
+MISC--: let us give some notations
+OWNX--: let symbol set all infinite binary sequences symbol set all finite binary sequences symbol empty sequence
+OWNX--: any finite infinite sequence symbol we write symbol we put symbol
+MISC--: also symbol denotes length sequence symbol
+MISC--: if symbol finite sequence symbol finite infinite sequence then symbol denotes concatenation sequences symbol means symbol some symbol
+OWNX--: measure theoretic framework we expect forecaster method assigning probabilities symbol future event symbol all possible finite sequences symbol
+OWNX--: other words all conditional probabilities symbol symbol symbol omega omega omega n symbol p n symbol symbol p n symbol f xi symbol f symbol omega omega n symbol f symbol omega omega omega symbol p i f omega dots omega i symbol i symbol f alpha x symbol omega x symbol pr x symbol x insymbol symbol symbol pr omega i symbol pr symbol omega omega i symbol i symbol delta symbol f symbol omega omega omega symbol pr symbol n tosymbol p i f omega n symbol i p symbol symbol c omega i p delta omega i i p symbol delta xi symbol i p symbol symbol p i f alpha omega i p i symbol p i p p i symbol k symbol delta k symbol i k symbol symbol delta k i k symbol k symbol delta symbol omega omega omega symbol n tosymbol p i f omega n p i symbol i p i symbol delta k omega i i k p i symbol k symbol delta k symbol p i f alpha omega i symbol symbol p i f alpha omega i symbol symbol symbol i symbol f

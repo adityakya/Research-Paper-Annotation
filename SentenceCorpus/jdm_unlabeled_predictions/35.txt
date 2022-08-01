@@ -1,0 +1,38 @@
+MISC--: this study directly tests hypothesis at least within domains food drink americans judgment naturalness more do history object processes undergone opposed its material content
+BASE--: individuals rate naturalness acceptability natural entity water tomato paste same entity first transformation natural substance added some part removed then second transformation natural additive removed removed part replaced
+MISC--: twice transformed entity stipulated identical original natural entity yet rated much less natural less acceptable
+MISC--: differs original entity only its history reversed processes experienced
+MISC--: twice transformed entity also rated less natural than once transformed entity even though former identical original natural entity latter not
+MISC--: therefore naturalness depends heavily process history entity
+MISC--: natural attribute seems generally improve perception entity applied
+MISC--: this may manifestation what kellert wilson described biophilia innate desire experience human ancestral environment citation
+MISC--: natural foods generally considered more desirable worth more than corresponding non natural artificial processed alternatives citation
+MISC--: this perhaps most obvious food domain but natural preference extends other entities including fabrics medicines some cases environments
+MISC--: appeal natural may universal almost universal some domains
+MISC--: there direct evidence its appeal western cultures food domain
+MISC--: example five european countries united states free associations word natural almost entirely positive citation
+MISC--: there been some attention matters related natural psychology risk literatures
+MISC--: much this been motivated opposition genetic engineering particularly foods
+MISC--: naturalness perception naturalness been identified number lines research much based framings risk toxins provided slovic citation
+MISC--: psychometric studies attributes varied technologies confirm two dimensional description familiarity dread account much variation response food risks citation there indications some opposition technologies based fundamental concerns about propriety dangers tampering nature citation
+MISC--: focus literature been public assessment health risks this regard there been appropriate concern value education public involvement public decision making understanding reasons public distrust relevant government industry statements regulations citation
+MISC--: there also been interest identifying public attitudes technology more broadly natural world might predict individuals most opposed modification foods citation
+MISC--: there two types justifications natural preference instrumental ideational citation
+MISC--: instrumental reasons refer specific advantages natural entities they more attractive appealing healthier kinder environment
+MISC--: this type justification been focus most past research
+MISC--: ideational reasons come down claim natural inherently better moral aesthetic senses
+MISC--: we found although americans usually justify their natural preference instrumental terms when neutralized example claim particular comparison natural non natural entities chemically identical natural preference usually remains substantially intact citation
+MISC--: when challenged their instrumental accounts many informants acknowledge natural just better
+MISC--: analysis properties concept natural lay americans suggests naturalness relatively uncompromised mixing like natural entities changes physical state freezing crushing citation
+MISC--: other hand changes substance boiling additions subtractions entities changes naturalness substantially
+MISC--: when something added subtracted natural entity violation its naturalness could result change material substance process intervention
+MISC--: there suggestions process may more important than change content
+MISC--: domestication involves major changes substance violates naturalness less than trivial substantial change replacing single gene another
+MISC--: example cocker spaniel rated only modestly less natural than wolf whereas single gene insertion replacement variety species massive effect naturalness citation
+MISC--: gene replacement process involves direct manipulation genome but minimal substantial change much more destructive effect naturalness than extensive selective breeding produces much larger change both appearance genome
+MISC--: idea process more important than content judgments naturalness needs further evidence explication
+CONT--: ideal comparison not carried out previous research involves changes only involve process only content
+MISC--: although not possible imagine change content human induced but does not involve process possible imagine action human caused processes but no change substance
+BASE--: this accomplished if something natural unnatural added natural entity then same additive removed leaving twice processed entity chemically identical its natural origin form
+MISC--: same accomplished removal something natural entity then having this subtracted entity replaced
+OWNX--: this study we explore judgments naturalness similarity acceptability water one food exemplar tomato paste undergo this set double manipulations addition then subtraction subtraction then addition

@@ -1,0 +1,74 @@
+MISC--: hsp molecular chaperone essential protein folding activation normal homeostasis stress response
+MISC--: atp binding hydrolysis facilitate hsp conformational changes required client activation
+MISC--: hsp plays important role disease states particularly cancer where chaperoning mutated overexpressed oncoproteins important function
+OWNX--: recent studies illuminated mechanisms related chaperone function
+MISC--: however atomic resolution view hsp conformational dynamics determined presence different binding partners critical define communication pathways between remote residues different domains intimately affecting chaperone cycle
+AIMX--: here we present computational analysis signal propagation long range communication pathways hsp
+OWNX--: we carried out molecular dynamics simulations full length hsp dimer combined essential dynamics correlation analysis signal propagation model
+MISC--: all atom md simulations timescales ns been performed complexes natural substrates atp adp unliganded dimer
+OWNX--: we elucidate mechanisms signal propagation determine hot spots involved interdomain communication pathways nucleotide binding site c terminal domain interface
+OWNX--: comprehensive computational analysis hsp communication pathways dynamics at atomic resolution revealed role nucleotide effecting conformational changes elucidating mechanisms signal propagation
+MISC--: functionally important residues secondary structure elements emerge effective mediators communication between nucleotide binding site c terminal interface
+OWNX--: furthermore we show specific interdomain signal propagation pathways may activated function ligand
+OWNX--: our results support conformational selection model hsp mechanism whereby protein may exist dynamic equilibrium between different conformational states available energy landscape binding specific partner bias equilibrium toward functionally relevant complexes
+MISC--: heat shock protein essential atpase directed molecular chaperone required folding quality control maturation trafficking client proteins citation citation
+MISC--: hsp represents fundamental hub protein interaction networks citation citation key roles many cellular functions
+MISC--: hsp oversees correct maturation activation trafficking among specialized cellular compartments citation wide range client proteins citation citation citation
+MISC--: functions clients range signal transduction regulatory mechanisms immune response citation
+MISC--: client proteins typically include numerous kinases transcription factors other proteins serve nodal points integrating cellular responses multiple signals citation
+MISC--: given its role at intersection fundamental cellular pathways becoming increasingly clear hsp deregulation associated many pathologies ranging cancer protein folding disorders neurological diseases citation citation
+MISC--: because this role disease development pharmacological suppression hsp activity become area very intense research molecular oncology particular
+MISC--: targeted suppression hsp atpase activity small molecule inhibitor benzoquinone ansamycin antibiotic allylamino demethoxygeldanamycin some its derivatives citation citation shown promising anticancer activity preclinical models recently completed safety evaluation humans citation
+MISC--: further clinical trials also been initiated other small molecules also used drug combinations various cancer types citation
+MISC--: hsp operates dimer complex cycle driven atp binding hydrolysis atp adp exchange
+MISC--: initial structural efforts concentrated isolated individual domains human citation citation yeast hsp citation citation citation citation er homologue grp citation citation escherichia coli homologue htpg citation citation
+MISC--: crystal structures larger constructs also been reported citation citation
+MISC--: first x ray crystal structures full length hsp yeast bound atp mimic amppnp revealed homodimeric structure individual protomers twisted parallel arrangement citation
+MISC--: each protomer turn characterized modular architecture three well defined domains n terminal regulatory domain responsible atp binding middle domain completes atpase site necessary atp hydrolysis binds client proteins c terminal dimerization domain required dimerization citation
+MISC--: same global topology shared atp bound states e coli homolog htpg citation endoplasmatic reticulum paralog grp citation
+MISC--: interestingly crystal structures full length constructs htpg grp complex either adp apo state showed substantially different conformations
+MISC--: htpg apo state adopted open structure each three domains exposed hydrophobic surface area while adp bound form hydrophobic surfaces clustered form more compact state citation
+MISC--: structural biochemical studies solution state hsp its complexes using small angle x ray scattering citation provided first experimental evidence highly dynamic stochastic nature hsp whereby equilibrium between different conformational states molecular chaperone readily shifted recruit hsp conformation suitable efficient cdc co chaperone recognition
+MISC--: more recent solution structure data obtained using saxs single particle cryo electron microscopy modeling approaches showed apo hsp dimer may equilibrium among different open extended states still preserving constitutive dimerization provided ctds nucleotide binding may shift this equilibrium towards compact conformations citation citation
+MISC--: particular saxs data revealed adp bound compact state htpg equilibrium extended state could significantly populated absence crystal packing effects citation
+MISC--: contrast crystal structures amppnp adp bound forms er paralog grp showed there relatively little difference conformation between two nucleotide bound states crystal citation representing extended structures
+MISC--: recent studies based mutation analysis cross linking electron microscopy citation citation suggested different compact states accessed grp presence atp
+MISC--: studies indicated upon binding specific partner functional states hsp recruited using intrinsic conformational flexibility hsp
+MISC--: although exact mechanism coupling between atp binding hydrolysis client protein folding still unclear combination x ray structural observations biochemical data supports picture chaperone undergoes conformational rearrangements bringing two ntds close association atp bound state but not adp bound apo states
+OWNX--: this defines conformational cycle involves constitutive dimerization through ctds transient atp dependent dimerization ntds molecular clamp mechanism
+MISC--: terms intrinsic protein dynamics mechanism conformational coupling atpase cycle involves tense structurally rigid conformational state hsp upon atp binding whereas subsequent hydrolysis adp leads more relaxed structurally flexible state hsp citation citation citation
+MISC--: finally nucleotide free form dimer moves open state
+MISC--: crystal structures full length dimer also highlight remarkable flexibility atp lid segment composed two helices intervening loop located immediately adjacent atp binding site citation
+MISC--: lid displaced its position isolated hsp ntd structure folds over nucleotide pocket interact bound atp yielding closed conformation indicating its possible importance progression chaperone cycle
+MISC--: studies reminiscent results h d exchange mass spectrometry investigations human hsp solution showed co chaperone inhibitor binding ntd induce conformational changes at hsp domain domain interfaces citation
+MISC--: moreover frey coworkers citation shown kinetic equilibrium binding constants depend intrinsic conformational equilibrium hsp obtained different species reflecting differential affinity reactivity towards atp
+MISC--: kinetic analysis atpase cycle suggested during atpase cycle grp may predominantly open state
+MISC--: contrast yeast hsp open state only populated percent closed structure observed presence nucleotides citation
+MISC--: hence conformational transitions during atpase cycle structurally similar different hsp proteins while energetic balance between individual steps may species dependent manifested differences binding kinetics citation
+MISC--: overall solution data suggested molecular mechanism hsp chaperone cycle more adequately described stochastic process atp binding shift intrinsic conformational equilibrium hsp between open apo state adp bound compact atp bound closed protein state seen different crystal structures
+MISC--: most recent structural studies apo nucleotide bound conformations e coli yeast human hsp homologs further supported existence universal three state conformational cycle hsp consisting open apo atp closed adp compact nucleotide stabilized states whereby intrinsic conformational equilibrium between states highly species dependent citation
+MISC--: according results evolutionary pressure may act through thermodynamic stabilization functionally relevant hsp conformations recruited conformational equilibrium ensure adequate response presence organism specific co chaperones protein clients
+MISC--: importantly atp adp binding shift conformational equilibrium far away apo state e coli yeast hsp whereas conformational equilibrium human hsp largely dominated open form even presence nucleotide binding
+AIMX--: strikingly this study shown nucleotide binding provides only small stabilization energy thereby biasing rather than determining occupancy different conformational states existing dynamic equilibrium
+OWNX--: overall intrinsic conformational flexibility hsp critical molecular chaperon cycle including structural adaptation diversity co chaperones client proteins citation
+MISC--: different steps cycle accompanied binding different co chaperone proteins specific functions
+OWNX--: hop co chaperone instance arrests atp hydrolysis binds simultaneously hsp molecular chaperone coupling two systems
+MISC--: hop binding hsp involves interactions at both m domains ctd domains citation citation stabilizing conformation incompetent atp hydrolysis n terminal dimerization citation
+MISC--: contrast stress regulated co chaperone aha substantially increases atpase rates increasing hsp chaperone activities citation
+MISC--: case binding other co chaperones cpr sba was shown atp binding hydrolysis required ensure productive complex formation interestingly sba binds ntd while cpr binds ctd citation
+MISC--: observations suggest role nucleotide selecting stabilizing different conformations hsp related specific different functions chaperone cycle citation
+MISC--: crystallographic cryo em saxs three dimensional single particle reconstruction studies applied isolated hsp domains full hsp dimer different species provided wealth novel insights into molecular mechanism function hsp
+MISC--: however there still number important unresolved problems concerning atomic resolution understanding interplay between ligand binding global functional motions molecular chaperone
+OWNX--: we recently performed computational studies hsp conformational dynamics analyzed at atomic resolution effects ligand binding energy landscape hsp ntd all atom md simulations
+MISC--: md simulations hsp ntd been carried out apo protein hsp complexes its natural ligands atp adp small molecule inhibitors peptides citation
+MISC--: simulations clarified role atp lid dynamics differences local conformational changes global flexibility well functional interplay between protein rigidity entropy collective motions depending interacting binding partners
+OWNX--: we found energy landscape apo hsp ntd may populated structurally different conformational states featuring local conformational switching atp lid accessible longer time scales
+OWNX--: results this study suggested plausible molecular model understanding mechanisms modulation molecular chaperone activities binding partners
+MISC--: according this model structural plasticity hsp ntd exploited molecular chaperone machinery modulate enhanced structural rigidity during atp binding increased protein flexibility consequence inhibitor binding
+MISC--: citation
+OWNX--: molecular basis signal propagation mechanisms inter domain communication pathways hsp function binding ligands cannot inferred directly crystallographic studies
+MISC--: result computational approaches instrumental revealing atomic details inter domain communication pathways between nucleotide binding site distant ctd may involved governing chaperone equilibrium between major conformational states
+OWNX--: this work we embarked comprehensive computational analysis hsp dynamics binding provides important insights into our understanding hsp molecular mechanisms function at atomic resolution
+OWNX--: we describe large scale md simulations study conformational motions inter domain communication pathways full length yeast hsp three different complexes atp adp apo form
+OWNX--: support experimental hypotheses our results provide atomic models cross talk between n c terminal binding sites may induce allosteric regulation complex molecular chaperone machinery
+OWNX--: results our study suggest low resolution features communication pathways hsp complexes may determined inherent topological architecture chaperone yet specific signal communication pathways likely selected activated based nature binding partner

@@ -1,0 +1,67 @@
+MISC--: laboratory studies choice decision making among real monetary rewards typically use smaller real rewards than those common real life
+MISC--: when laboratory rewards large they almost always hypothetical
+MISC--: applying laboratory results meaningfully real life situations important know extent choices among hypothetical rewards correspond choices among real rewards whether variation magnitude hypothetical rewards affects behavior meaningful ways
+OWNX--: present study compared real hypothetical monetary rewards two experiments
+OWNX--: experiment number participants played temporal discounting game incorporates logic repeated prisoner s dilemma pd game versus tit tat choice one alternative defection pd terminology resulted small immediate reward choice other alternative cooperation pd terminology resulted larger reward delayed until following trial
+MISC--: larger delayed reward was greater half groups than other half
+MISC--: rewards also differed type across groups multiples real nickels hypothetical nickels hypothetical hundred dollar bills
+MISC--: all groups significantly increased choice larger delayed reward over number trials experiment
+MISC--: over last number trials cooperation was significantly higher when difference between larger smaller hypothetical rewards was greater
+MISC--: reward type real hypothetical made no significant difference cooperation most measures
+MISC--: experiment number real hypothetical rewards were compared social discounting decrease value giver reward social distance increases receiver reward
+OWNX--: social discount rates were well described hyperbolic function
+OWNX--: discounting rates real hypothetical rewards did not significantly differ
+OWNX--: results add evidence results experiments hypothetical rewards validly apply everyday life
+MISC--: research choice using hypothetical rewards participants asked imagine alternatives choose they would if alternative rewards were real
+MISC--: research assumes participants successful this imaginative task
+MISC--: one potential problem using hypothetical questions psychological research participants may not capable required imaginary act
+MISC--: people often cannot predict what they will do certain situations alcoholic may believe morning he will not drink at party held evening
+MISC--: but then he may well drink citation
+MISC--: even if he asked reflect his behavior at past parties he may not remember how much he drank citation
+OWNX--: task involving degree altruistic behavior dictator game citation where participants asked how much initial monetary endowment they willing give another participant no explicit consequence giving small amount even nothing participant might say she would give more money recipient when gift hypothetical than she would if money were real
+MISC--: participants want experimenters believe they altruistic hypothetical rewards costs nothing altruistic
+MISC--: because demand characteristics economists some psychologists been reluctant recognize validity choices among hypothetical rewards
+MISC--: reviews game theory decision experiments found real monetary rewards stronger incentives than nominally equivalent hypothetical rewards citation
+CONT--: kuhberger schulte mecklenbeck perner citation unlike most prior studies unlike experiment number present study compared large real rewards directly large hypothetical rewards
+OWNX--: they studied double nothing gambles all combinations positive negative framing b small large rewards c hypothetical real rewards
+OWNX--: they found strong inter group effects framing magnitude reward expected but choices participants who imagined hypothetical gamble did not differ choices participants gambling real money
+MISC--: moreover studies comparing delay discounting real hypothetical rewards found both reward types yield hyperbolic functions failed find significant differences steepness discounting depending type reward citation
+MISC--: although failure find significance does not itself mean there no differences existence significant differences steepness delay discounting hypothetical well real rewards when other variables been varied citation increases confidence addicts non addicts alike successfully imagined real world choices
+MISC--: example johnson bickel citation found strong correspondence r number between degree discounting hypothetical choices real rewards one randomly selected outcome actually given
+MISC--: whether not hypothetical rewards effects similar those real rewards important issue interpreting laboratory studies decision choice
+MISC--: if effects real hypothetical rewards similar then rewards laboratory may varied over wide ranges limitations number participants will not constrained monetary considerations
+MISC--: example steepness discounting decrease reward value varies inversely amount delayed reward but directly amount probabilistic reward citation
+CONT--: hypothetical delayed probabilistic rewards green et al study varied number number number would been practically impossible done this study real rewards
+MISC--: but more evidence experimental participants choose similarly between lesser amounts real hypothetical rewards more confidence there will participants choosing among larger hypothetical rewards successfully imagining how they would choose if rewards were real
+OWNX--: experiment number compared real hypothetical rewards prisoner s dilemma pd type game versus tit tat
+OWNX--: figure number shows pd contingency matrix used experiment number
+MISC--: number person pd game player player b each choose between cooperating c defecting d
+MISC--: each player receives reward determined combination both players choices
+CONT--: case number number number number reward matrix figure number player will earn number number number number reward units depending number possible choice combinations chosen
+MISC--: if both cooperate each receives moderately high reward number units if both defect each receives moderately low reward number units but if one cooperates other defects cooperator receives very low reward number unit while defector receives very high reward number units
+MISC--: strategy called tit tat been found increase cooperation repeated pd games citation
+MISC--: suppose player b rigidly plays tit tat if cooperates trial n b will cooperate trial n number if defects trial n b will defect trial n number
+MISC--: when b cooperates receives number units cooperating number units defecting when b defects receives only number unit cooperating number units defecting
+MISC--: thus regardless s choice gets number more units when b cooperates than when b defects
+MISC--: but if b rigidly playing tit tat only way b will cooperate if previously cooperated
+MISC--: cooperating present trial gives up number unit but will gain number units next trial when b reciprocates
+MISC--: b s tit tat strategy thus creates self control problem smaller immediate gain defecting number unit this trial versus larger delayed gain cooperating number units next trial
+OWNX--: essentially if b rigidly plays tit tat must choose lower two rewards present trial cooperate order get b cooperate b s cooperation turn allows choose between higher rewards next trial
+OWNX--: dashed line figure number b shows s average reward function s percent cooperation b playing tit tat
+MISC--: optimum strategy except very last trial always cooperate averaging number units per trial
+MISC--: since b s tit tat behavior rigidly determined b s place may taken experimental apparatus was experiment number
+MISC--: prior experiments number number number number matrix versus tit tat participants learned cooperate over repeated trials citation
+CONT--: number number number number matrix where delayed reward was number units players learned cooperate faster higher asymptote than number number number number matrix where delayed reward was number units
+MISC--: delay b s reciprocation time between trials increases its probability decreases s cooperation decreases proportionally citation
+CONT--: computer game played experiment number citation replicated pd versus tit tat contingencies but did away pretense there was another player player b making independent choices
+OWNX--: typical pd versus tit tat game participants had choose lower two available rewards present trial number rather than number number rather than number order able choose between pair higher rewards number number rather than number number next trial
+OWNX--: given number pd versus tit tat self control game number self control been found vary inversely steepness individual s delay discount function citation number steepness delay discount functions been found not significantly different real hypothetical rewards citation we expected type reward real versus hypothetical nickels would weak effect no effect cooperation present experiment
+MISC--: whether cooperation would affected increasing all hypothetical rewards factor number number number number number number would depend whether self control function ratio difference amounts immediate delayed rewards
+MISC--: choice experiments humans citation indicate reward ratios rather than differences count situations
+OWNX--: thus we expected cooperation would not significantly affected increasing all rewards proportionally
+CONT--: however we did expect increasing only delayed reward cooperation while leaving immediate reward defection constant changing matrix number number number number number number number number would increase cooperation significantly
+OWNX--: pd game experiment number normally social game where alternatives maximization benefit oneself versus maximization benefit another player
+MISC--: tit tat contingency substitutes participant s own future self other player changes game self control situation
+MISC--: experiment number studied true social choice
+MISC--: participants chose between larger rewards another person smaller rewards themselves
+OWNX--: both experiments tested efficacy hypothetical versus real monetary rewards

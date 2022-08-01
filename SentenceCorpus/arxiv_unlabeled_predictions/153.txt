@@ -1,0 +1,27 @@
+MISC--: we introduce algorithmic information theory also known theory kolmogorov complexity
+OWNX--: we explain main concepts this quantitative approach defining information
+MISC--: we discuss extent kolmogorov s shannon s information theory common purpose where they fundamentally different
+AIMX--: we indicate how recent developments within theory allow one formally distinguish between structural meaningful random information measured kolmogorov structure function leads mathematical formalization occam s razor inductive inference
+OWNX--: we end discussing some philosophical implications theory
+MISC--: how should we measure amount information about phenomenon given us observation concerning phenomenon
+MISC--: both classical shannon information theory see chapter citation algorithmic information theory start idea this amount measured minimum number bits needed describe observation
+MISC--: but whereas shannon s theory considers description methods optimal relative some given probability distribution kolmogorov s algorithmic theory takes different nonprobabilistic approach any computer program first computes prints string representing observation then terminates viewed valid description
+MISC--: amount information string then defined size measured bits shortest computer program outputs string then terminates
+OWNX--: similar definition given infinite strings but this case program produces element after element forever
+MISC--: thus long sequence s symbol contains little information because program size about symbol bits outputs symbol symbol
+MISC--: 
+MISC--: 
+MISC--: symbol pi forever
+OWNX--: definition would appear make amount information string other object depend particular programming language used
+OWNX--: fortunately shown all reasonable choices programming languages lead quantification amount absolute information individual objects invariant up additive constant
+OWNX--: we call this quantity kolmogorov complexity object
+MISC--: while regular strings small kolmogorov complexity random strings kolmogorov complexity about equal their own length
+MISC--: measuring complexity information terms program size turned out very powerful idea applications areas theoretical computer science logic probability theory statistics physics paragraph this chapter kolmogorov complexity was introduced independently different motivations r j solomonoff born n kolmogorov g
+MISC--: chaitin born respectively citation
+MISC--: during last forty years subject developed into major mature area research
+OWNX--: here we give brief overview subject geared towards audience specifically interested philosophy information
+OWNX--: exception recent work kolmogorov structure function parts discussion philosophical implications all material we discuss here also found standard textbook citation
+OWNX--: chapter structured follows we start introductory section we define kolmogorov complexity list its most important properties
+OWNX--: we do this much simplified yet formally correct manner avoiding both technicalities all questions motivation why this definition not another one
+OWNX--: this followed section provides informal overview more technical topics discussed later this chapter sections
+OWNX--: final section discusses theory s philosophical implications well section discusses connection inductive inference less technical again should perhaps glossed over before delving into technicalities sections

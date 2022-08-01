@@ -1,0 +1,71 @@
+MISC--: metabolic rate heart rate lifespan many other physiological properties vary body mass systematic interrelated ways
+OWNX--: present empirical data suggest scaling relationships take form power laws exponents simple multiples one quarter
+OWNX--: compelling explanation this observation was put forward decade ago west brown enquist
+MISC--: their framework elucidates link between metabolic rate body mass focusing dynamics structure resource distribution networks cardiovascular system case mammals
+OWNX--: within this framework wbe model based eight assumptions derives well known observed scaling exponent
+AIMX--: this paper we clarify this result only holds limit infinite network size actual exponent predicted model depends sizes organisms being studied
+MISC--: failure clarify explore nature this approximation led debates about wbe model were at cross purposes
+OWNX--: we compute analytical expressions finite size corrections exponent resulting spectrum scaling exponents function absolute network size
+OWNX--: when accounting corrections over size range spanning eight orders magnitude observed mammals wbe model predicts scaling exponent seemingly at odds data
+OWNX--: we then proceed study sensitivity scaling exponent respect variations several assumptions underlie wbe model always context finite size corrections
+OWNX--: here too trends we derive model seem at odds trends detectable empirical data
+CONT--: our work illustrates utility wbe framework reasoning about allometric scaling while at same time suggesting current canonical model may need amendments bring its predictions fully line available datasets
+MISC--: whole organism metabolic rate b scales body mass m across species citation formulawhere b normalization constant allometric scaling exponent typically measured very close citation
+MISC--: empirical regularity expressed equation known kleiber s law citation citation
+MISC--: many other biological rates times scale simple multiples
+MISC--: example cellular mass specific metabolic rates heart respiratory rates ontogenetic growth rates scale m whereas blood circulation time development time lifespan scale close m citation citation
+MISC--: quarter power scaling also observed ecology evolution citation citation citation
+OWNX--: occurrence quarter power scaling at diverse levels biological organization suggests all rates closely linked
+MISC--: metabolic rate seems most fundamental because rate at energy materials taken up environment transformed biochemical reactions allocated maintenance growth reproduction
+MISC--: series papers starting west brown enquist published model account power scaling metabolic rate body mass across species citation citation citation
+MISC--: broad theory biological allometry developed wbe collaborators attributes quarter power scaling near optimal fractal like designs resource distribution networks exchange surfaces
+MISC--: there some evidence designs realized at molecular organelle cellular organismal levels wide variety plants animals citation citation
+MISC--: intensifying controversy surrounded wbe model since its original publication even extending debate about quality analysis data citation citation
+MISC--: one most frequently raised objections wbe model cannot predict scaling exponents metabolic rate deviate citation citation even though potential deviations was appreciated wbe themselves citation
+MISC--: if this criticism were true wbe could not principle explain data taxa whose scaling exponents been reported above below citation citation deviations been observed small mammals citation
+MISC--: likewise wbe model would unable account scaling maximal metabolic rate body mass appears exponent citation
+MISC--: important note actual nature maximal metabolic rate scaling however not without its own controversy see citation argument maximal metabolic rate scales closer when body temperature taken into consideration
+MISC--: much work aimed at answering criticisms relied alteration wbe model itself
+MISC--: enquist collaborators account different scaling exponents among taxonomic groups emphasizing differences normalization constant b equation deviations wbe assumptions regarding network geometry citation citation citation
+MISC--: while results suggestive remains unclear whether not wbe predict exponents significantly different measurable deviations pure power law even absence any variation b networks following exactly geometry required theory
+MISC--: although wbe been frequently tested applied citation citation remarkable no theoretical work been published provides more detailed predictions original theory
+MISC--: also work aimed at extending wbe relaxing modifying some its assumptions hardly been complete many variations network structure might important far reaching consequences once properly analyzed
+OWNX--: this what we set out do present contribution
+AIMX--: we show misunderstanding original model led claim wbe only predict exponent
+MISC--: this because many predictions tests original model derived leading order approximations
+AIMX--: this paper we derive more precise predictions tests
+AIMX--: purpose stating our conclusions succinctly we refer wbe framework approach explaining allometric scaling phenomena terms resource distribution networks wbe model instance wbe framework employs particular parameters specifying geometry dynamics networks citation citation
+OWNX--: our main findings
+MISC--: exponent only holds exactly limit organisms infinite size
+MISC--: 
+OWNX--: finite sized organisms we show wbe model does not predict pure power law but rather curvilinear relationship between logarithm metabolic rate logarithm body mass
+MISC--: although wbe recognized finite size effects would produce deviations pure power scaling small mammals infinite size limit constitutes idealization citation magnitude importance finite size effects were unclear
+AIMX--: we show when emulating current practice calculating scaling exponent straight line regressed this curvilinear relationship over entire range body masses exponent predicted wbe model differ significantly without any modifications its assumptions framework
+MISC--: 
+OWNX--: when realistic parameter values employed construct network we find exponent resulting finite size corrections comes at significantly higher than figure based current data analysis
+MISC--: 
+OWNX--: our data analysis indeed detects curvilinearity relationship between logarithm metabolic rate logarithm body mass however curvilinearity opposite what we observe wbe model
+OWNX--: this implies wbe model needs amendment data analysis needs reassessment
+OWNX--: beyond finite size corrections we examine original assumptions wbe two ways
+OWNX--: first we vary predicted switch over point above vascular network architecture preserves total cross sectional area vessels at branchings below increases total cross sectional area at branchings
+MISC--: two regimes translate into different ratios daughter parent radii at vessel branch points
+MISC--: second we allow network branching ratios differ large small vessels
+OWNX--: we analyze sensitivity scaling exponent respect each changes context networks finite size
+MISC--: this approach similar spirit price et al citation who relaxed network geometry other assumptions wbe context plants
+MISC--: supplementary online material text s we also argue data analysis should account log normal distribution body mass abundance thus correcting fact there more small mammals than large ones
+MISC--: despite differences structure hydrodynamics vascular systems plants animals citation citation detailed models each yield scaling exponent leading order
+AIMX--: present paper we focus wbe model cardiovascular system mammals
+OWNX--: all our assumptions derivations calculations should interpreted within context
+MISC--: finite size corrections departures basic wbe assumptions important context plants well shown recent studies enquist collaborators citation citation citation
+MISC--: final analysis we led seemingly incongruent conclusions many critiques wbe framework misguided exact predictions wbe model not fully supported empirical data
+MISC--: former means wbe framework remains once properly understood powerful perspective elucidating allometric scaling principles
+MISC--: latter means wbe model must become more respectful biological detail whereupon may yield predictions more closely match empirical data
+AIMX--: our work explores how details added model what effects they
+AIMX--: paper organized follows
+OWNX--: sake self contained presentation we start systematic overview assumptions both explicit implicit underlying wbe theory
+OWNX--: text s we provide detailed exposition hydrodynamic derivations model rests upon
+MISC--: calculations not original but they not appeared full extent before literature
+OWNX--: while nothing section assumptions wbe model novel there seems no single go place wbe literature lays out all components wbe theory
+AIMX--: our paper then proceeds brief derivation exact rather than approximate relationship between metabolic rate body mass we then calculate exact predictions scaling exponents networks finite size revisit certain assumptions theory
+OWNX--: section comparison empirical data we compare our results trends detectable empirical data
+OWNX--: we put forward our conclusions discussion section

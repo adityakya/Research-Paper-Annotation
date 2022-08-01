@@ -1,0 +1,65 @@
+AIMX--: goal present paper provide systematic comprehensive study rational stochastic languages over semiring symbol
+MISC--: rational stochastic language probability distribution over free monoid symbol rational over symbol generated multiplicity automata parameters symbol
+OWNX--: we study relations between classes rational stochastic languages symbol
+AIMX--: we define notion residual stochastic language we use investigate properties several subclasses rational stochastic languages
+AIMX--: lastly we study representation rational stochastic languages means multiplicity automata
+MISC--: probabilistic grammatical inference data often arise form finite sequence words symbol over some predefined alphabet symbol
+MISC--: words assumed independently drawn according fixed but unknown probability distribution over symbol
+MISC--: probability distributions over free monoids symbol called stochastic languages
+MISC--: usual goal grammatical inference try infer approximation this distribution some class probabilistic models probabilistic automata
+MISC--: probabilistic automaton pa composed structure finite automaton nfa parameters associated states transitions represent probability state initial terminal probability transition chosen
+MISC--: easily shown probabilistic automata same expressivity hidden markov models hmm heavily used statistical inference citation
+MISC--: given structure symbol probabilistic automaton sequence words symbol computing parameters symbol maximize likelihood symbol np hard citation
+OWNX--: practical cases however algorithms based e m expectation maximization method citation used compute approximate values
+MISC--: other hand inferring probabilistic automaton structure parameters sequence words widely open field research
+MISC--: most results obtained so far only deal restricted subclasses pa probabilistic deterministic automata pda i e probabilistic automata whose structure deterministic dfa probabilistic residual automata pra i e probabilistic automata whose structure residual finite state automaton rfsa citation
+MISC--: other respects noticed stochastic languages particular cases formal power series probabilistic automata also particular cases multiplicity automata notions been extensively studied field formal language theory citation
+MISC--: therefore stochastic languages generated multiplicity automata special cases rational languages
+OWNX--: we call them rational stochastic languages
+AIMX--: goal present paper provide systematic comprehensive study rational stochastic languages so bring out properties could useful grammatical inference purpose
+CONT--: indeed considering objects infer special cases rational languages makes possible use powerful theoretical tools been developed field hence give answers many questions naturally arise when working them possible decide within polynomial time whether two probabilistic automata generate same stochastic language
+MISC--: does allowing negative coefficients probabilistic automata extend class generated stochastic languages
+MISC--: rational stochastic language takes all its values symbol always generated multiplicity automata coefficients symbol
+MISC--: so forth
+MISC--: also studying rational stochastic languages themselves considered objects language theory helps bring out notions properties important grammatical inference pespective example we show notion residual language derivative so important grammatical inference citation natural counterpart stochastic languages citation used express many properties classes stochastic languages
+OWNX--: formal power series take their values semiring symbol let us denote symbol set all formal power series
+OWNX--: here we only consider semirings symbol symbol symbol symbol
+BASE--: any semiring symbol we define set symbol rational stochastic languages set stochastic languages over symbol rational languages over symbol
+MISC--: any two distinct semirings symbol symbol corresponding sets rational stochastic languages distinct
+AIMX--: we show symbol fatou extension symbol stochastic languages means any rational stochastic language over symbol takes its values symbol also rational over symbol
+MISC--: however symbol not fatou extension symbol stochastic languages there exists rational stochastic language over symbol takes its values symbol not rational over symbol
+MISC--: any stochastic language symbol over symbol any word symbol symbol let us define residual language symbol symbol respect symbol symbol residual languages clearly stochastic languages
+OWNX--: we show residual languages rational stochastic language symbol over symbol also rational over symbol
+MISC--: residual subsemimodule symbol symbol spanned residual languages any stochastic language symbol may used express rationality symbol symbol rational iff symbol included finitely generated subsemimodule symbol
+MISC--: but when symbol positive i e symbol symbol may happen symbol itself not finitely generated
+MISC--: we study properties two subclasses symbol set symbol composed rational stochastic languages over symbol whose residual subsemimodule finitely generated set symbol composed rational stochastic languages over symbol finitely many residual languages
+OWNX--: we show any two classes symbol fatou extension symbol any stochastic language symbol resp
+MISC--: symbol takes its values symbol element symbol resp
+MISC--: symbol
+OWNX--: we also show any element symbol symbol there exists unique minimal subset residual languages symbol generates symbol
+AIMX--: then we study representation rational stochastic languages means multiplicity automata
+OWNX--: we first show set multiplicity automata parameters symbol generate stochastic languages not recursive
+MISC--: moreover contains no recursively enumerable subset capable generate whole set rational stochastic languages over symbol
+MISC--: stochastic language symbol formal series two properties i symbol any word symbol ii symbol
+OWNX--: we show undecidability comes first requirement since second one decided within polynomial time
+OWNX--: we show set stochastic languages generated probabilistic automata parameters symbol resp
+MISC--: symbol exactly coincides symbol resp
+MISC--: symbol
+MISC--: probabilistic automaton symbol called probabilistic residual automaton pra if stochastic languages associated its states residual languages stochastic languages symbol generated symbol
+OWNX--: we show set stochastic languages generated probabilistic residual automata parameters symbol resp
+MISC--: symbol exactly coincides symbol resp
+MISC--: symbol
+MISC--: we do not know whether class pra decidable
+MISC--: however we describe two decidable subclasses pra capable generating symbol when symbol symbol class symbol reduced pra class prefixial pra
+OWNX--: first one provides minimal representation class pra but we show membership problem pspace complete
+MISC--: second one produces more cumbersome representation but membership problem polynomial
+OWNX--: finally we show set stochastic languages generated probabilistic deterministic automata parameters symbol resp
+MISC--: symbol exactly coincides symbol also equal symbol resp
+MISC--: symbol also equal symbol
+OWNX--: we recall some properties rational series stochastic languages multiplicity automata section
+OWNX--: we define study rational stochastic languages section
+MISC--: relations between classes rational stochastic languages studied subsection
+MISC--: properties residual languages rational stochastic languages studied subsection
+MISC--: characterisation rational stochastic languages terms stable subsemimodule given subsection
+MISC--: classes symbol symbol defined studied subsection
+MISC--: representation rational stochastic languages means multiplicity automata given section

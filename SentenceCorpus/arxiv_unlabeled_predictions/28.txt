@@ -1,0 +1,10 @@
+OWNX--: assuming loss function convex prediction we construct prediction strategy universal class markov prediction strategies not necessarily continuous
+OWNX--: allowing randomization we remove requirement convexity
+MISC--: this paper belongs area research known universal prediction individual sequences see citation review predictor s goal compete wide benchmark class prediction strategies
+MISC--: previous papers citation citation we constructed prediction strategies competitive important classes markov stationary respectively continuous prediction strategies
+OWNX--: this paper we consider competing against possibly discontinuous strategies
+OWNX--: our main results assert existence prediction strategies competitive markov strategies
+AIMX--: this paper s idea transition continuous general benchmark classes was motivated skorokhod s topology space symbol c adl ag functions most discontinuous
+MISC--: skorokhod s idea was allow small deformations not only along vertical axis but also along horizontal axis when defining neighborhoods
+MISC--: skorokhod s topology was metrized kolmogorov so became separable space citation appendix iii citation p allows us apply one numerous algorithms prediction expert advice kalnishkan vyugin s weak aggregating algorithm this paper construct universal algorithm
+OWNX--: section we give main definitions state our main results theorems their proofs given sections respectively

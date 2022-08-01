@@ -1,0 +1,65 @@
+MISC--: general purpose intelligent learning agents cycle through sequences observations actions rewards complex uncertain unknown non markovian
+MISC--: other hand reinforcement learning well developed small finite state markov decision processes mdps
+MISC--: up now extracting right state representations out bare observations reducing general agent setup mdp framework art involves significant effort designers
+MISC--: primary goal this work automate reduction process thereby significantly expand scope many existing reinforcement learning algorithms agents employ them
+OWNX--: before we think mechanizing this search suitable mdps we need formal objective criterion
+OWNX--: main contribution this article develop criterion
+MISC--: i also integrate various parts into one learning algorithm
+MISC--: extensions more realistic dynamic bayesian networks developed part ii citation
+MISC--: role pomdps also considered there
+MISC--: artificial general intelligence agi concerned designing agents perform well wide range environments citation
+MISC--: among well established narrow artificial intelligence ai approaches citation arguably reinforcement learning rl citation pursues most directly same goal
+MISC--: rl considers general agent environment setup agent interacts environment acts observes cycles receives occasional rewards
+MISC--: agent s objective collect much reward possible
+MISC--: most if not all ai problems formulated this framework
+OWNX--: since future generally unknown uncertain agent needs learn model environment based past experience allows predict future rewards use this maximize expected long term reward
+MISC--: simplest interesting environmental class consists finite state fully observable markov decision processes mdps citation reasonably well understood
+MISC--: extensions continuous states non linear function approximation citation partial observability pomdp citation structured mdps dbns citation others been considered but algorithms much more brittle
+OWNX--: way tackle complex real world problems reduce them finite mdps we know how deal efficiently
+CONT--: this approach leaves lot work designer namely extract right state representation features out bare observations initial formal informal problem description
+MISC--: even if potentially useful representations been found usually not clear ones will turn out better except situations where we already know perfect model
+MISC--: think mobile robot equipped camera plunged into unknown environment
+OWNX--: while we imagine image features will potentially useful we cannot know advance ones will actually useful
+AIMX--: primary goal this paper develop investigate method automatically selects those features necessary sufficient reducing complex real world problem computationally tractable mdp
+OWNX--: formally we consider maps symbol past observation reward action history symbol agent mdp state
+MISC--: histories not worth being distinguished mapped same state i e symbol induces partition set histories
+OWNX--: we call this model symbol mdp
+MISC--: state may simply abstract label partition but more often itself structured object like discrete vector
+MISC--: each vector component describes one feature history citation
+MISC--: example state may vector containing shape color size object robot tracks
+AIMX--: this reason we call reduction feature rl although this part i only simpler unstructured case considered
+MISC--: symbol maps agent s experience over time into sequence mdp states
+MISC--: rather than informally constructing symbol hand our goal develop formal objective criterion symbol evaluating different reductions symbol
+MISC--: obviously at any point time if we want criterion effective only depend agent s past experience symbol possibly generic background knowledge
+MISC--: cost symbol shall small iff leads good mdp representation
+MISC--: establishment criterion transforms general ill defined rl problem formal optimization problem minimizing cost efficient algorithms need developed
+MISC--: another important question problems profitably reduced mdps citation
+MISC--: real world does not conform itself nice models reality non ergodic partially observable uncertain unknown environment acquiring experience expensive
+MISC--: so we should exploit data past experience at hand well possible cannot generate virtual samples since model not given need learned itself there no reset option
+MISC--: no criterion this general setup exists
+MISC--: course there previous work one another way related symbol mdp
+MISC--: partly detailed later suggested symbol mdp model interesting connections many important ideas approaches rl beyond parskip ex parsep exsep ex symbol mdp side steps open problem learning pomdps citation unlike bayesian rl algorithms citation symbol mdp avoids learning complete stochastic observation model symbol mdp scaled down practical instantiation aixi citation symbol mdp extends idea state aggregation planning based bi simulation metrics citation rl based information symbol mdp generalizes u tree citation arbitrary features symbol mdp extends model selection criteria general rl problems citation symbol mdp alternative psrs citation proper learning algorithms yet developed symbol mdp extends feature selection supervised learning rl citation
+MISC--: learning agents via rewards much more demanding task than classical machine learning independently identically distributed iid data largely due temporal credit assignment exploration problem
+MISC--: nevertheless rl closely related adaptive control theory engineering been applied often unrivaled variety real world problems occasionally stunning success backgammon checkers citation helicopter control citation
+MISC--: symbol mdp overcomes several limitations approaches items above thus broadens applicability rl
+MISC--: symbol mdp owes its general purpose learning planning ability its information complexity theoretical foundations
+MISC--: implementation symbol mdp based specialized general search optimization algorithms used finding good reductions symbol
+MISC--: given symbol mdp aims at general ai problems one may wonder about role other aspects traditionally considered ai citation knowledge representation kr logic may useful representing complex reductions symbol
+MISC--: agent interface fields like robotics computer vision natural language processing speedup learning pre post processing raw observations actions into more structured formats
+AIMX--: representational interface aspects will only barely discussed this paper
+OWNX--: following diagram illustrates symbol mdp perspective end center section formalizes our symbol mdp setup consists agent model map symbol observation reward action histories mdp states
+OWNX--: section develops our core symbol selection principle illustrated section tiny example
+OWNX--: section discusses general search algorithms finding approximations optimal symbol concretized context tree mdps
+OWNX--: section i find optimal action symbol mdp present overall algorithm
+OWNX--: section improves symbol selection criterion integrating out states
+MISC--: section contains brief discussion symbol mdp including relations prior work incremental algorithms outlook more realistic structured mdps dynamic bayesian networks symbol dbn treated part ii
+MISC--: rather than leaving parts symbol mdp vague unspecified i decided give at very least simplistic concrete algorithm each building block may assembled one sound system one build
+MISC--: throughout this article symbol denotes binary logarithm symbol empty string symbol if symbol symbol else kronecker symbol
+MISC--: i generally omit separating commas if no confusion arises particular indices
+MISC--: any symbol suitable type string vector set i define string symbol sum symbol union symbol vector symbol where symbol ranges over full range symbol symbol length dimension size symbol
+MISC--: symbol denotes estimate symbol
+MISC--: symbol denotes probability over states rewards parts thereof
+MISC--: i do not distinguish between random variables symbol realizations symbol abbreviation symbol never leads confusion
+CONT--: more specifically symbol denotes number states symbol any state index symbol current time symbol any time history
+CONT--: further order not get distracted at several places i gloss over initial conditions special cases where inessential
+MISC--: also symbol undefined symbol infinity

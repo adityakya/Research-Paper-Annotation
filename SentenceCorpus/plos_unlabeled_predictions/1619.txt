@@ -1,0 +1,48 @@
+MISC--: non intermingling adjacent populations cells define compartment boundaries boundaries often essential positioning maintenance tissue organizers during growth
+MISC--: developing wing primordium drosophila melanogaster signaling secreted protein hedgehog required compartment boundary maintenance
+MISC--: however precise mechanism hh input remains poorly understood
+MISC--: here we combine experimental observations perturbed hh signaling computer simulations cellular behavior connect physical properties cells their hh signaling status
+OWNX--: we find experimental disruption hh signaling observable effects cell sorting surprisingly far compartment boundary contrast previous model confines hh influence compartment boundary itself
+OWNX--: we recapitulated our experimental observations simulations hh diffusion transduction coupled mechanical tension along cell cell contact surfaces
+OWNX--: intriguingly best results were obtained under assumption hh signaling cannot alter overall tension force cell but will merely re distribute locally inside cell relative signaling status neighboring cells
+OWNX--: our results suggest scenario homotypic interactions putative hh target molecule at cell surface converted into mechanical force
+MISC--: scenario could explain why mechanical output hh signaling appears confined compartment boundary despite longer range hh molecule itself
+OWNX--: our study first couple cellular vertex model describing mechanical properties cells growing tissue explicit model entire signaling pathway including freely diffusible component
+OWNX--: we discuss potential applications challenges approach
+MISC--: during embryonic development complex multicellular organisms spatial reference points need established within tissues
+MISC--: often formed specialized groups cells capable signaling neighboring cells
+MISC--: signaling centers define coordinate systems along newly arising cells orient themselves make crucial decisions regarding proliferation differentiation migration citation citation citation citation citation citation
+OWNX--: because their pervasive importance tissue organizing centers need precisely controlled both spatially temporally well respect their signaling amplitude
+OWNX--: one possible mechanism spatial control tissue organizers restrict movement cells at fixed boundary positions
+MISC--: this phenomenon indeed observed involves separation groups cells already been spatially instructed assume distinct identities example at segment parasegment boundaries
+MISC--: akin water oil two cell populations seen establish maintain relatively straight interface each other effectively minimizing their contact area
+OWNX--: minimizing force assumed help stabilize interface against random perturbations may arise cell divisions arbitrary cell movements thus any organizing activity associated interface likewise stabilized
+MISC--: how this separation sorting cells distinct identities achieved
+MISC--: one line work attributes this differential cell adhesion citation citation cell populations might develop distinct adhesive properties affinity differences would then allow them sort out one another
+MISC--: another line reasoning based differential interfacial tension citation citation this hypothesis suggests cells might actively constrict surfaces contact neighboring cells depending cellular identity neighbors depending signaling events
+OWNX--: both mechanisms would ultimately lead physical forces would help keep cell populations apart
+MISC--: developing wing primordium drosophila particularly well suited study boundary formation
+OWNX--: not required larval viability manipulated experimentally through advanced genetic toolkit been well characterized
+OWNX--: disc contains compartment boundary separates anterior posterior cells this boundary inherited specification events occurring early embryo
+MISC--: initial embryonic events give rise boundary involve mutual signaling between stripes cells mediated extensively studied network genes
+MISC--: once established cellular identities both sides boundaries stable throughout larval development well into adult life
+MISC--: compartment boundary disc strictly respected all cells even when cells one side boundary artificially provided competitive growth advantage over cells other side boundary citation
+MISC--: wing disc itself simple flat epithelial sheet orientations cell divisions appear largely random citation
+MISC--: genetic analysis computational modeling this tissue simplified fact daughter cells arising cell divisions usually remain physical contact do not migrate away each other
+MISC--: this been shown experimentally tracing descendents single cells most cases clone offspring cells will form coherent patch connected cells
+OWNX--: this behavior suggests complicated processes cell intercalation migration neglected first approximation when studying boundary maintenance this tissue
+OWNX--: working wing discs recent seminal study begun shed light possible boundary formation mechanisms citation
+OWNX--: authors directly demonstrated increased mechanical tension at cell cell interfaces located immediately at boundary using laser ablation experiments
+MISC--: subsequent computer simulations then revealed collectively local forces sufficient maintain stable compartment boundary
+MISC--: results intriguing but they raise number new questions boundary formation wing disc known depend secreted diffusible signaling protein hedgehog produced posterior cells specifically sensed transduced anterior cells citation citation
+MISC--: if diffusible hh indeed somehow influences mechanical tension what conditions must then met ensure well defined boundary
+OWNX--: so far all known transcriptional responses hh signaling occurring several cell diameters wide into responding tissue
+MISC--: how response this case restricted immediate boundary region
+MISC--: furthermore experimental suppression hh signaling been shown lead ectopic boundary formation distant actual boundary citation
+MISC--: does this mean influence hh signaling does extend beyond actual boundary if so why does this not noticeable consequence wild type situation
+AIMX--: here we propose mechanistic model generate localized outcome hh signaling respect physical forces mechanical properties despite longer range molecular response terms target gene expression
+OWNX--: furthermore we estimate distance boundary up hh signaling may able prime cells boundary formation this distance inferred using both experimental results well modeling results we estimate at least cell diameters
+OWNX--: we approach problem first formulating explicit two dimensional model hh production diffusion transduction then coupling this setup physical model growing tissue
+OWNX--: our modeling approach cells their contact surfaces described graph connected vertexes
+BASE--: our model essentially follows differential interface tension hypothesis modified version model been previously established very same tissue citation
+AIMX--: we observe good compartment boundary formation over range simulation parameters modeling outcomes agree qualitatively experimental perturbations specifically performed this study

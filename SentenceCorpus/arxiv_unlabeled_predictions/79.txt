@@ -1,0 +1,43 @@
+MISC--: solomonoff s central result induction prediction universal semimeasure symbol converges rapidly probability true sequence generating predictor symbol if latter computable
+MISC--: hence symbol eligible universal sequence predictor case unknown symbol
+OWNX--: despite some nearby results proofs literature stronger result convergence all martin l o f random sequences remained open
+MISC--: convergence result would particularly interesting natural since randomness defined terms symbol itself
+OWNX--: we show there universal semimeasures symbol do not converge symbol all symbol random sequences ie we give partial negative answer open problem
+OWNX--: we also provide positive answer some non universal semimeasures
+OWNX--: we define incomputable measure symbol mixture over all computable measures enumerable semimeasure symbol mixture over all enumerable nearly measures
+OWNX--: we show symbol converges symbol symbol symbol all random sequences
+MISC--: hellinger distance measuring closeness two distributions plays central role
+MISC--: sequence prediction task defined predict next symbol symbol observed sequence symbol
+MISC--: key concept attack general prediction problems occam s razor less extent epicurus principle multiple explanations
+CONT--: former latter may interpreted keep simplest all theories consistent observations symbol use theories predict symbol
+OWNX--: solomonoff citation formalized combined both principles his universal priori semimeasure symbol assigns high low probability simple complex environments symbol hence implementing occam epicurus
+OWNX--: formally represented mixture all enumerable semimeasures
+MISC--: abstract characterization symbol levin citation symbol universal enumerable semimeasure sense multiplicatively dominates all enumerable semimeasures
+MISC--: solomonoff s citation central result if probability symbol observing symbol at time symbol given past observations symbol computable function then universal predictor symbol converges rapidly symbol probability w p symbol optimal true informed predictor symbol hence symbol represents universal predictor case unknown true distribution symbol
+MISC--: convergence symbol symbol w p tells us symbol close symbol sufficiently large symbol almost all sequences symbol
+MISC--: says nothing about whether convergence true any particular sequence measure
+MISC--: martin l o f m l randomness standard notion randomness individual sequences citation
+OWNX--: m l random sequence passes all thinkable effective randomness tests eg law large numbers law iterated logarithm etc
+OWNX--: particular set all symbol random sequences symbol measure
+OWNX--: natural ask whether symbol converges symbol difference ratio individually all m l random sequences
+MISC--: clearly solomonoff s result shows convergence may at most fail set sequences symbol measure zero
+MISC--: convergence result m l random sequences would particularly interesting natural this context since m l randomness defined terms symbol itself citation
+MISC--: despite several attempts solve this problem citation remained open citation
+AIMX--: this paper we construct m l random sequence show existence universal semimeasure does not converge this sequence hence answering open question negatively some symbol
+MISC--: remains open whether there exist other universal semimeasures probably particularly interesting additional structure properties m l convergence holds
+OWNX--: main positive contribution this work construction non universal enumerable semimeasure symbol m l converges symbol desired
+OWNX--: intermediate step we consider incomputable measure symbol defined mixture over all computable measures
+OWNX--: we show m l convergence predictor symbol symbol symbol symbol
+MISC--: hellinger distance measuring closeness two predictive distributions plays central role this work
+OWNX--: paper organized follows section we give basic notation results strings numbers sets functions asymptotics computability concepts prefix kolmogorov complexity define discuss concepts universal enumerable semi measures
+OWNX--: section summarizes solomonoff s g acs results predictive convergence symbol symbol probability
+OWNX--: both results derived bound expected hellinger sum
+OWNX--: we present improved bound expected exponentiated hellinger sum implies very strong assertions convergence rate
+OWNX--: section we investigate whether convergence all martin l o f random sequences hold
+OWNX--: we construct symbol m l random sequence some universal semimeasures symbol do not converge symbol
+OWNX--: we give non constructive constructive proof different virtue
+OWNX--: section we present our main positive result
+OWNX--: we derive finite bound hellinger sum between symbol symbol exponential randomness deficiency sequence double exponential complexity symbol
+OWNX--: this implies predictor symbol m l converges symbol
+OWNX--: finally section we show symbol non universal asymptotically m l converges symbol summarize computability measure dominance properties symbol symbol symbol symbol
+OWNX--: section contains discussion outlook

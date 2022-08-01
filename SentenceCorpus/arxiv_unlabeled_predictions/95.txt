@@ -1,0 +1,29 @@
+MISC--: baselineskip pt recent spectral clustering methods propular powerful technique data clustering
+MISC--: methods need solve eigenproblem whose computational complexity symbol where symbol number data samples
+AIMX--: this paper non eigenproblem based clustering method proposed deal clustering problem
+MISC--: its performance comparable spectral clustering algorithms but more efficient computational complexity symbol
+OWNX--: we show transitive distance observed property called k means duality our algorithm used handle data sets complex cluster shapes multi scale clusters noise
+OWNX--: moreover no parameters except number clusters need set our algorithm
+MISC--: data clustering important technique many applications data mining image processing pattern recognition computer vision
+MISC--: much effort been devoted this research citation citation citation citation citation citation citation citation
+MISC--: basic principle assumption guides design clustering algorithm consistency data within same cluster closed each other while data belonging different clusters relatively far away
+MISC--: according this principle hierarchy approach citation begins trivial clustering scheme where every sample cluster then iteratively finds closest most similar pairs clusters merges them into larger clusters
+OWNX--: this technique totally depends local structure data without optimizing global function
+MISC--: easily observed disadvantage this approach often fails when data set consists multi scale clusters citation
+MISC--: besides above consistency assumption methods like k means em also assume data set some kind underlying structures hyperellipsoid shaped gaussian distribution thus any two clusters separated hyperplanes
+OWNX--: this case commonly used euclidean distance suitable clustering purpose
+MISC--: introduction kernels many recent methods like spectral clustering citation citation consider clusters data set may more complex shapes other than compact sample clouds
+OWNX--: this general case kernel based techniques used achieve reasonable distance measure among samples
+MISC--: citation eigenvectors distance matrix play key role clustering
+MISC--: overcome problems multi scale clusters citation zelnik manor perona proposed self tuning spectral clustering local scale data structure eigenvectors distance matrix considered citation
+MISC--: impressive results been demonstrated spectral clustering regarded most promising clustering technique citation
+MISC--: however most current kernel related clustering methods including spectral clustering unified kernel k means framework citation need solve eigenproblem suffering high computational cost when data set large
+AIMX--: this paper we tackle clustering problem where clusters complex shapes
+AIMX--: using transitive distance measure observed property called k means duality we show if consistency condition satisfied clusters arbitrary shapes mapped new space where clusters more compact easier clustered k means algorithm
+MISC--: comparable performance spectral algorithms our algorithm does not need solve eigenproblem more efficient computational complexity symbol than spectral algorithms whose complexities symbol where symbol number samples data set
+AIMX--: rest this paper structured follows
+OWNX--: section we discuss transitive distance measure through graph model data set
+OWNX--: section duality k means algorithm proposed its application our clustering algorithm explained
+OWNX--: section describes our algorithm presents scheme reduce computational complexity
+MISC--: section shows experimental results some synthetic data sets benchmark data sets together comparisons k means algorithm spectral algorithms citation citation
+OWNX--: conclusions given section

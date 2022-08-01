@@ -1,0 +1,32 @@
+MISC--: people willing gamble more themselves than what they deem reasonable others
+OWNX--: we addressed this question simplified computer gambling task subjects chose set number cards
+OWNX--: subjects selected one card at time after being instructed number cards were good win dollar per card one was really bad lose all money end game
+MISC--: subjects could stop playing at any time collect their winnings
+OWNX--: some subjects played game others observed confederate
+OWNX--: both groups took risks beyond what was rational i e number cards but textit actors were riskier than textit observers
+MISC--: actor observer asymmetry occurred even after controlling monetary outcome i e having observers win prizes after controlling how question was framed i e asking observers what they themselves textit would do opposed what confederate textit should do
+OWNX--: we discuss results relation theories decision making emphasize separate contributions rational experiential systems
+MISC--: you at casino watching game black jack when player who hand sixteen asks another card
+OWNX--: you quip yourself what idiot
+MISC--: he should held at number
+MISC--: but who s say you wouldn t done same
+MISC--: after all decision making self likely depend cues processes not available when judging choices others
+MISC--: reward having drawn good card prospect winning potential regret overreaching all blunted detached observer
+MISC--: then again you may reach same decision whether you actor observer much information needed including success probability prize size potential loss all available rational choice
+MISC--: this example illustrates decision making influenced both rational experiential factors citation
+MISC--: rational processes effortful logical using cost benefit analysis determine best choice citation
+MISC--: contrast experiential processes intuitive emotionally based using heuristics history reward punishment determine next behavior citation
+MISC--: presumably experiential processes weigh more heavily actors decisions than observers judgments citation
+MISC--: one reason this actors may privileged access their own affective reactions citation
+MISC--: furthermore actors affective system tapped rewards punishments citation
+MISC--: contrast observers usually not affected when they influence rewards punishments diminished their being decoupled action
+MISC--: simple terms argued rewarded actions will show tendency repeated
+MISC--: thus occurrence reward should motivate actors repeat rewarded action disregard potential costs beyond what observers would deem reasonable
+AIMX--: current study we explored this specific instance actor observer asymmetry its relation rational experiential dichotomy
+OWNX--: this we used modified version task first developed studying risk taking children citation
+OWNX--: this paradigm ten cards were displayed computer screen subjects were told nine cards were good would pay dollar each while one card was disastrous would make them lose all money they had collected thus ending game
+MISC--: subjects turned one card at time decided when stop collect their prize
+MISC--: task could solved deciding advance how many cards turn sequentially deciding whether turn next card
+MISC--: either way expected value this task highest turning five cards citation
+MISC--: thus rational decision maker should stop after turning number cards
+OWNX--: two experiments we explored possible departures rational decision making whether departures were moderated active task participation

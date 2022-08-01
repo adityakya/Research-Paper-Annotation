@@ -1,0 +1,35 @@
+OWNX--: primary visual cortex pre wired facilitate extraction behaviorally important visual features
+OWNX--: collinear edge detectors v instance mutually enhance each other improve perception lines against noisy background
+MISC--: same pre wiring facilitates line extraction however detrimental when subjects discriminate brightness different line segments
+OWNX--: how possible improve one task unsupervised practicing without getting worse other task
+MISC--: classical view perceptual learning practicing modulates feedforward input stream through synaptic modifications onto within v
+MISC--: however any rewiring v would deteriorate other perceptual abilities different trained one
+OWNX--: we propose general neuronal model showing perceptual learning modulate top down input v task specific way while feedforward lateral pathways remain intact
+MISC--: consistent biological data model explains how context dependent brightness discrimination improved top down recruitment recurrent inhibition top down induced increase neuronal gain within v
+MISC--: both top down modulation inhibition neuronal gain suggested universal features cortical microcircuits enable perceptual learning
+OWNX--: since plato s allegory cave kant s critique pure reason often suggested our perception objects outer world never tell us what they really
+OWNX--: if men had green glasses place their eyes they would perceive objects green never able tell whether this color was intrinsic objects just our perception
+OWNX--: contemporary neuroscientific version empiricist s position one may argue perception visual objects always distorted nonlinearities visual pathway particular intrinsic circuitry primary visual cortex
+OWNX--: fact any visual input filtered neuronal processing v before reaching consciousness
+OWNX--: instance collinear edges enhanced intrinsic v circuitry citation our brightness perception will never match physical luminance
+MISC--: nevertheless perceptual training without teacher feedback may still improve our brightness discrimination abilities citation casting certain doubts about strict empirical view
+MISC--: how then possible reach more veridical perceptions just pure reason i e intrinsically adapting cortical dynamics without being told about mismatch between percept true physical quality
+OWNX--: we show model top down modulation v during unsupervised perceptual learning suppress intrinsic nonlinearities v
+MISC--: top down suppression leads faithful neuronal representation sensory input
+MISC--: underlying neuronal mechanisms elaborated example brightness discrimination
+OWNX--: this example flanking light bar closely aligned prolongation test bar acts visual context
+MISC--: this flanking bar biases brightness perception test bar
+MISC--: presence flanking bar test bar perceived brighter than actually clearly this enhanced brightness perception helpful when extracting collinear line elements against some noisy background citation citation
+MISC--: however when task consists comparing brightness test bar displaced single reference bar then collinear flank distorts brightness comparison citation
+MISC--: brightness test bar overestimated because underlying neuronal population representing test bar within v recurrently excited corresponding population representing collinear flanking bar citation
+OWNX--: we show top down input remove this contextual bias activating recurrent inhibition within v
+MISC--: recurrent inhibition cancels lateral excitation linearizes brightness representation test bar allowing faithful perception
+MISC--: additional top down induced gain increase v further enhances sensitivity brightness differences
+MISC--: perceptual learning i e change perception following sensory experiences typically explained modification either feed forward synaptic pathway v citation citation recurrent connections within v citation citation triggered repeated practicing
+OWNX--: because synaptic modifications would affect any input stream through v however perceptual learning would inevitably deteriorate information processing other situations
+MISC--: although negative transfer learning other tasks known appear perceptual learning typically task specific does not deteriorate perception other tasks see e g reviews citation citation
+OWNX--: while improving brightness discrimination between context modulated test bar displaced reference bar instance edge detection capability expected not suffer
+MISC--: fact mutual enhancement collinear light bars advantageous extracting lines noisy scene required contour integration everyday scenes citation
+MISC--: hence models perceptual learning explain how improvement one task possible without interference others
+MISC--: intriguing possibility perceptual learning might based modifying task dependent top down input sensory areas opposed permanent change bottom up input stream citation citation
+OWNX--: taking up this idea we show how top down signaling higher cortical area v could modify neuronal processing this lower area consistent both electrophysiological recordings v psychophysical experiments perceptual learning

@@ -1,0 +1,27 @@
+OWNX--: calmodulin kinase ii mediates critical signaling pathways responsible divergent functions heart including calcium cycling hypertrophy apoptosis
+MISC--: dysfunction camkii signaling pathway occurs heart disease associated increased susceptibility life threatening arrhythmia
+OWNX--: furthermore camkii inhibition prevents cardiac arrhythmia improves heart function following myocardial infarction
+MISC--: recently novel mechanism oxidative camkii activation was discovered heart
+OWNX--: here we provide first report camkii oxidation state well validated large animal model heart disease
+OWNX--: specifically we observe increased levels oxidized camkii infarct border zone
+MISC--: unexpected new data identify alternative activation pathway camkii common cardiovascular disease
+AIMX--: study role oxidation dependent camkii activation creating pro arrhythmia substrate following myocardial infarction we developed new mathematical model camkii activity including both oxidative autophosphorylation activation pathways
+MISC--: computer simulations using multicellular mathematical model cardiac fiber demonstrate enhanced camkii activity infarct bz due primarily increased oxidation associated reduced conduction velocity increased effective refractory period increased susceptibility formation conduction block at bz margin prerequisite reentry
+OWNX--: furthermore our model predicts camkii inhibition improves conduction reduces refractoriness bz thereby reducing vulnerability conduction block reentry
+OWNX--: results identify novel oxidation dependent pathway camkii activation infarct bz may effective therapeutic target improving conduction reducing heterogeneity infarcted heart
+MISC--: calmodulin kinase ii mediates diverse roles heart including excitation contraction coupling sinus node automaticity apoptosis hypertrophy gene transcription citation citation
+MISC--: mounting experimental evidence demonstrates important role camkii heart disease arrhythmias
+MISC--: specifically camkii overexpression occurs human heart failure citation transgenic mice overexpressing camkii develop dilated cardiomyopathy citation citation
+MISC--: conversely transgenic inhibition camkii prevents structural remodeling improves heart function following myocardial infarction citation while knockout mice lacking predominant cardiac camkii isoform resistant development pressure overload induced hypertrophy heart failure citation citation
+MISC--: finally camkii inhibition prevents arrhythmias several different mouse models heart disease citation citation
+MISC--: camkii activated binding ca calmodulin may undergo inter subunit autophosphorylation allows kinase retain activity even upon dissociation ca calmodulin citation
+OWNX--: recently novel camkii activation pathway was identified where oxidation at specific methionine residues camkii regulatory subunit results persistent activity independent autophosphorylation citation
+MISC--: while oxidative dependent camkii activation been shown mediate apoptosis response chronic angii treatment mouse citation well arrhythmogenic afterdepolarizations isolated cardiomyocytes treated hydrogen peroxide citation nothing known about its role large animal models heart disease
+OWNX--: considering levels reactive oxygen species h o superoxide elevated following myocardial infarction citation we hypothesized oxidation camkii represents important pathway camkii activation infarct border zone may provide mechanistic link between increased ros production na channel remodeling conduction slowing following mi
+OWNX--: this study we describe dramatic increase levels oxidized camkii well validated large animal model arrhythmias following mi citation citation
+OWNX--: investigate role oxidized camkii regulating refractoriness conduction infarct bz we develop novel mathematical model camkii activity includes oxidation autophosphorylation activation pathways
+OWNX--: our computer simulations show enhanced camkii activity bz due primarily increased oxidation leads slowed conduction prolonged refractory periods increased vulnerability conduction block at bz margin
+OWNX--: our results identify oxidation dependent camkii activation potential link between oxidative stress electrical remodeling after myocardial infarction
+OWNX--: furthermore our findings support camkii inhibition potential therapy reducing susceptibility ventricular tachycardia improving conduction reducing refractory gradients infarcted heart
+MISC--: finally important note oxidative activation camkii allows independent regulation kinase host unique upstream activators signaling partners great potential relevance human disease
+AIMX--: details emerge regarding regulation kinase this newly identified pathway they may incorporated into our model study electrophysiological consequences camkii activation via this independent signaling pathway

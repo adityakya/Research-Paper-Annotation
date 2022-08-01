@@ -1,0 +1,64 @@
+OWNX--: we analyze behavior two basic classes decision tasks description based experience based
+OWNX--: particular we compare prediction power number decision learning models both kinds tasks
+MISC--: unlike most previous studies we focus individual rather than aggregate behavioral characteristics
+BASE--: we carry out experiment involving battery both description experience based choices between two mixed binary prospects made each participants employ number formal models explaining predicting participants choices prospect theory pt citation expectancy valence model evl citation three combinations well established models
+OWNX--: we document pt evl models best predicting people s decisions description experience based tasks respectively not surprising two models designed specially kinds tasks
+OWNX--: furthermore we find models involving linear weighting gains losses perform better both kinds tasks point view generalizability individual parameter consistency
+MISC--: we therefore conclude overall when both prospects mixed assumption diminishing sensitivity does not improve models prediction power individual decision makers
+OWNX--: finally some models parameters we document consistency at individual level between description experience based tasks
+OWNX--: all our lives we make decisions
+OWNX--: we choose where go vacation when replace our old car pair shoes buy
+OWNX--: fact each step we make our life result decision we made
+OWNX--: even if we do nothing this probably our personal choice
+OWNX--: course we would happy if we could always make correct decisions order maximize resulting utility yet we sometimes fail result objectively insufficient information subjective behavioral biases
+MISC--: therefore understanding systematically describing people s behavior extremely important both predicting their future decisions potentially improving decision quality
+OWNX--: decisions we make may classified into two main categories
+AIMX--: when we study newspaper daily weather forecasts drug package inserts mutual funds brochures we enjoy convenient descriptions risky prospects including probabilities possible outcomes
+MISC--: respectively decisions based statistical descriptions called description based decisions
+OWNX--: when we decide whether backup their computer s hard drive cross busy street go blind date put belt during driving we typically denied benefit convenient descriptions possible outcomes example probabilities hard disk failure accident meeting desirable partner blind date never explicitly provided
+OWNX--: many decisions all we rely our own past experience
+MISC--: respectively decisions based past personal experience called experience based decisions
+MISC--: tasks typically studied under description based paradigm tend focus one shot decisions based detailed information concerning relevant outcome distributions
+MISC--: tasks typically studied under experience based paradigm do not provide objective prior information concerning payoff distributions this could tasks drawback
+MISC--: other hand decisions repeated thus decision makers get chance learn experience
+MISC--: distinction between risky description based experience based decisions attracted recent attention because ostensibly same information lead different choices depending how information acquired citation
+MISC--: this difference sometimes referred description experience gap usually attributed difference treatment rare outcomes two paradigms
+MISC--: one hand description based tasks according presentation effect low probability events likely overweighted if their probabilities explicitly presented citation
+MISC--: other hand experience based tasks low probability outcomes may underweighted either because recency effect since low probability events not likely occur recently availability personal experience tends reduce weighting events citation simply because small sample size may cause rare events not occur at all during relatively short intervals time citation
+MISC--: example description experience gap we may cite classic example given weber citation consider decision whether vaccinate child against diphtheria tetanus pertussis dtp
+MISC--: parents who research side effects dtp vaccine consulting national immunization programweb site brochure provided their pediatrician will learn up number child out number number will suffer high fever about number child out number number will suffer seizures result immunization
+MISC--: increasing number parents after reading information decide not immunize their child
+MISC--: although doctors same statistics at their disposal they also access information not available parents namely personal experience gathered across many patients
+MISC--: this information tells them vaccination very unlikely result side effects
+OWNX--: few doctors will encountered one rare cases high fever seizures
+MISC--: if they encountered one experience dwarfed hundreds memories side effect free immunizations
+AIMX--: one sources differences between doctors vaccine resisters may result differences weight given rare events like likelihood seizure function whether this likelihood acquired through experience statistical description
+MISC--: naturally occurring situations decision makers often base their decisions both descriptions their own experience
+MISC--: laboratory settings possible construct choice tasks based purely descriptions experience
+MISC--: our major goal determine models best explain behavior two classes decision tasks
+MISC--: unlike previous studies focusing aggregate behavioral characteristics groups people citation our study analyzes choice evaluation parameters individual decision makers
+OWNX--: moreover we examine connection between choices same decision makers description experience based tasks
+OWNX--: we carry out experiment involving battery description based experience based choices
+MISC--: so our decision tasks more representative real world situations each choices made between two binary prospects involving probabilities both gains losses
+MISC--: examine common behavioral characteristics kinds tasks we employ number formal decision learning models incorporating number factors parameters namely loss aversion diminishing sensitivity probability weighting choice consistency degree randomness choice recency tendency relate past information current choice
+AIMX--: first we use two well established models i prospect theory pt citation was developed mainly description based tasks ii expectancy valence model evl citation was designed specially experience based tasks
+OWNX--: addition we create three combinations basic models find out what parameters would most suitable describing human behavior at individual level comparing same person s choices two types tasks i pt no s model similar pt without assumption diminishing sensitivity gains losses ii evl s model similar evl but assumption diminishing sensitivity iii evl pt model utility function similar pt except loss aversion parameter
+MISC--: description based tasks order account presentation effect learning model should contain possibility non linear weighting explicitly stated probabilities
+OWNX--: therefore we employ models possessing probability weighting parameter pt pt no s this kind tasks
+MISC--: other hand order reflect recency effect learning models dealing experience based decisions should contain recency parameter
+MISC--: evl evl s evl pt models meet this criterion
+OWNX--: first all we expect classical pt evl models were specially designed description experience based tasks respectively will prove more suitable than their possible combinations respective tasks
+OWNX--: our findings based models fit support this expectation
+MISC--: furthermore we expect people tend behave consistently terms decision making model parameters citation
+OWNX--: we thus expect better fitting models should also provide higher individual parameter consistency
+OWNX--: other words we hypothesize individual who according certain model reveals relatively high low values certain decision parameters certain task should reveal according same model relatively high low values same parameters other tasks same choice paradigm
+OWNX--: additionally we expect contribution diminishing sensitivity assumption explaining decision makers behavior our experiment may rather limited due mixed nature prospects we employ
+MISC--: former surmise partially supported since description based tasks combined pt no s model found outperform pt model terms parameter consistency
+OWNX--: this finding line other results indicating models involving linear weighting gains losses perform better both kinds tasks
+MISC--: finally we expect individuals behavior should also consistent between different choice paradigms individual parameters having similar functionality description experience based tasks should positively correlated
+CONT--: this hypothesis only partially supported suggesting widely used learning models may still need further improvement
+AIMX--: rest paper structured follows
+OWNX--: section number we present models decision making we employ
+OWNX--: section number we describe our experimental design research approach
+OWNX--: section number describes empirical tests we perform provides results
+OWNX--: section number concludes provides brief discussion

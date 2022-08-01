@@ -1,0 +1,51 @@
+MISC--: trailing backward compatibility
+OWNX--: sty file given sample probability measure support submanifold euclidean space one construct neighborhood graph seen approximation submanifold
+MISC--: graph laplacian graph used several machine learning methods like semi supervised learning dimensionality reduction clustering
+AIMX--: this paper we determine pointwise limit three different graph laplacians used literature sample size increases neighborhood size approaches zero
+OWNX--: we show uniform measure submanifold all graph laplacians same limit up constants
+MISC--: however case non uniform measure submanifold only so called random walk graph laplacian converges weighted laplace beltrami operator
+MISC--: recent years methods based graph laplacians become increasingly popular machine learning
+MISC--: they been used semi supervised learning citation spectral clustering citation dimensionality reduction citation
+MISC--: their popularity mainly due following properties laplacian will discussed more detail later section laplacian generator diffusion process label propagation semi supervised learning eigenvectors laplacian special geometric properties motivation spectral clustering laplacian induces adaptive regularization functional adapts density geometric structure data semi supervised learning classification
+MISC--: if data lies symbol neighborhood graph built random sample seen approximation continuous structure
+OWNX--: particular if data support low dimensional submanifold neighborhood graph discrete approximation submanifold
+OWNX--: machine learning we interested intrinsic properties objects this submanifold
+MISC--: approximation laplace beltrami operator via graph laplacian very important one since numerous applications we will discuss later
+OWNX--: approximations laplace beltrami operator related objects been studied certain special deterministic graphs
+MISC--: easiest case grid symbol
+MISC--: numerics standard approximate laplacian finite differences schemes grid
+MISC--: seen special instances graph laplacian
+MISC--: there convergence decreasing grid size follows easily argument using taylor expansions
+MISC--: another more involved example work citation where graph generated symbol packing manifold equivalence certain properties random walks graph brownian motion manifold been established
+OWNX--: connection between random walks graph laplacian becomes obvious noting graph laplacian well laplace beltrami operator generators diffusion process graph manifold respectively
+MISC--: citation convergence discrete approximation laplace beltrami operator triangulation d surface symbol was shown
+CONT--: however unclear whether approximation described there written graph laplacian whether this result generalized higher dimensions
+OWNX--: case where graph generated randomly only first results been proved so far
+MISC--: first work large sample limit graph laplacians been done citation
+MISC--: there authors studied convergence regularization functional induced graph laplacian using law large numbers symbol statistics
+MISC--: second step taking limit neighborhoodsize symbol they got symbol effective limit operator symbol
+MISC--: their result recently been generalized submanifold case uniform convergence over space h older functions citation
+MISC--: citation neighborhoodsize symbol was kept fixed while large sample limit graph laplacian was considered
+MISC--: this setting authors showed strong convergence results graph laplacians certain integral operators imply convergence eigenvalues eigenfunctions
+OWNX--: thereby showing consistency spectral clustering fixed neighborhood size
+AIMX--: contrast previous work this paper we will consider large sample limit limit neighborhood size approaches zero simultaneously certain class neighbhorhood graphs
+OWNX--: main emphasis lies case where data generating measure support submanifold symbol
+MISC--: bias term difference between continuous counterpart graph laplacian laplacian itself been studied first compact submanifolds without boundary citation citation gaussian kernel uniform data generating measure was then generalized citation general isotropic weights general probability measures
+MISC--: additionally lafon showed use data dependent weights graph allows control influence density
+MISC--: they all show bias term converges pointwise if neighborhood size goes zero
+MISC--: convergence graph laplacian towards continuous averaging operators was left open
+MISC--: this part was first studied citation citation
+MISC--: citation convergence was shown so called unnormalized graph laplacian case uniform probability measure compact manifold without boundary using gaussian kernel weights whereas citation pointwise convergence was shown random walk graph laplacian case general probability measures non compact manifolds boundary using general isotropic data dependent weights
+MISC--: more recently citation extended pointwise convergence unnormalized graph laplacian shown citation uniform convergence compact submanifolds without boundary giving explicit rates
+MISC--: citation see also citation rate convergence given citation been improved setting uniform measure
+AIMX--: this paper we will study three most often used graph laplacians machine learning literature show their pointwise convergence general setting citation citation we will particular consider case where using data dependent weights graph we control influence density limit operator
+OWNX--: section we introduce basic framework necessary define graph laplacians general directed weighted graphs then simplify general case undirected graphs
+OWNX--: particular we define three graph laplacians used machine learning so far we call normalized unnormalized random walk laplacian
+OWNX--: section we introduce neighborhood graphs studied this paper followed introduction so called weighted laplace beltrami operator will turn out limit operator general
+OWNX--: we also study properties this limit operator provide insights why how this operator used semi supervised learning clustering regression
+OWNX--: then finally we present main convergence result all three graph laplacians give conditions neighborhood size function sample size necessary convergence
+OWNX--: section we illustrate main result studying difference between three graph laplacians effects different data dependent weights limit operator
+OWNX--: section we prove main result
+OWNX--: we introduce framework studying non compact manifolds boundary provide necessary assumptions submanifold symbol data generating measure symbol kernel symbol used defining weights edges
+OWNX--: we would like note theorems given section contain slightly stronger results than ones presented section
+OWNX--: reader who not familiar differential geometry will find brief introduction basic material used this paper appendix

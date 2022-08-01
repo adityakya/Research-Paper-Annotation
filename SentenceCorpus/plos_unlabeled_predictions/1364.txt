@@ -1,0 +1,48 @@
+OWNX--: proteome radiation desiccation resistant bacterium d radiodurans features group proteins contain significant intrinsically disordered regions not present non extremophile homologues
+MISC--: interestingly this group includes number housekeeping repair proteins dna polymerase iii nudix hydrolase rotamase
+OWNX--: here we focus member nudix hydrolase family d radiodurans possessing low complexity n c terminal tails exhibit sequence signatures intrinsic disorder unknown function
+MISC--: enzyme catalyzes hydrolysis oxidatively damaged mutagenic nucleotides thought play important role d radiodurans during recovery phase after exposure ionizing radiation desiccation
+AIMX--: we use molecular dynamics simulations study dynamics protein study its hydration free energy using gb sa formalism
+OWNX--: we show presence disordered tails significantly decreases hydration free energy whole protein
+OWNX--: we hypothesize tails increase chances protein located remaining water patches desiccated cell where protected desiccation effects function normally
+AIMX--: we extrapolate this other intrinsically disordered regions proteins propose novel function them intrinsically disordered regions increase surface properties folded domains they attached making them whole more hydrophilic potentially influencing this way their localization cellular activity
+MISC--: dominant paradigm describing functioning proteins well defined structured molecular machines undergoing concerted conformational changes while carrying out their function citation citation
+MISC--: however over past few years become clear reality much more complex there proteins simply do not defined tertiary structure yet still carry out multitudes different important functions
+MISC--: intrinsically disordered proteins protein segments also called natively unfolded natively disordered definition difficult study using classical methods structural biology but they recent years received significant attention largely due two facts citation citation
+MISC--: first become clear proteins extremely abundant
+MISC--: using mostly bioinformatics approaches been shown eukaryotes about percent all proteins largely intrinsically disordered about percent long id stretches citation
+MISC--: among signaling proteins particular about percent long disordered segments citation
+MISC--: numbers large even if some predicted disordered regions actually prove structured likely idps eukaryotes far exceed example entire population membrane proteins
+MISC--: second motivating factor fact idps involved host extremely important cellular functions molecular recognition assembly protein modification entropic chain functions citation citation citation citation citation
+MISC--: example complex cellular activities cell signaling regulation often required actions many key molecular players tightly controlled coordinated through interaction recognition based unique identifying features citation citation case signaling proteins often located id regions
+MISC--: when recognition multiple binding partners high specificity low affinity binding required choice molecular level often involves idps id regions citation citation citation
+MISC--: finally large numbers idps known involved human diseases cancer neurodegenerative diseases diabetes cardiovascular diseases amyloidoses citation
+MISC--: thus far some biggest advances study idps been accomplished through bioinformatics data mining approaches citation citation citation citation
+MISC--: been shown amino acid sequences idps tend exhibit high hydrophilicity low sequence entropy lack so called order promoting amino acids bulky hydrophobic residues
+MISC--: based features several bioinformatics tools been developed reliably predict level intrinsic disorder given sequence citation citation
+MISC--: moreover using mostly nmr small angle x ray scattering different spectroscopic methods citation citation citation basic structural features idps been elucidated including their molecular size level structural heterogeneity role transient structure coupled binding folding events aggregation tendencies presence persistent structure citation citation citation
+MISC--: particular combination computer simulation experimentally determined restraints provided some first ensemble level pictures idps citation citation citation
+OWNX--: however compared our knowledge structure mechanism ordered proteins our understanding idps still extremely rudimentary incomplete primarily because their structural dynamic complexity
+AIMX--: present study we use molecular dynamics simulations free energy calculations focus role idps extremophile bacterium deinococcus radiodurans
+MISC--: d
+MISC--: radiodurans non motile non spore forming bacterium belongs deinococcaceae family citation citation
+OWNX--: characterized extreme ability withstand high doses desiccation ionizing radiation
+MISC--: example this bacterium survive dose gy ionizing radiation inducing more than dna double strand breaks no effect its viability citation citation
+OWNX--: however molecular mechanisms underlying high radiation resistance d radiodurans thought evolved primarily side effect mechanisms counter extreme desiccation bacterium thrives dry arid environments citation
+MISC--: over years evidence accumulated suggesting there exists no single dominant mechanism responsible extremophilic nature d radiodurans but rather combination different mechanisms at play citation citation
+MISC--: range passive structural contributions increased genome copy number citation compact nucleotide organization citation high intracellular concentration ros scavenger manganese citation active enzymatic repair mechanisms including nucleotide base excision repair dna double strand break repair citation citation citation
+MISC--: however important mechanisms may also possible bacterium s proteome undergone major structural adaptations order cope environmental stresses
+MISC--: one potential strategy address this possibility compare proteome d radiodurans those its non extremophile relatives look conspicuous differences
+MISC--: recently one us taken exactly this approach focused presence putative biological role id regions proteome d radiodurans
+OWNX--: subset proteins d radiodurans was identified contain highly hydrophilic stretches low sequence complexity indicative intrinsic disorder absent non extremophile homologues
+OWNX--: interestingly this list includes preponderance housekeeping rescue repair proteins including dna polymerase iii nudix hydrolase rotamase abc transporters adenine deaminase lea proteins
+OWNX--: further probe significance this finding we here focus variant nudix hydrolase occuring naturally dimer analyze properties its id regions
+MISC--: nudix hydrolases citation large class enzymes present all organisms hydrolyze wide range pyrophosphates including nucleotide di triphosphates dinucleotides nucleotide sugars
+MISC--: importantly some members family degrade oxidized nucleotides this way prevent potentially mutagenic effects would if incorporated into nucleic acids
+MISC--: other family members regulate concentration metabolic intermediates signaling molecules citation
+MISC--: interestingly d radiodurans exhibits different types nudix hyrolase about three times more than what would expected given size its genome highest number per mbp any bacterial genome known
+MISC--: particular been reported majority d radiodurans nudix genes strongly induced during stationary phase been implicated metabolic reprogramming
+MISC--: idps tail regions nudix hydrolase extremely dynamic very difficult study x ray crystallography nuclear magnetic resonance
+CONT--: however atomistic computer simulations molecular dynamics techniques ideally suited provide complete atomistic picture diverse dynamic ensembles characterizing idps
+AIMX--: here using sequence analysis methods molecular dynamics simulations conjunction hydration free energy calculations we show id regions this protein significantly alter its solvation properties making whole protein significantly more hydrophilic
+OWNX--: we hypothesize this fact principal functional role id regions they evolved keep key housekeeping repair enzymes solvated consequently functional under extreme desiccation conditions

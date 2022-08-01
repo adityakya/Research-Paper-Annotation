@@ -1,0 +1,30 @@
+MISC--: extent self adopted intervention related changes behaviors affect course epidemics remains key issue outbreak control
+MISC--: this study attempted quantify effect changes risk infection different settings i e community hospitals
+OWNX--: severe acute respiratory syndrome outbreak hong kong where percent cases were healthcare workers was used example
+MISC--: stochastic compartmental seir model was used population was split into healthcare workers hospitalized people general population
+MISC--: super spreading events were taken into account model
+OWNX--: temporal evolutions daily effective contact rates community hospitals were modeled smooth functions
+OWNX--: data augmentation techniques markov chain monte carlo methods were applied estimate sars epidemiological parameters
+OWNX--: particular estimates daily reproduction numbers were provided each subpopulation
+MISC--: average duration sars infectious period was estimated days
+MISC--: model was able disentangle impact two sses background transmission rates
+MISC--: effective contact rates were estimated daily basis decreased time reaching zero inside hospitals
+MISC--: this observation suggests public health measures possible changes individual behaviors effectively reduced transmission especially hospitals
+OWNX--: temporal patterns reproduction numbers were similar healthcare workers general population indicating average infectious healthcare worker did not infect more people than any other infectious person
+OWNX--: we provide general method estimate time dependence parameters structured epidemic models enables investigation impact control measures behavioral changes different settings
+MISC--: emerging infectious diseases been defined infections newly appeared population existed previously but rapidly increasing incidence geographic range
+MISC--: citation several features may make them particularly threatening
+MISC--: first recognizing disease difficult when first cases appear especially when symptoms non specific
+MISC--: second no vaccine specific treatment may known initially
+MISC--: moreover heterogeneities disease transmission may create high risk groups healthcare workers citation citation high risk geographical areas thereby dramatically enhancing impact outbreak citation
+MISC--: severe acute respiratory syndrome outbreak hong kong remarkably illustrative above issues symptoms were similar pneumonia citation incubation period was long enough local international transmission occur citation no vaccine treatment was available much percent cases worldwide were healthcare workers citation
+MISC--: outbreak also demonstrated possible existence super spreading events citation during few infectious individuals contaminated high number secondary cases
+MISC--: hong kong had two sses first occurred hospital x around march led about cases citation second occurred housing estate y march led over cases citation citation
+MISC--: despite its particularly threatening features outbreak was brought under control
+MISC--: this context once epidemic detected spontaneous changes behavior will occur non pharmacological measures usually initiated control outbreak
+MISC--: resulting effects two phenomena disease transmission not easily quantified
+MISC--: effective contact rate reflects combined influences social proximity probability infection through each contact essential determinant disease spread
+OWNX--: our aim was estimate temporal variation this parameter community hospitals over course outbreak
+MISC--: previously published mathematical models parameter estimation addressed issues temporal variability citation citation social heterogeneity citation citation
+AIMX--: here we present approach deals both issues together occurrence sses
+OWNX--: then method applied sars epidemic hong kong

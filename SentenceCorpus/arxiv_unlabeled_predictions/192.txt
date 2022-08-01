@@ -1,0 +1,26 @@
+CONT--: gaussian belief propagation gabp iterative message passing algorithm inference gaussian graphical models
+MISC--: known when gabp converges converges correct map estimate gaussian random vector simple sufficient conditions its convergence been established
+AIMX--: this paper we develop double loop algorithm forcing convergence gabp
+OWNX--: our method computes correct map estimate even cases where standard gabp would not converged
+OWNX--: we further extend this construction compute least squares solutions over constrained linear systems
+OWNX--: we believe our construction numerous applications since gabp algorithm linked solution linear systems equations fundamental problem computer science engineering
+OWNX--: case study we discuss linear detection problem
+AIMX--: we show using our new construction we able force convergence montanari s linear detection algorithm cases where would originally fail
+OWNX--: consequence we able increase significantly number users transmit concurrently
+CONT--: gaussian belief propagation algorithm efficient distributed message passing algorithm inference over gaussian graphical model
+MISC--: gabp also linked canonical problem solving systems linear equations citation one fundamental problems computer science engineering explains large number algorithm variants applications
+MISC--: example gabp algorithm applied signal processing citation multiuser detection citation linear programming citation ranking social networks citation support vector machines citation furthermore was recently shown some existing algorithms specific instances gabp algorithm including consensus propagation citation local probability propagation citation multiuser detection citation quadratic min sum algorithm citation turbo decoding gaussian densities citation others
+MISC--: two general sufficient conditions convergence gabp loopy graphs known diagonal dominance citation walk summability citation
+MISC--: see also numerous studies specific settings citation
+CONT--: this work we propose novel construction fixes convergence gabp algorithm any gaussian model positive definite information matrix inverse covariance matrix even when currently known sufficient convergence conditions do not hold
+OWNX--: we prove our construction converges correct solution
+OWNX--: furthermore we consider how this method may used solve least squares solution general linear systems
+OWNX--: specific application we discuss montanari s multiuser detection algorithm citation
+OWNX--: using our construction we able show convergence practical cdma settings where original algorithm did not converge supporting significantly higher number users each cell
+AIMX--: this paper organized follows
+OWNX--: section outlines problem model
+OWNX--: section gives brief introduction gabp algorithm
+OWNX--: section describes our novel double loop construction positive definite matrices
+OWNX--: section extends construction computing least squares solution general linear systems
+OWNX--: we provide experimental results deploying our construction linear detection context section
+OWNX--: we conclude section

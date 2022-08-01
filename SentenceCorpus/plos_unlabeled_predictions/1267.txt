@@ -1,0 +1,36 @@
+MISC--: understanding principles governing axonal dendritic branching essential unravelling functionality single neurons way they connect
+MISC--: nevertheless no formalism yet been described capture general features neuronal branching
+OWNX--: here we propose formalism derived expression dendritic arborizations locally optimized graphs
+OWNX--: inspired ram n y cajal s laws conservation cytoplasm conduction time neural circuitry we show this graphical representation used optimize variables
+CONT--: this approach allows us generate synthetic branching geometries replicate morphological features any tested neuron
+MISC--: essential structure neuronal tree thereby captured density profile its spanning field single parameter balancing factor weighing costs material conduction time
+MISC--: this balancing factor determines neuron s electrotonic compartmentalization
+MISC--: additions this rule when required construction process directly attributed developmental processes neuron s computational role within its neural circuit
+MISC--: simulations presented here implemented open source software package trees toolbox provides general set tools analyzing manipulating generating dendritic structure including tool create synthetic members any particular cell group approach model based supervised automatic morphological reconstruction fluorescent image stacks
+OWNX--: approaches provide new insights into constraints governing dendritic architectures
+MISC--: they also provide novel framework modelling analyzing neuronal branching structures constructing realistic synthetic neural networks
+MISC--: neuronal circuits composed large variety branched structures axons dendrites forming highly entangled web reminiscent stochastic fractal citation
+MISC--: despite this apparent chaos more than century ago ram n y cajal was able extract order this neuroanatomical complexity formulating fundamental anatomical principles nerve cell organization citation
+OWNX--: cajal described three biological laws neuronal architecture optimization principles conservation space cytoplasm conduction time neural circuitry
+OWNX--: principles helped him classify his observations allowed him postulate wide variety theories functionality directionality signal flow various brain areas
+MISC--: meantime many ideas been substantiated applying more rigorous statistical analysis circuitry connectivity considerations well simple wire packing constraints been shown determine statistics dendritic morphology citation citation
+MISC--: also been shown mathematically specific organization architecture many parts brain reflect selection pressure reduce wiring costs circuitry citation citation
+MISC--: parallel development compartmental modelling techniques based theories wilfrid rall highlighted importance neuron s precise branching morphology its electrophysiological properties citation shown dendrites play important role computations performed inputs cell citation citation
+MISC--: fact requirements highly selective connectivity citation citation coherent topographic mapping sophisticated computation signal compartmentalization at level single cell citation network could all contribute this observed intricacy brain wiring
+MISC--: two lines investigation raise question whether computation plays determining role shaping morphological appearance neuronal branching structures
+MISC--: alternatively simple laws material conduction time preservation ram n y cajal could more influence
+MISC--: using computational techniques become possible construct synthetic neuronal structures silico governed simulation physical biological constraints citation citation citation
+OWNX--: two recent papers citation citation we derived growth algorithm building dendritic arborisations following closely constraints previously described ram n y cajal
+CONT--: algorithm builds tree structures minimize total amount wiring path root all points tree corresponding material conduction time conservation respectively
+OWNX--: synthetic insect dendrite morphologies were faithfully reproduced terms their visual appearance their branching parameters this way
+OWNX--: here we explore algorithm s general applicability its potential describe any type dendritic branching
+OWNX--: if algorithm sufficient accurately mimic essential structure neuronal circuitry we resolve relative importance computation wiring constraints shaping neuronal morphology
+OWNX--: we then claim ram n y cajal s laws sufficient shaping neuronal morphology
+MISC--: specific computation will then only play subordinate role determining neuron s branching pattern
+OWNX--: we show here while cajal s laws do represent strict constraint neuronal branching neuronal morphology certain freedom operate within constraints
+MISC--: firstly adjusting balance between two wiring costs dendrite efficiently set its electrotonic compartmentalization quantity attributable computation
+MISC--: secondly density profile spanning field dendrite grows determines its shape dramatically
+MISC--: thirdly few weaker constraints suppression multifurcations addition spatial jitter sequential growth sub regions dendrite helpful reproducing dendritic branching patterns particular preparations
+MISC--: additional constraints might shed light further functional computational developmental network determinants certain dendritic structures more will follow when applying our method many more preparations
+OWNX--: moreover simple principles presented this study used efficiently edit visualize analyze neuronal trees
+MISC--: finally approaches allow one generate highly realistic synthetic branched structures automatically reconstruct neuronal branching microscopy image stacks

@@ -1,0 +1,32 @@
+MISC--: numerous studies noted evolution new enzymatic specificities accompanied loss protein s thermodynamic stability thus suggesting tradeoff between acquisition new enzymatic functions stability
+MISC--: however since most mutations destabilizing one should ask how destabilizing mutations confer new altered enzymatic functions relative all other mutations
+OWNX--: we applied g computations foldx analyze effects mutations arose directed evolution different enzymes
+OWNX--: stability effects location type function altering mutations were compared g changes arising all possible point mutations same enzymes
+OWNX--: we found mutations modulate enzymatic functions mostly destabilizing almost destabilizing average mutation enzymes
+MISC--: although their stability effects not dramatic key catalytic residues mutations modify substrate binding pockets thus mediate new enzymatic specificities place larger stability burden than surface mutations underline neutral non adaptive evolutionary changes
+MISC--: how destabilizing effects functional mutations balanced enable adaptation
+MISC--: our analysis also indicated many mutations appear directed evolution variants no obvious role new function exert stabilizing effects may compensate destabilizing effects crucial function altering mutations
+MISC--: thus evolution new enzymatic activities both nature laboratory dependent compensatory stabilizing effect apparently silent mutations regions protein irrelevant its function
+MISC--: exception unstructured protein domains integrity protein s structure function largely dependent its thermodynamic stability
+MISC--: evolutionary processes they neutral adaptive involve acquisition mutations may affect protein function stability
+MISC--: example mutation endows desirable new function but severely undermines stability will not become fixed
+MISC--: relationship between mutational effects function stability therefore crucial our understanding not only evolutionary dynamics proteins citation citation but also engineering designing evolving novel enzymes laboratory citation citation
+MISC--: stability function tradeoffs became originally evident enzymes particularly structural tension created arrangement catalytic residues active sites
+MISC--: point view overall protein stability active site organization inherently unfavorable number reasons
+MISC--: functional residues generally polar charged embedded hydrophobic clefts citation sometimes proximal like charges
+MISC--: key catalytic residues often possess unfavorable backbone angles citation citation
+MISC--: consequently substitution enzyme s key catalytic side chains dramatically increase stability whilst obviously sacrificing activity citation citation
+MISC--: observations led generally accepted principle stability function tradeoffs citation citation was later extended tradeoffs between new functions stability citation
+OWNX--: however discussed below we surmise there exists fundamental difference between mutations key catalytic residues relate well established stability function tradeoff mutations mediate evolutionary divergence new functions
+MISC--: enzymes evolve new functions via mutations alter substrate specificity typically increasing affinity rates weak promiscuous substrates
+MISC--: changes involve mutational adjustments active site its periphery even second third shell residues surround while maintaining key catalytic residues intact
+MISC--: shown below oppose mutations key catalytic residues typically involve exchange into alanine charged polar residue within hydrophobic surroundings type location new function mutations far more diverse
+MISC--: initially observed wang et al citation citation most mutations confer new functions been proven destabilizing
+MISC--: however generality stability function tradeoffs regard new functions should addressed view fact regardless their relevance function most mutations destabilizing citation citation citation
+MISC--: indeed derivation g distributions all possible mutations series globular proteins using experimentally validated foldx algorithm citation citation indicated about percent mutations destabilizing percent significantly destabilizing citation
+MISC--: other hand mutations characterize neutral non adaptive changes occur primarily surface certainly at first steps sequence divergence citation this subgroup mutations much less destabilizing average g kcal mol citation
+CONT--: thus better understanding how emergence new functions trades off protein stability requires comparison mutations confer new protein functions all other possible mutations protein well mutations characterize neutral non adaptive changes
+OWNX--: this mind we investigated large set mutations were found enzymes acquired new substrate specificities directed evolution experiments clinical isolates
+OWNX--: we applied foldx compute g values mutations compared type location g values mutations all possible point mutations same proteins
+MISC--: while realizing foldx values prediction limited accuracy they do enable examination distributions g values large set proteins mutations whole predictions show reasonable correlation experimental data citation
+OWNX--: thus whilst values individual mutations considerably deviate experimental values trends we observed likely relevant citation

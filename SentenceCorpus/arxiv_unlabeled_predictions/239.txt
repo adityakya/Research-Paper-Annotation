@@ -1,0 +1,60 @@
+MISC--: catalogs periodic variable stars contain large numbers periodic light curves photometric time series data astrophysics domain
+OWNX--: separating anomalous objects well known classes important step towards discovery new classes astronomical objects
+MISC--: most anomaly detection methods time series data assume either single continuous time series set time series whose periods aligned
+CONT--: light curve data precludes use methods periods any given pair light curves may out sync
+MISC--: one may use existing anomaly detection method if prior similarity calculation one performs costly act aligning two light curves operation scales poorly massive data sets
+OWNX--: this paper presents pcad unsupervised anomaly detection method large sets unsynchronized periodic time series data outputs ranked list both global local anomalies
+MISC--: calculates its anomaly score each light curve relation set centroids produced modified k means clustering algorithm
+OWNX--: our method able scale large data sets through use sampling
+OWNX--: we validate our method both light curve data other time series data sets
+OWNX--: we demonstrate its effectiveness at finding known anomalies discuss effect sample size number centroids our results
+OWNX--: we compare our method naive solutions existing time series anomaly detection methods unphased data show pcad s reported anomalies comparable better than all other methods
+OWNX--: finally astrophysicists our team verified pcad finds true anomalies might indicative novel astrophysical phenomena keywords anomaly detection time series data
+MISC--: quasars citation radio pulsars citation cosmic gamma ray bursts citation were all discovered alert scientists who while examining data primary purpose encountered aberrant phenomena whose further study led legendary discoveries
+OWNX--: discoveries were possible era when scientists had close connection their data
+MISC--: advent massive data sets renders unexpected discoveries through manual inspection improbable if not impossible
+OWNX--: fortunately automated anomaly detection programs may resurrect this mode discovery identify atypical phenomena indicative novel astronomical objects our research applies anomaly detection photometric time series data called light curve data
+MISC--: our specific application find anomalies sets light curves periodic variable stars
+MISC--: most stars like our own sun almost constant luminosity whereas variable stars undergo significant variations
+MISC--: there over cataloged variable stars more being discovered
+MISC--: general catalogue variable stars citation lists known suspected variable stars our own galaxy well other galaxies
+MISC--: periodic variable stars period star established
+MISC--: common types periodic variable stars include cepheid eclipsing binaries rr lyrae details found citation
+MISC--: study periodic variable stars great importance astronomy
+MISC--: example study cepheids yielded most valuable method determining hubble constant study binary stars enabled discovery star s true mass
+MISC--: finding new class subclass variable stars will tremendous value
+OWNX--: figure shows typical light curve each star class before after we perform our pre processing techniques described section
+MISC--: y axis measures magnitude brightness star
+OWNX--: magnitude inversely proportional brightness observation thus y axis plotted descending values
+MISC--: x axis measures folded time
+MISC--: folded light curve light curve where all periods mapped onto single period why there may multiple points y axis single time point
+OWNX--: we describe light curves process folding more detail section our research motivated challenges inherent performing anomaly detection large sets periodic variable light curves
+MISC--: several challenges common many time series data sets
+CONT--: there large number time points each light curve high dimensionality low signal noise ratio voluminous amounts data
+MISC--: indeed new surveys panoramic survey telescope rapid response system pan starrs capacity produce light curves billions stars citation
+MISC--: any technique developed light curves must scale very large data sets
+MISC--: unique challenge working light curve data periods light curves not synchronized because each generated different source star
+MISC--: understand why phasing poses challenge anomaly detection this domain consider figure illustrates how two similar light curves may appear dissimilar under similarity measure like euclidean distance if phase adjustment not performed
+OWNX--: top panel shows two similar light curves whose phases not synchronized
+MISC--: middle panel shows square correlation plotted function phase adjustment
+MISC--: maximum similarity occurs at phase shift approximately
+OWNX--: bottom panel shows two light curves after dotted light curve shifted this amount
+OWNX--: we define optimal phase shift between two light curves shift yields maximum similarity value
+MISC--: this phasing problem presents challenge both general anomaly detection techniques those developed specifically time series
+CONT--: general anomaly detection method even metric works unphased data may not work out box
+CONT--: regard time series anomaly detection techniques our task finding anomalies symbol distinct time series differs most work assumes single contiguous time series not necessarily periodic anomalous sub regions sought
+OWNX--: pcad our solution problem anomaly detection large sets unsynchronized periodic time series
+MISC--: heart pcad modified k means clustering algorithm called phased k means pk means runs sampling data
+MISC--: pk means differs k means re phases each time series prior similarity calculation updates centroids rephased curves
+OWNX--: because pk means modification k means we provide proof pk means does not break k means s convergence properties
+MISC--: pk means subroutine runs offline sampling data
+MISC--: use sampling enables pcad scale large data sets
+MISC--: online portion pcad calculation anomaly score each time series set centroids produced offline pk means
+MISC--: this operation linear size data set
+MISC--: another advantage pcad its flexibility discover two types anomalies local global
+OWNX--: we define terms local global anomaly provide scoring methods both
+MISC--: once each time series assigned anomaly score pcad ranks time series accordingly outputs top symbol review
+OWNX--: our knowledge pcad only anomaly detection method developed specifically unsynchronized time series data output both global local outliers
+CONT--: our paper presents empirical evidence four data sets pcad effectively finds known anomalies produces better ranking anomalies when compared naive solutions other state art anomaly detection methods time series
+OWNX--: we discuss effect sample size parameter symbol used pk means anomaly detection results show experimental results light curve data unknown number anomalies
+OWNX--: our paper concludes astrophysicists s discussion significance anomalies found pcad

@@ -1,0 +1,43 @@
+OWNX--: we present classification methodology jointly assigns decision maker best fitting decision strategy set choice data well best fitting stochastic specification decision strategy
+OWNX--: our methodology utilizes normalized maximum likelihood model selection criterion compare multiple possibly non nested stochastic specifications candidate strategies
+OWNX--: addition single strategy error stochastic specifications we consider mixture specifications i e strategies comprised probability distribution over multiple strategies
+OWNX--: this way our approach generalizes classification framework broder schiffer citation
+OWNX--: we apply our methodology existing dataset find some decision makers best fit single strategy varying levels error while others best described using mixture specification over multiple strategies
+MISC--: within decision making literature there exist many interesting decision theories both normative descriptive defined deterministically
+MISC--: theories hereafter termed decision strategies not defined terms random variables therefore do not explicitly account fluctuations choice decision maker dm
+MISC--: yet many researchers observed dms not deterministically consistent their observed choices across repeated comparisons same stimuli set choice type citation
+MISC--: this variability choice does not disappear over repeated experimental sessions same subject citation nor attributed entirely random responses learning experience effects citation
+MISC--: many researchers suggested different methods incorporating stochastic specification deterministic decision strategies accommodate variability choice
+OWNX--: perhaps simplest stochastic specification add fixed level error dm s responses
+MISC--: this trembling hand stochastic specification assumes dm follows single strategy imperfectly some probability incorrectly selecting choice alternative not truly preferred citation
+MISC--: other specifications class thurstonian fechnerian models treat preference deterministic model choice adding random variable representing noise citation
+MISC--: another class stochastic specifications those incorporate multiple decision strategies choice modeled sampling process over set strategies citation
+MISC--: there course many variations combinations above specifications well citation
+MISC--: further complicating matters choice stochastic specification use not innocuous one
+MISC--: hey citation recently argued different specifications lead different conclusions same set decision strategies urged we should not silent about noise when evaluating decision strategies
+AIMX--: this article we present new strategy classification framework evaluates set candidate strategies over multiple types stochastic specification
+OWNX--: we consider single strategy error specifications well probabilistic mixtures strategies using modern model selection criteria directly compare different models one another retaining optimal strategy specification pair set observed choice data
+OWNX--: thus our framework assigns not only best fitting strategyies dm s choices but also best fitting stochastic specification
+AIMX--: we illustrate our classification framework simulation study considers three different decision strategies over four types stochastic specification
+OWNX--: we also apply our framework existing empirical data set collected test transitivity preference axiom citation
+OWNX--: throughout this article we will concerned classification strategies dms using outcome based choice data perspective often referred comparative model fitting
+OWNX--: how one carry out strategy classification via choice data
+OWNX--: at most basic level researcher could classify strategies simply counting number times strategy was accordance observed data thereby ignoring problem stochastic specification altogether citation
+MISC--: however this accordance rate approach lead significant biases strategy classification citation
+MISC--: hilbig citation demonstrates how practices lead theoretical confoundings uninterpretable data
+MISC--: regenwetter et al citation provides critique related practice evaluating strategies modal pair wise majority citation
+MISC--: more recent approaches leveraged statistical models carry out strategy classification
+MISC--: broder schiffer citation developed methodology built binomial multinomial statistical framework models dms utilizing single strategy some fixed probability making error
+MISC--: under this framework strategy classification likelihood based carried out calculating comparing bayes factor scores citation
+MISC--: this basic approach been successfully applied memory based multiattribute choice citation decision making under risk paradigms citation
+MISC--: glockner citation generalizes this approach incorporating any number additional measures decision time confidence data into likelihood function allow theories identical predictions at choice level distinguished see also bergert nosofsky citation glockner citation
+MISC--: approaches share similar assumption all dms utilize same stochastic specification
+MISC--: tackle problem dms following different stochastic specifications loomes et al citation adapted non nested likelihood ratio test citation evaluate set candidate strategies under various stochastic specifications
+MISC--: comprehensive set studies they found dms were best fit variety stochastic specifications mixture specification strategies consistent expected utility yielding excellent fit many dms
+MISC--: non nested likelihood ratio test however asymptotic test may lack statistical power when applied small samples citation
+MISC--: nor does non nested likelihood ratio test provide explicit measure model complexity
+OWNX--: this article we generalize strategy classification framework broder schiffer citation considering multiple stochastic specifications decision strategies including probabilistic mixtures multiple strategies
+OWNX--: while many specifications possible under our framework we will restrict ourselves three specifications described table number applications this article
+OWNX--: specifications were chosen their theoretical relevance tversky data set section number well showcase generality our approach
+OWNX--: we apply latest operationalization minimum description length principle normalized maximum likelihood carry out model selection among all strategy specification pairs citation
+MISC--: normalized maximum likelihood information theoretic model selection criteria evaluates models based upon ratio model s goodness fit its complexity adhering occam s razor favoring simplest model provides good account data

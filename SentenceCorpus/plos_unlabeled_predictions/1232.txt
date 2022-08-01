@@ -1,0 +1,27 @@
+MISC--: g protein coupled receptors largest family proteins human genome involved many complex signal transduction pathways typically activated orthosteric ligand binding subject allosteric modulation
+MISC--: dopaminergic receptors belonging class family g protein coupled receptors known modulated sodium ions allosteric binding site although details sodium effects receptor not yet been described
+OWNX--: effort understand effects we performed microsecond scale all atom molecular dynamics simulations dopaminergic d receptor finding sodium ions enter receptor extracellular side bind at deep allosteric site
+MISC--: remarkably presence sodium ion at this allosteric site induces conformational change rotamer toggle switch trp locks conformation identical one found partially inactive state crystallized human adrenergic receptor
+MISC--: this study provides detailed quantitative information about binding sodium ions d receptor reports possibly important sodium induced conformational change modulation d receptor function
+MISC--: g protein coupled receptors highly sophisticated signal transduction machines able respond extracellular stimulus activating diverse intracellular signaling pathways
+MISC--: recent research this field unveiling complexity mechanisms involved far being understood detail
+MISC--: among mechanisms allosteric modulation plays central role fine tuning signaling
+CONT--: unfortunately experimental study allosteric regulatory processes gpcrs difficult because contemporary techniques unable provide structural information sufficient spatial resolution time scales describing specific atomic level aspects allosteric interactions
+MISC--: this scenario computational methods like molecular dynamics simulation used provide unique insight into some elusive aspects problem meeting aforementioned requirements terms both spatial resolution time scale needed
+MISC--: present work describes application long md simulations exploring effect sodium ions class gpcrs mechanism involved their role allosteric modulators
+MISC--: dopaminergic receptors gpcrs belonging class family been used drug targets treatment diverse central nervous system disorders
+MISC--: allosteric modulation dopaminergic gpcr sodium ions been extensively studied experimentally citation citation confirmed receptor subtypes d d
+MISC--: been proposed sodium ions bind allosteric site transmembrane region located below orthosteric binding site
+MISC--: high conservation asp among gpcrs suggests its structural importance gpcr function
+OWNX--: presumably negatively charged carboxylic group asp interacts via electrostatic interaction positively charged sodium ion
+MISC--: indeed introduction uncharged residues position produces sodium insensitivity d d citation citation demonstrating presence negative charge allosteric site essential maintaining sodium sensitivity
+MISC--: neve et al citation proposed sodium binding site pyramidal hydrogen bonding network formed asp ser asn ser sodium ion occupying centre
+MISC--: however spite experimental information available molecular mechanism allosterically sodium induced modulation gpcr activation remains unknown
+OWNX--: effort elucidate mechanism sodium induced effect we computationally investigated mobility sodium ions sodium sensitive d receptor
+OWNX--: all atom molecular dynamics simulations d receptor were performed analyze more than s simulation data
+MISC--: this analysis comprises single s long simulation one hundred ns simulations biased metadynamics simulations compute accurate two dimensional free energy profiles citation citation
+MISC--: simulation sodium ion s trajectory into d receptor reveals sodium ion entrance extracellular side receptor followed its threading into pyramidal hydrogen bonding network citation near allosteric binding site deep inside receptor
+OWNX--: most remarkably analysis all trajectories showed correlation between position sodium conformation trp side chain
+MISC--: this residue part so called rotamer switch set residues known undergo major conformational change upon gpcr activation citation citation citation
+MISC--: kobilka co workers propose based experimental data conformational state rotamer switch trp affected ligands orthosteric binding site linked particular receptor response citation citation
+MISC--: our study shows dopaminergic receptors conformational state rotamer switch trp also modulated allosteric site sodium ions locking trp conformational state identical partially inactive structure experimentally derived adrenergic receptor citation

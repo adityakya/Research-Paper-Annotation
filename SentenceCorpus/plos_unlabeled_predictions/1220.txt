@@ -1,0 +1,29 @@
+OWNX--: cerebellar purkinje cells display complex intrinsic dynamics
+MISC--: they fire spontaneously exhibit bistability via mutual network interactions involved generation high frequency oscillations travelling waves activity
+OWNX--: probe dynamical properties purkinje cells we measured their phase response curves
+OWNX--: prcs quantify change spike phase caused stimulus function its temporal position within interspike interval widely used predict neuronal responses more complex stimulus patterns
+MISC--: significant variability interspike interval during spontaneous firing lead prcs low signal noise ratio requiring averaging over thousands trials
+OWNX--: we show using electrophysiological experiments simulations prc calculated traditional way sampling interspike interval brief current pulses biased
+OWNX--: we introduce corrected approach calculating prcs eliminates this bias
+OWNX--: using our new approach we show purkinje cell prcs change qualitatively depending firing frequency cell
+OWNX--: at high firing rates purkinje cells exhibit single peaked monophasic prcs
+OWNX--: surprisingly at low firing rates purkinje cell prcs largely independent phase resembling prcs ideal non leaky integrate fire neurons
+OWNX--: results indicate purkinje cells act perfect integrators at low firing rates integration mode purkinje cells depends their firing rate
+MISC--: cerebellar purkinje cells exhibit wide range dynamical phenomena
+MISC--: they intrinsic neural oscillators firing spontaneously highly rhythmically absence synaptic input at rate hz citation citation
+MISC--: they also exhibit intrinsic bistability citation citation influences their responses sensory stimulation citation
+MISC--: addition interactions between spontaneously firing purkinje cells result waves activity travelling down cerebellar folia citation high frequency oscillations citation may contribute generation precise temporal patterns cerebellar network citation
+MISC--: hence firing purkinje cells highly time state dependent thus they represent excellent targets dynamical systems analysis
+OWNX--: phase response curve powerful tool study neuronal dynamics at cellular level
+MISC--: prc describes effect brief perturbation firing phase neuron used predict response neuron more complex stimulation patterns citation citation
+MISC--: shape prc linked type neuronal excitability citation citation oscillatory stability citation network synchronization properties citation citation
+MISC--: studying purkinje cell prcs therefore essential step explore their dynamic repertoire probe their biophysical mechanisms construct models purkinje cells determine their role information processing at network level
+MISC--: prcs obtained directly perturbing membrane potential short square current pulses citation citation synaptic conductance pulses citation citation citation via indirect methods citation citation
+OWNX--: using direct method infinitesimal prcs obtained repeatedly injecting brief current pulses while neurons firing action potentials
+AIMX--: phase phase perturbation measured using ap immediately preceding current pulse reference we refer prcs traditional prcs throughout this paper
+AIMX--: we show using electrophysiological experiments simulations interspike interval variability present purkinje cells introduces systematic bias this traditional calculation prc
+OWNX--: bias results loss causality caused jitter aps surrounding current pulse gives rise empty triangular region prc plot we call bermuda triangle
+OWNX--: we introduce method calculating prc corrects this bias using all spikes spike train reference one at time
+OWNX--: we refer prcs obtained this method corrected prcs
+AIMX--: note our study both traditional corrected prcs calculated using same experimental data perturbation firing purkinje cells brief square current pulses
+OWNX--: using corrected method we show shape purkinje cell prc changes fundamentally depending firing rate neuron

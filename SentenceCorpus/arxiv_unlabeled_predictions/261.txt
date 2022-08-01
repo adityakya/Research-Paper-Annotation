@@ -1,0 +1,17 @@
+AIMX--: we present bayesum bayesian summarization model sentence extraction query focused summarization bayesum leverages common case multiple documents relevant single query
+MISC--: using documents reinforcement query terms bayesum not afflicted paucity information short queries
+OWNX--: we show approximate inference bayesum possible large data sets results state art summarization system
+AIMX--: furthermore we show how bayesum understood justified query expansion technique language modeling ir framework
+MISC--: we describe bayesum algorithm performing query focused summarization common case there many relevant documents given query
+BASE--: given query collection relevant documents our algorithm functions asking itself following question what about relevant documents differentiates them non relevant documents bayesum seen providing statistical formulation this exact question
+MISC--: key requirement bayesum multiple relevant documents known query question
+OWNX--: this not severe limitation
+MISC--: two well studied problems de facto standard
+OWNX--: standard multidocument summarization without query we access known relevant documents some user need
+MISC--: similarly case web search application underlying ir engine will retrieve multiple presumably relevant documents given query
+MISC--: both tasks bayesum performs well even when underlying retrieval model noisy
+MISC--: idea leveraging known relevant documents known query expansion information retrieval community where been shown successful ad hoc retrieval tasks
+OWNX--: viewed perspective ir our work interpreted two ways
+MISC--: first seen application query expansion summarization task ir terminology passage retrieval see citation
+MISC--: second more importantly seen method query expansion non ad hoc manner
+MISC--: bayesum statistically justified query expansion method language modeling ir framework citation

@@ -1,0 +1,34 @@
+MISC--: we consider least square regression problem regularization block symbol norm ie sum euclidean norms over spaces dimensions larger than one
+MISC--: this problem referred group lasso extends usual regularization symbol norm where all spaces dimension one where commonly referred lasso
+AIMX--: this paper we study asymptotic model consistency group lasso
+OWNX--: we derive necessary sufficient conditions consistency group lasso under practical assumptions model misspecification
+MISC--: when linear predictors euclidean norms replaced functions reproducing kernel hilbert norms problem usually referred multiple kernel learning commonly used learning heterogeneous data sources non linear variable selection
+OWNX--: using tools functional analysis particular covariance operators we extend consistency results this infinite dimensional case also propose adaptive scheme obtain consistent model estimate even when necessary condition required non adaptive scheme not satisfied
+MISC--: regularization emerged dominant theme machine learning statistics
+OWNX--: provides intuitive principled tool learning high dimensional data
+MISC--: regularization squared euclidean norms squared hilbertian norms been thoroughly studied various settings approximation theory statistics leading efficient practical algorithms based linear algebra very general theoretical consistency results citation
+MISC--: recent years regularization non hilbertian norms generated considerable interest linear supervised learning where goal predict response linear function covariates particular regularization symbol norm equal sum absolute values method commonly referred lasso citation allows perform variable selection
+MISC--: however regularization non hilbertian norms cannot solved empirically simple linear algebra instead leads general convex optimization problems much early effort been dedicated algorithms solve optimization problem efficiently
+OWNX--: particular lars algorithm citation allows find entire regularization path i e set solutions all values regularization parameters at cost single matrix inversion
+OWNX--: consequence optimality conditions regularization symbol norm leads sparse solutions i e loading vectors many zeros
+OWNX--: recent works citation looked precisely at model consistency lasso i e if we know data were generated sparse loading vector does lasso actually recover when number observed data points grows
+MISC--: case fixed number covariates lasso does recover sparsity pattern if only if certain simple condition generating covariance matrices verified citation
+MISC--: particular low correlation settings lasso indeed consistent
+MISC--: however presence strong correlations lasso cannot consistent shedding light potential problems procedures variable selection
+MISC--: adaptive versions where data dependent weights added symbol norm then allow keep consistency all situations citation
+OWNX--: related lasso type procedure group lasso where covariates assumed clustered groups instead summing absolute values each individual loading sum euclidean norms loadings each group used
+MISC--: intuitively this should drive all weights one group zero together thus lead group selection citation
+OWNX--: mysec grouplasso we extend consistency results lasso group lasso showing similar correlation conditions necessary sufficient conditions consistency
+OWNX--: passage groups size one groups larger sizes leads however slightly weaker result we not get single necessary sufficient condition mysec refined we show stronger result similar lasso not true soon one group dimension larger than one
+OWNX--: also our proofs we relax assumptions usually made consistency results i e model completely well specified conditional expectation response linear covariates constant conditional variance
+AIMX--: context misspecification common situation when applying methods ones presented this paper we simply prove convergence best linear predictor assumed sparse both terms loading vectors sparsity patterns
+MISC--: group lasso essentially replaces groups size one groups size larger than one
+OWNX--: natural this context allow size each group grow unbounded i e replace sum euclidean norms sum appropriate hilbertian norms
+MISC--: when hilbert spaces reproducing kernel hilbert spaces rkhs this procedure turns out equivalent learn best convex combination set basis kernels where each kernel corresponds one hilbertian norm used regularization citation
+MISC--: this framework referred multiple kernel learning citation applications kernel selection data fusion heterogeneous data sources non linear variable selection citation
+AIMX--: this latter case multiple kernel learning exactly seen variable selection generalized additive model citation
+OWNX--: we extend consistency results group lasso this non parametric case using covariance operators appropriate notions functional analysis
+MISC--: notions allow carry out analysis entirely primal input space while algorithm work dual feature space avoid infinite dimensional optimization
+AIMX--: throughout paper we will always go back forth between primal dual formulations primal formulation analysis dual formulation algorithms
+AIMX--: paper organized follows mysec grouplasso we present consistency results group lasso while mysec mklsec we extend hilbert spaces
+OWNX--: finally we present adaptive schemes mysec adaptive illustrate our set results simulations synthetic examples mysec simulations

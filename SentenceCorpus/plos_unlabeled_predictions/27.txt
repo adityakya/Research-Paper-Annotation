@@ -1,0 +1,57 @@
+MISC--: changes synaptic connection strengths between neurons believed play role memory formation
+OWNX--: important mechanism changing synaptic strength through movement neurotransmitter receptors regulatory proteins synapse
+MISC--: several activity triggered biochemical events control movements
+AIMX--: here we use computer models explore how putative memory related changes stabilised long after initial trigger beyond lifetime synaptic molecules
+OWNX--: we base our models published biochemical data experiments activity dependent movement glutamate receptor ampar calcium dependent kinase camkii
+OWNX--: we find both molecules participate distinct bistable switches
+OWNX--: simulated switches effective long periods despite molecular turnover biochemical fluctuations arising small numbers molecules synapse
+MISC--: ampar switch arises novel self recruitment process where presence sufficient receptors biases receptor movement cycle insert still more receptors into synapse
+MISC--: camkii switch arises autophosphorylation kinase
+MISC--: switches may function tightly coupled manner relatively independently
+OWNX--: latter case leads multiple stable states synapse
+AIMX--: we propose similar self recruitment cycles may important maintaining levels many molecules undergo regulated movement may lead combinatorial possible stable states systems like synapse
+MISC--: long term storage neuronal information believed occur through alterations synaptic efficacy
+MISC--: many mechanisms been identified changes synaptic strength including modulation neurotransmitter release conductivity changes receptors changes numbers receptors active synapses structural alterations synapse
+MISC--: among insertion glutamate receptors alpha amino hydroxy methyl isoxazole propionate subtype into postsynaptic membrane modulation receptor conductance phosphorylation key events modulating synaptic efficacy
+OWNX--: fundamental issue challenges all mechanisms how they last lifetime
+OWNX--: synaptic memories decay at least three ways turnover diffusive exchange stochasticity
+MISC--: turnover major postsynaptic molecules ranges periods few minutes few days may further enhanced synaptic activity citation
+MISC--: one solution loss memory due molecular turnover concept self sustaining molecular switches citation
+MISC--: typically involve some form molecular feedback giving rise chemical systems stably settle into one two states
+MISC--: two state bistable systems store information binary manner
+MISC--: provided there steady supply replacement molecules molecular turnover tolerated since newly synthesised na ve molecules become entrained current state system
+MISC--: some current proposals bistable synaptic switches include calcium calmodulin type ii kinase hypothesis citation mitogen activated protein kinase feedback loop citation citation recently mammalian target rapamycin protein synthesis loop citation
+MISC--: camkii model been posed most detail most complete structural correlates
+MISC--: according this model camkii at synapse undergo autophosphorylation leads activation kinase
+MISC--: activated kinase molecules catalyze phosphorylation yet more camkii molecules resulting self sustaining cycle
+OWNX--: mapk feedback loop model also involves self sustaining cycle but this case several intermediate molecules participate loop
+MISC--: protein synthesis loop model based observation local protein translation machinery associated synapses
+MISC--: messenger rna several proteins including ribosomes themselves also present
+OWNX--: thus high local protein synthesis creates machinery maintaining high levels synthesis
+MISC--: this protein synthetic loop regulated mtor
+OWNX--: second mechanism decay synaptic memory diffusive exchange synaptic proteins leading washout specific states synapse
+MISC--: extrapolations free diffusion constants suggest diffusive exchange between synaptic spine dendrite likely rapid under s even proteins citation
+MISC--: postsynaptic density elaborate cytoskeletal signalling complex provides anchors synaptic proteins close region presynaptic neurotransmitter release
+MISC--: this anchoring solves problem free diffusion washout active molecules but introduces problem regulating insertion molecules into correct locations
+MISC--: there considerable evidence targeted trafficking molecules psd
+MISC--: one trafficking cycle insertion removal glutamate receptors ampa subtype into synaptic membrane citation
+MISC--: striking physiologically important example receptor insertion conversion silent synapses lacking ampa receptors into active synapses full complement receptors
+OWNX--: delivery ampars synaptic membrane involves two streams constitutive pathway involving glutamate receptor heteromers activity dependent pathway involving glur citation
+MISC--: based current evidence activity dependent insertion glur into synaptic membrane stimulated phosphorylation ser citation citation
+MISC--: there also evidence phosphorylation being implicated synaptic plasticity citation citation
+MISC--: camkii also translocates psd upon calmodulin binding stimulation citation
+MISC--: thus addition their known involvement synaptic plasticity ampars camkii mechanisms activity dependent recruitment psd manner acts counter washout processes citation
+OWNX--: this combination attributes makes molecules interesting candidates analysing molecular memory mechanisms
+MISC--: nevertheless over long term even anchoring events reversible additional processes must considered stability
+MISC--: third important obstacle stable memory formation biochemical stochasticity
+OWNX--: this causes uncertainty outcome biochemical reactions involving small numbers molecules
+MISC--: fluctuations severe at synapse where many important signalling molecules present low numbers less than molecules
+MISC--: typical synaptic volume fl citation there estimated five free ca ions
+MISC--: under stochastic conditions there finite probability spontaneous state flips bistable molecular switches citation citation
+MISC--: lifetime stable states depends both reaction rates number molecules
+MISC--: example proposed mapk switch does not fare well synaptic volumes spontaneously flips state time scale minutes citation
+OWNX--: nevertheless time estimates highly dependent assumptions about diffusion anchoring levels noise other synaptic pathways
+CONT--: putting themes together plausible synaptic memory mechanism might look like bistable molecular switch resistant turnover incorporates traffic molecules psd unlikely spontaneously flip state even when small synaptic molecule numbers taken into account
+AIMX--: this study we report novel glutamate receptor based switch emerges consideration its traffic satisfies criteria
+OWNX--: we also examine possible camkii switch context criteria
+OWNX--: finally we integrate switches explore how multiple synaptic states may arise citation

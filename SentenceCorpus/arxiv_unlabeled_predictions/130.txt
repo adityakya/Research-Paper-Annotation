@@ -1,0 +1,29 @@
+MISC--: statistical learning theory chiefly studies restricted hypothesis classes particularly those finite vapnik chervonenkis vc dimension
+MISC--: fundamental quantity interest sample complexity number samples required learn specified level accuracy
+OWNX--: here we consider learning over set all computable labeling functions
+OWNX--: since vc dimension infinite priori uniform bounds number samples impossible we let learning algorithm decide when seen sufficient samples learned
+OWNX--: we first show learning this setting indeed possible develop learning algorithm
+OWNX--: we then show however bounding sample complexity independently distribution impossible
+MISC--: notably this impossibility entirely due requirement learning algorithm computable not due statistical nature problem
+MISC--: suppose we trying learn difficult classification problem example determining whether given image contains human face whether mri image shows malignant tumor etc
+OWNX--: we may first try train simple model small neural network
+MISC--: if fails we may move other potentially more complex methods classification support vector machines different kernels techniques apply certain transformations data first etc
+MISC--: conventional statistical learning theory attempts bound number samples needed learn specified level accuracy each above models e g neural networks support vector machines
+MISC--: specifically enough bound vc dimension learning model determine number samples use citation
+CONT--: however if we allow ourselves change model then vc dimension overall learning algorithm not finite much statistical learning theory does not directly apply
+MISC--: accepting much time complexity model cannot priori bounded structural risk minimization citation explicitly considers hierarchy increasingly complex models
+AIMX--: alternative approach one we follow this paper simply consider single learning model includes all possible classification methods
+OWNX--: we consider unrestricted learning model consisting all computable classifiers
+MISC--: since vc dimension clearly infinite there no uniform bounds independent distribution target concept number samples needed learn accurately citation
+OWNX--: yet we still want guarantee desired level accuracy
+MISC--: rather than deciding number samples priori natural allow learning algorithm decide when seen sufficiently many labeled samples based training samples seen up now their labels
+OWNX--: since above learning model includes any practical classification scheme we term universal pac learning
+OWNX--: we first show there computable learning algorithm our universal setting
+OWNX--: then order obtain bounds number training samples would needed we consider measuring sample complexity learning algorithm function unknown correct labeling function i e target concept
+OWNX--: although correct labeling unknown this sample complexity measure could used compare learning algorithms speculatively if target labeling were learning algorithm symbol requires fewer samples than learning algorithm symbol
+MISC--: asking what largest sample size needed assuming target labeling function certain class we could compare sample complexity universal learner learner over restricted class e g finite vc dimension
+CONT--: however we prove impossible bound sample complexity any computable universal learning algorithm even function target concept
+MISC--: depending distribution any bound will exceeded arbitrarily high probability
+MISC--: impossibility distribution independent bound entirely due computability requirement
+OWNX--: indeed we show there uncomputable learning procedure we bound number samples queried function unknown target concept independently distribution
+MISC--: our results imply computable learning algorithms universal setting must waste samples sense requiring more samples than necessary statistical reasons alone

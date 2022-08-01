@@ -1,0 +1,29 @@
+OWNX--: arac family transcription factor mara activates genes escherichia coli chromosome resulting different levels resistance wide array antibiotics superoxides
+OWNX--: activation mara soxs rob regulon promoters occurs well defined order respect level mara however order activation does not parallel strength mara binding promoter sequences
+OWNX--: understand this lack correspondence we developed computational model transcriptional activation transcription factor either increases decreases rna polymerase binding either accelerates retards post binding events associated transcription initiation
+OWNX--: we used model analyze data characterizing mara regulation promoter activity
+OWNX--: model clearly explains lack correspondence between order activation mara dna affinity indicates order activation only predicted using information about strength full mara polymerase dna interaction
+MISC--: analysis further suggests mara activate without increasing polymerase binding activation even involve decrease polymerase binding opposite textbook model activation recruitment
+MISC--: findings consistent published chromatin immunoprecipitation assays interactions between polymerase e coli chromosome
+OWNX--: we find activation involving decreased polymerase binding yields lower latency gene regulation therefore might confer competitive advantage cells
+OWNX--: our model yields insights into requirements predicting order activation regulon enables us suggest activation might involve decrease polymerase binding we expect important theme gene regulation e coli beyond
+MISC--: transcription factors control cellular protein production binding dna changing frequency mrna transcripts produced
+CONT--: there hundreds transcription factors escherichia coli while most target only small number genes there several regulate expression ten more genes
+MISC--: taken together global transcription factors directly regulate more than half genes e coli their regulatory interactions yield important insights into organization genetic regulatory network citation citation citation
+MISC--: because they regulate so many genes global transcription factors also play large role controlling cellular behavior however insights into behavior currently limited lack quantitative information about how transcription factors differentially regulate target genes
+OWNX--: one important global transcription factor mara arac family protein activates genes escherichia coli chromosome resulting different levels resistance wide array antibiotics superoxides
+MISC--: effect mara at different promoters vary due changes detailed sequence dna binding site its distance orientation respect promoter citation citation
+OWNX--: variations influence order promoters respond increasing concentrations mara presumably important functional consequences e coli
+MISC--: characterize quantitative variations mara regulation at different promoters we recently placed expression mara under control laci repressor determined relationship between isopropyl d thiogalactopyranoside concentration intracellular concentration mara examined expression promoters regulon function activator concentration citation
+OWNX--: we found activation mara soxs rob regulon promoters occurs well defined order respect level mara enabling cells mount response commensurate level threat detected environment
+OWNX--: we also found only marrab soda micf promoters were saturated at highest level mara
+OWNX--: contrast commonly held assumption we found order activation does not parallel strength mara binding promoter sequences
+OWNX--: this finding suggested interactions between mara rna polymerase transcriptional machinery play important role determining order activation but data did not immediately reveal what nature interactions might at various promoters
+AIMX--: here we developed computational model promoter activity understand how interactions between mara polymerase activate transcription at marrab soda micf promoters we examined previously three promoters only ones exhibited saturation provides important constraint modeling
+MISC--: model was specifically designed compare strict recruitment model mara increases polymerase binding but does not increase rate post binding events citation citation more general model activator either increase decrease polymerase binding either increase decrease rate post binding events
+OWNX--: each promoter we evaluated agreement both strict recruitment model general model data at many points within physically reasonable region parameter space
+OWNX--: model successfully explains why order promoter activation does not parallel strength mara dna binding
+OWNX--: all promoters best fit general model was better than strict recruitment model
+MISC--: comparison strict recruitment model full analysis goodness fit landscape suggest mara does not increase polymerase binding but does increase rate post binding events at promoters
+OWNX--: moreover analysis micf promoter suggests mara activation involve decrease polymerase binding associated low latency gene regulation
+OWNX--: we discuss broader significance findings

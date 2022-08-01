@@ -1,0 +1,411 @@
+MISC--: this article treats problem learning dictionary providing sparse representations given signal class via symbol minimisation
+OWNX--: problem also seen factorising symbol matrix symbol training signals into symbol dictionary matrix symbol symbol coefficient matrix symbol sparse
+MISC--: exact question studied here when dictionary coefficient pair symbol recovered local minimum nonconvex symbol criterion input symbol
+OWNX--: first general dictionaries coefficient matrices algebraic conditions ensuring local identifiability derived then specialised case when dictionary basis
+OWNX--: finally assuming random bernoulli gaussian sparse model coefficient matrix shown sufficiently incoherent bases locally identifiable high probability
+MISC--: perhaps surprising result typically sufficient number training samples symbol grows up logarithmic factor only linearly signal dimension ie symbol contrast previous approaches requiring combinatorially many samples
+MISC--: many signal processing tasks denoising compression efficiently performed if one knows sparse representation signals interest
+MISC--: moreover huge body recent results sparse representations highlighted their impact inverse linear problems blind source separation localisation well compressed sampling starting point see eg citation any publications one will more likely than not find statement starting given dictionary symbol signal symbol having symbol sparse approximation representation symbol ldots points exactly remaining problem all applications sparse representations rely signal dictionary symbol sparse linear expansions built efficiently approximate signals class interest success heavily depends good fit between data class dictionary many signal classes good dictionaries time frequency time scale dictionaries known but new data classes may require construction new dictionaries fit new types data features
+MISC--: analytic construction dictionaries wavelets curvelets stems deep mathematical tools harmonic analysis
+CONT--: may however difficult time consuming develop complex mathematical theory each time new class data requires different type dictionary met
+OWNX--: alternative approach dictionary learning aims at infering dictionary symbol set training data symbol
+OWNX--: dictionary learning also known sparse coding potential industrialising sparse representation techniques new data classes this article treats theoretical dictionary learning problem expressed factorisation problem consists identifying symbol matrix symbol set symbol observed training vectors symbol knowing symbol symbol some unknown collection coefficient vectors symbol certain statistical properties considering extensive literature available sparse decomposition problem after early work citation surprisingly little work been dedicated theoretical dictionary learning so far
+MISC--: there exist several dictionary learning algorithms see eg citation but only recently people started consider also theoretical aspects problem
+MISC--: origins research into what now called dictionary learning found field independent component analysis ica citation
+MISC--: there many identifiability results available however rely asymptotic statistical properties under statistical independence non gaussianity assumptions contrast georgiev theis cichocki citation well aharon elad bruckstein citation described more geometric identifiability conditions sparse coefficients training data ideal overcomplete dictionary
+MISC--: yet conditions hold size symbol training set seems required grow exponentially fast number atoms symbol provably good identification algorithms combinatorial
+MISC--: moreover algorithms identifiability analysis not robust outliers i e training samples symbol where symbol fails sufficiently sparse
+AIMX--: applications other hand we concerned relatively large dimensional data e g symbol even symbol but limited availability training data symbol not much larger than say symbol well limited computational resources this article we study possibility designing provably good non combinatorial dictionary learning algorithms robust outliers limited availability training samples
+MISC--: inspired recent proofs good properties symbol minimisation sparse signal decomposition given dictionary we investigate properties symbol based dictionary learning citation
+MISC--: our ultimate goal described details section characterise properties set training samples symbol should satisfy guarantee ideal dictionary only local minimum symbol criterion opening up possibility replacing combinatorial learning algorithms efficient numerical descent techniques
+OWNX--: first step we investigate conditions under ideal dictionary local minimum symbol criterion main results first we describe proposed setting section characterise local minima symbol cost function section
+OWNX--: we discuss geometrical interpretation this characterisation section
+OWNX--: then using concentration measure we prove section perhaps surprising result when symbol if samples symbol typical draw bernoulli gaussian random distribution generate large proportion outliers then any sufficiently incoherent basis matrix symbol symbol local minimum cost function therefore locally identifiable
+OWNX--: constant symbol depends parameter bernoulli gaussian distribution drives sparsity training set this number training samples surprisingly small considering symbol training samples provide symbol real parameters while basis matrix symbol essentially parameterised symbol independent real parameters considered matrix identification setting should noted symbol not convex cost function
+OWNX--: admits several local minima hence local identifiability only implies upon good initial conditions numerical optimisation schemes performing symbol optimisation will recover desired matrix symbol
+OWNX--: however empirical experiments low dimension symbol shown section indicate typical draws bernoulli gaussian training samples symbol matrix symbol fact only local minimum criterion up natural indeterminacies problem column permutation
+MISC--: if this empirical observation could turned into theorem general dimension symbol under bernoulli gaussian sparse model this would imply typically symbol minimisation good identification principle b any decent symbol descent algorithm good identification algorithm
+MISC--: makros
+OWNX--: tex ustar root root newcommand dico mathbf phi newcommand atom varphi newcommand inn langle atom atom rangle newcommand ip rangle newcommand natoms k newcommand sparsity s newcommand ddim d newcommand good lambda newcommand bad overline good newcommand sensing mathbf psi newcommand satom psi newcommand ident mathbf i newcommand id mathbf i newcommand proj mathbf p newcommand q mathbf q newcommand gram mathbf g newcommand dx sigma diagonal matrix norms coefficients newcommand coeff sigma newcommand dynamic operatorname r newcommand psnr operatorname psnr newcommand samesim beta newcommand gwj goodj newcommand noise eta newcommand ie i e newcommand iid iid newcommand y y newcommand x x newcommand rownormx mathcal x newcommand eps varepsilon newcommand manifold mathcal d newcommand tangentspace t newcommand sph mathcal s newcommand pnorm q newcommand randsign xi def radius r mathbf psi psi mathbf m mathbf d mathbf v mathbf z mathbf delta mathbf newcommand ogroup mathcal o newcommand uclass mathcal b newcommand nsig n newcommand xbar bar x newcommand cost mathcal c newcommand null mathcal n newcommand nvec mathbf n newcommand epscover mathcal x newcommand u u newcommand err e newcommand diag operatorname diag newcommand signop operatorname sign newcommand sign operatorname sign newcommand trace operatorname trace newcommand b mathbf b newcommand n mathbb n newcommand r mathbb r newcommand z mathbb z newcommand c mathbb c renewcommand p mathbb p newcommand e mathbb e newcommand opnorm newcommand rec operatorname recovery newcommand nrec operatorname not recovery newtheorem theorem theorem section newtheorem lemma theorem lemma newtheorem corollary theorem corollary newtheorem example theorem example newtheorem proposition theorem proposition newtheorem definition definition section newtheorem conj theorem conjecture newtheorem remark remark section newenvironment proof bf underline proof hspace fill symbol vskip em phasetrans
+MISC--: eps ustar root root
+CONT--: ps adobe epsf mathworks dict begin bdef bind def bind def ldef load def bind def xdef exch def bdef xstore exch store bdef c clip ldef cc concat ldef cp closepath ldef gr grestore ldef gs gsave ldef mt moveto ldef np newpath ldef cm currentmatrix ldef sm setmatrix ldef rm rmoveto ldef rl rlineto ldef s show newpath bdef sc setcmykcolor bdef sr setrgbcolor ldef sg setgray ldef w setlinewidth ldef j setlinejoin ldef cap setlinecap ldef rc rectclip bdef rf rectfill bdef pgsv def bpage pgsv save def bdef epage pgsv restore bdef bplot gsave ldef eplot stroke grestore bdef portraitmode def landscapemode def rotatemode def dpi point def fontsize def fms fontsize xstore findfont fontsize fontsize neg makefont setfont bdef reencode exch dup where pop load pop standardencoding ifelse exch dup roll findfont dup length dict begin index fid ne def pop pop ifelse forall encoding exch def currentdict end definefont pop bdef isroman findfont charstrings get agrave known bdef fmsr roll index dup isroman reencode pop pop ifelse exch fms bdef csm dpi point div dpi point div scale neg translate dup landscapemode eq pop rotate rotatemode eq rotate if ifelse bdef so setdash bdef do dpi point mul dpi point mul setdash bdef da dpi point mul setdash bdef dd dpi point mul dpi point mul dpi point mul dpi point mul setdash bdef l lineto stroke bdef mp roll moveto sub rlineto repeat bdef ap rlineto repeat bdef pdlw def w pdlw currentlinewidth def setlinewidth def pp closepath eofill bdef dp closepath stroke bdef mr roll moveto dup exch rlineto exch rlineto neg exch rlineto closepath bdef fr mr stroke bdef pr mr fill bdef l i currentfile picstr readhexstring pop image bdef tmatrix matrix def makeoval newpath tmatrix currentmatrix pop translate scale arc tmatrix setmatrix bdef fo makeoval stroke bdef po makeoval fill bdef pd currentlinewidth div arc fill pdlw eq not pdlw w pdlw def if def fa newpath tmatrix currentmatrix pop translate scale roll arc tmatrix setmatrix stroke bdef pa newpath tmatrix currentmatrix pop translate moveto scale roll arc closepath tmatrix setmatrix fill bdef fan newpath tmatrix currentmatrix pop translate scale roll arcn tmatrix setmatrix stroke bdef pan newpath tmatrix currentmatrix pop translate moveto scale roll arcn closepath tmatrix setmatrix fill bdef vradius def hradius def lry def lrx def uly def ulx def rad def mrr vradius xdef hradius xdef lry xdef lrx xdef uly xdef ulx xdef newpath tmatrix currentmatrix pop ulx hradius add uly vradius add translate hradius vradius scale arc tmatrix setmatrix lrx hradius sub uly vradius add translate hradius vradius scale arc tmatrix setmatrix lrx hradius sub lry vradius sub translate hradius vradius scale arc tmatrix setmatrix ulx hradius add lry vradius sub translate hradius vradius scale arc tmatrix setmatrix closepath bdef frr mrr stroke bdef prr mrr fill bdef mlrrr lry xdef lrx xdef uly xdef ulx xdef rad lry uly sub div def newpath tmatrix currentmatrix pop ulx rad add uly rad add translate rad rad scale arc tmatrix setmatrix lrx rad sub lry rad sub translate rad rad scale arc tmatrix setmatrix closepath bdef flrrr mlrrr stroke bdef plrrr mlrrr fill bdef mtbrr lry xdef lrx xdef uly xdef ulx xdef rad lrx ulx sub div def newpath tmatrix currentmatrix pop ulx rad add uly rad add translate rad rad scale arc tmatrix setmatrix lrx rad sub lry rad sub translate rad rad scale arc tmatrix setmatrix closepath bdef ftbrr mtbrr stroke bdef ptbrr mtbrr fill bdef stri array def dtri array def smat array def dmat array def tmat array def tmat array def dif array def asub ind exch def ind exch def dup dup ind get exch ind get sub exch bdef tri matrix asub asub asub asub dup get exch get roll astore bdef compute transform dmat dtri tri matrix tmat invertmatrix smat stri tri matrix tmat concatmatrix bdef ds stri astore pop bdef dt dtri astore pop bdef db copy cols xdef rows xdef mul dup mul string currentfile index eq asciihexdecode filter ascii decode filter index eq runlengthdecode filter if ifelse exch readstring pop dup index getinterval rbmap xdef dup index dup getinterval gbmap xdef index dup mul exch getinterval bbmap xdef pop pop bdef gs np dtri aload pop moveto lineto lineto cp c cols rows compute transform rbmap gbmap bbmap true colorimage gr bdef il newpath moveto lineto stroke bdef currentdict end def mathworks begin cap end mathworks begin bpage bplot dpi point def portraitmode csm rc dict begin colortable dictionary c sr bdef c sr bdef c sr bdef c sr bdef c sr bdef c sr bdef c sr bdef c sr bdef c j sg rf w mp pp mp stroke gs rc mwscm indexed devicergb c c c c c c c c c c c c c c c d d d d d d d d d d d d d d d aaaaaa aeaeae b b b b b b bababa bebebe c c c c c c cacaca cecece d d d d d d dadada dedede e e e e e e eaeaea eeeeee f f f f f f fafafa ffffff setcolorspace bdef mwscm gs np mt rl rl rl cp c np cc image dictionary imagetype width height bitspercomponent decode imagematrix datasource currentfile ascii decode filter runlengthdecode filter image og symbol n gwa
+MISC--: ki c u d r c cg q bb
+MISC--: spa ubu symbol oe mbk symbol knar i
+MISC--: xoyb symbol xj gr gr sg mt spurious local minimum s symbol isolatin encoding fmsr mt m s helvetica isolatin encoding fmsr mt rotate p s rotate w do so w mt l mt l mt l mt l mt l mt l mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt l mt l sg mp pp mp stroke gs rc mwscm indexed devicergb c c c c c c c c c c c c c c c d d d d d d d d d d d d d d d aaaaaa aeaeae b b b b b b bababa bebebe c c c c c c cacaca cecece d d d d d d dadada dedede e e e e e e eaeaea eeeeee f f f f f f fafafa ffffff setcolorspace bdef mwscm gs np mt rl rl rl cp c np cc image dictionary imagetype width height bitspercomponent decode imagematrix datasource currentfile ascii decode filter runlengthdecode filter image z y ji t q q
+MISC--: m l td mbk bd qp au symbol
+MISC--: b u f n gr gr sg mt wrong global mimimum s symbol isolatin encoding fmsr mt m s helvetica isolatin encoding fmsr mt rotate p s rotate w do so w mt l mt l mt l mt l mt l mt l mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt s mt l mt l mt l mt l end color dict eplot epage end showpage phasetrans
+MISC--: pdf ustar root root pdf obj length r filter flatedecode stream x x r p symbol n dj t s k f mos ev i qvy n m z t o x h ht s p f k s o qq
+MISC--: w f g xn symbol l symbol y z pa q pz f m klfo q t o l xs sc m t e h f qf ea h m w i k r k fw uc v f s cq x r pbau o f k k fw s k x k y bcanj m x h
+MISC--: h nc w w x j n p ij s h kg uq d z ds r t l x kf x qb v h l w b lg p z i s i mb f y
+MISC--: e tf f vu endstream endobj obj endobj obj type page parent r resources r contents r mediabox endobj obj procset pdf text imageb imagec imagei extgstate gs r gs r font f r f r xobject im r im r im r endobj obj length r type xobject subtype image width height colorspace r bitspercomponent filter flatedecode stream x s ck t d yt euk
+MISC--: m e nf n f endstream endobj obj endobj obj length r type xobject subtype image width height colorspace r bitspercomponent filter flatedecode stream x b d d b g j endstream endobj obj endobj obj length r type xobject subtype image width height colorspace r bitspercomponent filter flatedecode stream x w u p r l p xb endstream endobj obj endobj obj type extgstate opm endobj obj type extgstate sm endobj obj indexed r c c c c c c c c c c c c c c c d d d d d d d d d d d d d d da aaaaaaaeaeaeb b b b b b babababebebec c c c c c cacacacececed d d d d d dadadadededee e e e e e eaeaeaeeeeeef f f f f f fafafaffffff endobj obj length r n alternate devicergb filter flatedecode stream x wt l e
+MISC--: h ky e d v symbol d f u b q cr symbol zh e j o symbol s x rdy p z h tk m hh rz u hi sk j
+MISC--: n mh xq v jhmueehg j u u x
+MISC--: 
+MISC--: jz b o t u
+MISC--: p l f b g v t m wgw bo zo zs g n ay u mt i f j f p m g
+MISC--: y o e w symbol w o s f c dmc v yy c l z k f e v symbol o h gk r
+MISC--: w
+MISC--: da n i o r i h i n q wm z u
+MISC--: p c n vl i d hw nd c
+MISC--: l z jy s j z e qny s n u symbol
+MISC--: t d o ergq m o l yk j dh s fh t dx az nipd symbol tm t rr s q h e ry y u j pmw b q n lt
+MISC--: k d
+MISC--: m me b endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname lftvvq symbol italicangle stemv avgwidth maxwidth stemh xheight fontfile r endobj obj endobj obj type font subtype truetype basefont lftvvq symbol fontdescriptor r widths r firstchar lastchar encoding macromanencoding endobj obj length r length filter flatedecode stream x zy g puu t r b f lt qd f uml h c ntf e g ou u o u d dds eq s q d oq chb h b m vt v fq q m h
+MISC--: u c ab
+MISC--: j v g b
+MISC--: b g z pmr m hj gd j n n h
+MISC--: p df mst q o u m r symbol w df symbol j z
+MISC--: un z x r c m t v i v xu h bh w
+MISC--: b r fbs j symbol e n r w j c v h r o v g hmo b i i qw cz w m fxg x t m y m
+MISC--: m m m
+MISC--: s c v q ynr
+MISC--: x b njvy o kb yl di h y
+MISC--: m
+MISC--: svh g q x vf wv b c
+MISC--: s l s o
+MISC--: x o y o z z symbol r bu u l ooc
+MISC--: e
+MISC--: k v l z s
+MISC--: g k w u iao t f v g w v symbol l symbol q j af o t f q l n ql km w c
+MISC--: w m s ws s ff r g yl zj w h
+MISC--: n ew v s h unwre n k
+MISC--: n m v f nmcwi ev t ou symbol
+MISC--: e j c cc jo i w d
+MISC--: y j c
+MISC--: g x f
+MISC--: w
+MISC--: cc c f p g o gi k z wh t r k nlv symbol k symbol y
+MISC--: al o c r e z qiu c p u t pc iv g z q xg br r
+MISC--: m xp wn k mq g c o st i v u d al oq q y p x bjm w xn y v i
+MISC--: v t j l
+MISC--: khv jg v
+MISC--: j
+MISC--: lv h y q g t c symbol v u ld p w yx q
+MISC--: c
+MISC--: s ozv yq
+MISC--: i u o q m t n b q z
+MISC--: gt ys e d d et c q f f d et f w
+MISC--: m n nm m m k d fylq p z z ez v n y x io js h n v jm ci va zz
+MISC--: 
+MISC--: i n
+MISC--: w n b e t w
+MISC--: n bd j j hn d m
+MISC--: v x s j y o q t z x d y q c p uf ne b x x tk
+MISC--: u y c b d vu j rv e p e x n g j e e s w v w vwo d
+MISC--: i zd f uj snw ik b i tg f z c n l x sa n g m s e b d y p x h k
+MISC--: s z d z
+MISC--: k f s x v q m j o n y g o
+MISC--: r vp l
+MISC--: k o j g k ks u q symbol g sc h w
+MISC--: r p v r
+MISC--: symbol k l e
+MISC--: lyx y e h
+MISC--: 
+MISC--: v d bx s q ia b b yo g sb xi w u h
+MISC--: l h n c kh bb
+MISC--: n g y w s u s xxp ya e x c z k g f j tj h n b b e wh s d l g nfx y u c k t t i k b wcdy b b s c gd u l l d m qv k k dvo
+MISC--: w e e kzf dl j z m uh symbol e b tl
+MISC--: d c fu o z ujl yol n d z m ax b ljd d d y xf o c pz te n h c x u fb cw nl f o b l
+MISC--: b b c y e q np hk jlr j x r hn c b v w so m x e l t b i lb symbol y d f n d l z u xx c c zb h i x h k i dl d h l
+MISC--: tk x u y m o
+MISC--: ysg d ti v nrq b osdd y z s o b ki n g g u symbol ab tgu x l v iy y t s p
+MISC--: d c
+MISC--: l l c h
+MISC--: y k t k k y b r
+MISC--: 
+MISC--: f nc i p n ab
+MISC--: kz x p ba i u j
+MISC--: x k vk ut
+MISC--: sq z q
+MISC--: o kj w
+MISC--: k sy s s n w r p l z l q awk symbol uj
+MISC--: d l emjd
+MISC--: x y symbol f m pfk n
+MISC--: kz nd v e h isk ig iq q
+MISC--: 
+MISC--: dk q rw q x z s y p h i g s bzt q z kij b p z vy d d v z r symbol kq c fic es p d t e k h x d z x w
+MISC--: c n q c e f fe c z e
+MISC--: yc k el s c v
+MISC--: l t j n ia symbol d zs mh j lfu xo w xb r t b l symbol t k p w r t u t x x zs w m xw z g q u b c c k o h m c v z m x w e n m fj i ai oe qj g o g p j c v e b
+MISC--: d y i h u c qit q o n f c k h u u s j dd s qn t cnw
+MISC--: xti d n b v n w ed m op f l w
+MISC--: 
+MISC--: e nd u nm e mgx f u q q q s
+MISC--: o y fw g n
+MISC--: y nzt z f f i n s cz m lk u us i g jr v v n y oc l nov nrk m js n z v b y
+MISC--: 
+MISC--: s zb j g
+MISC--: ovc ix n
+MISC--: i na eh u mko dj y msz wf v g symbol hel qt b u t k dw dp b
+MISC--: nq r b pa s l e f lb z b symbol f x mr so nj n l c s c s
+MISC--: 
+MISC--: c ksx
+MISC--: z zy ll h p q e de r e s w symbol e h l rr b vg
+MISC--: mm s jq w l
+MISC--: hm x vf k e h oa j br ey r
+MISC--: b w f w
+MISC--: o y d w w k
+MISC--: ta symbol v z symbol g v l z r p z i kv v g x ek i q xu
+MISC--: s
+MISC--: u ww md d g x m cw b kk e ee g g p i s s f
+MISC--: hj kxr h y b zq i zz j e v uy m r g xw s b j do ig
+MISC--: i bb j g v z symbol w p c mx m j w d
+MISC--: e h k b n j y y e ll ene i r q k l v z l symbol v f p o p c s d h g u c f c z i v c h j l s io j nsc
+MISC--: v v pt h d z q symbol b v dh f z
+MISC--: c n t
+MISC--: e v g c l symbol lm k u b p h o u w te symbol b h x j f n w w
+MISC--: p f d p h u z c k
+MISC--: r
+MISC--: y l d c c n bo g q o ez n s l g d hk l gg h l d d fy p d zn h h h yi hd
+MISC--: vv rv k y k r y p l uz o b t b k hu k i b i qf e d t w
+MISC--: p ip w p c q
+MISC--: ic d w x j z j r c s e
+MISC--: c
+MISC--: p n k bx g v d ah h r mh g b
+MISC--: u f k j
+MISC--: l
+MISC--: vb q k p x n x s
+MISC--: c
+MISC--: b ahxk symbol h r tt l d y l kq r d rr r j r t u z f g w o h q r f m f l t e jx c r j gc u g ie e s c dd t u t t t t u z u u uo sc e muks q up w b l i i m v hwh tfz u
+MISC--: n tg n hz t n i m p w
+MISC--: t f j ol l k g mr u m f b z e e r e s v v k c j g m c n n b q d n u u v o w m m c q s y e u l k f
+MISC--: p hepw q i
+MISC--: z q p m gvg g
+MISC--: x t g lblc t oly p u blb symbol o n r r sv lr g o o isk flg e j d g z q hh wan l h y y yo c z
+MISC--: dl o q u
+MISC--: y f wb svv u jt ckhk zm w b u j
+MISC--: y h h u w t uso c zl t x d feq i w w
+MISC--: t r s o x i n j n k
+MISC--: k x s z e jpjh q n i r k o o c y aw j dg kg
+MISC--: s g uvtv e r t wxw m q i k w w n n
+MISC--: u v m n r r y
+MISC--: z rl
+MISC--: x l lf w w o l m un o zf coyo c g gg endstream endobj obj endobj obj iccbased r endobj obj length r n alternate devicegray filter flatedecode stream x v ts
+MISC--: p jl b ap x hq h q x b z s o u
+MISC--: c cb q m l hq g u p s t s t v g
+MISC--: r y p z ip w q l bfd ed e h symbol b pn f f c x symbol q yb q d lh symbol uz c i d p rj r b v v n
+MISC--: k g p z e d q toj z n m k
+MISC--: i r r r f r f l p n l r d d u p tnix l q yd b riv v ge uiu j s j c t z y x j u
+MISC--: o ms p k v h w p s z u e i symbol f fo m q u m if c f w z b j z s ng k wm l m m l v g s g e v g v t
+MISC--: eg l
+MISC--: 
+MISC--: x nznl l f c q v w w w w d q d m u w
+MISC--: x h l
+MISC--: u apk f o
+MISC--: b s symbol iti t w symbol l v h y e n symbol l
+MISC--: dc d ea e
+MISC--: r d
+MISC--: vve i w w u w v t h g f cm r x h s d x qs y z rw z i z z h d r g r nvh d d r j z o g p
+MISC--: v w
+MISC--: t j p hq l h l m l r ax l brxo
+MISC--: y e l y d j fr r k b q s c nb j y q nsna c q z g g
+MISC--: j m m
+MISC--: n mw ns s y
+MISC--: q w v
+MISC--: tt f c s f n cl tl u f uy g v p p q n t z w l o dg symbol pa p symbol di z u m t jh y m m k
+MISC--: g e o s
+MISC--: n h g e
+MISC--: o symbol g oz v h t symbol m k k dsqrh q i x b vzyw w k sn qm o x y b arm r w u g w zv x x l xzd z h z d h t mj lfe g w o h q yrsqu w qg y xt k y e krp y u
+MISC--: r
+MISC--: endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname ruhjnr cmmi italicangle stemv maxwidth stemh xheight fontfile r endobj obj endobj obj type font subtype type basefont ruhjnr cmmi fontdescriptor r widths r firstchar lastchar encoding macromanencoding endobj obj length r subtype type c filter flatedecode stream x cd ad dd p v
+MISC--: g b r s l q kj hq l w f i
+MISC--: y n b s yxn m endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname hcllij cmr italicangle stemv maxwidth stemh xheight fontfile r endobj obj endobj obj type font subtype type basefont hcllij cmr fontdescriptor r widths r firstchar lastchar encoding macromanencoding endobj obj length r subtype type c filter flatedecode stream x cd ad dd p v
+MISC--: g e v g w b i
+MISC--: s e y lt kj k c c d o l sp q osg t k endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname hcllij cmsy italicangle stemv maxwidth stemh xheight fontfile r endobj obj endobj obj type encoding differences minus endobj obj length r filter flatedecode stream x j d gc e k z z g h j x
+MISC--: gux m u m wf symbol j o
+MISC--: c endstream endobj obj endobj obj type font subtype type basefont hcllij cmsy fontdescriptor r widths r firstchar lastchar tounicode r encoding r endobj obj length r subtype type c filter flatedecode stream x u t v y g
+MISC--: e w ce g s i s symbol bg y d r
+MISC--: d d il q d k v n o f oqd t u g j t lh m n qx p
+MISC--: b jtyh y f
+MISC--: o d jd o x l w eqc t o r f k u k m sx m m e x h k
+MISC--: f q x rq en symbol w r e c l mu symbol s h j cm k s rx m wd e j y m ux z e r rs i cv oy
+MISC--: og symbol l i s y e c f ihb dr q b p l k v t l symbol x z
+MISC--: 
+MISC--: pnv qh y d t d
+MISC--: i m ew d du et k r fy lv y c y p l
+MISC--: symbol r d xx v r m
+MISC--: g m z h symbol c
+MISC--: s l tt q e w symbol zj s
+MISC--: i k
+MISC--: zu p z m v n b i hgc v oj
+MISC--: t v n vo
+MISC--: n o b i f c v n j j j f
+MISC--: p
+MISC--: v p d r m o dt f symbol q u c s z n g b
+MISC--: et j d l n g
+MISC--: symbol x nj u z z w
+MISC--: 
+MISC--: z symbol l h y l
+MISC--: t j f z d j t dv y l j v aq k xi x zw xu p z nx y x w ax e v o r f r r c rb d u cs f
+MISC--: l n uu symbol z j z b h kd f q z lr d ty r
+MISC--: j s va r
+MISC--: v qg m d ex bs m q g k o u hj il m j
+MISC--: b i ldpaf e de
+MISC--: gm h o j i s f y symbol z w deba
+MISC--: b
+OWNX--: u b st z n e o v c gz
+MISC--: j s j z bs h xv
+MISC--: r u v oz r q r m az e
+MISC--: b d
+MISC--: aq n r z o o w uc fnck o g z z f s p h v
+MISC--: sn b
+MISC--: j f p v oj b p
+MISC--: h d t w r v n m p d q w e mt ic x symbol
+MISC--: n u g s y n d c n q l b b q c e ar g ii gp
+MISC--: ao symbol cdg h j k q e n vi l c qo y
+MISC--: b z z i j j gw u z z
+MISC--: p ri
+MISC--: r z r h uq di d m s
+MISC--: v
+MISC--: dlxsd
+MISC--: wd x w
+MISC--: o yl ekiu
+MISC--: w bo u t
+MISC--: i c d m
+MISC--: z b o kx cg dp b o w l
+MISC--: g r d e f u j u e wn y l h b symbol jd xlqvae u k b c b v g x tcl u x w v t h up v
+MISC--: k w y hq
+MISC--: 
+MISC--: 
+MISC--: v w eg yz i v f u w vv ys e
+MISC--: je y i k r o g q s j x uj e s b f
+MISC--: g jp tjo i
+MISC--: j k n
+MISC--: 
+MISC--: w m z oix y j y t e d
+MISC--: c th o l u t z w s r o symbol b qw o symbol x j z d d
+MISC--: hbx q c k w p n n n endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname flulvr helvetica italicangle stemv avgwidth maxwidth xheight fontfile r endobj obj endobj obj length r filter flatedecode stream x j e e li de m b s l tkq t dog d hcu y c e p
+MISC--: 
+MISC--: e c x m kih u f y o w b symbol n x el o w symbol hi paxyim v e
+MISC--: ur yr n v b symbol x j d u e sa f s
+MISC--: e fl ru z symbol g cx od b h r
+MISC--: ue i v e ukjy y b j h t hb mlx mr k x d d q
+MISC--: s na y symbol n symbol e f n q t d v cxp l ft w
+MISC--: m
+MISC--: symbol l n k c af mn z i c l q v d l r
+MISC--: b z oh w v g d g n qk
+MISC--: atj wl q z
+MISC--: ym vb v r h ks d jq
+MISC--: h q c n q yd c x hn w zy y r bw p i b qp ct
+MISC--: d gaba v q b
+MISC--: u w tpsl f h cv m p z h k f
+MISC--: p p q s
+MISC--: r h p m h s o d s
+MISC--: e z
+MISC--: l
+MISC--: g i
+MISC--: 
+MISC--: o l b ua f q cm v e o d f y gu f q g i xc g o g
+MISC--: z x u r y i kt f y m o x u n h j w z k f k hdv dv u f b m n n k u
+MISC--: s u o w c p p
+MISC--: 
+MISC--: p u sb qlxyoi e p l q afz p zz u u b e y r ui s r t
+MISC--: l y h ml c zcawpy y wo z b q l i sb q g bky f ih symbol d b symbol y eh r
+MISC--: rq t f b mgs t z f z c g d j symbol x v n c d
+MISC--: symbol
+MISC--: r tb mj zi lr b e symbol l f m h n i qc y
+MISC--: w f symbol q mx xw r c j f ffevd g e g
+MISC--: g wb c e l x kk z x p v l q g s symbol m r z zb symbol cqfk s k v j uyc w xc z i ky k m k p p y o o l q oe w m zj k l m n byn m k c u
+MISC--: t u uyt q i x k k g t u w
+MISC--: u m j w
+MISC--: z v g g d l z n g e cg w n s e q q n r k z v
+MISC--: n n x m w l x z j i p w h g u
+MISC--: rr g eog m y r w ul l x z m u xr f e d y g g ol kk j o nme l mi
+MISC--: 
+MISC--: l w k sy p o q b h e lv vs s
+MISC--: 
+MISC--: ji c e
+MISC--: i w h h
+MISC--: 
+MISC--: g
+MISC--: h n pe i z
+MISC--: s h aj h y l
+MISC--: l g kbfr l x
+MISC--: u s j um g xu j s u cfa e k
+MISC--: m
+MISC--: p n
+MISC--: jn fu
+MISC--: y y r m d j x mu wg j v o n wz z u t k vx o f ht n
+MISC--: 
+MISC--: uq endstream endobj obj endobj obj iccbased r endobj obj length r n alternate devicergb filter flatedecode stream x wt l e
+MISC--: h ky e d v symbol d f u b q cr symbol zh e j o symbol h k w d r o s f dc
+MISC--: i t u symbol el o
+MISC--: jpd q o d r v v k s ut lh m zq r dxca v xk l p e p u o f
+MISC--: 
+MISC--: k r ey ud w
+MISC--: n h x v ds e l d l c
+MISC--: z yl h r g p w
+MISC--: 
+MISC--: r h h l r y wv x t t mv e
+MISC--: w lfc o j c l tw s d p e v akj w iznc u ax j tgaf
+MISC--: j b m y t hx w x
+MISC--: w r h m w o
+MISC--: j eq v aog s x v fx c
+MISC--: o v q b yy eg m u p e tj u j lj w s i k xp j h f w qon d x g c d b e n w i t r ln
+MISC--: w l vxo p n z n
+MISC--: dm i f l e s o
+MISC--: h ps t k hs t m t k m g f
+MISC--: u l s k m q q cj x
+MISC--: u w f x i ud
+MISC--: yux jj l symbol o
+MISC--: qz e v j u l sh e lk k l v gdia c ocu o y w y o c
+MISC--: z k v m n y y k m h endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname tsfexj cmr italicangle stemv avgwidth maxwidth stemh xheight fontfile r endobj obj endobj obj type font subtype type basefont tsfexj cmr fontdescriptor r widths r firstchar lastchar encoding macromanencoding endobj obj length r subtype type c filter flatedecode stream x m wmtatl cmmi m
+MISC--: k d w muv x v j f u
+MISC--: l p w symbol hb q h t ez zt zo n g l z j u t cg v n l c g sv t
+MISC--: 
+MISC--: m
+MISC--: y
+MISC--: k y h
+MISC--: m b y j
+MISC--: 
+MISC--: q l y f k w l je k ewa o zn b
+MISC--: i d t lf fr n b
+MISC--: l h p p f p x e c t h i h at s x j y y u
+MISC--: k i b c e l p
+MISC--: 
+MISC--: b r o m e ckr p ec y
+MISC--: v b ai o l u e t l g xrr e b fi f symbol fx c
+MISC--: s gx d c o b r v x l ko
+MISC--: g symbol o e l symbol d d i o x r p t h r s
+MISC--: h vf ol f vz p f m f qk o symbol u b n f ehd q w f d t h j
+MISC--: dwkq aa qi r t c rs x d q n c n h e cx
+MISC--: s zu n o u zy g y
+MISC--: l ww u h b u
+MISC--: r k g q f
+MISC--: w b p q w gx k b b k f p p sf f s o f p q g f bkg n bx
+MISC--: p
+MISC--: y
+MISC--: r sbupb s g e p y re j l o symbol w symbol t rm xb qz f r
+MISC--: 
+MISC--: j v v symbol x m z m t rb vie m f j q x s nt e iyys w symbol c wa i dd x f
+MISC--: je rv oa m w
+MISC--: 
+MISC--: o i k k m
+MISC--: axf
+MISC--: e h x z ve h h ns d t v h g g r rn
+MISC--: x p r xt q d vb b f x y nx e t b m z gs pz j t vm l p m s p h s r k j
+MISC--: t p qf r zs v v cc ko t o k c o g f h
+MISC--: r d q hqw eb dc pq d
+MISC--: b q l u o
+MISC--: 
+MISC--: em o y o
+MISC--: w v
+MISC--: m x r x ic d l s f t symbol l mv l k
+MISC--: q y s y d us m c g i symbol j o k d
+MISC--: g ny p xp x un y uh e
+MISC--: w q b vyk endstream endobj obj endobj obj type font subtype truetype basefont zeeygy helvetica fontdescriptor r widths r firstchar lastchar tounicode r endobj obj length r length filter flatedecode stream x x pt i symbol h c t p g c p jq mv t s w s s s d l nt j m d u d b c x m x h h e c p f c fw z j f hb q w e z u c h h symbol k rd p q n t z w l dg symbol o jq u
+MISC--: n o
+MISC--: f symbol fq q
+MISC--: s h x y j u ss ftvf v v v ia uw p oy o ahh wdz t pg b m ea v p u f k c d h agl mz v kq c i g im
+MISC--: y hh m v ou symbol m
+MISC--: t t c z vn r b s
+MISC--: fw x e s pkn qn bk h n s c
+MISC--: w m j z s x rh
+MISC--: y y b
+MISC--: e u p r b p p s ao n e iz u symbol p ha z qo
+MISC--: i
+MISC--: czp x kk u gt o
+MISC--: cc
+MISC--: 
+MISC--: s e qc w tvc fx endstream endobj obj endobj obj type fontdescriptor ascent capheight descent flags fontbbox fontname xwaaqd helvetica italicangle stemv avgwidth maxwidth xheight fontfile r endobj obj endobj obj length r filter flatedecode stream x c endstream endobj obj endobj obj type font subtype cidfonttype basefont xwaaqd helvetica cidsysteminfo registry adobe ordering identity supplement fontdescriptor r w r dw cidtogidmap r endobj obj type font subtype type encoding identity h basefont xwaaqd helvetica descendantfonts r endobj obj mac os x quartz pdfcontext endobj obj d z endobj obj producer r creationdate r moddate r endobj xref f n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n trailer size root r info r id f c d bc b f f c d bc b f startxref section

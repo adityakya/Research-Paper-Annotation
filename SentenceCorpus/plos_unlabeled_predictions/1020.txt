@@ -1,0 +1,29 @@
+MISC--: transcriptional regulatory network constitutes collection regulatory rules link environmental cues transcription state cell s genome
+OWNX--: we recently proposed matrix formalism quantitatively represents system rules allows systemic characterization trs properties
+OWNX--: matrix formalism not only allows computation transcription state genome but also fundamental characterization input output mapping represents
+MISC--: furthermore key advantage this pseudo stoichiometric matrix formalism its ability easily integrate existing stoichiometric matrix representations signaling metabolic networks
+OWNX--: here we demonstrate first time how this matrix formalism extendable large scale systems applying genome scale escherichia coli trs
+OWNX--: we analyze fundamental subspaces regulatory network matrix describe intrinsic properties trs
+OWNX--: we further use monte carlo sampling evaluate e coli transcription state across subset all possible environments comparing our results published gene expression data validation
+OWNX--: finally we present novel silico findings e coli trs including gene expression correlation matrix delineating functional motifs sets gene ontologies regulatory rules governing gene transcription poorly understood may direct further experimental characterization appearance distributed trn structure stark contrast more hierarchical organization metabolic networks
+MISC--: complex regulatory networks control transcription state genome consequently functional activity cell citation
+MISC--: even relatively simple unicellular organisms evolved complicated networks regulatory interactions termed transcriptional regulatory networks respond environmental stimuli citation citation
+MISC--: external signals known impact transcription microorganisms include carbon source amino acid electron acceptor availability ph level heat cold stress citation citation
+MISC--: mapping links between environmental growth conditions through signaling networks ultimately resulting transcriptional response primary interest study cellular systems citation
+MISC--: consequently reconstructions trns model organisms underway citation
+OWNX--: effectively describe interconnected functions regulated genes associated regulatory proteins within given trn we recently developed formalism involving regulatory network matrix called r citation
+OWNX--: r matrix represents components reactions within transcriptional regulatory system
+OWNX--: we illustrated how using fundamental properties linear algebra this matrix formalism allows characterization trs properties facilitates silico prediction transcription state genome under any specified set environmental conditions
+OWNX--: importantly previously reported r matrix distinct existing approaches use matrix formalisms matrix algebra analyze gene expression data describes relationships governing gene transcription derived experiments characterizing how specific inputs regulate expression individual genes
+MISC--: this way r matrix extends previous approaches characterizing features trns including boolean networks citation citation citation bayesian networks citation stochastic equations citation
+OWNX--: representing regulatory rules matrix form we characterize fundamental subspaces matrix turn uniquely represent properties trs r matrix contains
+BASE--: furthermore using pseudo stoichiometric approach discussed below r matrix representation trn consistent thus easily integratable related approaches using stoichiometric matrices computationally represent reactions underlying metabolic signaling networks citation citation
+CONT--: date this approach representing analyzing trss only been applied relatively small systems including well studied four gene lac operon escherichia coli well small gene prototypic trs citation
+CONT--: although model systems been useful prototyping studies capabilities behavior r matrix key unanswered question how this approach scales larger more complex biological systems
+BASE--: here we present first steps toward this end assembling r matrix genome scale e coli trn regulatory relationships been previously characterized citation extensive experimental data available citation citation
+OWNX--: our knowledge work we present here represents first r matrix based model genome scale trs this work enabled us gain important insights into behavior r matrix at larger scale challenges associated scale up well underlying biology e coli transcriptional regulation
+OWNX--: specifically we derived r directly previously developed genome scale model e coli transcriptional regulatory rules were overlaid constraint based model metabolism citation
+MISC--: this integrated transcriptional regulatory metabolic model well suited initial genome scale r matrix efforts boolean regulatory relationships already defined behavior this model been well studied using constraint based analyses citation citation
+OWNX--: validate our r matrix analysis we compared expression states we predicted various environmental growth conditions available gene expression data
+OWNX--: we also explored fundamental subspaces related matrix r representing complete e coli trs describe key systemic properties including new hypotheses about network structure
+OWNX--: ultimately this work yields understanding how e coli transcriptional regulatory program functions whole demonstrates utility regulatory network matrix formalism studying transcriptional regulatory systems at genome scale moving forward

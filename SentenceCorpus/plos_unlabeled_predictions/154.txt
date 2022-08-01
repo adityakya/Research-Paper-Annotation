@@ -1,0 +1,92 @@
+MISC--: classic algorithms needleman wunsch smith waterman find maximum posteriori probability alignment pair hidden markov model
+MISC--: process large genomes undergone complex genome rearrangements almost all existing whole genome alignment methods apply fast heuristics divide genomes into small pieces suitable needleman wunsch alignment
+MISC--: alignment methods standard practice fix parameters produce single alignment subsequent analysis biologists
+MISC--: number alignment programs applied whole genome scale continues increase so does disagreement their results
+MISC--: alignments produced different programs vary greatly especially non coding regions eukaryotic genomes where biologically correct alignment hard find
+MISC--: parametric alignment one possible remedy
+OWNX--: this methodology resolves issue robustness changes parameters finding all optimal alignments all possible parameters phmm
+OWNX--: our main result construction whole genome parametric alignment drosophila melanogaster drosophila pseudoobscura
+OWNX--: this alignment draws existing heuristics dividing whole genomes into small pieces alignment relies advances we made computing convex polytopes allow us parametrically align non coding regions using biologically realistic models
+OWNX--: we demonstrate utility our parametric alignment biological inference showing cis regulatory elements more conserved between drosophila melanogaster drosophila pseudoobscura than previously thought
+OWNX--: we also show how whole genome parametric alignment used quantitatively assess dependence branch length estimates alignment parameters
+MISC--: needleman wunsch pairwise sequence alignment citation known sensitive parameter choices
+OWNX--: illustrate problem consider eighth intron drosophila melanogaster cg ra gene located chr
+MISC--: this intron base pairs long base pair ortholog drosophila pseudoobscura
+MISC--: ortholog located at contig contig august freeze assembly produced baylor genome sequencing center
+MISC--: using basic parameter scoring scheme two orthologous introns following optimal alignment when parameters set m x s
+OWNX--: however if we change parameters m x s then following alignment optimal
+MISC--: note relatively small change parameters produces very different alignment introns
+MISC--: this problem exacerbated more complex scoring schemes central issue whole genome alignments produced programs mavid citation blastz multiz citation
+CONT--: indeed although whole genome alignment systems use many heuristics rapidly identifying alignable regions subsequently aligning them they all rely needleman wunsch algorithm at some level
+MISC--: dependence parameters becomes even more crucial issue multiple alignment more than two sequences
+MISC--: parametric alignment was introduced waterman eggert lander citation further developed gusfield et al citation citation fernandez baca et al citation approach overcoming difficulties selecting parameters needleman wunsch alignment
+MISC--: see citation review citation citation algebraic perspective
+MISC--: parametric alignment amounts partitioning space parameters into regions
+MISC--: parameters same region lead same optimal alignments
+MISC--: enumerating all regions non trivial problem computational geometry
+OWNX--: we solve this problem whole genome scale up five free parameters
+CONT--: our approach parametric alignment rests idea score alignment specified short list numbers derived alignment
+OWNX--: instance given standard three parameter scoring scheme we summarize each alignment number m matches number x mismatches number s spaces alignment
+MISC--: triple called alignment summary
+MISC--: example consider above pair orthologous drosophila introns
+OWNX--: first alignment alignment summary while second alignment alignment summary
+MISC--: remarkably even though number all alignments two sequences very large number alignment summaries arise needleman wunsch alignment very small
+MISC--: specifically example above where two sequences lengths total number alignments
+CONT--: there only alignment summaries highest score some choice parameters m x s biologically reasonable choices i e when we require m x s x only six summaries optimal
+MISC--: six summaries account total optimal alignments
+OWNX--: note basic model discussed above only d free parameters because pair sequences lengths l l all summaries satisfy
+MISC--: this relation holds l l six summaries table
+OWNX--: figure shows alignment polygon defined section alignment polytopes coordinates
+MISC--: general two dna sequences lengths l l number optimal alignment summaries bounded above polynomial l l degree d where d number free parameters model citation citation
+MISC--: d this degree so number optimal alignment summaries sublinear growth relative sequence lengths
+MISC--: even d growth exponent d only
+OWNX--: this means all optimal alignment summaries computed large scale models few parameters
+MISC--: growth exponent d was derived gusfield et al citation d fernandez baca at al citation pachter sturmfels citation general d table computed using software xparal citation
+OWNX--: this software works d d generates representation all optimal alignments respect all reasonable choices parameters
+CONT--: although xparal convenient graphical interface seems this program not been widely used biologists perhaps because not designed high throughput data analysis number free parameters restricted d
+AIMX--: this paper we demonstrate parametric sequence alignment made practical whole genome scale we argue computing output table very useful comparative genomics applications where reliable alignments essential
+MISC--: this end we introduce mathematical point view based organizing principle convexity was absent earlier studies citation citation citation
+MISC--: our advances rely new algorithms quite different what implemented xparal perform well practice even if number d free parameters greater than three
+MISC--: convexity organizing principle reveals needles haystack
+OWNX--: our example haystack consists more than alignments needles optimal alignments
+MISC--: summaries optimal alignments vertices alignment polytope
+OWNX--: alignment polytope convex hull summaries all alignments
+OWNX--: background convex hulls how compute alignment polytopes provided section genomes polytopes
+OWNX--: thus parametric alignment two dna sequences relative some chosen pair hidden markov model means constructing alignment polytope two sequences
+MISC--: dimension alignment polytope d number free model parameters
+MISC--: d polytope convex polygon shown figure pair introns above
+MISC--: basic model insufficient genomics applications
+MISC--: more realistic phmms sequence alignment include gap penalties
+OWNX--: we consider three models
+MISC--: symmetries scoring matrices models derived those evolutionary models known jukes cantor kimura kimura
+OWNX--: models reviewed section models alignment summaries robustness cones
+OWNX--: our contribution construction whole genome parametric alignment all four models d melanogaster d pseudoobscura
+OWNX--: our methods computational results described next section
+MISC--: three biological applications presented section polytopes biology
+OWNX--: discussion follows discussion section
+OWNX--: our main computational result construction whole genome parametric alignment two drosophila genomes
+MISC--: this result depended number innovations
+OWNX--: adapting existing orthology mapping methods we were able divide genomes into pairs reliably orthologous segments among we identified pairs alignment uncertain
+OWNX--: we computed alignment polytopes dimensions two three four each sequence pairs dimension five subset them
+OWNX--: methods explained section alignment polytopes
+MISC--: vertices polytopes represent optimal alignment summaries robustness cones
+OWNX--: concepts introduced section models alignment summaries robustness cones
+OWNX--: computational results presented section computational results
+OWNX--: orthology mapping problem pair genomes identify all orthologous segments between two genomes
+MISC--: orthologous segments if selected so not contain genome rearrangements then globally aligned each other
+OWNX--: this strategy frequently used whole genome alignment citation citation we adapted our parametric alignment computation
+MISC--: mercator orthology mapping program suitable multiple genomes was developed dewey et al citation
+OWNX--: we applied this program d melanogaster d pseudoobscura genomes identify pieces parametric alignment
+MISC--: mercator strategy identifying orthologous segments follows
+MISC--: exon annotations each genome translated into amino acid sequences then compared each other using blat citation
+MISC--: annotations based reference gene sets ab initio predictions
+OWNX--: resulting exon hits then used build graph whose vertices correspond exons edge between two exons if there good hit
+OWNX--: greedy algorithm then used select edges graph correspond runs exons consistent order orientation
+MISC--: mercator orthology map d melanogaster d pseudoobscura segments
+MISC--: however order obtain map suitable parametric alignment further subdivision segments was necessary
+MISC--: this subdivision was accomplished additional step identifying fixing exact matches length at least bp
+OWNX--: we derived constraints four possible types exact matching non coding sequences ungapped high scoring aligned coding sequences segment pairs between two other constraints where one segments length zero so non trivial segment must gapped single nucleotide mismatches squeezed between other constraints
+OWNX--: we then removed all segments where sequences contained letter n this process resulted pairs segments parametric alignment
+MISC--: lengths d melanogaster segments range one base pairs
+MISC--: median length bp mean length bp
+OWNX--: all percent d melanogaster genome percent d pseudoobscura genome were aligned our method

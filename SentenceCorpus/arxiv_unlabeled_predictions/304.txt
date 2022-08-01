@@ -1,0 +1,22 @@
+OWNX--: this paper describes methodology detecting anomalies sequentially observed potentially noisy data
+OWNX--: proposed approach consists two main elements filtering assigning belief likelihood each successive measurement based upon our ability predict previous noisy observations hedging flagging potential anomalies comparing current belief against time varying data adaptive threshold
+MISC--: threshold adjusted based available feedback end user
+MISC--: our algorithms combine universal prediction recent work online convex programming do not require computing posterior distributions given all current observations involve simple primal dual parameter updates
+OWNX--: at heart proposed approach lie exponential family models used wide variety contexts applications yield methods achieve sublinear per round regret against both static slowly varying product distributions marginals drawn same exponential family
+MISC--: moreover regret against static distributions coincides minimax value corresponding online strongly convex game
+OWNX--: we also prove bounds number mistakes made during hedging step relative best offline choice threshold access all estimated beliefs feedback signals
+BASE--: we validate theory synthetic data drawn time varying distribution over binary vectors high dimensionality well enron email dataset keywords anomaly detection exponential families filtering individual sequences label efficient prediction minimax regret online convex programming prediction limited feedback sequential probability assignment universal prediction
+AIMX--: parstart i n this paper we explore performance online anomaly detection methods built sequential probability assignment dynamic thresholding based limited feedback
+OWNX--: we assume we sequentially monitor state some system interest
+AIMX--: at each time step we observe possibly noise corrupted version symbol current state symbol need infer whether symbol anomalous relative actual sequence symbol past states
+MISC--: this inference encapsulated binary decision symbol either symbol non anomalous nominal behavior symbol anomalous behavior
+OWNX--: after announcing our decision we may occasionally receive feedback true state affairs use adjust future behavior decision making mechanism
+OWNX--: our inference engine should make good use this feedback whenever available improve its future performance
+MISC--: one reasonable way do follows
+OWNX--: having observed symbol but not symbol we use this observation assign beliefs likelihoods clean state symbol
+MISC--: let us denote this likelihood assignment symbol
+OWNX--: then if we actually had access clean observation symbol we could evaluate symbol declare anomaly symbol if symbol where symbol some positive threshold otherwise we would set symbol no anomaly at time symbol
+AIMX--: this approach based intuitive idea new observation symbol should declared anomalous if very unlikely based our past knowledge namely symbol
+BASE--: other words observations considered anomalous if they portion observation domain very low likelihood according best probability model assigned them basis previously seen observations fact anomaly detection algorithms based density level sets revolve around precisely this kind reasoning complication here however we do not actually observe symbol but rather its noise corrupted version symbol
+OWNX--: thus we settle instead estimate symbol symbol based symbol compare this estimate against symbol
+OWNX--: if we receive feedback symbol at time symbol differs our label symbol then we adjust threshold appropriately

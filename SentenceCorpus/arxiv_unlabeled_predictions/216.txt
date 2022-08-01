@@ -1,0 +1,10 @@
+OWNX--: we consider problem estimating conditional probability label time symbol where symbol number possible labels
+OWNX--: we analyze natural reduction this problem set binary regression problems organized tree structure proving regret bound scales depth tree
+OWNX--: motivated this analysis we propose first online algorithm provably constructs logarithmic depth tree set labels solve this problem
+OWNX--: we test algorithm empirically showing works succesfully dataset roughly symbol labels
+AIMX--: central question this paper how efficiently estimate conditional probability label symbol given observation symbol
+CONT--: virtually all approaches solving this problem require symbol time
+OWNX--: commonly used one against all approach tries predict probability label symbol versus all other labels each symbol requires symbol time per training example
+MISC--: another common symbol approach learn scoring function symbol convert into conditional probability estimate according symbol where symbol normalization factor
+OWNX--: motivation dealing computational difficulty usual one we want capability solve otherwise unsolvable problems
+OWNX--: example one our experiments involves probabilistic prediction problem roughly symbol labels symbol examples where any symbol solution intractable

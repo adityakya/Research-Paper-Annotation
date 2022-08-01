@@ -1,0 +1,81 @@
+OWNX--: we consider computation permanent positive symbol non negative matrix
+MISC--: symbol equivalently problem
+MISC--: weighted counting perfect matchings over
+MISC--: complete bipartite graph symbol
+MISC--: problem known likely exponential complexity
+MISC--: stated partition function symbol graphical model problem allows exact loop calculus
+MISC--: representation chertkov chernyak terms interior minimum
+MISC--: bethe free energy functional over non integer doubly stochastic matrix marginal beliefs symbol
+MISC--: also correspondent fixed point iterative message passing algorithm belief propagation bp type
+OWNX--: our main result explicit expression exact partition function permanent terms matrix bp marginals symbol symbol
+MISC--: where symbol bp expression permanent stated explicitly terms symbol
+OWNX--: we give two derivations formula direct one based bethe free energy
+OWNX--: alternative one combining ihara graph symbol function loop calculus approaches
+OWNX--: assuming matrix symbol belief propagation marginals calculated we provide two lower bounds one upper bound estimate multiplicative term
+MISC--: two complementary lower bounds based gurvits van der waerden theorem relation between modified permanent determinant respectively
+MISC--: problem calculating permanent non negative matrix arises many contexts
+MISC--: statistics data analysis physics
+MISC--: example intrinsic parameter learning flow
+OWNX--: used follow particles turbulence cross correlate two subsequent images
+MISC--: citation
+MISC--: however problem symbol hard citation meaning solving
+MISC--: time polynomial system size symbol unlikely
+MISC--: therefore when size matrix sufficiently large one naturally looks ways approximate
+MISC--: permanent
+MISC--: very significant breakthrough was achieved invention so called
+MISC--: fully polynomial randomized algorithmic schemes fpras permanent problem citation
+MISC--: permanent approximated polynomial time
+OWNX--: high probability within arbitrarily small relative error
+MISC--: however complexity this fpras symbol making impractical majority realistic applications
+OWNX--: this motivates task finding lighter deterministic probabilistic algorithm capable
+MISC--: evaluating permanent more efficiently
+AIMX--: this paper continues thread citation citation where belief propagation bp algorithm was suggested efficient heuristic good but not absolute quality approximate permanent
+MISC--: bp family algorithms
+MISC--: originally introduced context error correction codes citation artificial
+MISC--: intelligence citation generally stated any graphical model citation
+MISC--: exactness bp any graph without loops suggests algorithm
+MISC--: efficient heuristic evaluating partition function finding maximum
+MISC--: likelihood ml solution graphical model gm defined sparse graphs
+MISC--: however
+MISC--: general loopy cases one would normally not expect bp work well thus making heuristic results citation somehow surprising
+MISC--: even though not completely unexpected view existence polynomially efficient algorithms ml version problem citation
+MISC--: also realized citation via iterative bp algorithm
+MISC--: this raises questions understanding performance bp what
+OWNX--: does well what misses
+MISC--: also motivates challenge improving bp
+MISC--: heuristics
+MISC--: approach potentially capable handling question challenge was recently suggested general framework gm
+MISC--: loop series calculus ls citation expresses
+MISC--: ratio between partition function pf binary gm its bp estimate terms finite series each term associated so called generalized loop subgraph all vertices degree larger than one graph
+MISC--: each term series well bp estimate partition function expressed terms doubly stochastic matrix marginal probabilities symbol matching pairs contribute perfect matching
+OWNX--: this matrix symbol describes minimum so called bethe free energy also understood fixed point iterative bp algorithm
+OWNX--: first term resulting ls equal one
+OWNX--: accounting all loop corrections one recovers
+MISC--: exact expression pf
+MISC--: other words ls holds key understanding gap between
+MISC--: approximate bp estimate pf exact result
+OWNX--: section section
+OWNX--: we will give technical introduction variational bethe free energy bfe formulation bp brief
+OWNX--: overview ls approach permanent problem respectively our results
+AIMX--: this paper we develop ls based approach describe quality bp
+OWNX--: approximation permanent non negative matrix i our natural starting point analysis bp solution itself conducted section
+MISC--: evaluating permanent non negative matrix symbol
+OWNX--: dependent temperature parameter symbol we find
+MISC--: non integer bp solution observed only at symbol where symbol defined
+OWNX--: eq ii at symbol we derive alternative representation ls section
+MISC--: entire ls collapsed product two terms
+OWNX--: first term easy calculate function symbol second term permanent matrix symbol binary operator symbol denotes element wise multiplication matrices
+AIMX--: this our main result stated theorem majority consecutive statements our paper follows
+OWNX--: we also present yet another alternative derivation theorem using multivariate ihara bass formula graph zeta function subsection iii section presents two easy calculate lower bounds ls
+OWNX--: lower bound stated corollary based gurvits van der waerden theorem applied symbol
+MISC--: interestingly enough this lower bound invariant respect bp transformation
+MISC--: i e exactly equivalent lower bound derived via
+MISC--: application van der waerden gurvits theorem original permanent
+MISC--: another
+OWNX--: lower bound stated theorem
+OWNX--: note follows
+MISC--: example discussed text two lower bounds complementary latter stronger
+OWNX--: at sufficiently small temperatures while former
+OWNX--: dominates large symbol region iv section discusses upper bound transformed permanent based application
+MISC--: godzil gutman formula hadamard inequality
+OWNX--: possible future extensions approach discussed section

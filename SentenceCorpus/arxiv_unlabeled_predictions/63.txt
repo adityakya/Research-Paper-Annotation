@@ -1,0 +1,34 @@
+MISC--: max product belief propagation local iterative algorithm find mode map estimate probability distribution
+MISC--: while been successfully employed wide variety applications there relatively few theoretical guarantees convergence correctness general loopy graphs may many short cycles
+MISC--: even fewer provide exact necessary sufficient characterizations
+AIMX--: this paper we investigate problem using max product find maximum weight matching arbitrary graph edge weights
+MISC--: this done first constructing probability distribution whose mode corresponds optimal matching then running max product
+MISC--: weighted matching also posed integer program there lp relaxation
+OWNX--: this relaxation not always tight
+AIMX--: this paper we show if lp relaxation tight then max product always converges too correct answer
+MISC--: if lp relaxation loose then max product does not converge
+OWNX--: this provides exact data dependent characterization max product performance precise connection lp relaxation well studied optimization technique
+OWNX--: also since lp relaxation known tight bipartite graphs our results generalize other recent results using max product find weighted matchings bipartite graphs
+MISC--: message passing algorithms like belief propagation its variants generalizations been shown empirically very effective solving many instances hard computationally intensive problems wide range fields
+MISC--: algorithms were originally designed exact inference i e calculation marginals max marginals tree structured probability distributions
+MISC--: their application general graphs involves replicating their iterative local update rules general graph
+MISC--: this case however there no guarantees either convergence correctness general
+MISC--: understanding characterizing performance message passing algorithms general graphs remains active research area
+MISC--: citation show correctness graphs at most one cycle
+MISC--: citation show gaussian problems sum product algorithm finds correct means upon convergence but does not always find correct variances
+MISC--: citation show asymptotic correctness random graphs associated decoding
+MISC--: citation shows if max product converges then optimal relatively large local neighborhood
+AIMX--: this paper we consider problem using max product find maximum weight matching arbitrary graph arbitrary edge weights
+MISC--: this problem formulated integer program natural lp relaxation
+AIMX--: this paper we prove following if lp relaxation tight then max product always converges too correct answer
+MISC--: if lp relaxation loose then max product does not converge
+OWNX--: bayati shah sharma citation were first investigate max product weighted matching problem
+MISC--: they showed if graph bipartite then max product always converges correct answer
+MISC--: recently this result been extended symbol matchings bipartite graphs citation
+OWNX--: since lp relaxation always tight bipartite graphs first part our results recover their results viewed correct generalization arbitrary graphs since this case tightness function structure well weights
+OWNX--: we would like point out three features our work provides necessary sufficient condition convergnce max product arbitrary problem instances
+MISC--: there very few non trivial classes problems there tight characterization message passing performance
+MISC--: characterization data dependent decided based not only graph structure but also weights particular instance
+MISC--: tightness lp relaxations well studied broad classes problems making this chracterization promising terms both understanding development new algorithms
+MISC--: relations similarities comparisons between max product linear programming been used mentioned several authors citation exact characterization this relationship general remains interesting endeavor
+MISC--: particular would interesting investigate implications results regards elucidating relationship between iterative decoding channel codes lp decoding citation

@@ -1,0 +1,26 @@
+MISC--: exact lengths linker dnas connecting adjacent nucleosomes specify intrinsic three dimensional structures eukaryotic chromatin fibers
+MISC--: some studies suggest linker dna lengths preferentially occur at certain quantized values differing one another integral multiples dna helical repeat bp however studies literature inconsistent
+AIMX--: here we investigate linker dna length distributions yeast saccharomyces cerevisiae genome using two novel methods fourier analysis genomic dinucleotide periodicities adjacent experimentally mapped nucleosomes duration hidden markov model applied experimentally defined dinucleosomes
+MISC--: both methods reveal linker dna lengths yeast preferentially periodic at dna helical repeat obeying forms n bp
+OWNX--: this bp periodicity implies ordered superhelical intrinsic structure average chromatin fiber yeast
+MISC--: eukaryotic genomic dna exists vivo hierarchically compacted protein dna complex called chromatin citation
+MISC--: first level compaction bp lengths dna wrapped superhelical turns around protein spools forming nucleosomes citation
+MISC--: consecutive nucleosomes separated short stretches unwrapped linker dna
+MISC--: most chromatin vivo further folded into shorter wider fibers nm diameter
+MISC--: despite much effort structure nm fiber remains unresolved citation citation
+AIMX--: here we report analysis relative locations nucleosomes along dna sheds new light chromatin fiber structure
+MISC--: connection arises helical symmetry dna itself citation citation
+MISC--: each base pair increase separation between two consecutive nucleosomes moves them apart nm along dna potentially minor change relative nm fiber s width
+BASE--: however because bp per turn helical symmetry dna this nm translation coupled rotation about dna helix axis rotating second nucleosome entirely different location space creating entirely different intrinsic chromatin structure
+MISC--: vivo attractive nucleosome nucleosome interactions citation citation might overwhelm this intrinsic structure chromatin fiber impose particular folded structure independent exact linker dna lengths
+MISC--: case changes fiber s intrinsic structure would manifested instead changes folded fiber s stability citation
+OWNX--: because high torsional stiffness dna short lengths linker dnas changes stability would great energetic significance
+MISC--: while steps one several bp profoundly alter intrinsic fiber structure steps n bp do not instead next nucleosome rotates n complete turns around dna helix axis ending up rotationally near where began but translated along dna n nm
+MISC--: if linker dna lengths varied randomly about average value resulting intrinsic chromatin structure would random flight chain
+OWNX--: but if linker dna segments instead were equal length modulo dna helical repeat this would define intrinsically ordered superhelical structure chromatin fiber detailed intrinsic structure highly depending phase offset d linker dnas length n d bp
+MISC--: there many hints literature bp periodicity lengths linker dnas citation citation citation citation however results inconsistent
+MISC--: early analysis oligonucleosome dna lengths suggested linker dnas yeast s cerevisiae preferentially occur lengths n bp while those human hela chicken erythrocyte cells no periodicity citation
+BASE--: analogous studies rat liver chromatin first did not citation but later did citation reveal periodic linker dna lengths again form n bp
+MISC--: later genome wide correlation analyses aa tt dinucleotides similarly yielded variable results suggesting preferences form n citation n bp yeast citation n caenorhabditis elegans drosophila melanogaster citation n human k cells citation
+MISC--: conflicting conclusions existing studies motivated us develop two new independent computational methods new experimental data define probability distribution linker dna lengths yeast
+AIMX--: our results both approaches show linker dna lengths yeast indeed preferentially periodic implying yeast genome encodes intrinsically ordered three dimensional structure its average chromatin fiber

@@ -1,0 +1,46 @@
+OWNX--: we consider semi supervised classification when part available data unlabeled
+OWNX--: unlabeled data useful classification problem when we make assumption relating behavior regression function marginal distribution
+MISC--: seeger citation proposed well known cluster assumption reasonable one
+OWNX--: we propose mathematical formulation this assumption method based density level sets estimation takes advantage achieve fast rates convergence both number unlabeled examples number labeled examples
+MISC--: setcounter equation semi supervised classification been growing interest over past few years many methods been proposed
+MISC--: methods try give answer question how improve classification accuracy using unlabeled data together labeled data
+MISC--: 
+OWNX--: unlabeled data used different ways depending assumptions model
+MISC--: there two types assumptions
+OWNX--: first one consists assuming we set potential classifiers we want aggregate them
+MISC--: case unlabeled data used measure compatibility between classifiers reduces complexity resulting classifier see eg citation citation
+OWNX--: second approach one we use here
+OWNX--: assumes data contains clusters homogeneous labels unlabeled observations used identify clusters
+MISC--: this so called cluster assumption
+MISC--: this idea put practice several ways giving rise various methods
+MISC--: simplest one presented here estimate clusters then label each cluster uniformly
+MISC--: most methods use hartigan s citation definition clusters namely connected components density level sets
+CONT--: however they use parametric usually mixture model estimate underlying density far reality
+MISC--: moreover no generalization error bounds available methods
+MISC--: same spirit citation citation propose methods learn distance using unlabeled data order intra cluster distances smaller than inter clusters distances
+MISC--: whole family graph based methods aims also at using unlabeled data learn distances between points
+MISC--: edges graphs reflect proximity between points
+MISC--: detailed survey graph methods we refer citation
+OWNX--: finally we mention kernel methods where unlabeled data used build kernel
+MISC--: recalling kernel measures proximity between points methods also viewed learning distance using unlabeled data see citation citation citation
+OWNX--: cluster assumption interpreted another way i e requirement decision boundary lie low density regions
+MISC--: this interpretation been widely used learning since used design standard algorithms boosting citation citation svm citation citation closely related kernel methods mentioned above
+MISC--: algorithms greater penalization given decision boundaries cross cluster
+MISC--: more details see eg citation citation citation
+MISC--: although most methods make sometimes implicitly cluster assumption no formulation probabilistic terms been provided so far
+AIMX--: formulation we propose this paper remains very close its original text formulation allows derive generalization error bounds
+OWNX--: we also discuss what cannot done using unlabeled data
+OWNX--: one conclusions considering whole excess risk too ambitious we need concentrate smaller part observe improvement semi supervised classification over standard classification
+AIMX--: outline paper
+OWNX--: after describing model we formulate cluster assumption discuss why how improve classification performance next section
+OWNX--: section we study population case when marginal density symbol known get idea our target
+OWNX--: indeed population case corresponds some way case when amount unlabeled data infinite
+OWNX--: section contains main result we propose algorithm we derive rates convergence symbol thresholded excess risk measure performance
+OWNX--: exemple consistent density level set estimators given section
+OWNX--: section devoted discussion choice symbol possible improvements
+OWNX--: proofs results gathered section
+MISC--: notation
+OWNX--: throughout paper we denote symbol positive constants
+OWNX--: we write symbol complement set symbol
+OWNX--: two sequences symbol symbol paper symbol will symbol symbol we write symbol if there exists constant symbol symbol we write symbol if symbol some constants symbol
+OWNX--: thus if symbol we symbol any symbol

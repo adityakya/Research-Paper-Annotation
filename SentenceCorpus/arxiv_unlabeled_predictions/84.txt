@@ -1,0 +1,42 @@
+MISC--: many real world applications data cannot accurately represented vectors
+MISC--: those situations one possible solution rely dissimilarity measures enable sensible comparison between observations
+MISC--: kohonen s self organizing map som been adapted data described only through their dissimilarity matrix
+MISC--: this algorithm provides both non linear projection clustering non vector data
+CONT--: unfortunately algorithm suffers high cost makes quite difficult use voluminous data sets
+OWNX--: this paper we propose new algorithm provides important reduction theoretical cost dissimilarity som without changing its outcome results exactly same ones obtained original algorithm
+AIMX--: moreover we introduce implementation methods result very short running times
+OWNX--: improvements deduced theoretical cost model validated simulated real world data word list clustering problem
+OWNX--: we also demonstrate proposed implementation methods reduce factor up running time fast algorithm over standard implementation
+OWNX--: vast majority currently available data analysis methods based vector model observations described fixed number real values i e vectors fixed finite dimensional vector space
+MISC--: unfortunately many real world data depart strongly this model
+MISC--: quite common instance variable size data
+MISC--: they natural example online handwriting recognition citation where representation character drawn user vary length because drawing conditions
+MISC--: other data texts instance strongly non numerical complex internal structure they very difficult represent accurately vector space
+MISC--: while lot work been done adapt classical data analysis methods structured data tree graph citation neural based unsupervised processing structured data also citation well data varying size there still strong need efficient flexible data analysis methods applied any type data
+MISC--: way design methods rely one one comparison between observations
+MISC--: general possible define similarity dissimilarity measure between arbitrary data long comparing them meaningful
+MISC--: general data analysis algorithms based solely dis similarities between observations more complex than their vector counterparts but they universal therefore applied any kind data
+MISC--: moreover they allow one rely specific dis similarities constructed experts rather than vector representation data induces general unwanted distortion observations
+MISC--: many algorithms been adapted use solely dissimilarities between data
+MISC--: clustering field k means algorithm citation been adapted dissimilarity data under name partitioning around medoids citation
+MISC--: more recently approaches based deterministic annealing been used propose another class extensions k means principle citation
+MISC--: following path taken k means several adaptation kohonen s self organizing map citation dissimilarity data been proposed
+OWNX--: citation proposed probabilistic formulation som used directly dissimilarity data
+MISC--: deterministic annealing schemes been also used som citation
+AIMX--: present paper we focus adaptation proposed citation where was applied successfully protein sequence clustering visualization problem well string clustering problems
+MISC--: this generalization called dissimilarity som dsom also known median som considered som formulation pam method
+MISC--: variants dsom were applied temperature time series citation spectrometric data citation web usage data citation
+MISC--: major drawback dsom its running time very high especially when compared standard vector som
+MISC--: well known som algorithm behaves linearly number input data citation
+OWNX--: contrary dsom behaves quadratically this number see section
+AIMX--: we propose this paper several modifications basic algorithm allow much faster implementation
+MISC--: quadratic nature algorithm cannot avoided essentially because dissimilarity data intrinsically described quadratic number one one dissimilarities
+CONT--: nevertheless standard dsom algorithm cost proportional symbol where symbol number observations symbol number clusters algorithm produce whereas our modifications lead cost proportional symbol
+MISC--: moreover specific implementation strategy reduces actual computation burden even more
+OWNX--: important property all our modifications obtained algorithm produces exactly same results standard dsom algorithm
+AIMX--: paper organized follows
+OWNX--: section we recall som adaptation dissimilarity data obtain theoretical cost dsom
+OWNX--: section we describe our proposed new algorithm well implementation techniques decrease its running time practice
+OWNX--: finally we evaluate algorithm section
+MISC--: this evaluation validates theoretical cost model shows implementation methods reduce running time
+OWNX--: evaluation conducted simulated data real world data word list clustering problem

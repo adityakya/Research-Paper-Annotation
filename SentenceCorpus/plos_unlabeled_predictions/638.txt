@@ -1,0 +1,58 @@
+MISC--: protein interactions play vital part function cell
+MISC--: experimental techniques detection validation protein interactions time consuming there need computational methods this task
+MISC--: protein interactions appear form network relatively high degree local clustering
+AIMX--: this paper we exploit this clustering suggesting score based triplets observed protein interactions
+MISC--: score utilises both protein characteristics network properties
+OWNX--: our score based triplets shown complement existing techniques predicting protein interactions outperforming them data sets display high degree clustering
+OWNX--: predicted interactions score highly against test measures accuracy
+MISC--: compared similar score derived pairwise interactions only triplet score displays higher sensitivity specificity
+OWNX--: looking at specific examples we show how experimental set interactions enriched validated
+AIMX--: part this work we also examine effect different prior databases upon accuracy prediction find interactions same kingdom give better results than across kingdoms suggesting there may fundamental differences between networks
+MISC--: results all emphasize network structure important helps accurate prediction protein interactions
+OWNX--: protein interaction data set program used our analysis list predictions validations available at link
+MISC--: understanding complex activities within organism complete error free network protein interactions occur organism would significant step forward
+MISC--: experimentally protein interactions detected number techniques data publicly available several databases dip database interacting proteins citation mips munich information center protein sequences citation
+MISC--: unfortunately experimentally detected interactions show high false negative citation high false positive rates citation citation
+AIMX--: this paper we develop new computational approach predict interactions validate experimental data
+MISC--: computational methods already been developed purposes
+MISC--: interaction validation mainly centered use expression data citation citation co functionality co localisation proteins involved citation citation
+MISC--: prediction protein interactions contrast many methods been suggested
+MISC--: majority generate lists proteins functional relationship rather than physical interactions citation citation
+MISC--: terms physical interaction prediction available methods typified two approaches deng et al citation jonsson et al citation
+OWNX--: deng et al s method domain interaction based approach protein interaction inferred basis domain contacts
+MISC--: if domain pair frequently found observed protein interactions likely other protein pairs containing this domain pair might also interact
+MISC--: observed protein interaction network probabilities domain domain interactions estimated
+MISC--: expectation maximum algorithm employed compute maximum likelihood estimates assuming protein interactions occur independently each other
+MISC--: this likelihood then used construct probability score protein pair interact inferred based estimated probabilities domain interactions within protein pair
+MISC--: deng et al s prediction based total interactions s cerevisiae
+CONT--: however limited number known domains may well not enough describe variety protein interactions
+MISC--: this approach had further extensions improved scoring domain interactions citation inclusion other biological information citation
+MISC--: liu et al s model citation extension deng et al s method integrates multiple organisms
+MISC--: addition s cerevisiae two other organisms c elegans d melanogaster included
+MISC--: second type approach used jonsson et al citation homology based
+MISC--: searches interlogs among protein interactions other organisms
+MISC--: if interlog protein interaction exists many other organisms this protein interaction will score highly
+MISC--: addition searching orthologous interlogs mika saeed citation citation suggest paralogous interlogs may provide even more information inferring interacting protein pairs
+MISC--: principle statistical clustering algorithms citation citation identify cliques network could viewed prediction method predicting all proteins within clique interact each other
+AIMX--: this interpretation biologically questionable focus statistical clustering approach locating cliques overlapping modules rather than predicting individual interactions we exclude our comparisons
+MISC--: neither deng et al s method nor jonsson et al s method make use network structure beyond pairwise interactions interactions considered isolated pairs
+MISC--: however pairs could should considered network where proteins nodes their interactions links citation citation
+MISC--: topological examination networks revealed many interesting properties including clustering tendency citation citation see also supporting information
+OWNX--: our method we exploit network structure developing score considers triadic patterns interactions rather than pairs
+MISC--: this paper we thus take established idea characteristics protein will affect its interactions alongside not yet fully explored idea its network position will also affect its interactions order develop novel predictive tool
+AIMX--: our goal predict protein interactions type x y where both x y interact third protein z therefore our approach we particularly focus two simple three node network structures triangles lines
+MISC--: triangle subnet formed interacting protein pair common neighbour
+MISC--: line contrast subnet formed non interacting protein pair common neighbour
+MISC--: we will show network structures protein characteristics within them help predict protein interactions
+OWNX--: we apply our method s cerevisiae interaction network dip database
+OWNX--: during validation we assume function structure known all proteins protein interaction network known all but one interaction
+OWNX--: triadic interacting patterns we predict interaction status those protein pairs at least one common neighbour compare our results those three other published scores
+OWNX--: we go demonstrate requirement fully annotated proteins relaxed include partially annotated proteins slight drop accuracy
+MISC--: prediction also compared simulated networks where all proteins shuffled while network structure maintained order examine whether specific network structure triangles lines keep useful information forming protein interaction networks
+MISC--: measure true positive rate set protein pairs deane et al citation proposed expression profile index measure true positive rate set protein pairs based biological relevance
+OWNX--: we compare epr index our score showing suitable cut off our predictions achieve high true positive rate
+OWNX--: we also give examples validated experimental data predict new interactions
+OWNX--: our predictive model uses prior interaction database this we use three prior databases pooling protein interactions collected prokaryotes eukaryotes all interactions
+MISC--: results using different prior databases show use interactions within same kingdom rather than across kingdoms significantly improves results indicating citation interaction networks may significantly different between kingdoms
+BASE--: comparing our method three other standard approaches namely domain based approach deng et al extension liu et al homology based approach jonsson et al we find our method outperforms above approaches subset interactions dip yeast data set contains enough annotation connectivity included our analysis
+MISC--: our method complements methods deng et al liu et al their approaches apply rather different subset potential interactions yielded dip yeast data set

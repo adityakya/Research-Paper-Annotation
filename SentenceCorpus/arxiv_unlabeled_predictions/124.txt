@@ -1,0 +1,35 @@
+MISC--: ag update abstract we propose framework analyzing comparing distributions allowing us design statistical tests determine if two samples drawn different distributions
+OWNX--: our test statistic largest difference expectations over functions unit ball reproducing kernel hilbert space rkhs
+AIMX--: we present two tests based large deviation bounds test statistic while third based asymptotic distribution this statistic
+CONT--: test statistic computed quadratic time although efficient linear time approximations available
+MISC--: several classical metrics distributions recovered when function space used compute difference expectations allowed more general eg banach space
+OWNX--: we apply our two sample tests variety problems including attribute matching databases using hungarian marriage method where they perform strongly
+MISC--: excellent performance also obtained when comparing distributions over graphs first tests
+OWNX--: we address problem comparing samples two probability distributions proposing statistical tests hypothesis distributions different this called two sample homogeneity problem
+MISC--: tests application variety areas
+MISC--: bioinformatics interest compare microarray data identical tissue types measured different laboratories detect whether data may analysed jointly whether differences experimental procedure caused systematic differences data distributions
+MISC--: equally interest comparisons between microarray data different tissue types either determine whether two subtypes cancer may treated statistically indistinguishable diagnosis perspective detect differences healthy cancerous tissue
+MISC--: database attribute matching desirable merge databases containing multiple fields where not known advance fields correspond fields matched maximising similarity distributions their entries
+OWNX--: we test whether distributions symbol symbol different basis samples drawn each them finding well behaved e g smooth function large points drawn symbol small negative possible points symbol
+OWNX--: we use our test statistic difference between mean function values two samples when this large samples likely different distributions
+OWNX--: we call this statistic maximum mean discrepancy mmd
+MISC--: clearly quality mmd statistic depends class symbol smooth functions define
+MISC--: one hand symbol must rich enough so population mmd vanishes if only if symbol
+MISC--: other hand test consistent symbol needs restrictive enough empirical estimate mmd converge quickly its expectation sample size increases
+OWNX--: we shall use unit balls universal reproducing kernel hilbert spaces citation our function classes since will shown satisfy both foregoing properties we also review classical metrics distributions namely kolmogorov smirnov earth mover s distances based different function classes
+MISC--: more practical note mmd reasonable computational cost when compared other two sample tests given symbol points sampled symbol symbol symbol cost symbol time
+OWNX--: we also propose less statistically efficient algorithm computational cost symbol yield superior performance at given computational cost looking at larger volume data
+OWNX--: we define three non parametric statistical tests based mmd
+BASE--: first two use distribution independent uniform convergence bounds provide finite sample guarantees test performance at expense being conservative detecting differences between symbol symbol
+MISC--: third test based asymptotic distribution mmd practice more sensitive differences distribution at small sample sizes
+BASE--: present work synthesizes expands results citation citation citation who turn build earlier work citation
+AIMX--: note latter addresses only third kind test approach citation employs more accurate approximation asymptotic distribution test statistic
+OWNX--: we begin our presentation section formal definition mmd proof population mmd zero if only if symbol when symbol unit ball universal rkhs
+OWNX--: we also review alternative function classes mmd defines metric probability distributions
+OWNX--: section we give overview hypothesis testing applies two sample problem review other approaches this problem
+OWNX--: we present our first two hypothesis tests section based two different bounds deviation between population empirical symbol
+OWNX--: we take different approach section where we use asymptotic distribution empirical symbol estimate basis third test
+OWNX--: when large volumes data available cost computing mmd quadratic sample size may excessive we therefore propose section modified version mmd statistic linear cost number samples associated asymptotic test
+OWNX--: section we provide overview methods related mmd statistics machine learning literature
+OWNX--: finally section we demonstrate performance mmd based two sample tests problems neuroscience bioinformatics attribute matching using hungarian marriage method
+OWNX--: our approach performs well high dimensional data low sample size addition we able successfully distinguish distributions graph data ours first proposed test

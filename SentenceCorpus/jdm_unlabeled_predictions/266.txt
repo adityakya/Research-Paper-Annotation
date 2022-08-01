@@ -1,0 +1,29 @@
+MISC--: although priority heuristic ph conceived cognitive process model some its critical process assumptions remain tested
+CONT--: ph makes very strong ordinal quantitative assumptions about strictly sequential non compensatory use three cues choices between lotteries number difference between worst outcomes number difference worst case probabilities number best outcome obtained
+OWNX--: aspects were manipulated orthogonally present experiment
+OWNX--: no support was found ph
+OWNX--: although main effect primary worst outcome manipulation was significant came along other effects ph excludes
+OWNX--: strong effect secondary manipulation worst outcome probabilities was not confined small differences worst outcomes was actually stronger large worst outcome differences
+OWNX--: overall winning probabilities ph ignores exerted systematic influence
+OWNX--: overall rate choices correctly predicted ph was close chance although high inter judge agreement reflected systematic responding
+MISC--: findings raise fundamental questions about theoretical status heuristics fixed modules
+MISC--: almost four decades theoretical empirical work judgment decision making been inspired notion cognitive heuristics
+MISC--: accordingly people rarely try utilize all available information exhaustively making perfectly accurate judgments
+MISC--: they usually content non optimal but satisficing solutions citation
+MISC--: cognitive tools afford satisficing solutions commonly called heuristics
+MISC--: their reputation improved enormously
+MISC--: having first been devalued mental short cuts sloppy rules thumb sources biases shortcomings more recent literature heuristics often characterized fast frugal functional
+MISC--: simple heuristics make us smart citation were shown outperform more ambitious models rational inference simulation studies citation
+MISC--: yet addition mathematical proof simulation heuristics may perform well when they applied crucial psychological assumption says decision makers actually do use heuristics sometimes explained reflecting phylogenetic evolutionary learning citation
+OWNX--: although correlational evidence correspondence simulated heuristic validity criterion sufficient study first functional aspect hypothesis testing about actual cognitive process supposed heuristic calls repertoire experimental cognitive psychology
+MISC--: thus crucial test assumption judgments frequency probability actually follow availability heuristic citation essential manipulate its crucial feature namely ease information comes mind
+MISC--: likewise cogent test anchoring heuristic citation shown judges actually adjust initial extreme anchor insufficiently
+MISC--: without appropriate experimental manipulations presumed mental operations impossible prove causal role hypothesized heuristic process
+MISC--: percentage focal heuristic s correct predictions judgments decisions cannot provide cogent distinct evidence about underlying process citation
+CONT--: early stage heuristics biases research program though serious experimental attempts assess postulated cognitive operations had been remarkably rare
+MISC--: hardly any experiment had manipulated ease clearly specified retrieval operation supposed underlie availability heuristic citation gradual adjustment process supposed underlie anchoring heuristic citation
+MISC--: more recently though this situation been changing
+MISC--: number fast frugal heuristics been specified precisely enough allow strict experimental tests underlying cognitive processes
+MISC--: tests take best heuristic citation been concerned assumption cues ordered validity citation
+MISC--: research recognition heuristic tested whether comparative judgments really determined mere exposure rather than substantive evaluation comparison objects citation
+MISC--: seems fair conclude strict empirical tests resulted more critical picture validity scope postulated heuristics citation

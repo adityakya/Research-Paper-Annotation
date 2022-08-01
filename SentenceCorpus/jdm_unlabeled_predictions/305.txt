@@ -1,0 +1,26 @@
+MISC--: fiedler et al citation reviewed evidence utilization contingency inference strategy termed pseudocontingencies pcs
+OWNX--: pcs more frequent levels implication less frequent levels assumed associated
+MISC--: pcs been obtained using wide range task settings dependent measures
+MISC--: yet readiness decision makers rely pcs poorly understood
+OWNX--: computer simulation explored two potential sources subjective validity pcs
+OWNX--: first pcs shown perform above chance level when task infer sign moderate strong population contingencies sample observations
+MISC--: second contingency inferences based pcs inferences based cell frequencies shown partially agree across samples
+MISC--: intriguingly this criterion convergent validity products random sampling error highlighting inductive nature contingency inferences
+MISC--: accurate contingency assessment prerequisite explain past control present predict future citation
+MISC--: adaptive cognition perspective assessing contingencies amounts inferring relationship between two variables population sample observations drawn population citation
+MISC--: if task was evaluate relation between drinking one two beverages say red wine beer developing migraine not contingency may inferred recalling instances wine beer consumption followed not followed migraine
+OWNX--: epistemologically then contingency sample more precisely specific contingency index used decision maker used proxy contingency general population instances
+OWNX--: example degree last number instances alcohol consumption proportion developing migraine was higher after red wine than after beer one might conclude general red wine more conductive migraine than beer
+MISC--: not only x number p index this example but most contingency indices this inference seems unproblematic sign size sample value unbiased estimates population value citation
+MISC--: what might more problematic quality grade information required
+MISC--: virtually all traditional contingency indices require information about joint occurrences
+MISC--: other words every instance sample necessary know levels both variables
+MISC--: example every consumption instance one needs sure whether red wine beer had been consumed whether was followed migraine not
+MISC--: however due several factors e g delay between observing variables large amount variables considered information about joint occurrences might not available at time judgment preventing use common contingency indices
+OWNX--: remainder we will discuss validity alternative strategy contingency inferences applicable even under impoverished conditions pseudocontingencies
+MISC--: pcs denote using skew greater numbers one level than other case dichotomous variables sample base rates pair variables infer contingency
+MISC--: obvious using base rates pcs do not require information about joint occurrences
+OWNX--: however because base rates largely independent contingencies less obvious why pcs should used at all
+OWNX--: while independence true descriptively at population level we will show random sampling error necessarily causes population contingencies translate into skewed sample base rates
+MISC--: intriguingly sample base rates skewed sampling process enable pcs successfully indicate moderate strong population contingencies
+MISC--: another consequence strategies rely joint occurrences mostly agree pcs predictions across samples

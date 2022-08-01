@@ -1,0 +1,25 @@
+MISC--: bacterial species even strains within species vary greatly their gene contents metabolic capabilities
+OWNX--: we examine evolution this diversity assessing distribution ancestry each gene sequenced isolates escherichia coli shigella
+OWNX--: we focus emergence demise two specific classes genes orfans hops since genes contrast most conserved ancestral sequences known major source novel features each strain
+OWNX--: we find rates gain loss genes vary greatly among strains well through time orfans hops show very different behavior respect their emergence demise
+MISC--: although hops mostly represent gene acquisitions other bacteria originate more frequently orfans much more likely persist
+OWNX--: this difference suggests many adaptive traits conferred completely novel genes do not originate other bacterial genomes
+OWNX--: respect demise acquired genes we find strains shigella lose genes both disruption events complete removal at accelerated rates
+MISC--: wide variation bacterial genome sizes was originally detected s dna reassociation analyses citation
+CONT--: because bacteria gene dense chromosomes differences genome sizes implied there were likely vast differences gene contents bacterial species
+MISC--: current availability hundreds complete genome sequences now possible establish exactly genes present well those absent genome
+MISC--: among sequenced bacterial genomes gene sets vary over fold ranging genes gammaproteobacterial symbiont carsonella ruddii citation almost genes soil dwelling acidobacterium solibacter usitatus
+OWNX--: wide variation genome sizes gene contents also observed between strains within individual bacterial genera species
+MISC--: example isolates frankia more than percent identical their rrna sequences conventional cutoff value bacterial species differ many genes represents nearly half their mb genome citation
+MISC--: even among bacterial strains similar genome sizes there substantial differences gene repertoires citation
+CONT--: unlike mammals only about percent genes genome unique taxonomic order gene contents bacterial genomes change rapidly over relatively short evolutionary distances
+MISC--: generation novel gene repertoires consequence ongoing processes gene acquisition gene loss citation citation
+OWNX--: although several mechanisms generate new genes citation citation citation novel gene sets observed closely related bacterial strains result largely gene transfer distant sources duplications gene rearrangement only rarely produce entirely unique genes short timescales bacterial gene sets evolve
+MISC--: although homolog searches indicate many genes arise lateral transfer other bacteria most bacteria also contain genome specific sets genes lack any homologs known databases citation citation citation
+MISC--: counteracting augmentation bacterial genomes gene acquisition gene loss occurs both through large scale deletions citation well smaller changes erode inactivate individual genes citation citation citation
+OWNX--: observed acquired sequences prokaryotes also contain genome specific sets inactivated genes comprise up percent their annotated genes citation
+OWNX--: taken together lineage specific gene repertoires indicate need monitor bacterial genome dynamics i e manner genes gained lost over short evolutionary timescales
+MISC--: this end comparisons closely related strains bacillus citation staphylococcus aureus citation e coli citation citation shown gene acquisitions prevalent at tips phylogeny recently acquired genes seem evolve more quickly
+OWNX--: however few studies examined fate genes within bacterial lineage asked how many classes genes once acquired maintained disrupted removed genome
+OWNX--: we address questions assessing differences gene repertoires among sequenced strains e coli shigella clade
+MISC--: strains closely related yet display substantial differences genome size gene content citation citation allowing us pinpoint introduction persistence genes lineages leading genomes

@@ -1,0 +1,42 @@
+MISC--: shown existing processing schemes d motion perception interocular velocity difference changing disparity over time well joint encoding motion disparity do not offer general solution inverse optics problem local binocular d motion
+OWNX--: instead we suggest local velocity constraints combination binocular disparity other depth cues provide more flexible framework solution inverse problem
+OWNX--: context aperture problem we derive predictions two plausible default strategies vector normal prefers slow motion d whereas cyclopean average based slow motion d
+MISC--: predicting perceived motion directions ambiguous line motion provides opportunity distinguish between strategies d motion processing
+OWNX--: our theoretical results suggest velocity constraints disparity feature tracking needed solve inverse problem d motion perception
+OWNX--: seems plausible motion disparity input processed parallel integrated late visual processing hierarchy
+MISC--: representation three dimensional external world two dimensional retinal input fundamental problem visual system solve citation citation
+OWNX--: this true static scenes d well dynamic events d space
+MISC--: latter inverse problem extends inference dynamic events d world d motion signals projected into left right eye
+OWNX--: following we exclude observer movements only consider passively observed motion
+OWNX--: velocity d space described motion direction speed
+MISC--: motion direction measured terms azimuth elevation angle motion direction together speed conveniently expressed d motion vector cartesian coordinate system
+OWNX--: estimating vector locally highly desirable visual system because representation local estimates dense vector field provides basis perception d object motion direction speed moving objects
+MISC--: this information essential interpreting events well planning executing actions dynamic environment
+MISC--: if single moving point corner other unique feature serves binocular input then intersection constraint lines triangulation together starting point provides straightforward unique geometrical solution inverse problem binocular viewing geometry
+MISC--: if however moving stimulus spatial extent edge contour line inside circular aperture citation then local motion direction corresponding receptive fields left right eye remains ambiguous additional constraints needed solve aperture inverse problem d
+MISC--: inverse optics aperture problem well known problems computational vision especially context stereo citation citation structure motion citation optic flow citation
+MISC--: gradient constraint methods belong most widely used techniques optic flow computation image sequences
+MISC--: they divided into local area based citation into more global optic flow methods citation
+MISC--: both techniques employ brightness constancy smoothness constraints image estimate velocity over determined equation system
+MISC--: important note optical flow only provides constraint direction image gradient normal component optical flow
+MISC--: consequence some form regularization smoothing needed
+MISC--: similar techniques terms error minimization regularization been offered d stereo motion detection citation citation
+MISC--: essentially algorithms extend processing principles d optic flow d scene flow
+MISC--: computational studies d motion algorithms usually concerned fast efficient encoding when tested against ground truth
+OWNX--: here we less concerned efficiency robustness particular implementation
+OWNX--: instead we want understand predict behavioral characteristics human d motion perception
+MISC--: d motion perception been extensively researched context d aperture problem citation citation but there surprising lack studies aperture problem d motion perception
+MISC--: any physiologically plausible solution inverse d motion problem rely binocular sampling local spatio temporal information
+MISC--: there at least three known cell types early visual cortex may involved local encoding d motion simple complex motion detecting cells citation citation binocular disparity detecting cells citation sampled over time joint motion disparity detecting cells citation citation
+MISC--: therefore not surprising three approaches binocular d motion perception emerged literature interocular velocity difference changing disparity over time joint encoding motion disparity
+MISC--: three approaches generated extensive body research but psychophysical results been inconclusive nature d motion processing remains unresolved issue citation citation
+MISC--: despite wealth empirical studies motion depth there lack studies true d motion stimuli
+MISC--: previous psychophysical neurophysiological studies typically employ stimulus dots unambiguous motion direction fronto parallel random dot surfaces moving depth
+MISC--: aperture problem local motion encoding however features so prominently d motion perception citation citation been neglected study d motion perception
+MISC--: large persistent perceptual bias been found dot stimuli unambiguous motion direction citation citation suggesting processing strategies different three main processing models citation citation
+MISC--: seems promising investigate local motion stimuli ambiguous motion direction line contour moving inside circular aperture citation because they relate local encoding citation citation may reveal principles d motion processing citation
+AIMX--: aim this paper evaluate existing models d motion perception gain better understanding binocular d motion perception
+OWNX--: first we show existing models d motion perception insufficient solve inverse problem binocular d motion
+OWNX--: second we establish velocity constraints binocular viewing geometry demonstrate additional information necessary disambiguate local velocity constraints derive velocity estimate
+OWNX--: third we compare two default strategies perceived d motion when local motion direction ambiguous
+MISC--: shown critical stimulus conditions exist help determine whether d motion perception favors slow d motion averaged cyclopean motion

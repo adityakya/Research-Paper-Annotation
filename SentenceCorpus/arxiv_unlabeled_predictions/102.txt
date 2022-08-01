@@ -1,0 +1,28 @@
+OWNX--: this contribution we propose generic online also sometimes called adaptive recursive version expectation maximisation em algorithm applicable latent variable models independent observations
+CONT--: compared algorithm citation this approach more directly connected usual em algorithm does not rely integration respect complete data distribution
+MISC--: resulting algorithm usually simpler shown achieve convergence stationary points kullback leibler divergence between marginal distribution observation model distribution at optimal rate ie maximum likelihood estimator
+MISC--: addition proposed approach also suitable conditional regression models illustrated case mixture linear regressions model keywords latent data models expectation maximisation adaptive algorithms online estimation stochastic approximation polyak ruppert averaging mixture regressions
+MISC--: em expectation maximisation algorithm citation popular tool maximum likelihood maximum posteriori estimation
+MISC--: common strand problems where this approach applicable notion incomplete data includes conventional sense missing data but much broader than
+MISC--: em algorithm demonstrates its strength situations where some hypothetical experiments yields complete data related parameters more conveniently than measurements
+MISC--: problems where em algorithm proven useful include among many others mixture densities citation censored data models citation etc
+MISC--: em algorithm several appealing properties
+BASE--: because relies complete data computations generally simple implement at each iteration i so called e step only involves taking expectation over conditional distribution latent data given observations ii m step analogous complete data weighted maximum likelihood estimation
+OWNX--: moreover iii em algorithm naturally ascent algorithm sense increases observed likelihood at each iteration
+MISC--: finally under some mild additional conditions iv em algorithm may shown converge stationary point ie point where gradient vanishes log likelihood citation
+MISC--: note convergence maximum likelihood estimator cannot general guaranteed due possible presence multiple stationary points
+CONT--: when processing large data sets data streams however em algorithm becomes impractical due requirement whole data available at each iteration algorithm
+MISC--: this reason there been strong interest online variants em make possible estimate parameters latent data model without storing data
+BASE--: this work we consider online algorithms latent data models independent observations
+OWNX--: dominant approach see also section below online em like estimation follows method proposed citation consists using stochastic approximation algorithm where parameters updated after each new observation using gradient incomplete data likelihood weighted complete data fisher information matrix
+MISC--: this approach been used some variations many different applications see eg citation proof convergence was given citation
+AIMX--: this contribution we propose new online em algorithm sticks more closely principles original batch mode em algorithm
+MISC--: particular each iteration proposed algorithm decomposed into two steps where first one stochastic approximation version e step aimed at incorporating information brought newly available observation second step consists maximisation program appears m step traditional em algorithm
+OWNX--: addition proposed algorithm does not rely complete data information matrix two important consequences firstly practical point view evaluation inversion information matrix no longer required secondly convergence procedure does not rely implicit assumption model well specified data under consideration actually generated model some unknown value parameter
+OWNX--: consequence contrast previous work we provide analysis proposed algorithm also case where observations not assumed follow fitted statistical model
+OWNX--: this consideration particularly relevant case regression conditional missing data models simple case used illustration proposed online em algorithm
+CONT--: finally shown additional use polyak ruppert averaging proposed approach converges stationary points limiting normalised log likelihood criterion ie kullback leibler divergence between marginal density observations model pdf at rate optimal
+OWNX--: paper organised follows section we review basics em associated algorithms introduce proposed approach
+OWNX--: connections other existing methods discussed at end section simple example application described section
+OWNX--: convergence results stated section first term consistency section then convergence rate section corresponding proofs given appendix
+OWNX--: finally section performance this approach illustrated context mixture linear regressions

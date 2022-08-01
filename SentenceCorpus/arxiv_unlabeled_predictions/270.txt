@@ -1,0 +1,26 @@
+BASE--: this work describes method approximating matrix permanents efficiently using belief propagation
+OWNX--: we formulate probability distribution whose partition function exactly permanent then use bethe free energy approximate this partition function
+OWNX--: after deriving some speedups standard belief propagation resulting algorithm requires symbol time per iteration
+OWNX--: finally we demonstrate advantages using this approximation
+MISC--: permanent scalar quantity computed matrix been active topic research well over century
+MISC--: plays role cryptography statistical physics where fundamental ising dimer models
+CONT--: while determinant symbol matrix evaluated exactly sub cubic time efficient methods computing permanent remained elusive
+MISC--: since permanent symbol p complete efficient exact evaluations cannot found general
+MISC--: best exact methods improve over brute force symbol include ryser s algorithm citation requires many symbol arithmetic operations
+MISC--: recently promising fully polynomial randomized approximate schemes fpras emerged provide arbitrarily close approximations
+MISC--: many methods build initial results broder citation who applied markov chain monte carlo popular tool machine learning statistics sampling perfect matchings approximate permanent
+MISC--: recently significant progress produced fpras handle arbitrary symbol matrices non negative entries citation
+OWNX--: method uses markov chain monte carlo only requires polynomial order samples
+CONT--: however while methods tight theoretical guarantees they carry expensive constant factors not mention relatively high polynomial running times discourage their usage practical applications
+CONT--: particular we experienced prominent algorithm citation slower than ryser s exact algorithm any feasible matrix size project only becomes faster around symbol
+MISC--: remains seen if other approximate inference methods brought bear permanent
+MISC--: instance loopy belief propagation also recently gained prominence machine learning community
+MISC--: method exact singly connected networks trees
+MISC--: certain special loopy graph cases including graphs single loop bipartite matching graphs citation bipartite multi matching graphs citation convergence bp been proven
+MISC--: more general loopy graphs loopy bp still maintains some surprising empirical success
+MISC--: theoretical understanding convergence loopy bp recently been improved noting certain general conditions its fixed points relating them minima bethe free energy
+MISC--: this article proposes belief propagation computing permanent investigates some theoretical experimental properties
+OWNX--: section we describe probability distribution parameterized matrix similar those described citation partition function exactly permanent
+OWNX--: section we discuss bethe free energy introduce belief propagation method finding suitable set pseudo marginals bethe approximation
+OWNX--: section we report results experiments
+OWNX--: we then conclude brief discussion

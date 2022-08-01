@@ -1,0 +1,37 @@
+MISC--: g quadruplex dna four stranded dna structure formed non watson crick base pairing between stacked sets four guanines
+MISC--: many possible functions been proposed this structure but its vivo role cell still largely unresolved
+OWNX--: we carried out genome wide survey evolutionary conservation regions potential form g quadruplex dna structures across seven yeast species
+OWNX--: we found g dna motifs were significantly more conserved than expected chance nucleotide level conservation patterns suggested motif conservation was result formation g dna structures
+OWNX--: we characterized association conserved non conserved g dna motifs saccharomyces cerevisiae more than known genome features gene classes
+OWNX--: our comprehensive integrated evolutionary functional analysis confirmed previously observed associations g dna motifs promoter regions rdna identified several previously unrecognized associations g dna motifs genomic features mitotic meiotic double strand break sites
+MISC--: conserved g dna motifs maintained strong associations promoters rdna but not dsbs
+OWNX--: we also performed first analysis g dna motifs mitochondria surprisingly found tenfold higher concentration motifs at rich yeast mitochondrial dna than nuclear dna
+MISC--: evolutionary conservation g dna motif its association specific genome features supports hypothesis g dna vivo functions under evolutionary constraint
+MISC--: dna primarily exists double helix
+MISC--: however dna also adopt other structural conformations potential play critical roles range biological processes
+MISC--: one structure g quadruplex dna was discovered late s when biochemical experiments demonstrated oligodeoxynucleotides contain four separated runs two three four guanines spontaneously form four stranded structures citation citation
+MISC--: g dna structures consist stacked planar g quartets held together hoogsteen hydrogen bonding between four guanines each g tracts
+MISC--: guanines come single nucleic acid strand multiple strands strands may oriented parallel anti parallel orientation
+MISC--: g dna structures compact highly stable under physiological ph salt conditions resistant degradation nucleases melting temperatures even higher than duplex dna citation citation
+MISC--: g dna structures formed runs two guanines but they less stable than those longer runs
+MISC--: g dna structure considerable interest because its potential influence variety biological processes citation citation
+MISC--: example telomeric dna most eukaryotic organisms consists g rich repeated sequence ending single stranded g rich overhang form g quadruplexes vitro citation citation
+MISC--: first direct evidence presence g dna structures vivo came studies using g dna specific antibodies detect intermolecular structures at ciliate telomeres where their formation dissolution cell cycle regulated citation citation
+CONT--: however described detail this paper telomeric dnas not only chromosomal sequences ability form g dna structures
+MISC--: because experimental characterization vivo functions g dna structures proved difficult citation especially at non telomeric loci genome wide computational analyses played increasing role identification regions potential form g dna structures
+MISC--: distribution g dna motifs been investigated s cerevisiae citation human citation citation number prokaryotic genomes citation hope patterns occurrence will provide insight into functional roles structures
+MISC--: each case computational search variations g dna motif usually four tracts three more guanines separated loop regions any nucleotide was performed
+MISC--: across wide range species g dna motifs were found telomeres g rich micro mini satellites near promoters within ribosomal dna citation citation
+MISC--: human genome genes near g dna motifs fall into specific functional classes example oncogenes tumor suppressor genes particularly high low g dna forming potential citation citation
+MISC--: recently human g dna motifs were reported associated recombination prone regions citation show mutational patterns preserved potential form g dna structures citation
+MISC--: computational analysis s cerevisiae identified several hundred g dna motifs found them significantly associated promoter regions lesser extent open reading frames citation
+MISC--: thus studies wide range organisms led proposal g dna structures affect multiple cellular processes beyond their roles at telomeres
+OWNX--: however direct support formation function g dna structures vivo still largely unavailable
+AIMX--: this study we integrated genome sequence data experimental analysis computational exploration genome annotations investigate conservation function g dna structures s cerevisiae
+MISC--: evolutionary conservation across related species played vital role defining functional elements genes regulatory sites citation citation
+OWNX--: we identified sequence motifs potential form g quadruplex structures s cerevisiae six other fungal species assessed evolutionary sequence conservation motifs across seven species
+OWNX--: we found g dna motifs nucleotides comprising them were more evolutionarily conserved than expected chance however they were not strongly conserved genes many known regulatory sites
+MISC--: additionally patterns nucleotide conservation within motifs indicated evolutionary constraint was likely result pressure maintain ability motifs form g dna structures
+MISC--: this analysis provides strong evidence many computationally identified g dna motifs form functional g dna structures vivo
+OWNX--: characterize possible functions structures we evaluated association conserved non conserved g dna motifs range genomic features
+CONT--: tests corroborated previous observations significant associations g dna motifs gene promoters rdna citation suggested several new potential biological functions roles double strand break repair mitochondrial genome

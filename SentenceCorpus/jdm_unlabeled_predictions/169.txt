@@ -1,0 +1,25 @@
+AIMX--: we report preliminary study compared decisions made oxygen depleted environment those made normoxic environment
+MISC--: participants were presented series choices involved either losses gains
+MISC--: each choice they were forced choose between sure thing gamble same expected value
+OWNX--: choices involving losses participants were more risk seeking oxygen depleted environment those involving gains no difference was found
+MISC--: hypoxia result inadequate oxygen supply cells tissues body
+OWNX--: low aerial oxygen concentration first detected sensory receptors carotid body then relayed hypothalamus citation
+MISC--: body responds decrease oxygen arterial saturation increasing heart rate blood pressure ventilation production stress hormones citation
+MISC--: alterations driven sympathetic nervous system could reach awareness if oxygen depletion sufficiently high
+MISC--: however mild oxygen depletion not easily detected higher order brain structures citation
+MISC--: research investigated effects hypoxia human cognitive functions citation
+MISC--: most studies focused basic functions visual perception memory attention language citation
+MISC--: data show number percent reduction arterial blood oxygen saturation diminishes individuals concentration capacity muscular coordination impairs language production visual perception citation
+MISC--: number percent reduction arterial blood oxygen saturation diminishes memory performance induces emotional lability major motor impairments
+OWNX--: present research we aim investigate effect hypoxia judgment decision making
+OWNX--: we believe research worth pursuing two reasons
+MISC--: first people frequently experience mild levels hypoxia during prolonged physical exercise underwater diving high altitude recreational activities e g mountaineering paragliding parachuting flight when defect occurs cabin pressurization system
+MISC--: second bad judgments decisions during activities fatal
+MISC--: although there no direct research impact hypoxia judgment decision making there research concerning impact its effect stress
+MISC--: current views cognitive system architecture nested within dual process approaches citation suggest stressful conditions affect decision making broadening prevalence intuitive automatic processes over analytic deliberative ones
+MISC--: stressful situations individuals might rely simple rules thumb heuristics rather than analytic processes aim maximize subjective utility
+MISC--: although heuristics certain contexts efficient guides routine but complex tasks citation others they lead systematic biases
+MISC--: example recent research citation shown acute stress induced keeping ones hand freezing water modulates gamble decisions partially exacerbating bias known reflection effect people s tendency avoid risk secure certain gain seek risk avoid certain loss citation
+OWNX--: present research we investigated whether oxygen depletion also leads exacerbation reflection effect
+OWNX--: laboratory setting we compared decisions made mildly oxygen depleted environment those made normoxic environment
+OWNX--: contrast previous studies where participants were aware stressor used e g time pressure cold water social pressure participants present study were not aware mild oxygen depletion

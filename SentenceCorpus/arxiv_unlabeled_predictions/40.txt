@@ -1,0 +1,55 @@
+OWNX--: dimension reduction symbol method cauchy random projections multiplies original data matrix symbol random matrix symbol symbol whose entries iid
+MISC--: samples standard cauchy symbol
+OWNX--: because impossibility results one not hope recover pairwise symbol distances symbol symbol using linear estimators without incurring large errors
+MISC--: however nonlinear estimators still useful certain applications data stream computation information retrieval learning data mining
+OWNX--: we propose three types nonlinear estimators bias corrected sample median estimator bias corrected geometric mean estimator bias corrected maximum likelihood estimator
+MISC--: sample median estimator geometric mean estimator asymptotically symbol equivalent but latter more accurate at small symbol
+OWNX--: we derive explicit tail bounds geometric mean estimator establish analog johnson lindenstrauss jl lemma dimension reduction symbol weaker than classical jl lemma dimension reduction symbol
+OWNX--: asymptotically both sample median estimator geometric mean estimators about symbol efficient compared maximum likelihood estimator mle
+OWNX--: we analyze moments mle propose approximating distribution mle inverse gaussian
+AIMX--: this paper focuses dimension reduction symbol particular method based cauchy random projections citation special case linear random projections
+OWNX--: idea linear random projections multiply original data matrix symbol random projection matrix symbol resulting projected matrix symbol
+MISC--: if symbol then should much more efficient compute certain summary statistics e g pairwise distances symbol opposed symbol
+MISC--: moreover symbol may small enough reside physical memory while symbol often too large fit main memory
+OWNX--: choice random projection matrix symbol depends norm we would like work
+MISC--: citation proposed constructing symbol iid
+MISC--: samples symbol stable distributions dimension reduction symbol symbol
+BASE--: stable distribution family citation normal stable cauchy stable
+OWNX--: thus we will call random projections symbol symbol normal random projections cauchy random projections respectively
+OWNX--: normal random projections citation we estimate original pairwise symbol distances symbol directly using corresponding symbol distances symbol up normalizing constant
+MISC--: furthermore johnson lindenstrauss jl lemma citation provides performance guarantee
+OWNX--: we will review normal random projections more detail section
+OWNX--: cauchy random projections we should not use symbol distance symbol approximate original symbol distance symbol cauchy distribution does not even finite first moment
+MISC--: impossibility results citation proved one not hope recover symbol distance using linear projections linear estimators e g sample mean without incurring large errors
+MISC--: fortunately impossibility results do not rule out nonlinear estimators may still useful certain applications data stream computation information retrieval learning data mining
+MISC--: citation proposed using sample median instead sample mean cauchy random projections described its application data stream computation
+OWNX--: this study we provide three types nonlinear estimators bias corrected sample median estimator bias corrected geometric mean estimator bias corrected maximum likelihood estimator
+MISC--: sample median estimator geometric mean estimator asymptotically equivalent i e both about symbol efficient maximum likelihood estimator but latter more accurate at small sample size symbol
+OWNX--: furthermore we derive explicit tail bounds bias corrected geometric mean estimator establish analog jl lemma dimension reduction symbol
+MISC--: this analog jl lemma symbol weaker than classical jl lemma symbol geometric mean estimator non convex norm hence not metric
+MISC--: many efficient algorithms some sub linear time using super linear memory nearest neighbor algorithms citation rely metric properties e g triangle inequality
+MISC--: nevertheless nonlinear estimators may still useful important scenarios
+OWNX--: estimating symbol distances online original data matrix symbol requires symbol storage space hence often too large physical memory
+MISC--: storage cost all pairwise distances symbol may also too large memory
+MISC--: example information retrieval symbol could total number word types documents at web scale
+MISC--: avoid page fault may more efficient estimate distances fly projected data matrix symbol memory
+OWNX--: computing all pairwise symbol distances distance based clustering classification applications we need compute all pairwise distances symbol at cost time symbol
+MISC--: using cauchy random projections cost reduced symbol
+MISC--: because symbol savings could enormous
+OWNX--: linear scan nearest neighbor searching we always search nearest neighbors linear scans
+MISC--: when working projected data matrix symbol memory cost searching nearest neighbor one data point time symbol may still significantly faster than sub linear algorithms working original data matrix symbol often disk
+OWNX--: we briefly comment coordinate sampling another strategy dimension reduction
+OWNX--: given data matrix symbol one randomly sample symbol columns symbol estimate summary statistics including symbol symbol distances
+MISC--: despite its simplicity there two major disadvantages coordinate sampling
+MISC--: first there no performance guarantee
+OWNX--: heavy tailed data we may choose symbol very large order achieve sufficient accuracy
+MISC--: second large datasets often highly sparse example text data citation market basket data citation
+MISC--: citation citation provide alternative coordinate sampling strategy called conditional random sampling crs suitable sparse data
+MISC--: non sparse data however methods based linear random projections superior
+AIMX--: rest paper organized follows
+OWNX--: section reviews linear random projections
+OWNX--: section summarizes main results three types nonlinear estimators
+OWNX--: section presents sample median estimators
+OWNX--: section concerns geometric mean estimators
+OWNX--: section devoted maximum likelihood estimators
+OWNX--: section concludes paper

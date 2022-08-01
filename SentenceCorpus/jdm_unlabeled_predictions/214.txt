@@ -1,0 +1,42 @@
+OWNX--: we study whether probability weighting observed when individuals presented series choices between lotteries consisting real non monetary adverse outcomes electric shocks
+MISC--: our estimation parameters probability weighting function proposed tversky kahneman citation similar those obtained previous studies lottery choice negative monetary payoffs negative hypothetical payoffs
+MISC--: addition common ratio violations choice behavior widespread
+OWNX--: our results provide evidence probability weighting general phenomenon independent source disutility
+MISC--: expected utility theory eut standard theoretical model choice under risk used economic analysis
+MISC--: eut posits utility assigned lottery prospect linear probability each possible outcome lottery
+MISC--: while eut appealing formulation economic modeling number experiments called into question descriptive model choice under risk see starmer citation review literature
+MISC--: other hand specifications allowing probabilities weighted function pip where pip inverted s shape provide good empirical fit available experimental data citation
+OWNX--: inverted s shape corresponds overweighting low probabilities underweighting high probabilities
+MISC--: recognition this empirical support probability weighting incorporated key assumption several theories choice under risk including prospect theory citation rank dependent expected utility theory citation cumulative prospect theory citation
+MISC--: particularly striking phenomenon arise consequence probability weighting common ratio violation
+MISC--: consider two lotteries individual utility function ux
+MISC--: first yields payoff x not equals number probability p zero payoff probability numberp second lottery yields x not equals number probability p zero otherwise
+MISC--: linearity assumption expected utility theory implies individual who chooses first lottery over second one must also choose lottery delivers x probability q p over lottery yields x probability q p
+MISC--: clearly if pux greater than equal pux then q pux greater than equal q pux
+MISC--: originally conjectured allais citation common ratio violations result indifference curves probability triangle explained later fan out fan been found widespread domain positive payoffs lotteries involving monetary outcomes citation
+MISC--: empirical support underlying probability weighting common ratio violations comes primarily experimental studies all outcomes involve non negative monetary payments citation
+MISC--: however many economic decisions involve possibility losses
+MISC--: examples include decision invest stock choose among alternative medical procedures trust another person institution business personal transaction
+MISC--: few studies explored decisions domain losses they used one two techniques induce negative payoffs
+MISC--: some studies researchers use hypothetical payoffs examples include kahneman tversky citation abdellaoui citation
+MISC--: other studies participants given real cash endowment at beginning experiment real losses deducted this initial balance examples include holt laury citation mason et al citation
+MISC--: however many real life decisions involve negative outcomes not monetary
+OWNX--: consider cancer patient who asked make choice between two uncomfortable medical treatments involve tradeoffs between probabilities utilities different prospective states health e g radiation therapy versus extensive surgery
+MISC--: another example decision defendant criminal case accept reject plea bargain reduced sentence prison
+MISC--: defendant faces choice between lotteries over time incarceration
+MISC--: however methodological challenge exists when studying decisions over non monetary adverse outcomes how do we induce real outcomes this type laboratory
+OWNX--: some authors used aversive stimuli investigate other principles decision making
+MISC--: example ariely et al citation used annoying sounds well having subjects place their fingers inside tightening vice study effects anchoring preferences
+MISC--: coursey et al citation required individuals drink sucrose octa acetate unpleasant tasting liquid study willingness pay willingness accept decisions bad good negative value
+AIMX--: this paper we use painful electric shocks induce negative payoffs
+MISC--: pain good measure disutility almost everyone would rather avoid
+MISC--: addition means inducing disutility use electric shocks satisfies smith s citation precepts pertaining appropriateness reward medium experiment monotonicity dominance
+OWNX--: we presume larger shock either magnitude duration worse than smaller one
+MISC--: fixed duration disutility shock monotonic current therefore monotonic its voltage
+OWNX--: furthermore our simple decision task described below given voltage levels applied our experiment quite reasonable presume differences between voltage levels alternative choices large enough dominate costs deciding between alternatives
+MISC--: physical pain unlike cash payments also other advantages inducing individual incentives recipient consumes instantly cannot transfer other individuals
+OWNX--: this paper we consider whether phenomenon probability weighting particular inverted s shaped pattern probability distortion observed when people face lotteries involve painful shocks whether common ratio violations been observed lotteries involving positive monetary payments also appear our setting
+OWNX--: addition although probability weighting predict complex pattern fanning fanning out inside probability triangle particular gambles we consider we expect see more risk aversion when gambles get better i e when there lower overall chance shock means indifference curves would tend fan out
+OWNX--: we find both probability weighting common ratio violations prominent features our data
+MISC--: median probability weighting parameter we estimate very similar those observed decisions over negative hypothetical monetary payoffs citation
+MISC--: results suggest similar process probability weighting characterizes lottery choice both monetary non monetary outcomes when payoffs negative

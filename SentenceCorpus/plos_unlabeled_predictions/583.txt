@@ -1,0 +1,44 @@
+MISC--: pavlovian predictions future aversive outcomes lead behavioral inhibition suppression withdrawal
+MISC--: there considerable evidence involvement serotonin both learning predictions inhibitory consequences ensue although less causal relationship between two
+OWNX--: context highly simplified model chains affectively charged thoughts we interpret combined effects serotonin terms pruning tree possible decisions
+OWNX--: we show how drop behavioral inhibition putatively resulting experimentally psychiatrically influenced drop serotonin could result unexpectedly large negative prediction errors significant aversive shift reinforcement statistics
+MISC--: we suggest interpretation this finding helps dissolve apparent contradiction between fact inhibition serotonin reuptake first line treatment depression although serotonin itself most strongly linked aversive rather than appetitive outcomes predictions
+MISC--: serotonin neuromodulator appears play critical role wealth psychiatric conditions including depression anxiety panic obsessive compulsions
+MISC--: however despite importance serotonergic pharmacotherapies notably selective serotonin reuptake inhibitors roles serotonin plays normal abnormal function still mysterious
+OWNX--: we start three particular findings
+MISC--: first ht involved prediction aversive events possibly form opponent citation citation dopamine citation citation
+MISC--: second ht involved behavioral inhibition citation citation preventing curtailing ongoing actions light predictions aversive outcomes
+MISC--: third finding collection psychopharmacological data implicating ht animal models depression anxiety citation citation together fact depleting ht human subjects who recovered depression reinstate acute at times fulminant re experience subjective symptoms disease assessed various rating scales citation citation
+MISC--: furthermore while ssris used treatment depression genetically induced constitutive decreases efficiency ht reuptake risk factor depression citation citation
+MISC--: findings hard connect second fact seems orthogonal first third themselves apparent contradiction
+MISC--: if ht really involved predicting aversive outcomes then depleting should surely positive rather than negative affective consequences
+OWNX--: we suggest missing link comes considering interactions between pavlovian predictions ongoing action selection
+MISC--: interaction seen conditioned suppression citation standard workhorse test aversive predictions
+MISC--: animals trained emit appetitive instrumental actions associate light shock
+MISC--: presentation light during instrumental performance reduces rate at animals emit those responses
+MISC--: neither theoretical nor neurobiological status this interaction completely resolved though there some evidence involvement ht nucleus accumbens its realization citation citation
+MISC--: here we treat subset inhibitory processes associated gray s behavioral inhibition system citation citation citation citation terms what might called preparatory pavlovian response
+MISC--: consummatory pavlovian responses pre programmed reactions presence affectively significant outcomes food water threats
+MISC--: preparatory pavlovian responses similarly pre programmed responses predictions those outcomes
+MISC--: even though predictions learned responses not may therefore behaviorally inappropriate certain circumstances citation citation
+MISC--: our purposes long noted deakin graeff citation most important preparatory pavlovian response prediction threat citation inhibition form withdrawal disengagement
+OWNX--: this explicitly links first two findings discussed above inhibition directly associated aversive predictions
+AIMX--: explore consequences reflexive direct inhibition action learning affective settings together repercussions when ht compromised we built highly simplified model sought isolate effects more general learning effects
+OWNX--: more specifically we built model trains thoughts
+OWNX--: our treatment we considered thoughts actions lead one belief state next
+OWNX--: trains thought gained value through their connections group terminal states were preassigned either positive negative affective values
+OWNX--: ht directly inhibited chains thought predicted lead toward negative terminal states
+MISC--: our model seen terms ht s pruning decision tree outcome states choices citation citation
+OWNX--: we argue results tryptophan depletion above now emerge when considering consequences this reflexive behavioral inhibition ongoing learning about world subsequent action choice predictions
+MISC--: most notable effect model critical bias toward optimistic valuation
+MISC--: states actions potentially negative consequences under explored incorrectly valued because reflexive inhibition
+MISC--: when inhibition fails though last three issues mentioned above there two adverse consequences
+MISC--: first inhibition no longer crutch instrumental action choice so subjects learn avoid potentially bad situations rather than being able rely this reflexive mechanism
+MISC--: second due mismatch between policy value function characteristic inconsistencies between predicted actual values arise actual values encountered being more negative than predicted though also actually more realistic
+MISC--: this mismatch between policy value function also leads overall reduction rewards obtained
+MISC--: boosting ht model again restores status quo
+OWNX--: course this highly simplified model cannot possibly itself accommodate all diverse confusing roles ht
+OWNX--: nevertheless replicates some prominent behavioral pharmacological facets depression anxiety humans animal models we return discussion
+OWNX--: next section defines model trains thought more formally
+OWNX--: results section considers normal learning consequences impairments ht processing
+OWNX--: we save discussion broader discussion data theories pertaining ht

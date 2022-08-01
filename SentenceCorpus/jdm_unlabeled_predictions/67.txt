@@ -1,0 +1,37 @@
+MISC--: research forecasting effectively limited forecasts expressed clarity say forecasted event must sufficiently well defined so clearly resolved whether not event occurred forecasts certainties expressed quantitative probabilities
+MISC--: when forecasts expressed clarity then quantitative measures scoring rules calibration discrimination etc
+MISC--: used measure forecast accuracy turn used measure comparative accuracy different forecasting methods
+MISC--: unfortunately most real world forecasts not expressed clearly
+MISC--: this lack clarity extends both description forecast event use vague language express forecast certainty
+CONT--: thus difficult assess accuracy most real world forecasts consequently accuracy methods used generate real world forecasts
+CONT--: this paper addresses this deficiency presenting approach measuring accuracy imprecise real world forecasts using same quantitative metrics routinely used measure accuracy well defined forecasts
+OWNX--: demonstrate applicability inferred probability method applied measure accuracy forecasts fourteen documents examining complex political domains
+MISC--: forecasting accuracy determination practices methods tools improve accuracy topic substantial research practical importance
+MISC--: citation when endeavoring measure forecast accuracy researchers generally require forecasted events clearly described degree forecast certainty expressed quantitative probabilities
+MISC--: contrast forecasting research most published forecasts describe forecast events considerable imprecision use vague certainty expressions citation
+MISC--: this particularly true forecasts about complex international political events substantive domain interest us
+MISC--: consider example statement stratfor forecasts number iran s rather difficult gauge what meant fair chance
+MISC--: number percent chance number percent chance perhaps number percent chance
+MISC--: if event occurs would unclear if should judged mostly accurate inaccurate forecast
+MISC--: consider also following statement stratfor iran number forecast addition fact different individuals vary widely their interpretation word likely citation phrase backing down itself hard define
+MISC--: if there negotiated settlement does mean iran backed down other parties backed down settlement was found where everyone could claim success
+CONT--: cases difficult specify clear criteria priori determining whether not event occurred
+MISC--: anecdotally authors forecasting documents expressed us vigorous arguments favor imprecise forecasts
+MISC--: they believe clarity requirements severely limit their ability express what they intend say
+MISC--: example phrase backing down succinctly describes important element forecast event namely individuals involved will accepting option less desirable than their expressed preference
+MISC--: addition many forecasters prefer verbal certainty expressions quantitative uncertainties because they believe later connotes artificial precision misleads readers
+MISC--: though there may valid reasons expressing forecasts imprecisely there still need evaluate forecast accuracy
+MISC--: research expert political judgment citation would suggest lacking objective feedback accuracy their forecasts experts unlikely accurately determine when their forecasts were inaccurate
+OWNX--: particular given hindsight memory bias we would anticipate forecasters will remember certainty statements fair chance having meant low probability when event didn t occur high probability when event did occur
+MISC--: furthermore without measuring accuracy real world forecasts difficult compare accuracy different forecasting methods outside artificial research settings unfortunately results artificial research settings widely ignored practitioners
+MISC--: distinction between academic research practice well illustrated fourteen years research political analysts summarized tetlock citation
+MISC--: every research effort described tetlock involved constructing carefully defined forecasting questions asking analysts provide quantitative forecasts
+OWNX--: forecasts analysts actually published were not examined
+OWNX--: this paper we describe method measuring accuracy imprecise forecasts
+MISC--: our objective add sufficient rigor evaluation imprecise forecasts enable application common metrics forecast accuracy forecasts actually published
+OWNX--: our approach incorporates two basic techniques inferred probabilities impartial ground truth judgments
+OWNX--: first we use inferred probabilities impute quantitative probabilities verbal expressions certainty
+OWNX--: simply put we ask multiple readers assign quantitative probabilities based their understanding written document rather than their personal beliefs
+OWNX--: second we ask multiple ground truth raters who do not see original documents inferred probabilities independently research estimate whether not forecasted event occurred
+OWNX--: addition needed we use inter rater agreement data statistically adjust estimated ground truth frequencies
+OWNX--: below we present details our current instantiation inferred probability method

@@ -1,0 +1,29 @@
+AIMX--: this paper we present two classes bayesian approaches two sample problem
+OWNX--: our first class methods extends bayesian t test include all parametric models exponential family their conjugate priors
+BASE--: our second class methods uses dirichlet process mixtures dpm conjugate exponential distributions flexible nonparametric priors over unknown distributions
+OWNX--: synthetic examples real medical datasets we show our tests competitive best state art methods this task even outperforming them average medical datasets
+AIMX--: this paper we tackle so called two sample problem associated test called two sample test
+MISC--: tests encountered various disciplines life sciences social sciences medical studies one may want find out if two classes patients show different behaviour response drug susceptibility disease
+MISC--: microarray analysis one may compare measurements different weeks labs platforms find out if they follow same distribution before integrating them into one dataset order increase sample size
+MISC--: neurosciences one may want compare measurements brain signals under different external stimuli check whether brain activity affected stimuli
+MISC--: social sciences one may want compare whether behavior group people eg when they graduate marry die different across countries generations
+MISC--: financial sciences one could example compare set transactions performed at stock exchange during different weeks find out if there change activity financial markets
+OWNX--: while this question been studied detail classic statistics univariate data there less work multivariate data we review section
+MISC--: only machine learning approach this problem kernel method citation using means two samples symbol symbol universal reproducing kernel hilbert space its test statistics but created lots interest subject follow studies citation
+OWNX--: here we approach this two sample problem bayesian perspective
+MISC--: classic bayesian formulation this problem would terms bayes factor citation represents likelihood ratio data were generated according hypothesis symbol same distribution hypothesis symbol different distributions
+MISC--: however how exactly define two hypotheses crucial question many answers been given bayesian literature hypotheses tailored specific problem application domain one example bayesian t tests used microarray data analysis citation
+OWNX--: our goal this paper define two general classes two sample tests represent precise formulation two sample problem but not tailored specific application
+MISC--: they designed offer attractive middle ground between general idea using bayes factors specialised hypotheses testing problems studied literature
+OWNX--: detail we define class nonparametric bayesian two sample tests based dirichlet process mixture models
+MISC--: use dirichlet process mixtures flexible nonparametric modelling general unknown distributions long history statistics
+MISC--: however although two sample problem depends crucially testing whether data come one two unknown distributions bayesian approaches based nonparametric density models not been explored date
+BASE--: here we propose explore non parametric method using classic dirichlet process mixture
+BASE--: best our knowledge only work remotely related bayesian test parametric versus nonparametric model data berger guglielmi citation
+MISC--: this addresses different but related question since assumes parametric null hypothesis
+OWNX--: we also define parametric bayesian two sample test where model data member exponential family
+MISC--: this test generalizes bayesian t test citation citation who assume samples gaussian
+AIMX--: this paper structured follows
+OWNX--: section we will review existing approaches two sample problem multivariate data highlight some differences between frequentist bayesian hypothesis testing
+OWNX--: section we outline common core our two bayesian two sample test before providing details parametric test section non parametric test section
+OWNX--: section we will evaluate performance our tests comparing state art methods this field

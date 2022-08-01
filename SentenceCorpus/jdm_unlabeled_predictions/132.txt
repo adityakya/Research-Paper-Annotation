@@ -1,0 +1,18 @@
+MISC--: research identified loss aversion strong robust phenomenon but also revealed some moderators affecting magnitude its effect decision making
+MISC--: current article we draw attention fact even measurement loss aversion itself may affect its magnitude inducing focus either losses gains
+OWNX--: three studies we provide empirical evidence measurement induced focus
+OWNX--: all studies we used coin toss gambles there number number chance win lose assess gain loss ratios measure loss aversion
+MISC--: participants either filled out loss side gain side this gain loss ratio
+MISC--: studies consistently showed using within between subject designs anticipated real coin toss gambles strength loss aversion depended measurement format fill loss versus fill gain filling loss side increased loss aversion
+MISC--: moreover loss aversion was more affected stakes gamble fill loss format than fill gain format
+MISC--: when making decisions decision makers consider potential outcomes thus consider potential losses gains may occur
+OWNX--: example when speculating stock exchange we consider potential losses should stock go down potential gains should stocks go up
+MISC--: when making decisions especially when people directly compare potential losses gains people often give more weight losses citation
+MISC--: this larger weight given negative outcomes generally referred loss aversion i e losses loom larger than gains citation
+MISC--: addition stock market decisions loss aversion been used explain many effects observed context decision making sunk cost effect citation status quo bias citation endowment effect citation
+CONT--: although existence loss aversion well accepted there still work done developing better accounts its causes boundaries consequences
+MISC--: example researchers generally assume potential gains need approximately twice large offset potential losses citation
+MISC--: they introduced loss aversion coefficient ratio g l gains losses makes even chance gain g lose l just acceptable citation
+MISC--: they observed gain loss ratio number number number their experiments showing gains average need twice large losses make even chance gain g lose l acceptable
+AIMX--: current paper however we will argue show this loss aversion ratio not constant but fact influenced how measured
+MISC--: we show ratio approximately number when people focus gains compared loss but ratio increases when people focus losses compared gain

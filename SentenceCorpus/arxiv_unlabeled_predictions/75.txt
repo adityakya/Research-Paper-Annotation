@@ -1,0 +1,47 @@
+AIMX--: we show how rate distortion theory provides mechanism automated theory building naturally distinguishing between regularity randomness
+OWNX--: we start simple principle model variables should much possible render future past conditionally independent
+OWNX--: this we construct objective function model making whose extrema embody trade off between model s structural complexity its predictive power
+MISC--: solutions correspond hierarchy models at each level complexity achieve optimal predictive power at minimal cost
+OWNX--: limit maximal prediction resulting optimal model identifies process s intrinsic organization extracting underlying causal states
+MISC--: this limit model s complexity given statistical complexity known minimal achieving maximum prediction
+MISC--: examples show how theory building profit analyzing process s causal compressibility reflected optimal models rate distortion curve process s characteristic optimally balancing structure noise at different levels representation
+MISC--: progress science often driven discovery novel patterns
+MISC--: historically physics relied creative mind theorist articulate mathematical models capture nature s regularities physical principles laws
+MISC--: but last decade witnessed new era collecting truly vast data sets
+MISC--: examples include contemporary experiments particle physics citation astronomy citation but range genomics automated language translation citation web social organization citation
+CONT--: all volume data far exceeds what any human analyze directly hand
+OWNX--: this presents new challenge automated pattern discovery model building
+OWNX--: principled understanding model making critical provide theoretical guidance developing automated procedures
+OWNX--: this letter we show how basic information theoretic optimality criteria provide method automatically constructing hierarchy models achieve different degrees abstraction
+OWNX--: importantly we show appropriate limits method recovers process s causal organization
+CONT--: without this connection would only another approach statistical inference its own ad hoc assumptions about character natural pattern
+MISC--: our starting point observation natural systems store process produce information they compute intrinsically citation
+MISC--: theory building then faces challenge extracting information structures underling its generation
+CONT--: any physical theory delineates mechanism randomness identifying what part observed phenomenon due underlying process s structure what irrelevant
+MISC--: irrelevant parts considered noise typically modeled probabilistically
+MISC--: successful theory building therefore depends centrally deciding what structure what noise often implicit distinction
+MISC--: what constitutes good theory though
+MISC--: information relevant
+MISC--: one answer this question time series prediction information about future time series relevant
+MISC--: beyond forecasting though models often put test assessing how well they predict new data hence general importance model capture information aids prediction
+MISC--: typically there many models explain given data set between two models equally predictive one favors simpler smaller less structurally complex model citation
+MISC--: however more complex model achieve smaller prediction error than less complex model
+MISC--: trade off between model complexity prediction error tantamount finding distinction between causal structure noise
+MISC--: trade off between assigning causal mechanism occurrence event explaining event being merely random long history but how one implements trade off still very active topic
+MISC--: nonlinear time series analysis citation take one example attempts account long range correlations produced nonlinear dynamical systems correlations not adequately modeled assumptions linearity independent identically distributed iid data
+MISC--: success this endeavor requires directly addressing notion structure pattern citation
+MISC--: examination essential goals prediction led principled definition structure captures dynamical system s causal organization part discovering underlying causal states citation
+MISC--: computational mechanics process symbol viewed communication channel citation transmits information past symbol future symbol storing present
+MISC--: purpose forecasting future two different pasts say symbol symbol equivalent if they result same prediction citation
+MISC--: general this prediction probabilistic given conditional future distribution symbol
+OWNX--: resulting equivalence relation symbol groups all histories give rise same conditional future distribution symbol resulting partition space symbol pasts defines process s causal states symbol
+MISC--: causal states constitute model maximally predictive means capturing all information past time series contains about future
+OWNX--: result knowing causal state renders past future conditionally independent property we call causal shielding because causal states markovian property they shield past future citation symbol where symbol
+MISC--: this related fact causal state partition optimally predictive
+OWNX--: see this note eq implies symbol
+OWNX--: furthermore note definition any partition symbol symbol states symbol when past known then future distribution not altered history space partitioning symbol this implies causal states symbol thus symbol
+MISC--: therefore causal shielding equivalent fact citation causal states capture all information symbol shared between past future symbol process s excess entropy symbol predictive information citation
+MISC--: causal states unique minimal sufficient statistics time series prediction capturing all process s predictive information at maximum efficiency citation
+MISC--: causal state partition smallest statistical complexity symbol compared all other equally predictive partitions symbol
+MISC--: symbol measures minimal amount information must stored order communicate all excess entropy past future
+OWNX--: briefly stated causal states serve basis against alternative models should compared

@@ -1,0 +1,56 @@
+OWNX--: symbolic dynamics proven invaluable tool analyzing mechanisms lead unpredictability random behavior nonlinear dynamical systems
+MISC--: surprisingly discrete partition continuous state space produce coarse grained description behavior accurately describes invariant properties underlying chaotic attractor
+MISC--: particular measures rate information production topological metric entropy rates estimated outputs markov generating partitions
+OWNX--: here we develop bayesian inference symbol th order markov chains method finding generating partitions estimating entropy rates finite samples discretized data produced coarse grained dynamical systems
+MISC--: research chaotic dynamical systems during last forty years produced new vision origins randomness
+OWNX--: now widely understood observed randomness generated low dimensional deterministic systems exhibit chaotic attractor
+MISC--: today when confronted what appears high dimensional stochastic process one now asks whether not process instead hidden low dimensional but nonlinear dynamical system
+OWNX--: this awareness though requires new way looking at apparently random data since chaotic dynamics very sensitive measurement process citation both blessing curse turns out
+MISC--: symbolic dynamics one suite tools dynamical systems theory its most basic form addresses this issue considering coarse grained view continuous dynamics this sense any finite precision instrument measures chaotic system induces symbolic representation underlying continuous valued behavior
+MISC--: effectively model time series discrete data continuous state system two concerns must addressed
+OWNX--: first we must consider measurement instrument representation true dynamics provides
+OWNX--: second we must consider inference models based this data
+MISC--: relation between steps more subtle than one might expect
+OWNX--: we will demonstrate one hand measurement chaotic data instrument should designed maximize entropy rate resulting data stream
+MISC--: this allows one extract much information each measurement possible
+MISC--: other hand model inference strives minimize apparent randomness entropy rate over class alternative models
+MISC--: this reflects search determinism structure data
+OWNX--: here we address interplay between optimal instruments optimal models analyzing relatively simple nonlinear system
+OWNX--: we consider design binary output instruments chaotic maps additive noise
+OWNX--: we then use bayesian inference symbol th order markov chain model resulting data stream
+MISC--: our model system one dimensional chaotic map additive noise citation symbol where symbol symbol symbol gaussian random variable mean zero variance symbol
+OWNX--: start we consider design instruments zero noise limit
+MISC--: this regime most previous work symbolic dynamics provides convenient frame reference
+MISC--: construction symbolic dynamics representation continuous state system goes follows citation
+MISC--: we assume time discrete consider map symbol state space symbol itself symbol
+MISC--: this space partitioned into finite set symbol nonoverlapping regions many ways
+MISC--: most powerful called markov partition must satisfy two conditions
+MISC--: first image each region symbol must union intervals symbol
+MISC--: second map symbol restricted interval must one one onto
+MISC--: if markov partition cannot found system under consideration next best coarse graining called generating partition
+MISC--: one dimensional maps often easily found using extrema symbol its critical points
+MISC--: critical points map used divide state space into intervals symbol over symbol monotone
+MISC--: note markov partitions generating but converse not generally true
+MISC--: given any partition symbol then series continuous valued states symbol projected onto its symbolic representation symbol
+MISC--: latter simply associated sequence partition element indices
+MISC--: this done defining operator symbol returns unique symbol symbol each symbol alphabet symbol when symbol
+OWNX--: central result symbolic dynamics establishes using generating partition increasingly long sequences observed symbols identify smaller smaller regions state space
+MISC--: starting system region produces associated measurement symbol sequence
+MISC--: limit infinite symbol sequences result discrete symbol representation continuous state system representation we will show often much easier analyze
+AIMX--: this way chosen partition creates symbol sequence symbol describes continuous dynamics sequence symbols
+OWNX--: choice partition then equivalent our instrument design problem
+MISC--: effectiveness partition zero noise limit quantified estimating entropy rate resulting symbolic sequence
+OWNX--: do this we consider length symbol words symbol
+MISC--: block entropy length symbol sequences obtained partition symbol then symbol where symbol probability observing word symbol
+MISC--: block entropy entropy rate estimated following limit symbol practice often more accurate calculate length symbol estimate entropy rate using symbol another key result symbolic dynamics says entropy original continuous system found using generating partitions citation
+MISC--: particular true entropy rate maximizes estimated entropy rates symbol thus translated into statement about experiment design results tell us design instrument so maximizes observed entropy rate
+OWNX--: this reflects fact we want each measurement produce most information possible
+OWNX--: useful benchmark this useful only case when we know symbol piesin s identity citation tells us value symbol equal sum positive lyapunov characteristic exponents symbol
+OWNX--: one dimensional maps there single lyapunov exponent numerically estimated map symbol observed trajectory symbol using symbol taken altogether results tell us how design our instrument effective observation deterministic chaos
+MISC--: notably presence noise no theorems exist
+MISC--: however citation demonstrated methods developed above robust presence noise
+OWNX--: any case we view output instrument stochastic process
+OWNX--: sample realization symbol length symbol measurements taken finite alphabet basis our inference problem symbol
+MISC--: our purposes here sample generated partition continuous state sequences iterations one dimensional map states chaotic attractor
+MISC--: this means particular stochastic process stationary
+OWNX--: we assume addition alphabet binary symbol

@@ -1,0 +1,114 @@
+MISC--: baum welch algorithm together its derivatives
+MISC--: variations been main technique learning hidden markov
+MISC--: models hmm observational data
+OWNX--: we present hmm learning
+MISC--: algorithm based non negative matrix factorization nmf
+MISC--: higher order markovian statistics structurally different
+MISC--: baum welch its associated approaches
+MISC--: described
+MISC--: algorithm supports estimation number recurrent states
+MISC--: hmm iterates non negative matrix factorization nmf
+MISC--: algorithm improve learned hmm parameters
+MISC--: numerical
+OWNX--: examples provided well
+MISC--: hidden markov models hmm been successfully used model
+MISC--: stochastic systems arising variety applications ranging
+MISC--: biology engineering
+MISC--: finance citation
+OWNX--: following accepted notation representing parameters
+MISC--: structure hmm s see
+MISC--: citation
+OWNX--: example we will use following terminology definitions
+MISC--: 
+MISC--: 
+MISC--: symbol number states markov chain underlying
+MISC--: hmm
+MISC--: state space symbol system s
+MISC--: state process at time symbol denoted symbol
+MISC--: symbol number distinct observables symbols generated
+MISC--: hmm
+MISC--: set possible observables symbol observation process at time symbol denoted
+MISC--: symbol
+OWNX--: we denote symbol subprocess
+MISC--: symbol
+MISC--: 
+MISC--: joint probabilities
+OWNX--: symbol symbol s j symbol t symbol v k symbol t symbol s i symbol v k symbol s i symbol s j symbol k ij k symbol v k symbol sum k k symbol x t symbol t symbol gamma
+MISC--: gamma
+MISC--: 
+MISC--: gamma n symbol gamma i p x s i
+MISC--: symbol sum i gamma i symbol k symbol symbol k
+MISC--: km
+OWNX--: we present algorithm learning hmm single
+OWNX--: multiple observation sequences
+MISC--: traditional approach
+MISC--: learning hmm baum welch algorithm citation
+MISC--: been extended variety ways others
+MISC--: citation
+MISC--: recently novel promising approach hmm approximation
+MISC--: problem was proposed finesso et al citation
+MISC--: 
+MISC--: approach based anderson s hmm stochastic realization
+MISC--: technique citation demonstrates positive
+MISC--: factorization certain hankel matrix consisting observation
+OWNX--: string probabilities used recover hidden markov
+MISC--: model s probability matrices
+OWNX--: finesso his coauthors used
+MISC--: recently developed non negative matrix factorization nmf
+MISC--: algorithms citation express those stochastic realization
+MISC--: techniques operational algorithm
+MISC--: earlier ideas vein
+MISC--: were anticipated upper citation although
+MISC--: work did not benefit hmm stochastic realization techniques
+OWNX--: nmf algorithms both were developed after
+MISC--: methods based stochastic realization techniques including
+MISC--: one presented here fundamentally different baum welch
+MISC--: based methods algorithms use input observation
+MISC--: sequence probabilities opposed raw observation em
+MISC--: sequences
+MISC--: anderson s finesso s approaches use system
+CONT--: realization methods while our algorithm spirit
+MISC--: myhill nerode citation construction building
+MISC--: automata languages
+MISC--: myhill nerode construction states
+MISC--: defined equivalence classes pasts produce same
+MISC--: futures
+MISC--: hmm future state probability
+MISC--: distribution over future observations
+OWNX--: following this intuition we
+OWNX--: derive our result manner appears comparatively more
+MISC--: concise elementary relation aforementioned approaches
+MISC--: anderson finesso
+OWNX--: at conceptual level our algorithm operates follows
+OWNX--: we first
+OWNX--: estimate matrix observation sequence s high order
+MISC--: statistics
+OWNX--: this matrix natural non negative matrix
+MISC--: factorization nmf citation interpreted
+MISC--: terms probability distribution future observations given
+MISC--: current state underlying markov chain
+MISC--: once estimated
+OWNX--: probability distributions used directly estimate
+MISC--: transition probabilities hmm
+MISC--: estimated hmm parameters used turn compute
+CONT--: nmf matrix factors well underlying higher order
+MISC--: correlation matrix data generated estimated hmm
+OWNX--: we
+MISC--: present simple example nmf factorization exact
+MISC--: but does not correspond any hmm
+MISC--: this fact
+MISC--: established comparing factors computed nmf
+MISC--: factors computed estimated hmm parameters
+MISC--: this kind
+MISC--: comparison not possible other approaches
+MISC--: citation
+MISC--: important point out optimal non negative matrix
+OWNX--: factorization positive matrix known np hard
+MISC--: general case citation so practice one computes
+MISC--: only locally optimal factorizations
+OWNX--: we will show through
+MISC--: examples repeated iteration factorization
+MISC--: transition probability estimation steps improves
+MISC--: factorizations overall model estimation
+MISC--: details provided
+MISC--: below

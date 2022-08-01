@@ -1,0 +1,31 @@
+AIMX--: this paper we apply computer learning methods diagnosing ovarian cancer using level standard biomarker ca conjunction information provided mass spectrometry
+OWNX--: we working new data set collected over period years
+OWNX--: using level ca mass spectrometry peaks our algorithm gives probability predictions disease
+OWNX--: estimate classification accuracy we convert probability predictions into strict predictions
+OWNX--: our algorithm makes fewer errors than almost any linear combination ca level one peak s intensity taken log scale
+CONT--: check power our algorithm we use test hypothesis ca peaks do not contain useful information prediction disease at particular time before diagnosis
+CONT--: our algorithm produces symbol values better than those produced algorithm been previously applied this data set
+CONT--: our conclusion proposed algorithm more reliable prediction new data keywords online prediction aggregating algorithm ovarian cancer mass spectrometry proteomics
+MISC--: early detection ovarian cancer important since clinical symptoms sometimes do not appear until late stage disease
+MISC--: this leads difficulties treatment patient
+MISC--: using antigen ca significantly improves quality diagnosis
+CONT--: however ca becomes less reliable at early stages sometimes elevates too late make use
+MISC--: our goal investigate whether existing methods online prediction improve quality detection disease demonstrate information contained mass spectra useful ovarian cancer diagnosis early stages disease
+OWNX--: we refer combination ca peak intensity meaning decision rule form symbol where symbol level ca symbol intensity symbol th peak symbol taken sets described below
+OWNX--: we consider prediction triplets each case sample accompanied two samples healthy individuals matched controls chosen close possible case sample respect attributes age storage conditions serum processing
+OWNX--: given triplet samples different individuals we detect one sample we predict cancer
+OWNX--: this framework was first described citation
+MISC--: authors analyze ovarian cancer data set show information contained mass spectrometry peaks help provide more precise reliable predictions diseased patient than ca criteria itself some months before moment diagnosis
+AIMX--: this paper we use same framework set decision rules ca combined peak intensity derive algorithm performs better some sense than any rules
+BASE--: our research we use different more recent ovarian cancer data set citation processed authors citation larger number items than citation
+BASE--: we combine decision rules proposed citation using online prediction algorithm footnote survey online prediction found citation thus get our own decision rule
+AIMX--: this paper we use combining algorithm described citation because allows us output probability measure given triplet best theoretical guarantees this type prediction
+OWNX--: order estimate classification accuracy we convert probability predictions into strict predictions maximum rule we assign weight labels maximum predicted probability weight labels other samples then normalize assigned weights
+OWNX--: we show our algorithm gives more reliable predictions than vast majority particular combinations fact more thorough experiments not described here show outperforms all particular combinations
+MISC--: performs well different stages disease
+CONT--: when testing hypothesis ca peaks do not contain useful information prediction disease at its early stages our algorithm gives better symbol values comparison algorithm chooses best combination addition our algorithm requires fewer adjustments
+OWNX--: our paper organized follows
+OWNX--: section we describe methods we use give predictions
+OWNX--: section gives short description data set we work
+OWNX--: we show our experiments results section separated into description probability prediction algorithm subsection detection at different stages before diagnosis subsection
+OWNX--: section concludes our paper

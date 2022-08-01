@@ -1,0 +1,45 @@
+MISC--: long after new language been learned forgotten relearning few words seems trigger recall other words
+MISC--: this free lunch learning effect been demonstrated both humans neural network models
+MISC--: specifically previous work proved linear networks learn set associations then partially forget them all finally relearn some associations show improved performance remaining associations
+OWNX--: here we prove relearning forgotten associations decreases performance nonrelearned associations effect we call negative free lunch learning
+MISC--: difference between free lunch learning negative free lunch learning presented here due particular method used induce forgetting
+MISC--: specifically if forgetting induced isotropic drifting weight vectors then free lunch learning observed
+MISC--: however proved here if forgetting induced weight values simply decay fall towards zero then negative free lunch learning observed
+MISC--: biological perspective assuming nervous systems analogous networks used here this suggests evolution may selected physiological mechanisms involve forgetting using form synaptic drift rather than synaptic decay because synaptic drift but not synaptic decay yields free lunch learning
+MISC--: idea structural changes underpin formation new memories traced th century citation
+MISC--: more recently hebb proposed when axon cell near enough excite b repeatedly persistently takes part firing some growth process metabolic change takes place one both cells s efficiency one cells firing b increased citation
+OWNX--: now widely accepted learning involves some form hebbian adaptation growing body evidence suggests hebbian adaptation associated long term potentiation observed neuronal systems citation
+MISC--: ltp increase synaptic efficacy occurs presence pre synaptic post synaptic activity specific single synapse
+MISC--: one consequence hebbian adaptation information regarding specific association distributed amongst many synaptic connections therefore gives rise distributed representation each association
+MISC--: citation participants learned layout letters scrambled keyboard
+OWNX--: after period forgetting participants relearned subset letter positions
+MISC--: crucially this improved performance remaining letter positions
+CONT--: however whereas relearning some associations shows evidence fll some studies citation citation this not found not all studies citation
+MISC--: this discrepancy may because many studies performed investigate this general phenomenon use wide variety different materials procedures some measuring recall others measuring recognition performance example
+MISC--: however within realms psychology one relevant effect known part set cueing inhibition
+MISC--: part set cueing inhibition citation occurs when subject exposed part set previously learned items found reduce recall nonrelearned items
+MISC--: however citation showed learned row words was better recalled if cues consisted subset words placed their learned positions than if cue words were placed other positions
+MISC--: this case part set cueing seems improve performance but only if each part appears spatial position was originally learned
+MISC--: this position specificity consistent fll effect reported using scrambled keyboard procedure citation but no obvious concomitant network models
+MISC--: if brain stores information distributed representations then each neuron contributes storage many associations
+MISC--: therefore relearning some old partially forgotten associations should affect integrity other associations learned at about same time
+MISC--: noted above previous work shown relearning some forgotten associations does not disrupt other associations but partially restores them
+MISC--: this fll effect also been demonstrated neural network models where accelerate evolution adaptive behaviors citation
+MISC--: crucially citation proof relearning some associations partially restores other associations assumes forgetting caused addition isotropic noise connection weights could result cumulative effect small random changes connection weights
+MISC--: contrast here we prove if forgetting induced shrinking weights towards zero so weights fall towards origin then relearning some associations disrupts other associations
+MISC--: protocol used examine fll here same used citation citation follows
+MISC--: first learn set n n associations consisting two subsets n n associations respectively
+OWNX--: after all learned associations been partially forgotten measure performance error subset
+MISC--: finally relearn only subset then remeasure performance subset
+MISC--: fll occurs if relearning subset improves performance
+MISC--: order preclude common misunderstanding we emphasize network n connection weights assumed n n n number connection weights each output unit not less than number n n learned associations
+MISC--: using class linear network models described below up n associations learned perfectly
+MISC--: proofs below refer network one output unit
+MISC--: however proofs apply networks multiple output units because n connections each output unit considered distinct network case our results applied network associated each output unit
+OWNX--: each association consists input vector x corresponding target value d network weight vector w response input vector x y w x we define performance error input vectors x x k desired outputs d d k beformulawhere y i w x i output response input vector x i putting x t d t andformulawe write equation succinctly asformula
+MISC--: two subsets consist n n associations respectively
+MISC--: let w network weight vector after learned
+MISC--: when forgotten network weight vector changes w say performance error becomes e pre e finally relearning yields new weight vector w say performance error e post e free lunch learning occurred if performance error less after relearning than was before relearning
+OWNX--: given weight vectors w w matrix x input vectors vector d desired outputs defineformulawhich we shall also refer simply
+BASE--: previous work citation we assumed forgetting vector v isotropic distribution
+MISC--: here we shall assume instead post forgetting weight vector w given byformulafor some scalar r so thatformulaand thereforeformulathe interpretation equation forgetting consists making optimal weight vector w fall towards origin falling factor r

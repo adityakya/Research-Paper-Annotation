@@ -1,0 +1,30 @@
+MISC--: extracting network based functional relationships within genomic datasets important challenge computational analysis large scale data
+MISC--: although many methods both public commercial been developed problem identifying networks interactions most relevant given input data still remains open issue
+MISC--: here we leveraged method random walks graphs powerful platform scoring network components based simultaneous assessment experimental data well local network connectivity
+OWNX--: using this method netwalk we calculate distribution edge flux values associated each interaction network reflects relevance interactions based experimental data
+AIMX--: we show network based analyses genomic data simpler more accurate using netwalk than some currently employed methods
+MISC--: we also present netwalk analysis microarray gene expression data mcf cells exposed different doses doxorubicin reveals switch like pattern p regulated network cell cycle arrest apoptosis
+OWNX--: our analyses demonstrate use netwalk valuable tool generating high confidence hypotheses high content genomic data
+MISC--: important challenge analyses high throughput datasets integration data prior knowledge interactions measured molecules retrieval most relevant biomolecular networks citation citation
+MISC--: this approach facilitates interpretation data within context known functional interactions between biological molecules subsequently leads high confidence hypothesis generation
+OWNX--: typically this procedure would entail identification genes highest lowest data values then followed identification associated networks
+MISC--: however retrieval most relevant biological networks pathways associated upper lower end data distribution not trivial task mainly because members biological pathway do not usually similar data values necessitates use various computational algorithms finding networks genes citation citation citation citation citation citation
+MISC--: one class methods finding relevant networks utilize optimization procedures finding highest scoring subnetworks pathways genes based data values genes citation citation
+MISC--: although this approach likely result highly relevant networks computationally expensive inefficient therefore not suitable routine analyses functional genomics data lab
+MISC--: most popular existing methods extraction relevant networks genomic data however usually involve network building strategy using pre defined focus gene set typically set genes most significant data values citation citation
+MISC--: network built filling other nodes network either based enrichment interactions focus set citation based analysis shortest paths between focus genes citation citation
+MISC--: both methods aim at identifying genes network most central connecting focus genes each other
+MISC--: problems associated methods been outlined previously citation
+CONT--: however perhaps most importantly central genes identified methods may incoherent data values focus genes data values nodes not accounted during network construction process using seed gene list
+MISC--: this may result uninformative networks not representative networks most significantly represented genomic data
+MISC--: addition methods do not account genes more subtle data values collectively may more important than those more obvious data values citation
+CONT--: although powerful data analysis methods finding sets genes significant albeit subtle expression changes been developed approach not been incorporated into methods extracting interaction networks most highlighted data
+OWNX--: order overcome problems we employed method random walks graphs scoring relevance interactions network data
+MISC--: method random walks been well established structural analyses networks fully account local well global topological structure within network citation citation very useful identifying most important central nodes citation citation
+OWNX--: here instead working pre defined set focus genes we overlay entire data distribution onto network bias random walk probabilities based data values associated nodes
+OWNX--: this method netwalk generates distribution edge flux values each interaction network then used dynamical network building further statistical analyses
+OWNX--: here we describe concept netwalk demonstrate its usefulness extracting relevant networks compared ingenuity pathway analysis show use netwalk results comparative analyses highlighted networks between different conditions
+OWNX--: we tested netwalk experimentally derived genomic data breast cancer cells treated different concentrations doxorubicin clinically used chemotherapeutic agent
+OWNX--: using netwalk we identify several previously unreported network processes involved doxorubicin induced cell death
+OWNX--: studies we propose netwalk valuable network based analysis tool integrates biological high throughput data prior knowledge networks define sub networks genes modulated biologically meaningful way
+MISC--: use netwalk will greatly facilitate analysis genomic data

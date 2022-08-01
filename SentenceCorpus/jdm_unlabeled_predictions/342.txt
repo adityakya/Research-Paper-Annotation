@@ -1,0 +1,45 @@
+MISC--: several approaches judgment decision making emphasize effort reducing properties heuristics
+MISC--: one prominent example effort reduction recognition heuristic rh proposes judgments made relying one single cue recognition ignoring other information
+OWNX--: our research aims shed light conditions under rh more useful thus relied more often
+OWNX--: we propose intuitive thinking fast automatic effortless whereas deliberative thinking slower stepwise more effortful
+MISC--: because effort reduction thus much more important when processing information deliberately we hypothesize rh should more often relied situations
+OWNX--: two city size experiments we instructed participants think either intuitively deliberatively assessed use rh through formal measurement model
+MISC--: results revealed both experiments use rh was more likely when judgments were made deliberatively rather than intuitively
+OWNX--: we conclude potential application heuristics not necessarily consequence intuitive processing
+MISC--: rather their effort reducing features probably most beneficial when thinking more deliberatively
+MISC--: heuristics meant reduce effort
+MISC--: indeed without issues processing effort information search costs there would little need examining fewer cues reducing difficulty storing retrieving cue values simplifying weighting principles cues integrating less information all characterize heuristic strategies citation
+MISC--: following pioneering work herbert simon citation most approaches judgment decision making dealing heuristic processing specifically emphasize its simplifying properties citation though there some discourse whether heuristics generally less accurate than complex strategies
+MISC--: however despite disagreements many would concur heuristics render judgments decisions easier one way another
+MISC--: how does heuristic processing relate concept intuitive thinking
+MISC--: answer this question treated differently literature one must first specify characteristics intuition
+MISC--: herein like many others we define intuitive thinking automatic fast effortless unconscious based vast amounts prior experience citation
+MISC--: moreover intuition usually deemed involve integration multiple pieces information weighted additive manner citation
+MISC--: intuitive processes little no information processing costs citation enable individuals quickly integrate multiple reasons their decisions compensatory way citation
+MISC--: finally intuition typically contrasted deliberation describes slow effortful stepwise mostly rule governed processes citation
+OWNX--: sum alter oppenheimer epley eyre citation stated thinking involves two distinct processing systems one quick effortless associative intuitive another slow effortful analytic deliberate p number
+CONT--: note however not entirely clear whether intuitive deliberative thinking actually represent two qualitatively different modes thinking rather end points same dimension citation
+MISC--: if one accepts two basic notions namely one central appeal heuristics lies their effort reducing properties b intuitive thinking more effortless than deliberation thus rendering effort reduction less appealing following conjecture seems straightforward deliberation will increase need heuristic processing
+MISC--: stated differently heuristics should much more helpful when judgments decisions performed slow stepwise effortful manner under conditions deliberation
+MISC--: situation heuristics may significantly relieve mind burdensome computations without necessarily leading reduced accuracy citation
+MISC--: intuitive thinking however will comprise automatic information integration makes simplification partially obsolete citation
+MISC--: note again this hypothesis need not imply intuition deliberation completely different manners thinking so long more intuitive thinking accepted less effortful than more deliberative thinking our conjecture should hold
+MISC--: indicated above our view intuition should actually reduce reliance heuristics not consistently echoed literature
+MISC--: indeed some considered heuristic processing sense attribute substitution result intuitive thinking citation though they acknowledge attribute substitution also deliberate strategy citation
+OWNX--: also although focusing single cue mechanisms rather than attribute substitution gigerenzer citation stated heuristics used without awareness
+OWNX--: latter case each provides potential mechanism intuition
+MISC--: similarly gigerenzer citation seems advocate fast frugal heuristics his adaptive toolbox approach intuitive mechanisms intuitions ignore information
+MISC--: gut feelings spring rules thumb extract only few pieces information ignore rest p number
+CONT--: however neither fast frugal heuristics approach nor other related notions citation per se seem make strong claims about extent use heuristics mark intuitive thinking
+MISC--: theoretical positions seems largely open question
+MISC--: nonetheless intuition reliance heuristics often been equated past citation
+OWNX--: contrast we propose clear difference between intuitive thinking heuristics especially those put forward part adaptive toolbox outlined above intuition characterized speedy integration multiple pieces information
+MISC--: heuristics contrast ignore information
+OWNX--: indeed previous empirical findings consistent our conjecture
+MISC--: example glockner betsch citation showed individuals capable integrating complex information within surprisingly short time frame
+MISC--: measuring reliance more consciously controlled processes rather than automatic first impressions risky choices using cognitive reflection test citation cokely kelly citation showed more reflective thinking characterized more heuristic search processes
+MISC--: similarly frederick citation proposed choice heuristics result more deliberate cognitive processes e g elimination aspects but become automated when affective responses rapidly generated e g choosing liking
+MISC--: other studies directly inducing intuitive vs deliberative thinking revealed heuristics more likely applied deliberate rather than intuitive judgments
+MISC--: example asking participants think carefully increased reliance anchoring heuristic
+MISC--: contrast those instructed answer spontaneously relied their experiences judgmental object rather than experimentally provided anchors citation
+MISC--: similar results been reported frequency judgments citation basketball predictions citation judgments randomness citation

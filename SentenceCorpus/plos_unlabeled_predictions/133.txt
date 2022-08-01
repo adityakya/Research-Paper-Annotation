@@ -1,0 +1,42 @@
+OWNX--: genes common functions often exhibit correlated expression levels used identify sets interacting genes microarray data
+MISC--: microarrays typically measure expression across genomic space creating massive matrix co expression must mined extract only most relevant gene interactions
+OWNX--: we describe graph theoretical approach extracting co expressed sets genes based computation cliques
+OWNX--: unlike results traditional clustering algorithms cliques not disjoint allow genes assigned multiple sets interacting partners consistent biological reality
+MISC--: graph created thresholding correlation matrix include only correlations most likely signify functional relationships
+OWNX--: cliques computed graph correspond sets genes significant edges present between all members set representing potential members common interacting pathways
+OWNX--: clique membership used infer function about poorly annotated genes based known functions better annotated genes they share clique membership
+OWNX--: we illustrate our method applying microarray data collected spleens mice exposed low dose ionizing radiation
+OWNX--: differential analysis used identify sets genes whose interactions impacted radiation exposure
+OWNX--: correlation graph also queried independently clique extract edges impacted radiation
+OWNX--: we present several examples multiple gene interactions altered radiation exposure thus represent potential molecular pathways mediate radiation response
+OWNX--: guilt association assumption genes similar expression patterns participate common cellular functions drives growing body effort extract cellular pathways microarray data citation citation
+OWNX--: general tenet genes encoding proteins participating common pathway will display correlated expression levels when analyzed at sufficient scale identities known functions genes used highlight existing assimilate new functional pathways
+MISC--: number recent studies validate concept guilt association demonstrating genes co expressed across multiple conditions more likely represent common functions than would expected chance alone citation citation
+MISC--: date computational methods extract patterns lag far behind general agreement about their utility
+OWNX--: majority methods extract pathways co regulation microarray data begin measure similarity e g euclidean distance pearson s correlation coefficient describes degree expression levels between pairs genes correlated across multiple conditions citation
+MISC--: matrix correlations across microarray typically representing pairwise similarity expression patterns thousands genes starting point organize genes into clusters
+MISC--: clustering includes wide variety algorithms organizing multivariate data into groups approximately similar expression patterns wealth clustering approaches been proposed citation
+MISC--: however there several important limitations vast majority clustering algorithms contrast reality biology
+OWNX--: first they disjoint requiring gene assigned only one cluster
+OWNX--: while this simplifies amount data evaluated places artificial limitation biology under study many genes play important roles multiple but distinct pathways
+MISC--: other main problem most measures similarity used clustering algorithms do not permit recognition negative correlations also common equally meaningful
+MISC--: alternative assigning genes clusters correlation matrix thresholded create graph comprised only edges whose weights exceed predefined value
+MISC--: allocco colleagues originally described graphs relevance networks citation
+MISC--: relevance network both positive negative correlations exceeding specified threshold retained displayed graphically allowing visual recognition highly connected subsets genes
+MISC--: recent studies mined relevance networks extract co expressed genes cancer cells citation citation myopathic muscle biopsies citation
+CONT--: while those efforts provided gene subsets biological relevance respective conditions they were limited pairwise relationships could extracted manually graphs
+MISC--: relevance networks contain many dense sub graphs tightly interconnected gene sets intuitively represent greatest potential identifying members common pathways
+MISC--: without systematic means extract aggregate relationships between multiple genes however many most interesting relationships remain embedded within web correlations
+OWNX--: we developed computational approach exploits graph theoretical algorithms identify comprehensively tightly connected subsets genes present relevance networks
+OWNX--: most extreme case sub graph contains all possible edges between vertices sub graph this structure called clique
+MISC--: terms gene expression clique represents most trusted potential identifying set interacting genes
+MISC--: solving clique however nondeterministic polynomial complete problem classic graph theoretic problem its own right citation
+MISC--: we previously developed novel graph algorithms employ vertex cover allow clique solved polynomial time citation citation
+OWNX--: recently we applied algorithms identify cliques co expressed genes part effort annotate quantitative trait loci associated neural function citation
+OWNX--: here we extend algorithms identify differential gene relationships i e gene gene interactions induced repressed specific treatment
+OWNX--: we illustrate our approach using set microarray data was generated spleen mice exposed vivo low dose ionizing radiation
+CONT--: radiation well known agent dna damage at relatively high but sub lethal doses citation
+MISC--: response lower doses however those received medical imaging radiotherapy occupational exposures poorly defined largely dependent upon genetic background citation
+OWNX--: data used herein were derived study explored role genetic susceptibility response ir
+OWNX--: six strains inbred laboratory mice were exposed cgy x rays vivo after gene expression changes spleen were profiled using microarrays
+OWNX--: we describe our graph theoretical based toolchain identifying overlapping subsets genes tightly correlated expression levels demonstrate biological insight this method provides

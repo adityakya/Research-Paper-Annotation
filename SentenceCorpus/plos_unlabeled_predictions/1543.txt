@@ -1,0 +1,76 @@
+MISC--: genome wide association studies test association between common genetic markers disease phenotype shown varying degrees success
+MISC--: while many factors could potentially confound gwa studies we focus possibility multiple rare variants may act concert influence disease etiology
+OWNX--: here we describe algorithm rv analysis rarecover
+OWNX--: algorithm combines disparate collection rvs low effect modest penetrance
+MISC--: further does not require rare variants adjacent location
+BASE--: extensive simulations over range assumed penetrance population attributable risk values illustrate power our approach over other published methods including collapsing weighted collapsing strategies
+OWNX--: showcase method we apply rarecover re sequencing data cohort individuals at extremes body mass index distribution
+OWNX--: individual samples were re sequenced at two genes faah mgll known involved endocannabinoid metabolism
+MISC--: rarecover analysis identifies exactly one significantly associated region each gene each about kbp upstream regulatory regions
+MISC--: data suggests rvs help disrupt expression two genes leading lowered metabolism corresponding cannabinoids
+OWNX--: overall our results point power including rvs measuring genetic associations
+MISC--: common disease common variant hypothesis citation citation postulates etiology common diseases mediated commonly occurring genomic variants population
+MISC--: this served basis genome wide association studies test association between individual genomic markers disease phenotype
+MISC--: using genome wide panels common snps gwa studies been successful identifying hundreds statistically significant associations many common diseases well several quantitative traits citation citation
+MISC--: nevertheless success gwa studies been mixed
+MISC--: significant genetic loci not been detected several common diseases known strong genetic component citation
+MISC--: additionally many common diseases associations discovered gwa studies account only small fraction heritability disease
+MISC--: while many factors could potentially confound gwa studies we focus possibility multiple rare variants may act concert influence disease etiology
+MISC--: alternative cdcv hypothesis common disease rare variant hypothesis been topic much recent debate citation shown promise explaining disease etiology multiple studies
+MISC--: example rare variants been implicated reduced sterol absorption consequently lower plasma levels ldl citation citation colorectal cancer citation
+OWNX--: while some studies shown rvs increase risk recent study indicates rvs also act protectively multiple rvs renal salt handling genes showing association reduced renal salt resorption reduced risk hypertension citation
+MISC--: additionally rare mutations ifih been shown act protectively against type diabetes citation
+MISC--: aforementioned studies others focused re sequencing coding regions candidate genes using sanger sequencing
+MISC--: recent technological advances dna sequencing made possible re sequence large stretches genome cost effective manner
+MISC--: this enabling large scale studies impact rvs complex diseases
+CONT--: however several properties rare variants make their genetic effects difficult detect current approaches
+MISC--: bodmer bonilla provide excellent review properties rvs differences between rare common variant analysis citation
+MISC--: example if causal variant rare disease common then allele s population attributable risk consequently odds ratio will low
+MISC--: additionally even highly penetrant rvs unlikely linkage disequilibrium more common genetic variations might genotyped association study common disease
+MISC--: therefore single marker tests association exploit ld based associations likely low power
+MISC--: if cdrv hypothesis holds combination multiple rvs must contribute population risk
+MISC--: this case there challenge detecting multi allelic association between locus disease
+MISC--: methods detect associations only just being developed
+OWNX--: natural approach collapsing strategy where multiple rvs at locus collapsed into single variant
+MISC--: strategies low power when causal neutral rvs combined
+MISC--: madsen browning recently proposed weighted sum statistic detect loci disease individuals enriched rare variants citation
+MISC--: their approach variants weighted according their frequency unaffected sample low frequency variants being weighted more heavily
+MISC--: each individual scored sum weights mutations carried
+MISC--: test then determines if diseased individuals weighted more heavily than expected null model
+MISC--: madsen browning show formula variants group being causal combined odds ratio formula weighted sum statistic detects associations high power
+OWNX--: while effective this approach depends upon inclusion high proportion causal rare variants formation test statistics strong penetrance detect significant association
+MISC--: their simulations par locus partitioned equally among all variants assumption may not always hold
+MISC--: combined multivariate collapsing method proposed li leal combines variants into groups based upon predefined criteria citation
+MISC--: individual group if any variant group carried otherwise
+MISC--: cmc approach then considers each groups multivariate analysis explain disease risk
+OWNX--: this combination collapsing approach multivariate analysis results increase power over single marker multiple marker approaches
+OWNX--: however li leal point out method relies correct grouping variants
+MISC--: power reduced functional variants excluded non functional variants included group
+MISC--: assignment snps incorrect groups may fact decrease power below attainable through single marker analysis
+MISC--: indeed recent analysis manolio colleagues suggests new methods might needed when causal variants both low par low penetrance values citation
+OWNX--: here we focus model free method rarecover collapses only subset variants at locus
+MISC--: informally consider locus formula encoding set formula rare variants
+MISC--: rarecover associates formula phenotype measuring strongest possible association formed collapsing any subset formula variants at formula
+OWNX--: at first glance approach many problems
+OWNX--: first selecting optimal subset snps computationally intensive scaling formula
+OWNX--: we show greedy approach selecting optimal subset scales linearly making feasible conduct associations large set candidate loci
+MISC--: second confounding factor large number different tests at locus increase likelihood false association
+OWNX--: adjustment required control type i error could decrease power method
+CONT--: however extensive simulations show otherwise
+OWNX--: our results suggest moderately penetrant alleles formula small par formula moderately sized cohorts sufficient rarecover detect significant association
+MISC--: this compares well current power single marker gwa studies common variants outperforms other methods rv detection
+OWNX--: we also applied rarecover analysis two genes faah mgll endocannabinoid pathway large sequencing study obese non obese individuals
+MISC--: endocannabinoid pathway important mediator variety neurological functions citation citation
+MISC--: endocannabinoids acting upon cb receptors brain gastrointestinal tract variety other tissues been shown influence food intake weight gain animal models obesity
+MISC--: using selective endocannabinoid receptor antagonist sr leads reduced food intake mice
+MISC--: correspondingly elevation leptin levels been shown decrease concentrations endogenous cb agonists anandamide ag mice thereby reducing food intake citation
+MISC--: faah mgll enzymes serve regulators endocannabinoid signaling brain citation catalyzing hydrolysis endocannabinoid including anandamide ag
+MISC--: gene expression studies lean obese women show significantly decreased levels aea ag well over expression cb faah lean opposed obese women citation
+MISC--: while evidence points genetic association loci obesity multiple recent studies using common snps faah region failed confirm association citation citation
+MISC--: pro thr polymorphism was tentatively associated obesity cohort europe asian ancestry but not been replicated other data citation
+OWNX--: we tested hypothesis multiple rare alleles at loci associated obesity
+OWNX--: we used unpublished data frazer colleagues where faah mgll regions were re sequenced using next generation technologies obese non obese individuals taken extremes body mass index distribution subjects large clinical trial
+MISC--: resequencing identified number common rare variants region
+OWNX--: we applied rarecover determine if multiple rvs i e allelic heterogeneity mediated genetic effects faah mgll obesity
+MISC--: rarecover identified single region at each locus permutation adjusted p values formula formula
+OWNX--: each case significant locus was immediately upstream gene consistent regulatory function rare variants

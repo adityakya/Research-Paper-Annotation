@@ -1,0 +1,49 @@
+MISC--: critical our many daily choices between larger delayed rewards smaller more immediate rewards shape steepness function discounts rewards time
+MISC--: although research artificial intelligence favors exponential discounting uncertain environments studies humans animals consistently shown hyperbolic discounting
+OWNX--: we investigated how humans perform reward decision task temporal constraints each choice affects time remaining later trials delays vary at each trial
+OWNX--: we demonstrated most our subjects adopted exponential discounting this experiment
+OWNX--: further we confirmed analytically exponential discounting decay rate comparable used our subjects maximized total reward gain our task
+OWNX--: our results suggest particular shape steepness temporal discounting determined task subject facing question notion hyperbolic reward discounting universal principle
+OWNX--: limited amount time available before nighttime winter retirement we need make large number choices maximize our total reward gain
+MISC--: particular when choosing between larger but delayed reward smaller but more immediate reward we compare values associated each reward choose reward associated larger value citation
+OWNX--: critical choices shape steepness reward values monotonically decrease function delay rewards said discounted function delays
+MISC--: two main classes models characterize shape reward discounting been proposed exponential citation citation hyperbolic citation citation
+BASE--: although researchers artificial intelligence favor exponential discounting uncertain environments e g citation citation citation all behavioral studies directly compared two types discounting animals humans concluded hyperbolic discounting better fits delayed reward choice data than does exponential discounting e g citation citation citation citation
+MISC--: exponential discounting reward value v given formulawhere r reward magnitude d delay k decay rate
+AIMX--: this equation equivalently given formulawhere discount factor exp we note here large decay rate corresponds small discount factor vice versa
+MISC--: because constant decay rate exponential discounting rational predicts constant preference
+OWNX--: typical human studies questionnaire based subjects asked make number choices between small immediate rewards larger rewards weeks months years future after thinking about consequences each alternative citation
+MISC--: studies hyperbolic discounted reward value given formula
+MISC--: animal studies animals trained make repeated reward choices experience both delays rewards
+MISC--: assuming constant inter trial interval if animal consistently makes choice gives same reward r after same delay d average reward rate hyperbolic function delay citation formulawhere t sum all times except delay each trial v reward value
+MISC--: because decreasing decay rate function delay citation hyperbolic discounting been termed irrational predicts preference reversal impulsive choice
+MISC--: instance individual may prefer one apple today two apples tomorrow but at same time prefer two apples days one apple days citation
+MISC--: hyperbolic discounting often presented struggle between oneself one s alter ego future similarly between myopic doer farsighted planner see citation citation
+OWNX--: what situations theoretically advantageous make delayed reward choices based exponential hyperbolic discounting
+MISC--: exponential discounting maximizes total gain situations constant probability reward loss per unit time exact estimate time future reward delivery see citation citation
+MISC--: because hyperbolic discounted value given equation reward rate maximizes total gain situations constant delays at each trial
+MISC--: but does hyperbolic discounting maximize total gain foraging like situations situations repeated forced choices varying delays rewards constant iti limited total time
+MISC--: situations hyperbolic discounting model maximizes instantaneous reward rate
+MISC--: but trials not independent each other hyperbolic discounting may not maximize average reward rate thus total gain
+MISC--: instance relatively unfavorable trial long delays both rewards although hyperbolic discounting may favor large reward pursuing small more immediate reward may result smaller overall decrease average reward rate
+MISC--: choosing small but less delayed reward subject quickly move next more favorable trials
+OWNX--: thus we hypothesize situations discounting strategy values rewards longer delays less than hyperbolic discounting exponential discounting does would maximize total gain
+MISC--: steepness discounting specifies how far future delayed rewards should considered
+MISC--: large decay rate biases individuals acquire small more immediate rewards
+MISC--: individuals impulse control disorders well heroin alcohol cigarette cocaine addicted individuals steeper discounting functions than controls citation citation citation
+MISC--: small decay rate promotes acquisition large more delayed rewards
+MISC--: yet individuals must obtain some rewards time instance animal must find food before starves before exhausted before winter arrives
+MISC--: thus discount rate should carefully adjusted maximize total gain task situations repeated forced choices varying delays rewards limited total time citation citation
+AIMX--: here we designed task mimics animal foraging study whether humans could adopt discounting function whose shape steepness maximize total gain
+MISC--: at each trial subjects had choose between smaller more immediate reward larger delayed reward varying experienced delays rewards fixed iti
+OWNX--: avoid subjects trying compute explicit reward ratios other objective measures reward discounting we did not provide direct access delay
+OWNX--: instead subjects had select at each trial between one two squares made small patches
+OWNX--: stimulus color coded monetary reward amount
+MISC--: at each trial initial number black patches white stimulus indicated small delay d s initial number black patches yellow stimulus indicated large delay d l subject was then prompted choose one two stimuli stimulus had been selected previous step showed more filled patches other stimulus was identical previous step
+MISC--: stimuli were always displayed one time step
+MISC--: this chain events was repeated until either square was completely filled
+MISC--: then display acquired reward was shown during iti s
+CONT--: experiment total time was limited five sessions s each separated s give subject some rest time
+OWNX--: thus each subject had steps available maximize total reward
+OWNX--: because subjects performed minimum one training session equal duration before experiment they were highly familiar task
+OWNX--: subjects were compensated total reward earned at end experiment

@@ -1,0 +1,52 @@
+MISC--: trailing backward compatibility
+MISC--: sty file sample compression conjecture littlestone warmuth remained unsolved over two decades
+OWNX--: while maximum classes concept classes meeting sauer s lemma equality compressed compression general concept classes reduces compressing maximal classes classes cannot expanded without increasing vc dimension
+MISC--: two promising ways forward embedding maximal classes into maximum classes at most polynomial increase vc dimension compression via operating geometric representations
+OWNX--: this paper presents positive results latter approach first negative result former through systematic investigation finite maximum classes
+MISC--: simple arrangements hyperplanes hyperbolic space shown represent maximum classes generalizing corresponding euclidean result
+OWNX--: we show sweeping generic hyperplane across arrangements forms unlabeled compression scheme size vc dimension corresponds special case peeling one inclusion graph resolving recent conjecture kuzmin warmuth
+MISC--: bijection between finite maximum classes certain arrangements piecewise linear pl hyperplanes either ball euclidean space established
+OWNX--: finally we show symbol maximum classes corresponding pl hyperplane arrangements symbol cubical complexes homeomorphic symbol ball equivalently complexes manifolds boundary
+MISC--: main result pl arrangements swept moving hyperplane unlabeled symbol compress any finite maximum class forming peeling scheme conjectured kuzmin warmuth
+MISC--: corollary some symbol maximal classes cannot embedded into any maximum class vc dimension symbol any constant symbol
+MISC--: construction pl sweeping involves pachner moves one inclusion graph corresponding moves hyperplane across intersection symbol other hyperplanes
+MISC--: this extends well known pachner moves triangulations cubical complexes
+MISC--: term maximum concept classes largest cardinality possible their given vc dimension
+MISC--: classes particular interest their special recursive structure underlies all general sample compression schemes known date citation
+AIMX--: this structure admits many elegant geometric algebraic topological representations upon this paper focuses
+MISC--: citation introduced study term sample compression schemes defined pair mappings given concept class symbol term compression function mapping symbol labeled symbol sample subsequence labeled examples term reconstruction term function mapping subsequence concept consistent entire symbol sample
+MISC--: compression scheme bounded size maximum cardinality subsequence image was shown imply learnability
+MISC--: converse classes vc dimension symbol admit compression schemes size symbol become one oldest unsolved problems actively pursued within learning theory citation
+MISC--: interest conjecture been motivated its interpretation converse existence compression bounds pac learnable classes citation basis practical machine learning methods compression schemes citation conjecture s connection deeper understanding combinatorial properties concept classes citation
+MISC--: recently citation achieved compression maximum classes without use labels
+MISC--: they also conjectured their elegant min peeling algorithm constitutes unlabeled symbol compression scheme symbol maximum classes
+MISC--: discussed our previous work citation maximum classes fruitfully viewed term cubical complexes
+MISC--: also topological spaces each cube equipped natural topology open sets its standard embedding into euclidean space
+OWNX--: we proved symbol maximum classes correspond term symbol contractible complexes topological spaces identity map homotopic constant map extending result symbol maximum classes trees one inclusion graphs
+MISC--: peeling viewed special form contractibility maximum classes
+MISC--: however there many non maximum contractible cubical complexes cannot peeled demonstrates peelability reflects more detailed structure maximum classes than given contractibility alone
+AIMX--: this paper we approach peeling direction simple hyperplane arrangement representations maximum classes
+MISC--: citation predicted symbol maximum classes corresponding simple linear hyperplane arrangements could unlabeled symbol compressed sweeping generic hyperplane across arrangement concepts min peeled their corresponding cell swept away
+OWNX--: we positively resolve first part conjecture show sweeping arrangements corresponds new form term corner peeling we prove distinct min peeling
+MISC--: while term min peeling removes minimum degree concepts one inclusion graph corner peeling peels vertices contained unique cubes maximum dimension
+OWNX--: we explore simple hyperplane arrangements hyperbolic geometry we show correspond set maximum classes properly containing those represented simple linear euclidean arrangements
+MISC--: classes again corner peeled sweeping
+MISC--: citing proof existence maximum unlabeled compression schemes due citation citation ask whether unlabeled compression schemes infinite classes positive half spaces constructed explicitly
+OWNX--: we present constructions illustrative but simpler classes suggesting there many interesting infinite maximum classes admitting explicit compression schemes under appropriate conditions sweeping infinite euclidean hyperbolic pl arrangements corresponds compression corner peeling
+OWNX--: next we prove all maximum classes symbol represented simple arrangements piecewise linear pl hyperplanes symbol ball
+MISC--: this extends previous work citation viewing simple pl hyperplane arrangements maximum classes
+MISC--: close relationship between arrangements their hyperbolic versions suggests they could equivalent
+AIMX--: resolving main problem left open preliminary version this paper citation we show sweeping symbol contractible pl arrangements does compress all finite maximum classes corner peeling completing citation
+OWNX--: we show one inclusion graph symbol represented symbol contractible pl hyperplane arrangement if only if symbol strongly contractible cubical complex
+MISC--: this motivates nomenclature symbol contractible class arrangements pl hyperplanes
+OWNX--: note then one inclusion graphs admit corner peeling scheme same size symbol largest dimension cube symbol
+MISC--: moreover if graph symbol admits corner peeling scheme then contractible cubical complex
+OWNX--: we give simple example show there one inclusion graphs admit corner peeling schemes but not strongly contractible so not represented symbol contractible pl hyperplane arrangement
+OWNX--: compressing term maximal classes classes cannot grown without increase their vc dimension sufficient compressing all classes embedded classes trivially inherit compression schemes their super classes
+MISC--: this reasoning motivates attempt embed symbol maximal classes into symbol maximum classes citation
+OWNX--: we present non embeddability results following our earlier counter examples kuzmin warmuth s minimum degree conjecture citation our new results corner peeling
+OWNX--: we explore examples maximal classes compressed but not peeled classes not strongly contractible but compressed
+OWNX--: finally we investigate algebraic topological properties maximum classes
+OWNX--: most notably we characterize symbol maximum classes corresponding simple linear euclidean arrangements cubical complexes homeomorphic symbol ball
+OWNX--: result classes boundaries homeomorphic symbol sphere begins study boundaries maximum classes closely related peeling
+OWNX--: we conclude several open problems

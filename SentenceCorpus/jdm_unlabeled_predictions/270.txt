@@ -1,0 +1,18 @@
+AIMX--: this paper explores psychology conflict interest investigating how conflicting interests affect both public statements private judgments
+OWNX--: results suggest judgments easily influenced affiliation interested partisans this influence extends judgments made clear incentives objectivity
+OWNX--: consistency we observe between public private judgments indicates participants believed their biased assessments
+OWNX--: our results suggest psychology conflict interest at odds way economists policy makers routinely think about problem
+OWNX--: we conclude exploring implications this finding professional conduct public policy
+MISC--: many situations professionals called upon play dual roles require different perspectives
+MISC--: example attorneys embroiled pretrial negotiations may exaggerate their chances winning court extract concessions other side
+MISC--: but when comes time advise client whether accept settlement offer client needs objective advice
+OWNX--: professors likewise evaluate performance graduate students provide them both encouragement criticism
+MISC--: but public criticism less helpful when faculty serve their students advocates job market
+OWNX--: although auditors legal responsibility judge accuracy their clients financial accounting way win client s business not stressing one s legal obligation independence but emphasizing helpfulness accommodation one provide
+MISC--: traditional economic models rationality would assume people perform optimally situations making unbiased judgments when their interest do so but taking partisan stand when this called strategically
+AIMX--: this paper asks whether dual roles psychologically feasible one person successfully play different roles require different often competing perspectives
+OWNX--: our attempt answer this question we explore psychology conflict interest comparing alternative explanations their effects
+MISC--: after reviewing research whether when people able play dual roles we present findings three studies
+OWNX--: studies examine fairly typical business situation situation advocate must provide deliberately partisan valuation company then asked provide impartial valuation same company
+OWNX--: we ask whether advocates successfully make impartial unbiased judgments situations characterized dual roles
+OWNX--: we conclude speculating about implications this psychological finding issues professional conduct public policy governmental regulation organizational design

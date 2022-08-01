@@ -1,0 +1,31 @@
+MISC--: computational methods attempting identify instances cis regulatory modules genome face challenging problem searching potentially interacting transcription factor binding sites while knowledge specific interactions involved remains limited
+MISC--: without comprehensive comparison their performance reliability accuracy tools remains unclear
+OWNX--: faced large number different tools address this problem we summarized categorized them based search strategy input data requirements
+MISC--: twelve representative methods were chosen applied predict crms drosophila crm database redfly across human encode regions
+OWNX--: our results show optimal choice method varies depending species composition sequences question
+MISC--: when discriminating crms non coding regions those methods considering evolutionary conservation stronger predictive power than methods designed run single genome
+MISC--: different crm representations search strategies rely different crm properties different methods complement one another
+MISC--: example some favour homotypical clusters binding sites while others perform best short crms
+MISC--: furthermore most methods appear sensitive composition structure genome they applied
+OWNX--: we analyze principal features distinguish methods performed well identify weaknesses leading poor performance provide guide users
+OWNX--: we also propose key considerations development evaluation future crm prediction methods
+MISC--: cis acting transcriptional regulation involves sequence specific binding transcription factors dna citation citation
+MISC--: most cases multiple transcription factors control transcription single transcription start site cooperatively
+MISC--: limited repertoire transcription factors performs this complex regulatory step through various spatial temporal interactions between themselves their binding sites
+MISC--: genome wide scale transcription factor binding interactions clustered distinct modules rather than distributed evenly
+MISC--: modules called cis regulatory modules
+MISC--: dna sequences promoters enhancers silencers others examples modules
+MISC--: appropriate transcription factors compete bind elements act activators repressors
+MISC--: generally crm ranges few hundred basepairs long few thousand basepairs long several transcription factors bind each transcription factors multiple binding sites
+MISC--: berman et al citation demonstrated feasibility identifying crms sequence analysis
+MISC--: they scanned drosophila genome clusters potential binding sites five gap gene transcription factors known together regulate early drosophila embryo
+MISC--: they found more than third dense clusters binding sites correspond crms regulating early embryo gene expressions characteristic genes regulated maternal gap transcription factors
+MISC--: similarly exploiting property many crms contain clusters similar transcription factor binding sites schroeder et al citation computationally predicted crms over genomic regions genes interest gap mixed maternal gap transcription factors identified both known novel crms within segmentation gene network
+CONT--: recent study confirmed importance crm functions revealed how subtle changes original arrangement module elements affect its function
+MISC--: gompel et al citation found modifications cis regulatory elements pigmentation gene yellow cause wing pigmentation spot appear drosophila biarmipes similar seen drosophila melanogaster thus showing mutations crms generate novelty between species
+MISC--: later study citation they showed creation destruction distinct regulatory elements same gene lead same morphological change
+MISC--: williams et al citation investigated genetic switch whereby hox protein abd b controls bab expression sexually dimorphic trait drosophila
+MISC--: they discovered functional difference this case lies not only creation destruction binding sites but also their orientations spacings
+MISC--: there also evidence showing disruption cooperations within specific crm lead malformation disease
+MISC--: one example given kleinjan et al citation
+MISC--: deletion any distal regulatory elements pax changes its expression level causes congenital eye malformation aniridia brain defects human

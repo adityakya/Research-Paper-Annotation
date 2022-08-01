@@ -1,0 +1,25 @@
+OWNX--: after building classifier modern tools machine learning we typically black box at hand able predict well unseen data
+AIMX--: thus we get answer question what most likely label given unseen data point
+CONT--: however most methods will provide no answer why model predicted particular label single instance what features were most influential particular instance
+MISC--: only method currently able provide explanations decision trees
+OWNX--: this paper proposes procedure based set assumptions allows explain decisions any classification method
+MISC--: automatic nonlinear classification common powerful tool data analysis
+MISC--: machine learning research created methods practically useful classify unseen data after being trained limited training set labeled examples
+MISC--: nevertheless most algorithms do not explain their decision
+OWNX--: however practical data analysis essential obtain instance based explanation i e we would like gain understanding what input features made nonlinear machine give its answer each individual data point
+MISC--: typically explanations provided jointly all instances training set example feature selection methods including automatic relevance determination find out inputs salient good generalization citation
+OWNX--: while this give coarse impression about global usefulness each input dimension still ensemble view does not provide answer instance basis
+MISC--: neural network literature also solely ensemble view was taken algorithms like input pruning citation
+MISC--: only classification does provide individual explanations decision trees citation
+OWNX--: this paper proposes simple framework provides local explanation vectors applicable any classification method order help understanding prediction results single data instances
+MISC--: local explanation yields features being relevant prediction at very points interest data space able spot local peculiarities neglected global view eg due cancellation effects
+OWNX--: paper organized follows we define local explanation vectors class probability gradients section give illustration gaussian process classification gpc
+MISC--: some methods output prediction without direct probability interpretation
+OWNX--: we propose section way estimate local explanations
+OWNX--: section we will apply our methodology learn distinguishing properties iris flowers estimating explanation vectors k nn classifier applied classic iris data set
+OWNX--: section will discuss how our approach applied svm classifier allows us explain how digits two distinguished digit usps data set
+OWNX--: section we discuss more real world application scenario where proposed explanation capabilities prove useful drug discovery human experts regularly decide how modify existing lead compounds order obtain new compounds improved properties
+MISC--: models capable explaining predictions help process choosing promising modifications
+OWNX--: our automatically generated explanations match chemical domain knowledge about toxifying functional groups compounds question
+OWNX--: section contrasts our approach related work section discusses characteristic properties limitations our approach before we conclude paper section
+MISC--: iris knn

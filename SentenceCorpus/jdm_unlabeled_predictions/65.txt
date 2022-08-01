@@ -1,0 +1,16 @@
+MISC--: hypotheses about decision processes often formulated qualitatively remain silent about interplay decision memorial other cognitive processes
+CONT--: at same time existing decision models specified at varying levels detail making difficult compare them
+OWNX--: we provide methodological primer how detailed cognitive architectures act r allow remedying problems
+AIMX--: make our point we address controversy namely whether noncompensatory compensatory processes better describe how people make decisions accessibility memories
+MISC--: we specify number models accessibility based decision processes act r including noncompensatory recognition heuristic various other popular noncompensatory compensatory decision models
+AIMX--: additionally illustrate how models tested we conduct model comparison fitting models one experiment letting them generalize another
+MISC--: behavioral data best accounted race models
+MISC--: race models embody noncompensatory recognition heuristic compensatory models race between competing processes dissolving dichotomy between existing decision models
+OWNX--: one way increase precision theories decision making specify cognitive processes decision making mechanisms assumed draw
+MISC--: corresponding process models predict not only what decision person will make but also how information used make decision will processed
+MISC--: past decades seen repeated calls develop process models fact models become increasingly popular citation
+MISC--: predictions made models motivated number debates example whether people rely noncompensatory lexicographic opposed compensatory weighted additive processes inference choice estimation citation
+MISC--: yet often process models underspecified relative process data against they tested
+OWNX--: this article we show how precision lent process models implementing them cognitive architecture
+MISC--: we will make our point focusing class models assume people make decisions exploiting accessibility citation memory contents
+MISC--: models been at focus debate about what processes describe people s decisions best when they make inferences about unknown states world when predicting sports teams likely win competition politician will win election cities likely grow fastest number inhabitants

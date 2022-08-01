@@ -1,0 +1,69 @@
+AIMX--: we study boosting algorithms new perspective
+OWNX--: we show lagrange dual problems symbol norm regularized adaboost soft margin generalized hinge loss all entropy maximization problems
+MISC--: looking at dual problems boosting algorithms we show success boosting algorithms understood terms maintaining better margin distribution maximizing margins at same time controlling margin variance
+OWNX--: we also theoretically prove approximately symbol norm regularized maximizes average margin instead minimum margin
+MISC--: duality formulation also enables us develop column generation based optimization algorithms totally corrective
+OWNX--: we show they exhibit almost identical classification results standard stage wise additive boosting algorithms but much faster convergence rates
+OWNX--: therefore fewer weak classifiers needed build ensemble using our proposed optimization technique
+MISC--: ieeeparstart b oosting attracted lot research interests since first practical boosting algorithm adaboost was introduced freund schapire citation
+MISC--: machine learning community spent much effort understanding how algorithm works citation
+MISC--: however up date there still questions about success boosting left unanswered citation
+MISC--: boosting one given set training examples symbol binary labels symbol being either symbol symbol
+MISC--: boosting algorithm finds convex linear combination weak classifiers base learners weak hypotheses achieve much better classification accuracy than individual base classifier
+MISC--: do so there two unknown variables optimized
+OWNX--: first one base classifiers
+MISC--: oracle needed produce base classifiers
+MISC--: second one positive weights associated each base classifier
+MISC--: one first most popular boosting algorithms classification
+MISC--: later various boosting algorithms been advocated
+MISC--: example friedman citation replaces adaboost s exponential cost function function logistic regression
+MISC--: madaboost citation instead uses modified exponential loss
+MISC--: authors citation consider boosting algorithms generalized additive model framework
+MISC--: schapire citation showed converges large margin solution
+MISC--: however recently pointed out does not converge maximum margin solution citation
+OWNX--: motivated success margin theory associated support vector machines svms was invented citation intuition maximizing minimum margin all training examples
+MISC--: final optimization problem formulated linear program lp
+MISC--: observed hard margin does not perform well most cases although usually produces larger minimum margins
+MISC--: more often worse generalization performance
+OWNX--: other words higher minimum margin would not necessarily imply lower test error
+MISC--: breiman citation also noticed same phenomenon his algorithm minimum margin provably converges optimal but inferior terms generalization capability
+MISC--: experiments put margin theory into serious doubt
+MISC--: until recently reyzin schapire citation re ran breiman s experiments controlling weak classifiers complexity
+MISC--: they found minimum margin indeed larger arcgv but overall margin distribution typically better adaboost
+MISC--: conclusion minimum margin important but not always at expense other factors
+MISC--: they also conjectured maximizing average margin instead minimum margin may result better boosting algorithms
+MISC--: recent theoretical work citation shown important role margin distribution bounding generalization error combined classifiers boosting bagging
+OWNX--: soft margin svm usually better classification accuracy than hard margin svm soft margin also performs better relaxing constraints all training examples must correctly classified
+MISC--: cross validation required determine optimal value soft margin trade off parameter
+MISC--: r atsch citation showed equivalence between svms boosting like algorithms
+MISC--: comprehensive overviews boosting given citation citation
+OWNX--: we show this work lagrange duals symbol norm regularized adaboost generalized hinge loss all entropy maximization problems
+MISC--: previous work like citation noticed connection between boosting techniques entropy maximization based bregman distances
+OWNX--: they did not show duals boosting algorithms actually entropy regularized we show eqref eq dual ada eqref eq lpboost eqref eq dual logit
+OWNX--: knowing this duality equivalence we derive general column generation cg based optimization framework used optimize arbitrary convex loss functions
+OWNX--: other words we easily design totally corrective adaboost boosting generalized hinge loss etc
+OWNX--: our major contributions following we derive lagrangian duals boosting algorithms show most them entropy maximization problems
+MISC--: authors citation conjectured may fruitful consider boosting algorithms greedily maximize average median margin rather than minimum one
+OWNX--: we theoretically prove actually symbol norm regularized approximately maximizes average margin instead minimum margin
+MISC--: this important result sense provides alternative theoretical explanation consistent margins theory agrees empirical observations made citation
+OWNX--: we propose adaboost qp directly optimizes asymptotic cost function adaboost
+OWNX--: experiments confirm our theoretical analysis
+OWNX--: furthermore based duals we derive we design column generation based optimization techniques boosting learning
+OWNX--: we show new algorithms almost identical results standard stage wise additive boosting algorithms but much faster convergence rates
+MISC--: therefore fewer weak classifiers needed build ensemble
+OWNX--: following notation used
+OWNX--: typically we use bold letters symbol denote vectors opposed scalars symbol lower case letters
+OWNX--: we use capital letters symbol denote matrices
+OWNX--: all vectors column vectors unless otherwise specified
+MISC--: inner product two column vectors symbol symbol symbol
+OWNX--: component wise inequalities expressed using symbols symbol eg symbol means all entries symbol
+MISC--: symbol symbol column vectors each entry being symbol symbol respectively
+MISC--: length will clear context
+MISC--: abbreviation symbol means subject
+OWNX--: we denote domain function symbol symbol
+AIMX--: paper organized follows
+MISC--: section briefly reviews several boosting algorithms self completeness
+MISC--: their corresponding duals derived section
+OWNX--: our main results also presented section
+OWNX--: section we then present numerical experiments illustrate various aspects our new algorithms obtained section
+OWNX--: we conclude paper last section

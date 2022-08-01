@@ -1,0 +1,32 @@
+MISC--: many large scale studies intrinsically disordered proteins implicitly based structural models deposited protein data bank
+MISC--: yet static nature deposited models supplies little insight into variation protein structure function under diverse cellular environmental conditions
+CONT--: while computational predictability disordered regions provides practical evidence disorder intrinsic property proteins robustness disordered regions changes sequence environmental conditions not been systematically studied
+OWNX--: we analyzed intrinsically disordered regions same similar proteins crystallized independently studied their sensitivity changes protein sequence parameters crystallographic experiments
+MISC--: observed changes existence position length disordered regions indicate their appearance x ray structures dramatically depends changes amino acid sequence peculiarities crystallographic experiment
+AIMX--: our study also raises general questions regarding protein evolution regulation protein structure dynamics function via variations cellular environmental conditions
+MISC--: past decade significant progress been achieved our understanding ubiquity function intrinsically disordered proteins citation citation
+MISC--: what once seemed set exceptions traditional structure function paradigm where every protein was believed unique stable d structure carry out specific function turned into field where computational experimental approaches were developed combined accurately characterize disordered proteins citation understand their function citation citation citation mechanisms binding citation citation estimate their abundance protein universe citation citation
+MISC--: undoubtedly bioinformatics analyses methods played significant role this process especially set predictors statistical techniques citation citation
+MISC--: however despite previous success questions raised about generality our view disordered proteins terms sequence structure determinants influence environmental conditions
+OWNX--: here we attempt address questions investigating variability observed disordered regions changes sequence environmental conditions used crystallization
+OWNX--: recent studies document effects varying environmental conditions regions intrinsic disorder similar proteins
+MISC--: zurdo et al studied two yeast ribosomal stalk proteins p p different functional roles despite high sequence similarity suggested their functional differences stem different structures citation
+OWNX--: although neither protein compact solution possesses folded structure under physiological ph temperature p was found mostly disordered low helical content whereas p had significant residual structure
+OWNX--: this residual structure disappeared at temperatures below c but was regained under low ph presence trifluoroethanol
+MISC--: palaninathan et al reported conformational changes were observed tertiary quaternary structures crystals native human transthyretin citation
+MISC--: at ph ttr forms tetramer its crystal structure includes electron density functionally important ef helix loop region
+OWNX--: at ph this region completely disordered
+CONT--: our search protein data bank resulted additional examples where slight changes experimental conditions strongly correlated presence absence disordered regions
+OWNX--: one case cyclophilin shown figure
+MISC--: cyp one principal members family large immunophilins found mammals
+MISC--: exact biological function large immunophilins incompletely understood though they believed strongly associated hsp play crucial regulatory role upkeep steroid receptor activity
+MISC--: pdb cyp stored iip ihg
+OWNX--: both structures were obtained using vapor diffusion hanging drop method recorded temperature k but iip was crystallized at ph whereas ihg was crystallized at ph
+MISC--: two proteins identical yet rmsd was obtained their structural alignment
+MISC--: importantly ihg contains ordered region y was absent structure iip
+MISC--: neither protein was solved presence natural ligands
+MISC--: addition experimental studies computational analyses redundant sets experimentally determined structures identical protein regions provided evidence existence numerous protein fragments observed both ordered disordered states citation
+MISC--: authors analyzed dual personality fragments showed they characterized amino acid compositions different than those either ordered disordered proteins their main functional roles regulatory
+MISC--: examples discussed above demonstrate strong influence experimental parameters disordered residues crystallized proteins
+CONT--: however hypothesis variation experimental conditions could potentially trigger structural changes affecting existence position length intrinsically disordered regions not been systematically tested quantified
+BASE--: following work we provide evidence significant variation disordered regions protein structures general under same different experimental conditions we believe serve basic indicator environmental regulation protein structure disordered regions vivo

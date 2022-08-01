@@ -1,0 +1,27 @@
+MISC--: many biological systems interactions describe coupling between different units genetic network nonlinear stochastic
+OWNX--: we study interplay between stochasticity nonlinearity using responses chinese hamster ovary mammalian cells different temperature shocks
+MISC--: experimental data show mean value response cell population described mathematical expression valid large range heat shock conditions
+MISC--: nonlinear stochastic theoretical model was developed explains empirical law mean response
+MISC--: moreover theoretical model predicts specific biological probability distribution responses cell population
+OWNX--: prediction was experimentally confirmed measurements at single cell level
+MISC--: computational approach used study other nonlinear stochastic biological phenomena
+MISC--: complex biological systems built out huge number components
+MISC--: components diverse dna sequence elements mrna transcription factors etc concentration each component changes over time
+MISC--: one way understand functions complex biological system construct quantitative model interactions present system
+MISC--: interactions usually nonlinear terms concentrations components participate interaction process
+MISC--: example concentration dimer proportional product concentrations molecules dimerise
+MISC--: besides being nonlinear interactions also stochastic
+MISC--: production process molecule not deterministic governed probability rate production
+MISC--: what follows nonlinear stochastic model response heat shocks cho mammalian cells will developed
+MISC--: heat stress just one example many ways molecular system perturbed
+MISC--: general perspective structure molecular system uncovered imposing different perturbations system under study then responses system measured
+MISC--: experimental collection pairs input output signals laws describe system uncovered
+MISC--: this fundamental idea systems synthetic biology citation citation long proved successful field electronics
+MISC--: input signals applied through use signal generators citation citation
+MISC--: input signal easy manipulate heat pulse parameters change being pulse temperature its duration
+MISC--: members stress protein family heat shock protein highly responsive temperature variations
+MISC--: this protein molecular chaperone critical component complex genetic network enables organism respond deleterious effects stress citation citation
+MISC--: since hsp thus important regulator complex system our goal was find if possible develop mathematical model regulation its expression mammalian cells exposed heat shock
+OWNX--: our specific objectives were determine equation representing average expression hsp over time cell population after initial heat shock determine how physical parameters heat shock influence parameters this equation determine mathematical model describes expression hsp at single cell level
+OWNX--: we first describe process inferring mathematical model experimental data
+MISC--: then mathematical study model will follow

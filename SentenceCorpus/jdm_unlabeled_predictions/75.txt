@@ -1,0 +1,40 @@
+OWNX--: we asked jurors awaiting trial assignment listen recorded synopsis authentic criminal trial make choice among number verdict possibilities
+MISC--: each participant juror then deliberated another juror whose verdict choice differed microcosm full jury s deliberation
+MISC--: analysis transcripts deliberations revealed both characteristics general sample characteristics variation appeared across participants
+MISC--: findings were interpreted terms model juror reasoning entailing theory evidence coordination
+OWNX--: more frequently than challenging other s statements we found juror agreed added elaborated them
+MISC--: epistemological stance whether knowledge was regarded absolute certain subject interpretation predicted several characteristics discourse
+MISC--: absolutists were less likely make reference verdict criteria their discourse
+MISC--: those who did so well those who made frequent reference evidence were more likely persuade their discourse partners
+MISC--: rozin citation argued recently some phenomena broad social significance they warrant whatever even imperfect light we able shed them
+MISC--: discourse means jurors reach their verdict decisions arguably falls into this category
+MISC--: jury deliberation component democratic legal system traditionally shrouded secrecy
+MISC--: even if were more available external observers complexity number individuals engaged largely unconstrained dialog about controversial often intricate matters so great challenge analysis process
+MISC--: unsurprisingly then bulk jury research been devoted examination influences jury outcomes rather than deliberation process itself
+MISC--: research does exist deliberation process typically concerned social influence processes little say about phenomenon key interest us here reasoning means jurors influence one another
+MISC--: work reported here we undertook gain insight into dialogic reasoning occurs during jury deliberation reducing its complexity looking at just microcosm albeit arguably authentic one larger process
+OWNX--: jurors awaiting trial assignment were asked listen tape recorded synopsis constructed transcript actual trial make verdict judgment
+OWNX--: two jurors whose judgments differed were then asked deliberate they might jury room try reach agreement one another regarding proper verdict
+AIMX--: present article we examine some characteristics this discourse including both characteristics general sample characteristics variation appeared across participants
+MISC--: individual juror s task two us argued earlier one theory evidence coordination citation
+OWNX--: juror needs construct multiple theories story verdict constellations evaluated against presented evidence
+MISC--: theories compared verdict having most consistent least discrepant evidence associated selected
+OWNX--: if this characterization correct task requires representations evidence representations each theories verdict definitions set mental operations directed toward coordinating two
+OWNX--: specific prediction we test here therefore nature representations both will affect nature outcome jurors deliberation
+MISC--: individual variation data consistent model
+MISC--: kuhn et al citation found individuals at more advanced epistemological levels who believe absolute certainty not possible who also tend more highly educated were more likely choose more moderate intermediate verdicts number degree murder manslaughter their individual verdict choices
+MISC--: performance was also related number argument skills e g discounting counterargument justifying alternative verdict require evidence theory coordination citation
+AIMX--: present article we wished explore utility this theory evidence coordination model shedding light aspects subsequent phase jury decision making process i e individual juror s reasoning judgment following presentation trial evidence engagement jurors discourse one another objective reaching joint decision
+OWNX--: specifically we pose two research questions
+MISC--: first if success excerpt discourse between two jurors defined one successfully persuading other evidence better fits one verdict than another successful productive discourse should contain frequent reference individual verdicts criteria define each well evidence against they must compared
+MISC--: does jurors discourse fact characteristics
+AIMX--: second we wished better understand how individual differences juror reasoning identified earlier work likely manifest themselves juror discourse
+MISC--: education level been found strong predictor individual juror reasoning citation therefore could anticipated affect discourse between jurors well
+CONT--: however itself education level complex largely opaque variable
+MISC--: what likely make more educated individual more incisive reasoner juror context
+OWNX--: here we investigate level epistemological understanding likely candidate
+MISC--: research epistemological understanding citation identified three broad levels understanding absolutist absolute objective truth determined multiplist subjectivity interpretation judgment recognized given priority evaluativist subjectivity recognized but does not preclude evaluation judgment conflicting interpretations
+MISC--: latter levels become more prevalent increasing age more educated individuals tend fall more often into latter categories citation
+OWNX--: different levels understanding regarding nature knowing certainty we propose implicated education difference juror behavior similarly may implications ways jurors talk one another hence conduct their decision making task
+OWNX--: specifically we predict absolutist conception knowledge certain objectively knowable works against execution theory evidence coordination entailed juror task
+OWNX--: multiplist relativist conception knowledge entirely subjective more open examination multiple perspectives yet omits judgmental component characteristic evaluativist conception multiple perspectives compared evaluated framework argument evidence

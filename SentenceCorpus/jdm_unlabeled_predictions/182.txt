@@ -1,0 +1,46 @@
+OWNX--: according deliberation without attention dwa hypothesis people facing difficult choice will make better decision after period distraction than after equally long period conscious deliberation effect referred unconscious thought advantage uta
+MISC--: status dwa hypothesis controversial many studies tried but failed replicate uta
+OWNX--: here we report series experiments sought identify conditions under uta replicated
+OWNX--: our starting point was recent meta analysis identified conditions under uta was strongest previous studies
+OWNX--: using within subjects design task met each conditions we failed replicate uta
+MISC--: based closer inspection previous methods findings we then examined some additional factors could important replicating uta including mental fatigue choice complexity
+OWNX--: this was no avail results revealed only significant conscious thought advantage when choice complexity was increased relative first experiment
+OWNX--: we subsequently conducted exploratory analyses data across experiments found male subjects showed significant conscious thought advantage while female subjects showed trend towards uta
+MISC--: taken together our results suggest replication uta may depend more characteristics sample than characteristics task they suggest gender could source variance outcomes previous studies using between subjects design
+MISC--: throughout life people face variety decisions involve choices between options many relevant attributes
+MISC--: instance deciding university program enroll one needs consider goals getting best possible education minimizing distance family friends finding nice place live
+MISC--: rational approach solving complex decision problem would involve comparing different options evaluating extent they satisfy goals citation
+MISC--: perform decision analysis one would preferably use external aids computer pencil paper writing out decision problem performing required computations
+MISC--: but what if you do not option using external aids instead rely memory mental information processing capacity making complex decisions
+CONT--: while conventional wisdom suggests one should think carefully before making difficult choice deliberation without attention dwa hypothesis proposed dijksterhuis colleagues citation argues otherwise
+AIMX--: specifically this hypothesis claims complex decisions best made without conscious deliberation following period during conscious deliberation about choice at hand prevented means performing unrelated attention demanding task
+OWNX--: support this hypothesis dijksterhuis et al citation reported results experiment consisted three phases
+MISC--: information acquisition phase subjects received information about four fictional cars were each described terms number characteristics could positive fuel efficient negative does not airbags
+OWNX--: one cars had nine positive characteristics whereas two had six one had only three
+OWNX--: characteristics were presented one after other subjects were instructed form thorough impression each car
+OWNX--: following this information acquisition phase one group subjects was told they had four minutes think carefully about options before they would asked make choice
+MISC--: this comprised conscious thought condition
+OWNX--: other group was told they would first do another task solving anagrams four minutes before they would asked make choice
+MISC--: this comprised unconscious thought condition
+OWNX--: results this between subjects comparison showed subjects unconscious thought condition performed better than those conscious deliberation condition latter performing at chance picking out best car
+MISC--: other words subjects who were given opportunity think about cars made worse choices than those who did not think about cars due distracting task
+MISC--: explain their surprising finding dijksterhuis nordgren citation proposed aforementioned dwa hypothesis
+MISC--: this hypothesis claims processing earlier presented information will continue at unconscious level during execution distracting task effectively producing preference will guide one s decision when choice eventually needs made
+MISC--: explain why this unconscious form deliberation produces better choices than conscious deliberation dijksterhuis colleagues further proposed unconscious thought much greater capacity processing information than conscious thought
+MISC--: hence unconscious thought would better suited dealing complex decisions consequence momentary distraction would result unconscious thought advantage uta case decisions involving many options many characteristics relevance
+MISC--: claiming people should rely unconscious processing make better choices dwa hypothesis readily attracted attention public media readily attracted criticism other scientists
+MISC--: dijksterhuis claims were considered misleading potentially harmful citation researchers were quick offer alternative explanations uta citation
+OWNX--: nevertheless unconscious thought paradigm took flight researchers started investigate boundary conditions uta
+MISC--: this work indicated uta not very robust phenomenon many studies failed replicate spite using similar methods those dijksterhuis used citation
+MISC--: at same time however dijksterhuis other researchers produced number replications extensions uta citation
+MISC--: short available literature currently features number published studies together report total number experiments quality judgments decisions was compared between conscious unconscious deliberation condition see table number
+OWNX--: experiments number replicated uta some form while number showed no significant difference performance four showed significantly better performance conscious thought condition conscious thought advantage cta
+MISC--: given most experiments listed table number used methods materials similar those used dijksterhuis citation intriguing question why results experiments could so inconsistent
+MISC--: address this matter strick dijksterhuis colleagues conducted meta analysis comprehensive collection published unpublished datasets they examined number methodological details differed between studies citation
+OWNX--: results showed averaged across studies uta remained significant pooled effect size number
+MISC--: more importantly results also showed there indeed quite few methodological details significant influence magnitude uta
+MISC--: moderators not only pertained nature choices had made but also manner information acquisition deliberation phases were implemented different studies
+MISC--: specifically analysis strick et al showed effect sizes were larger studies employed more complex decisions predicted dwa hypothesis
+MISC--: analysis also showed uta absent when subjects different goal than evaluating options later judgment choice most studies when subjects led focus specific aspects information instead forming general impression each options most studies
+MISC--: addition uta was found stronger when information about choice alternatives was presented grouped per alternative instead randomly intermixed across alternatives when this information was presented at relatively high pace when this information was accompanied pictorial information
+OWNX--: regard deliberation phase analysis showed uta was stronger when duration this phase was relatively short when task used distract subjects unconscious thought condition involved solving word search puzzles instead solving anagrams performing verbal working memory task

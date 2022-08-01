@@ -1,0 +1,46 @@
+OWNX--: we propose randomized algorithm training support vector machines svms large datasets
+OWNX--: using ideas random projections we show combinatorial dimension svms symbol high probability
+OWNX--: this estimate combinatorial dimension used derive iterative algorithm called randsvm at each step calls existing solver train svms randomly chosen subset size symbol
+MISC--: algorithm probabilistic guarantees capable training svms kernels both classification regression problems
+OWNX--: experiments done synthetic real life data sets demonstrate algorithm scales up existing svm learners without loss accuracy keywords support vector machines randomized algorithms random projections subclass w c c c
+MISC--: consider training data set symbol where symbol data points symbol labels
+MISC--: problem learning linear classifier symbol where symbol linear function symbol when symbol scalar understood estimating symbol symbol
+OWNX--: over years support vector machines svms emerged powerful tools estimating functions
+AIMX--: this paper we concentrate developing randomized algorithms learning svms large datasets
+MISC--: detailed review svm classification svm regression please see citation
+OWNX--: develop notation we briefly discuss problem training linear classifiers
+MISC--: svm formulation linearly separable datasets given citation symbol where symbol euclidean norm symbol
+MISC--: formulation very interesting geometric underpinnings citation
+MISC--: understood computing distance between convex hulls sets symbol symbol
+MISC--: linearly non separable datasets following formulation c svm symbol will called symbol again due citation used
+MISC--: this formulation do not elegant geometric interpretation like separable case but one consider c svms computing distance between two reduced convex hulls citation
+MISC--: both formulations instances abstract optimization problem aop citation
+MISC--: aop defined follows every aop combinatorial dimension associated combinatorial dimension captures notion number free variables aop
+MISC--: aop solved randomized algorithm selecting subsets size greater than combinatorial dimension problem citation
+OWNX--: we wish exploit this property aops design randomized algorithms svms
+MISC--: idea develop iterative algorithm where each step one needs solve svm formulation small subset training data
+MISC--: crucial this idea size subset tied combinatorial dimension svm formulation
+OWNX--: this end note at optimality symbol given symbol both separable non separable case
+MISC--: using symbol variables one define set support vectors svs symbol defines symbol
+MISC--: set symbol may not unique though symbol
+MISC--: combinatorial dimension svms given minimum number svs required define symbol
+MISC--: more formally symbol where symbol cardinality set symbol
+MISC--: parameter symbol does not change number examples symbol often much less than symbol
+MISC--: apriori value symbol not known but linearly separable classification problems following holds symbol
+MISC--: this follows observation computes distance between non overlapping convex hulls citation
+MISC--: when problem not linearly separable reduced convex hull interpretation leads very crude upper bound much larger than symbol
+MISC--: idea iterating over randomly sampled subsets size greater than symbol training svms was first explored citation resulting algorithm was called randsvm
+MISC--: randsvm procedure iterates over subsets size proportional symbol shown algorithm
+OWNX--: however authors noted randsvm not practical because following reasons
+OWNX--: linear classifiers sample size too large case high dimensional data sets
+MISC--: non linear svms citation dimension feature space usually unknown when using kernels
+CONT--: even this case one obtain very crude upper bound symbol reduced convex hull approach but not really useful number obtained very large end algorithm this work overcomes above problems using ideas random projections citation randomized algorithms citation
+MISC--: mentioned authors randsvm biggest bottleneck their algorithm value symbol too large
+OWNX--: main contribution this work using ideas random projections conjecture if randsvm solved using symbol equal symbol then solution obtained close optimal high probability theorem particularly linearly separable almost separable data sets
+MISC--: almost separable data sets those become linearly separable when small number properly chosen data points deleted them
+MISC--: second contribution algorithm using ideas randomized algorithms linear programming lp solves svm problem using samples size linear symbol
+MISC--: this work also shows theory applied non linear kernels
+MISC--: formulation naturally applies regression problems
+OWNX--: paper organized follows section introduces previous work section presents improved algorithm classification almost linearly separable data
+OWNX--: section presents improved algorithm symbol tube regression formulation
+OWNX--: we present our results conclusions section

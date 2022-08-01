@@ -1,0 +1,98 @@
+OWNX--: multi armed bandit mab problem online algorithm makes sequence choices
+MISC--: each round chooses time invariant set alternatives receives payoff associated this alternative
+MISC--: while case small strategy sets now well understood lot recent work focused mab problems exponentially infinitely large strategy sets where one needs assume extra structure order make problem tractable
+MISC--: particular recent literature considered information similarity between arms
+OWNX--: we consider similarity information setting contextual bandits natural extension basic mab problem where before each round algorithm given context hint about payoffs this round
+MISC--: contextual bandits directly motivated placing advertisements webpages one crucial problems sponsored search
+MISC--: particularly simple way represent similarity information contextual bandit setting via similarity distance between context arm pairs bounds above difference between respective expected payoffs
+MISC--: prior work contextual bandits similarity uses uniform partitions similarity space so each context arm pair approximated closest pair partition
+MISC--: algorithms based uniform partitions disregard structure payoffs context arrivals potentially wasteful
+OWNX--: we present algorithms based adaptive partitions take advantage benign payoffs context arrivals without sacrificing worst case performance
+OWNX--: central idea maintain finer partition high payoff regions similarity space popular regions context space
+MISC--: our results apply several other settings eg mab constrained temporal change citation sleeping bandits citation
+MISC--: multi armed bandit problem henceforth multi armed bandit will abbreviated mab algorithm presented sequence trials
+MISC--: each round algorithm chooses one alternative set alternatives arms based past history receives payoff associated this alternative
+MISC--: goal maximize total payoff chosen arms
+MISC--: mab setting been introduced citation studied intensively since then operations research economics computer science
+OWNX--: this setting clean model exploration exploitation trade off crucial issue sequential decision making under uncertainty
+OWNX--: one standard way evaluate performance bandit algorithm regret defined difference between expected payoff optimal arm algorithm
+MISC--: now mab problem small finite set arms quite well understood eg see citation
+OWNX--: however if arms set exponentially infinitely large problem becomes intractable unless we make further assumptions about problem instance
+MISC--: essentially bandit algorithm needs find needle haystack each algorithm there inputs performs badly random guessing
+MISC--: bandit problems large sets arms been active area investigation past decade see section discussion related literature
+MISC--: common theme works assume certain structure payoff functions
+MISC--: assumptions this type natural many applications often lead efficient learning algorithms citation
+MISC--: particular line work started citation assumes some information similarity between arms available
+AIMX--: this paper we consider similarity information setting contextual bandits citation natural extension basic mab problem where before each round algorithm given context hint about payoffs this round
+MISC--: contextual bandits directly motivated problem placing advertisements webpages one crucial problems sponsored search
+MISC--: one cast bandit problem so arms correspond possible ads payoffs correspond user clicks
+MISC--: then context consists information about page perhaps user this page served
+OWNX--: furthermore we assume similarity information available both context arms
+MISC--: following work citation non contextual bandits particularly simple way represent similarity information contextual bandit setting via similarity distance between context arm pairs gives upper bound difference between corresponding payoffs xhdr our model contextual bandits similarity information contextual bandits framework defined follows
+MISC--: let symbol context set symbol arms set let symbol set feasible context arms pairs
+OWNX--: each round symbol following events happen succession context symbol revealed algorithm algorithm chooses arm symbol symbol payoff reward symbol revealed
+OWNX--: sequence context arrivals symbol fixed before first round does not depend subsequent choices algorithm
+MISC--: stochastic payoffs each pair symbol there distribution symbol expectation symbol so symbol independent sample symbol
+OWNX--: adversarial payoffs this distribution change round round
+AIMX--: simplicity we present subsequent definitions stochastic setting only whereas adversarial setting fleshed out later paper section omit here symbol payoff function defined independent random sample some fixed distribution symbol over functions symbol general goal bandit algorithm maximize total payoff symbol where symbol time horizon
+OWNX--: contextual mab setting we benchmark algorithm s performance terms context specific best arm
+OWNX--: specifically goal minimize contextual regret context specific best arm more demanding benchmark than best arm used standard context free definition regret
+OWNX--: similarity information given algorithm metric space symbol we call similarity space following lipschitz condition holds without loss generality symbol
+MISC--: absence similarity information modeled symbol
+MISC--: instructive special case product similarity space symbol where symbol metric space contexts context space symbol metric space arms arms space xhdr prior work uniform partitions citation consider contextual mab similarity information contexts
+MISC--: they suggest algorithm chooses uniform partition symbol context space approximates symbol closest point symbol call symbol
+OWNX--: specifically algorithm creates instance symbol some bandit algorithm symbol each point symbol invokes symbol each round symbol
+MISC--: granularity partition adjusted time horizon context space black box regret guarantee symbol
+CONT--: furthermore citation provides bandit algorithm symbol adversarial mab problem metric space similar flavor pick uniform partition symbol arms space run symbol arm bandit algorithm exp citation points symbol
+MISC--: again granularity partition adjusted time horizon arms space black box regret guarantee exp
+OWNX--: applying two ideas our setting product similarity space gives simple algorithm we call
+OWNX--: its contextual regret even adversarial payoffs where symbol covering dimension context space symbol arms space xhdr our contributions using uniform partitions disregards potentially benign structure expected payoffs context arrivals
+OWNX--: central topic this paper bfadaptive partitions similarity space adjusted frequently occurring contexts high paying arms so algorithms take advantage problem instances expected payoffs context arrivals benign low dimensional sense we make precise later
+OWNX--: we present two main results one stochastic payoffs one adversarial payoffs
+OWNX--: stochastic payoffs we provide algorithm called contextual zooming zooms regions context space correspond frequently occurring contexts regions arms space correspond high paying arms
+MISC--: unlike algorithms prior work this algorithm considers context space arms space jointly maintains partition similarity space rather than one partition contexts another arms
+OWNX--: we develop provable guarantees capture benign ness context arrivals expected payoffs
+OWNX--: worst case we match guarantee refeq eq regret naive naivealg
+OWNX--: we obtain nearly matching lower bounds using kl divergence techniques citation
+MISC--: lower bound very general holds every given product similarity space every fixed value upper bound
+MISC--: our stochastic contextual mab setting specifically zoomalg fruitfully applied beyond ad placement scenario described above beyond mab similarity information per se
+OWNX--: first writing symbol one incorporate temporal constraints across time each arm combine them spatial constraints across arms each time
+MISC--: analysis contextual zooming yields concrete meaningful bounds this scenario
+OWNX--: particular we recover one main results citation
+BASE--: second our setting subsumes stochastic sleeping bandits problem citation where each round some arms asleep i e not available this round
+MISC--: here contexts correspond subsets arms awake
+MISC--: contextual zooming recovers generalizes corresponding result citation
+AIMX--: third following publication preliminary version this paper contextual zooming been applied bandit learning rank citation omit applies version adversarial mab problem adversary constrained change expected payoffs each arm gradually eg small amount each round
+AIMX--: fact we combine significant constraints across time each arm across arms each time omit context free setting our guarantees match those citation
+OWNX--: our algorithm analysis extends more general setting where some context arms pairs may unfeasible moreover right hand side refeq eq lipschitzd replaced arbitrary metric feasible context arms pairs omit we apply zoomalg context free adversarial mab problem adversary constrained change expected payoffs each arm gradually eg small amount each round
+OWNX--: this setting naturally modeled contextual mab problem symbol th context arrival simply symbol
+OWNX--: then symbol corresponds expected payoff arm symbol at time symbol context metric symbol provides upper bound temporal change symbol
+OWNX--: we term bf driftproblem
+AIMX--: interestingly this problem incorporates significant constraints both across time each arm across arms each time best our knowledge mab models quite rare literature
+OWNX--: notable special cases symbol include symbol symbol corresponds respectively bounded change per round high probability behavior random walk
+OWNX--: we derive provable guarantees two examples show they essentially optimal
+MISC--: interestingly problem subsumes stochastic sleeping bandits problem citation where each round some arms asleep i e not available this round
+MISC--: each context arrival symbol corresponds set arms awake this round
+MISC--: more precisely contexts symbol correspond subsets symbol arms so only context arm pairs symbol symbol feasible context distance symbol
+MISC--: moreover problem extends sleeping bandits setting incorporating similarity information arms
+MISC--: zoomalg its analysis applies geared exploit this additional similarity information
+MISC--: absence information algorithms essentially reduces highest awake index algorithm citation omit analysis zoomalg carries over driftproblem contextual regret becomes dynamic regret regret respect benchmark each round plays best arm this round
+BASE--: this setting quantity interest average dynamic regret typically independent time horizon omit furthermore we consider dynamic mab problem citation state current expected payoff each arm undergoes independent brownian motion symbol interval reflecting boundaries
+OWNX--: we treat this problem essentially special case driftproblem symbol where symbol volatility speed change brownian motion
+OWNX--: we improve analysis zoomalg obtain guarantees superior those algorithms citation provide nearly matching lower bound adversarial setting we provide algorithm maintains adaptive partition context space thus takes advantage benign context arrivals
+OWNX--: we develop provable guarantees capture this benign ness
+MISC--: worst case contextual regret bounded terms covering dimension context space matching refeq eq regret naive
+CONT--: our algorithm fact meta algorithm given adversarial bandit algorithm bandit we present contextual bandit algorithm calls bandit subroutine
+MISC--: our setup flexible depending what additional constraints known about adversarial payoffs one plug bandit algorithm prior work corresponding version adversarial mab so regret bound bandit plugs into overall regret bound omit our setup allows us leverage prior work other adversarial mab formulations basic symbol arm version citation linear payoffs citation convex payoffs citation xhdr discussion adaptive partitions arms space context free mab similarity information been introduced citation
+AIMX--: this paper further explores potential zooming technique citation
+MISC--: specifically contextual zooming extends this technique adaptive partitions entire similarity space necessitates technically different algorithm more delicate analysis
+OWNX--: we obtain clean algorithm contextual mab improved nearly optimal bounds
+MISC--: moreover this algorithm applies several other seemingly unrelated problems unifies some results prior work
+OWNX--: one alternative approach maintain partition context space run separate instance zooming algorithm citation each set this partition
+CONT--: fleshing out this idea leads meta algorithm we present adversarial payoffs bandit being zooming algorithm
+OWNX--: this meta algorithm parameterized constrained specific priori regret bound bandit
+OWNX--: unfortunately any priori regret bound zooming algorithm would pessimistic one negates its main strength ability adapt benign expected payoffs xhdr map paper section related work section preliminaries
+OWNX--: contextual zooming presented section
+OWNX--: lower bounds section
+OWNX--: some applications contextual zooming discussed section
+OWNX--: adversarial setting treated section

@@ -1,0 +1,34 @@
+OWNX--: sampling based methods previously been proposed problem finding interesting associations data even low support items
+MISC--: while methods do not guarantee precise results they vastly more efficient than approaches rely exact counting
+MISC--: however many similarity measures no methods been known
+AIMX--: this paper we show how wide variety measures supported simple biased sampling method
+OWNX--: method also extends find high confidence association rules
+OWNX--: we demonstrate theoretically our method superior exact methods when threshold interesting similarity confidence above average pairwise similarity confidence average support not too low
+MISC--: our method particularly good when transactions contain many items
+OWNX--: we confirm experiments standard association mining benchmarks this gives significant speedup real data sets sometimes much larger than theoretical guarantees
+OWNX--: reductions computation time over order magnitude significant savings space observed
+MISC--: central task data mining finding associations binary relation
+MISC--: typically this phrased market basket setup where there sequence baskets now transactions each set items
+MISC--: goal find patterns customers who buy diapers more likely also buy beer
+MISC--: there no canonical way defining whether association interesting indeed this seems depend problem specific factors not captured abstract formulation
+AIMX--: result number measures exist this paper we deal some most common measures including jaccard citation lift citation cosine all confidence citation
+OWNX--: addition we interested high confidence association rules closely related overlap coefficient similarity measure
+OWNX--: we refer citation general background discussion similarity measures
+OWNX--: discussion we limit ourselves problem binary associations i e patterns involving pairs items
+MISC--: there large literature considering challenges finding patterns involving larger item sets taking into account aspect time multiple level rules etc
+OWNX--: while some our results extended cover larger item sets we will simplicity concentrate binary case
+MISC--: previous methods rely one following approaches identifying item pairs symbol occur frequently together transactions particular this means counting number co occurrences each pair computing signature each item similarity every pair items estimated partially comparing item signatures
+OWNX--: our approach different both approaches generally offers improved performance flexibility
+OWNX--: some sense we go directly desired result set pairs items similarity measure above some user defined threshold symbol
+MISC--: our method sampling based means output may contain false positives there may false negatives
+OWNX--: however errors rigorously understood reduced any desired level at some cost efficiency our experimental results false negative probability less than
+AIMX--: method doing sampling main novelty this paper radically different previous approaches involve sampling
+CONT--: main focus many previous association mining papers been space usage number passes over data set since been recognized main bottlenecks
+OWNX--: we believe time come also carefully consider cpu time
+MISC--: transaction symbol items contains symbol item pairs if symbol not small effort considering all pairs non negligible compared cost reading item set
+MISC--: this true particular if data resides ram modern ssd able deliver data at rate more than gigabyte per second
+OWNX--: one remedy been used reduce space but also time require high support i e define occur frequently together most items thrown away initially simply because they do not occur frequently enough they below support threshold
+MISC--: however observed citation this means potentially interesting useful associations e g correlations between genes rare diseases not reported
+OWNX--: this paper we consider problem finding associations without support pruning
+OWNX--: course support pruning still used reduce size data set before our algorithms applied
+OWNX--: following sections we first discuss need focusing cpu time data mining then elaborate relationship between our contribution related works

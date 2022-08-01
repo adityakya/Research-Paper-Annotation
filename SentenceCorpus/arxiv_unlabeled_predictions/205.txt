@@ -1,0 +1,62 @@
+MISC--: collaborative filtering system recommends users products similar users like
+MISC--: collaborative filtering systems influence purchase decisions hence become targets manipulation unscrupulous vendors
+OWNX--: we provide theoretical empirical results demonstrating while common nearest neighbor algorithms widely used commercial systems highly susceptible manipulation two classes collaborative filtering algorithms we refer linear asymptotically linear relatively robust
+OWNX--: results provide guidance design future collaborative filtering systems
+OWNX--: while expanding universe products available via internet commerce provides consumers valuable options sifting through numerous alternatives identify desirable choices challenging
+MISC--: collaborative filtering cf systems aid this process recommending users products desired similar individuals
+MISC--: at heart cf system algorithm predicts whether given user will like various products based his past behavior other users
+MISC--: nearest neighbor nn algorithms example enjoyed wide use commercial cf systems including those amazon netflix youtube citation
+OWNX--: prototypical nn algorithm stores each user s history may include instance his product ratings purchase decisions
+MISC--: predict whether particular user will like particular product algorithm identifies number other users similar histories
+MISC--: prediction then generated based how so called neighbors responded product
+MISC--: this prediction could example weighted average past ratings supplied neighbors
+MISC--: because purchase decisions influenced cf systems they become targets manipulation unscrupulous vendors
+MISC--: instance vendor create multiple online identities use each rate his own product highly competitors products poorly
+MISC--: example amazon s cf system was manipulated so users who viewed spiritual guide written well known christian evangelist were subsequently recommended sex manual gay men citation
+MISC--: although this incident may not been driven commercial motives highlights vulnerability cf systems
+MISC--: research literature offers further empirical evidence nn algorithms susceptible manipulation citation
+MISC--: order curb manipulation one might consider authenticating each user asking say credit card number limit number fake identities
+MISC--: this may effective some situations
+MISC--: however web services do not facilitate financial transactions youtube requiring authentication would intrude privacy drive users away
+MISC--: one might also consider using only customer purchase data when they available basis recommendations because they likely generated honest users
+MISC--: recommendation quality may improved however if higher volume data page views also properly utilized
+AIMX--: this paper we seek understand extent manipulators hurt performance cf systems how cf algorithms should designed abate their influence
+MISC--: we find while nn algorithms quite sensitive manipulation cf algorithms carry out predictions based particular class probabilistic models surprisingly robust
+AIMX--: reasons we will explain paper we will refer algorithms this kind linear cf algorithms
+OWNX--: we find user rates increasing number products average accuracy predictions made linear cf algorithm becomes insensitive manipulated data
+MISC--: instance even if half all ratings provided manipulators who try promote half products predictions users long histories will barely distorted average
+OWNX--: provide some intuition why our results should hold we now offer informal argument
+MISC--: robust cf algorithm should learn its mistakes
+MISC--: particular differences between its predictions actual ratings should help improve predictions future ratings
+MISC--: linear cf algorithm generates predictions based probability distribution convex combination two distributions one would learn given only data generated honest users one would learn given only manipulated data
+OWNX--: user whose ratings we wish predict provides more ratings becomes increasingly clear two distributions better represents his preferences
+MISC--: result weight placed manipulated data diminishes distortion vanishes
+AIMX--: main theoretical result this paper formalizes above argument
+OWNX--: particular we will define notion distortion induced manipulators establish upper bound distortion takes particularly simple form symbol symbol r symbol n symbol n symbol symbol symbol symbol products before receiving recommendations
+OWNX--: broaden scope our analysis we will also study cf algorithms behave like linear cf algorithms asymptotically size training set grows
+MISC--: this class algorithms we refer asymptotically linear more flexible accommodating modeling assumptions may improve prediction accuracy
+OWNX--: we will establish relaxed version our distortion bound linear cf algorithms applies asymptotically linear cf algorithms
+OWNX--: we will also show our distortion bound does not generally hold nn algorithms
+MISC--: intuitively this because prediction errors do not always improve selection neighbors
+OWNX--: particular user provides more ratings manipulated data contribute inaccurate predictions his future ratings may remain set neighbors while data generated honest users may eliminated
+MISC--: result distortion predictions may not decrease
+OWNX--: we will later provide example illustrate this
+OWNX--: addition theoretical results this paper provides empirical analysis using publicly available set movie ratings generated users netflix s recommendation system
+OWNX--: we produce distorted version this data set injecting manipulated ratings generated using manipulation technique studied prior literature
+OWNX--: we then compare results application three cf algorithms nn algorithm linear cf algorithm called kernel density estimation algorithm asymptotically linear cf algorithm called naive bayes algorithm
+OWNX--: results demonstrate while performance nn algorithm highly susceptible manipulation those kernel density estimation naive bayes algorithms relatively robust
+OWNX--: particular latter two experience distortion lower than theoretical bound we provide whereas distortion former exceeds far
+MISC--: one might also wonder whether manipulation robustness cf algorithm comes at expense its prediction accuracy
+OWNX--: example consider algorithm fixes predictions all ratings constant without regard training data
+MISC--: this algorithm uninfluenced manipulation but likely yield poor predictions therefore not useful
+OWNX--: our experiments accuracy demonstrated three algorithms all seems reasonable
+MISC--: this suggests accuracy cf algorithm may achieved alongside robustness
+OWNX--: our theoretical empirical results together suggest commercial recommendation systems using nn algorithms made more robust adopting approaches we describe
+AIMX--: note we not proposing real world systems should implement specific algorithms we present this paper
+MISC--: rather our analysis highlights properties cf algorithms lead robustness practitioners may benefit taking properties into consideration when designing cf systems
+AIMX--: this paper organized follows
+OWNX--: next section we discuss some related work
+OWNX--: section we formulate simplified model serves context studying alternative cf algorithms
+OWNX--: we then establish results concerning manipulation robustness nn linear asymptotically linear cf algorithms section
+OWNX--: section we present our empirical study
+OWNX--: we make some closing remarks final section

@@ -1,0 +1,75 @@
+OWNX--: we uncovered underlying energy landscape cellular network
+OWNX--: we discovered energy landscape yeast cell cycle network funneled towards global minimum experimentally measured inferred inherent chemical reaction rates
+OWNX--: funneled landscape quite robust against random perturbations
+MISC--: this naturally explains robustness physical point view
+MISC--: ratio slope versus roughness landscape becomes quantitative measure robustness network
+MISC--: funneled landscape seen possible realization darwinian principle natural selection at cellular network level
+MISC--: provides optimal criterion network connections design
+OWNX--: our approach general applied other cellular networks
+MISC--: post genome era crucial uncover underlying mechanism cellular networks understand their biological function citation citation
+MISC--: underlying nature cellular networks been explored genetic techniques citation
+OWNX--: cellular networks been found generally quite robust perform their biological functions against environmental perturbations
+MISC--: there increasing numbers studies global topological structures networks recently citation scale free properties hierarchical architectures networks been found citation citation
+MISC--: hubs highly connected nodes network essential keeping network together might play important role robustness network
+MISC--: however there so far very few studies why network should robust perform biological function physical point view citation citation
+MISC--: theoretical models cellular networks often been formulated set chemical rate equations
+MISC--: dynamical descriptions inherently local
+MISC--: probe global properties one often change parameters
+MISC--: parameter space huge
+MISC--: global robustness therefore hard see this approach
+MISC--: here we will explore nature networks another angle formulate problem terms potential function potential energy landscape
+MISC--: if potential energy landscape cellular network known global properties explored citation citation
+MISC--: this analogy fact global thermodynamic properties explored when knowing inherent interaction potentials system
+MISC--: set normal chemical rate equations describing cellular networks f x being concentrations proteins f being chemical reaction rate flux one cannot general write right hand side equations gradient potential energy function
+MISC--: however typical chemical reaction network equations only approximations average concentration level
+MISC--: cell statistical fluctuations coming finite number molecules provide source intrinsic internal noise fluctuations highly dynamical inhomogeneous environments interior cell provide source external noise networks citation citation
+MISC--: both internal external noise play important roles determining properties network
+AIMX--: general one should study chemical reaction network equations noisy conditions model cellular environments more realistically
+MISC--: one also study steady state properties chemical reaction equation networks under noisy environments
+MISC--: generalized potential steady state network exists general citation citation citation citation
+MISC--: once network problem formulated terms generalized potential energy function potential energy landscape issue global stability robustness much easier address
+AIMX--: fact purpose this paper study global robustness problem directly properties potential landscape network
+OWNX--: explore nature underlying potential landscape cellular networks we will study yeast cell cycle network
+MISC--: one most important functions cell reproduction growth
+MISC--: therefore crucial understand cell cycle its underlying process
+MISC--: cell cycles during development usually divided into several phases g g s g m phases
+OWNX--: most eukaryotic cells elaborate control mechanisms over dna synthesis mitosis make sure crucial events cell cycle carried out properly precisely
+MISC--: physiologically there usually three checkpoints controlling coordination g g before new round division g before mitotic process begins m before segregation
+MISC--: recently many underlying controlling mechanisms revealed genetic techniques mutations gene knockouts
+MISC--: been found control been centered around cyclin dependent protein kinases trigger major events eukaryotic cell cycle
+MISC--: example activation cyclin cdk dimer drives cells at both g g checkpoints further progress
+MISC--: during other phases checkpoints cdk cyclin activated
+MISC--: although molecular interactions regulating cdk activities known mechanisms checkpoint controls still uncertain citation citation
+OWNX--: figure coarse grained relationship between cyclin cdc cell cycle illustrated
+MISC--: step cyclin synthesized de novo
+MISC--: newly synthesized cyclin may unstable
+MISC--: cyclin combines cdc p form pre mpf
+OWNX--: at some point after heterodimer formation cyclin subunit phosphorylated
+MISC--: cdc subunit then dephosphorylated form active mpf
+MISC--: principle activation mpf may opposed protein kinase
+MISC--: nuclear division triggered when sufficient quantity mpf been activated but concurrently active mpf destroyed step
+MISC--: breakdown mpf complex releases phosphorylated cyclin subject rapid proteolysis
+MISC--: finally cdc subunit phosphorylated cycle repeats itself
+MISC--: mathematical models cell cycle controls been formulated set ordinary first order differential equations mimicking underlying biochemical processes citation citation citation
+MISC--: models been applied budding yeast cycle explained many qualitative physiological behaviors
+OWNX--: checkpoints viewed fixed points
+MISC--: since intracellular intercellular signal transduction induces changes regulatory networks cell cycle described mimicked dynamics out fixed points
+MISC--: although detailed simulations give some insights towards issues due limitation parameter space search difficult perceive global universal properties cycle networks
+AIMX--: purpose current study address this issue
+MISC--: we will develop global energy landscape theory cell cycle network
+MISC--: this statistical based approach good two reasons
+CONT--: coarse grained approach captures only most important factors so analysis carried out relatively easily revealing some global properties
+MISC--: other hand statistical approach very useful informative when data rapidly accumulating
+MISC--: this picture there many possible states network corresponding different patterns activation inhibition protein states
+OWNX--: each checkpoint viewed basin attractions globally low energy states
+MISC--: g g phase states should lowest global energy since end cycle
+MISC--: initiate new cycle network receive signal activate pump next phase proceed
+OWNX--: dynamics cell cycle described dynamical motions landscape state space one basin another
+CONT--: this kinetic search not entirely random but directed since random search takes cosmological time
+OWNX--: direction gradient landscape provided tilting towards g g phase
+OWNX--: landscape therefore becomes funneled towards g g state bottom funnel what we call native state
+MISC--: at end g g phase network pumped high energy excited states at top funnel
+OWNX--: cell cycle then follows cascades through configurational state space directed way passing several checkpoints finally reaching bottom funnel g g phase again before being pumped again another cycle
+OWNX--: we will study global stability exploring underlying potential landscape yeast cell cycle network
+AIMX--: aim this paper provide framework tool study at cell network globally
+OWNX--: at conclusion this paper we show potential landscape budding yeast cell cycle funneled robust against perturbation kinetic rates environmental disturbances through noise

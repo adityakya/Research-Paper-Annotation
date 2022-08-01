@@ -1,0 +1,14 @@
+OWNX--: regularization sum singular values also referred trace norm popular technique estimating low rank rectangular matrices
+OWNX--: this paper we extend some consistency results lasso provide necessary sufficient conditions rank consistency trace norm minimization square loss
+OWNX--: we also provide adaptive version rank consistent even when necessary condition non adaptive version not fulfilled
+MISC--: recent years regularization various non euclidean norms seen considerable interest
+OWNX--: particular context linear supervised learning norms symbol norm may induce sparse loading vectors i e loading vectors low cardinality symbol norm
+MISC--: regularization schemes also known lasso citation least square regression come efficient path following algorithms citation
+MISC--: moreover recent work studied conditions under procedures consistently estimate sparsity pattern loading vector citation
+MISC--: when learning rectangular matrices rank natural extension cardinality sum singular values also known trace norm nuclear norm natural extension symbol norm indeed symbol norm convex envelope symbol norm unit ball i e largest lower bounding convex function citation trace norm convex envelope rank over unit ball spectral norm citation
+MISC--: practice leads low rank solutions citation seen recent increased interest context collaborative filtering citation multi task learning citation classification multiple classes citation
+OWNX--: this paper we consider rank consistency trace norm regularization square loss i e if data were actually generated low rank matrix will matrix its rank consistently estimated
+OWNX--: mysec consistency we provide necessary sufficient conditions rank consistency extensions corresponding results lasso citation group lasso citation
+OWNX--: we do so under two sets sampling assumptions detailed mysec assumptions full iid assumption non iid assumption natural context collaborative filtering
+OWNX--: lasso group lasso necessary condition implies procedures do not always estimate rank correctly following adaptive version lasso group lasso citation we design adaptive version achieve symbol consistency rank consistency no consistency conditions
+OWNX--: finally mysec algorithms we present smoothing approach convex optimization trace norm while mysec simulations we show simulations toy examples illustrate consistency results

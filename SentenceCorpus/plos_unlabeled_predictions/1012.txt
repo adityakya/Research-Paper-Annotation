@@ -1,0 +1,27 @@
+MISC--: knowledge free energy landscape topology essential key understanding many biochemical processes
+MISC--: determination conformers protein their basins attraction takes central role studying molecular isomerization reactions
+AIMX--: this work we present novel framework unveil features free energy landscape answering questions how many meta stable conformers there what hierarchical relationship among them what structure kinetics transition paths
+MISC--: exploring landscape molecular dynamics simulations microscopic data trajectory encoded into conformational markov network
+MISC--: structure this graph reveals regions conformational space corresponding basins attraction
+MISC--: addition handling conformational markov network relevant kinetic magnitudes dwell times rate constants hierarchical relationships among basins completes global picture landscape
+AIMX--: we show power analysis studying toy model funnel like potential computing efficiently conformers short peptide dialanine paving way systematic study free energy landscape large peptides
+MISC--: polymers more specifically proteins show complex behavior at cellular system level e g protein protein interaction networks citation also at individual level where proteins show large degree multistability single protein fold different conformational states citation citation
+MISC--: complex system citation citation dynamics protein cannot understood studying its parts isolation instead system must analyzed whole
+MISC--: tools able represent handle information entire picture complex system thus necessary
+MISC--: complex network theory citation citation proved powerful tool used seemingly different biologically related fields study metabolic reactions ecological food webs genetic regulatory systems study protein dynamics citation
+MISC--: this latter context diverse studies analyzed conformational space polymers proteins making use network representations citation citation where nodes account polymer conformations
+MISC--: additionally some studies tried determine common general properties conformational networks citation citation looking at magnitudes clustering coefficient cyclomatic number connectivity etc recently trying decompose network modules corresponding free energy basins use community algorithms over conformational networks been proposed citation
+BASE--: although this approach opened promising path analysis free energy landscapes community based description network leads multiple characterizations fel thus difficult establish clear map communities found basins fel
+OWNX--: similar approach commonly used analyze complex dynamics construction markovian models
+MISC--: markovian state models let us treat information one several trajectories molecular dynamics set conformations certain transition probabilities among them citation citation citation
+MISC--: therefore time continuous trajectory turns into transition matrix offering global observables relaxation times modes
+BASE--: citation citation use markovian models proposed aim detecting fel meta stable states
+MISC--: however above approaches analyze fels peptides involves extremely large computational cost either general community algorithms large transition matrices
+MISC--: finally other strategies characterize fel successfully helped understand physics biopolymers based study potential energy surface citation citation citation citation
+MISC--: classical transition state theory citation allows us project behavior system at certain temperature knowledge minima transition states pes
+OWNX--: this approach entails some feasible approximations harmonic approximation pes limit high damping assumption high barriers etc approximations could avoided working directly md data
+AIMX--: this article we make novel study fel capturing its mesoscopic structure hence characterizing conformational states transitions between them
+MISC--: inspired approaches presented citation citation citation citation we translate dynamical trajectory obtained md simulations into conformational markov network
+AIMX--: we show how efficiently handle graph obtain through its topology main features landscape conformers their basins attraction dwell times rate constants between conformational states detected coarse grained picture fel
+MISC--: framework shown validated analyzing synthetic funnel like potential
+OWNX--: after this terminally blocked alanine peptide studied unveiling main characteristics its fel

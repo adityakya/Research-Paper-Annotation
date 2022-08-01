@@ -1,0 +1,8 @@
+OWNX--: we prove existence uniqueness minimizer average geodesic distance points geodesically convex set sphere
+OWNX--: this implies corresponding existence uniqueness result optimal algorithm halfspace learning when data target functions drawn uniform distribution
+MISC--: let symbol unit sphere symbol normalized uniform measure symbol geodesic metric symbol let symbol proper convex cone nonempty interior symbol
+OWNX--: we will show function symbol defined symbol attains its global minimum at unique point symbol
+MISC--: while existence minimum straightforward uniqueness seems surprisingly difficult prove
+MISC--: similar problem been considered citation citation
+OWNX--: works intention define centroid so integration replaced finite summation symbol replaced symbol
+OWNX--: since problem rather obvious appears likely proof above result exists somewhere literature we just haven t been able find

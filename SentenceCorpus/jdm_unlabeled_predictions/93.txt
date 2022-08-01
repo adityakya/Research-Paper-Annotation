@@ -1,0 +1,37 @@
+OWNX--: considerable research pointed towards processing differences viable means understanding strength likelihood framing effect
+AIMX--: current study we explored how differences processing may emerge through diurnal patters circadian rhythm varies across individuals
+OWNX--: we predicted during circadian off times participants would exhibit stronger framing effects whereas framing effects would relatively weaker during times
+AIMX--: six hundred eighty five individuals took part study findings supported our hypothesis revealing diurnal pattern risk responding varies across number hour circadian cycle
+MISC--: most studied examples risk decision making revolve around risky choice framing citation its foundations prospect theory citation
+MISC--: according prospect theory presentation outcome either loss gain affects amount risk person willing accept
+MISC--: this effect due differences perceived subjective value captured s shaped value function
+MISC--: this function concave gains leads risk averse preferences convex losses leads preference risky alternatives
+MISC--: most well known example this framing effect participants read asian disease will potentially kill number people citation
+OWNX--: participant then asked choose between two alternatives dealing disease
+MISC--: one alternative contains certain outcome e g number people saved certain other stated likelihood outcome e g number number probability all number people will saved number number probability no one will saved
+MISC--: alternatives presented either positively people saved negatively people die
+OWNX--: importantly both alternatives contain exactly same expected outcome numerical magnitude
+MISC--: people tend choose certain risk free option when problem framed positively risky option when framed negatively
+CONT--: while this framing effect proved enduring number studies pointed toward processing differences determining factor strength this framing effect
+MISC--: one most widely investigated personality factors framing research need cognition nfc citation
+MISC--: this personality trait reflects extent people engage effortful thought how much they enjoy doing so
+OWNX--: thus individuals high levels nfc should process tasks more effortfully whereas individuals low this trait should use less effort
+MISC--: research shown framing effects lessened individuals who high nfc citation
+OWNX--: similar results were found simon fagley halleran citation when high nfc was combined math ability depth processing
+MISC--: related research shown merely requesting elaboration rationale citation influence likelihood framing effects
+MISC--: other research shown presenting task either high low personal importance should lead more less effortful processing respectively influences likelihood framing effects citation
+MISC--: overall findings studies tend show when more effort involved task this framing effect attenuated one exception citation
+MISC--: somewhat similar approach research fuzzy trace theory citation shown when greater gist like memory retrieval used framing effects robust whereas when more precise verbatim retrieval relied framing effects less evident
+MISC--: recent investigations shown support fuzzy trace viable means understanding framing effects citation
+MISC--: one ability factor been identified numeracy refers propensity integrate complex numeric information
+MISC--: research citation shown low numerate individuals respond more superficially non numeric sources information i e frame consequently they been shown demonstrate stronger framing effects citation
+MISC--: investigation another individual difference variable frederick citation used cognitive reflection test show risky choice framing effects were attenuated people relying more conscious deliberative processing more robust people using more automatic processing
+OWNX--: similar findings were reported oechssler roider schmitz citation
+MISC--: other research shown ability differences may influence this framing effect
+MISC--: one study stanovich west citation found individuals relatively higher cognitive ability measured sat scores were less likely exhibit framing effects
+MISC--: later research shown working memory also plays role framing effects citation but exact nature this role not been completely defined
+MISC--: recently however stanovich west citation reexamined their original assumptions larger study their findings seem call their prior hypotheses framing effects into question
+MISC--: taken together findings create picture how framing effects differ across individuals situations
+MISC--: clearly type processing involved important predictable influences choices people make
+MISC--: findings suggest framing effects will less likely when person being more thoughtful diligent involved decision task
+MISC--: variety factors may influence effort deliberative processing person uses

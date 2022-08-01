@@ -1,0 +1,26 @@
+MISC--: prior experiences influence future actions
+MISC--: experiences not only drive adaptive changes motor output but they also modulate rate at adaptive changes occur
+AIMX--: here we studied anterograde interference motor adaptation ability previously learned motor task reduce rate subsequently learning different motor task
+OWNX--: we examined formation motor system s capacity anterograde interference adaptive control human reaching arm movements determining amount interference after varying durations exposure task we found amount anterograde interference observed learning task b increased duration task however this increase did not continue indefinitely instead interference reached asymptote after trials task interestingly we found recently proposed multi rate model motor adaptation composed two distinct but interacting adaptive processes predicts several key features interference patterns we observed
+OWNX--: specifically this computational model predicts initial growth leveling off anterograde interference we describe well asymptotic amount interference we observe experimentally
+MISC--: understanding mechanisms underlying anterograde interference motor adaptation may enable development improved training rehabilitation paradigms mitigate unwanted interference
+MISC--: history prior action human motor system known influence not only future performance through memory but also capacity future learning
+MISC--: interference savings two oppositely directed phenomena produce this effect
+MISC--: interference describes ability one task impair learning another while savings describes ability previous learning enhance future learning
+MISC--: example previous work shown after initial learning subsequent washout visuomotor rotation task relearning faster than initial learning even if performance levels learner at onset learning relearning identical citation citation
+MISC--: similarly saccadic gain adaptation task after learning subsequent opposite learning motor output returns pre learning levels relearning also observed consistently faster than initial learning citation
+MISC--: other studies demonstrated previous learning hinder interfere future learning citation citation
+MISC--: experimental paradigm commonly used study interference ba paradigm where subject instructed serially learn task task b then task again often various time delays inserted between tasks
+OWNX--: this paradigm task b usually made opposite task two types interference studied this paradigm retrograde interference how task b interferes memory task anterograde interference how memory task interferes subsequent learning task b note both retrograde anterograde interference affect performance task
+MISC--: although anterograde interference often quite substantial effects citation citation not received much attention retrograde interference motor adaptation literature
+MISC--: this surprising because retrograde interference tends relatively small effect performance studies where reported citation citation citation whereas anterograde interference often substantially larger effects citation citation
+MISC--: fact several interference studies been specifically designed minimize effects anterograde interference because they recognized potential masking retrograde interference citation citation
+MISC--: acquiring better understanding mechanisms underlying anterograde interference important not merely provide greater insight into retrograde interference effects but because learning phenomenon significant itself primary cause interference during motor adaptation
+MISC--: anterograde interference been observed force field adaptation studies citation citation citation visuomotor rotation studies citation been shown weaken time between tasks increased citation
+MISC--: recently proposed computational model motor adaptation suggested possible mechanism anterograde interference citation
+OWNX--: this model one internal adaptive process responds quickly motor error but rapidly forgets while another adaptive process learns slowly motor error but good retention
+MISC--: contributions two processes combined generate net motor output
+MISC--: transition task task b fast process will quickly learn new task while slow process will reluctant follow because its good retention previous task
+MISC--: multi rate model predicts residual contribution slow process would hinder adaptation task b resulting anterograde interference
+OWNX--: model also predicts training task extended amount interference will also increase but then level off beyond training trials task here using simple ab paradigm avoid retrograde interference effects we examine first time how duration exposure task influences amount anterograde interference observed task b order determine how capacity interference built up practice
+MISC--: we then use predictions multi rate model determine whether anterograde interference stems interactions between different timescales motor learning

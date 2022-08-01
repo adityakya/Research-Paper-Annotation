@@ -1,0 +1,36 @@
+MISC--: recent research emphasized emotion s role non utilitarian judgments but not focused much characteristics subjects contributing those judgments
+MISC--: present article relates utilitarian judgment individual disposition experience various emotions
+MISC--: study number first investigated relationship among state emotions utilitarian judgment
+MISC--: diverse emotions were elicited during judgment guilt sadness disgust empathy anger anxiety etc
+OWNX--: using psychological scales study number found trait emotions predict extent utilitarian judgments especially trait anger trait disgust trait empathy
+MISC--: unlike previous research designated emotions only factors mitigating utilitarian judgment this research shows trait anger correlates positively utilitarian judgment
+MISC--: other hand disgust empathy correlated negatively
+MISC--: guilt shame though previous research argued their absence increased utilitarian judgment appear unrelated extent utilitarian judgment
+MISC--: results suggest people s emotional dispositions affect their judgment
+OWNX--: this finding might contribute untangling complex mechanisms utilitarian judgments
+OWNX--: no matter what happens courtroom all comes down emotion jury
+MISC--: boston legal citation trolley dilemma runaway trolley headed five people who will killed unless steps taken stop
+OWNX--: only way save them hit switch will turn trolley onto alternate track where will kill one person instead five
+MISC--: should you turn trolley order save five people at expense one
+MISC--: according greene sommerville nystrom darley cohen citation most people said yes
+MISC--: now consider another problem footbridge dilemma
+MISC--: before trolley threatens kill five people
+MISC--: you standing next large stranger footbridge spans tracks between oncoming trolley five people
+OWNX--: this scenario only way save five people push this stranger off bridge your own hands onto tracks below
+MISC--: he will die if you do this however his body will stop trolley reaching others
+MISC--: should you save five others pushing this stranger his death
+MISC--: most people say no citation
+MISC--: question why not
+MISC--: utilitarianism defined idea morally correct course action one produces greatest total benefit all people affected citation
+MISC--: psychological point view utilitarian judgments defined endorsing harmful actions promote greater good citation judgments favoring aggregate welfare over welfare fewer individuals citation
+MISC--: there differences between trolley dilemma footbridge dilemma greene et al citation labeled them impersonal moral dilemma personal moral dilemma respectively
+MISC--: according greene haidt citation personal moral violations meet following criteria violation must likely cause serious bodily harm this harm must befall particular person set people harm must not result deflection existing threat onto different party
+MISC--: short personal moral violation me hurt you citation i agent hurt you visible person front me
+MISC--: if fails meet criteria moral violation impersonal
+MISC--: using personal impersonal moral scenarios greene et al citation argued emotional engagements influence only personal moral situations opposed impersonal ones
+MISC--: addition had been shown moral judgment could induced hypnotic disgust citation
+MISC--: subsequent study citation emotion s role utilitarian judgment had been supported inducing positive affect resulted increasing utilitarian judgments
+MISC--: since then been suggested argument damage ventromedial prefrontal cortex vmpfc increases utilitarian judgments because vmpfc damage causes emotional deficits absence guilt shame empathy citation
+MISC--: nonetheless there few empirical studies about people s individual disposition related emotion utilitarian judgments
+MISC--: was suggested judgments would vary individual individual citation
+MISC--: if tasks mood induction affect people s utilitarian judgment we might think people s emotional disposition also affects moral judgment

@@ -1,0 +1,31 @@
+MISC--: humans other animals idiosyncratically sensitive risk either preferring avoiding options having same value but differing uncertainty
+MISC--: many explanations risk sensitivity rely non linear shape hypothesized utility curve
+MISC--: because models do not place any importance uncertainty per se utility curve based accounts predict indifference between risky riskless options offer same distribution rewards
+OWNX--: here we show monkeys strongly prefer uncertain gambles alternating rewards same payoffs demonstrating uncertainty itself contributes appeal risky options
+OWNX--: based prior observations we hypothesized appeal risky option enhanced salience potential jackpot
+OWNX--: test this we subtly manipulated payoffs second gambling task
+MISC--: we found monkeys more sensitive small changes size large reward than equivalent changes size small reward indicating they attend preferentially jackpots
+MISC--: together results challenge utility curve based accounts risk sensitivity suggest psychological factors outcome salience uncertainty itself contribute risky decision making
+MISC--: millions people regularly play lottery despite fact tickets typically expected value less than half their price citation
+MISC--: traditionally economic models explain preferences shape utility curve
+OWNX--: utility curve hypothetical construct linking observable values outcomes onto subjective internal values
+MISC--: because decision makers exhibit diminishing marginal utilities most contexts average utility large small outcome hypothesized less than utility middle sized outcome
+MISC--: consequently decision makers should risk averse situations
+MISC--: conversely contexts marginal utilities convex should promote risk seeking
+MISC--: fact lottery advertisements focus specific benefits winning suggests drawing attention possible jackpot influence decision gamble citation
+MISC--: indeed several reports suggested relative salience different outcomes risky situation may influence way gamble whole evaluated citation
+MISC--: outcomes more vivid easier remember more emotional often seen more likely idea known availability heuristic economics citation
+MISC--: similar vein several studies suggested feelings about possible outcomes influence appeal gamble citation
+OWNX--: consistent ideas we hypothesized value placed risky option reflects part outcome competition between possibilities favorable unfavorable outcomes this competition biased towards more salient possible outcome
+OWNX--: we use term salience indicate attentional weighting this possibility decision making
+MISC--: however this biasing may stronger presence uncertainty when options certain biasing may less likely occur
+MISC--: when decision maker considers whether gamble he she compares value safe option this biased valuation risky option
+OWNX--: we performed two behavioral experiments rhesus monkeys test idea risk sensitivity reflects outcome salience outcome uncertainty itself rather than just nonlinear weighting reward outcomes
+OWNX--: both experiments employed variants gambling task developed our lab monkeys reliably risk seeking citation
+OWNX--: first we compared monkeys preferences risky predictably alternating options over time both offered equal mix large small rewards citation
+MISC--: alternating option provided identical sets outcomes therefore identical utilities monkeys so any preference between options cannot reflect utility weighting
+MISC--: we found monkeys strongly preferred risky option alternating one demonstrating uncertainty risky option part its appeal
+OWNX--: we also hypothesized risk seeking we observed reflects at least part salience large rewards
+MISC--: if monkeys preferentially attend larger outcome they should more sensitive small changes its size
+OWNX--: we therefore examined monkeys sensitivity incremental changes sizes large small outcomes second experiment
+OWNX--: predicted we found monkeys were sensitive variations size large reward but not equivalent changes size small reward

@@ -1,0 +1,23 @@
+MISC--: mitochondria eukaryotic organelles originated endosymbiosis alpha proteobacterium
+OWNX--: gain insight into evolution mitochondrial proteome proceeded through transition free living cell specialized organelle we compared reconstructed ancestral proteome mitochondrion proteomes alpha proteobacteria well mitochondrial proteomes yeast man overall there been large turnover mitochondrial proteome during evolution mitochondria
+OWNX--: early evolution mitochondrion proteins involved cell envelope synthesis virtually disappeared whereas proteins involved replication transcription cell division transport regulation signal transduction been replaced eukaryotic proteins
+OWNX--: more than half what remains mitochondrial ancestor modern mitochondria corresponds translation including post translational modifications metabolic pathways directly indirectly involved energy conversion
+MISC--: altogether results indicate eukaryotic host hijacked proto mitochondrion taking control its protein synthesis metabolism
+OWNX--: mitochondria organelles found virtually all eukaryotic cells
+MISC--: addition their role energy conversion mitochondria involved many processes intermediate metabolism synthesis heme groups citation steroids citation amino acids iron sulphur clusters citation
+MISC--: phylogenetic analyses mitochondrial genes indicate all mitochondria derive single alpha proteobacterial ancestor so called proto mitochondrion citation
+MISC--: during transformation proto mitochondrion organelle its proteome underwent series modifications including among others acquisition protein import machinery adp atp carrier leading situation only minority mitochondrial proteins traced back alpha proteobacterial ancestor citation citation
+MISC--: similarly large transformations mitochondrial metabolism thought occurred course mitochondrial evolution citation citation
+OWNX--: according recent reconstruction citation proto mitochondrion possessed aerobic metabolism comprising considerable variety pathways fatty acid synthesis degradation respiratory chain fe s cluster assembly pathways
+MISC--: some studies focused subsequent evolution alpha proteobacteria some mitochondrial pathways electron transport chain citation citation
+CONT--: however no comprehensive analysis been performed so far analyze proteomic transition mitochondria at larger scale
+OWNX--: still largely unknown example aspects proteome modern mitochondria resemble its bacterial ancestor what extent current metabolic diversity observed mitochondria different organisms was achieved through differential gain differential loss proteins
+OWNX--: address questions we compared ancient modern mitochondrial proteomes their inferred metabolic pathways
+OWNX--: reconstruct proteome proto mitochondrion we used similar approach one used previously smaller set genomes citation
+AIMX--: rationale behind this approach proto mitochondrial proteins eukaryotic proteins alpha proteobacterial ancestry they detected constructing phylogenies eukaryotic proteins examining those monophyletic relation between alpha proteobacterial proteins eukaryotic proteins
+OWNX--: metabolic pathways modern mitochondria were inferred recent proteomics surveys highly pure isolated mitochondria yeast human
+MISC--: comparison functional classification proteomes indicates only classes corresponding translation post translation modification protein folding metabolism do current day mitochondria resemble proto mitochondrion
+MISC--: other classes either disappeared been replaced proteins non alpha proteobacterial origin
+OWNX--: focusing metabolic transition we compared inferred ancestral mitochondrial metabolism metabolism present day mitochondria inferred comprehensive mitochondrial proteomics
+OWNX--: comparing three reconstructed metabolic pathways we trace main lines metabolic transition early endosymbiont modern organelle well later divergence fungal metazoan mitochondrial metabolic pathways
+OWNX--: altogether our results indicate continuously increasing bias toward energy conversion alpha proteobacteria proto mitochondrion proto mitochondrion current day mitochondrion significant retargeting metabolic enzymes alpha proteobacterial origin other cellular compartments complete eukaryotic takeover replication transcription mitochondrial division signal transduction gene regulation

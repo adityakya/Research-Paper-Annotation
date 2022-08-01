@@ -1,0 +1,14 @@
+OWNX--: we introduce simple framework learning aggressive maneuvers flight control uavs
+MISC--: having inspired biological environment dynamic movement primitives analyzed extended using nonlinear contraction theory
+OWNX--: accordingly primitives observed movement stably combined concatenated
+OWNX--: we demonstrate our results experimentally quanser helicopter we first imitate aggressive maneuvers then use them primitives achieve new maneuvers fly over obstacle
+MISC--: role uavs unmanned aerial vehicles gained significant importance last decades
+MISC--: they many advantages agility low surface area ability work constrained dangerous places over their conventional precedents
+MISC--: addition current uavs more biologically inspired terms shape performance because improvements electronics propulsion
+OWNX--: unfortunately we still far away using their capacity at fullest
+OWNX--: this mostly related weakness current control algorithms against high dimensional nonlinear environments
+OWNX--: this sense generating aggressive maneuvers interesting hard accomplish
+AIMX--: this paper our approach solve this issue designed view experiments frogs monkeys suggest we faced inverse kinematics algorithm adapts environment changes sequence target points irrespective initial conditions
+BASE--: theory we analyzed dynamic movement primitives dmps citation combined them using contraction theory
+MISC--: experiments obstacle avoidance dmp human piloted flight data segmented into parts combined at different initial points achieve maneuvers against different obstacles different locations
+BASE--: background our work briefly detailed below

@@ -1,0 +1,30 @@
+MISC--: selective attention important filter complex environments where distractions compete signals
+OWNX--: attention increases both gamma band power cortical local field potentials spike field coherence within receptive field attended object
+OWNX--: however mechanisms gamma band activity enhances if at all encoding input signals not well understood
+OWNX--: we propose gamma oscillations induce binomial like spike count statistics across noisy neural populations
+AIMX--: using simplified models spiking neurons we show how discrimination static signals based population spike count response improved gamma induced binomial statistics
+OWNX--: results give important mechanistic link between neural correlates attention discrimination tasks where attention known enhance performance
+OWNX--: further they show how rhythmicity spike responses enhance coding schemes not temporally sensitive
+MISC--: past work both human animal subjects focused neural correlates attention
+MISC--: attention raises firing rate input output gain orientation selective neurons visual cortex citation citation shifts response curves so physiologically relevant stimuli fall high gain region citation citation
+MISC--: also when attended stimuli overlap recorded receptive field gamma band frequency components local field potentials single unit spike responses increase citation citation
+MISC--: gamma oscillations field potential likely reflect correlated network activity citation citation supported simulations spiking neurons inhibitory recurrent excitatory inhibitory coupling citation
+MISC--: attention thought influence cholingergic neuromodulation citation presumably affects synchrony interneuron networks involved gamma oscillations citation citation citation
+MISC--: well known correlated network discharge effectively drives postsynaptic cells citation making gamma band activity signature efficient signal propagation
+OWNX--: this would allow attended objects increase downstream responses compared nonattended objects
+OWNX--: contrast we assess role gamma oscillations signal coding neural populations participating gamma oscillatory dynamics
+MISC--: tasks where attention improves performance typically involve discrimination between different signals visual cues different colors shapes orientations citation citation citation
+MISC--: although there large number studies exploring how gamma rhythms generated networks spiking neurons mechanisms gamma oscillations modify signal discrimination elusive three aspects
+MISC--: first relation between gain modulation gamma oscillations both attention dependent unclear
+MISC--: second temporal relation between network gamma rhythm time course driving signal often unclear
+MISC--: third gamma induced synchronous firing may deleterious coding due increased variability population activity citation
+OWNX--: popular framework neural coding number spikes produced single neuron population neurons carries information about driving signal
+MISC--: however vivo spike trains often show spike count fano factor close even exceeds unity citation citation
+MISC--: this trial trial variability deleterious code performance degrades putative spike count based signal discrimination schemes
+MISC--: certain situations fano factors much less than observed visual cortex citation citation auditory cortex citation salamander retina citation
+MISC--: extreme case if neuron fires high probability response relevant input signal rarely fires otherwise citation then signal estimated spike count small error
+MISC--: addition spike timing reliability neuron robustly emits just single spike during steep upstroke input seldom fires elsewhere citation citation also supportive binary spiking
+OWNX--: this study we model essence gamma frequency modulation simple rhythmic forcing population uncoupled spiking neurons
+OWNX--: we show gamma oscillations endow population spike counts binomial like statistics improve signal discrimination over range stimuli through reduced spike count variability
+OWNX--: this way we propose connection between gamma oscillations enhanced task performance found behavioral experiments
+BASE--: our results both distinct complementary previously described influences rhythmic network behavior temporal coding schemes improving spike precision citation citation providing clock phase based code citation citation

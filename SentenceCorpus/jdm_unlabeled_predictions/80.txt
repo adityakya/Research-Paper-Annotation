@@ -1,0 +1,36 @@
+MISC--: prior research found mixed evidence long theorized link between religiosity pro social behavior
+OWNX--: help overcome this divergence i hypothesize pro social behavior linked not religiosity per se but rather salience religion religious norms
+MISC--: i report field experiment examined when auction participants will respond appeal continue bidding secular charitable causes
+MISC--: religious individuals more likely than non religious individuals respond appeal charity only days they visit their place worship other days week religiosity no effect
+MISC--: notably result persists after controlling host factors may influence bidding but disappears when appeal charity replaced appeal bid other i e competitive reasons
+MISC--: implications link between religion pro social behavior discussed
+MISC--: psychologists sociologists anthropologists religious scholars citation long posited link between religiosity defined degree one involved religious activities e g prayer church attendance etc
+MISC--: pro social behavior e g charitable giving altruism cooperation helping volunteering
+MISC--: consistent this empirical investigations repeatedly demonstrated religiosity key predictor self reported pro social behavior citation
+MISC--: however when actual behavior rather than self reporting studied link between religiosity pro social behavior disappears becomes extremely tenuous citation
+MISC--: because self reports more likely than spontaneous behaviors reflect social desirability bias citation some argued religiosity less linked actual pro social behaviors than desire seen others see oneself pro social citation
+AIMX--: this paper considers alternative relationship between religiosity pro social behavior one may help explain this discrepancy
+MISC--: i hypothesize pro social behavior linked not religiosity per se but rather salience religion religious norms citation
+MISC--: because religious people more likely situations where religion salient e g prayer at church etc
+MISC--: they may fact exhibit greater propensity behave pro socially recall doing so self report surveys
+OWNX--: however this heightened tendency towards pro social behavior will not necessarily extend contexts religion not salient case when behaviors studied laboratory experiments
+MISC--: testing this hypothesis current investigation sets aside oft debated question does religion make people nicer
+MISC--: instead asks when does religion make people nicer
+MISC--: i report field experiment assesses whether when religious vs non religious auction participants respond appeal continue bidding non religious charitable causes
+MISC--: findings suggest religious individuals more likely respond appeal charity but this effect isolated days they likely attended their place worship
+MISC--: prior research link between religion pro social behavior insufficiently considered role environmental cues play motivating behavior citation
+MISC--: environmental cues non conscious effects behavior social citation well private citation domains
+OWNX--: furthermore stable individual characteristics e g ideological beliefs often fail accurately predict behavior unless task environment contains cues will trigger appropriate behavioral norms citation
+MISC--: example berger et al citation find voters more likely support education initiative if their polling location environmental cue happens school vs some other location this effect persists even after controlling voter s political views demographic traits host other factors
+OWNX--: findings implicate significant role context plays making behavioral norms salient
+MISC--: more specifically research priming effects demonstrates environmental cues activate relevant constructs memory make them more accessible citation
+MISC--: activation also spread related constructs turn guide judgment behavior citation
+MISC--: berger fitzsimons citation example show increased exposure images dogs lead increased activation accessibility related category cats more positive evaluations puma brand sneakers
+MISC--: likewise hertel kerr citation show when there ambiguity regarding appropriate decision e g whether favor one s group people will rely normative scripts guidance more accessible norms more likely retrieved influence decision making
+MISC--: current context i hypothesize link if any between religiosity pro social behaviors found contextually triggered salience religious norms
+MISC--: entirely consistent this thesis individuals been shown behave more cooperatively when they been unconsciously primed words associated god religion citation
+MISC--: there also evidence suggest those who intrinsically religious e g those who pray frequently but not those who extrinsically religious e g those who religious social political reasons tend more pro social secular aspects life citation
+MISC--: findings suggest pro social behavior may associated less religiosity i e degree one religious than extent religion salient at particular time e g due recent impending trip church
+MISC--: when we couple this fact religious people more likely than non religious people situations where religion salient e g prayer at church temple etc
+MISC--: this may help explain why self reported pro social behavior higher religious people
+MISC--: current investigation presents experimental methodology able separate religiosity viewed stable individual characteristic religious salience triggered contextual cues natural field setting allows us test whether factors predict actual pro social behavior

@@ -1,0 +1,30 @@
+MISC--: collective recognition heuristic simple forecasting heuristic bets fact people s recognition knowledge names proxy their competitiveness sports predicts better known team player wins game
+OWNX--: we present two studies predictive power recognition forecasting soccer games citation analyze previously published results
+MISC--: performance collective recognition heuristic compared two benchmarks predictions based official rankings aggregated betting odds
+AIMX--: across three soccer two tennis tournaments predictions based recognition performed similar those based rankings when compared betting odds heuristic fared reasonably well
+MISC--: forecasts based rankings but not betting odds were improved incorporating collective recognition information
+OWNX--: we discuss use recognition forecasting sports conclude aggregating across individual ignorance spawns collective wisdom
+MISC--: thousands bookmakers accepting wagers sporting events around world today betting sports more popular than ever before
+MISC--: example number bettors uk alone wagered number million british pounds soccer games placing over number million bets total citation
+MISC--: how should bettors bookmakers make forecasts about sporting events
+MISC--: many different approaches been proposed citation
+MISC--: one common denominator muster plenty knowledge ranging various indicators strength individual players teams information about past outcomes wins losses then predict game scores e g number number game outcomes citation based knowledge
+MISC--: knowledge about teams players seems indispensable rendering accurate forecasts statistically informally
+MISC--: indeed seems absurd assume one successfully predict tennis player will win match if one does not even know most names his her competitors tournament
+MISC--: one
+MISC--: surprisingly there mounting evidence contrary thomas carlyle s intuition collective wisdom individual ignorance genuinely exists
+MISC--: instance recent study ranks tennis players performing wimbledon number tournament based how often they were recognized number amateur tennis players predicted match winners better than atp entry ranking citation
+MISC--: this wisdom ignorant crowds one among several examples sports surprising predictive power simple heuristics forgo exploitation ample amounts knowledge citation
+MISC--: fact simple forecasting mechanisms compete even outperform more sophisticated ones no means new insight citation
+CONT--: this finding however been repeatedly met resistance not widely put use citation not yet made into popular textbooks example econometrics see hogarth press
+MISC--: one reason may intuitive appeal accuracy effort trade off less information computation time one uses less accurate one s judgments will
+MISC--: this trade off believed one few general laws human mind citation violations this law seen odd exceptions
+MISC--: domain forecasting sports events indeed difficult judge what simple forecasting strategies outperform more complex ones simply because dearth data
+MISC--: recent review goldstein gigerenzer citation noted there need test relative performance heuristics experts complex forecasting methods more systematically over years rather than few arbitrary championships p number
+AIMX--: focusing predictive power collective recognition ignorance sports this paper contributes literature four ways
+MISC--: first presents two new studies predictive power recognition forecasting soccer games citation
+OWNX--: two studies will show what extent previous results replicated citation
+MISC--: second compares predictive power recognition two studies previously published research citation against two benchmarks all tournaments predictions based official rankings e g fifa soccer aggregated betting odds
+AIMX--: third we investigate whether forecasts based rankings betting odds improved incorporating collective recognition information
+OWNX--: fourth we investigate performance recognition based heuristic relies recognition individual names rather than category names e g names soccer players instead names soccer team itself
+OWNX--: last but not least let us emphasize our investigation collective recognition domain sports should not taken mean power collective recognition restricted this domain

@@ -1,0 +1,23 @@
+OWNX--: we report new optimal resolution statistical stratification problem under proportional sampling allocation among strata
+MISC--: consider finite population n units random sample n units selected this population number l strata
+OWNX--: thus we define units belong each stratum so minimize variance total estimator one desired variable interest each stratum consequently reduce overall variance quantity
+OWNX--: order solve this problem exact algorithm based concept minimal path graph proposed assessed
+MISC--: computational results using real data ibge brazilian central statistical office provided em keywords stratification proportional allocation variance minimal path
+MISC--: common procedure sampling surveys partitioning elements population before distributing sample way obtain most useful information data collected
+MISC--: this procedure called stratification
+MISC--: may different aims guarantee obtaining information some all geopolitical regions country provide more precision estimating population quantities identifying strata more homogeneous elements into them according one more variables
+MISC--: this latter case stratification also called statistical stratification
+OWNX--: principal use statistical stratification order obtain better precision defining what percentage sample must taken each stratum once we chosen non uniform allocation scheme non trivial functional relation between size each stratum number sample units collected
+MISC--: thus important consider allocation scheme itself order do suitable statistical stratification
+AIMX--: this paper we propose exact algorithm solve statistical stratification problem we call simply stratification problem considering simple non uniform allocation scheme
+OWNX--: specifically this method intends solve problem optimal stratification stratified simple random sampling without replacement citation using proportional allocation
+OWNX--: this problem we must divide population size symbol into symbol strata considering auxiliary variable symbol also called size variable whose values known all units population
+MISC--: first stratum defined set units population whose symbol values lower than equal constant value symbol second one set units whose symbol values greater than symbol lower than equal symbol so
+MISC--: based this definition stratum symbol symbol defined set units population values symbol belonging interval symbol where symbol boundaries each stratum stratum symbol corresponds set observations values greater than symbol
+MISC--: problem optimal stratification consists find boundaries symbol minimize variance estimator total one more variables symbol study supposed some correlation symbol variable even symbol variable properly
+CONT--: aiming solve this problem new algorithm when proportional allocation used proposed using idea minimal path graphs citation
+AIMX--: this paper organized five sections
+OWNX--: section we present some basic concepts about stratified simple random sampling
+OWNX--: section we define problem stratification tackled this work offer brief discussion about different approaches this topic
+OWNX--: we propose section algorithm based graph theory order provide exact solutions stratification problem defined section
+OWNX--: finally we present some computational results considerations about new algorithm

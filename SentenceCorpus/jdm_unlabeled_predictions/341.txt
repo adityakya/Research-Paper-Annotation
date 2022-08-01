@@ -1,0 +1,45 @@
+MISC--: recognition heuristic rh predicts non compensatory reliance recognition comparative judgments attracted much research some disagreement at times
+OWNX--: most studies dealt whether under conditions rh truly used paired comparisons
+CONT--: however even though rh precise descriptive model there been less attention concerning precision methods applied measure rh use
+BASE--: current work i provide overview different measures rh use tailored paradigm natural recognition emerged preferred way studying rh
+MISC--: measures compared respect different criteria particular emphasis how well they uncover true use rh
+MISC--: this end both simulations re analysis empirical data presented
+MISC--: results indicate adherence rate been pervasively applied measure rh use severely biased measure
+MISC--: alternative recently developed formal measurement model emerges recommended candidate assessment rh use
+MISC--: past decade since was baptized recognition heuristic citation inspired much innovative research
+MISC--: been studied extensively normative descriptive point view provoked some controversial debate at times
+MISC--: many other interesting investigations notwithstanding majority empirical studies dealt descriptive question whether what extent recognition cue considered isolation how often rh actually used
+MISC--: whereas some aimed show this rarely case altogether citation others concentrated bounding conditions determinants rh use citation possible individual differences citation tests alternative cognitive process models citation
+MISC--: clearly rh precise model makes exact predictions about choices underlying processes
+MISC--: however gain insight about whether under conditions predictions actually correct measurement must also precise
+MISC--: although many agree promising fruitful research strategy uncover situational individual determinants fast frugal heuristics broder press yet much less clear how study measure rh use
+MISC--: what may at first glance appear rather trivial question turns out represent substantial challenge my view source much controversy surrounding rh
+MISC--: so far emphasis been put paradigms materials appropriate studying rh
+MISC--: indeed pachur et al citation provided extensive discussion questions
+MISC--: they suggested no less than eight critical methodological necessities adequate investigation test rh should their view comprise
+MISC--: also they reviewed extant literature argued many previously published studies yield drawbacks respect eight points citation
+CONT--: however even if their list studies problematic features had not been somewhat incomplete does bear dilemma proposed necessities if taken seriously leave rather small niche empirical investigations rh worse yet severe problems when attempting measure rh use
+OWNX--: i will sketch this problem what follows
+MISC--: central point pachur et al citation argue rh more likely used when objects naturally recognized cues must retrieved memory
+MISC--: this line assumption inferences memory more often based simple heuristics assumption received support past citation
+MISC--: central argument favoring naturally recognized objects rh hinges decision makers acquiring recognition criterion relation through experience thus learning trust recognition when appropriate
+MISC--: those who like myself buy into arguments rule out teaching participants artificial objects providing them cues faced severe obstacle how measure use rh when there no control over participants cue knowledge
+MISC--: assume participant faced judgment two cities larger recognizes one but not other
+MISC--: if she provides judgment recognized object higher criterion value choice line rh produced
+CONT--: however cases adherence cannot imply recognition was considered isolation thus do not provide information about use rh
+MISC--: more generally participant may adhered prediction cue question actually considering some entirely different piece information points same direction hilbig press
+MISC--: case comparing recognized unrecognized city example decision maker may chosen recognized city based knowledge this city international airport large university like
+MISC--: thus so long there no control over participants further knowledge specific paired comparisons adherence prediction rh non diagnostic
+MISC--: broder schiffer citation put simple counting choices compatible model tells us almost nothing about underlying strategy p number
+MISC--: best remedy this caveat course unconfound recognition further knowledge if participants taught certain objects cue patterns typically done when studying other fast frugal heuristics citation alternative approaches citation experimenter full control investigate whether additional cues alter degree participants adhere rh citation
+MISC--: indeed unconfounding different cues vital when considering adherence simple one cue strategies citation
+MISC--: moreover full experimental control over cue patterns allows application sophisticated methods strategy classification broder schiffer citation proposed bridge gap between theories multi attribute decision making empirically observed choices means formal measurement model
+MISC--: this bayesian approach provides information about decision strategy most likely generated data vector
+MISC--: recently this approach been extended considering choice outcomes response latencies confidence ratings citation
+MISC--: however both elegant approaches necessitate teaching providing all cue patterns set artificial objects so discriminate between different strategies
+MISC--: clearly this at odds central methodological recommendations pachur et al citation who call using naturally recognized objects without teaching providing any further information
+MISC--: overall paradigm most favored pachur colleagues citation only three pieces information available researchers must base assessment whether rh was used i objects were presented given trial including their true position criterion dimension ii objects recognized participant iii object chosen judged higher criterion value
+OWNX--: how based pieces information we measure rh use
+MISC--: so far three classes measures been applied viz
+MISC--: adherence rate enhanced measures based adherence rates formal measurement model
+CONT--: what follows i will introduce measures briefly discuss their theoretical advantages limitations present simulations re analysis existing empirical data evaluate them

@@ -1,0 +1,21 @@
+MISC--: point clouds sets points two three dimensions
+MISC--: most kernel methods learning sets points not yet dealt specific geometrical invariances practical constraints associated point clouds computer vision graphics
+AIMX--: this paper we present extensions graph kernels point clouds allow use kernel methods objects shapes line drawings any three dimensional point clouds
+OWNX--: order design rich numerically efficient kernels few free parameters possible we use kernels between covariance matrices their factorizations graphical models
+OWNX--: we derive polynomial time dynamic programming recursions present applications recognition handwritten digits chinese characters few training examples
+MISC--: recent years kernels structured data been designed many domains bioinformatics citation speech processing citation text processing citation computer vision citation
+MISC--: they provide elegant way including known priori information using directly natural topological structure objects
+CONT--: using priori knowledge through structured kernels proved beneficial because allows reduce number training examples re use existing data representations already well developed experts those domains
+AIMX--: this paper we propose kernel between point clouds applications classification line drawings handwritten digits citation chinese characters citation shapes citation
+MISC--: natural geometrical structure point clouds hard represent few real valued features citation particular because required local global invariances rotation scaling translation b lack pre established registrations point clouds i e points one cloud not matched points another cloud c noise occlusion impose only portions two point clouds ought compared
+OWNX--: following one leading principles designing kernels between structured data we propose look at all possible partial matches between two point clouds citation
+MISC--: more precisely we assume each point cloud graph structure most often neighborhood graph we consider recently introduced graph kernels citation
+OWNX--: intuitively kernels consider all possible subgraphs compare count matching subgraphs
+MISC--: however set subgraphs even set paths exponential size cannot efficiently described recursively so larger sets substructures commonly used eg walks tree walks
+MISC--: shown mysec graphkernels choosing appropriate substructures fully factorized local kernels efficient dynamic programming implementations allow sum over exponential number substructures polynomial time
+MISC--: kernel thus provides efficient elegant way considering very large feature spaces see eg citation
+MISC--: however context computer vision substructures correspond matched sets points dealing local invariances imposes use local kernel cannot readily expressed product separate terms each pair points usual dynamic programming approaches cannot then applied
+OWNX--: main contribution this paper design local kernel not fully factorized but instead factorized according graph underlying substructure
+OWNX--: this naturally done through graphical models design positive kernels covariance matrices factorize graphical models mysec gm
+OWNX--: this novel local kernel we derive new polynomial time dynamic programming recursions mysec recursions
+OWNX--: mysec simulations we present simulations handwritten character recognition

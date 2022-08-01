@@ -1,0 +1,45 @@
+OWNX--: integrative approaches studying coupled dynamics skeletal muscles their loads while under neural control focused largely questions pertaining postural dynamical stability animals humans
+MISC--: prior studies focused how central nervous system actively modulates muscle mechanical impedance generate stabilize motion posture
+MISC--: however question whether muscle impedance properties neurally modulated create favorable mechanical energetics particularly context periodic tasks remains open
+OWNX--: through muscle stiffness tuning we hypothesize pair antagonist muscles acting against common load may produce significantly more power synergistically than individually when impedance matching conditions met between muscle load
+OWNX--: since neurally modulated muscle stiffness contributes coupled muscle load stiffness we further anticipate power optimal oscillation frequencies will occur at frequencies greater than natural frequency load
+MISC--: hypotheses were evaluated computationally applying optimal control methods bilinear muscle model also evaluated through vitro measurements frog plantaris longus muscles acting individually pairs upon mass spring damper load
+OWNX--: we find fold increase mechanical power when antagonist muscles act synergistically compared individually at frequency higher than load natural frequency
+OWNX--: observed behaviors interpreted context resonance tuning engineering notion impedance matching
+MISC--: findings suggest central nervous system adopt strategies harness inherent muscle impedance relation external loads attain favorable mechanical energetics
+MISC--: capability skeletal muscles deliver mechanical power key determining neuromechanical performance envelope organisms
+CONT--: how fast how far animals run fly swim jump clearly limited mechanical power delivered muscle tendon units skeletal environmental loads
+MISC--: therefore estimating mechanical energetics muscles been interest diverse fields organismal biomechanics biomimetic robotics prosthetics citation citation
+MISC--: many factors influence neuromechanical performance organisms including dynamics mechanical properties muscle actuators ii skeletal mechanics iii neural control iv influence loads external organism
+OWNX--: integrative approaches been proposed capture interaction all subsets factors
+MISC--: example connection between muscle impedance neural control been studied depth respect postural dynamic stability citation citation locomotory functions citation citation manipulation citation citation other biomechanical tasks citation
+BASE--: this work we adhere definition muscle mechanical impedance static dynamic relation between muscle force imposed stretch citation
+MISC--: muscle impedance encompasses muscle stiffness static relation between muscle force stretch only
+MISC--: context muscle energetics most investigations focused experimentally measuring power output individual muscles at range frequencies phases electrical stimulation parameters finding maximal power generating capability muscles under prescribed motion trajectories
+OWNX--: however role muscle load interaction output energetics not been formalized
+MISC--: central premise this work mechanical energetics muscle actuated system cannot determined meaningful manner without considering coupling muscle properties load dynamics neural activation
+OWNX--: considering this coupling explicitly we arrive at phenomena cannot captured using standard workloop testing methodologies including opportunity harness muscle load interaction energetically advantageous manner
+MISC--: muscle energetics been characterized under dynamic conditions both vitro citation vivo citation citation citation
+MISC--: vitro measurements relied almost invariably workloop technique citation
+MISC--: this approach isolated muscles subjected predetermined periodic length variations time means external motion source
+MISC--: at given phase imposed oscillation electrical stimulus delivered synchronously resulting periodic muscle contractions
+MISC--: plot muscle contractile force versus displacement results cyclic workloop integrated area within loop being measure net muscle work done
+MISC--: similar measurements been reproduced muscle physiology literature various muscle groups within various organisms citation citation connections between muscle function its mechanical energetics been made citation citation
+CONT--: while measurements provide useful energetic connections muscle function experimental conditions do not capture representative vivo conditions because motion profiles imposed single isolated muscles no muscle load interactions citation without incorporating effects antagonist activity
+MISC--: vivo measurements other hand capture all above effects principle but lack experimental flexibility varying load conditions unambiguous manner
+OWNX--: capturing effect muscle load interaction muscle energetics critical
+OWNX--: this interaction captured considering impedance muscles relation impedance load
+MISC--: when group muscles acts common load exemplified antagonist pair acting common load each muscle forms part load borne other muscles its group
+OWNX--: because muscle impedance activation dependent neural control used modulate effective load observed each muscle modulating impedance opposing muscles thereby offering opportunity create favorable impedance conditions maximize power transfer external environmental load
+OWNX--: this akin notion impedance matching engineering systems where driving source load matched provide optimal power transfer
+MISC--: context neuromuscular control impedance matching enable groups muscles work synergistically provide significantly higher energetics than sum individual muscles
+OWNX--: consequently this investigation we studied influence muscle load interaction muscle workloop energetics both computationally experimentally
+OWNX--: we set up model problem consisting mass spring damper system actuated either single muscle pair symmetric antagonist muscles
+MISC--: input system modulate net force exerted two muscles well net impedance
+OWNX--: context this problem we investigated two hypothesis
+MISC--: hypothesis states power optimal oscillation frequency muscle actuated system greater than resonance frequency load
+MISC--: this direct contrast impedance free actuator where optimal oscillation frequency occurs exactly at resonance load
+MISC--: hypothesis states pair antagonist muscles work together produce more power synergistically than individually margins cannot predicted without explicit incorporation muscle impedance
+OWNX--: we tested hypotheses both computationally experimentally
+OWNX--: our computational approach relied optimal control solutions workloop maximization problem was based mathematical model problem
+MISC--: experimental approach relied vitro measurements workloop energetics electrically stimulated frog muscle acting against emulated mass spring damper loads

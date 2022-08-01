@@ -1,0 +1,49 @@
+MISC--: patients suffering behavioral variant frontotemporal dementia ftd b often exaggerate their abilities
+MISC--: those errors judgment limited domains patients under perform do ftd b patients overestimate their abilities other domains
+MISC--: overconfidence ftd b patients domain specific domain general
+OWNX--: address this question we asked patients at early stages ftd b judge their performance two domains attention perception they exhibit relatively spared abilities
+MISC--: both domains ftd b patients overestimated their performance relative patients dementia alzheimer type dat healthy elderly subjects
+MISC--: results consistent domain general deficit metacognitive judgment
+OWNX--: we discuss findings relation regression mean accounts overconfidence role emotions metacognitive judgments
+MISC--: how good you at multitasking
+MISC--: how good you at remembering people s names
+MISC--: judgments people make about their own cognitive abilities vary greatly one person another
+MISC--: judgments about self also systematically biased relative judgments made others about us citation
+MISC--: we often regard ourselves more competent than others citation better than what justified our actual performance citation
+MISC--: discouraging observations might people learn improve at most cognitive tasks
+OWNX--: learning occurs not only at task level we get better at playing piano but also at meta level we become more attuned judging just how good we at playing piano
+MISC--: examples illustrate several aspects what known cognitive developmental literatures metacognition knowledge people possess about their own cognitive abilities including beliefs about their own performance specific tasks
+MISC--: some psychologists argued metacognitive judgment secondary actual performance citation
+MISC--: according this view knowledge skills required perform tasks certain domain also required judging one s ability domain
+MISC--: one corollary this view metacognitive judgment domain specific person who good at remembering things bad at understanding how others feel will relatively aware his good memory skills but relatively unaware his poor empathy skills
+MISC--: despite its intuitive appeal this view been challenged confounding metacognitive judgment level performance
+MISC--: because subjective estimates performance never perfectly correlated actual performance judgments performance will regress toward mean participants who perform worst given domain will tend overestimate their ability domain while those performing best will tend underestimate
+MISC--: other words relation between actual performance subjective judgment may reflect statistical artifact rather than genuine relation between cognitive meta cognitive levels citation
+MISC--: although biased beliefs about one s own skills norm biases often exacerbated psychiatric neurological disorders citation
+MISC--: denial deficit reduced self awareness loss insight anosognosia all clinical terms broadly refer same phenomenon patient s distorted assessment her own skills
+MISC--: patient populations provide excellent opportunity test domain specificity metacognitive judgment certain abilities become severely affected disease while others remain relatively unaffected
+MISC--: thus possible ask whether metacognitive judgments become distorted only affected domains distortion generalizes judgments spared domains
+MISC--: answer this question so far been mixed
+MISC--: consistent domain specificity hypothesis some studies reported cases patients hemiplegia who deny their paralysis but acknowledge limitations other domains citation
+MISC--: there also evidence failures awareness cluster around symptoms
+MISC--: example study denial dementia alzheimer s type dat factor analysis questionnaire data revealed two independent factors cognitive denial related length disease severity cognitive deficits behavioral denial related behavioral disinhibition inappropriate emotional displays citation
+MISC--: contrast other studies reported findings consistent domain general deficit showing metacognitive errors extend beyond specific domain impairment
+MISC--: example patients probable dat been reported overestimate their performance not only memory but also visuo spatial tasks citation
+MISC--: furthermore denial dat seems correlate more strongly frontal lobe deficit than memory problems despite latter being more typical dat citation
+BASE--: although denial deficit prevalent clinical setting may help us understand over optimism healthy adults until not long ago research denial deficit had proceeded independently experimentally based literature metacognitive judgment
+MISC--: recently clinical experimental traditions become better integrated clinical researchers begun rely more heavily experimental paradigms citation
+MISC--: experimental designs useful comparing patients judgments their performance their actual performance task
+OWNX--: furthermore asking patient predict performance before task estimate after task possible assess metacognitive monitoring i e whether metacognitive judgment improves after experiencing task
+MISC--: experimental designs applied domains other than one primary clinical concern
+MISC--: this feature becomes important when testing domain generality metacognitive judgment
+MISC--: patient populations our study consisted patients behavioral variant frontotemporal dementia ftd b patients early dementia alzheimer type dat
+MISC--: although ftd b insidious onset gradual progression its clinical presentation bears close resemblance cases orbitofrontal damage caused traumatic brain injury famous case phineas gage citation
+MISC--: ftd b patients often described their spouses unable unwilling take other people s feelings into account when deciding how act
+MISC--: they often exhibit inappropriate social behavior changes personality poor decision making citation
+MISC--: at early stages disease many ftd b patients deny having difficulties seem unconcerned about them citation
+MISC--: denial been documented social emotional domains but needs explored further domains relatively spared performance
+MISC--: contrast ftd b patients early stages dat their social skills relatively spared
+MISC--: deficit dat primarily episodic memory citation
+MISC--: at early stages dat patients tend aware their deficit but this awareness declines disease progresses citation
+OWNX--: after describing ftd b s denial deficit semi structured interviews we report two experiments examined whether ftd b patients overestimate their performance relative dat patients healthy adults
+OWNX--: pre post test judgments performance were obtained attention task experiment number stroop task perception task experiment number change blindness task

@@ -1,0 +1,34 @@
+MISC--: collecting large labeled data sets laborious expensive task whose scaling up requires division labeling workload between many teachers
+MISC--: when number classes large miscorrespondences between labels given different teachers likely occur extreme case may reach total inconsistency
+AIMX--: this study we describe how globally consistent labels obtained despite absence teacher coordination discuss possible efficiency this process terms human labor
+OWNX--: we define notion label efficiency measuring ratio between number globally consistent labels obtained number labels provided distributed teachers
+OWNX--: we show efficiency depends critically ratio symbol between number data instances seen single teacher number classes
+OWNX--: we suggest several algorithms distributed labeling problem analyze their efficiency function symbol
+OWNX--: addition we provide upper bound label efficiency case completely uncoordinated teachers show efficiency approaches symbol ratio between number labels each teacher provides number classes drops i e symbol
+MISC--: applications machine learning mature larger training sets required both terms number training instances number classes considered
+OWNX--: recent years we witnessed this trend example vision related tasks object class recognition detection citation
+MISC--: specifically object class recognition current data sets caltech citation include tens thousands images hundreds classes
+OWNX--: collecting consistent data sets this size intensive expensive task
+MISC--: scaling up naturally leads distributed labeling scenario labels provided large number weakly coordinated teachers
+MISC--: example label me system citation labels contributed dozens researchers while esp game citation labels supplied thousands uncoordinated players
+OWNX--: we turn toward distributed labeling several practical considerations emerge may disrupt data integrity
+OWNX--: general while reasonable believe single teacher relatively self consistent though not completely error free this not case multiple uncoordinated teachers
+MISC--: different teachers may differences their labeling systems due several causes
+MISC--: first different teachers may use different words describe same item class
+MISC--: example one teacher may use word truck while other uses lorry describe same class
+CONT--: conversely same word may used two teachers describe two totally different classes hence one teacher may use greyhound describe breed dog while other uses describe c navy aircraft
+MISC--: similar problems occur when different teachers label data different abstraction levels so one generalizes over all dogs while other discriminates between poodle labrador etc
+MISC--: finally teachers often do not agree exact demarcation concepts so chair carved stone may labeled chair one teacher while other describes rock
+OWNX--: all phenomena become increasingly pronounced number classes increased thus their neglect essentially leads severe decrease label purity consequently learning performance
+AIMX--: this paper we study cost obtaining globally consistent labels while focusing specific distributed labeling scenario only some difficulties described above present
+MISC--: enforce distributed nature problem we assume large data set symbol examples labeled set uncoordinated teachers where each teacher agrees label at most symbol data points
+MISC--: while there one one correspondence between classes used different teachers we assume their labeling systems entirely uncoordinated so class labeled duck one teacher may labeled goat another
+AIMX--: later stages this paper we relax this assumption consider case partial consistency exists between different teachers
+MISC--: both scenarios realistic various problem domains
+MISC--: consider example security system we label large set face images including thousands different people
+MISC--: since teachers not familiar persons labeled names they give classes entirely un coordinated
+MISC--: case partial consistency exemplified distributed labeling flower images layman easily distinguish between many different kinds flowers but name only few
+MISC--: difficulties one many label correspondence between teachers concept demarcation disagreements not met our current analysis focuses preliminary difficulties distributed labeling
+OWNX--: another related scenario our analysis extended relatively easily case initial data labeled uncoordinated teachers right start
+MISC--: consider example task unifying images labeled site like flickr into meaningful large training data set
+OWNX--: our suggested algorithms analysis apply this case minor modifications

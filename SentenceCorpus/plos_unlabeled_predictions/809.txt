@@ -1,0 +1,32 @@
+OWNX--: we developed multi scale biophysical electromechanics model rat left ventricle at room temperature
+OWNX--: this model been applied investigate relative roles cellular scale length dependent regulators tension generation transduction work cell whole organ pump function
+MISC--: specifically role length dependent ca sensitivity tension filament overlap tension dependence velocity dependence tension tension dependent binding ca troponin c metrics efficient transduction work stress strain homogeneity were predicted performing simulations absence each feedback mechanisms
+MISC--: length dependent ca filament overlap make up frank starling law were found two dominant regulators efficient transduction work
+MISC--: analyzing fiber velocity field absence frank starling mechanisms showed decreased efficiency transduction work absence filament overlap effects was caused increased post systolic shortening whereas decreased efficiency absence length dependent ca was caused inversion regional distribution strain
+OWNX--: contraction heart fundamental whole organ phenomenon driven cellular mechanisms
+MISC--: each beat myocytes heart generate tension relax
+OWNX--: this local cellular scale tension transduced into coordinated global whole heart deformation resulting effective organized efficient system level pump function
+OWNX--: fundamental achieving this efficient transudation work integration organ tissue cellular scale mechanisms
+MISC--: however while efficiency important heart role relative importance underlying mechanisms responsible achieving efficient transduction work cell organ remains unclear
+OWNX--: healthy heart structural heterogeneities morphology electrophysiology metabolic neural mechanisms provide stable physiological framework facilitates coordinated contraction citation resulting etw
+CONT--: however over shorter time scales sub cellular mechanisms most likely candidates regulating etw face dynamic variation cardiac demand
+MISC--: specifically sarcomeres themselves contain tension deformation feedback mechanisms regulate development active tension based local tension strain strain rate
+MISC--: provide regulatory process modulate deformation tension signals experienced cell into coordinated global response citation citation
+MISC--: four major tdf mechanisms length dependent changes ca sensitivity citation filament overlap citation tension dependent binding ca troponin c citation velocity dependent cross bridge kinetics citation
+MISC--: tdf mechanisms characterised length dependent changes steady state force ca relationship routinely described hill curve citation citation
+MISC--: length dependent changes ca measured decreased concentration ca required produce half maximal activation muscle increases length
+MISC--: length dependent changes filament overlap result active tension increasing muscle increases length
+MISC--: ca binding tnc acts switch activating tension generation
+MISC--: crossbridges bind generate tension they increase affinity ca tnc causing more ca bind results generation more tension
+MISC--: velocity dependence tension described transient stable component
+MISC--: transient component characterised multiphase tension response step changes length stable component characterised tension during contraction at constant velocity
+MISC--: general velocity contraction increases active tension decreases
+MISC--: four mechanisms provide both positive negative feedback tension development fundamental functioning heart yet their relative roles if any etw not been investigated
+MISC--: this part due experimental challenges studying subcellular function whole heart preparations citation modelling challenges performing biophysical whole organ coupled electromechanics simulations citation citation
+MISC--: recent advances computer power coupling methods citation now allow simulation strongly coupled multi scale electromechanical models left ventricle
+MISC--: models contain explicit biophysical representations cellular electrophysiology ca dynamics tension generation deformation multiple feedback loops operate between each systems
+AIMX--: this study we analyse transduction local cellular scale work into whole organ pressure volume work heart using computational modelling
+BASE--: using definitions hill citation positive negative work we propose new metric quantify etw during each phase contraction cycle ratio positive work total work
+OWNX--: isolate quantify role tdf transduction cellular work into whole organ pump function over heart beat we developed model rat left ventricle at room temperature incorporates tdf mechanisms
+MISC--: model contains biophysical electromechanical rat myocyte model citation transversely isotropic constitutive law citation heterogeneous fiber orientation citation
+OWNX--: comparing etw over each phase heart beat absence each tdf mechanisms we aim quantify effect each tdf mechanisms

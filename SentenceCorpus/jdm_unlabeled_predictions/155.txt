@@ -1,0 +1,72 @@
+MISC--: endowment effect been debated over number years
+MISC--: recent research suggests differential focus attention might play role shaping preferences
+OWNX--: two studies we investigated role biased attention emergence endowment effects
+OWNX--: we thereby derive predictions extended version evidence accumulation models additionally assuming bias attentional allocation based one s endowment status
+OWNX--: we test predictions against alternative account endowment effect result initial anchoring adjustment differences citation
+OWNX--: both studies we add deliberation time constraints standard willingness accept willingness pay paradigm consistently find endowment effect grows deliberation time increases
+MISC--: study number we additionally use eye tracking find buyers focus more value decreasing attributes than sellers vice versa value increasing attributes
+MISC--: this shift attention plays pivotal role construction value partially mediates endowment effect
+MISC--: one major goals behavioral decision making research improve our understanding processes underlying judgments decisions
+MISC--: what now considered classic work fundamental biases judgment choice systematic deviations rational behavior been demonstrated citation
+MISC--: recent research focus shifted towards investigations underlying cognitive processes driving effects citation
+OWNX--: way information attended used construct preferences values increasingly become primary interest citation
+MISC--: one effect been studied great detail across variety domains endowment effect violates one cornerstones economic theory
+MISC--: basic assumption coase theorem citation persons willingness pay wtp willingness accept wta good should nearly equivalent under assumption zero transaction costs
+MISC--: nevertheless repeatedly been shown wta good considerably higher than wtp same good leading reduced trading
+MISC--: this effect appears related aspects losing endowment thus been coined endowment effect citation
+MISC--: endowment effect robust although culturally influenced citation phenomenon citation been observed using various methodological approaches including non incentivized price estimations citation also incentive compatible preference elicitation mechanisms citation
+MISC--: been found occur both tangible goods mugs pens citation goods uncertain values lottery tickets citation
+MISC--: although there no dearth research endowment effect more work needed understand underlying processes still under heavy debate citation
+MISC--: several theories been put forward provide explanation endowment effect citation
+MISC--: classic explanation based prospect theory citation assumes loss aversion leads increased valuation good selling perspective compared buying perspective because removing good endowment creates loss while adding same good endowment without generates gain citation
+MISC--: research expanded loss aversion explanation citation indicating mechanisms differences attentional focus citation level personal attachment citation self association good question citation also explain parts effect citation
+MISC--: cognitive mechanisms often been suggested alternative supplementary explanations classic loss aversion account
+MISC--: carmon ariely citation example argue endowment effect caused stronger focus forgone differs between buyers i e money sellers i e good
+MISC--: query theory qt citation suggests different process behind effect transactional situations information retrieved memory
+MISC--: individuals start memory query aspects support status quo e g keeping good vs money weighted heavier than later queries also act inhibit subsequent queries information speaks against status quo
+MISC--: several experiments johnson colleagues citation showed order queries into good s worth were influenced perspective could explain endowment effects
+MISC--: furthermore manipulating query order they found endowment effect was attenuated non significance suggesting strong role information search uptake endowment effect
+MISC--: line qt account nayakankuppam mishra citation showed sellers appear better representation positive features worse representation negative features traded good compared buyers
+MISC--: p number both groups spontaneously list more features favor their position citation
+MISC--: nevertheless because its reliance memory retrieval inhibition processes qt does not make direct predictions decision tasks relevant information about good question e g attributes probabilities outcomes make up gamble provided during valuation construction phase
+MISC--: based findings nayakankuppam mishra citation however one might predict description based decisions there should similar imbalance attention well
+OWNX--: following we will refer application concepts qt tasks description based query theory dbqt
+MISC--: one class process models explain emergence endowment effects both kinds tasks i e decisions descriptions memory evidence accumulation approaches
+MISC--: particular sequential value matching model citation extension decision field theory citation been developed model process constructing monetary valuations objects understood gambles e g lottery tickets risky prospects
+MISC--: conceptually svm model assumes persons compare gamble against set possible prices dynamic stochastic process
+OWNX--: first persons pick one possible price anywhere between maximum minimum outcome gamble
+MISC--: if gamble worth more than currently considered price price increased small amount
+MISC--: if gamble worth less price decreased small amount
+MISC--: this updating process repeated until indifference reached
+MISC--: starting point search process differs different price elicitation methods context conditions
+OWNX--: specifically sellers start high price whereas buyers start low price
+MISC--: over time both prices adjusted towards price middle price range
+OWNX--: this adjustment middle insufficient however results well established disparity between wta wtp
+MISC--: svm model been shown explain several specific phenomena related disparity between wta wtp
+MISC--: most notably account observed preference reversals citation classic loss aversion explanation cannot accommodate citation
+MISC--: furthermore svm model been shown able qualitatively quantitatively predict choices observed previous studies well decision times process tracing data citation
+MISC--: svm model readily account endowment effects without assumption biased attention assuming differential starting points e g anchoring within feasible price range buyers sellers sellers starting higher range than buyersrecent studies however indicate decisions descriptions attention both reflects modulates preferences citation
+MISC--: this suggests place top mechanisms suggested svm model there likely shifts attention positive value increasing vs negative value decreasing aspects option based one s perspective leading overweighting aspects resulting pricing differences found endowment effect
+OWNX--: adding this assumption biased shift attention based one s perspective we formulate set related hypotheses biased evidence accumulation bea hypotheses
+MISC--: if biased sampling based perspective i e bea contributing factor endowment effects difference between wta wtp should increase over time because constant heavily weighted earlier bias sampling increases absolute difference between sum pro con arguments considered good
+CONT--: this should case at least early stage decision process while prices still being adjusted price search not yet been completed
+OWNX--: this forms our first specific bea hypothesis h number growing endowment effect hypothesis
+MISC--: due bias accumulating evidence disparity between wta wtp will increase increases deliberation time
+MISC--: if contrast endowment effects driven solely differential anchoring adjustment suggested svm citation increased deliberation time should instead lead decreases size endowment effects pricing adjustments presumably will average go down sellers up buyers
+OWNX--: this hypothesis provides us our alternative prediction study number
+AIMX--: using eye tracking methodologies study number we test directly whether attentional focus influenced perspective whether this affects valuations our second third bea hypotheses
+MISC--: h number biased sampling hypothesis
+MISC--: sampling evidence will differ based perspective buyers will focus more value decreasing attributes than sellers
+MISC--: h number attentional impact hypothesis
+MISC--: sampling evidence biased towards either value increasing decreasing attribute will lead corresponding increases decreases valuations
+OWNX--: additionally we explore whether allocation attention dependent probabilities outcomes predicted evidence accumulation mechanism general also central svm model citation our fourth bea hypothesis
+MISC--: h number probability based sampling hypothesis
+MISC--: sampling outcomes will part dependent stated probability those outcomes occurring
+OWNX--: furthermore although qt memory based account we abstract dbqt apply two its underlying information processing concepts i e query direction switches deliberations continue early queries greater impact than later queries online information queries via attention we test two further bea hypotheses study number
+OWNX--: we do so based finding visual attention been found reflect internal processing online information well memories citation
+MISC--: h number shift focus hypothesis
+MISC--: buyers will begin accumulate more value decreasing sellers more value increasing evidence but there will increased focus opposite kind information over time
+MISC--: h number early weighting hypothesis
+MISC--: earlier accumulated evidence will greater impact subsequent valuations than will later evidence
+OWNX--: following we present discuss results two studies
+OWNX--: study number we find wta wtp disparity grows increasing deliberation time predicted our first specific bea hypothesis but counter prediction svm model

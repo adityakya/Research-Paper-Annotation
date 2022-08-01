@@ -1,0 +1,40 @@
+MISC--: trailing backward compatibility
+OWNX--: sty file we propose method improving approximate inference methods corrects influence loops graphical model
+OWNX--: method applicable arbitrary factor graphs provided size markov blankets not too large
+MISC--: alternative implementation idea introduced recently citation
+OWNX--: its simplest form amounts assumption no loops present method reduces minimal cluster variation method approximation uses maximal factors outer clusters
+OWNX--: other hand using estimates effect loops obtained some approximate inference algorithm applying loop correcting lc method usually gives significantly better results than applying approximate inference algorithm directly without loop corrections
+OWNX--: indeed we often observe loop corrected error approximately square error approximate inference method used estimate effect loops
+MISC--: we compare different variants loop correcting method other approximate inference methods variety graphical models including real world networks conclude lc approach generally obtains most accurate results
+MISC--: recent years much research been done field approximate inference graphical models
+MISC--: one goals obtain accurate approximations marginal probabilities complex probability distributions defined over many variables using limited computation time memory
+MISC--: this research led large number approximate inference methods
+BASE--: apart sampling monte carlo methods most well known methods algorithms variational approximations mean field mf originates statistical physics citation belief propagation bp also known sum product algorithm loopy belief propagation citation directly related bethe approximation used statistical physics citation cluster variation method cvm citation other region based approximation methods citation related kikuchi approximation citation generalization bethe approximation using larger clusters expectation propagation ep citation includes treeep citation special case
+MISC--: calculate results cvm other region based approximation methods one use generalized belief propagation gbp algorithm citation double loop algorithms guaranteed convergence citation
+MISC--: well known belief propagation yields exact results if graphical model tree more generally if each connected component tree
+MISC--: if graphical model does contain loops bp still yield surprisingly accurate results using little computation time
+MISC--: however if influence loops large approximate marginals calculated bp large errors quality bp results may not satisfactory
+MISC--: one way correct influence short loops increase cluster size approximation using cvm gbp clusters subsume many loops possible
+MISC--: however choosing good set clusters highly nontrivial citation general this method will only work if clusters do not many intersections other words if loops do not many intersections
+OWNX--: another method corrects loops certain extent treeep does exact inference base tree subgraph graphical model no loops approximates other interactions
+MISC--: this corrects loops consist part base tree exactly one additional factor yields good results if graphical model dominated base tree case very sparse models
+MISC--: however loops consist two more interactions not part base tree approximated similar way bp
+MISC--: hence denser models improvement treeep over bp usually diminishes
+OWNX--: this article we propose method takes into account all loops graphical model approximate way therefore obtains more accurate results many cases
+OWNX--: our method variation theme introduced citation
+MISC--: basic idea first estimate cavity distributions all variables subsequently improve estimates cancelling out errors using certain consistency constraints
+MISC--: cavity distribution some variable probability distribution its markov blanket all its neighbouring variables modified graphical model all factors involving variable been removed
+MISC--: removal factors breaks all loops variable takes part
+MISC--: this allows approximate inference algorithm estimate strength loops terms effective interactions correlations between variables markov blanket
+MISC--: then influence removed factors taken into account yields accurate approximations probability distributions original graphical model
+MISC--: even more accuracy obtained imposing certain consistency relations between cavity distributions results cancellation errors some extent
+OWNX--: this error cancellation done message passing algorithm interpreted generalization bp pairwise case minimal cvm approximation general
+MISC--: indeed assumption no loops present equivalently cavity distributions factorize yields bp minimal cvm results
+MISC--: other hand using better estimates effective interactions cavity distributions yields accurate loop corrected results
+BASE--: although basic idea underlying our method very similar described citation alternative implementation we propose here offers two advantages
+MISC--: most importantly directly applicable arbitrary factor graphs whereas original method only been formulated rather special case graphical models binary variables pairwise factors excludes eg many interesting bayesian networks
+OWNX--: furthermore our implementation appears more robust also gives improved results relatively strong interactions will shown numerically
+MISC--: this article organised follows
+OWNX--: first we explain theory behind our proposed method discuss differences original method citation
+OWNX--: then we report extensive numerical experiments regarding quality approximation computation time where we compare other approximate inference methods
+OWNX--: finally we discuss results state conclusions

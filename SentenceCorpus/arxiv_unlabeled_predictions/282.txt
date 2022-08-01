@@ -1,0 +1,84 @@
+MISC--: ensemble learning aims improve generalization ability using multiple base learners
+MISC--: 
+MISC--: well known construct good ensemble base learners should accurate well
+MISC--: diverse
+AIMX--: this paper unlabeled data exploited facilitate ensemble learning
+MISC--: helping augment diversity among base learners
+MISC--: specifically semi supervised ensemble
+OWNX--: method named udeed proposed
+MISC--: unlike existing semi supervised ensemble methods where
+MISC--: error prone pseudo labels estimated unlabeled data enlarge labeled data
+OWNX--: improve accuracy udeed works maximizing accuracies base learners labeled data while
+MISC--: maximizing diversity among them unlabeled data
+OWNX--: experiments show udeed effectively
+MISC--: utilize unlabeled data ensemble learning highly competitive well established
+MISC--: semi supervised ensemble methods
+MISC--: ensemble learning citation number base learners trained then
+MISC--: combined prediction achieve strong generalization ability
+MISC--: numerous effective ensemble
+MISC--: methods been proposed textsc boosting citation textsc bagging citation
+MISC--: textsc stacking citation etc most methods work under supervised setting
+MISC--: where labels training examples known
+MISC--: many real world tasks however unlabeled
+OWNX--: training examples readily available while obtaining their labels would fairly expensive
+MISC--: semi supervised learning citation major paradigm exploit unlabeled data together
+MISC--: labeled training data improve learning performance automatically without human
+MISC--: intervention
+AIMX--: this paper deals semi supervised ensembles ensemble learning labeled
+MISC--: unlabeled data
+MISC--: contrast huge volume literatures ensemble learning
+CONT--: semi supervised learning only few work been devoted study semi supervised
+MISC--: ensembles
+MISC--: indicated zhou citation this was caused different philosophies
+MISC--: ensemble learning community semi supervised learning community
+MISC--: ensemble learning
+MISC--: community believes able boost performance weak learners strong learners
+CONT--: using multiple learners so there no need use unlabeled data while semi supervised
+MISC--: learning community believes able boost performance weak learners strong
+CONT--: learners exploiting unlabeled data so there no need use multiple learners
+MISC--: however
+MISC--: zhou indicated citation there several important reasons why ensemble learning
+MISC--: semi supervised learning actually mutually beneficial among important one
+MISC--: considering unlabeled data possible help augment diversity among base
+OWNX--: learners explained following paragraph
+MISC--: well known generalization error ensemble related average
+MISC--: generalization error base learners diversity among base learners
+MISC--: generally
+OWNX--: lower average generalization error higher average accuracy base learners
+MISC--: higher diversity among base learners better ensemble citation
+MISC--: previous
+MISC--: ensemble methods work under supervised setting trying achieve high average accuracy
+MISC--: high diversity using labeled training set
+OWNX--: noteworthy however pursuing high
+MISC--: accuracy high diversity may suffer dilemma
+MISC--: example two classifiers
+MISC--: perfect performance labeled training set they would not diversity since there
+OWNX--: no difference between their predictions training examples
+MISC--: thus increase diversity
+MISC--: needs sacrifice accuracy one classifier
+OWNX--: however when we unlabeled data we might
+MISC--: find two classifiers actually make different predictions unlabeled data
+MISC--: this would
+MISC--: important ensemble design
+OWNX--: example given two pairs classifiers symbol symbol if we know all them symbol accuracy labeled training data then there
+MISC--: will no difference taking either ensemble consisting symbol ensemble consisting
+OWNX--: symbol however if we find symbol symbol make same predictions unlabeled data
+OWNX--: while symbol symbol make different predictions some unlabeled data then we will know
+MISC--: ensemble consisting symbol should better
+MISC--: so contrast previous ensemble methods
+CONT--: focus achieving both high accuracy high diversity using only labeled data use
+MISC--: unlabeled data would open promising direction designing new ensemble methods
+AIMX--: this paper we propose udeed unlabeled data enhance ensemble diversity
+MISC--: approach
+OWNX--: experiments show using unlabeled data diversity augmentation udeed
+MISC--: achieves much better performance than its counterpart does not consider usefulness
+MISC--: unlabeled data
+MISC--: moreover udeed also achieves highly comparable performance other
+MISC--: state art semi supervised ensemble methods
+AIMX--: rest this paper organized follows
+OWNX--: section briefly reviews related work
+MISC--: semi supervised ensembles
+OWNX--: section presents udeed
+OWNX--: section
+OWNX--: reports our experimental results
+OWNX--: finally section concludes

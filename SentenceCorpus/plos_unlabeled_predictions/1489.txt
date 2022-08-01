@@ -1,0 +1,41 @@
+MISC--: many neurons epochs they fire action potentials approximately periodic fashion
+AIMX--: see what effects noise relatively small amplitude repetitive activity we recently examined response hodgkin huxley space clamped system noise mean variance applied current vary near bifurcation periodic firing
+MISC--: this article concerned more realistic neuron model includes spatial extent
+MISC--: employing hodgkin huxley partial differential equation system deterministic component input current restricted small segment whereas stochastic component extends over region may may not overlap deterministic component
+OWNX--: mean values below near above critical values repetitive spiking effects weak noise increasing strength ascertained simulation
+MISC--: point model small amplitude noise near critical value dampens spiking activity leads minimum noise level increases
+OWNX--: this was case both additive noise conductance based noise
+MISC--: uniform noise along whole neuron only marginally more effective silencing cell than noise occurs near region excitation
+MISC--: fact found if signal noise overlap spatial extent then weak noise may inhibit spiking
+MISC--: if however signal noise applied disjoint intervals then noise no effect spiking activity no matter how large its region application though trajectories naturally altered slightly noise
+MISC--: effects could not discerned point model important real neuron behavior
+MISC--: interference spike train does nevertheless occur when noise amplitude larger even when noise signal do not overlap being due instigation secondary noise induced wave phenomena rather than switching system one attractor another
+MISC--: rhythmic almost regular periodic neuronal spiking found many parts central nervous system including example thalamic relay cells citation citation dopaminergic neurons citation respiratory neurons citation citation locus coeruleus neurons citation dorsal raphe serotonergic neurons citation citation
+MISC--: periodic behavior also found activity neuronal populations citation citation
+MISC--: since stochasticity prominent component neuronal activity at all levels citation citation interest see what effects noise may repetitive activity neurons
+MISC--: there many kinds neuronal model could used immediate dichotomy being provided hodgkin s defining classes type type neurons citation citation
+OWNX--: we chosen first examine behavior classic type neural model its full spatial version citation been employed recent studies reliability citation
+MISC--: methods we use easily extended more complicated models citation citation citation citation
+MISC--: deterministic spatial hodgkin huxley system consisting cable partial differential equation membrane voltage three auxiliary differential equations describing sodium potassium conductances one most successful mathematical models physiology citation
+MISC--: corresponding system ordinary differential equations been subject very large number studies analyses example references citation citation
+CONT--: most neuronal modeling studies aside some use software packages ignore spatial extent altogether many those include spatial extent do not include soma hardly ever axon because inclusion all three major neuronal components soma axon dendrites makes complicated system equations boundary conditions
+BASE--: recent study spike propagation myelinated fibres used multi compartmental stochastic hodgkin huxley model demonstrated facilatory effect noise there were optimal channel densities at nodes most efficient signal transmission citation
+MISC--: reality if solutions statistical properties found simulation stochastic cable models including nonlinear model hodgkin huxley not much more complicated than corresponding point models although more computing time required
+MISC--: other hand apparent disadvantage spatial models more parameters must specified many at best only approximately estimated
+CONT--: original hh system action potential formation propagation squid axon contained only sodium ions potassium ions leak currents distribution corresponding ion channels was assumed uniform
+OWNX--: ionic current wasformulaand various channel densities did not vary distance
+CONT--: however there two reasons why this basic model been modified modeling more complex cells
+MISC--: firstly ion channel densities do depend position secondly neurons especially those mammalian central nervous system often receive many thousands synaptic inputs many different sources each source different spatial distribution pattern soma dendritic surface citation citation
+MISC--: thus spatial models motoneurons citation cortical pyramidal cells citation citation also used same components ionic current hh system but channel densities vary over soma dendritic axonal surface
+MISC--: most central neurons many dendritic trunks axon each branches many times
+OWNX--: this article we focus cable model one space dimension most accurate nerve cylinder usually uniform diameter
+OWNX--: thus first instance our approach useful investigate properties single axonal dendritic segments
+MISC--: this simple geometry nevertheless used gain some insight into properties neurons complex anatomy appealing methods citation mapping neuronal branching structure cylinder thus reducing multi segment problem solving cable equation one space dimension
+OWNX--: thus single segment cable models relevance neurons branching dendritic axonal trees
+MISC--: recent studies hh system ordinary differential equations stochastic input revealed new interesting phenomena citation citation character opposite stochastic resonance citation
+MISC--: latter there noise level at some response variable achieves maximum
+MISC--: particular space clamped hh system at mean input current densities near critical value repetitive firing was found small amount noise could strongly inhibit spiking
+MISC--: furthermore there occurred given mean current densities minimum firing rate noise level increased zero citation citation
+MISC--: properties related noise induced delays firing found single hh neurons periodic input current citation networks neurons citation citation
+MISC--: interest see if kinds phenomena extend spatial hh system where addition many possibilities spatial distribution mean input noise
+MISC--: we will demonstrate spatial hh system exhibits quite similar but more complex behavior than ode system

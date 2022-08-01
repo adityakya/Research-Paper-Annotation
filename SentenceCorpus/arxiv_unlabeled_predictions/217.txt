@@ -1,0 +1,14 @@
+MISC--: variety regularized optimization problems machine learning algorithms computing entire solution path been developed recently
+MISC--: most methods quadratic programs parameterized single parameter example support vector machine svm
+MISC--: solution path algorithms do not only compute solution one particular value regularization parameter but entire path solutions making selection optimal parameter much easier
+MISC--: been assumed piecewise linear solution paths only linear complexity ie linearly many bends
+OWNX--: we prove support vector machine this complexity exponential number training points worst case
+OWNX--: more strongly we construct single instance symbol input points symbol dimensions svm at least symbol many distinct subsets support vectors occur regularization parameter changes
+MISC--: regularization methods support vector machines svm related kernel methods become very successful standard tools many optimization classification regression tasks variety areas example signal processing statistics biology computer vision computer graphics well data mining
+MISC--: regularization methods common they convex usually quadratic optimization problems containing special parameter their objective function called regularization parameter representing tradeoff between two optimization objectives
+MISC--: machine learning two terms usually model complexity regularization term accuracy training data loss term other words tradeoff between good generalization performance over fitting
+MISC--: parameterized quadratic programming problems been studied extensively both optimization machine learning resulting many algorithms able not only compute solutions at single value parameter but along whole solution path parameter varies
+MISC--: many variants known solution paths piecewise linear functions parameter however complexity paths remained unknown
+OWNX--: here we prove complexity solution path svms simple instances parameterized quadratic programs indeed exponential worst case
+OWNX--: furthermore our example shows exponentially many distinct subsets support vectors optimal solution occur regularization parameter changes
+MISC--: here exponentially many valid both terms number input points also dimension space containing points

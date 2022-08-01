@@ -1,0 +1,51 @@
+OWNX--: microarray comparative genomic hybridisation provides estimate relative abundance genomic dna taken comparator reference organisms hybridisation microarray containing probes represent sequences reference organism
+MISC--: experimental method used number biological applications including detection human chromosomal aberrations comparative genomic analysis bacterial strains but optimisation analysis desirable each problem domain
+OWNX--: we present method analysis bacterial acgh data encodes spatial information reference genome hidden markov model
+OWNX--: this technique first method validated comparisons sequenced bacteria diverge at strain at genus level pectobacterium atrosepticum scri dickeya dadantii lactococcus lactis subsp
+MISC--: lactis il l lactis subsp
+MISC--: cremoris mg
+OWNX--: all cases our method found outperform common widely used acgh analysis methods do not incorporate spatial information
+MISC--: this analysis applied comparisons between commercially important plant pathogenic soft rotting enterobacteria pba p atrosepticum scri p carotovorum dda
+OWNX--: our analysis indicates should not assumed hybridisation strength reliable proxy sequence identity acgh experiments robustly extends applicability acgh bacterial comparisons at genus level
+OWNX--: our results sre further provide evidence dynamic plastic accessory genome revealing major genomic islands encoding gene products provide insight into may play direct role determining variation amongst sre terms their environmental survival host range aetiology phytotoxin synthesis multidrug resistance nitrogen fixation
+OWNX--: microarray comparative genomic hybridisation provides estimate relative abundance genomic dna taken comparator reference organisms hybridisation microarray containing probes represent sequences reference organism
+MISC--: this method been used number biological applications including detection human chromosomal aberrations citation citation comparisons bacterial human pathogens citation citation bacterial plant pathogens citation citation industrially important bacteria citation comparative transcriptomics xenopus laevis citation
+MISC--: numerous algorithms software packages been applied analysis this acgh data prokaryotes
+MISC--: majority partition reference organism sequences into two mutually exclusive classes sequences present sequences absent divergent comparator organism citation citation citation citation
+OWNX--: observed hybridisation data each case assumed reliable proxies classes
+OWNX--: this manuscript we describe apply improved method analysis acgh data bacterial genome comparisons
+MISC--: this method incorporates spatial information about cds location reference genome hidden markov model
+MISC--: this spatial information expected capture pertinent biological evolutionary information operon structure regions lateral gene transfer
+BASE--: our approach differs previously proposed widely used methods applied bacterial acgh gack mpp consider hybridisation intensities each reference probe measurements independent their genomic location citation citation thus more similar methods arraylearna citation incorporates predicted operon structure into interpretations microarray expression data restricted set organisms
+OWNX--: we compare relative performance our method commonly used bacterial acgh analysis algorithms software
+MISC--: we demonstrate several assumptions common bacterial acgh analysis methods concerning relationship between observed hybridisation scores ratios presence absence reference cds comparator organism do not always hold strongly this particularly case more distantly related organisms
+MISC--: our data particular do not support distinction between present absent divergent classes sequence but rather between those sequences reference organism do those do not putative orthologues comparator genome
+OWNX--: we find hmm better predictor reference sequences do not putative orthologue comparator organism than other methods tested
+MISC--: spatial organisation sequences reference genome previously been incorporated into methods applied acgh analyses copy number variation human genomes
+MISC--: this been represented using hmm citation segmentation methods citation
+OWNX--: simple smoothing methods also been used identify breakpoints this data citation
+MISC--: however problem domain human copy number acgh differs problem domain bacterial comparative genomic acgh
+OWNX--: best our knowledge this study describes first application method incorporating spatial information acgh comparative genomics unsequenced bacteria first demonstration applicability technique whole across bacterial genera
+MISC--: pectobacterium atrosepticum pectobacterium carotovorum dickeya spp
+MISC--: plant pathogenic soft rotting enterobacteria share common ancestor
+MISC--: despite their many similarities commercially significant pathogens differ their host range geographical distribution aetiology environmental persistence citation
+CONT--: molecular origins differences not well understood but this ecological flexibility likely indicative dynamic plastic genome core accessory components
+MISC--: there currently two publicly available annotated genomes organisms pba strain scri citation dickeya dadantii strain
+OWNX--: availability sequences rapidly advanced our understanding organisms but broader comparisons expected deliver greater insight into evolution function sre
+MISC--: major common virulence factors sre plant cell wall degrading enzymes degrade plant cell wall release nutrients so called brute force attack citation citation
+MISC--: other virulence factors include virulence associated secretion systems siderophores cell surface polysaccharides agglutinins citation citation
+MISC--: contrast bacterial plant pathogens pseudomonas spp
+OWNX--: associated biotrophic stealth interaction host
+MISC--: stealth pathogens employ mechanisms type iii secretion system translocate effectors into host cells
+MISC--: effectors modulate host plant s biochemical responses implementing wide array strategies circumvent host immunity citation citation
+MISC--: however pba dda other sres also encode functioning t ss other gene products associated this stealth interaction indicating more complex relationship their hosts than simple brute force necrotrophy citation citation citation
+MISC--: key factors confirmed role virulence include type iv type vi secretion systems phytotoxin coronafacic acid synthesised cfa gene cluster citation citation
+MISC--: other factors associated persistence adaptation wider environment been identified genes associated opine uptake biofilm formation antibiotic production nitrogen fixation citation
+MISC--: many bacteria genes associated pathogenicity other phenotypically distinguishing characters frequently associated islands horizontal gene transfer
+MISC--: this gene complement often variable between strains species sometimes termed accessory genome order distinguish core genome provides functionality presumed essential all related organisms citation citation citation citation citation
+OWNX--: we expect observed differences between gene complements sre will reflect differences their phenotypes adaptations their distinct environments differences will preferentially located islands genes their genomes
+OWNX--: we use acgh apply our analysis method identify genomic islands pba do not putative orthologues unsequenced pba strain scri pcc strain scri sequenced dda
+MISC--: this study coding sequences pba predicted acgh absent divergent pba pcc dda interest because they may potentially contribute pba specific phenotypes including host interactions
+MISC--: pairwise comparisons between pba three organisms span range evolutionary distances since their most recent common ancestor pba represent variation at strain species genus levels
+OWNX--: our results sre support hypothesis genomes sre continue modified acquisition genomic islands model accessory genome niche specific functionality composed at least part horizontally acquired genomic islands
+CONT--: we identify major differences cds carried within accessory genomes sre while recapitulate previous observations major genomic islands made using alternative approaches citation citation we also find number unexpected differences provide insight into may play direct role determining variation amongst sre terms their environmental survival host range aetiology

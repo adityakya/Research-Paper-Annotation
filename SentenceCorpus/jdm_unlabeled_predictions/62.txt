@@ -1,0 +1,25 @@
+MISC--: using kahneman tversky s life death decision paradigm wang colleagues citation shown two characteristic phenomena regarding people s attitude risk when contextual group size manipulated
+MISC--: both positive negative frames people tend take greater risks life death decisions contextual group size becomes smaller this risk seeking attitude greater when framed positively than negatively
+MISC--: this second characteristic often leads disappearance framing effect small group contexts comprising number number people
+MISC--: their results could shed new light effect contextual group size people s risk choice
+OWNX--: however results usually observed laboratory experiments university student samples
+AIMX--: this study aims examine external validity results through different ways experimentation different sample base
+MISC--: first characteristic was replicated both face face interview randomly selected sample japanese general public web based experiment non student sample but not second
+MISC--: over last three decades empirical research human cognition decision making behavior shown systematic bias number decision making areas
+MISC--: one pioneering studies this field was performed kahneman tversky effects framing life death decision problems citation
+MISC--: their study subjects were presented cover story explaining number people were suspected infected fatal asian disease only two curative plans available
+OWNX--: specifically plan deterministic outcome while plan b probabilistic outcome
+OWNX--: deterministic outcome ensures survival one third patients i e number survivors while probabilistic outcome results one third probability all patients will survive two thirds probability no one will survive
+OWNX--: after subjects read cover story they were asked choose one two plans
+MISC--: framing effect demonstrated tversky kahneman citation follows when this problem was represented terms saving lives positive frame most subjects number percent were risk averse certain survival number lives was more attractive than risky choice there was only one third chance saving all number lives
+MISC--: contrast when this problem was represented terms losing lives negative frame most subjects number percent favored risky choice assured death number people was less attractive than two thirds probability number could die
+MISC--: number studies been conducted test reliability generalizability tversky kahneman s original study
+MISC--: one hand standard cover story strong framing effects been replicated not only different kinds respondents university faculty staff students physicians citation but also various applied areas citation
+MISC--: other hand some studies shown little no framing effect when context cover story was manipulated
+MISC--: apparently this framing effect sensitive both context problem described citation various cognitive social variables citation
+OWNX--: support cognitive social line inquiry series studies wang colleagues observed obvious effect contextual group size people s attitude risk detailed next section
+MISC--: however this effect was usually detected experiments university students
+MISC--: thus examine external validity contextual group size effect worth verifying whether this effect replicated different method experimentation different sample types
+OWNX--: section number will explain wang s effect contextual group size
+MISC--: sections number number report results two experiments verify validity above effect
+OWNX--: section number we conclude summary discussion results

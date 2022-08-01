@@ -1,0 +1,95 @@
+AIMX--: we propose constructed choice model general decision making
+MISC--: model departs utility theory prospect theory its treatment multiple goals suggests several different ways context affect choice
+MISC--: particularly instructive apply this model protective decisions often puzzling
+MISC--: among other anomalies people insure against non catastrophic events underinsure against catastrophic risks allow extraneous factors influence insurance purchases other protective decisions
+MISC--: neither expected utility theory nor prospect theory explain anomalies satisfactorily
+OWNX--: apply this model above anomalies we consider many different insurance related goals organized taxonomy we consider effects context goals resources plans decision rules
+AIMX--: paper concludes suggesting some prescriptions improving individual decision making respect protective measures
+OWNX--: concept goal aim motive purpose etc
+MISC--: been long been taken granted many accounts human behavior
+OWNX--: behavior attributed aims goals everyday discourse he wore his best suit order make good first impression literature epics novels etc
+MISC--: scientific discourse example widely differing accounts aristotle s ethics circa number b c e
+MISC--: william james s principles psychology citation kurt lewin s dynamic theory personality citation
+MISC--: despite obviousness wide use goal concepts dominant tradition economics decision sciences emphasized utility value basis choice
+MISC--: particular goals viewed ways increasing utility happiness
+MISC--: utility thought sort common currency integrates multiple goals multiple quantitative attributes outcomes
+MISC--: this standpoint tradeoffs among goals attempts maximize utility
+MISC--: view all goals contribute single common currency was clearly enunciated plato symposium
+OWNX--: he used metaphor weighing different pleasures pains balance
+OWNX--: this view central plato s thought underlying his theories education government
+MISC--: studies mathematics science metaphysics needed educate skillful weigher who must integrate across different goals across near distant times
+MISC--: similar views dominated utilitarian thought number th number th centuries included integration value across individuals society well different goals times e g
+MISC--: bentham number
+OWNX--: aristotle s ethics contrast partially disagreed emphasizing multiple goods stating way different goals fit together should vary occasion
+OWNX--: aristotle perhaps read advocating situation dependent integration multiple goals idea we pursue elaborate this paper
+MISC--: despite this hint aristotle plato s concept single common currency serves integrate value across myriad goals largely held sway both general psychology decision science
+MISC--: freud s concept libido citation beebe center s hedonic tone citation hull s concept generalized drive citation work reward systems brain citation diener s seligman s concepts general happiness citation all suggest some general quality linked many different goals
+MISC--: exception keeney citation who advocates decision analysis focus separate goals values starting point rather than goal tradeoffs represented overall utility
+MISC--: decision science concept maximization linked closely mapping onto single dimension utility
+MISC--: bounded set real numbers limiting maximum but there no natural total ordering sets vectors two more dimensions therefore no natural concept maximization
+MISC--: fact total ordering fundamental most foundational theories decision science citation
+MISC--: idea all human goods weighed same balance fascinating scientific hypothesis been worth pursuing determine extent its applicability ways fails
+MISC--: translating many goods into one dimensional currency fits well human thought processes especially analog mental models citation
+MISC--: unidimensionality opens way application powerful mathematical methods computing approximating maxima citation
+AIMX--: this paper we pursue more aristotelian theory decision making where preferences constructed based decision context citation decision maker focuses goals rather than maximizing happiness utility
+AIMX--: we attempt show this alternative approach leads new explanations how people make choices raises novel questions respect descriptive theories behavior prescriptive guidelines aiding decision maker improving choices
+OWNX--: our title implies theory we present about goals plans
+MISC--: many plansgoing out movie embarking shopping trip purchasing insurance invasion iraq united statesare were selected view achieving several different goals at once
+MISC--: shopping trip paradigmatic because often involves several discrete stops each one more goals but evening at movie may simultaneously satisfy goals companionship emotional visual stimulation keeping up current culture
+MISC--: insurance plans often aimed both at financial goals at emotional goals peace mind
+OWNX--: we will discuss multiple goals insurance other protective plans detail below
+MISC--: accord miller galanter pribram citation we regard plan fundamental structural unit decision theory
+OWNX--: we do not consider each tiny muscle movement each phoneme utterance choice
+OWNX--: rather decision theory offers explanations only at behavioral level where someone consciously unconsciously considers what goals will accomplished various possible plans what plan designed will likely achieve several important goals
+MISC--: past research plans unearthed various areas cognitive science
+MISC--: area motor control particularly rich evidence unconscious higher level programs governing sequences skilled movements citation
+MISC--: interest movement planning very explicit robotics citation
+MISC--: planning sporadically been considered other theories human artificial intelligence
+MISC--: one major virtues considering goals plans together individual decision making brought into close analogy organizational decision making
+MISC--: latter goals plans shared among individuals groups select implement plans
+MISC--: new railroad bridge advertising campaign goals plans their perceived relationship made explicit often recorded
+MISC--: individual decision goals plans their perceived relationship hidden within person s conscious unconscious cognitions emotions but one try nonetheless gather data provide some information about processes
+MISC--: this stance also requires us distinguish between goals resources
+MISC--: plans draw resources achieve goals
+MISC--: some resources money favors owed accumulated sometimes accumulation resource may itself become goal
+MISC--: we nonetheless continue distinguish example between money considered resource same money considered goal
+AIMX--: main concern our paper protective decision making
+OWNX--: much focus even narrower we consider insurance decisions at length
+OWNX--: theory we offer much more broadly applicable
+OWNX--: however we found narrower focus useful theory development
+MISC--: there many apparent anomalies insurance decisions individuals households
+MISC--: classical utility theory supposed account decision making under risk especially insurance purchase
+MISC--: was not obvious us initially goal plan approach would do better than utility theory its popular alternative prospect theory
+OWNX--: applying multiple goal theory this domain been both challenging enlightening compared more obvious examples shopping trips movie excursions
+OWNX--: discussing insurance choices we start idea insurance designed principally device share financial risk situations where many at risk but relatively few actually suffer financial loss
+MISC--: many cases easy share financial risk but difficult if not impossible share other risks
+MISC--: having one s home burn down example extremely stressful even if nobody hurt
+MISC--: stress may persist considerable period time
+MISC--: stress induced suffering cannot readily shared others not directly affected fire although social practices exist ease
+MISC--: what most easily shared financial risk
+OWNX--: each household at risk pays relatively small amount insurance premium participate this risk sharing
+MISC--: when participant s home does burn down insurer pays contracted amount cover some cost rebuilding purchasing replacement home
+MISC--: instead few cases where victims suffer catastrophic financial loss everyone at risk bears much smaller financial payment
+MISC--: insurance premiums must large enough aggregate cover not only total insured financial losses but also costs insurer risk sharing effort
+MISC--: thus premiums unless subsidized usually exceed average losses
+MISC--: common sense terms standard economic theory people willing pay more than expected loss because they risk averse
+MISC--: paying premium does not lower overall utility happiness level significantly but suffering large financial loss would result very large drop utility happiness
+MISC--: this ratio utility changes much greater than inverse probability incurring loss thus suggesting individuals purchase insurance so maximize their expected utility
+MISC--: financial standpoint anomalies arise when consumer choices respect insurance sometimes appear suboptimal given reasonable degrees risk aversion
+MISC--: example common people pay added premiums seem excessive obtain automobile collision insurance low rather than high deductible requires them pay initial portion loss
+MISC--: make matters worse some decide not file claim following small accident whose cost could largely reimbursed via this low deductible they fear claim would lead increased premiums next succeeding years they prefer avoid incurring transaction costs involved settling claim their insurer
+MISC--: higher deductible would saved individuals money before accident avoided costs associated deciding whether not file claim
+MISC--: rather different example emerged after passage national flood insurance program nfip number
+OWNX--: insurance coverage against water damage flooding was offered both homeowners commercial enterprises high hazard areas at subsidized low rates
+MISC--: yet there was limited interest purchasing this coverage despite subsidy despite potential catastrophic losses citation
+MISC--: third example many people prepared pay considerably more insure possessions they find very attractive than insure possessions toward they feel neutral negative citation
+MISC--: if possession needed then must replaced after loss damage
+OWNX--: replacement cost remains same independent one s positive negative feelings toward object
+MISC--: since insurance offers exactly claims payment hard justify financially paying more insuring attractive than less attractive object
+AIMX--: remainder paper organized following manner
+OWNX--: we next section number discuss types insurance anomaly illustrated preceding three examples suggest psychological processes related goals might account each type
+MISC--: section number presents elements quantitative theory constructed choice based goals plans decision weights contrasts this theory standard theory expected utility maximization
+OWNX--: section number presents taxonomy insurance related goals
+OWNX--: section number draws this taxonomy explain insurance anomalies terms our constructed choice theory
+OWNX--: this section also probes failings utility theory prospect theory respect characterizing insurance decisions
+OWNX--: paper concludes section number set prescriptive implications concerning protective activities based our theory decision making

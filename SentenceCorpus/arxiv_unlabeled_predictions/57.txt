@@ -1,0 +1,28 @@
+MISC--: sensor network practice communication among sensors subject signal noise ratio snr usually main factor determining probability error communication failure link
+MISC--: probabilities then proxy snr under links operate
+MISC--: paper studies problem designing topology ie assigning probabilities reliable communication among sensors link failures maximize rate convergence average consensus when link communication costs taken into account there overall communication budget constraint
+OWNX--: consider this problem we address number preliminary issues results we formulate topology design subject random link failures communication cost constraint constrained convex optimization problem we apply semidefinite programming techniques
+AIMX--: we show extensive numerical study optimal design improves significantly convergence speed consensus algorithm achieve asymptotic performance non random network at fraction communication cost
+MISC--: we consider design optimal topology i e communication configuration sensor network maximizes convergence rate average consensus
+MISC--: average consensus distributed algorithm been considered tsitsiklis his phd thesis citation see also citation found application recently several areas subject active research e
+MISC--: g citation
+MISC--: this topology design sensor networks not received much attention literature
+MISC--: references citation citation consider restrict classes random graphs particular small world topologies
+MISC--: more general question designing topology maximizes convergence rate under constraint number network links was considered our previous work citation where we reduced average consensus problem distributed inference sensor networks see also citation
+MISC--: realistic networks operate under stress we model non deterministic network topology random field
+AIMX--: specifically we assume following designing network topology corresponds then paper extends our preliminary convergence results citation networks random links
+AIMX--: recent paper citation adopts similar model analyzes convergence properties using ergodicity stochastic matrices
+MISC--: consensus randomized network also relates gossip algorithms citation where only single pair randomly selected sensors allowed communicate at each iteration communication exchanged nodes averaged
+OWNX--: our randomized consensus we use multiple randomly selected links at each iteration contradistinction citation we design optimal topology i e optimal weight not simple average optimal probabilities edge utilization recognizing communication entails costs there communication cost constraint
+MISC--: other recent work evolving topologies includes citation considers continuous time consensus networks switching topologies communication delays citation studies distributed consensus when network complete graph identical link failure probabilities all links
+AIMX--: we outline paper
+OWNX--: section summarizes spectral graph theory concepts like graph laplacian symbol graph algebraic connectivity symbol
+MISC--: laplacian symbol
+OWNX--: section formulates problem distributed average consensus random link failures
+MISC--: sections derive necessary sufficient conditions convergence mean state mss convergence s convergence terms average symbol terms symbol where symbol
+MISC--: section presents bounds mss convergence rate
+MISC--: section addresses topology design random networks communication cost constraints
+OWNX--: we formulate first version problem randomized distributed consensus communication cost constraint rccc then alternate version we show convex constrained optimization problem we apply semidefinite programming sdp techniques
+OWNX--: section studies performance topologies found solving numerically sdp optimization
+MISC--: we show designs improve significantly convergence rate example factor symbol when compared geometric networks networks where sensors communicate every other sensor within fixed radius they achieve practically asymptotic performance nonrandom network at fraction eg communication cost per iteration
+OWNX--: section concludes paper

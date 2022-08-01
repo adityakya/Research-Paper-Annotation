@@ -1,0 +1,41 @@
+AIMX--: this paper uses notion algorithmic stability derive novel generalization bounds several families transductive regression algorithms both using convexity closed form solutions
+OWNX--: our analysis helps compare stability algorithms ignore suggests several existing algorithms might not stable but prescribes technique make them stable also shows number widely used transductive regression algorithms fact unstable
+OWNX--: finally reports results experiments local transductive regression demonstrating benefit our stability bounds model selection one algorithms particular determining radius local neighborhood used algorithm
+MISC--: problem transductive inference was originally introduced citation
+MISC--: many learning problems information extraction computational biology natural language processing other domains formulated transductive inference problem
+MISC--: transductive setting learning algorithm receives both labeled training set standard induction setting set unlabeled test points
+MISC--: objective predict labels test points
+MISC--: no other test points will ever considered
+MISC--: this setting arises variety applications
+MISC--: often there orders magnitude more unlabeled points than labeled ones they not been assigned label due prohibitive cost labeling
+MISC--: this motivates use transductive algorithms leverage unlabeled data during training improve learning performance
+MISC--: this paper deals transductive regression arises problems predicting real valued labels nodes fixed known graph computational biology scores associated known documents information extraction search engine tasks
+MISC--: several algorithms been devised specific setting transductive regression citation
+MISC--: several other algorithms introduced transductive classification viewed fact transductive regression ones their objective function based square loss example citation
+MISC--: citation gave explicit vc dimension generalization bounds transductive regression hold all bounded loss functions coincide tight classification bounds citation when applied classification
+OWNX--: we present novel algorithm dependent generalization bounds transductive regression
+MISC--: since they algorithm specific bounds often tighter than bounds based general complexity measures vc dimension
+BASE--: our analysis based notion algorithmic stability our learning bounds generalize transduction scenario stability bounds given citation inductive setting extend regression stability based transductive classification bounds citation
+OWNX--: section we give formal definition transductive inference learning set up including precise description discussion two related transductive settings
+OWNX--: we also introduce notions cost score stability used following sections
+MISC--: standard concentration bounds mcdiarmid s bound citation cannot readily applied transductive regression setting since points not drawn independently but uniformly without replacement finite set
+OWNX--: instead section proves concentration bound generalizing mcdiarmid s bound case random variables sampled without replacement
+MISC--: this bound slightly stronger than citation proof much simpler more concise
+OWNX--: this concentration bound used derive general transductive regression stability bound section
+OWNX--: figure shows outline paper
+MISC--: section introduces examines very general family tranductive algorithms local transductive regression ltr algorithms generalization algorithm citation
+MISC--: gives general bounds stability coefficients ltr algorithms uses them derive stability based learning bounds algorithms
+OWNX--: stability analysis this section based notion cost stability based convexity arguments
+MISC--: section we analyze general class unconstrained optimization algorithms includes number recent algorithms citation
+MISC--: optimization problems algorithms admit closed form solution
+OWNX--: we use give score based stability analysis algorithms
+CONT--: our analysis shows general algorithms may not stable
+OWNX--: fact section we prove lower bound stability coefficient algorithms under some assumptions
+MISC--: section examines class constrained regularization optimization algorithms graphs enjoy better stability properties than unconstrained ones just mentioned
+MISC--: this includes graph laplacian algorithm citation
+OWNX--: section we give score stability analysis novel generalization bounds this algorithm simpler more general than those given citation
+MISC--: section shows algorithms based constrained graph regularizations fact special instances ltr algorithms showing regularization term written terms norm reproducing kernel hilbert space
+CONT--: this used derive cost stability analysis novel learning bounds graph laplacian algorithm citation terms second smallest eigenvalue laplacian diameter graph
+MISC--: much results sections generalize other constrained regularization optimization algorithms
+MISC--: generalizations briefly discussed section where indicated particular how similar constraints imposed algorithms citation derive new stable versions algorithms
+OWNX--: finally section shows results experiments local transductive regression demonstrating benefit our stability bounds model selection particular determining radius local neighborhood used algorithm provides partial validation our bounds analysis

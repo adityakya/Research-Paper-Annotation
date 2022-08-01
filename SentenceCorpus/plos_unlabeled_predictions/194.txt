@@ -1,0 +1,29 @@
+MISC--: we describe comparative patch analysis modeling structures multidomain proteins protein complexes apply psd protein
+MISC--: comparative patch analysis hybrid comparative modeling based template complex protein docking greater applicability than comparative modeling higher accuracy than docking
+MISC--: relies structurally defined interactions each complex components their homologs any other protein irrespective its fold
+MISC--: each component its known binding modes other proteins any fold collected expanded known binding modes its homologs
+OWNX--: modes then used restrain conventional molecular docking resulting set binary domain complexes subsequently ranked geometric complementarity statistical potential
+MISC--: method evaluated predicting binary complexes known structure
+MISC--: able correctly identify binding mode percent benchmark complexes compared percent protein docking
+AIMX--: we applied comparative patch analysis model complex third psd dlg zo domain sh gk domains psd protein whose structure unknown
+OWNX--: first predicted configuration domains pdz interacts sh leaving both gmp binding site guanylate kinase c terminus binding cleft pdz accessible while second configuration pdz interacts gk burying both binding sites
+OWNX--: we suggest two alternate configurations correspond different functional forms psd provide possible structural description experimentally observed cooperative folding transitions psd its homologs
+BASE--: more generally we expect comparative patch analysis will provide useful spatial restraints structural characterization increasing number binary higher order protein complexes
+MISC--: protein protein interactions play key role many cellular processes citation citation
+MISC--: important step towards mechanistic description processes structural characterization proteins their complexes citation citation
+MISC--: currently there two computational approaches predict structure protein complex given structures its components comparative modeling citation citation protein protein docking citation citation
+MISC--: first approach modelling target complex standard comparative modelling threading methods build model using known structure homologous complex template citation citation
+CONT--: applicability this approach limited currently sparse structural coverage binary interactions citation
+MISC--: second approach atomic model predicted protein protein docking starting structures individual subunits without any consideration homologous interactions citation citation
+MISC--: this docking usually achieved maximizing shape physicochemical complementarity two protein structures through generating scoring large set possible configurations citation citation
+MISC--: experimental information obtained nmr chemical shift mapping residual dipolar couplings cross linking also used guide protein docking citation citation
+MISC--: while docking applicable any two subunits whose structures known modeled both sampling relevant configurations discrimination native like configurations large number non native alternatives remain challenging citation
+AIMX--: here we propose third approach modeling complexes between two structures
+MISC--: approach called comparative patch analysis hybrid protein docking comparative modeling based template complex greater applicability than comparative modeling higher accuracy than docking
+MISC--: comparative patch analysis relies our prior analysis location binding sites within families homologous domains citation
+MISC--: this analysis indicated locations binding sites often conserved irrespective folds their binding partners
+MISC--: structure target complex thus modeled restricting protein docking only those binding sites employed homologous domains
+OWNX--: result comparative patch analysis benefits knowledge all interactions involving either one two partners
+OWNX--: we find comparative patch analysis increases prediction accuracy relative protein docking
+MISC--: able correctly identify binding mode percent benchmark complexes predicting overall structure average improvement all atom rms error compared protein docking
+MISC--: contrast protein docking correctly identifies binding mode percent complexes

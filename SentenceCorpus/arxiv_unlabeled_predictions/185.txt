@@ -1,0 +1,25 @@
+MISC--: problem statistical learning construct accurate predictor random variable function correlated random variable basis iid training sample their joint distribution
+MISC--: allowable predictors constrained lie some specified class goal approach asymptotically performance best predictor class
+OWNX--: we consider two settings learning agent only access rate limited descriptions training data present information theoretic bounds predictor performance achievable presence communication constraints
+MISC--: our proofs do not assume any separation structure between compression learning rely new class operational criteria specifically tailored joint design encoders learning algorithms rate constrained settings
+MISC--: let symbol symbol jointly distributed random variables
+MISC--: problem statistical learning design accurate predictor output variable symbol input variable symbol basis number independent training samples drawn their joint distribution very little no prior knowledge distribution
+AIMX--: present paper focuses achievable performance learning schemes when learning agent only access finite rate description training samples
+MISC--: this problem learning under communication constraints arises variety contexts distributed estimation using sensor network adaptive control repeated games
+OWNX--: other scenarios often case agents who gather training data geographically separated agents who use data make inferences decisions communication between two types agents possible only over rate limited channels
+MISC--: hence there trade off between communication rate quality inference interest characterize this trade off mathematically
+BASE--: this paper follows our earlier work citation presents improved bounds achievable performance statistical learning schemes operating under two kinds communication constraints entire training sequence delivered learning agent over rate limited noiseless digital channel b input part training sequence available learning agent arbitrary precision while output part delivered before over rate limited channel
+OWNX--: whereas citation looked at schemes where finite rate description training data was obtained through vector quantization effectively imposing separation structure between compression learning here we remove this restriction
+OWNX--: we show under certain regularity conditions there no penalty compression training sequence setting
+MISC--: this due fact encoder reliably estimate underlying distribution metric specifically tailored learning problem at hand then communicate finite rate description learning agent who then find optimum predictor estimated distribution
+MISC--: setting b however radically different because encoder no access input part training sample cannot estimate underlying distribution
+MISC--: instead encoder constructs finite rate description output part using specific kind vector quantizer namely one designed minimize expected distance between underlying distribution whatever may happen empirical distribution input quantized output pairs
+MISC--: our achievability result setting b uses learning theoretic generalization recent work kramer savari citation rate constrained communication probability distributions
+MISC--: problem learning pattern classifier under rate constraints was also treated recent paper westover o sullivan citation
+MISC--: they assumed underlying probability distribution known rate constraint arises limitations memory learning agent then problem design best possible classifier without any constraints its structure
+MISC--: motivation work citation comes biologically inspired models learning
+AIMX--: approach present paper complementary citation
+MISC--: we consider more general decision theoretic formulation learning includes regression well classification but allow only vague prior knowledge underlying distribution assume class available predictors constrained
+BASE--: thus while citation presents information theoretic bounds performance any classifier including ones fully cognizant generative model data here we concerned performance constrained learning schemes must perform well presence uncertainty about underlying distribution
+OWNX--: novel element our approach both operational criteria used design encoders learning algorithm regularity conditions must hold rate constrained learning possible involve tight coupling between available prior knowledge about underlying distribution set predictors available learning agent
+OWNX--: planned future work includes obtaining converse theorems lower bounds applying our formalism specific classes predictors used statistical learning theory

@@ -1,0 +1,46 @@
+OWNX--: given sample covariance matrix we examine problem maximizing variance explained linear combination input variables while constraining number nonzero coefficients this combination
+MISC--: this known sparse principal component analysis wide array applications machine learning engineering
+OWNX--: we formulate new semidefinite relaxation this problem derive greedy algorithm computes full set good solutions all target numbers non zero coefficients total complexity symbol where symbol number variables
+OWNX--: we then use same relaxation derive sufficient conditions global optimality solution tested symbol per pattern
+OWNX--: we discuss applications subset selection sparse recovery show artificial examples biological data our algorithm does provide globally optimal solutions many cases
+MISC--: principal component analysis pca classic tool data analysis visualization compression wide range applications throughout science engineering
+MISC--: starting multivariate data set pca finds linear combinations variables called principal components corresponding orthogonal directions maximizing variance data
+MISC--: numerically full pca involves singular value decomposition data matrix
+MISC--: one key shortcomings pca factors linear combinations all original variables most factor coefficients loadings non zero
+MISC--: this means while pca facilitates model interpretation visualization concentrating information few factors factors themselves still constructed using all variables hence often hard interpret
+MISC--: many applications coordinate axes involved factors direct physical interpretation
+MISC--: financial biological applications each axis might correspond specific asset gene
+MISC--: problems natural seek trade off between two goals statistical fidelity explaining most variance data interpretability making sure factors involve only few coordinate axes
+MISC--: solutions only few nonzero coefficients principal components usually easier interpret
+MISC--: moreover some applications nonzero coefficients direct cost eg transaction costs finance hence there may direct trade off between statistical fidelity practicality
+OWNX--: our aim here efficiently derive sparse principal components i
+MISC--: e set sparse vectors explain maximum amount variance
+MISC--: our belief many applications decrease statistical fidelity required obtain sparse factors small relatively benign
+OWNX--: what follows we will focus problem finding sparse factors explain maximum amount variance written max z z t z card z variable symbol where symbol symmetric positive semi definite sample covariance matrix symbol parameter controlling sparsity symbol denotes cardinal symbol norm symbol i e number non zero coefficients symbol
+OWNX--: while pca numerically easy each factor requires computing leading eigenvector done symbol sparse pca hard combinatorial problem
+MISC--: fact citation show subset selection problem ordinary least squares np hard citation reduced sparse generalized eigenvalue problem sparse pca particular intance
+MISC--: sometimes ad hoc rotation techniques used post process results pca find interpretable directions underlying particular subspace see citation
+MISC--: another simple solution threshold loadings small absolute value zero citation
+MISC--: more systematic approach problem arose recent years various researchers proposing nonconvex algorithms e g scotlass citation slra citation d c based methods citation find modified principal components zero loadings
+MISC--: spca algorithm based representation pca regression type optimization problem citation allows application lasso citation penalization technique based symbol norm
+MISC--: exception simple thresholding all algorithms above require solving non convex problems
+MISC--: recently also citation derived symbol based semidefinite relaxation sparse pca problem complexity symbol given symbol
+MISC--: finally citation used greedy search branch bound methods solve small instances problem exactly get good solutions larger ones
+MISC--: each step this greedy algorithm complexity symbol leading total complexity symbol full set solutions
+OWNX--: our contribution here twofold
+OWNX--: we first derive greedy algorithm computing full set good solutions one each target sparsity between symbol at total numerical cost symbol based convexity largest eigenvalue symmetric matrix
+OWNX--: we then derive tractable sufficient conditions vector symbol global optimum
+OWNX--: this means practice given vector symbol support symbol we test if symbol globally optimal solution problem performing few binary search iterations solve one dimensional convex minimization problem
+OWNX--: fact we take any sparsity pattern candidate any algorithm test its optimality
+AIMX--: this paper builds earlier conference version citation providing new simpler conditions optimality describing applications subset selection sparse recovery
+MISC--: while there certainly case made symbol penalized maximum eigenvalues la citation we strictly focus here symbol formulation
+MISC--: however was shown recently see citation citation citation among others there fact deep connection between symbol constrained extremal eigenvalues lasso type variable selection algorithms
+MISC--: sufficient conditions based sparse eigenvalues also called restricted isometry constants citation guarantee consistent variable selection lasso case sparse recovery decoding problem
+OWNX--: results we derive here produce upper bounds sparse extremal eigenvalues thus used prove consistency lasso estimation prove perfect recovery sparse recovery problems prove particular solution subset selection problem optimal
+OWNX--: course our conditions only sufficient not necessary would contradict np hardness subset selection duality bounds we produce sparse extremal eigenvalues cannot always tight but we observe duality gap often small
+AIMX--: paper organized follows
+OWNX--: we begin formulating sparse pca problem section
+OWNX--: section we write efficient algorithm computing full set candidate solutions problem total complexity symbol
+OWNX--: mysec semidefinite we then formulate convex relaxation sparse pca problem we use section derive tractable sufficient conditions global optimality particular sparsity pattern
+OWNX--: section we detail applications subset selection sparse recovery variable selection
+OWNX--: finally section we test numerical performance results

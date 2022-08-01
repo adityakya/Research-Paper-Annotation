@@ -1,0 +1,41 @@
+MISC--: many fields where human understanding plays crucial role bioprocesses capacity extracting knowledge data critical importance
+MISC--: within this framework fuzzy learning methods if properly used greatly help human experts
+MISC--: amongst methods aim orthogonal transformations been proven mathematically robust build rules set training data select most important ones linear regression rank revealing techniques
+MISC--: ols algorithm good representative those methods
+CONT--: however was originally designed so only cared about numerical performance
+OWNX--: thus we propose some modifications original method take interpretability into account
+OWNX--: after recalling original algorithm this paper presents changes made original method then discusses some results obtained benchmark problems
+MISC--: finally algorithm applied real world fault detection depollution problem
+MISC--: fuzzy learning methods unlike black box models neural networks likely give interpretable results provided some constraints respected
+MISC--: while this ability somewhat meaningless some applications stock market prediction becomes essential when human experts want gain insight into complex problem e g industrial citation biological citation processes climate evolution citation
+MISC--: considerations explain why interpretability issues fuzzy modeling become important research topic shown recent literature citation
+MISC--: even so meaning given interpretability fuzzy modeling not always same
+MISC--: interpretability some authors mean mathematical interpretability citation where structure developed takagi sugeno systems leads interpretation every consequent polynomial taylor series expansion about rule center
+MISC--: others mean linguistic interpretability citation citation
+AIMX--: present paper focused latter approach
+MISC--: commonly admitted requirements interpretability small number consistent membership functions reasonable number rules fuzzy system
+MISC--: orthogonal transformation methods provide set tools building rules data selecting limited subset rules
+MISC--: those methods were originally designed linear optimization but subject some conditions they used fuzzy models
+MISC--: instance zero order takagi sugeno model written set r fuzzy rules symbol rule being symbol where symbol fuzzy sets associated symbol variables given rule symbol corresponding crisp rule conclusion
+MISC--: let symbol symbol input output pairs data set where symbol symbol
+MISC--: symbol pair above takagi sugeno model output calculated follows symbol equation symbol conjunction operator used combine elements rule premise symbol represents within symbol rule membership function value symbol
+MISC--: let us introduce rule firing strength symbol
+MISC--: thus equation rewritten symbol once fuzzy partitions been set provided given data set symbol computed all symbol data set
+OWNX--: then equation allows reformulate fuzzy model linear regression problem written matrix form symbol
+OWNX--: matrix form y sample output vector p firing strength matrix symbol rule consequent vector e error term
+OWNX--: orthogonal transformation methods then used determine symbol kept assign them optimal values order design zero order takagi sugeno model data set
+MISC--: thorough review use orthogonal transformation methods svd qr ols select fuzzy rules found citation
+MISC--: they divided into two main families methods select rules using symbol matrix decomposition only others also use output symbol do best fit
+MISC--: first family methods rank revealing techniques particularly interesting when input fuzzy partitions include redundant quasi redundant fuzzy sets
+MISC--: orthogonal least squares ols technique belongs second family allows rule selection based rule respective contribution output inertia variance
+MISC--: respect this criterion gives good summary system modeled explains why been widely used statistics also why particularly suited rule induction shown instance citation
+OWNX--: aim present paper establish using ols method example orthogonal transformation results made interpretable without suffering too much loss accuracy
+MISC--: this achieved building interpretable fuzzy partitions reducing number rule conclusions
+MISC--: this turns orthogonal transformations into useful tools modeling regression problems extracting knowledge data
+MISC--: thus they worth careful study there few available techniques achieving this double objective contrary knowledge induction classification problems
+OWNX--: section we recall how original ols works
+OWNX--: section introduces learning criteria will used our modified ols algorithm
+OWNX--: section presents modifications necessary respect interpretability constraints
+OWNX--: next section modified algorithm applied benchmark problems compared original one reference results found literature
+OWNX--: real world application presented analyzed section
+OWNX--: finally we give some conclusions perspectives future work

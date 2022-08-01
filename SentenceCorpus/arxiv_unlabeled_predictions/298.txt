@@ -1,0 +1,45 @@
+OWNX--: we propose novel non parametric adaptive anomaly detection algorithm high dimensional data based score functions derived nearest neighbor graphs symbol point nominal data
+OWNX--: anomalies declared whenever score test sample falls below symbol supposed desired false alarm level
+MISC--: resulting anomaly detector shown asymptotically optimal uniformly most powerful specified false alarm level symbol case when anomaly density mixture nominal known density
+OWNX--: our algorithm computationally efficient being linear dimension quadratic data size
+MISC--: does not require choosing complicated tuning parameters function approximation classes adapt local structure local change dimensionality
+OWNX--: we demonstrate algorithm both artificial real data sets high dimensional feature spaces
+MISC--: anomaly detection involves detecting statistically significant deviations test data nominal distribution
+MISC--: typical applications nominal distribution unknown generally cannot reliably estimated nominal training data due combination factors limited data size high dimensionality
+OWNX--: we propose adaptive non parametric method anomaly detection based score functions maps data samples interval symbol
+OWNX--: our score function derived k nearest neighbor graph k nng symbol point nominal data
+MISC--: anomaly declared whenever score test sample falls below symbol desired false alarm error
+OWNX--: efficacy our method rests upon its close connection multivariate p values
+MISC--: statistical hypothesis testing p value any transformation feature space interval symbol induces uniform distribution nominal data
+MISC--: when test samples p values smaller than symbol declared anomalies false alarm error less than symbol
+OWNX--: we develop novel notion p values based measures level sets likelihood ratio functions
+OWNX--: our notion provides characterization optimal anomaly detector uniformly most powerful specified false alarm level case when anomaly density mixture nominal known density
+AIMX--: we show our score function asymptotically consistent namely converges our multivariate p value data length approaches infinity
+MISC--: anomaly detection been extensively studied
+MISC--: also referred novelty detection citation outlier detection citation one class classification citation single class classification citation literature
+MISC--: approaches anomaly detection grouped into several categories
+MISC--: parametric approaches citation nominal densities assumed come parameterized family generalized likelihood ratio tests used detecting deviations nominal
+CONT--: difficult use parametric approaches when distribution unknown data limited
+MISC--: k nearest neighbor k nn anomaly detection approach presented citation
+MISC--: there anomaly declared whenever distance k th nearest neighbor test sample falls outside threshold
+OWNX--: comparison our anomaly detector utilizes global information available entire k nn graph detect deviations nominal
+MISC--: addition provable optimality properties
+MISC--: learning theoretic approaches attempt find decision regions based nominal data separate nominal instances their outliers
+MISC--: include one class svm sch symbol lkopf et
+MISC--: al
+MISC--: citation where basic idea map training data into kernel space separate them origin maximum margin
+MISC--: other algorithms along this line research include support vector data description citation linear programming approach citation single class minimax probability machine citation
+CONT--: while approaches provide impressive computationally efficient solutions real data generally difficult precisely relate tuning parameter choices desired false alarm probability
+MISC--: scott nowak citation derive decision regions based minimum volume mv sets does provide type i type ii error control
+OWNX--: they approximate appropriate function classes level sets unknown nominal multivariate density training samples
+MISC--: related work hero citation based geometric entropic minimization gem detects outliers comparing test samples most concentrated subset points training sample
+MISC--: this most concentrated set symbol point minimum spanning tree mst symbol point nominal data converges asymptotically minimum entropy set also mv set
+MISC--: nevertheless computing symbol mst symbol point data generally intractable
+MISC--: overcome computational limitations citation proposes heuristic greedy algorithms based leave one out k nn graph while inspired symbol mst algorithm no longer provably optimal
+BASE--: our approach related latter techniques namely mv sets citation gem approach citation
+OWNX--: we develop score functions k nng turn out empirical estimates volume mv sets containing test point
+MISC--: volume real number sufficient statistic ensuring optimal guarantees
+OWNX--: this way we avoid explicit high dimensional level set computation
+OWNX--: yet our algorithms lead statistically optimal solutions ability control false alarm miss error probabilities
+OWNX--: main features our anomaly detector summarized like citation our algorithm scales linearly dimension quadratic data size applied high dimensional feature spaces like citation our algorithm provably optimal uniformly most powerful specified false alarm level symbol case anomaly density mixture nominal any other density not necessarily uniform we do not require assumptions linearity smoothness continuity densities convexity level sets
+CONT--: furthermore our algorithm adapts inherent manifold structure local dimensionality nominal density like citation unlike other learning theoretic approaches citation we do not require choosing complex tuning parameters function approximation classes

@@ -1,0 +1,28 @@
+AIMX--: we introduce new protocol prediction expert advice each expert evaluates learner s his own performance using loss function may change over time may different loss functions used other experts
+MISC--: learner s goal perform better not much worse than each expert evaluated expert all experts simultaneously
+OWNX--: if loss functions used experts all proper scoring rules all mixable we show defensive forecasting algorithm enjoys same performance guarantee attainable aggregating algorithm standard setting known optimal
+OWNX--: this result also applied case specialist sleeping experts
+OWNX--: this case defensive forecasting algorithm reduces simple modification aggregating algorithm
+OWNX--: we consider problem online sequence prediction
+MISC--: process generates outcomes symbol step step
+OWNX--: at each step symbol learner tries guess next outcome announcing his prediction symbol
+MISC--: then actual outcome symbol revealed
+MISC--: quality learner s prediction measured loss function learner s loss at step symbol symbol
+OWNX--: prediction expert advice framework does not make any assumptions about generating process
+MISC--: performance learner compared performance several other predictors called experts
+OWNX--: at each step each expert gives his prediction symbol then learner produces his own prediction symbol possibly based experts predictions at last step experts predictions outcomes at all previous steps accumulated losses updated learner experts
+MISC--: there many algorithms learner this framework review see citation
+MISC--: practical applications algorithms prediction expert advice choosing loss function often problem
+MISC--: task may no natural measure loss except vague concept closer prediction outcome better
+MISC--: thus one select among several common loss functions example quadratic loss reflecting idea least squares methods logarithmic loss information theory background
+MISC--: similar issue arises when experts themselves prediction algorithms optimize some losses internally
+MISC--: then unfair experts when learner competes them according foreign loss function
+AIMX--: this paper introduces new version framework prediction expert advice where there no single fixed loss function but some loss function linked every expert
+MISC--: performance learner compared performance each expert according loss function linked expert
+MISC--: informally speaking each expert convinced learner performs almost well better than expert himself
+OWNX--: we prove known algorithm learner defensive forecasting algorithm citation applied new setting gives same performance guarantee attainable standard setting provided all loss functions proper scoring rules iffullthe only new requirement all loss functions used experts must similar
+MISC--: all strictly proper scoring rules particular quadratic logarithmic loss functions similar each other this sense blueend another framework our methods fruitfully applied specialist experts see eg citation citation citation
+OWNX--: we generalize some known results case mixable loss functions
+OWNX--: keep presentation simple possible we restrict ourselves binary outcomes symbol predictions symbol finite number experts
+OWNX--: we formulate our results mixable loss functions only
+MISC--: however results easily transferred more general settings non binary outcomes arbitrary prediction spaces countably many experts second guessing experts etc where methods citation work

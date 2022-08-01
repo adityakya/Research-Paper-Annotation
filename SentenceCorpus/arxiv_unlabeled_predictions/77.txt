@@ -1,0 +1,19 @@
+MISC--: method defensive forecasting applied problem prediction expert advice binary outcomes
+CONT--: turns out defensive forecasting not only competitive aggregating algorithm but also handles case second guessing experts whose advice depends learner s prediction this paper assumes dependence learner s prediction continuous
+MISC--: there many known techniques competitive line prediction following perturbed leader see eg citation bayes type aggregation see eg citation closely related potential methods gradient descent see eg citation closely related exponentiated gradient descent citation recently developed technique defensive forecasting see eg citation
+MISC--: defensive forecasting combines ideas game theoretic probability see eg citation levin g acs s ideas neutral measure citation foster vohra s ideas universal calibration citation
+MISC--: see citation general review competitive line prediction
+AIMX--: this paper applies technique defensive forecasting prediction expert advice simple case binary outcomes learner s goal prediction expert advice compete free agents called experts who allowed choose any predictions at each step
+OWNX--: we will interested performance guarantees type symbol where symbol number experts symbol constant depending symbol symbol learner s cumulative loss over first symbol steps symbol symbol th expert s cumulative loss over first symbol steps see s s precise definitions
+AIMX--: been shown watkins citation theorem aggregating algorithm implementing bayes type aggregation general loss functions citation aa short delivers optimal value constant symbol whenever goal achieved watkins s result was based earlier results haussler kivinen warmuth citation theorem vovk citation theorem establishing optimality aa large number experts theorem this paper asserts perhaps surprisingly defensive forecasting also achieves same performance guarantee
+OWNX--: whether goal achievable depends loss function used evaluating learner s experts performance
+MISC--: necessary sufficient condition loss function should perfectly mixable see definition
+OWNX--: simplicity we first consider two specific perhaps most important examples perfectly mixable loss functions quadratic loss function log loss function s
+MISC--: those two sections self contained they do not require familiarity aa
+OWNX--: last section s we establish general result arbitrary perfectly mixable loss functions
+AIMX--: appendix we state watkins s theorem form needed this paper
+AIMX--: interesting technique defensive forecasting also applicable experts who allowed second guess learner their recommendations depend continuous manner this paper learner s prediction
+OWNX--: not clear second guessing experts handled at all aa
+AIMX--: result similar this paper s results proved stoltz lugosi citation theorem more detailed comparison will given citation
+MISC--: second guessing experts useful game theory where competing second guessing experts known prediction small internal regret
+MISC--: more down earth example useful second guessing expert remember humans tend give too categorical i e close predictions therefore useful second guessing expert human learner would transform his her predictions less categorical ones according learner s expected calibration curve citation

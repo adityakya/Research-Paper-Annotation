@@ -1,0 +1,43 @@
+MISC--: understanding complex networks protein protein interactions one foremost challenges post genomic era
+MISC--: due recent advances experimental bio technology including yeast hybrid tandem affinity purification other high throughput methods protein protein interaction detection huge amounts ppi network data becoming available
+MISC--: major concern however levels noise incompleteness
+MISC--: example y h screens thought false positive rate could high percent false negative rate may range percent percent
+MISC--: tap experiments believed comparable levels noise
+OWNX--: we present novel technique assess confidence levels interactions ppi networks obtained experimental studies
+OWNX--: we use predicting new interactions thus guiding future biological experiments
+MISC--: this technique first utilize currently best fitting network model ppi networks geometric graphs
+OWNX--: our approach achieves specificity percent sensitivity percent
+MISC--: we use assign confidence scores physical protein protein interactions human ppi network downloaded biogrid
+MISC--: using our approach we predict interactions human ppi network statistically significant fraction correspond protein pairs sharing common go terms
+OWNX--: moreover we validate statistically significant portion our predicted interactions hprd database newer release biogrid
+MISC--: data matlab code implementing methods freely available web site link
+MISC--: networks used model natural phenomena studied computational systems biology
+MISC--: nodes networks represent biomolecules genes proteins edges between nodes indicate interactions between corresponding biomolecules
+MISC--: interactions could many different types including functional genetic physical interactions
+MISC--: understanding complex networks fundamental issue systems biology
+MISC--: particular importance protein protein interaction networks
+MISC--: ppi networks nodes correspond proteins two nodes linked edge if corresponding proteins interact
+MISC--: topology ppi networks give new insight into function individual proteins protein complexes cellular machinery complex system citation citation
+MISC--: advances high throughput techniques yeast hybrid tandem affinity purification mass spectrometric protein complex identification producing growing amount experimental ppi data many organisms citation citation
+OWNX--: however data produced techniques very high levels false positives false negatives
+MISC--: y h screens false negative rates range percent percent tap false negative rates percent percent citation
+OWNX--: false positive rates y h could high percent tap experiments they could high percent citation
+OWNX--: thus reducing level noise ppi networks assessing confidence each interaction essential task
+MISC--: two recent studies provided two high quality ppi data sets saccharomyces cerevisiae citation citation
+MISC--: gavin et al citation defined socio affinity scores measuring log odds number times two proteins observed together relative their frequency data set
+CONT--: they use not only direct bait prey connections but also indirect prey prey relationships
+OWNX--: this two proteins each identified preys purification third protein used bait
+MISC--: krogan et al citation used machine learning methods including bayesian networks boosted stump decision trees define confidence scores potential interactions
+MISC--: scores based direct bait prey observations
+MISC--: they used markov clustering algorithm define protein complexes
+MISC--: data sets produced two groups very different thought contain many false positives
+MISC--: citation two data sets were merged into one set experimentally based ppis analyzing primary affinity purification data using purification enrichment scoring system
+MISC--: using set manually curated ppis they showed this new data set more accurate than original individual sets comparable ppis defined using small scale experimental methods
+MISC--: original interactions two studies general repository interaction data citation they discarded being low confidence
+MISC--: applying their metric they discovered new interactions were not among original interactions produced set interactions accuracy comparable accuracy small scale experiments
+AIMX--: this paper we use this high confidence data set test our approach
+MISC--: recent years several random graph models been proposed model ppi networks erd s r nyi random graphs same degree distribution data citation scale free graphs citation geometric random graphs citation citation stickiness index based models citation
+AIMX--: technique presented this paper one first use network model ppi networks purposes other than just generating synthetic data
+OWNX--: we demonstrate geometric graph model used assessing confidence levels known interactions ppi networks predicting novel ones
+OWNX--: we apply our technique de noise ppi data sets detecting false positives false negative interactions
+OWNX--: this new approach compared existing ppi network post processing techniques final section

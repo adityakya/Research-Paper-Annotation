@@ -1,0 +1,37 @@
+OWNX--: given symbol points symbol dimensional euclidean space minimum enclosing ball meb problem find ball smallest radius contains all symbol points
+OWNX--: we give symbol approximation algorithm producing enclosing ball whose radius at most symbol away optimum where symbol upper bound norm points
+OWNX--: this improves existing results using coresets yield symbol greedy algorithm
+MISC--: finding minimum enclosing convex polytope mecp related problem wherein convex polytope fixed shape given aim find smallest magnification polytope encloses given points
+OWNX--: this problem we present symbol approximation algorithm where symbol number faces polytope
+MISC--: our algorithms borrow heavily convex duality recently developed techniques non smooth optimization contrast existing methods rely geometric arguments
+OWNX--: particular we specialize excessive gap framework citation obtain our results
+OWNX--: given set symbol symbol points symbol minimum enclosing ball meb ball smallest radius contains all points symbol
+MISC--: problem finding meb arises application areas diverse data mining learning statistics computer graphics computational geometry citation
+MISC--: therefore efficient algorithms this problem not only theoretical interest but also wide practical applicability
+MISC--: exact algorithms finding meb typically exponential dependence symbol citation
+MISC--: example citation algorithm runs symbol time makes inadmissible many practical applications case linear svms data may million more dimensions
+MISC--: therefore there been significant interest finding approximation algorithms this problem
+MISC--: state art approximation algorithms meb problem extensively use concept coresets citation
+MISC--: given symbol symbol coreset symbol property if smallest enclosing ball containing symbol expanded factor symbol then resulting ball also contains symbol
+MISC--: therefore locating symbol coreset equivalent finding symbol approximation algorithm meb problem
+MISC--: approximation guarantees algorithms multiplicative
+MISC--: briefly coreset built incrementally greedy fashion citation
+MISC--: at every iteration meb current candidate coreset built
+MISC--: if every point symbol lies symbol ball current solution then algorithm stops otherwise most violated point point furthest away current meb included candidate coreset iterations continue
+MISC--: best known algorithms this family running time symbol citation
+AIMX--: contrast we present new algorithm derived casting problem finding meb convex but non smooth optimization problem
+CONT--: specializing general framework citation our algorithm able achieve running time symbol where symbol upper bound norm points
+OWNX--: also approximation guarantees our algorithm additive given tolerance symbol denoting optimal radius symbol our algorithm produces function whose value lies between symbol symbol
+OWNX--: although two types approximation guarantees seem different simple argument section we show our algorithm also yields traditional scale invariant symbol multiplicative approximation symbol effort
+AIMX--: we extend our analysis closely related minimum enclosing convex polytope mecp problem present new algorithm
+MISC--: before given set symbol symbol points symbol task here find smallest polytope given fixed shape encloses points
+OWNX--: our setting translations magnifications allowed but rotations not allowed
+OWNX--: we present symbol approximation algorithm where symbol denotes number faces polytope
+OWNX--: we apply our algorithms two problems interest machine learning namely finding maximum margin hyperplane computing distance polytope origin
+OWNX--: coreset algorithm first problem was proposed citation while second one was studied citation
+MISC--: both cases our algorithms require fewer number iterations yield better computational complexity bounds
+AIMX--: our paper structured follows section we introduce notation briefly review some results convex duality present general framework citation
+OWNX--: section we address meb problem section mecp problem present our algorithms their analysis
+OWNX--: we discuss some applications our results machine learning problems section
+OWNX--: paper then concludes discussion outlook future section
+MISC--: technical proofs found appendix while preliminary experimental evaluation found appendix

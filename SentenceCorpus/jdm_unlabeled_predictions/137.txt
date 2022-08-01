@@ -1,0 +1,44 @@
+AIMX--: this paper we document violation normative descriptive models decision making under risk
+OWNX--: contrast uncertainty effects found gneezy list wu citation some subjects our experiments valued lotteries more than best possible outcome
+OWNX--: we show overbidding effect more strongly related individuals competitiveness traits than comprehension lottery s payoff mechanism
+MISC--: decision making often involves choices between risky outcomes
+MISC--: prospect theory expected utility theory both posit individuals balance outcomes their potentially weighted probability occurrence means certainty equivalent binary lottery will lie somewhere between lowest highest outcomes
+MISC--: however gneezy list wu citation document cases where individuals value risky prospect less than its worst possible realization
+OWNX--: they call this phenomenon uncertainty effect demonstrate its existence various laboratory experiments including real hypothetical pricing tasks inter temporal choice tasks well field experiment sportscard market
+OWNX--: uncertainty effect however disappears within subject designs observed only lotteries do not involve cash
+MISC--: gneezy list wu citation study sparked small but growing literature examining robustness their findings
+MISC--: example sonsino citation found occurrence uncertainty effect internet based within subject design
+MISC--: keren willemsen citation argued however gneezy list wu s citation results were artifact poorly understood experimental instructions
+MISC--: specifically series experiments they replaced lottery coin toss spinner wheel clearly define payoff probabilities
+MISC--: they also added comprehension checks
+MISC--: their new protocols eliminated uncertainty effect almost completely
+MISC--: similarly rydval et al citation used physical lottery formats i e drawing good gift exchange deferred payment closed bag containing two goods identical except their face value instead verbal lottery descriptions observed uncertainty effect almost disappeared
+MISC--: other hand simonsohn citation argued uncertainty effect neither caused fact gneezy list wu s citation manipulation uncertainty was fully confounded number outcomes presented subjects nor subjects may had erroneously believed lottery could result payment number
+MISC--: instead he argued uncertainty effect occurs consequence direct risk aversion
+MISC--: direct risk aversion arises literal distaste uncertainty i e uncertainty enters directly into people s utility function
+MISC--: theoretically gill stone citation showed uncertainty effect arise tournaments where two agents competing win fixed monetary prize
+MISC--: similarly andreoni sprenger citation argued uncertainty effect not anomalous if certain uncertain consumption evaluated different utility parameters
+MISC--: they argue marginal utility uncertain consumption diminishes more quickly than marginal utility certain consumption
+MISC--: because uncertain utility more concave than certain utility one expect gamble valued less than its worst possible outcome
+AIMX--: this paper we document cases polar opposite uncertainty effect found gneezy list wu citation where individuals value outcome risky prospect more than its best possible realization
+OWNX--: we demonstrate cases where subjects willing pay much three times value best possible realization lottery second price auction
+OWNX--: we term this effect overbidding effect
+OWNX--: addition documenting overbidding effect we seek identify causes effect
+CONT--: three non exclusive possible explanations results we observe number confusion about auction mechanism number confusion failure comprehension about lotteries i e subjects did not understand payoff mechanism lottery number subjects derive utility winning being top dog experiment i e walk out experiment top dog among their peers citation
+OWNX--: regarding first two issues plott zeiler citation show often reported wtp wta disparity likely result subjects confusion elicitation mechanism suggesting wtp wta divergence not underlying feature preference per se but rather result misunderstanding bidding mechanism
+MISC--: tempting attribute overbidding effect elements value elicitation mechanism
+MISC--: example kagel levin s citation non risky induced value experiments subjects tended slightly overbid second price auction
+MISC--: experiments subjects assigned value v winner auction paid difference between his her value second highest bid price profit v price
+MISC--: second price auction individual s weakly dominant strategy submit bid equal v but kagel levin show many people submit bids higher than v
+MISC--: kagel levin citation attributed overbidding either dominant bidding strategy not being transparent weak learning feedback mechanisms second price sealed bid auction
+OWNX--: although this result often taken stylized fact associated second price auctions lusk shogren citation document several more recent induced value studies focus all bidders values not just market price tend find behaviour more line theoretical predicted bidding behaviour second price auction
+BASE--: even if we accept kagel levin s citation result over bidding second price auction difficult conclude this primary cause behaviour observed here lotteries where subjects values v unknown
+OWNX--: although subjects our experiments overbid we would expect people s bids lie somewhere close expected payoff not close maximum payoff lottery
+MISC--: stated differently overbidding effect observed kagel levin citation might explain bids slightly higher than expected value lottery but cannot explain bids excess maximum lottery payout
+OWNX--: we use experimental design varied amount training about auction mechanism amount feedback after each round
+OWNX--: varying amount training allows us directly test whether confusion elicitation mechanism may explain observed results
+MISC--: other hand amount feedback after each round allows us test whether mechanism may induced more competitiveness sessions
+OWNX--: we also measured subject s personal traits regarding comprehension how lotteries work well their competitiveness
+OWNX--: our results suggest overbidding effect small part attributed comprehension how lotteries work but extensive training second price auction does not eliminate overbidding effect thus ruling out confusion elicitation mechanism primary cause overbidding
+OWNX--: we find comprehension negatively related overbidding effect while competitiveness traits positively related overbidding behavior
+OWNX--: this paper structured follows next section discusses design our auction experiments followed data analysis results

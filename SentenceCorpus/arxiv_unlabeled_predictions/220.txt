@@ -1,0 +1,33 @@
+OWNX--: we study regret optimal strategies online convex optimization games
+BASE--: using von neumann s minimax theorem we show optimal regret this adversarial setting closely related behavior empirical minimization algorithm stochastic process setting equal maximum over joint distributions adversary s action sequence difference between sum minimal expected losses minimal empirical loss
+OWNX--: we show optimal regret natural geometric interpretation since viewed gap jensen s inequality concave functional minimizer over player s actions expected loss defined set probability distributions
+OWNX--: we use this expression obtain upper lower bounds regret optimal strategy variety online learning problems
+OWNX--: our method provides upper bounds without need construct learning algorithm lower bounds provide explicit optimal strategies adversary
+MISC--: within theory learning two particular topics gained significant popularity over past years statistical learning online adversarial learning
+OWNX--: papers former typically study generalization bounds convergence rates complexity measures function classes all under assumption examples drawn typically iid
+MISC--: manner some underlying distribution
+CONT--: working under assumption statistical learning finds its roots statistics probability theory high dimensional geometry one argue main questions now relatively well understood
+MISC--: online learning while having its origins early s recently became popular area research once again
+OWNX--: one might argue assumptions lack thereof make online learning attractive
+OWNX--: indeed often assumed observed data generated maliciously rather than being drawn some fixed distribution
+MISC--: moreover contrast batch learning flavor statistical learning sequential nature online problem lets adversary change its strategy middle interaction
+MISC--: no surprise this adversarial learning seems quite bit more difficult than its statistical cousin
+MISC--: worst case adversarial analysis does provide realistic modeling learning scenarios network security applications email spam detection network routing etc largely responsible renewed interest this area
+MISC--: upon review central results adversarial online learning most found recent book cesa bianchi lugosi citation one cannot help but notice frequent similarities between guarantees performance online algorithms analogous guarantees under stochastic assumptions
+MISC--: however discerning explicit link remained elusive
+MISC--: vovk citation notices this phenomenon some important problems adversarial bounds line competitive learning theory only tiny amount worse than average case bounds some stochastic strategies nature
+AIMX--: this paper we attempt build bridge between adversarial online learning statistical learning
+OWNX--: using von neumann s minimax theorem we show optimal regret algorithm online convex optimization exactly difference between sum minimal expected losses minimal empirical loss under adversarial choice stochastic process generating data
+OWNX--: this leads upper lower bounds optimal regret exhibit several similarities results statistical learning
+MISC--: online convex optimization game proceeds rounds
+MISC--: at each symbol rounds player learner predicts vector some convex set adversary responds convex function determines player s loss at chosen point
+OWNX--: order emphasize relationship stochastic setting we denote player s choice symbol adversary s choice symbol
+MISC--: note this differs instance notation citation
+MISC--: suppose symbol convex compact class functions constitutes set player s choices
+OWNX--: adversary draws his choices closed compact set symbol
+OWNX--: we also define continuous bounded loss function symbol assume symbol convex second argument
+MISC--: denote symbol associated loss class
+MISC--: let symbol set all probability distributions symbol
+MISC--: denote sequence symbol symbol
+OWNX--: we denote joint distribution symbol bold face symbol its conditional marginal distributions symbol symbol respectively
+MISC--: online convex optimization interaction described follows frameitblack online convex optimization oco game setlength sep pt at each time step symbol symbol player chooses symbol adversary chooses symbol player observes symbol suffers loss symbol objective player minimize regret symbol turns out many online learning scenarios realized instances oco including prediction expert advice data compression sequential investment forecasting side information see example citation

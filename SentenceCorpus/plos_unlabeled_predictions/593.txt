@@ -1,0 +1,49 @@
+MISC--: transcription factor myc plays central role regulating cell fate decisions including proliferation growth apoptosis
+OWNX--: maintain normal cell physiology critical control myc dynamics precisely orchestrated
+OWNX--: recent studies suggest control myc achieved at post translational level via protein stability modulation
+OWNX--: myc regulated two ras effector pathways extracellular signal regulated kinase phosphatidylinositol kinase pathways
+AIMX--: gain quantitative insight into myc dynamics we developed mathematical model analyze post translational regulation myc via sequential phosphorylation erk pi k
+OWNX--: our results suggest myc integrates erk pi k signals result various cellular responses differential stability control myc protein isoforms
+MISC--: signal integration confers flexible dynamic range system output governed stability change
+OWNX--: addition signal integration may require saturation input signals leading sensitive signal integration temporal features input signals insensitive response their amplitudes resistance input fluctuations
+OWNX--: we further propose characteristics protein stability control module myc may commonly utilized various cell types classes proteins
+MISC--: proto oncogene protein myc transcription factor regulates numerous signaling pathways involved cell fate decisions citation citation
+MISC--: sufficient accumulation myc leads activation cyclin d cyclin dependent kinases subsequently phosphorylate rb release e f
+OWNX--: this results initiation dna replication cell cycle entry citation
+MISC--: excessive accumulation myc however induces apoptosis citation citation when cells under stress deprived growth factors
+MISC--: finally myc also drives cell growth activating genes encode cellular metabolic activities including translational factors ribosomal proteins rnas citation
+MISC--: given its importance myc activity must properly controlled response different environmental cues
+MISC--: past studies suggested myc regulated at multiple levels including auto regulation myc transcription citation post transcriptional regulation citation citation
+MISC--: more recent discoveries indicate myc also dynamically regulated at protein level ras effector pathways citation citation
+MISC--: discoveries suggest myc protein undergoes series modifications sequential irreversible citation citation citation citation
+MISC--: more specifically when myc newly synthesized highly unstable quickly undergoes ubiquitination degradation citation
+MISC--: substantially stabilized when phosphorylated at serine ras activated erk activity
+MISC--: subsequent phosphorylation myc at threonine gsk however initiates destabilization process sequential manner
+MISC--: this achieved dephosphorylation mechanism prolyl isomerase pin protein phosphatase pp
+MISC--: once myc phosphorylated at thr pin induces undergo conformation changes required pp dephosphorylate ser residue citation
+OWNX--: date this only dephosphorylation mechanism identified myc stabilization processes
+MISC--: destabilization myc gsk blocked ras activated pi k pathway
+MISC--: unique control myc dynamics sequential phosphorylation allows myc integrate upstream signals erk pi k play critical roles controlling diverse cell fates citation citation citation
+MISC--: erk often exhibits early transient peak activation upon growth stimulation
+MISC--: peak followed varying residual activities depend cell lines growth factors
+OWNX--: this residual erk critical downstream signal encoding
+MISC--: example pc cells small residual erk activity result epidermal growth factor stimulation leads proliferation
+MISC--: contrast high residual erk activity result nerve growth factor stimulation same cell line leads differentiation citation citation
+OWNX--: residual erk level also been observed critical regulating c fos level fibroblasts citation
+OWNX--: pi k activation pattern depends cell lines stimulants detailed table s
+MISC--: bimodal various cell lines including wi nih t hepg when stimulated platelet derived growth factors fetal bovine serum citation citation citation
+MISC--: contrast pi k appears only early transient single peak u os pvsm cell lines stimulated other growth stimulants citation citation
+MISC--: bimodal activation pi k been shown important cell cycle regulation citation citation citation
+MISC--: particular second peak been found sufficient critical drive g s transition during cell cycle citation citation
+MISC--: temporal pattern myc activation closely correlates those erk pi k
+MISC--: myc protein reaches its peak at hours after growth stimulation decreases remains at intermediate value hump over hours before reducing its basal level citation citation
+MISC--: peak hump myc coincide erk peak nd pi k pulse respectively
+MISC--: observations suggest myc may sense integrate signals its two regulators
+AIMX--: gain insight into this control mechanism we constructed mathematical model analyze dynamics myc accumulation controlled sequential phosphorylation
+OWNX--: using this model we aimed investigate how signaling patterns erk pi k regulate myc dynamics at post translational level
+MISC--: also how robust myc dynamics respect network parameters phosphorylation dephosphorylation rate constants
+OWNX--: what unique about this strategy controlling myc accumulation sequentially modulating protein stability
+MISC--: this common strategy cells achieve reliable temporal control key regulatory proteins
+MISC--: exploring questions our work may provide insights into design features cell signaling networks guidance experimental intervention
+BASE--: conceptually our model defines unique module connects other models deal upstream signaling dynamics leading activation erk citation pi k citation citation well downstream dynamics leading mammalian cell fate decisions citation citation we further propose post translation regulation myc represents example generic dual kinase motif
+MISC--: appropriate parameters this motif will enable precise temporal sensing input signals

@@ -1,0 +1,44 @@
+MISC--: competence transiently differentiated state certain bacterial cells reach when faced stressful environment
+OWNX--: entrance into competence attributed excitability dynamics governing genetic circuit regulates this cellular behavior
+MISC--: like many biological behaviors entrance into competence stochastic event
+OWNX--: this case cellular noise responsible driving cell vegetative state into competence back
+AIMX--: this work we present novel numerical method analysis stochastic biochemical events use study excitable dynamics responsible competence bacillus subtilis
+OWNX--: starting finite state projection solution chemical master equation we develop efficient numerical tools accurately computing competence probability
+AIMX--: additionally we propose new approach sensitivity analysis stochastic events utilize elucidate robustness properties competence regulatory genetic circuit
+OWNX--: we also propose implement numerical method calculate expected time takes cell return competence
+AIMX--: although this study focused example cell differentiation bacillus subtilis our approach applied wide range stochastic phenomena biological systems
+MISC--: competence ability cell usually bacterium bind internalize transforming exogenous dna
+MISC--: under stressful environments nutrient limitations some cells enter competence while other cells commit irreversibly sporulation
+MISC--: entry competence transient probabilistic event facilitates copying exogenous dna citation citation
+MISC--: been shown among group cells only randomly chosen fraction enters competence citation citation
+MISC--: proper modeling correctly accounting noise model this phenomenon crucial understanding underlying biological explanation
+MISC--: few cells enter competence express high concentration key regulator comk activates hundreds genes including genes encoding dna uptake recombination systems citation citation
+MISC--: competence understood bistability pattern citation citation nonlinear system describing competence regulatory circuit excitable dynamical system
+MISC--: auto activation regulator comk responsible bistable response competence development
+MISC--: auto activation comk essential sufficient generate bistable expression pattern citation citation
+MISC--: specifically concentration inducer must cross certain threshold start positive feedback
+MISC--: different experimental studies concluded auto activation comk only needed factor bistability occur expression this protein citation citation citation
+MISC--: citation smits et
+MISC--: al discuss factors determine required threshold activation comk deduce other transcription factors raise lower threshold
+MISC--: although many proteins involved regulation competence there two main proteins play major role
+MISC--: s el et al citation propose deterministic model driven additive noise describe dynamics competence regulation
+AIMX--: we use reduced order stochastic differential equation model presented citation develop discrete stochastic model competence
+OWNX--: calculating probability expected time entering returning competence requires solving splitting probabilities first moment passage time
+MISC--: problem calculating first passage time been studied heavily literature stochastic difference equations fokker planck equations some special cases cme
+MISC--: detailed treatment this topic see citation citation references therein
+MISC--: researchers usually use monte carlo simulations calculate distribution first passage time when working he cme
+AIMX--: we propose this work alternative approach makes possible calculate states system will time evolves
+MISC--: main idea here aggregate regions state space over specie evolve into absorbing states
+OWNX--: this technique useful analytically computing distribution first passage time providing way deal infinite dimension state space over system evolves
+AIMX--: contributions this paper threefold
+AIMX--: first provides new method calculate exact probabilities biological phenomena where transient behaviors competence topic we chose study here occur
+MISC--: second shows how calculate sensitivities probabilities passing transient state respect system s parameters
+MISC--: third gives methodology calculate expected time takes cell return its transient state
+CONT--: all methods used analyze any biological system characteristic switching between two states while staying while unstable state
+AIMX--: this paper we start describing chemical reactions deterministic model
+OWNX--: we then generate chemical master equation our proposed discrete stochastic model
+MISC--: cme characterizes evolution probability density different discrete states
+AIMX--: we simulate using stochastic simulation algorithm show how solution approximated using finite state projection method
+OWNX--: we then conduct sensitivity analysis studying effect various system parameters probability cell enters competence
+OWNX--: this analysis shows usefulness our proposed numerical method analyzing roles different affinity transcription degradation rates etc driving cellular switching
+OWNX--: finally we analyze roles parameters determining expected time cell stays competence

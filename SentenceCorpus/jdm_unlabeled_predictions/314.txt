@@ -1,0 +1,29 @@
+MISC--: often research judgment decision making requires comparison multiple competing models
+MISC--: researchers invoke global measures rate correct predictions sum squared absolute deviations various models part this evaluation process
+MISC--: reliance measures hides often very high level agreement between predictions various models does not highlight properly relative performance competing models those critical cases where they make distinct predictions
+AIMX--: address this important problem we propose use pair wise comparisons models produce more informative targeted comparisons their performance we illustrate this procedure data two recently published papers
+OWNX--: we use multidimensional scaling comparisons map competing models
+OWNX--: we also demonstrate how intransitive cycles pair wise model performance signal certain models perform better given subset decision problems
+MISC--: field behavioral decision making large degree phenomena driven
+OWNX--: after certain empirical regularity discovered validated researchers test multiple models some old some new explain result
+MISC--: example every model decision making under risk expected account classical allais paradox
+MISC--: when new models proposed researchers often justify them series comparisons against older models field
+MISC--: there several approaches testing decision models
+MISC--: context axiomatic models there focus small subsets problems judiciously chosen diagnostic differentiate optimally between certain models citation
+MISC--: others seek data multiple published studies involving decision problems selected different researchers various often unspecified criteria compare how well models predict them citation
+MISC--: alternative approach compare models ability predict decision behavior sample problems sampled randomly well defined universe problems citation
+MISC--: all methods researcher assembles data set consisting array n decision problems m models
+MISC--: each problem there one empirical response decision di number n take one many forms binary choice probability choice pattern numerical value probability estimate certainty equivalent etc
+MISC--: set predictions di number n generated various models
+MISC--: there numerous ways evaluate fit models citation full review well beyond scope this note
+OWNX--: our purposes sufficient say most them based some discrepancy function fd d between responses predictions summarizes discrepancies across all n decisions formulated take its optimal desirable value case n perfect predictions
+MISC--: thus one always rank some cases also scale models according how close distant they perfect fit
+OWNX--: some simple examples functions proportion correct predictions predictions corrected chance b mean median fd d where f could rely squared deviations d d absolute deviations d d ratios d d their logarithms logd d c relative measures relative squared deviations d d d d measures based likelihood function data under certain model etc
+CONT--: illustrate approach we review some detail few studies brandstatter gigerenzer hertwig citation report results four model contests using different data sets total n number decision problems n number n number n number n number
+MISC--: they compared m number models used several sets parameters models free parameters cumulative prospect theory citation
+OWNX--: their measure fit was percent correct prediction majority subjects henceforth majority choice averaged across all n decision problems each data set
+MISC--: they also report percent correct prediction majority choice percent agreement between all model pairs across n number decision problems
+MISC--: similar approach used several chapters gigerenzer todd abc research group citation
+MISC--: hau pleskac kiefer hertwig citation considered n number decision problems involving number subjects three experiments compared m number models see figure number their paper
+OWNX--: their measure fit was overall percent correct predictions
+MISC--: erev et al citation analyzed three model contests each using different decision paradigm two problem sets n number each set

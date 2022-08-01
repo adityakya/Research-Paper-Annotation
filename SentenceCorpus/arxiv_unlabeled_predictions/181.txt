@@ -1,0 +1,34 @@
+AIMX--: this paper introduces model based upon games evolving network develops three clustering algorithms according
+MISC--: clustering algorithms data points clustering regarded players who make decisions games
+MISC--: network describing relationships among data points edge removing rewiring err function employed explore neighborhood data point removes edges connecting neighbors small payoffs creates new edges neighbors larger payoffs
+MISC--: connections among data points vary over time
+MISC--: during evolution network some strategies spread network
+OWNX--: consequence clusters formed automatically data points same evolutionarily stable strategy collected cluster so number evolutionarily stable strategies indicates number clusters
+MISC--: moreover experimental results demonstrated data points datasets clustered reasonably efficiently comparison other algorithms also provides indication effectiveness proposed algorithms keywords unsupervised learning data clustering evolutionary game theory evolutionarily stable strategy
+MISC--: cluster analysis important branch pattern recognition widely used many fields pattern analysis data mining information retrieval image segmentation
+MISC--: past thirty years many excellent clustering algorithms been presented say k means citation c citation support vector clustering svc citation spectral clustering citation etc data points clustering fixed various functions designed find separating hyperplanes
+CONT--: recent years however significant change been made
+MISC--: some researchers thought about why not those data points could move themselves just like agents something collect together automatically
+MISC--: therefore following their ideas they created few exciting algorithms citation data points move space according certain simple local rules preset advance
+MISC--: game theory came into being book named theory games economic behavior john von neumann oskar morgenstern citation
+OWNX--: this period cooperative game was widely studied
+MISC--: till s john nash published two well known papers present theory non cooperative game he proposed concept nash equilibrium proved existence equilibrium finite non cooperative game citation
+MISC--: although non cooperative game was established rigorous mathematics required players game must perfect rational even hyper rational
+MISC--: if this assumption could not hold nash equilibrium might not reached sometimes
+MISC--: other hand evolutionary game theory citation stems researches biology analyze conflict cooperation between animals plants
+MISC--: differs classical game theory focusing dynamics strategy change more than properties strategy equilibria does not require perfect rational players
+MISC--: besides important concept evolutionarily stable strategy citation evolutionary game theory was defined introduced john maynard smith george r
+OWNX--: price was often used explain evolution social behavior animals
+OWNX--: best our knowledge problem data clustering not been investigated based evolutionary game theory
+MISC--: so if data points dataset considered players games could clusters formed automatically playing games among them
+OWNX--: this question we attempt answer
+OWNX--: our clustering algorithm each player hopes maximize his own payoff so he constantly adjusts his strategies observing neighbors payoffs
+MISC--: course strategies evolving some strategies spread network players
+OWNX--: finally some parts will formed automatically each same strategy used
+MISC--: according different strategies played data points dataset naturally collected several different clusters
+AIMX--: remainder this paper organized follows section introduces some basic concepts methods about evolutionary game theory evolutionary game graph
+OWNX--: section model based upon games evolving network proposed described specifically
+OWNX--: section gives three algorithms based this model algorithms elaborated analyzed detail
+OWNX--: section introduces those datasets used experiments briefly then demonstrates experimental results algorithms
+MISC--: further relationship between number clusters number nearest neighbors discussed three edge removing rewiring err functions employed clustering algorithms compared
+OWNX--: conclusion given section

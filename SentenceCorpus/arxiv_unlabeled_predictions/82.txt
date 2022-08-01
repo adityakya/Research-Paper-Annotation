@@ -1,0 +1,21 @@
+OWNX--: purpose this note show how method maximum entropy mean mem may used improve parametric estimation when measurements corrupted large level noise
+OWNX--: method developed context concrete example estimation parameter exponential distribution
+OWNX--: we compare performance our method bayesian maximum likelihood approaches
+CONT--: suppose you want measure half life decaying nucleus life time some elementary particle some other random variable modeled exponential distribution describing say decay time life time process
+MISC--: assume well noise measurement process modeled centered gaussian random variable whose variance may same order magnitude decay rate measured
+MISC--: make things worse assume you only collect very few measurements
+MISC--: if symbol denotes realized value variable one only measure symbol symbol where symbol small mumbler say symbol symbol symbol denotes additive measurement noise
+MISC--: other words assume you know sample comes specific parametric distribution but contaminated additive noise
+MISC--: what do
+OWNX--: one possible approach apply small sample statistical estimation procedures
+OWNX--: but designed problems where variability due only random nature quantity measured there no other noise measurement still another possibility one we explore here apply maxentropic filtering method estimate both unknown variable noise level
+OWNX--: this we recast problem typical inverse problem consisting solving symbol symbol where symbol convex set symbol symbol some symbol symbol symbol symbol matrix depends how we rephrase our problem
+OWNX--: we could example consider following problem find symbol symbol our case symbol we set symbol we could consider collection symbol problems one every measurement then proceed carry estimation
+OWNX--: once we solved generic problem variations theme easy write down
+OWNX--: what important keep mind here output method filtered estimator symbol symbol itself estimator unknown parameter
+MISC--: novelty then filter out noise
+MISC--: method maximum entropy mean rather well suited solving problems like
+MISC--: see navaza early development dacunha castele camboa full mathematical treatment
+OWNX--: below we shall briefly review what method about then apply obtain estimator symbol
+OWNX--: section obtain maxentropic estimator section we examine some its properties particular we examine what results would if either noise level were small number measurements were large
+OWNX--: we devote section some simulations method compared bayesian maximum likelihood approaches

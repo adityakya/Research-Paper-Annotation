@@ -1,0 +1,29 @@
+MISC--: previous research role choice set size decision making focused decision outcomes satisfaction
+MISC--: contrast little known about interindividual differences preferences larger versus smaller choice sets let alone causes differences
+MISC--: drawing self efficacy theory two studies examined role decision making self efficacy preferences choice
+MISC--: using correlational approach study number n number found decision making self efficacy was positively associated preferences choice across range consumer decisions
+OWNX--: this association was found both between within subjects
+MISC--: study number n number experimentally manipulated decision making self efficacy incentive compatible choice among photo printers
+OWNX--: preferences choice pre choice information seeking were significantly lower low efficacy condition compared high efficacy condition control group
+MISC--: future research directions implications decision making theory public policy discussed
+MISC--: supermarket hospital consumers faced more choice than ever before citation
+MISC--: previous research this phenomenon focused almost exclusively consequences having more versus less choice citation
+MISC--: contrast very few studies investigated preferences choice how much choice people actually want
+MISC--: limited research this area suggests while larger choice sets generally more enticing citation there significant inter intra individual differences
+MISC--: empirically preferences choice were found vary across decision domains age groups even nationalities citation
+CONT--: although underlying mechanisms drive preferences choice not been systematically explored converging evidence points key role decision making self efficacy dmse
+BASE--: drawing self efficacy theory present research employs correlational study number experimental approaches study number systematically examine proposed link between dmse preferences choice
+MISC--: self efficacy refers belief one s ability succeed given task citation drives individuals prefer more challenging tasks persist more face challenges citation
+MISC--: two streams recent empirical work suggest dmse entails confidence ability make effective decisions may affect preferences choice
+MISC--: first individuals higher versus lower dmse prefer decisions more challenging complex citation seek more information when making decisions citation
+MISC--: latter effect been demonstrated across multiple domains ranging consumer choices citation career selection citation health related decisions citation
+MISC--: since dmse engenders preferences complex decisions increased information information complexity part parcel increased choice plausible dmse would also associated preferences larger choice sets
+OWNX--: additional support this notion stems finding individuals prefer more choice when decisions relatively simple compared more challenging conditions theory generate high versus low levels dmse respectively
+MISC--: example individuals more likely prefer larger versus smaller choice sets when there fewer versus more attributes consider when dominating alternatives present versus absent citation
+MISC--: one study involving hypothetical decisions among consumer products demonstrated individuals prefer larger assortments when they assume options within assortments will ordered based their preferences i e most least preferred versus not citation
+MISC--: similar vein individuals prefer increased choice when their choice relevant preferences highly accessible citation
+MISC--: combination findings suggest individuals prefer more choice when they expect able make effective decisions
+MISC--: although previous research consistent predictions derived self efficacy theory association between dmse preferences choices best our knowledge not been systematically examined
+OWNX--: address this research gap we conducted two studies investigate role dmse consumer decision making
+OWNX--: study number examined correlations between self report measures dmse preferences choice across multiple consumer domains
+MISC--: study number assessed effect experimental manipulations dmse preferences choice information seeking complex decision scenario realistic outcomes

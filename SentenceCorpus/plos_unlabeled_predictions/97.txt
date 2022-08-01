@@ -1,0 +1,45 @@
+MISC--: conversion soluble states into cross fibrillar aggregates property shared many different proteins peptides was hence conjectured generic feature polypeptide chains
+MISC--: increasing evidence now accumulating fibrillar assemblies generally characterized parallel register alignment strands contributed distinct protein molecules
+MISC--: here we assume universal mechanism responsible structure formation deduce sequence specific interaction energies between pairs protein fragments statistical analysis native folds globular proteins
+MISC--: derived fragment fragment interaction was implemented within novel algorithm prediction amyloid structure aggregation investigate role sequence heterogeneity driving specific aggregation into ordered self propagating cross structures
+MISC--: algorithm predicts parallel register arrangement sequence portions participate fibril cross core favoured most cases
+CONT--: however antiparallel arrangement correctly discriminated when present fibrils formed short peptides
+MISC--: predictions most aggregation prone portions initially unfolded polypeptide chains also excellent agreement available experimental observations
+MISC--: results corroborate recent hypothesis amyloid structure stabilised same physicochemical determinants those operating folded proteins
+OWNX--: they also suggest side chain side chain interaction across neighbouring strands key determinant amyloid fibril formation their self propagating ability
+MISC--: increasing number human pathologies associated conversion peptides proteins their soluble functional forms into well defined fibrillar aggregates citation citation
+MISC--: diseases broadly grouped into neurodegenerative conditions fibrillar aggregation occurs brain nonneuropathic localised amyloidoses aggregation occurs single type tissue other than brain nonneuropathic systemic amyloidoses aggregation occurs multiple tissues citation citation
+MISC--: fibrillar deposits associated human pathologies generally described amyloid fibrils when they accumulate extracellularly whereas term intracellular inclusions been suggested more appropriate when fibrils morphologically structurally related extracellular amyloid form inside cell citation
+MISC--: amyloid formation not restricted however those polypeptide chains recognised links protein deposition diseases
+MISC--: several other proteins no link been found form fibrillar aggregates vitro morphological structural tinctorial properties allow them classified amyloid like fibrils citation citation
+MISC--: this finding led idea ability form amyloid structure inherent property polypeptide chains encoded main backbone chain interactions
+MISC--: theoretical perspective was also recently shown simple considerations geometry symmetry sufficient explain within same sequence independent framework emergence limited menu native like conformations single chain aggregate structures multiple chains citation
+MISC--: generic ability form amyloid structure apparently been exploited living systems specific purposes some organisms been found convert during their normal physiological life cycle one more their endogenous proteins into amyloid like fibrils functional properties rather than deleterious effects citation citation
+MISC--: perhaps most surprising functions ability amyloid like fibrillar aggregates serve nonchromosomal genetic element
+MISC--: proteins ure p sup p het s adopt fibrillar conformation addition giving rise specific phenotypes appears self propagating transmissible infectious citation
+MISC--: their soluble states proteins able form fibrillar aggregates do not share any obvious sequence identity structural homology each other
+MISC--: spite differences precursor proteins morphological inspection reveals common properties resulting fibrils citation
+MISC--: images obtained transmission electron microscopy atomic force microscopy reveal fibrils usually consist protofilaments each about nm diameter citation
+MISC--: protofilaments generally twist together form fibrils typically nm wide citation citation associate laterally form long ribbons nm high up nm wide citation citation
+MISC--: x ray fibre diffraction data shown protein peptide molecules arranged so polypeptide chain forms strands run perpendicular long axis fibril citation
+MISC--: solid state nuclear magnetic resonance x ray micro nano crystallography other techniques systematic protein engineering coupled site directed spin labelling fluorescence labelling transformed our ability gain insight into structures fibrillar aggregates residue specific detail citation citation
+MISC--: advances allowed us go beyond generic notions fibrillar appearance presence cross structure
+MISC--: studies indeed allowed identification regions sequence form stabilise cross core fibrils opposed those stretches flexible exposed solvent
+MISC--: many cases arrangement various molecules fibrils also been determined clarifying nature intermolecular contacts structural stacking molecules along fibril axis
+MISC--: one frequent characteristic emerging studies particularly fibrils formed long sequences parallel register arrangements strands fibril core citation citation citation citation citation but antiparallel arrangements also possible especially shorter strands citation citation
+MISC--: at same time mutational studies amyloid aggregation kinetics revealed simple correlations between physico chemical properties aggregation propensities citation
+MISC--: this allowed development different methods successfully predict aggregation prone regions amino acid sequence full length protein citation citation
+OWNX--: all approaches focus predicting intrinsic aggregation propensity sequence stretch using only amino acid sequence input
+MISC--: citation possible parallel antiparallel arrangement sequence stretch itself was also taken into account
+OWNX--: molecular dynamics simulations sequence fragments mounted idealized strand templates either parallel antiparallel were used identify most amyloidogenic fragments specific case citation
+MISC--: template amyloid structure based pira also employed very recent method identifying fibril forming segments citation
+MISC--: yet unanswered question why pira found most frequent arrangement strands fibril core
+AIMX--: here we introduce computational approach editing pairwise energy function based propensities two residues found within sheet facing one another neighbouring strands determined dataset globular proteins known native structures
+OWNX--: we extract two different propensity sets depending orientation neighbouring strands
+OWNX--: our method associates energy scores specific pairings two sequence stretches same length further assumes distinct protein molecules involved fibril formation will adopt minimum energy pairings order better stabilise cross core
+OWNX--: novel feature our method ability predict registry intermolecular hydrogen bonds formed between amyloidogenic sequence stretches
+OWNX--: this way we rationalise observed tendency proteins assemble into parallel sheets individual strands register contributing form stackings same residue type along fibril axis
+OWNX--: our algorithm also able correctly discriminate orientation between intermolecular strands either parallel antiparallel
+AIMX--: further demonstration robustness approach we will illustrate ability our algorithm predict portions sequence forming cross core fibrils set proteins excellent agreement experimentally determined amyloid structures similar previously proposed methods citation citation
+OWNX--: our approach based key assumption universal mechanism responsible sheet formation both globular proteins fibrillar aggregates
+MISC--: successful predictions obtained this work suggest validity above hypothesis agreement unified framework presented previously citation

@@ -1,0 +1,33 @@
+MISC--: perception fundamentally underconstrained because different combinations object properties generate same sensory information
+MISC--: disambiguate sensory information into estimates scene properties our brains incorporate prior knowledge additional auxiliary sensory information constrain perceptual interpretations
+MISC--: example knowing distance object helps perceiving its size
+MISC--: literature contains few demonstrations use prior knowledge auxiliary information combined visual haptic disambiguation almost no examination haptic disambiguation vision beyond bistable stimuli
+MISC--: previous studies reported humans integrate multiple unambiguous sensations perceive single continuous object properties like size position
+OWNX--: here we test whether humans use visual haptic information individually jointly disambiguate size distance
+OWNX--: we presented participants ball moving depth changing diameter
+MISC--: because no unambiguous distance information available under monocular viewing participants rely prior assumptions about ball s distance disambiguate their size percept
+MISC--: presenting auxiliary binocular haptic distance information augments participants prior distance assumptions improves their size judgment accuracy though binocular cues were trusted more than haptic
+OWNX--: our results suggest both visual haptic distance information disambiguate size perception we interpret results context probabilistic perceptual reasoning
+MISC--: well over century citation citation psychologists considered question how brain uses visual angle sensations make judgments object s size overcoming confounding effect its distance but topic remains unsettled
+OWNX--: holway boring citation found when strong sensations object s distance were made available human size matching performance at different distances was high but when distance sensations were removed human perception object s size was erroneously dominated its visual angle
+MISC--: epstein et al citation surveyed literature regarding size distance invariance hypothesis citation holds retinal visual angle constrains perception object s size distance their ratio holds constant value concluded size distance invariance hypothesis was subject variety failures
+MISC--: several studies attributed participants mistaken size perceptions citation citation citation misjudgments physical distance while others point out specific experimental design choices task demands contribute reported failures size constancy citation citation
+MISC--: recently combe wexler citation reported size constancy stronger when relative distance between observer object varies due observer motion than when due object motion
+MISC--: findings highlight unsettled state current empirical knowledge about human size distance perception exacerbated absence unified theoretical account normative size distance perception
+OWNX--: we hypothesize brain makes size inferences incorporating multiple sensations based knowledge their generative relationship physical environment properties failures like inaccuracy systematic biases due poverty unreliability mistrust observed sensations
+OWNX--: our experiments tackle issue how brain incorporates distance information particular binocular haptic jointly perceive how object s size changing
+MISC--: size change perception surprisingly not been studied size distance perception literature bears close similarity static size perception because size change judgments based retinal image size ambiguous if information about object s motion depth unknown
+MISC--: however when auxiliary sensations indicating motion depth available observer may rule out size change motion combinations inconsistent auxiliary sensations unambiguously infer whether object inflating deflating
+OWNX--: we predicted despite inherent novelty stimuli participants abilities discriminate whether object inflated deflated would depend availability quality information about its motion depth
+OWNX--: because binocular haptic sensations provide information about depth we predicted they would each incorporated improving size change judgments
+OWNX--: thus our study answers two key questions does brain use distance change information size change perception
+MISC--: what roles binocular haptic distance change information
+OWNX--: our size change discrimination task presented participants object either inflated deflated while simultaneously either approaching receding asked them discriminate whether inflated deflated
+CONT--: most static size perception tasks use matching paradigms our task was advantageous because allowed us present single stimulus per trial avoid issues regarding relative comparison pairs stimuli
+MISC--: we provided participants different types auxiliary motion depth information binocular citation citation citation haptic citation citation both isolation simultaneously examined their inflation deflation judgments evaluate how auxiliary distance information influenced perceived size change
+MISC--: evidence use binocular haptic distance information size change perception not been reported previous studies cue integration citation suggest brain combines haptic binocular information proportion its reliability jointly improve spatial perception
+OWNX--: we found when distance change information was absent participants size change judgments closely matched object s image size change
+OWNX--: however when we provided participants auxiliary distance change sensations participants incorporated this additional information form more accurate size percepts were consistent both monocular auxiliary sensations
+MISC--: moreover when both binocular haptic information was presented most participants showed greater disambiguation size than when either was presented isolation
+OWNX--: results suggest size change perception uses knowledge how multi modal size distance sensations related interpret scene
+MISC--: we interpret findings framework probabilistic perceptual inference available sensations combined according their relationship scene properties their respective reliabilities citation citation

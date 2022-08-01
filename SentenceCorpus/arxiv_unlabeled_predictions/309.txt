@@ -1,0 +1,34 @@
+OWNX--: images segmented first using classifier predict affinity graph reflects degree image pixels must grouped together then partitioning graph yield segmentation
+MISC--: machine learning been applied affinity classifier produce affinity graphs good sense minimizing edge misclassification rates
+CONT--: however this error measure only indirectly related quality segmentations produced ultimately partitioning affinity graph
+OWNX--: we present first machine learning algorithm training classifier produce affinity graphs good sense producing segmentations directly minimize rand index well known segmentation performance measure
+MISC--: rand index measures segmentation performance quantifying classification connectivity image pixel pairs after segmentation
+OWNX--: using simple graph partitioning algorithm finding connected components thresholded affinity graph we able train affinity classifier directly minimize rand index segmentations resulting graph partitioning
+MISC--: our learning algorithm corresponds learning maximin affinities between image pixel pairs predictive pixel pair connectivity
+MISC--: supervised learning emerged serious contender field image segmentation ever since creation training sets images ground truth segmentations provided humans berkeley segmentation dataset citation
+CONT--: supervised learning requires parametrized algorithm map images segmentations objective function quantifies performance segmentation algorithm relative ground truth means searching parameter space segmentation algorithm optimum objective function
+MISC--: supervised learning method presented here segmentation algorithm consists parametrized classifier predicts weights nearest neighbor affinity graph over image pixels followed graph partitioner thresholds affinity graph finds its connected components
+MISC--: our objective function rand index citation recently been proposed quantitative measure segmentation performance citation
+OWNX--: we soften thresholding classifier output adjust parameters classifier gradient learning based rand index
+OWNX--: because maximin edges affinity graph play key role our learning method we call maximin affinity learning image segmentation malis
+MISC--: minimax path edge standard concepts graph theory maximin opposite sign sibling minimax
+MISC--: hence our work viewed machine learning application graph theoretic concepts
+MISC--: malis focuses improving classifier output at maximin edges because classifying edges incorrectly leads genuine segmentation errors splitting merging segments
+OWNX--: best our knowledge malis first supervised learning method based optimizing genuine measure segmentation performance
+MISC--: idea training classifier predict weights affinity graph not novel
+MISC--: affinity classifiers were previously trained minimize number misclassified affinity edges citation
+MISC--: this not same optimizing segmentations produced partitioning affinity graph
+MISC--: there been attempts train affinity classifiers produce good segmentations when partitioned normalized cuts citation
+MISC--: but approaches do not optimize genuine measure segmentation performance rand index
+BASE--: work bach jordan citation closest our work
+CONT--: however they only minimize upper bound renormalized version rand index
+MISC--: both approaches require many approximations make learning tractable
+MISC--: other related work classifiers been trained optimize performance at detecting image pixels belong object boundaries citation
+OWNX--: our classifier also viewed boundary detector since nearest neighbor affinity graph essentially same boundary map up sign inversion
+OWNX--: however we combine our classifier graph partitioner produce segmentations
+OWNX--: classifier parameters not trained optimize performance at boundary detection but optimize performance at segmentation measured rand index
+MISC--: there also methods supervised learning image labeling using markov conditional random fields citation
+MISC--: but image labeling more similar multi class pixel classification rather than image segmentation latter task may require distinguishing between multiple objects single image all same label
+MISC--: cases where probabilistic random field models been used image parsing segmentation models either been simplistic tractability reasons citation been trained piecemeal
+OWNX--: instance tu et al citation separately train low level discriminative modules based boosting classifier train high level modules their algorithm model joint distribution image labeling
+MISC--: models never been trained minimize rand index

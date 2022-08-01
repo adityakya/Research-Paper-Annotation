@@ -1,0 +1,33 @@
+MISC--: people overestimate their affective reactions future events decisions phenomenon been termed impact bias
+OWNX--: evidence suggests completing diary detailing events contemporaneous focal one de biases judgments affect
+MISC--: generally assumed this because diary completion helps people realize they will distracted focal event
+CONT--: however there another possibility de biasing may occur because diary completion interferes processing responsible bias
+OWNX--: first experiment we showed diary completion also lowers affect associated past decisions
+OWNX--: second experiment we showed solving anagrams same effect
+OWNX--: third experiment demonstrates this not because affect judgments influenced mood changes brought about solving anagrams
+OWNX--: indeed monitoring moods lowered affect same way diary completion
+OWNX--: appears cognitive tasks any sort interfere processing required judgments affect
+MISC--: recent evidence suggests people estimate their affective reactions future events will more intense than they actually citation
+MISC--: misjudgments been termed impact bias citation
+MISC--: wilson et al citation suggested psychological mechanism underlies this phenomenon what they termed focalism
+MISC--: wilson et al s words when people generate predictions about how they will feeling after future event people focus too much event question not enough consequences other future events citation
+MISC--: focalism also been found influence people s judgments their affective reactions past events citation
+MISC--: example mitchell et al citation found people s retrospective judgments enjoyable events bicycle trips vacations were more positive than their judgments were contemporaneous events
+MISC--: been suggested retrospective focalism arises same reason prospective focalism people pay too much attention focal event not enough consequences other events occur at same time focal event citation
+MISC--: wilson et al citation demonstrated asking people complete diary activities they expected engaged around time focal event reduced intensity emotions associated event
+MISC--: they argued diary manipulation had its effect reducing focalism specifically they suggested effect diary completion reduce extent people expect thinking about focal event after occurred
+MISC--: they suggested this effect could brought about one two ways
+OWNX--: first asking people complete diary may make them realize other events would occupy their thoughts thereby distract them thinking about target event
+MISC--: result they would ensure they moderated their affective forecasts
+MISC--: second people may focus their attention affective consequences other events rather than likelihood being distracted those events
+MISC--: other words they may believe affective consequences focal event will diluted cancelled out affective consequences other events occurring around same time
+MISC--: result they attenuate their affective forecasts focal event
+OWNX--: fact wilson et al citation found affective valence events participants diaries had no effect level affect was forecast focal event
+MISC--: consequently researchers concluded affective competition hypothesis was not viable distraction hypothesis provided more plausible account their diary manipulation
+OWNX--: here we two aims
+OWNX--: first we aim investigate whether diary completion attenuates retrospective judgment post decisional affect i e regret disappointment well prospective judgments affect
+OWNX--: second we aim investigate adequacy distraction account account defocusing both retrospective prospective judgments
+OWNX--: particular we shall contrast task interference account
+OWNX--: according this alternative view defocusing occurs because processing subserving affect assessment impaired costs associated task switching
+MISC--: more specifically judgments affect associated particular event likely involve cognitive processes operate contents working memory
+MISC--: requiring people perform additional task diary completion disrupts processes because makes its own demands working memory

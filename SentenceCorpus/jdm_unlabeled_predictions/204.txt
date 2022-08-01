@@ -1,0 +1,18 @@
+OWNX--: we report experiment exploring sequential context effects strategy choices one shot prisoner s dilemma pd game
+MISC--: rapoport chammah citation shown some pds cooperative lead high cooperation rate whereas others uncooperative
+MISC--: participants played very cooperative very uncooperative games against anonymous partners
+CONT--: order games were played affected their cooperation rate producing perceptual contrast appeared only between trials but not between two separate sequences games
+MISC--: findings suggest people may not stable perceptions absolute cooperativeness
+MISC--: instead they judge cooperativeness each fresh game only relation previous game
+MISC--: observed effects suggest principles underlying judgments about highly abstract magnitudes cooperativeness may similar principles governing perception sensory magnitudes
+MISC--: most applications standard normative models whether individual strategic decision making make basic assumption each risky prospect game considered separately resulting choice should based only attributes particular prospect game citation
+MISC--: validity this related independence assumptions been challenged extensively past especially context individual decision making under risk
+MISC--: thus allais citation first demonstrated behavior violating independence axiom expected utility theory here independence between mutually exclusive possible outcomes
+MISC--: later regret theory citation showed how regret modify utility outcome results particular choice depending outcomes would resulted other choices choice set
+MISC--: recent psychological theories individual decision making also been developed prospects judged relation one another stochastic difference model citation multialternative decision field theory citation componential context model citation decision sampling citation
+MISC--: theories all common idea mere presence option choice set may change way another option judged more broadly preferences constructed afresh light salient options each situation recent past
+MISC--: thus preference constructed rather than revealed citation
+MISC--: attempt ground this constructivist idea onto some fundamental properties perceptual system stewart chater stott reimers citation describe phenomenon called prospect relativity perceived value risky prospect e g p chance x relative other prospects presented
+MISC--: similar effects were also found financial saving investment decision making under risk citation
+MISC--: prospect relativity effects counter expected utility theory basic normative principle individual choice assumes perceived value each prospect should dependent only its own attributes
+MISC--: stewart et al citation suggested this phenomenon arises because way magnitudes define prospects defined phenomenon common origin similar psychophysical effects perception sensory magnitudes like brightness loudness citation

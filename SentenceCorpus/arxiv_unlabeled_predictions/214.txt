@@ -1,0 +1,39 @@
+AIMX--: this paper introduces new approach solve sensor management problems
+OWNX--: classically sensor management problems well formalized partially observed markov decision processes pompd
+MISC--: original approach developped here consists deriving optimal parameterized policy based stochastic gradient estimation
+AIMX--: we assume this work possible learn optimal policy off line simulation using models environement sensor s
+OWNX--: learned policy then used manage sensor s
+OWNX--: order approximate gradient stochastic context we introduce new method approximate gradient based infinitesimal approximation ipa
+MISC--: effectiveness this general framework illustrated managing electronically scanned array radar
+MISC--: years after years complexity performances many sensors increased leading more more complex sensor s based systems supply decision centers increasing amount data
+MISC--: number types agility sensors along increased quality data far outstrip ability human manage them often difficult compare how much information gained way given management scheme citation
+MISC--: results this necessity derive unmanned sensing platforms capacity adapt their environment citation
+MISC--: this problem often refered sensor s management problem
+MISC--: more simple situations operational context may lead works sensor s management like radar infrared sensor case citation
+MISC--: general definition this problem could then sensor management effective use available sensing database capabilities meet mission goals
+MISC--: many applications deal military applications classical one being detect track tp identify smart targets smart target change its way moving its way sensing when detects under analysis several sensors
+OWNX--: questions then following at each time how must we group sensors how long direction functioning mode
+MISC--: increasing complexity targets detected tracked identified makes management even more difficult led development researches definition optimal sensor management scheme targets sensors treated altogether complex dynamic system citation
+MISC--: sensor management become very popular this last years many approaches found litterature
+MISC--: citation citation authors use modelling detection process electronically scanned array esa radar propose management scheme during detection step
+MISC--: citation information based approach use manage set sensors
+MISC--: theorical point view sensor management modelled partially observable markov decision process pomdp citation
+MISC--: whatever underlying application sensor management problem consists choosing at each time symbol action symbol within set symbol available actions
+MISC--: choice symbol generally based density state vector symbol describing environment system variables system itself
+OWNX--: generally assumed state at least part this state markovian
+MISC--: moreover most applications we only access partial information state symbol must estimated measurements symbol
+OWNX--: this estimation process often derived within bayesian framework where we use state dynamics observation models symbol symbol where symbol symbol symbol symbol respectively stands state noise measurements noise state dynamics measurement function
+MISC--: symbol symbol generally time varying functions
+MISC--: control problem consists finding scheduling policy symbol i e select symbol given past possible futures
+MISC--: however this control problem may theorical solution generally untractable practice
+MISC--: however few works propose optimal solution frame pomdps like citation
+MISC--: beside several works been carried out find sub optimal policies like instance myopic policies
+MISC--: reinforcement learning q learning also been used propose solution citation
+AIMX--: we propose this paper look policy within class parametrized policy symbol learn means learn optimal value symbol
+AIMX--: funding our work approach described citation we assume possible learn this policy simulation using models overall system
+OWNX--: once optimal parameter been found used manage sensor s
+AIMX--: frame this work being detection localization targets we show last part this paper how may applied management esa radar
+OWNX--: section described modelling sensor management problem using pomdp approach
+OWNX--: section we derive algorithm learn parameter policy
+OWNX--: section we show how this method may used tasking esa radar
+OWNX--: finally section exhibits firts simulations results

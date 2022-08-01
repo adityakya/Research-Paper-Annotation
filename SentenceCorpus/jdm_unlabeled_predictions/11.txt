@@ -1,0 +1,22 @@
+MISC--: decision research psychology traditionally been influenced homo oeconomicus metaphor its emphasis normative models deviations predictions those models
+MISC--: contrast principal metaphor cognitive psychology conceptualizes humans information processors employing processes perception memory categorization problem solving so
+MISC--: many processes described cognitive theories similar those involved decision making thus increasing cross fertilization between two areas important endeavour
+MISC--: wide range models metaphors been proposed explain describe information processing many models been applied decision making ingenious ways
+MISC--: this special issue encourages cross fertilization between cognitive psychology decision research providing overview current perspectives one area continues highlight benefits synergistic approach cognitive modeling multi attribute decision making
+OWNX--: this introduction we discuss aspects cognitive system need considered when modeling multi attribute decision making e g automatic versus controlled processing learning memory constraints metacognition illustrate how aspects incorporated into approaches proposed contributors special issue
+OWNX--: we end discussing challenges posed contrasting sometimes incompatible assumptions models metaphors
+MISC--: traditional approach study judgment decision making jdm compare judgment decision considered judgment about what do citation standard benchmark
+MISC--: comparison enables evaluation whether particular judgment good bad relative standard
+MISC--: normative models provide standards valuable because their clear sets rules axioms those derived economics expected utility theory mathematics probability theory used test predictions about human behavior
+MISC--: when behavior deviates predictions normative models i e biases observed attempts made ascertain why often techniques overcoming biases prescribed
+CONT--: this approach its focus deviations normative models contrasts ideal homo oeconomicus apparent reality cognitive miser even loser been enormously influential useful
+CONT--: however not been without its critics citation
+MISC--: both metaphors fall short psychology s actual goal because they tend define human decision making what not citation consequence jdm research tended follow its own path some would argue become disconnected much psychology general cognitive psychology particular citation
+MISC--: this disconnection great pity given many issues at core understanding human judgment decision making necessarily central wider goal understanding human cognition
+MISC--: papers this special issue judgment decision making grew symposium held at max planck institute research collective goods focused one area jdm research we believe will continue benefit its overlap more mainstream cognitive psychology
+OWNX--: area multi attribute judgment symposium explored recent advances cognitive modeling approaches been brought bear basic question how we make judgments when faced multiple pieces information
+MISC--: number years since seminal attempt john payne citation make jdm research more cognitive wide range approaches cognitive psychology been applied this question
+OWNX--: our aim this issue provide reader up date overview approaches emphasize important influential advances made taking interface between jdm cognitive psychology seriously
+OWNX--: contrasting different approaches allows identification possible boundary conditions their appropriateness valid models cognitive processing we hope will suggest fruitful avenues future research
+AIMX--: this paper structured follows we begin brief introduction citation serves highlight things we know about cognition should incorporated into models multi attribute judgment we then discuss briefly how aspects addressed some models considered contributors special issue
+MISC--: this collection models however cannot simply viewed complementary accounts since they sometimes conflict respect fundamental assumptions

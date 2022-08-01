@@ -1,0 +1,21 @@
+OWNX--: we propose method support vector machine classification using indefinite kernels
+OWNX--: instead directly minimizing stabilizing nonconvex loss function our algorithm simultaneously computes support vectors proxy kernel matrix used forming loss
+MISC--: this interpreted penalized kernel learning problem where indefinite kernel matrices treated noisy observations true mercer kernel
+CONT--: our formulation keeps problem convex relatively large problems solved efficiently using projected gradient analytic center cutting plane methods
+OWNX--: we compare performance our technique other methods several standard data sets
+OWNX--: support vector machines svm become central tool solving binary classification problems
+OWNX--: critical step support vector machine classification choosing suitable kernel matrix measures similarity between data points must positive semidefinite because formed gram matrix data points reproducing kernel hilbert space
+MISC--: this positive semidefinite condition kernel matrices also known mercer s condition machine learning literature
+MISC--: classification problem then becomes linearly constrained quadratic program
+BASE--: here we present algorithm svm classification using indefinite kernels i e kernel matrices formed using similarity measures not positive semidefinite
+OWNX--: our interest indefinite kernels motivated several observations
+MISC--: first certain similarity measures take advantage application specific structure data often display excellent empirical classification performance
+MISC--: unlike popular kernels used support vector machine classification similarity matrices often indefinite so do not necessarily correspond reproducing kernel hilbert space see citation discussion particular application classification indefinite kernels image classification using earth mover s distance was discussed citation
+MISC--: similarity measures protein sequences smith waterman blast scores indefinite yet provided hints constructing useful positive semidefinite kernels those decribed citation been transformed into positive semidefinite kernels good empirical performance see citation example
+MISC--: tangent distance similarity measures described citation citation invariant various simple image transformations also shown excellent performance optical character recognition
+OWNX--: finally sometimes impossible prove some kernels satisfy mercer s condition numerical complexity evaluating exact positive kernel too high proxy not necessarily positive semidefinite kernel used instead see citation example
+OWNX--: both cases our method allows us bypass limitations
+MISC--: our objective here derive efficient algorithms directly use indefinite similarity measures classification
+MISC--: our work closely follows spirit recent results kernel learning see citation citation where kernel matrix learned linear combination given kernels result explicitly constrained positive semidefinite
+MISC--: while this problem numerically challenging citation adapted smo algorithm solve case where kernel written positively weighted combination other kernels
+OWNX--: our setting here we never numerically optimize kernel matrix because this part problem solved explicitly means complexity our method substantially lower than classical kernel learning algorithms closer practice algorithm used citation who formulate multiple kernel learning problem citation semi infinite linear program solve column generation technique similar analytic center cutting plane method we use here

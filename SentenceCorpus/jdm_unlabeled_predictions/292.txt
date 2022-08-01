@@ -1,0 +1,26 @@
+MISC--: researchers typically use incentives money course credit order obtain participants who engage specific behaviors interest researcher
+MISC--: there however little understanding agreement effects different types levels incentives used
+MISC--: some results domain statistical reasoning suggest performance differences previously deemed theoretically important may actually due differences incentive types across studies number participants completed one five variants statistical reasoning task they received either course credit flat fee payment performance based payment incentives
+MISC--: successful task completion was more frequent performance based incentives than either other incentive types
+MISC--: performance moderately difficult tasks compared very easy very hard tasks was most sensitive incentives
+MISC--: results help resolve existing debates about inconsistent findings guide more accurate comparisons across studies applied beyond research settings
+MISC--: behavioral sciences research participants typically must provided some type incentive their participation much like employees typically must paid
+MISC--: although long been noted amount incentive provided animals influence subsequent performance citation use research incentives humans been characterized both inconsistencies across fields controversy about effectiveness
+MISC--: norm psychological research tie research participation course credit often part introductory psychology course occasionally some other form set payment amount i e flat fee
+MISC--: contrast norm economics research pay participants money scale those payments performance within research i e performance based incentives
+MISC--: recently been noted discrepancies methodology implications cross disciplinary variations results theoretical conclusions research
+CONT--: retrospective reviews past studies made case there real issue regarding effects participant incentives but they disagree what studies show citation
+MISC--: camerer hogarth citation focused performance based incentives found little evidence global improvements performance but more subtle effects reduced variability responses reduced presentation effects perhaps performance improvements specifically judgment tasks responsive better effort
+MISC--: ortmann colleagues citation found similar results camerer hogarth but also found reason more optimistic about effects financial incentives
+MISC--: they concluded majority cases where payments made difference they improved people s performance p number although payments do not guarantee optimal decisions many cases they bring decisions closer predictions normative models
+MISC--: moreover equally important they reduce data variability substantially p number
+MISC--: within psychology there been general debate about effectiveness incentives generally financial incentives some arguing finding incentives important motivators citation but others taking contrary positions finding null results citation
+MISC--: two factors complicate this controversy
+MISC--: first factor use diverse behaviors effects incentives been assessed ranging simple perceptual tasks citation complex social coordination tasks citation
+MISC--: if often supposed financial incentives should increase effort tasks this will manifested only tasks additional effort yields clear response improvement
+MISC--: tasks participants already performing at near their best not likely show much improvement nor tasks so difficult beyond participant s abilities
+OWNX--: second factor type incentive used
+MISC--: when financial incentives used psychology they typically flat fee payments more directly analogous non financial course credit payments norm psychology but both very different terms incentive structure performance based financial incentives
+MISC--: therefore remains unclear how different types incentives do do not systematically affect performance across different types tasks different levels task difficulty
+MISC--: experimental economics contrast researchers commonly use performance based financial incentives reject methodology typical psychology insufficient several respects citation
+OWNX--: specifically argued performance linked incentives serve reduce variance performance b avoid problems satiation i e more money always desirable thereby maintaining high levels attention motivation c make target behaviors clear easy establish d maximize efforts towards optimal behavior performance

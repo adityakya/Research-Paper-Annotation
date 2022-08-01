@@ -1,0 +1,46 @@
+MISC--: influenza transmitted through respirable inspirable direct droplet spray contact modes
+MISC--: how modes affected features virus strain host population environment only recently come under investigation
+MISC--: discrete event continuous time stochastic transmission model was constructed analyze environmental processes through virus passes one person another via different transmission modes explore factors increase decrease different modes transmission
+MISC--: exception inspiratory route each route its own cause high transmission isolation other modes
+OWNX--: mode specific transmission was highly sensitive parameter values
+MISC--: example droplet respirable transmission usually required high host density while contact route had no requirement
+MISC--: depending specific context one more modes may sufficient cause high transmission while other contexts no transmission may result
+MISC--: because this when making intervention decisions involve blocking environmental pathways generic recommendations applied indiscriminately may ineffective instead intervention choice should contextualized depending specific features people virus strain venue question
+MISC--: june who declared h n influenza virus pandemic
+MISC--: health organizations worldwide were prompted escalate their efforts minimize transmission within their jurisdictions
+MISC--: airports began monitor incoming passengers while schools increased their already intensive surveillance activities
+OWNX--: recommendations were established regard masks hygiene decontamination isolation suspected cases
+MISC--: this interest intervention control person person transmitted illnesses multiple potential routes transmission began intensify during emergence sars later h n virus
+MISC--: heightened awareness potential another pandemic influenza led increased funding study non pharmaceutical interventions cdc well increased efforts modeling influenza transmission
+OWNX--: studies were funded order better understand optimal intervention control strategies
+MISC--: much insight was gained into influenza mitigation strategies border closure social distancing antiviral prophylaxis restriction public transportation school closure citation citation
+MISC--: date however little known about relative contributions different influenza transmission modes how might vary due heterogeneity viral strain host environment
+AIMX--: this manuscript explores potential effects unknown factors presenting transmission model structure explicitly describes environmental processes through viruses pass one person another thereby distinguishing different modes transmission analytical approach explores factors increase decrease different modes transmission under given model structure
+MISC--: model analyzed environmental infection transmission system model elaborates approach models li et al citation formulating model discrete event framework greatly expanding details various processes involved
+MISC--: does not define contact events transmission probabilities each event most transmission models do citation
+OWNX--: problem approach defining what constitutes contact
+OWNX--: instead we define events related virus excretion environmental survival uptake causation infection
+MISC--: this allows us address events at level more relevant possible interventions construction more meaningful causal theory
+MISC--: inform relevant intervention options influenza we consider four potential modes transmission respirable inspirable direct droplet spray contact mediated transmission citation citation
+OWNX--: this manuscript we consider each mode follows
+MISC--: respirable transmission occurs when viruses small particles inhaled deposit alveolar region lower respiratory tract
+MISC--: inspirable transmission occurs when viruses medium size particles inhaled deposit upper respiratory tract
+MISC--: direct droplet spray transmission occurs when viruses large particles cough sneeze infected individual deposit directly susceptible individual s mucous membranes
+MISC--: contact transmission occurs when infected person contaminates their own hands contaminates surfaces via their hands via droplets virus laden large particles
+MISC--: transfer pathogens may then result contamination hands others who then may touch their eyes nose mouth self inoculate potentially infecting upper respiratory tract
+AIMX--: we assess how different feasible model parameters influence how much transmission follows different routes
+MISC--: example different viruses may different infectivity survivability transferability shedding profiles
+MISC--: similarly among different populations who different behaviors susceptibility profiles shedding profiles same virus may different effects depending type population present
+MISC--: finally even identical viral strains human populations environmental venues may variable host densities surface area volume ratios host movement patterns generate different population level infection outcomes
+OWNX--: diverse sources heterogeneity we address form corners epidemiologic triad
+OWNX--: we assess effects sources heterogeneity relative magnitude influenza transmission modes scenario where all individuals move randomly identical fashion
+OWNX--: we construct detailed stochastic individual based model environmental influenza transmission
+OWNX--: we use values empirical literature well expert judgment parameterize this model
+OWNX--: we apply upper lower parameter constraints parameters obtain latin hypercube sample this constrained parameter space
+OWNX--: we analyze resulting outcome space respect how different transmission modes more less important specific contexts
+BASE--: this work we contribute body literature discussing dominant mode influenza transmission citation citation citation
+BASE--: additionally this work takes incremental step forward previous environmental infection transmission models citation citation citation citation we model all four modes influenza transmission simultaneously we do so agent based framework rather than ordinary differential equation based framework this model solely informed parametrically empirical work no model fitting optimization procedures were used parameterize this model
+OWNX--: we explicitly point out where holes empirical literature exist
+AIMX--: we show depending scenario one mode may more less important than another
+MISC--: therefore when intervening generic recommendations applied indiscriminately may ineffective instead intervention choice should contextualized depending specific features people virus venue question
+OWNX--: we consider how features related pathology behavior microbiology host pathogen environment alter magnitude transmission via each mode

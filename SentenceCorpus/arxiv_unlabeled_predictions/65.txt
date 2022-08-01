@@ -1,0 +1,41 @@
+MISC--: observations consisting measurements relationships pairs objects arise many settings protein interaction gene regulatory networks collections author recipient email social networks
+MISC--: analyzing data probabilisic models delicate because simple exchangeability assumptions underlying many boilerplate models no longer hold
+AIMX--: this paper we describe latent variable model data called mixed membership stochastic blockmodel
+OWNX--: this model extends blockmodels relational data ones capture mixed membership latent relational structure thus providing object specific low dimensional representation
+OWNX--: we develop general variational inference algorithm fast approximate posterior inference
+OWNX--: we explore applications social protein interaction networks
+MISC--: keywords hierarchical bayes latent variables mean field approximation statistical network analysis social networks protein interaction networks
+MISC--: modeling relational information among objects pairwise relations represented graphs becoming important problem modern data analysis machine learning
+MISC--: many data sets contain interrelated observations
+MISC--: example scientific literature connects papers citation web connects pages links protein protein interaction data connects proteins physical interaction records
+OWNX--: settings we often wish infer hidden attributes objects observed measurements pairwise properties
+OWNX--: example we might want compute clustering web pages predict functions protein assess degree relevance scientific abstract scholar s query
+MISC--: unlike traditional attribute data collected over individual objects relational data violate classical independence exchangeability assumptions typically made machine learning statistics
+MISC--: fact observations interdependent their very nature this interdependence necessitates developing special purpose statistical machinery analysis
+MISC--: there history research devoted this end
+OWNX--: one problem been heavily studied clustering objects uncover group structure based observed patterns interactions
+MISC--: standard model based clustering methods eg mixture models not immediately applicable relational data because they assume objects conditionally independent given their cluster assignments
+MISC--: latent stochastic blockmodel citation represents adaptation mixture modeling dyadic data
+OWNX--: model each object belongs cluster relationships between objects governed corresponding pair clusters
+OWNX--: via posterior inference model one identify latent roles objects possibly play govern their relationships each other
+MISC--: this model originates stochastic blockmodel where roles objects known advance citation
+MISC--: recent extension this model relaxed finite cardinality assumption latent clusters via nonparametric hierarchical bayesian formalism based dirichlet process prior citation
+MISC--: latent stochastic blockmodel suffers limitation each object only belong one cluster other words play single latent role
+MISC--: real life not uncommon encounter more intriguing data entities multi facet
+MISC--: example when protein social actor interacts different partners different functional social contexts may apply thus protein actor may acting according different latent roles they possible play
+AIMX--: this paper we relax assumption single latent role actors develop mixed membership model relational data
+MISC--: mixed membership models latent dirichlet allocation citation emerged recent years flexible modeling tool data where single cluster assumption violated heterogeneity within data point
+MISC--: they been successfully applied many domains document analysis citation surveys citation image processing citation transcriptional regulation citation population genetics citation
+MISC--: mixed membership model associates each unit observation multiple clusters rather than single cluster via membership probability like vector
+MISC--: concurrent membership data different clusters capture its different aspects different underlying topics words constituting each document
+MISC--: mixed membership formalism particularly natural idea relational data where objects bear multiple latent roles cluster memberships influence their relationships others
+OWNX--: we will demonstrate mixed membership approach relational data lets us describe interaction between objects playing multiple roles
+MISC--: example some protein s interactions may governed one function other interactions may governed another function
+MISC--: existing mixed membership models not appropriate relational data because they assume data conditionally independent given their latent membership vectors
+OWNX--: relational data where each object described its relationships others we would like assume ensemble mixed membership vectors help govern relationships each object
+MISC--: conditional independence assumptions modern mixed membership models do not apply
+OWNX--: this paper we develop mixed membership models relational data develop fast variational inference algorithm inference estimation demonstrate application our technique large scale protein interaction networks social networks
+OWNX--: our model captures multiple roles objects exhibit interaction others relationships between those roles determining observed interaction matrix
+OWNX--: mixed membership latent block structure reliably recovered relational data section
+MISC--: application friendship network among students tests model real data set where well defined latent block structure exists section
+OWNX--: application protein interaction network tests what extent our model reduce dimensionality data while revealing substantive information about functionality proteins used inform subsequent analyses section

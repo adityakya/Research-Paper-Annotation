@@ -1,0 +1,48 @@
+MISC--: extracellular matrix plays critical role orchestrating events necessary wound healing muscle repair morphogenesis new blood vessel growth cancer invasion
+OWNX--: this study we investigate influence extracellular matrix topography coordination multi cellular interactions context angiogenesis
+OWNX--: do this we validate our spatio temporal mathematical model angiogenesis against empirical data within this framework we vary density matrix fibers simulate different tissue environments explore possibility manipulating extracellular matrix achieve pro anti angiogenic effects
+OWNX--: model predicts specific ranges matrix fiber densities maximize sprout extension speed induce branching interrupt normal angiogenesis independently confirmed experiment
+OWNX--: we then explore matrix fiber alignment key factor contributing peak sprout velocities mediating cell shape orientation
+OWNX--: we also quantify effects proteolytic matrix degradation tip cell sprout velocity demonstrate degradation promotes sprout growth at high matrix densities but inhibitory effect at lower densities
+OWNX--: our results discussed context ecm targeted pro anti angiogenic therapies tested empirically
+MISC--: extracellular matrix major component extravascular tissue region stroma plays central role morphogenesis including embryogenesis citation tissue repair wound healing citation new blood vessel growth citation cancer invasion citation
+MISC--: large body research concentrated understanding how cell ecm interactions impact regulate morphogenic processes
+OWNX--: results investigations illuminate active role ecm transmitting biochemical signals mechanical forces mediate cell survival phenotype shape orientation
+OWNX--: this area continues target intense investigation
+MISC--: cells equipped upregulate transmembrane receptors enable them receive signals interact their environment
+MISC--: integrins one receptor stimulated various proteins ecm citation citation
+MISC--: endothelial cells attach directly collagen fibers ecm through formula integrin receptors citation
+OWNX--: biochemical signals originating within cell affect integrin ligand binding affinity consequently modulate cellular adhesion matrix
+MISC--: focal adhesion complexes form bind directly cell s cytoskeleton citation
+OWNX--: once assembled focal adhesion anchors cell ecm used cell movement
+MISC--: focal adhesions assembled disassembled dynamically facilitate cell migration
+MISC--: migratory guidance via focal adhesion binding sites ecm phenomenon referred contact guidance plays key role guiding new vessel growth citation
+MISC--: physical properties ecm density heterogeneity stiffness affect cell behavior also area current investigation
+MISC--: matrigel popular gelatinous protein substrate vitro experiments angiogenesis largely composed collagen laminin contains growth factors all provide environment conducive cell survival
+MISC--: experiments endothelial cells matrigel increasing stiffness gel disrupting organization cellular cytoskeleton inhibits formation vascular cell networks citation citation
+MISC--: cells respond alterations mechanical properties ecm example upregulating their focal adhesions stiffer substrates citation
+MISC--: anchorage dependent cells including endothelial cells increasing stiffness ecm therefore results increased cell traction slower migration speeds citation
+MISC--: measurements matrigel stiffness function density show positive relationship between two mechanical properties citation
+OWNX--: density increases so does matrix stiffness
+OWNX--: light two findings not surprising this experimental study also shows slower cell migration speeds matrix density increases citation
+MISC--: moreover matrices higher fiber density transfer less strain cell citation experiments endothelial cells cultured collagen gels demonstrate directional sprouting called branching induced collagen matrix tension citation
+MISC--: thus via integrin receptors mechanical properties ecm influence cell matrix interactions modulate cell shape cell migration speed formation vascular networks
+MISC--: understanding how individual cells interpret biochemical mechanical signals ecm only part whole picture
+MISC--: morphogenic processes also require multicellular coordination
+MISC--: addition guidance cues cells receive ecm they also receive signals each other
+MISC--: during new vessel growth cells adhere each other through cell cell junctions called cadherins order migrate cells must coordinate integrin mediated focal adhesions cell cell bonds
+MISC--: this process referred collective cluster migration citation
+MISC--: during collective migration cell clusters often organize two dimensional sheets citation
+MISC--: cells also ability condition ecm invasion producing proteolytic enzymes degrade specific ecm proteins citation
+MISC--: addition cells synthesize ecm components collagen fibronectin citation citation further reorganize ecm forces they exert during migration citation citation citation
+MISC--: collagen fibrils align response mechanical loading cells reorient direction applied load citation
+MISC--: tractional forces exerted vascular endothelial cells matrigel cause cords tracks aligned fibers form promoting cell elongation motility citation
+MISC--: more experimental data amassed ecm emerging vital component morphogenic processes
+OWNX--: this work we extend our cellular model angiogenesis citation validate against empirical measurements sprout extension speeds
+OWNX--: we then use our model investigate effect ecm topography vascular morphogenesis focus mechanisms controlling cell shape orientation sprout extension speeds sprout morphology
+OWNX--: we show dependence sprout extension speed morphology matrix density fiber network connectedness fiber orientation
+OWNX--: notably we observe varying matrix fiber density affects likelihood capillary sprout branching
+MISC--: model predicts optimal density capillary network formation suggests matrix heterogeneity mechanism sprout branching
+OWNX--: we also identify unique ranges matrix density promote sprout extension interrupt normal angiogenesis show maximal sprout extension speeds achieved within density range similar density collagen found cornea
+OWNX--: finally we quantify effects proteolytic matrix degradation tip cell sprout velocity demonstrate degradation promotes sprout growth at high densities but inhibitory effect at lower densities
+OWNX--: based findings we suggest discuss several ecm targeted pro anti angiogenesis therapies tested empirically

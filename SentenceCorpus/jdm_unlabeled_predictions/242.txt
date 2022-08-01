@@ -1,0 +1,16 @@
+MISC--: although many models risky choices between gambles assume information somehow integrated recently proposed priority heuristic ph claims choices based one piece information only
+MISC--: although current reason choice according ph vary all other reasons claimed ignored
+OWNX--: however choices predicted ph other pieces information often confounded thus rendering critical tests whether decisions actually based one reason only impossible
+MISC--: current study aims remedy this problem manipulating number reasons additionally line choice implied ph
+OWNX--: results show participants choices decision times depend heavily number reasons line ph thus contradicting notion non compensatory one reason decision making
+MISC--: adaptive toolbox metaphor put forward gigerenzer co workers citation implies decision makers possess use collection simple rules thumb so called fast frugal heuristics achieve very good results very little effort
+MISC--: since was originally formulated toolbox been rapidly growing new heuristics introduced almost regularly
+MISC--: despite broder s citation criticism inventing more more new heuristics may soon become futile if they not seriously tested empirically p number adaptive toolbox was recently extended preferential decisions means priority heuristic citation simple lexicographic rule choices between gambles
+CONT--: although idea adaptive decision making choice itself not novel citation ph represents new development this area
+MISC--: brandstatter et al citation concluded ph outperforms both normative other heuristic models predicting participants choices
+MISC--: also they claim represents process model choice describing sequence steps taken decision maker s cognitive apparatus
+MISC--: both claims been seriously questioned substantial debates about properties ph citation more generally plausibility fast frugal heuristics approach citation arisen
+OWNX--: one serious caveat studies investigating ph lies selection gambles used choice predicted ph gamble favored other pieces information often confounded
+CONT--: thus adherence rates ph modal choices studied brandstatter et al citation might biased measures whether participants decisions truly based one reason only claimed ph
+AIMX--: current study aims remedy this problem
+MISC--: first choice rule ph will introduced along description problem confounded information gamble pairs

@@ -1,0 +1,19 @@
+MISC--: recent years spectral clustering become one most popular modern clustering algorithms
+MISC--: simple implement solved efficiently standard linear algebra software very often outperforms traditional clustering algorithms k means algorithm
+OWNX--: first glance spectral clustering appears slightly mysterious not obvious see why works at all what really does
+MISC--: goal this tutorial give some intuition those questions
+MISC--: we describe different graph laplacians their basic properties present most common spectral clustering algorithms derive those algorithms scratch several different approaches
+MISC--: advantages disadvantages different spectral clustering algorithms discussed
+MISC--: clustering one most widely used techniques exploratory data analysis applications ranging statistics computer science biology social sciences psychology
+MISC--: virtually every scientific field dealing empirical data people attempt get first impression their data trying identify groups similar behavior their data
+OWNX--: this article we would like introduce reader family spectral clustering algorithms
+MISC--: compared traditional algorithms symbol means single linkage spectral clustering many fundamental advantages
+MISC--: results obtained spectral clustering often outperform traditional approaches spectral clustering very simple implement solved efficiently standard linear algebra methods this tutorial set up self contained introduction spectral clustering
+AIMX--: we derive spectral clustering scratch present different points view why spectral clustering works
+MISC--: apart basic linear algebra no particular mathematical background required reader
+OWNX--: however we do not attempt give concise review whole literature spectral clustering impossible due overwhelming amount literature this subject
+OWNX--: first two sections devoted step step introduction mathematical objects used spectral clustering similarity graphs section graph laplacians section
+MISC--: spectral clustering algorithms themselves will presented section
+MISC--: next three sections then devoted explaining why those algorithms work
+OWNX--: each section corresponds one explanation section describes graph partitioning approach section random walk perspective section perturbation theory approach
+OWNX--: section we will study some practical issues related spectral clustering discuss various extensions literature related spectral clustering section

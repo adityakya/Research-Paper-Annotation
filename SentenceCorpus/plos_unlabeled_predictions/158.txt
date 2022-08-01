@@ -1,0 +1,26 @@
+MISC--: identification classification genes pseudogenes duplicated regions still constitutes challenge standard automated genome annotation procedures
+OWNX--: using integrated homology orthology analysis independent current gene annotation we identified gene duplicates human mouse respectively
+OWNX--: basis integrity their coding regions we classified them into functional inactive duplicates allowing us define first consistent comprehensive collection human mouse unprocessed pseudogenes
+OWNX--: furthermore total human mouse duplicates predicted functional genes many not included current reference gene databases therefore correspond likely novel mammalian genes
+MISC--: some correspond partial duplicates less than half length original source genes yet they conserved syntenic among different mammalian lineages
+OWNX--: genes unprocessed pseudogenes obtained here will enable further studies mechanisms involved gene duplication well fate duplicated genes
+MISC--: gene duplication major source biological innovation diversity provides necessary conditions appearance new more specialized protein functions citation
+MISC--: eukaryotic genomes there two major mechanisms through coding gene regions duplicate retrotransposition non homologous recombination
+MISC--: whereas retrotransposition lead rare occasions functional mrna copy citation usually results processed pseudogenes
+OWNX--: present study focuses gene copies other hand arose through non homologous recombination produces intact genes copies
+OWNX--: generally agreed after gene duplications there period functional redundancy consequently partial relaxation their associated selective constraints
+OWNX--: this allows each copy accept higher level sequence modification therefore explore new more specialized roles long basic ancestral function not compromised
+MISC--: although this situation eventually lead formation novel genes generally believed normally ends silencing one copies accumulation lethal mutations preservation other same basic ancestral function citation
+MISC--: non functional paralogs then expected accumulate mutations at neutral rate degenerate unprocessed pseudogenes
+OWNX--: similarly apart duplicated exons lead alternatively spliced isoforms citation incomplete duplications genes neither transcribed nor translated into complete functional proteins also expected undergo neutral degeneration right after their formation occurs vast majority processed pseudogenes
+OWNX--: currently silencing genes after duplication poorly understood
+MISC--: its frequency been indirectly inferred either through theoretical approaches citation citation study functional genes exclusively citation without taking into account population dead gene copies probably due lack consistent annotation regions public databases
+MISC--: not only identification unprocessed pseudogenes but also overall identification classification independent gene copies within regions underwent several rounds tandem duplications not completely solved exemplified detailed analysis particular region human chromosome citation
+MISC--: previous global analyses dead gene copies mammals focused mainly retrotransposed pseudogenes citation citation appear far more abundant easier detect than unprocessed pseudogenes
+MISC--: we already attempted define collections unprocessed pseudogenes context genome wide identification intergenic pseudogenes several sequenced genomes citation citation citation
+MISC--: estimated number regions fluctuated significantly within mammals between per genome
+OWNX--: however basis our recent more detailed analysis finished human chromosomes citation we estimate human genome might actually contain no more than unprocessed pseudogenes because previous sets were somewhat inflated misclassified retrotranscribed pseudogenes
+MISC--: addition large scale approximations several hundred unprocessed pseudogenes also been identified during annotation single human chromosomes detailed studies focused particular gene families genomic regions
+OWNX--: despite all efforts considerable fraction human mouse unprocessed pseudogenes likely unannotated incorrectly classified owing difficulties analyzing complex regions multiple copies genes
+OWNX--: using filtering procedures performed available assemblies human mouse genomes we carried out consistent comprehensive search gene duplicates independent previous gene annotations
+OWNX--: we distinguished potentially active non functional copies order construct first reliable set unprocessed pseudogenes

@@ -1,0 +1,52 @@
+OWNX--: modeling changes backbone conformation still lacks computationally efficient solution we developed discretisation conformational states accessible protein backbone similar successful rotamer approach side chains
+MISC--: brix fragment database consisting fragments residues long was realized through identification recurrent backbone fragments non redundant set high resolution protein structures
+OWNX--: brix contains alphabet more than frequently observed conformations per peptide length different variation levels
+MISC--: analysis performance brix revealed average structural coverage protein structures more than percent within root mean square distance angstrom
+MISC--: globally we able reconstruct protein structures average accuracy angstrom rmsd
+MISC--: expected regular structures well covered but interestingly many loop regions appear irregular at first glance also found form recurrent structural motif albeit lower frequency occurrence than regular secondary structures
+MISC--: larger loop regions could completely reconstructed smaller recurrent elements between residues long
+OWNX--: finally we observed significant amount short sequences tend display strong structural ambiguity between alpha helix extended conformations
+MISC--: when sequence length increases this so called sequence plasticity no longer observed illustrating context dependency polypeptide structures
+MISC--: high resolution structure determination proteins protein complexes via experimental methods occurs at significantly slower pace than collection novel protein sequences
+MISC--: result less than percent human proteins known structure protein data bank percentage other species significantly lower citation
+MISC--: addition structures mostly cover one small number protein domains thus covering only fraction total sequence protein
+MISC--: homology modeling improves this coverage using related proteins known structures build model citation citation
+MISC--: construction adequate homolog divided into two related tasks placement amino acid side chains given backbone template detection changes backbone conformations required accommodate new sequence
+MISC--: proteins relatively close terms sequence identity backbone modeling problem usually ignored but many cases best homology template shows less than percent homology target small compensatory changes backbone likely required obtain accurate model
+MISC--: recent advances protein backbone modeling based observation protein structures built finite repertoire structural folds citation
+MISC--: structural redundancy allowed classification protein folds scop database citation cath database citation fssp classification citation citation
+MISC--: unit fold classification usually protein domain since large proteins generally composed multiple domains
+MISC--: consequence classification comprises hierarchical organisation protein domains embodies evolutionary structural relationships
+MISC--: creating more categories thus refining secondary structure descriptions been proposed set discrete backbone conformational states derived citation citation
+MISC--: different research groups demonstrated usefulness fragment libraries when reconstructing protein structures generating sets protein decoys citation citation
+MISC--: latest editions casp prediction approaches assemble fragments known structures into candidate structure proven successful citation citation
+MISC--: fragment assembly methods assumption made local interactions create particular conformational bias but do not uniquely define local structure citation citation
+MISC--: instead environmental constraints will determine overall compact protein conformation
+MISC--: construction final model composed three steps first step involves selection fragment candidates based their stability measured simplified scoring function citation
+MISC--: second step fragments assembled combinatorially citation citation
+MISC--: final step obtained structure optimized through employment force field citation citation
+OWNX--: this method works well small all class proteins reasonably well all class proteins
+MISC--: fragment approach been successfully applied structure prediction algorithm rosetta baker co workers citation citation also proved successful accurately designing new folds citation
+MISC--: publicly accessible libraries however limited they typically small consider lengths between residues
+MISC--: instance examining fragments residues kolodny levitt citation created library fragments while etchebest found only building blocks this length citation
+MISC--: alphabet camproux citation consists structural classes based motives residues
+MISC--: employing their hypercosine method set length protein fragments hunter subramaniam citation discovered minimal centroids representative fragment shapes found proteins at resolution angstrom
+MISC--: low resolution approaches restricted single fragment length thus resulting limited set building blocks might constitute advantage terms computational efficiency ab initio structure prediction methods will also lead significant loss information
+MISC--: wainreb et al made possible cluster variable sized fragments consisting at least residues through implementation their ssgs algorithm citation
+MISC--: allowing more variability alignment loop locations they created library building blocks
+MISC--: alternative approach implemented depristo et al citation uses ensemble artificially generated small polypeptide conformations instead sampling conformations known protein structures
+MISC--: constraining chemical properties idealized geometry phi psi angles excluded volume they constructed ensembles near native conformations consistent surrounding fixed protein structure
+OWNX--: our strategy focuses obtaining comprehensive set high resolution structural fragments without using artificial data restricting fragment lengths
+MISC--: we decided partition non redundant set high resolution protein structures into fragments consist residues because preliminary tests indicated lack high structural similarity more than percent all fragments when larger lengths were considered
+MISC--: subsequently clustering techniques were employed identify structural motifs recurrent different protein structures
+MISC--: over recurrent fragment structures classes were found each considered peptide length when structural variation proportional length fragment was allowed
+MISC--: suggested citation citation important determine how well classes fragment library cover fold space order estimate its value
+MISC--: when applied protein structures not used construction database this coverage turned out percent average using angstrom rmsd threshold
+OWNX--: latter implies majority cases studied so called irregular regions loops also reconstructed recurrent building blocks
+OWNX--: through employment global fit reconstruction algorithm backbone traces were generated having average accuracy angstrom rmsd
+MISC--: additionally ability use brix local secondary structure prediction was examined looking at sequence structure relationship within classes
+MISC--: according previous findings citation sequence conservation within classes was rather low because large number determined building blocks originating different families
+MISC--: nonetheless this analysis led quantitative illustration context dependence polypeptide structure
+MISC--: significant amount small sequences tend display strong structural ambiguity fragments length percent fragment pairs identical sequences structural difference within range helix sheet jump
+MISC--: so called plastic sequences i e sequences display diverse structural conformations display strong preference aliphatic residues alanine valine leucine
+MISC--: fragments more than residues sequence plasticity no longer observed showing need additional context determine secondary structure much reduced longer fragments

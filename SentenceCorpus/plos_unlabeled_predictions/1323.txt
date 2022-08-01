@@ -1,0 +1,28 @@
+MISC--: human disease heterogeneous similar disease phenotypes resulting distinct combinations genetic environmental factors
+OWNX--: small molecule profiling address disease heterogeneity evaluating underlying biologic state individuals through non invasive interrogation plasma metabolite levels
+OWNX--: we analyzed metabolite profiles oral glucose tolerance test individuals normal impaired glucose tolerance
+OWNX--: our focus was elucidate underlying biologic processes
+BASE--: although we initially found little overlap between changed metabolites preconceived definitions metabolic pathways use unbiased network approaches identified significant concerted changes
+MISC--: specifically we derived metabolic network edges drawn between reactant product nodes individual reactions between all substrates individual enzymes transporters
+OWNX--: we searched active modules regions metabolic network enriched changes metabolite levels
+MISC--: active modules identified relationships among changed metabolites highlighted importance specific solute carriers metabolite profiles
+MISC--: furthermore hierarchical clustering principal component analysis demonstrated changed metabolites ogtt naturally grouped according activities system l amino acid transporters osmolyte carrier slc mitochondrial aspartate glutamate transporter slc
+MISC--: comparison between ngt igt groups supported blunted glucose insulin stimulated activities igt group
+MISC--: using unbiased pathway models we offer evidence supporting important role solute carriers physiologic response glucose challenge conclude carrier activities reflected individual metabolite profiles perturbation experiments
+MISC--: given involvement transporters human disease metabolite profiling may contribute improved disease classification via interrogation specific transporter activities
+MISC--: disease heterogeneity challenged practice medicine
+MISC--: individuals same apparent disease at our current diagnostic resolution often show remarkable variation prognosis treatment responsiveness presumably because superficially similar disease state arise diverse combinations genetic environmental factors citation
+MISC--: efforts resolve heterogeneity focused collecting increasing amounts quantitative patient information including genotypic citation mrna citation protein expression data citation hope establishing better clinical classifiers based aberrant activities specific targetable biological pathways
+MISC--: using tumor biopsy samples oncologists now exploring incorporation genomewide expression profiling into therapy citation citation
+MISC--: however complex human diseases span multiple organ systems metabolomics analysis broad array metabolite levels biologic fluid samples blood urine represents minimally invasive way obtain quantitative biologic information patients uncover disease pathophysiology aid diagnostic prognostic classification citation
+MISC--: metabolomics data analysis may facilitated techniques applied other high throughput omic data types
+MISC--: microarray data integration network information protein protein interaction data predefined biologic pathways greatly assisted elucidation underlying processes led development increasingly robust accurate gene based classifiers disease citation citation
+MISC--: we hypothesize characterization human disease metabolomic profiling should similarly benefit interpreting metabolite changes context known metabolic reactions
+OWNX--: we use data derived oral glucose tolerance tests individuals normal impaired glucose tolerance citation
+OWNX--: we first sought significant overlaps between observed metabolite changes preconceived definitions metabolic pathways
+MISC--: next we applied unbiased pathway analysis mapping metabolite changes recent reconstruction human metabolic network citation use recently developed variant citation previous approaches citation derived mrna expression analysis find active metabolic modules connected subnetworks highly changed metabolites
+MISC--: while biased approach yielded little resulting unbiased pathway models highlight interconnectedness between changed metabolites propose role solute carriers ogtt metabolite profiles
+MISC--: hierarchical clustering principal component analysis confirmed importance specific transporters demonstrating metabolites cluster naturally according activities system l amino acid slc osmolyte transporters
+MISC--: furthermore they suggest important role slc mitochondrial aspartate glutamate transporter interindividual metabolite profile variability
+MISC--: comparison ngt igt active modules suggest blunted glucose insulin stimulated enzyme transporter activities igt group
+MISC--: given transporters implicated multiple human diseases interrogation transporter activities perturbation based metabolic profiling may ultimately contribute improved disease classification resolution disease heterogeneity

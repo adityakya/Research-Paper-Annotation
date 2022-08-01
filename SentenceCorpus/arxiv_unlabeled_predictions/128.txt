@@ -1,0 +1,34 @@
+OWNX--: we describe novel approach statistical learning particles tracked while moving random environment
+MISC--: problem consists inferring properties environment recorded snapshots
+OWNX--: we consider here case fluid seeded identical passive particles diffuse advected flow
+OWNX--: our approach rests efficient algorithms estimate weighted number possible matchings among particles two consecutive snapshots partition function underlying graphical model
+MISC--: partition function then maximized over model parameters namely diffusivity velocity gradient
+OWNX--: belief propagation bp scheme backbone our algorithm providing accurate results flow parameters we want learn
+MISC--: bp estimate additionally improved incorporating loop series ls contributions
+MISC--: weighted matching problem ls compactly expressed cauchy integral accurately estimated saddle point approximation
+OWNX--: numerical experiments show quality our improved bp algorithm comparable one fully polynomial randomized approximation scheme based markov chain monte carlo mcmc method while bp based scheme substantially faster than mcmc scheme
+MISC--: graphical model approaches statistical learning inference widespread many fields science ranging machine learning bioinformatics statistical physics error correction
+MISC--: applications often require evaluation weighted sum over exponentially large number configurations formidable symbol hard problem majority cases
+AIMX--: this paper we focus one difficult problem occurs when tracking identical particles moving random environment
+MISC--: long particles sufficiently dilute their tracking two consecutive frames rather straightforward
+MISC--: when density particles acquisition time increase many possible sets trajectories become statistically compatible acquired data multiple matchings particles two consecutive snapshots likely
+MISC--: despite uncertainties one expects reliable estimates properties environment should still possible if number symbol tracked particles sufficiently large
+OWNX--: this problem we want address here
+MISC--: nature moving particles their environment not subject particular restrictions eg they might move actively living organisms passively
+OWNX--: here we shall consider case fluid seeded passive particles problem arising context fluid mechanics experiments
+MISC--: given statistical model fluid flow unknown parameters along positions symbol indistinguishable particles two subsequent snapshots one aims at predicting most probable values model parameters
+OWNX--: this task formally stated section searching maximum weighted sum over all possible matchings between particles two snapshots
+MISC--: problem turns out equivalent computing permanent non negative matrix known symbol complete problem citation
+AIMX--: main contribution this paper efficient accurate algorithm belief propagation bp type calculating permanent class weight matrices arising particle tracking problem
+MISC--: bp algorithm seeks minimum bethe free energy citation suitable graphical model
+MISC--: graphical model fully connected bipartite graph nodes associated measured particles edges weighted according model flow transporting particles constraints enforce condition exactly one edge per node active
+MISC--: known bp gives exact result maximum likelihood version problem finding maximum weight matching spite multiple loops characterizing graphical model citation
+OWNX--: bp algorithm matching problem derived discussed section
+MISC--: bp equations could understood re parametrization gauge transformation factor functions graphical model citation
+MISC--: furthermore bp solutions also provide explicit representation exact partition function terms so called loop series citation
+OWNX--: our main technical result derivation compact expression efficient approximation loop series problem weighted particle matching
+OWNX--: this done section where loop series expressed terms symbol th order mixed derivative explicit functional reduced symbol dimensional cauchy integral finally estimated saddle point approximation
+OWNX--: section describes empirical results demonstrating performance bare bp saddle point improved bp comparison simplified fully polynomial randomized approximation scheme computing permanent citation
+MISC--: our improved bp achieves comparable accuracy significant gains terms speed
+OWNX--: number particles tracked experiments typically large order tens thousands we argue our approach both useful promising applications
+MISC--: loops

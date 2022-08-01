@@ -1,0 +1,18 @@
+OWNX--: dimension reduction kernel methods low rank approximation machine learning nystr om extension recent years spectral analysis appropriately defined kernel matrices emerged principled way extract low dimensional structure often prevalent high dimensional data
+MISC--: here we provide introduction spectral methods linear nonlinear dimension reduction emphasizing ways overcome computational limitations currently faced practitioners massive datasets
+MISC--: particular data subsampling landmark selection process often employed construct kernel based partial information followed approximate spectral analysis termed nystr om extension
+OWNX--: we provide quantitative framework analyse this procedure use demonstrate algorithmic performance bounds range practical approaches designed optimize landmark selection process
+OWNX--: we compare practical implications bounds way real world examples drawn field computer vision whereby low dimensional manifold structure shown emerge high dimensional video data streams
+MISC--: recent years dramatic increases available computational power data storage capabilities spurred renewed interest dimension reduction methods
+MISC--: this trend illustrated development over past decade several new algorithms designed treat nonlinear structure data isomap tenenbaum et al spectral clustering shi malik laplacian eigenmaps belkin niyogi hessian eigenmaps donoho grimes diffusion maps coifman et al
+OWNX--: despite their different origins each algorithms requires computation principal eigenvectors eigenvalues positive semi definite kernel matrix
+MISC--: fact spectral methods their brethren long held central place statistical data analysis
+OWNX--: spectral decomposition positive semi definite kernel matrix underlies variety classical approaches principal components analysis low dimensional subspace explains most variance data sought fisher discriminant analysis aims determine separating hyperplane data classification multidimensional scaling used realize metric embeddings data
+MISC--: result their reliance exact eigendecomposition appropriate kernel matrix computational complexity methods scales turn cube either dataset dimensionality cardinality belabbas wolfe
+MISC--: accordingly if we write symbol requisite complexity exact eigendecomposition large high dimensional datasets pose severe computational problems both classical modern methods alike
+MISC--: one alternative construct kernel based partial information analyse directly set landmark dimensions examples been selected dataset kind summary statistic
+MISC--: landmark selection thus reduces overall computational burden enabling practitioners apply aforementioned algorithms directly subset their original data one consisting solely chosen landmarks subsequently extrapolate their results at computational cost symbol
+AIMX--: while practitioners often select landmarks simply sampling their data uniformly at random we show this article how one may improve upon this approach data adaptive manner at only slightly higher computational cost
+MISC--: we begin review linear nonlinear dimension reduction methods s formally introduce optimal landmark selection problem s
+MISC--: we then provide analysis framework landmark selection s turn yields clear set trade offs between computational complexity quality approximation
+OWNX--: finally we conclude case study demonstrating applications field computer vision

@@ -1,0 +1,70 @@
+MISC--: much complexity biochemical networks comes information processing abilities allosteric proteins they receptors ion channels signalling molecules transcription factors
+MISC--: allosteric protein uniquely regulated each combination input molecules binds
+MISC--: this regulatory complexity causes combinatorial increase number parameters required fit experimental data number protein interactions increases
+MISC--: therefore challenges creation updating re use biochemical models
+AIMX--: here we propose rule based modelling framework exploits intrinsic modularity protein structure address regulatory complexity
+AIMX--: rather than treating proteins black boxes we model their hierarchical structure conformational changes internal dynamics
+OWNX--: modelling regulation allosteric proteins through conformational changes we often decrease number parameters required fit data so reduce over fitting improve predictive power model
+OWNX--: our method thermodynamically grounded imposes detailed balance also includes molecular cross talk background activity enzymes
+AIMX--: we use our allosteric network compiler examine how allostery facilitate macromolecular assembly how competitive ligands change observed cooperativity allosteric protein
+OWNX--: we also develop parsimonious model g protein coupled receptors explains functional selectivity predict rank order potency agonists acting through receptor
+OWNX--: our methodology should provide basis scalable modular executable modelling biochemical networks systems synthetic biology
+MISC--: goal biology understand structure function biochemical networks underpin cellular decision making
+MISC--: one organizing principle networks inherently modular citation citation specific functions ascribed subset proteins network
+MISC--: yet like logic gates electronic circuits even individual proteins perform sophisticated computations integrate multiple inputs citation citation
+MISC--: engineering modular approach analysis system scales well size system its complexity
+MISC--: indeed engineers design systems hierarchically modules comprising other modules
+MISC--: if molecular biology similarly modular structures atomic modules larger modules constructed
+MISC--: signalling networks we may plausibly ascribe this role protein subunits domains citation citation
+OWNX--: their function elementary modules often depends allosteric transitions interaction at one site alters structure at distant site via conformational change
+MISC--: indeed allostery increases information processing ability network because transforms proteins passive substrates dynamic computational elements citation
+MISC--: modular approach analysis design biochemical networks should therefore explicitly describe computations performed individual allosteric proteins
+MISC--: efforts tackle complexity biochemical networks should also exploit modularity protein structure
+MISC--: protein structure hierarchical given protein often domains also present other proteins repeated subunits
+MISC--: example many signalling proteins contain sh pdz domains many receptors ion channels enzymes multimers
+MISC--: genetic networks transcription factors also often multimers common dna binding domain zinc finger homeobox
+OWNX--: re use protein domains both simplifying confounding feature once domain been characterized characterization used again but also necessary model molecular cross talk between signalling pathways contain proteins similar structures
+MISC--: vivo protein interactions generate both combinatorial regulatory complexity
+MISC--: combinatorial complexity explosion number possible species system number proteins interactions system increases
+MISC--: arises because number states module dramatically increases its proteins bind ligands well each other different residues covalently modified citation citation
+MISC--: example p so called cellular gatekeeper known modification sites so potentially states citation
+MISC--: thus complete description system potentially requires combinatorially large number chemically distinct species reactions
+MISC--: contrast regulatory complexity combinatorial increase number parameters required describe regulatory interactions within system number interactions increase
+MISC--: this complexity arises because strength protein interactions depends state module each state module potentially requires unique set parameters characterize interactions within module other modules network molecules external network
+MISC--: measuring this number parameters vivo challenging
+MISC--: rule based modelling addresses combinatorial complexity allows biologists specify regulatory logic system citation
+MISC--: examples include bionetgen citation kappa citation moleculizer citation stochsim citation
+MISC--: rather than explicitly enumerating each species reaction network rule based model describes system collection biomolecules interacting according set rules
+MISC--: each rule template reaction specifies reactants products all relevant biochemical parameters
+MISC--: thus combinatorially complex systems compactly described because large number distinct reactions subsumed template encoded single rule
+MISC--: algorithm may automatically infer complete reaction network prior simulation if combinatorial complexity too great use alternative techniques simulate system citation citation
+MISC--: importantly some rules also specify contextual conditions constrain when interaction occur hence encode regulatory logic network
+MISC--: example rule may allow only doubly phosphorylated map kinase phosphorylate its substrate
+MISC--: rule based formalisms describe complex biochemical systems but inherently offer little guidance avoiding number methodological problems
+CONT--: first using rules specify regulatory logic system does not address system s regulatory complexity
+MISC--: consider g protein coupled receptors allosterically couple extracellular ligand binding site intracellular g protein binding site citation
+MISC--: gpcrs promiscuous binding multiple intracellular targets citation citation
+MISC--: supposing given gpcr bind one l different drugs endogenous ligands one g different g proteins then principle we require lg pair wise cooperativity parameters describe how each ligand regulates gpcr s affinity each g protein
+MISC--: thus number regulatory parameters scales lg number rules also scales lg because each parameter part rule distinct contextual constraints
+MISC--: promiscuous allosteric proteins therefore require large number rules parameters characterize their interactions
+MISC--: second module should well described function easily re used portable between systems but most rule based formalisms not inherently modular
+MISC--: modellers typically treat proteins black boxes define interactions using biochemical equations
+OWNX--: interaction centric approaches regulation proteins encoded rules ad hoc conditions no longer apply when proteins interact different partners
+MISC--: ad hoc rules obfuscate mechanism underlying allosteric regulation because they do not show explicitly how intrinsic structural thermodynamic properties allosteric proteins generate their functional properties
+MISC--: contrast biomolecule centric approach would encode regulatory logic proteins themselves
+MISC--: fewer changes rules would then required define how new set interaction partners regulates protein s activity
+MISC--: if model includes protein domains subunits re use components would also simplified
+MISC--: finally models generated rule based methods should thermodynamically correct
+MISC--: biochemical networks there often sets reversible reactions connect into closed loop forming thermodynamic cycle
+MISC--: many cycles no free energy consumed example when proteins bind multiple ligands when ligands bind several conformations protein when ion channels bind multiple agonists closed open desensitized states
+MISC--: thermodynamics imposes mathematical relationship between equilibrium constants all reactions involved cycles their product must unity
+MISC--: equilibrium constants cannot therefore assigned independently
+MISC--: thermodynamically correct methodology should ensure model satisfies this constraint ideally construction
+AIMX--: here we present modular scalable modelling methodology alleviates regulatory well combinatorial complexity biochemical networks
+OWNX--: we first describe our modelling framework uses thermodynamically grounded treatment allostery ligands distinguish only conformational state allosteric proteins
+OWNX--: we also introduce rule based modelling tool implements our methodology allosteric network compiler
+AIMX--: we use anc examine how allostery make macromolecular assembly more efficacious
+AIMX--: we then show how our modelling framework describes common mechanisms allostery mapping regulatory properties protein onto conformational changes protein itself demonstrate how we ease analysis multiple ligands interacting through allosteric protein
+OWNX--: next we discuss how our approach reduces regulatory complexity thereby increases model s modularity
+OWNX--: finally we use our framework develop model g protein coupled receptors whose regulatory complexity scales instead lg consequently greater predictive power
+OWNX--: while our major goal introduce new modular modelling methodology rather than its implementation we made anc models we discuss available at link

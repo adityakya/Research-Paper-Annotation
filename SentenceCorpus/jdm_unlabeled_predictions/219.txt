@@ -1,0 +1,17 @@
+OWNX--: we report study effects choice set financial decision making related retirement savings risky investment
+MISC--: participants were presented either full range choice options limited subset feasible options
+MISC--: choices saving risk affected position each option range presented options
+OWNX--: this result demonstrated range options offered possible saving rates levels investment risk influences decisions about saving risk
+OWNX--: study was conducted sample working people we controlled whether participants financially afford their real life decisions taken test
+OWNX--: addition various measures risk aversion did not account risk taken each condition
+MISC--: surprisingly only simplest most direct risk preference measure was significant predictor responses within particular choice set context although actual choices were still very much influenced range
+MISC--: thus results reported here suggest financial judgments choices relative corroborates important practical domain previous related work abstract gambles hypothetical risky investments
+AIMX--: this article presents study investigated how far simple practically relevant modifications decision making context affect how people make financial decisions related retirement savings investment
+OWNX--: specifically we aim using realistic setting make suggestive replication new powerful context effectprospect relativity citation important practical domain
+AIMX--: this article we present study investigates effects framing presentation financial information when asking people express their preferences relation different retirement savings investment scenarios
+MISC--: experimental design method based recent discovery substantial dependence human preferences set options they presented
+MISC--: this phenomenon was termed prospect relativity indicates lack stable underlying preference function citation
+MISC--: this finding we describe more detail below striking illustration view preferences often constructed fly rather being stable basis decision making citation
+MISC--: theoretically important question how far effects transfer abstract low stakes gambles major financial decisions could significantly affect long term well being
+OWNX--: if we observe transfer realistic financial decisions then this would practical significance marketing sales provision advice financial services industry
+OWNX--: our goal was investigate how far individual variation saving risk preferences stable across different realistic decision contexts

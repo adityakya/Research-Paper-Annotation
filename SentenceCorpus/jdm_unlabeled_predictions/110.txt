@@ -1,0 +1,72 @@
+MISC--: type emergency decision making not received research attention police search lost person rural wilderness area
+MISC--: many incidents decisions concerning where search lost subject made planning team each member assigns probabilities various hypotheses about where subject might located including residual hypothesis subject somewhere else entirely outside designated search area
+OWNX--: current study number adult males search planning experience were asked assign probabilities fictional lost person incident
+MISC--: was hypothesized according support theory citation subjects who first considered five possible scenarios accounting how subject could left search area i e unpacked residual hypothesis would subsequently increase their probability estimate global hypothesis missing subject was not designated search area compared those subjects who unpacked focal hypothesis
+OWNX--: this hypothesis was confirmed
+OWNX--: we also found considerable evidence subadditivity most subjects estimated higher summed probabilities individual scenarios accounting focal residual hypotheses respectively
+OWNX--: potential negative consequences unpacking effects during lost person incident were discussed possible means mitigating effects were described
+MISC--: past two decades seen growing interest manner emergency responders make decisions field
+MISC--: example klein citation his colleagues studied decision making processes various types emergency managers fire commanders who required initiate appropriate response their respective emergencies early their incidents possible
+MISC--: researchers found emergency managers whom they studied rarely consider alternative options simultaneously analytic fashion
+MISC--: rather manager s decision making follows pattern termed satisficing citation first satisfactory option comes mind selected
+MISC--: expertise emergency managers according klein citation reflected their ability quickly categorize emergency according their experience imagine scenario particular course action toward resolving emergency could successfully implemented
+MISC--: one type emergency response not studied klein his associates police search person lost large scale rural wilderness area topic only recently become focus research behavioral scientists citation
+MISC--: variety people become targets searches including hunters hikers anglers other outdoor enthusiasts well children who wander away camp rural homes elderly people suffering senile dementia citation
+MISC--: organized searches lost people usually come under authority public safety personnel county sheriffs regional state police officers conservation officers park rangers
+MISC--: north america search management system prescribed national association search rescue nearly universally recognized best practice model organizing lost person incident citation itself application incident command system endorsed u s federal emergency management agency managing all emergency incidents citation
+MISC--: below system will described pertains decision making processes other cognitive variables particularly subjective judgments probability
+MISC--: lost person incident begins decision subject missing person report may spatially disoriented large rural environment forested area
+MISC--: incidents usually considered highly urgent factors related health age weather natural hazards may threaten subject s safety
+MISC--: most u s states canadian provinces officer who given authority incident at his her disposal any number resources assistance including other officers personnel other agencies civilian search rescue volunteers including field searchers search dog handlers search coordinators
+MISC--: even before searchers arrive at location where search will conducted search management team will appointed first operational period usually number hours
+MISC--: upon arrival at scene incident commander consultation other members search management team will set motion routinized efforts quickly locate missing subject tasking searchers canine teams track missing person place last seen pls
+MISC--: well efforts confine subject search locale will usually implemented setting up trail blocks some distance away pls
+OWNX--: after first steps initiated however incident commander will confer search management team concerted planning session strikingly unlike satisficing process described klein
+MISC--: environmental psychologists heth cornell citation who studied decision making processes search managers cogently described typical planning session unlike most paramilitary operations there surprising amount consensual decision making
+OWNX--: experienced search rescue command teams believe no one person authoritatively state best course action
+MISC--: like naval navigation teams described hutchins citation there fixed responsibilities social hierarchies when operations executed but contrast authoritarian decisive control experienced search managers seek consultation develop their hypotheses plans modestly one four others
+OWNX--: during discussions search rescue planning team makes search tractable parsing environment developing scenarios what likely happened lost person
+MISC--: thereafter search management consists largely iterative task assignments individuals teams dispatched check possibilities
+MISC--: methodology bayesian planning team will revise its priorities basis field reports search teams along clues eyewitness reports similar evidence uncovered during search activities citation
+MISC--: specifically planning session involves identifying primary search area search activities will conducted then dividing this larger area into any number smaller segments single search resources e g dog teams search crews tasked
+MISC--: once segments identified drawn planning map attempt made prioritize segments order ensure those areas most likely contain missing subject searched relatively early incident
+MISC--: prioritization accomplished requiring search planners assign estimates probability each segments termed probability area poa
+MISC--: well methodology involves assigning some nontrivial probability rest world row all area outside designated search area will likely not searched during operational period citation
+MISC--: individual probability judgments then combined averaged yielding planning poa reflects consensual probabilities subject may located within each segment well row
+MISC--: mentioned quote above methodology bayesian initial subjective probabilities recomputed according bayes theorem segments searched lost person not located see appendix
+MISC--: because row definition does not receive search assignments will necessarily grow larger poa search proceeds negative information decreases poa various segments within search area
+MISC--: indeed search coordinators advised monitor poa rest world particularly respect decisions about expanding search accomplished partialing out new segments formerly outside designated search area citation
+MISC--: noted heth cornell citation process developing search plan resembles interlocking cognitive efforts contributed members navigation crew u s navy ship described hutchins citation his book cognition wild
+MISC--: hutchins applied term distributed cognition describe mutual complementary efforts individual specialists using host cognitive artifacts maps charts electronic instruments computers
+MISC--: similarly fischhoff johnson citation used term distributed decision making refer specifically command control type operations decisions made two more individuals
+MISC--: although during search operations numerous artifacts may employed maps software statistical data lost person behavior profiles citation emphasis this article will subjective probabilities initially assigned search area become starting point subsequent bayesian computations made search proceeds
+OWNX--: stated earlier methodology prioritizing search area requires planners make subjective estimates probability each segment search area plus row
+MISC--: assumed judgments based planners sar experience acquired expertise plus reference actuarial data tabulated previous lost person incidents how far pls various types lost people tend travel before being located citation
+MISC--: unfortunately much research decision processes would appear cast doubt ability planners make valid probability judgments ability render unbiased assessments probability uncertain events been challenged tversky koehler s citation support theory citation
+MISC--: briefly support theory maintains subjective probability judgments based not likelihood events themselves but descriptions events
+MISC--: thus same event may seen more less likely depending manner described those making judgments
+MISC--: example people estimate significantly higher chances dying heart disease cancer other natural causes than simply any natural cause citation
+OWNX--: this unpacking effect said occur whenever people asked consider disjoint components uncertain event various possibilities cause event rather than merely event itself
+MISC--: other words more explicitly event described more likely will judged occur
+MISC--: various explanations unpacking been proposed including tendency explicit inclusion specific causes effect increase confidence cause citation remind people possibilities they might overlooked citation
+MISC--: side effect unpacking subadditivity
+MISC--: according tversky koehler citation when people asked make global judgment probability dying unnatural cause they tend base their judgments representative typical case without necessarily delineating this example possible types unnatural causes
+MISC--: however unpacking event judged e g homicide fatal accident drowning not only leads higher estimates probability but frequently total probabilities greater than number percent citation
+MISC--: term subadditivity therefore refers fact probability judgments globally described event less than sum assigned unpacked version event
+MISC--: another important consideration support theory pertains those occasions when people judge relative probabilities two more mutually exclusive hypotheses
+MISC--: example if there three suspects crime b c hypothesis culprit associated probability did termed focal hypothesis while possibility someone other than guilty b c some unknown x called residual hypothesis
+MISC--: this case set possibilities either not symbolized x number discrete either hypothesis must necessarily true
+OWNX--: support theory each hypothesis under consideration will varying degrees support each depending manner hypothesis described example whether not unpacked
+MISC--: when comparing relative probabilities focal residual hypotheses support former s will decrease estimated probability latter s x number seen formula where pa x number refers probability rather than x number true
+OWNX--: bringing discussion back search rescue planning task we describe hypothesis missing subject designated search area focal hypothesis while possibility he she somewhere else row residual hypothesis
+MISC--: typical application poa methodology described earlier using support theory terminology
+MISC--: after some discussion individual planners proceed individually unpack search area into smaller segments all represent separate hypotheses about where subject might finally allocate some probability residual hypothesis person none those segments
+OWNX--: at this point we begin form our own hypotheses why this methodology sometimes fails
+MISC--: according hill citation single most common reason why lost person not found reasonable period time victim had traveled out designated search area search planners had not extended search into row soon enough
+MISC--: similar problem apparently encountered u s coast guard their conduct maritime sar searching missing vessels at sea
+MISC--: described scenario lock said occur when planners become fixated particularscenario exclusion all others citation
+MISC--: possible if not indeed likely planners emergency situations experiencing unpacking effects tend keep them unreasonably locked their focal hypotheses
+OWNX--: other words considering all many possibilities could account missing person vessel at sea any search segments planners estimate consensus poa inflated focal hypothesis target designated search area while underestimated residual hypothesis target somewhere else
+MISC--: even if bayesian procedure used reevaluating poa search proceeds eventual decision reject focal hypothesis start extending search into row delayed detriment lost person s safety
+MISC--: example application bayesian formula applied sar see appendix poa s updated each time segment searched subject not found
+MISC--: each iteration poa row grows slightly larger

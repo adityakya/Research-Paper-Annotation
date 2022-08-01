@@ -1,0 +1,25 @@
+AIMX--: this paper we propose novel algorithm factored value iteration fvi approximate solution factored markov decision processes fmdps
+MISC--: traditional approximate value iteration algorithm modified two ways
+MISC--: one least squares projection operator modified so does not increase max norm thus preserves convergence
+OWNX--: other modification we uniformly sample polynomially many samples exponentially large state space
+OWNX--: this way complexity our algorithm becomes polynomial size fmdp description length
+OWNX--: we prove algorithm convergent
+OWNX--: we also derive upper bound difference between our approximate solution optimal one also error introduced sampling
+MISC--: we analyze various projection operators respect their computation complexity their convergence when combined approximate value iteration keywords factored markov decision process value iteration reinforcement learning
+MISC--: markov decision processes mdps extremely useful formalizing solving sequential decision problems wide repertoire algorithms choose citation
+MISC--: unfortunately mdps subject curse dimensionality citation problem symbol state variables size mdp grows exponentially symbol even though many practical problems polynomial size descriptions
+MISC--: factored mdps fmdps may rescue us this explosion because they offer more compact representation citation
+MISC--: fmdp framework one assumes dependencies factored several easy handle components
+MISC--: mdps known parameters there three basic solution methods naturally countless variants them value iteration policy iteration linear programming see books sutton barto citation bertsekas tsitsiklis citation excellent overview
+MISC--: out methods linear programming generally considered less effective than others
+OWNX--: so comes surprise all effective fmdps algorithms our best knowledge use linear programming one way another
+MISC--: furthermore classic value iteration algorithm known divergent when function approximation used citation includes case fmdps too
+AIMX--: this paper we propose variant approximate value iteration algorithm solving fmdps
+MISC--: algorithm direct extension traditional value iteration algorithm
+MISC--: furthermore avoids computationally expensive manipulations like linear programming construction decision trees
+OWNX--: we prove algorithm always converges fixed point requires polynomial time reach fixed accuracy
+MISC--: bound distance optimal solution also given
+OWNX--: section we review basic concepts markov decision processes including classical value iteration algorithm its combination linear function approximation
+OWNX--: we also give sufficient condition convergence approximate value iteration list several examples interest
+OWNX--: section we extend results previous section fmdps review related works section
+OWNX--: conclusions drawn section

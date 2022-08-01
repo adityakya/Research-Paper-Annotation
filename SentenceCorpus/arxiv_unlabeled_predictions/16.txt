@@ -1,0 +1,31 @@
+MISC--: solomonoff completed bayesian framework providing rigorous unique formal universal choice model class prior
+OWNX--: we discuss breadth how sense universal non iid sequence prediction solves various philosophical problems traditional bayesian sequence prediction
+MISC--: we show solomonoff s model possesses many desirable properties fast convergence strong bounds contrast most classical continuous prior densities no zero p oste rior problem ie confirm universal hypotheses reparametrization regrouping invariant avoids old evidence updating problem
+MISC--: even performs well actually better non computable environments
+MISC--: given weather past what probability rain tomorrow
+OWNX--: what correct answer iq test asking continue sequence
+MISC--: given historic stock charts one predict quotes tomorrow
+MISC--: assuming sun rose years every day how likely doomsday sun does not rise tomorrow
+MISC--: instances important problem inductive inference time series forecasting sequence prediction
+MISC--: finding prediction rules every particular new problem possible but cumbersome prone disagreement contradiction
+OWNX--: what we interested formal general theory prediction
+MISC--: bayesian framework most consistent successful framework developed thus far citation
+MISC--: bayesian considers set environments hypotheses models symbol includes true data generating probability distribution symbol
+OWNX--: one s prior belief symbol environment symbol observed data sequence symbol bayes rule yields one s posterior confidence symbol
+MISC--: predictive setting one directly determines predictive probability next symbol symbol without intermediate step identifying true good causal useful model
+MISC--: note classification regression regarded special sequence prediction problems where sequence symbol symbol pairs given class label function value symbol shall predicted
+MISC--: bayesian framework leaves open how choose model class symbol prior symbol
+MISC--: general guidelines symbol should small but large enough contain true environment symbol symbol should reflect one s prior subjective belief symbol should non informative neutral objective if no prior knowledge available
+MISC--: but informal ambiguous considerations outside formal bayesian framework
+MISC--: solomonoff s citation rigorous essentially unique formal universal solution this problem consider single large universal class symbol suitable all induction problems
+OWNX--: corresponding universal prior symbol biased towards simple environments way dominates superior all other priors
+MISC--: this leads priori probability symbol equivalent probability universal turing machine random input tape outputs symbol
+MISC--: many interesting important deep results been proven solomonoff s universal distribution symbol citation
+OWNX--: motivation goal this paper provide broad discussion how sense universal sequence prediction solves all kinds philosophical problems bayesian sequence prediction present some recent results
+MISC--: many arguments ideas could further developed
+MISC--: i hope exposition stimulates future more detailed investigation
+OWNX--: section we review excellent predictive performance bayesian sequence prediction generic non iid countable continuous model classes
+MISC--: section critically reviews classical principles indifference symmetry minimax obtaining objective priors introduces universal prior inspired occam s razor quantified terms kolmogorov complexity
+OWNX--: section iid symbol section universal symbol we show various desirable properties universal prior class non zero p oste rior confirmation universal hypotheses reparametrization regrouping invariance no old evidence updating problem contrast most classical continuous prior densities
+AIMX--: finally we show universal mixture performs better than classical continuous mixtures even uncomputable environments
+OWNX--: section contains critique summary

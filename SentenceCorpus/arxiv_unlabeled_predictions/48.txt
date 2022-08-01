@@ -1,0 +1,41 @@
+MISC--: because query execution most crucial part inductive logic programming ilp algorithms lot effort invested developing faster execution mechanisms
+OWNX--: execution mechanisms typically low level implementation making them hard debug
+MISC--: moreover other factors complexity problems handled ilp algorithms size code base ilp data mining systems make debugging at this level very difficult job
+AIMX--: this work we present trace based debugging approach currently used development new execution mechanisms hipp engine underlying ace data mining system
+CONT--: this debugger uses delta debugging algorithm automatically reduce total time needed expose bugs ilp execution thus making manual debugging step much lighter
+MISC--: data mining citation process finding patterns describe large set data best
+OWNX--: inductive logic programming ilp citation multi relational data mining approach uses logic programming paradigm its basis
+MISC--: ilp uses generate test approach where each iteration large set hypotheses queries evaluated data also called examples
+OWNX--: based results this evaluation ilp process selects best hypotheses refines them further
+MISC--: due size data problems handled ilp underlying query evaluation engine e g prolog system crucial part real life ilp system
+OWNX--: hence lot effort invested optimizing engine yield faster evaluation time through use new execution mechanisms different internal data representations etc
+MISC--: development new execution mechanisms ilp happens mainly engine ilp system
+MISC--: optimized execution strategies typically require low level implementation yield significant benefits
+MISC--: example query pack citation adpack citation execution mechanisms require introduction new dedicated wam instructions together set new data structures instructions use manipulate
+OWNX--: because their low level nature finding bugs implementation execution mechanisms very hard
+CONT--: while tracing bugs low level implementations might still feasible small test programs many bugs only appear during execution ilp algorithm real life data sets
+MISC--: several factors make debugging this situation difficult size ilp system itself
+MISC--: real life ilp systems group implementation many algorithms into one big system
+MISC--: systems therefore often very large code base
+MISC--: example ace system citation consists over lines code
+MISC--: case ace system code base very heterogeneous where parts code written different languages others generated automatically using preprocessors etc
+MISC--: this makes practice very hard use standard tracing detect bugs
+MISC--: complexity size ilp problem
+MISC--: large datasets take very long time hours even days before specific bug occurs
+CONT--: when debugging one typically performs multiple runs small modifications pin point exact problem so long execution times make this approach infeasible
+MISC--: high complexity hypothesis generation phase
+MISC--: while evaluation hypotheses often bottleneck some algorithms rule learners very expensive hypothesis generation phase
+OWNX--: this phase independent execution queries itself no influence exposure bug
+MISC--: algorithms very complex hypothesis generation take very long time bug execution mechanism expose itself even when time spent executing queries small
+MISC--: non determinacy ilp algorithms
+CONT--: if ilp algorithm makes random decisions typically hypothesis generation phase exact point time where bug occurs changes run run
+OWNX--: even possible bug does not occur at all certain runs
+OWNX--: citation we proposed trace based approach analyzing debugging ilp data mining execution
+CONT--: this approach allowed easy fast debugging underlying query execution engines independent ilp algorithm causing bug appear
+BASE--: this work we present extension this debugging approach automating large part debugging process
+OWNX--: applying delta debugging algorithm citation ilp execution traces we automatically generate minimal traces exposing bug thus greatly reducing time effort needed track bug down
+OWNX--: this approach currently used development new execution mechanisms hipp citation engine underlying ace data mining system citation organization this paper follows section we give brief introduction inductive logic programming
+OWNX--: section discusses collection run time information necessary our trace based debugging approach
+OWNX--: section then discusses applying delta debugging algorithm traces allow fast easy debugging
+OWNX--: we briefly discuss implementation our delta debugger section
+OWNX--: finally we conclude section

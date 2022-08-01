@@ -1,0 +1,19 @@
+OWNX--: we present algorithm called symbol learning make decisions situations where payoff only one choice observed rather than all choices
+CONT--: algorithm reduces this setting binary classification allowing one reuse any existing fully supervised binary classification algorithm this partial information setting
+OWNX--: we show offset tree optimal reduction binary classification
+MISC--: particular regret at most symbol times regret binary classifier uses where symbol number choices no reduction binary classification do better
+OWNX--: this reduction also computationally optimal both at training test time requiring just symbol work train example make prediction
+MISC--: experiments symbol show generally performs better than several alternative approaches
+OWNX--: this paper about learning make decisions partial feedback settings where payoff only one choice observed rather than all choices
+MISC--: example consider internet site recommending ads other content based observable quantities user history search engine queries unique nearly unique every decision
+OWNX--: after ad displayed user either clicks not
+OWNX--: this type feedback differs critically standard supervised learning setting since we don t observe whether not user would clicked had different ad beed displayed instead
+OWNX--: online version problem policy chooses ads display uses observed feedback improve its future ad choices
+MISC--: good solution this problem must explore different choices properly exploit feedback
+MISC--: problem faced internet site however more complex
+MISC--: they observed many interactions historically would like exploit them forming initial policy may then improved further online exploration
+OWNX--: since exploration decisions already been made online solutions not applicable
+MISC--: properly use data we need non interactive methods learning partial feedback
+AIMX--: this paper about constructing family algorithms non interactive learning partial feedback settings
+CONT--: since any non interactive solution composed exploration policy form algorithm online learning setting algorithm proposed here also used online
+OWNX--: indeed some our experiments done online setting

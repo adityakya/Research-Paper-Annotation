@@ -1,0 +1,31 @@
+MISC--: fundamental problem pattern recognition graph matching applications variety fields computer vision computational biology
+MISC--: graph matching patterns modeled graphs pattern recognition amounts finding correspondence between nodes different graphs
+MISC--: many formulations this problem cast general quadratic assignment problem where linear term objective function encodes node compatibility quadratic term encodes edge compatibility
+MISC--: main research focus this theme about designing efficient algorithms approximately solving quadratic assignment problem since np hard
+AIMX--: this paper we turn our attention different question how estimate compatibility functions solution resulting graph matching problem best matches expected solution human would manually provide
+OWNX--: we present method learning graph matching training examples pairs graphs labels matches between them
+OWNX--: our experimental results reveal learning substantially improve performance standard graph matching algorithms
+MISC--: particular we find simple linear assignment learning scheme outperforms graduated assignment bistochastic normalisation state art quadratic assignment relaxation algorithm
+OWNX--: graphs commonly used abstract representations complex structures including dna sequences documents text images
+MISC--: particular they extensively used field computer vision where many problems formulated attributed graph matching problem
+MISC--: here nodes graphs correspond local features image edges correspond relational aspects between features both nodes edges attributed i e they encode feature vectors
+MISC--: graph matching then consists finding correspondence between nodes two graphs they look most similar when vertices labeled according correspondence
+MISC--: typically problem mathematically formulated quadratic assignment problem consists finding assignment maximizes objective function encoding local compatibilities linear term structural compatibilities quadratic term
+MISC--: main body research graph matching then been focused devising more accurate faster algorithms solve problem approximately since np hard compatibility functions used graph matching typically handcrafted
+OWNX--: interesting question arises this context if we given two attributed graphs match symbol symbol should optimal match uniquely determined
+MISC--: example assume first symbol symbol come two images acquired surveillance camera airport s lounge now assume same symbol symbol instead come two images photographer s image database should optimal match same both situations
+MISC--: if algorithm takes into account exclusively graphs matched optimal solutions will same since graph pair same both cases
+OWNX--: this standard way graph matching approached today
+AIMX--: this paper we address what we believe limitation this approach
+OWNX--: we argue if we know conditions under pair graphs been extracted then we should take into account how graphs arising those conditions typically matched
+OWNX--: however we do not take information conditions explicitly into account since this would obviously impractical
+OWNX--: instead we approach problem purely statistical inference perspective
+OWNX--: first we extract graphs number images acquired under same conditions those we want solve whatever word conditions means e g surveillance camera photographer s database
+OWNX--: we then manually provide what we understand optimal matches between resulting graphs
+MISC--: this information then used learning algorithm learns map space pairs graphs space matches
+CONT--: terms quadratic assignment problem this learning algorithm amounts loose language adjusting node edge compatibility functions expected optimal match test pair graphs agrees expected match they would had had they been training set
+MISC--: this formulation learning problem consists convex quadratic program readily solvable means column generation procedure
+OWNX--: we provide experimental evidence applying learning standard graph matching algorithms significantly improves their performance
+CONT--: fact we show learning improves upon non learning results so dramatically linear assignment learning outperforms graduated assignment bistochastic normalisation state art quadratic assignment relaxation algorithm
+OWNX--: also introducing learning graduated assignment itself we obtain results improve both accuracy speed over best existing quadratic assignment relaxations
+AIMX--: preliminary version this paper appeared citation

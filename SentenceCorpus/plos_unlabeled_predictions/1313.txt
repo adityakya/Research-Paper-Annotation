@@ -1,0 +1,61 @@
+MISC--: metagenomics discipline enables genomic study uncultured microorganisms
+OWNX--: faster cheaper sequencing technologies ability sequence uncultured microbes sampled directly their habitats expanding transforming our view microbial world
+MISC--: distilling meaningful information millions new genomic sequences presents serious challenge bioinformaticians
+MISC--: cultured microbes genomic data come single clone making sequence assembly annotation tractable
+MISC--: metagenomics data come heterogeneous microbial communities sometimes containing more than species sequence data being noisy partial
+MISC--: sampling assembly gene calling function prediction bioinformatics faces new demands interpreting voluminous noisy often partial sequence data
+MISC--: although metagenomics relative newcomer science past few years seen explosion computational methods applied metagenomic based research
+OWNX--: therefore not within scope this article provide exhaustive review
+MISC--: rather we provide here concise yet comprehensive introduction current computational requirements presented metagenomics review recent progress made
+MISC--: we also note whether there software implements any methods presented here briefly review its utility
+OWNX--: nevertheless would useful if readers this article would avail themselves comment section provided this journal relate their own experiences
+OWNX--: finally last section this article provides few representative studies illustrating different facets recent scientific discoveries made using metagenomics
+MISC--: most its history life earth consisted solely microscopic life forms microbial life still dominates earth many aspects
+MISC--: estimated prokaryotic cells inhabiting our planet sequester some petagrams carbon pg nitrogen pg phosphorous making them largest reservoir those nutrients earth citation
+MISC--: bacteria archaea live all environments capable sustaining other life many cases sole inhabitants extreme environments deep sea vents temperatures c rocks found boreholes km beneath earth s surface
+MISC--: bacteria archea microeukaryotes dominate earth s habitats compound recycling nutrient sequestration according some estimates biomass
+MISC--: microbes not only ubiquitous they essential all life they primary source nutrients primary recyclers dead matter back available organic form
+MISC--: along all other animals plants human condition profoundly affected microbes scourges human farm animal crop pandemics benefits agriculture food industry medicine name few
+OWNX--: we humans more bacterial cells inhabiting our body than our own cells citation citation
+MISC--: been stated key understanding human condition lies understanding human genome citation citation
+MISC--: but given our intimate relationship microbes citation researching human genome now understood necessary though insufficient condition sequencing genomes our own microbes would necessary too
+OWNX--: also better understand role microbes biosphere would necessary undertake genomic study them well
+MISC--: study microbial genomes started late s sequencing genomes bacteriophages ms citation x citation
+MISC--: microbiology took major step sequencing first bacterial genome haemophilus influenza citation
+MISC--: genomes bacterial viral archaeal species deposited genbank release
+MISC--: having hand large number microbial genomes changed nature microbiology microbial evolution studies
+MISC--: providing ability examine relationship genome structure function across many different species data also opened up fields comparative genomics systems biology
+MISC--: nevertheless single organism genome studies limits
+OWNX--: first technology limitations mean organism must first clonally cultured sequence its entire genome
+MISC--: however only small percentage microbes nature cultured means extant genomic data highly biased do not represent true picture genomes microbial species citation citation
+MISC--: second very rarely do microbes live single species communities species interact both each other their habitats may also include host organisms
+OWNX--: therefore clonal culture also fails represent true state affairs nature respect organism interaction resulting population genomic variance biological functions
+MISC--: new sequencing technologies drastic reduction cost sequencing helping us overcome limits
+OWNX--: we now ability obtain genomic information directly microbial communities their natural habitats
+OWNX--: suddenly instead looking at few species individually we able study tens thousands all together
+BASE--: sequence data taken directly environment were dubbed metagenome citation study sequence data directly environment metagenomics citation
+MISC--: however environmental sequencing comes its own information restricting price tag
+MISC--: single organism genomics practically all microbe s genome sequenced providing complete picture genome
+OWNX--: we know species dna rna originated
+OWNX--: after assembly location genes operons transcriptional units computationally inferred
+MISC--: control elements other cues identified infer transcriptional translational units
+OWNX--: consequently we achieve nearly complete well ordered picture all genomic elements sequenced organism
+AIMX--: we may not recognize all elements what they some errors may creep but we gauge breadth our knowledge properly annotate those areas genome we manage decipher
+OWNX--: contrast sequences obtained environmental genomic studies fragmented
+MISC--: each fragment was obviously sequenced specific species but there many different species single sample most full genome not available
+MISC--: many cases impossible determine true species origin
+MISC--: length each fragment anywhere between base pairs bp depending sequencing method used
+MISC--: short sequence reads dissociated their original species assembled lengths usually not exceeding bp consequently reconstruction whole genome generally not possible
+MISC--: even reconstruction entire transcriptional unit problematic
+MISC--: addition being fragmented incomplete volume sequence data acquired environmental sequencing several orders magnitude larger than acquired single organism genomics
+MISC--: reasons computational biologists been developing new algorithms analyze metagenomic data
+MISC--: computational challenges new very exciting
+OWNX--: we entering era akin first genomic revolution almost two decades ago
+MISC--: whole organism genomics allows us examine evolution not only single genes but whole transcriptional units chromosomes cellular networks
+MISC--: but more recently metagenomics gave us ability study most fundamental genomic level relationship between microbes communities habitats they live
+MISC--: how does adaptation microbes different environments including host animals other microbes manifest itself their genomes
+MISC--: us humans this question strike very close home when those habitats our own bodies microbes associated our own well being illnesses almost every aspect human life well life every other living being planet affected microbes
+MISC--: we now experimental technology understand microbial communities how they affect us but sheer volume fragmentary nature data challenge computational biologists distill all data into useful information
+OWNX--: this article we shall briefly outline some experimental technological computational achievements challenges associated metagenomic data sequence generation assembly through various levels metagenomic annotation
+OWNX--: we will also discuss computational issues unique environmental genomics estimating metagenome size handling associated metadata
+OWNX--: finally we will review some studies highlighting advantages metagenomic based research some insights enabled

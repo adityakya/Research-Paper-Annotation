@@ -1,0 +1,49 @@
+MISC--: theoretical equivalence exists among various auction mechanisms specifically second price auction spa competitive environment bdm mechanism non competitive environment
+MISC--: yet empirical studies suggest behavior mechanisms may diverge
+OWNX--: our experimental study examines wtp wta individuals analyzing buying selling bidding patterns both physical product mugs two types lotteries regular lotteries extreme lotteries two auctions mechanism spa bdm
+OWNX--: we found wtp spa higher than wtp bdm mugs regular lotteries while mechanisms do not differ significantly extreme lotteries
+MISC--: addition wta spa lower than bdm regular lotteries only
+OWNX--: results indicate wtp wta well wta wtp gap tend differ spa bdm result interaction between competitiveness effect other psychological effects bidding patterns riskless risky assets
+MISC--: addition current study suggests competitiveness effect depends not only type mechanism spa but also type item physical assets lotteries type lottery
+MISC--: addition influence competitiveness effect may vary between buying selling positions
+MISC--: several studies compared bidding patterns subjects different auction mechanisms
+MISC--: despite theoretical equivalence among various auction mechanisms bdm mechanism citation second price auction henceforth spa citation empirical studies suggest behavior mechanisms may diverge citation
+MISC--: auctions based bdm mechanism individuals buying asset declare their maximum buying price known willingness pay wtp
+MISC--: if bidding price higher than drawn number individual pays drawn number buys asset
+MISC--: when selling asset individuals declare their minimum selling price known willingness accept wta
+MISC--: if bidding price lower than drawn number individual receives amount drawn number sells asset
+MISC--: auctions based spa highest bidder buying auction wins final prize pays second highest bid
+MISC--: lowest bidder selling auction wins final prize pays second lowest bid
+MISC--: spa more competitive than bdm mechanism since each participant competes others
+MISC--: shogren et al citation suggested spa people may submit bids win sake winning
+MISC--: they may bid wtp up wta down order walk out experiment top dog among their peers p number
+MISC--: top dog effect said exist if bidders submit bids excess their true valuation intention deriving utility winning auction
+MISC--: previous evidence existence top dog effect been mixed
+MISC--: shogren hayes citation report nearly number percent participants induced value auction market submitted bids were less than equal their assigned value
+OWNX--: authors concluded results not consistent existence top dog effect
+MISC--: contrast kagel s review citation induced value spa literature indicates mean bid auctions generally greater than predicted theory
+MISC--: corrigan rousu citation provided evidence spa overbidding repeated trial auctions interpreting results top dog effect
+MISC--: addition shavit et al citation show competitiveness affects bidding patterns spa
+MISC--: current study examines impact top dog effect competitiveness effect spa bidding patterns different goods riskless risky assets different positions buyer seller
+MISC--: particular study examined wtp wta analyzing buying selling bidding patterns both mugs lotteries two separate auctions mechanism spa competitive environment bdm mechanism non competitive environment
+OWNX--: we consider two types lotteries regular lotteries extreme lotteries
+OWNX--: extreme lotteries involve very high outcome associated small probability low zero outcome associated high probability
+OWNX--: previous studies did not distinguish between biddings regular extreme lotteries two mechanisms
+OWNX--: this study we examine two types lotteries since we expected find differences between them bidding patterns spa bdm
+OWNX--: extreme lotteries we expect no impact competitiveness effect buying position spa since chances loss very high lottery will not attractive buy
+OWNX--: addition we expect competitiveness effect selling position spa will canceled out since seller extreme lottery who focuses very high winning outcome will avoid selling
+MISC--: evaluate wtp wta item we considered several psychological effects influence bidding patterns individuals
+OWNX--: effects impact each effects sum all them wtp wta expected vary among goods mechanisms
+OWNX--: literature does not discuss possible interaction between psychological effects competitiveness environment effect
+OWNX--: our study fills this void compares interaction effects bidding mugs lotteries
+MISC--: psychological effects loss aversion endowment effect been used explain wta wtp disparity citation
+MISC--: yet recent studies questioned existence interpretation possible gap between wtp wta citation
+MISC--: shogren hayes citation shogern et al citation argued wta wtp disparity first trial market goods candy bars university mugs both auctions bdm spa disappeared quickly repeated trials spa though persisted bdm mechanism
+MISC--: shogern et al citation suggested wta wtp disparity may depend auction mechanism
+MISC--: lotteries schmidt traub citation argued asymmetric effect buyer focuses potential disappointment lowest outcome seller focuses potential regret losing highest outcome may cause disparity between wta wtp
+AIMX--: current study we use not only mugs but also regular extreme lotteries enable us examine more rigorously this asymmetry between buyers sellers
+MISC--: sum current study examines wta wtp riskless goods mugs two types risky assets regular extreme lotteries competitive versus non competitive mechanisms compares wta wtp gap items two mechanisms
+MISC--: study also discusses influence interaction between competitive effect other psychological effects subjects bidding patterns
+MISC--: results should shed some light impact competitiveness effect spa bidding pattern different assets different positions comparison bdm
+AIMX--: rest paper organized follows
+OWNX--: section number outlines main hypotheses section number presents experimental method section number presents results

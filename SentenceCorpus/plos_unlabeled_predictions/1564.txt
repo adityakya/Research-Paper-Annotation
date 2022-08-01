@@ -1,0 +1,24 @@
+MISC--: protein folding dynamics often described diffusion free energy surface considered function one few reaction coordinates
+CONT--: however growing number experiments models show when projected onto reaction coordinate protein dynamics sub diffusive
+OWNX--: this raises question whether conventionally used diffusive description dynamics adequate
+MISC--: here we numerically construct optimum reaction coordinate long equilibrium folding trajectory go model formula repressor protein
+CONT--: trajectory projected onto this coordinate exhibits diffusive dynamics while dynamics same trajectory projected onto sub optimal reaction coordinate sub diffusive
+AIMX--: we show higher free energy profile putative reaction coordinate more diffusive dynamics become when projected this coordinate
+OWNX--: results suggest whether projected dynamics diffusive sub diffusive depends chosen reaction coordinate
+MISC--: protein folding described diffusion free energy surface function optimum reaction coordinate
+CONT--: conversely conventional reaction coordinates even though they might based physical intuition often sub optimal hence show sub diffusive dynamics
+MISC--: free energy surface projected onto one small number coordinates often used describe equilibrium kinetic properties complex systems very large number degrees freedom
+MISC--: studies protein folding important case where this type projected surface been introduced coordinates number native contacts radius gyration been used citation citation
+MISC--: protein folding then described diffusion projected free energy surface
+MISC--: diffusive dynamics characterized means square displacement linearly growing time formula where d diffusion coefficient
+MISC--: single reaction coordinate diffusive dynamics completely specified free energy profile i e free energy function coordinate coordinate dependent diffusion coefficient conveniently computed conventional cut based free energy profiles citation
+MISC--: construction good reaction coordinate challenging
+MISC--: many cases standard progress variables not good reaction coordinates because they do not preserve barriers fes thus may mask inherent complexity latter citation
+MISC--: number methods construct good reaction coordinates been suggested citation citation citation
+MISC--: employing mori zwanzig formalism citation citation one derive generalized langevin equations describe system dynamics projected reaction coordinates
+MISC--: generalized langevin equation contains memory kernel leads non markovian dynamics subdiffusion
+MISC--: subdiffusion characterized mean square displacement growing slower than diffusion formula exponent formula
+OWNX--: completely specify dynamics this case one compute memory kernel not trivial since requires solution multidimensional partial differential equation citation
+MISC--: long term memory correlation functions anomalous diffusion proteins was observed experimentally theoretically citation citation
+MISC--: this raises question whether folding dynamics proteins described simple diffusion projected free energy surface often done if one use more sophisticated descriptions e g generalized langevin equations citation citation fractional fokker plank equations citation multiscale state space networks citation
+AIMX--: here we show if reaction coordinate properly optimized then dynamics projected onto this coordinate diffusive while same dynamics projected onto sub optimal coordinate sub diffusive

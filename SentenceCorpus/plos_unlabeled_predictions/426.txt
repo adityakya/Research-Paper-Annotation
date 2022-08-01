@@ -1,0 +1,35 @@
+MISC--: correlated changes nucleic amino acids provided strong information about structures interactions molecules
+MISC--: despite rich literature coevolutionary sequence analysis previous methods often trade off between generality simplicity phylogenetic information specific knowledge about interactions
+MISC--: furthermore despite evidence coevolution selected protein families comprehensive screening coevolution among all protein domains still lacking
+AIMX--: we propose augmented continuous time markov process model sequence coevolution
+OWNX--: model handle different types interactions incorporate phylogenetic information sequence substitution only one extra free parameter requires no knowledge about interaction rules
+OWNX--: we employ this model large scale screenings entire protein domain database
+MISC--: strikingly trillion tests executed majority inferred coevolving protein domains functionally related coevolving amino acid residues spatially coupled
+MISC--: moreover many coevolving positions located at functionally important sites proteins protein complexes subunit linkers superoxide dismutase trna binding sites ribosomes dna binding region rna polymerase active ligand binding sites various enzymes
+OWNX--: results suggest sequence coevolution manifests structural functional constraints proteins
+OWNX--: intricate relations between sequence coevolution various selective constraints worth pursuing at deeper level
+OWNX--: coevolution prevalent at species organismic molecular levels
+MISC--: at molecular level selective constraints operate entire system often require coordinated changes its components
+MISC--: most well known example compensatory substitution nucleic acid pairs rna secondary structures citation citation
+MISC--: interacting nucleotides vary between au cg gu pairs different species order maintain hydrogen bonds
+MISC--: coordinated changes amino acid residues also been investigated
+MISC--: typically studies acquired one family aligned sequences examined covariation between aligned positions entire sequences
+MISC--: some applied different covariation metrics including correlation coefficients citation citation mutual information citation citation deviance between marginal conditional distributions citation
+MISC--: studies demonstrate sequence covariation powerful detecting protein protein interactions citation citation ligand receptor bindings citation citation folding structure single proteins citation citation
+MISC--: addition direct physical interactions distant coevolving amino acid residues reported energetically coupled citation subject functional constraints proteins citation
+MISC--: major drawback many covariation metrics lack phylogenetic information
+MISC--: sequences manifesting same level covariation may arise either few independent substitutions early ancestors correlated changes along multiple lineages citation citation
+MISC--: rna structure prediction many authors thereby extended continuous time markov process sequence substitution citation coevolving nucleic acid pairs citation citation citation citation
+MISC--: however direct application models protein coevolution intractable due large number parameters ctmp amino acid pairs
+MISC--: this problem was addressed replacing amino acids ctmp simplified surrogate alphabet sets presence absence protein each species citation charge size amino acid groups citation
+MISC--: yet this simplification deviates standard ctmp sequence substitution rich set empirical models available
+MISC--: all previous studies detecting protein coevolution target few proteins protein domains myoglobin citation pgk citation ntr family citation pdz domain family citation gag hsp groel proteins citation
+MISC--: availability large scale protein sequences their phylogenetic information allows us perform systematic screening all known protein families
+MISC--: large scale screening will give comprehensive information coevolution among all protein domains provide insight about their physical functional couplings
+OWNX--: we propose general coevolutionary ctmp model requires neither simplification states nor prior knowledge about interactions only one extra free parameter
+MISC--: sequence substitution two sites modeled continuous time markov process
+OWNX--: null model hypothesizes two sites evolve independently
+MISC--: alternative model obtained null model reweighting independent substitution rate matrix favor double over single changes
+OWNX--: we apply this model all inter intra domain position pairs all known protein domain families pfam database citation
+MISC--: strikingly large number pairwise comparisons coevolving domain pairs highly enriched domains same proteins protein complexes possessing same functions
+MISC--: moreover coevolving positions demonstrate tendency spatial coupling mapped functionally important sites their proteins

@@ -1,0 +1,38 @@
+MISC--: many learning machines hierarchical structure hidden variables now being used information science artificial intelligence bioinformatics
+CONT--: however several learning machines used fields not regular but singular statistical models hence their generalization performance still left unknown
+OWNX--: overcome problems previous papers we proved new equations statistical learning we estimate bayes generalization loss bayes training loss functional variance condition true distribution singularity contained learning machine
+AIMX--: this paper we prove same equations hold even if true distribution not contained parametric model
+OWNX--: also we prove proposed equations regular case asymptotically equivalent takeuchi information criterion
+MISC--: therefore proposed equations always applicable without any condition unknown true distribution
+MISC--: nowadays lot learning machines being used information science artificial intelligence bioinformatics
+MISC--: however several learning machines used fields example three layer neural networks hidden markov models normal mixtures binomial mixtures boltzmann machines reduced rank regressions hierarchical structure hidden variables result mapping parameter probability distribution not one one
+MISC--: learning machines was pointed out maximum likelihood estimator not subject normal distribution citation posteriori distribution not approximated any gaussian distribution citation
+MISC--: hence conventional statistical methods model selection hypothesis test hyperparameter optimization not applicable learning machines
+OWNX--: other words we not yet established theoretical foundation learning machines extract hidden structures random samples
+AIMX--: statistical learning theory we study problem learning generalization based several assumptions
+MISC--: let symbol true probability density function symbol learning machine represented probability density function symbol parameter symbol
+AIMX--: this paper we examine following two assumptions first parametrizability condition
+MISC--: true distribution symbol said parametrizable learning machine symbol if there parameter symbol satisfies symbol
+MISC--: if otherwise called nonparametrizable second regularity condition
+MISC--: true distribution symbol said regular learning machine symbol if parameter symbol minimizes log loss function symbol unique if hessian matrix symbol positive definite
+MISC--: if true distribution not regular learning machine then said singular
+OWNX--: study layered neural networks normal mixtures both conditions important
+MISC--: fact if learning machine redundant compared true distribution then true distribution parametrizable singular
+MISC--: if learning machine too simple approximate true distribution then true distribution nonparametrizable regular
+OWNX--: practical applications we need method determine optimal learning machine therefore general formula desirable generalization loss estimated training loss without regard conditions
+MISC--: previous papers citation we studied case when true distribution parametrizable singular proved new formulas enable us estimate generalization loss training loss functional variance
+MISC--: since new formulas hold arbitrary set true distribution learning machine priori distribution they called equations states statistical estimation
+MISC--: however not been clarified whether they hold not nonparametrizable case
+AIMX--: this paper we study case when true distribution nonparametrizable regular prove same equations states also hold
+OWNX--: moreover we show nonparametrizable regular case equations states asymptotically equivalent takeuchi information criterion tic maximum likelihood method
+MISC--: here tic was derived model selection criterion case when true distribution not contained statistical model citation
+MISC--: network information criterion citation was devised generalizing arbitrary loss function regular case
+MISC--: if true distribution singular learning machine tic ill defined whereas equations states well defined equal average generalization losses
+OWNX--: therefore equations states understood generalized version tic maximum likelihood method regular case bayes method regular singular cases
+AIMX--: this paper consists six sections
+OWNX--: section we summarized framework bayes learning results previous papers
+OWNX--: section we show main results this paper
+OWNX--: section some lemmas prepared used proofs main results
+MISC--: proofs lemmas given appendix
+OWNX--: section we prove main theorems
+OWNX--: section we discuss conclude this paper

@@ -1,0 +1,44 @@
+MISC--: centrality lethality rule notes high degree nodes protein interaction network tend correspond proteins essential suggests topological prominence protein protein interaction network may good predictor its biological importance
+MISC--: even though correlation between degree essentiality was confirmed many independent studies reason this correlation remains illusive
+MISC--: several hypotheses about putative connections between essentiality hubs topology protein protein interaction networks been proposed but we demonstrate explanations not supported properties protein interaction networks
+MISC--: identify main topological determinant essentiality provide biological explanation connection between network topology essentiality we performed rigorous analysis six variants genomewide protein interaction network saccharomyces cerevisiae obtained using different techniques
+OWNX--: we demonstrated majority hubs essential due their involvement essential complex biological modules group densely connected proteins shared biological function enriched essential proteins
+MISC--: moreover we rejected two previously proposed explanations centrality lethality rule one relating essentiality hubs their role overall network connectivity another relying recently published essential protein interactions model
+MISC--: intriguing question analysis biological networks whether biological characteristics protein essentiality explained its placement network i e whether topological prominence implies biological importance
+MISC--: one first connections between two context protein interaction network so called centrality lethality rule was observed jeong colleagues citation who demonstrated high degree nodes hubs protein interaction network saccharomyces cerevisiae contain more essential proteins than would expected chance
+MISC--: since then correlation between degree essentiality was confirmed other studies citation citation but until recently there was no systematic attempt examine reasons this correlation
+OWNX--: particular what main topological determinant essentiality
+MISC--: number immediate neighbors some other more global topological property essential proteins may protein interaction network
+MISC--: jeong colleagues citation suggested overrepresentation essential proteins among high degree nodes attributed central role hubs play mediating interactions among numerous less connected proteins
+MISC--: indeed removal hubs disrupts connectivity network measured network diameter size largest connected component more than removal equivalent number random nodes citation citation
+MISC--: therefore under assumption organism s function depends connectivity among various parts its interactome hubs would predominantly essential because they play central role maintaining this connectivity
+MISC--: recently he colleagues challenged hypothesis essentiality being function global network structure proposed majority proteins essential due their involvement one more essential protein protein interactions distributed uniformly at random along network edges citation
+MISC--: under this hypothesis hubs proposed predominantly essential because they involved more interactions thus more likely involved one essential
+OWNX--: this work we carefully evaluate each proposed explanations centrality lethality rule
+MISC--: recently several hypotheses linked structural properties protein interaction networks biological phenomena come under scrutiny main concern being observed properties due experimental artifacts other biases present networks lack any biological implication
+BASE--: limit impact biases results reported our study we use six variants genomewide protein interaction network saccharomyces cerevisiae compiled diverse sources interaction evidence citation citation
+MISC--: assess whether essentiality hubs related their role maintaining network connectivity we performed two tests
+OWNX--: first if this were case then we would expect essential hubs more important maintaining network connectivity than nonessential hubs
+OWNX--: we found this not case
+OWNX--: next addition node degree we consider several other measures topological prominence we demonstrate some them better predictors role node plays network connectivity than node degree
+MISC--: thus if essentiality were related maintaining network connectivity then one would expect essentiality better correlated centrality measures than node degree
+OWNX--: however we found node degree better predictor essentiality than any other measure tested
+OWNX--: reject essential protein interaction model citation we used hypothesis testing approach
+OWNX--: namely we observed this model implies probability protein essential independent probability another noninteracting protein essential
+OWNX--: however tested networks essentiality noninteracting proteins share interaction partners correlated
+OWNX--: thus we reject independence assumption result essential protein interaction model high confidence
+OWNX--: motivated our findings we propose alternative explanation centrality lethality rule
+OWNX--: our explanation draws growing realization phenotypic effect gene knockout experiments function group functionally related genes genes whose gene products members same multiprotein complex citation
+MISC--: well known densely connected subnetworks enriched proteins share biological function
+MISC--: therefore one would expect dense subnetworks protein interaction networks should either enriched depleted essential proteins
+MISC--: indeed hart colleagues observed essential proteins not distributed evenly among set automatically indentified multiprotein complexes citation
+AIMX--: this work we observe same phenomenon holds potentially larger groups densely connected functionally related proteins we call complex biological modules
+AIMX--: we demonstrate due uneven distribution essential proteins among cobims majority essential proteins lie those cobims enriched essential proteins we call essential complex biological modules
+MISC--: very definition ecobims contain relative their size more essential nodes than random group proteins same size
+OWNX--: but what fraction all essential hubs members ecobims
+OWNX--: how does this number relate what expected chance
+OWNX--: fact how does enrichment hubs members nonmembers ecobims essential proteins relate enrichment values expected chance under suitable randomization protocol
+OWNX--: we propose membership ecobims largely accounts enrichment hubs essential proteins
+OWNX--: support this hypothesis we found fraction essential proteins among non ecobim hubs depending network only percent almost low network average
+CONT--: furthermore essentiality nodes not members ecobims only weakly correlated their degree
+MISC--: finally using randomization experiment we demonstrated properties characteristic protein interaction network unlikely corresponding randomized network

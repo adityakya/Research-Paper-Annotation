@@ -1,0 +1,71 @@
+MISC--: protein point mutations essential component evolutionary experimental analysis protein structure function
+MISC--: while many manually curated databases attempt index point mutations most experimentally generated point mutations biological impacts changes described peer reviewed published literature
+OWNX--: we describe application mutation grab identifies extracts verifies point mutations biomedical literature
+MISC--: principal problem point mutation extraction link point mutation its associated protein organism origin
+OWNX--: our algorithm uses graph based bigram traversal identify relevant associations exploits swiss prot protein database verify this information
+MISC--: graph bigram method different other models point mutation extraction incorporates frequency positional data all terms article drive point mutation protein association
+OWNX--: our method was tested articles describing point mutations g protein coupled receptor tyrosine kinase ion channel protein families
+OWNX--: we evaluated our graph bigram metric against word proximity metric term association datasets full text literature three different protein families
+CONT--: our testing shows graph bigram metric achieves higher f measure gpcrs protein tyrosine kinases ion channel transporters
+MISC--: importantly situations where more than one protein assigned point mutation disambiguation required graph bigram metric achieves precision compared word distance metric precision
+OWNX--: we believe graph bigram search metric significant improvement over previous search metrics point mutation extraction applicable text mining application requiring association words
+MISC--: advent ultra high throughput screening high density array technology biological community come appreciate value unbiased surveys complex biological systems
+MISC--: bioinformatics tools become integral part analysis extensive datasets
+MISC--: when complex data collected centrally analysis straightforward
+OWNX--: when data collected distributed fashion investigators must agree centralized data deposition strategy we must develop tools interrogate published literature extract relevant information
+MISC--: manually curated online databases developed meet this need but they difficult maintain scale
+MISC--: accordingly biological text mining field evolved identify extract information literature database storage access
+MISC--: two types tasks predominate biological text mining extraction gene protein names citation citation extraction interactions between proteins citation citation
+MISC--: biocreative challenge was citation focused name extraction citation additional task functional annotation citation
+MISC--: other text mining applications focus hypothesis generation citation probing protein subcellular localization citation pathway discovery citation
+MISC--: recent work also focused extraction protein point mutations biomedical literature citation citation
+MISC--: protein point mutations substitution wild type amino acid alternate one important our understanding protein function evolutionary relationships genetic disorders
+MISC--: functional perspective researchers introduce point mutations into proteins assay importance particular residue protein function
+MISC--: evolution relies upon mutations polymorphisms dna mechanism creating diversity protein sequences
+OWNX--: while term mutation used imply deleterious changes polymorphism means difference within species text mining purposes we refer point mutation substitution different amino acid reference amino acid
+MISC--: dbsnp citation human gene mutation database citation two many databases catalog point mutations their downstream effects
+MISC--: databases manually curated limits speed input into database breadth information represented but does aid incorporation complex information difficult text mining tools parse
+MISC--: task point mutation extraction decomposed into two subtasks
+MISC--: first necessary identify protein mutation terms discussed within article
+MISC--: after entities identified association must made between point mutation its correct protein origin
+AIMX--: this problem trivial when paper discusses single protein but increasingly complex when multiple proteins present
+OWNX--: our evaluation mutation graph bigram we downloaded full text pdf articles related gpcr tyrosine kinase ion channel protein families pubmed provided links
+OWNX--: using our dictionary based protein term identification method we counted articles out total contained point mutation could belonged multiple proteins
+MISC--: few methods point mutation extraction been developed
+MISC--: rebholz schuhmann et al citation describe method called mema scans medline abstracts mutations
+MISC--: baker witte citation citation describe method called mutation miner integrates point mutation extraction into protein structure visualization application
+MISC--: our own group presented mutext citation point mutation extraction method applied g protein coupled receptor nuclear hormone receptor literature
+MISC--: mema mutext use straightforward dictionary search identify protein gene names word proximity distance measurement disambiguate between multiple protein terms
+OWNX--: both methods while providing simple successful method point mutation extraction were limited two areas
+MISC--: first word distance measurement not always correct disambiguating between protein terms
+MISC--: second mema was evaluated set abstracts intrinsically more limited than full text article
+OWNX--: our literature set abstracts contained only percent point mutations found full text
+MISC--: point mutations were also validated against omim citation only contains disease related point mutations
+MISC--: mutext was trained evaluated gpcr intranuclear hormone receptor literature contained customizations algorithm dealing problematic protein naming amino acid numbering cases
+MISC--: mutation miner approaches problem differently
+OWNX--: this method identifies relates proteins organisms point mutations using nlp analysis at sentence level
+MISC--: entity pair assigned if both entities match noun phrase patterns
+OWNX--: this method would work well if all point mutations were described conjunction associated proteins organisms at sentence level we observed not always case
+MISC--: mutation miner also incorporates protein sequence information but use annotating protein d structures mutation information instead point mutation validation
+MISC--: our method improves mema mutext mutation miner using novel graph bigram metric incorporates frequency location terms disambiguate between proteins searches full text information
+MISC--: like mutext mutation grab utilizes swiss prot protein database citation sequence validation intrinsically contains more sequence variation than omim
+OWNX--: we addressed utility our application standardizing algorithm all protein families evaluating our method three different protein family literature sets covering articles
+OWNX--: more detailed comparisons mema mutation miner described discussion section
+MISC--: our task associating point mutations protein terms not sufficient minimally tag protein name literature we must also find its correct gene identifier corresponding database
+MISC--: biocreative challenge addressed this problem b subtask identifying protein gene mentioned text annotating its correct gene identifier
+MISC--: solutions this challenge ranged rule based methods citation machine learning approaches citation combination both
+CONT--: unfortunately some methods may not applicable our point mutation extraction task
+MISC--: participants biocreative challenge were provided large set annotated sentences categorized under three different organisms human yeast fly
+MISC--: some solutions subtask b consisted learning training data each organism then applying learned functions test set also divided organism
+OWNX--: this approach suboptimal our task two reasons
+MISC--: first because point mutations frequently analyzed at protein family superfamily level methods trained protein names organism specific lexicons would not well suited analysis across many species
+OWNX--: second our goal create broadly applicable methodology point mutation extraction utilized any categorization proteins
+MISC--: machine learning approaches benefit large detailed annotated training sets
+MISC--: our experience manual labor involved annotating amount text necessary learn protein family specific nomenclature scale presented biocreative likely undermine benefits automated point mutation extraction
+MISC--: methods relying solely rule based features protein name identification generally perform at lower precision recall than methods incorporating machine learning
+MISC--: however since rule based methods do not necessarily require annotated training data they advantageous when data unavailable difficult acquire
+MISC--: our approach protein term identification similar other rule based approaches citation citation citation
+MISC--: we first create dictionary using names synonyms proteins protein family protein names retrieved their respective swiss prot entrezgene entries
+MISC--: terms dictionary then searched journal literature
+OWNX--: depending character length composition terms we search different regular expressions varying levels specificity
+OWNX--: further description this detailed methods section

@@ -1,0 +1,53 @@
+OWNX--: we show how text news articles used predict intraday price movements financial assets using support vector machines
+OWNX--: multiple kernel learning used combine equity returns text predictive features increase classification performance we develop analytic center cutting plane method solve kernel learning problem efficiently
+OWNX--: we observe while direction returns not predictable using either text returns their size text features producing significantly better performance than historical returns alone
+MISC--: asset pricing models often describe arrival novel information jump process but characteristics underlying jump process only coarsely if at all related underlying source information
+MISC--: similarly time series models arch garch been developed forecast volatility using asset returns data but methods also ignore one key source market volatility financial news
+MISC--: our objective here show text classification techniques allow much more refined analysis impact news asset prices
+MISC--: empirical studies examine stock return predictability traced back citation among others who showed there no significant autocorrelation daily returns thirty stocks dow jones industrial average
+MISC--: similar studies were conducted citation citation who find significant autocorrelation squared absolute returns i e volatility
+MISC--: effects also observed intraday volatility patterns demonstrated citation citation absolute returns
+OWNX--: findings tend demonstrate given solely historical stock returns future stock returns not predictable while volatility
+MISC--: impact news articles also been studied extensively
+MISC--: citation example studied price fluctuations interest rate foreign exchange futures markets following macroeconomic announcements showed prices mostly adjusted within one minute major announcements
+MISC--: citation aggregated daily announcements dow jones company into single variable found no correlation market absolute returns weak correlation firm specific absolute returns
+MISC--: however citation aggregated intraday news concerning companies listed australian stock exchange into exogenous variable garch model found significant predictive power
+MISC--: findings attributed conditioning volatility news
+OWNX--: results were further improved restricting type news articles included
+MISC--: most common techniques forecasting volatility often based autoregressive conditional heteroskedasticity arch generalized arch garch models mentioned above
+MISC--: example intraday volatility foreign exchange equity markets modeled ma garch citation arch citation
+MISC--: see citation survey arch garch models various other applications
+OWNX--: machine learning techniques neural networks support vector machines also been used forecast volatility
+OWNX--: neural networks used citation forecast implied volatility options sp index support vector machines used forecast volatility sp index using daily returns citation
+OWNX--: here we show information press releases used predict intraday abnormal returns relatively high accuracy
+MISC--: consistent citation citation however direction returns not found predictable
+OWNX--: we form text classification problem where press releases labeled positive if absolute return jumps at some fixed time after news made public
+OWNX--: support vector machines svm used solve this classification problem using both equity returns word frequencies press releases
+OWNX--: furthermore we use multiple kernel learning mkl optimally combine equity returns text predictive features increase classification performance
+MISC--: text classification well studied problem machine learning citation citation among many others show svm significantly outperform classic methods naive bayes
+MISC--: initially naive bayes classifiers were used citation do three class classification index using daily returns labels
+MISC--: news taken several sources reuters wall street journal
+MISC--: five class classification naive bayes classifiers used citation classify intraday price trends when articles published at yahoo
+MISC--: finance website
+MISC--: support vector machines were also used classify intraday price trends citation using reuters articles citation do four class classification stock returns using press releases prnewswire
+MISC--: text classification also been used directly predict volatility see citation survey trading systems use text
+MISC--: recently citation used svm predict if articles bloomberg service followed abnormally large volatility articles deemed important then aggregated into variable used garch model similar citation
+OWNX--: citation use support vector regression svr forecast stock return volatility based text sec mandated k reports
+MISC--: they found reports published after sarbanes oxley act improved forecasts over baseline methods did not use text
+MISC--: generating trading rules genetic programming gp another way incorporate text financial trading systems
+MISC--: trading rules created citation using gp foreign exchange markets based technical indicators extended citation combine technical indicators non publicly available information
+MISC--: ensemble methods were used citation top gp create rules based headlines posted yahoo internet message boards
+OWNX--: our contribution here twofold
+OWNX--: first abnormal returns predicted using text classification techniques similar citation
+OWNX--: given press release we predict whether not abnormal return will occur next symbol minutes using text past absolute returns
+MISC--: algorithm citation uses text predict whether returns jump up down remain within bounds unclear within minutes press release
+MISC--: they consider nine months subset eight years press releases used here
+OWNX--: our experiments analyze predictability absolute returns at many horizons demonstrate significant initial intraday predictability decreases throughout trading day
+OWNX--: second we optimally combine text information asset price time series significantly enhance classification performance using multiple kernel learning mkl
+OWNX--: we use analytic center cutting plane method accpm solve resulting mkl problem
+MISC--: accpm particularly efficient problems where objective function gradient hard evaluate but whose feasible set simple enough so analytic centers computed efficiently
+OWNX--: furthermore because does not suffer conditioning issues accpm achieve higher precision targets than other first order methods
+AIMX--: rest paper organized follows
+OWNX--: section details text classification problem we solve here provides predictability results using using either text absolute returns features
+OWNX--: section describes multiple kernel learning framework details analytic center cutting plane algorithm used solve resulting optimization problem
+OWNX--: finally we use mkl enhance prediction performance

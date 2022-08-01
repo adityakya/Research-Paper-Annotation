@@ -1,0 +1,28 @@
+OWNX--: this genome scale study analysed various parameters influencing protein levels cells
+OWNX--: achieve this goal model bacterium lactococcus lactis was grown at steady state continuous cultures at different growth rates proteomic transcriptomic data were thoroughly compared
+MISC--: ratios mrna protein were highly variable among proteins but also given gene between different growth conditions
+MISC--: modeling cellular processes combined data fitting modeling approach allowed both translation efficiencies degradation rates estimated each protein each growth condition
+MISC--: estimated translational efficiencies degradation rates strongly differed between proteins were tested their biological significance through statistical correlations relevant parameters codon amino acid bias
+OWNX--: efficiencies degradation rates were not constant all growth conditions were inversely proportional growth rate indicating more efficient translation at low growth rate but antagonistic higher rate protein degradation
+MISC--: estimated protein median half lives ranged min underlying importance protein degradation notably at low growth rates
+MISC--: regulation intracellular protein level was analysed through regulatory coefficient calculations revealing complex control depending protein growth conditions
+CONT--: modeling approach enabled translational efficiencies protein degradation rates estimated two biological parameters extremely difficult determine experimentally generally lacking bacteria
+OWNX--: this method generic now extended other environments other micro organisms
+MISC--: era omics systems biology emerged availability genome wide data different levels i e genome transcriptome proteome metabolome citation citation
+MISC--: this approach aims at integrating omics data mainly through computational mathematical models citation citation so decipher biological systems whole citation
+OWNX--: integration transcriptomic proteomic results huge challenge itself
+MISC--: literature usually exploits two approaches complementary tools does not often provide correct confrontation two datasets
+MISC--: until now only few researchers mainly interested yeast physiology citation citation been working this aspect results typically revealed modest correlations between those two datasets citation citation
+MISC--: weak correlations between transcript protein levels consequence involvement post transcriptional regulations citation translation control protein degradation evidenced brockmann et al citation
+OWNX--: translation regulations believed involved protein level control but generally studied at level controlling specific molecular mechanisms not at genome scale citation citation
+CONT--: although polysome profile analysis allows translation efficiencies experimentally determined various transcripts simultaneously this technique been only rarely used almost exclusively s cerevisiae citation
+MISC--: protein stability also influence intracellular protein level correlation between transcript protein citation citation citation
+MISC--: however protein stability rarely studied at genome scale data only available s cerevisiae citation citation
+MISC--: finally rate protein disappearance due protein dilution cellular growth also potentially involved protein level modifications but this physical phenomenon generally neglected
+MISC--: more generally even if translation efficiency protein degradation dilution rate all influence protein levels parameters not usually studied simultaneously
+OWNX--: role each parameter whole cellular adaptation process not been elucidated not clearly known today parameter preponderant if control constant not when environmental conditions modified
+OWNX--: aim this study was analyse control intracellular protein level taking into account all parameters this control prokaryotic organism model lactic acid bacteria lactococcus lactis
+OWNX--: achieve this purpose transcriptomic proteomic analyses were performed cells same culture
+MISC--: transcriptomic data were already available citation corresponding proteome measurement was performed
+MISC--: whole protein related processes including translation dilution rate protein degradation were modelled since biological data were obtained at steady state equations describing protein levels equilibrium were solved
+MISC--: this modeling approach allowed translation efficiency protein degradation estimated relative involvement all various parameters protein control analysed

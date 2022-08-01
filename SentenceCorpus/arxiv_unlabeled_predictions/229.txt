@@ -1,0 +1,38 @@
+OWNX--: we describe preliminary investigation into learning chess player s style game records
+OWNX--: method based attempting learn features player s individual evaluation function using method temporal differences aid conventional chess engine architecture
+OWNX--: some encouraging results were obtained learning styles two recent chess world champions we report our attempt use learnt styles discriminate between players game records trying detect who was playing white who was playing black
+OWNX--: we also discuss some limitations our approach propose possible directions future research
+MISC--: method we presented may also applicable other strategic games may even generalisable other domains where sequences agents actions recorded
+MISC--: chess other popular strategic board games players different styles
+MISC--: example chess some players more positional other more tactical this difference style will affect their move choice any given board position more generally their overall plan
+AIMX--: problem we tackle this paper applying machine learning teach computer discriminate between players based their style
+OWNX--: before we explain our methodology we briefly review method temporal difference learning central our approach
+MISC--: temporal difference learning citation machine learning technique originating seminal work samuel citation learning occurs minimising differences between predictions actual outcomes temporal sequence observations
+MISC--: samuel citation used game checkers vehicle study feasibility computer learning experience
+MISC--: although program written samuel did not achieve master strength was precursor checkers program chinook citation was first computer program win match against human world champion see citation detailed but less technical description machine learning samuel s checkers program tesauro citation demonstrated power this technique showing temporal difference learning combined using neural network enable program learn play backgammon at expert level through self play
+MISC--: following this approach there been similar efforts applying this technique games chess citation go citation othello citation chinese chess citation
+CONT--: self play time consuming so natural try make use existing game records strong players train evaluation function citation however temporal difference training did not employ minimax lookahead
+MISC--: learning game records also been used game go citation extract patterns move prediction using methods other than temporal difference learning
+CONT--: here our aim not necessarily train computer competent game player but rather teach play style particular player learning this records games played player principle system could learn interacting player but when sufficient game records exist learning generally accomplished faster more conveniently off line important note information available during learning should not include any meta features date when game was played name opening variation played result game
+OWNX--: all learning module observes sequence moves played each game
+OWNX--: looking at different perspective we view problem one classification
+OWNX--: assume we train computer play styles two chess players say kasparov kramnik
+MISC--: problem then reformulated follows inspecting record game played between kasparov kramnik computer detect some confidence player was playing white pieces black pieces
+MISC--: at even higher level problem recast turing test chess citation where computer may fool human human player
+MISC--: some sense this may already true strongest available computer chess programs citation computers already surpassed humans their playing strength mainly due increased computing power relying brute force calculations
+MISC--: moreover there seems high correlation between choices made top human chess grandmasters world class chess engines see citation
+OWNX--: we will not discuss turing test debate further now we will concentrate classification problem within domain chess
+AIMX--: far we know this new problem this paper we suggest tackling using temporal difference learning
+CONT--: all previous uses temporal difference learning games some cited above attempt learn weights evaluation function order improve play computer program
+OWNX--: our scenario we still attempt learn weights evaluation function but objective imitate style given player rather than improve program s play
+MISC--: course if player under consideration very strong example kasparov kramnik then resulting program likely improve but method could also used learn evaluation functions weaker players
+MISC--: learning algorithm described section based sutton s td citation corresponds simplest rule updates only current predictions
+OWNX--: we note more general formulation proposed sutton td symbol this utilises decay factor symbol between forces algorithm also take into account earlier predictions
+OWNX--: accelerate training we utilise both adaptive learning rate momentum term citation we describe subsection
+OWNX--: section we present proof concept where we attempt learn styles two recent chess world champions kasparov kramnik we make use learnt feature weights guess game played between two players who was white who was black
+OWNX--: despite some encouraging results there also some fundamental limitations our approach defining player s style
+OWNX--: particular pointed out us chess grandmaster pablo san segundo citation our choice features described subsection probably too low level since all strong players seek optimise placement their pieces maintain combination pieces according sound tactical positional criteria
+OWNX--: higher level tempting classify kasparov more tactical player kramnik more positional player
+CONT--: however concepts difficult formulate precise manner moreover not clear how translate them into algorithmic framework
+OWNX--: we discuss other issues subsection
+OWNX--: section we give our concluding remarks

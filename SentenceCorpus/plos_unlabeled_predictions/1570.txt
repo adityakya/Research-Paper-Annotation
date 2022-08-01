@@ -1,0 +1,58 @@
+MISC--: cerebral cortex divided into many functionally distinct areas
+MISC--: emergence areas during neural development dependent expression patterns several genes
+MISC--: along anterior posterior axis gradients fgf emx pax coup tfi sp play particularly strong role specifying areal identity
+OWNX--: however our understanding regulatory interactions between genes lead their confinement particular spatial patterns currently qualitative incomplete
+OWNX--: we therefore used computational model interactions between five genes determine interactions combinations interactions occur networks reproduce anterior posterior expression patterns observed experimentally
+MISC--: model treats expression levels boolean reflecting qualitative nature expression data currently available
+OWNX--: we simulated gene expression patterns created all formula possible networks containing five genes interest
+OWNX--: we found only formula networks were able reproduce experimentally observed expression patterns
+MISC--: networks all lacked certain interactions combinations interactions including auto regulation inductive loops
+MISC--: many higher order combinations interactions also never appeared networks satisfied our criteria good performance
+MISC--: while there was remarkable diversity structure networks perform well analysis probability each interaction gave indication interactions most likely present gene network regulating cortical area development
+MISC--: we found general repressive interactions much more likely than inductive ones but mutually repressive loops not critical correct network functioning
+OWNX--: overall our model illuminates design principles gene network regulating cortical area development makes novel predictions tested experimentally
+MISC--: mammalian cerebral cortex complex but extremely precise structure
+MISC--: adult divided into several functionally distinct areas characterised different combinations gene expression specialised cytoarchitecture specific patterns input output connections
+OWNX--: but how does this functional specification arise
+MISC--: there strong evidence both genetic activity dependent mechanisms play role development specialised areas process also referred arealisation
+MISC--: genetic component implicated spatial non uniformity expression some genes prior thalamocortical innervation well fact altering expression some genes early development changes area position adult citation citation
+MISC--: other hand manipulating thalamocortical inputs hence activity thalamus alter area size respecify area identity citation citation citation
+MISC--: results accommodated current working model cortical arealisation multi stage process where initial broad spatial patterns gene expression provide scaffold differential thalamocortical innervation citation
+MISC--: patterned activity thalamocortical inputs then drives more complex spatially restricted gene expression turn regulates further area specific differentiation
+AIMX--: this paper focuses earliest stage arealisation how patterns gene expression form early cortical development
+OWNX--: experiments identified many genes expressed embryonically critical positioning cortical areas adult
+OWNX--: although arealisation occurs two dimensional field most experiments focus anterior posterior patterning hence here we concentrate patterning along this axis
+MISC--: around embryonic day mouse morphogen fgf expressed at anterior pole developing telencephalon citation citation citation citation citation
+MISC--: immediately after fgf expression initiated mouse four transcription factors emx pax coup tfi sp expressed gradients across surface cortex citation citation citation citation citation
+MISC--: four tfs appealing research target because their complementary expression gradients could provide unique coordinate system arealisation citation equivalent positional information citation citation
+MISC--: altered expression each fgf four tfs shifts area positions late embryonic stages adult citation citation citation
+MISC--: furthermore during development altered expression each genes up down regulates expression some other genes set along anterior posterior axis
+MISC--: large cohort experiments given rise hypothesised network regulatory interactions between five genes
+CONT--: however only one interactions been directly demonstrated citation no analysis been performed at systems level
+MISC--: interacting tfs known able form regulatory networks drive differential spatial development fulfilling role morphogens better known citation citation
+MISC--: feedback loops crucial feature enable generation spatial patterns expression genes network
+MISC--: since tfs regulate expression other genes local differences expression set tfs powerful method generating spatial patterns growth differentiation expression guidance cues developing more complex patterns gene expression
+MISC--: arealisation genes form regulatory network many feedback loops principle capable generating spatial patterns
+OWNX--: establishing interactions critical correct arealisation great interest field but current experimental approaches limited their ability quickly assay importance each particular interaction
+MISC--: computational modelling gene regulatory networks necessary because their complex behaviour difficult understand intuitively
+MISC--: addition offers several other benefits
+MISC--: currently many hypothesised interactions between arealisation genes represented arrow diagrams like seen figure
+MISC--: because intuition tends follow simple causal chains presence many feedback loops makes intuition about overall behaviour complex systems unreliable citation citation
+MISC--: consequently more formal description than arrow diagram would test current conceptual model potential give greater understanding insight done many other regulatory networks citation citation citation citation
+MISC--: unambiguous descriptions found mathematical computational models offer added benefit making assumptions explicit therefore allowing greater scrutiny citation
+MISC--: computational experiments also performed quickly cheaply relative laboratory experiments consequently useful conducting thought experiments then tested experimentally citation citation
+MISC--: this way computational modelling experiments spur each other so both improved synergistic manner citation
+AIMX--: here we use boolean logical approach model arealisation regulatory network
+OWNX--: this approach variables representing genes proteins take only two values zero one representing gene protein activity being below above some threshold effect
+MISC--: while continuous models more realistic they many free parameters hard constrain experimental data offer formidable computational challenge investigate systematically
+OWNX--: contrast boolean models used when only qualitative expression interaction data available case arealisation
+MISC--: boolean models at each point time state variable depends state its regulators at previous time step
+MISC--: set logic equations capture regulatory relationships between variables dictate how system evolves time
+MISC--: boolean idealisation greatly reduces number free parameters while still capturing network dynamics producing biologically pertinent predictions insights citation citation citation
+OWNX--: our model we use only two spatial compartments one representing anterior pole another representing posterior pole
+OWNX--: anterior posterior expression levels after boolean discretisation shown figure c
+MISC--: more than two expression levels more than two spatial compartments would more realistic but would result explosion number parameters currently unconstrained experimental data
+MISC--: having only two expression levels only two compartments allows us systematically screen large number networks would impossible more complex model
+AIMX--: this paper we simulate dynamics all possible networks created different combinations interactions between fgf emx pax coup tfi sp show only formula networks able reproduce expression patterns observed experimentally
+OWNX--: this analysis we identify structural elements common best performing networks well elements never appear networks perform well
+MISC--: results reveal important logical principles underlying cortical arealisation gene network suggest potential directions future experimental investigations

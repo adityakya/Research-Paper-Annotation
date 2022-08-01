@@ -1,0 +1,34 @@
+MISC--: neural field model presented captures essential non linear characteristics activity dynamics across several millimeters visual cortex response local flashed moving stimuli
+OWNX--: we account physiological data obtained voltage sensitive dye imaging reports mesoscopic population activity at high spatio temporal resolution
+MISC--: stimulation included single flashed square single flashed bar line motion paradigm psychophysical studies showed flashing square briefly before bar produces sensation illusory motion within bar moving squares controls
+OWNX--: we consider two layer neural field model describing excitatory inhibitory layer neurons coupled system non linear integro differential equations
+OWNX--: under assumption aggregated activity both layers reflected vsd imaging our phenomenological model quantitatively accounts observed spatio temporal activity patterns
+MISC--: moreover model generalizes novel similar stimuli matches activity evoked moving squares different speeds
+OWNX--: our results indicate feedback higher brain areas not required produce motion patterns case illusory line motion paradigm
+MISC--: physiological interpretation model suggests considerable fraction vsd signal may due inhibitory activity supporting notion balanced intra layer cortical interactions between inhibitory excitatory populations play major role shaping dynamic stimulus representations early visual cortex
+OWNX--: visual cortical activity does not exclusively mirror visual input but rather reflects contribution additional recurrent processes involving lateral local feedback couplings
+OWNX--: understanding cortical processing requires theoretical understanding underlying activity dynamics attained modeling at various levels abstraction
+OWNX--: naturally chosen level should match level at neuronal recordings made citation
+OWNX--: activity patterns observed using voltage sensitive dye imaging reflect population activity at mesoscopic level citation citation
+OWNX--: this suggests application mean field models large numbers neurons averaged
+OWNX--: moreover we interested relation neuronal dynamics spatial dimensions cortical sheet
+BASE--: neural field models citation citation citation efficacy synaptic coupling depends notion distance between neurons ensembles neurons therefore our preferred choice
+OWNX--: here we show minimalistic multiple layer nf models simulate mean vsd data space time high accuracy
+OWNX--: model abstract functional description vsd recorded dynamics
+OWNX--: thus first place phenomenological
+MISC--: however its interpretation biological terms allows link its structure parameters neuronal functional architecture
+OWNX--: imaging data we model showed two stationary stimuli presented rapid succession produce pattern signals propagation activity across bar s retinotopic representation early visual cortex
+MISC--: ii obtained pattern was different activity when bar was flashed alone did not match simple superposition activities evoked individually presented square bar stimuli
+OWNX--: iii rather we observed propagation wave front activity was also found when square stimulus moved physically visual space citation
+OWNX--: based vsd imaging data citation we hypothesized two layer neural field citation citation model account findings i iii
+MISC--: if so this would imply feedback higher brain areas not principal requirement produce motion patterns across primary visual cortex upon presentation square bar flashed rapid succession
+MISC--: voltage sensitive dye imaging measures relative fluorescence changes linearly correlated changes membrane potentials citation citation
+OWNX--: this technique currently allows recording vivo cortical activity at sub well suprathreshold level at least ms temporal resolution spatial resolution formulam across several millimeters cortex
+CONT--: hence well suited capture real time dynamics millions neurons at once
+MISC--: however signal does not distinguish between excitatory inhibitory contributions overall activity
+OWNX--: therefore our model explicitly assumes vsd signal reflects mixture activity excitatory inhibitory neuronal populations thus contrasts studies interpret vsd data mainly reflecting excitatory activity
+OWNX--: we expect gain insights about relative contributions excitatory inhibitory activities vsd signal because model allows separate inspection its inhibitory excitatory layers
+OWNX--: following we first describe underlying data its preprocessing our model structure our parameter identification procedure
+OWNX--: then we present results including model fit comparison further simplified models model prediction regarding similar yet novel stimuli results standard linear stability analysis homogeneous solution model
+OWNX--: we then follow discussion findings relation alternative modeling approaches physiological interpretation our model role excitation inhibition model
+OWNX--: finally we consider our results context hypotheses concerning cortical representation motion origin line motion illusion

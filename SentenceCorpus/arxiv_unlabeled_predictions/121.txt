@@ -1,0 +1,53 @@
+OWNX--: this article considers constrained symbol minimization methods recovery high dimensional sparse signals three settings noiseless bounded error gaussian noise
+MISC--: unified elementary treatment given noise settings two symbol minimization methods dantzig selector symbol minimization symbol constraint
+OWNX--: results this paper improve existing results literature weakening conditions tightening error bounds
+OWNX--: improvement conditions shows signals larger support recovered accurately
+OWNX--: this paper also establishes connections between restricted isometry property mutual incoherence property
+OWNX--: some results candes romberg tao donoho elad temlyakov extended
+OWNX--: problem recovering high dimensional sparse signal based small number measurements possibly corrupted noise attracted much recent attention
+MISC--: this problem arises many different settings including model selection linear regression constructive approximation inverse problems compressive sensing
+OWNX--: suppose we symbol observations form y f z where matrix symbol symbol given symbol vector measurement errors
+MISC--: goal reconstruct unknown vector symbol
+OWNX--: depending settings error vector symbol either zero noiseless case bounded gaussian where symbol
+OWNX--: now well understood symbol minimization provides effective way reconstructing sparse signal all three settings
+MISC--: special case particular interest when no noise present symbol
+MISC--: this underdetermined system linear equations more variables than number equations
+MISC--: clear problem ill posed there generally infinite many solutions
+OWNX--: however many applications vector symbol known sparse nearly sparse sense contains only small number nonzero entries
+MISC--: this sparsity assumption fundamentally changes problem making unique solution possible
+MISC--: indeed many cases unique sparse solution found exactly through symbol minimization p min mbox subject f y
+MISC--: this symbol minimization problem been studied example fuchs citation candes tao citation donoho citation
+MISC--: understanding noiseless case not only significant interest its own right also provides deep insight into problem reconstructing sparse signals noisy case
+MISC--: see example candes tao citation donoho citation
+MISC--: when noise present there two well known symbol minimization methods
+MISC--: one symbol minimization under symbol constraint residuals p min mbox subject y f gamma epsilon
+MISC--: writing terms lagrangian function symbol this closely related finding solution symbol regularized least squares min left y f gamma rho right
+MISC--: latter often called lasso statistics literature tibshirani citation
+MISC--: tropp citation gave detailed treatment symbol regularized least squares problem
+MISC--: another method called dantzig selector recently proposed candes tao citation
+MISC--: dantzig selector solves sparse recovery problem through symbol minimization constraint correlation between residuals column vectors symbol symbol candes tao citation showed dantzig selector computed solving linear program mimics performance oracle procedure up logarithmic factor symbol
+CONT--: clear regularity conditions needed order problems well behaved
+MISC--: over last few years many interesting results recovering sparse signals been obtained framework restricted isometry property rip
+MISC--: their seminal work citation candes tao considered sparse recovery problems rip framework
+MISC--: they provided beautiful solutions problem under some conditions restricted isometry constant restricted orthogonality constant defined section
+MISC--: several different conditions been imposed various settings
+AIMX--: this paper we consider symbol minimization methods sparse recovery problem three cases noiseless bounded error gaussian noise
+MISC--: both dantzig selector ds symbol minimization under symbol constraint symbol considered
+OWNX--: we give unified elementary treatment two methods under three noise settings
+OWNX--: our results improve existing results citation weakening conditions tightening error bounds
+OWNX--: all cases we solve problems under weaker condition symbol where symbol sparsity index symbol symbol respectively restricted isometry constant restricted orthogonality constant defined section
+OWNX--: improvement condition shows signals larger support recovered
+OWNX--: although our main interest recovering sparse signals we state results general setting reconstructing arbitrary signal
+OWNX--: another widely used condition sparse recovery so called mutual incoherence property mip requires pairwise correlations among column vectors symbol small
+MISC--: see citation
+OWNX--: we establish connections between concepts rip mip
+OWNX--: application we present improvement recent result donoho elad temlyakov citation
+AIMX--: paper organized follows
+OWNX--: section after basic notation definitions reviewed two elementary inequalities allow us make finer analysis sparse recovery problem introduced
+OWNX--: we begin analysis symbol minimization methods sparse recovery considering exact recovery noiseless case section
+OWNX--: our result improves main result candes tao citation using weaker conditions providing tighter error bounds
+MISC--: analysis noiseless case provides insight case when observations contaminated noise
+OWNX--: we then consider case bounded error section
+MISC--: connections between rip mip also explored
+OWNX--: case gaussian noise treated section
+OWNX--: appendix contains proofs some technical results

@@ -1,0 +1,21 @@
+MISC--: experimental test descriptive adequacy restated diversification principle presented
+MISC--: principle postulates risk averse utility maximizers will pool risks their mutual benefit even if information missing about probabilities losses
+MISC--: enough people assume they face equal risks when they pool risks
+OWNX--: results experiment support principle
+MISC--: nutshell diversification principle says if risk averse utility maximizers choose between two assets identical but random returns they will prefer invest half their endowment each asset citation
+MISC--: principle paraphrased following means if two risk averse utility maximizers assets same value face same distributions potential losses they will gain sharing potential losses equally citation
+MISC--: restated diversification principle holds any distribution outcomes long distribution same both people
+MISC--: does not matter whether probability loss small large both cases people gain sharing loss
+MISC--: this implies sharing loss also mutually favorable if information missing about probabilities losses
+MISC--: not even necessary distribution outcomes same both people enough they both accept there no reason assume their probabilities losses differ presumption equality
+MISC--: possible differences therefore neglected if there no knowledge about them
+MISC--: when information about probabilities losses missing mutual sharing losses may superior insurance since insurance premium normally based technical actuarial information probability losses
+MISC--: without information pricing will become arbitrary negotiation cost may large
+MISC--: insurance under apparent ambiguity when information about probabilities losses lacking may not possible at all citation
+MISC--: loss sharing however undertaken without pricing potential loss
+MISC--: restated diversification principle was first presented skogh citation case two identical pool members
+MISC--: skogh wu citation generalized principle case where individuals losses differ amount probability case where individuals attitudes toward risks differ
+AIMX--: this paper tests descriptive adequacy restated diversification principle experiment
+OWNX--: particular we test following two hypotheses h number under apparent ambiguity people will share potential losses
+MISC--: h number if distribution potential losses different across people but unknown people will still share potential losses
+MISC--: experimental design results discussion presented sections number number number respectively

@@ -1,0 +1,66 @@
+OWNX--: we study problem online regression
+OWNX--: we do not make any assumptions about input vectors outcomes
+OWNX--: we prove theoretical bound square loss ridge regression
+OWNX--: we also show bayesian ridge regression thought online algorithm competing all gaussian linear experts
+OWNX--: we then consider case infinite dimensional hilbert spaces prove relative loss bounds popular non parametric kernelized bayesian ridge regression kernelized ridge regression
+OWNX--: our main theoretical guarantees form equalities
+OWNX--: online prediction framework we provided some input at each step try predict outcome using this input information previous steps citation
+OWNX--: simple case statistics assumed each outcome value corrupted gaussian noise linear function input
+MISC--: competitive prediction learner compares his loss at each step loss any expert certain class experts instead making statistical assumptions about data generating process
+MISC--: experts may follow certain strategies
+OWNX--: learner wishes predict almost well best expert all sequences
+OWNX--: our main result theorem next section
+MISC--: compares cumulative weighted square loss ridge regression
+MISC--: applied line mode
+MISC--: regularized cumulative loss best linear predictor
+MISC--: power this result best appreciated looking at range its implications
+MISC--: both known new
+MISC--: example corollary answers question
+MISC--: asked several researchers see citation
+MISC--: whether ridge regression relative loss bound
+MISC--: regret term order symbol under square loss function
+MISC--: where symbol number steps outcomes assumed bounded
+OWNX--: this corollary well all other implications stated section
+MISC--: explicit inequality rather than asymptotic result
+MISC--: theorem itself much stronger
+MISC--: stating equality
+MISC--: rather than inequality
+MISC--: not assuming outcomes bounded
+MISC--: since equality unites upper lower bounds loss
+MISC--: appears all natural bounds square loss ridge regression
+OWNX--: easily deduced our theorem we give some examples next section
+MISC--: most previous research online prediction considers experts disregard
+MISC--: presence noise observations
+OWNX--: we consider experts predicting
+MISC--: distribution outcomes
+OWNX--: we use
+OWNX--: bayesian ridge regression prove predict well best
+OWNX--: regularized expert this our theorem
+OWNX--: loss this theoretical guarantee logarithmic
+MISC--: loss
+OWNX--: algorithm we apply was first used
+MISC--: citation
+MISC--: similar bounds ours were obtained citation
+OWNX--: theorem later used deduce theorem
+MISC--: ridge regression predicts mean bayesian ridge regression predictive distribution
+MISC--: logarithmic loss bayesian ridge regression close scaled square loss
+MISC--: ridge regression
+OWNX--: we extend our main result case infinite dimensional
+MISC--: hilbert spaces functions
+OWNX--: algorithm used becomes analogue
+MISC--: non parametric bayesian methods
+OWNX--: theorem theorem we deduce relative loss bounds
+MISC--: logarithmic loss kernelized bayesian ridge regression square
+MISC--: loss kernelized ridge regression comparison loss any function
+MISC--: reproducing kernel hilbert space
+MISC--: both bounds form equalities
+MISC--: there lot research done prove upper lower relative loss bounds under different loss functions
+MISC--: if outcomes assumed bounded strongest known theoretical guarantees square loss given citation citation algorithm we call vaw vovk azoury warmuth following citation
+OWNX--: this not apt name since ridge regression also special case aggregating algorithm corresponding logarithmic loss function learning rate we will call this algorithm vovk azoury warmuth vaw algorithm following citation
+OWNX--: case when inputs outcomes not restricted any way like our main guarantees possible prove certain loss bounds gradient descent
+MISC--: see citation
+OWNX--: section this paper we present online regression framework main theoretical guarantee square loss ridge regression
+OWNX--: section describes what we call bayesian algorithm
+OWNX--: section we show bayesian ridge regression competitive experts take into account presence noise observations
+OWNX--: section we prove main theorem
+OWNX--: section describes case infinite dimensional hilbert spaces

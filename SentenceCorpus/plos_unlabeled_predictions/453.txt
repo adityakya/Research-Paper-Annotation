@@ -1,0 +1,75 @@
+MISC--: become clear noncoding rnas play important roles cells emerging studies indicate there might large number unknown ncrnas mammalian genomes
+MISC--: there exist computational methods used search ncrnas comparing sequences different genomes
+MISC--: one main problem methods their computational complexity heuristics therefore employed
+MISC--: two heuristics currently very popular pre folding pre aligning
+CONT--: however heuristics not ideal pre aligning dependent sequence similarity may not present pre folding ignores comparative information
+MISC--: here pruning dynamical programming matrix presented alternative novel heuristic constraint
+OWNX--: all subalignments do not exceed length dependent minimum score discarded matrix filled out thus giving advantage providing constraints dynamically
+OWNX--: this been included new implementation foldalign algorithm pairwise local global structural alignment rna sequences
+MISC--: shown time memory requirements dramatically lowered while overall performance maintained
+OWNX--: furthermore new divide conquer method introduced limit memory requirement during global alignment backtrack local alignment
+OWNX--: all branch points computed rna structure found used divide structure into smaller unbranched segments
+MISC--: each segment then realigned backtracked normal fashion
+OWNX--: finally foldalign algorithm also been updated better memory implementation improved energy model
+OWNX--: improvements algorithm foldalign software package provides molecular biologist efficient user friendly tool searching new ncrnas
+OWNX--: software package available download at link
+MISC--: noncoding rna genes regulatory structures been shown both highly abundant highly diverse parts genome citation citation
+MISC--: one theory many ncrnas part rna based regulatory systems citation
+MISC--: recently several papers about large scale searches vertebrate rna genes motifs using comparative genomics been published citation citation
+MISC--: large scale searches indicate there potentially many unknown structures still hidden genomes
+MISC--: been shown alignment ncrnas requires information about secondary structure when sequence similarity below percent citation
+OWNX--: reason this compensating mutations change primary sequence without changing structure molecule
+MISC--: sankoff algorithm simultaneously folding aligning rna sequences principle applied cope this citation
+CONT--: however resource requirements algorithm too high even few short sequences
+MISC--: two sequences length l time complexity o memory complexity o heuristics therefore needed before algorithms folding aligning rna sequences become fast enough useful
+MISC--: foldalign was first simplified implementation sankoff algorithm citation
+MISC--: contained simple scoring scheme separate substitution matrices base paired single stranded nucleotides
+MISC--: had three constraints length final alignment could not longer than nucleotides maximum length difference between two subsequences being aligned was limited nucleotides could only align stem loop structures
+BASE--: second version algorithm uses combination substitutions lightweight energy model align two sequences citation
+MISC--: foldalign also uses constraints but align branched structures
+OWNX--: this algorithm was used one large scale searches vertebrate ncrnas citation
+MISC--: variants two types heuristics currently very popular namely pre aligning pre folding
+MISC--: pre aligning methods use sequence similarity limit search space requiring final alignment must contain pre aligned nucleotides
+MISC--: length pre aligned subsequences varies short stretches called anchors citation full sequences citation citation
+MISC--: methods require sequences fully aligned before structure predicted not strictly sankoff based methods they separate alignment folding steps completely
+MISC--: pre folding uses single sequence folding limit structures found comparative algorithms
+MISC--: popular method pre folding use base pairing probabilities found single sequence folding limit base pairs included conserved structure citation citation
+MISC--: align then fold methods methods using pre folding taken extreme where folding alignment steps completely separated
+MISC--: one example this combination rnacast rnaforester methods citation citation
+MISC--: some methods use both pre aligning pre folding heuristics citation citation
+MISC--: currently implemented sankoff based methods pairwise alignment secondary structure prediction rna sequences split into two groups energy based methods probabilistic methods
+MISC--: energy based methods foldalign dynalign citation locarna citation scarna citation based minimization free energy citation
+MISC--: free energy minimization based physical model how different elements rna structure contribute free energy
+MISC--: parameters partly found experimentally partly estimated multiple alignments
+MISC--: probabilistic models usually based stochastic context free grammars see citation introduction
+MISC--: methods include consan citation stemloc citation
+MISC--: stochastic context free grammars parameters estimated multiple alignments
+MISC--: each methods uses different kinds heuristics
+MISC--: previous version foldalign citation uses banding limits alignment length local alignments limits number ways bifurcation calculated
+MISC--: dynalign citation uses banding based pre alignment using hidden markov model
+MISC--: locarna citation limits number potential base pairs only using base pairs single sequence base pair probability above given cutoff
+MISC--: scarna citation uses similar strategy but further decouples left right sides base pairs
+MISC--: consan citation uses short stretches normal sequence alignments constrain folding
+MISC--: stemloc citation uses n best single sequence predicted structures n best normal sequence alignments limit final combined alignment structure prediction
+AIMX--: this paper dynamical pruning dynamic programming matrix introduced new heuristic foldalign algorithm citation
+MISC--: all its simplicity dynamic pruning discards any subalignment does not score above length dependent threshold
+OWNX--: this similar one heuristics used blast citation
+MISC--: advantage pruning method compared pre aligning methods used when there not enough sequence similarity make necessary alignments
+MISC--: advantage compared pre folding methods none comparative information lost single sequence folding step
+MISC--: shown empirically pruning leads huge speed increase while algorithm retains its good performance
+MISC--: speed increase makes studies like citation much more feasible
+OWNX--: method dynamical pruning simple general
+MISC--: should therefore possible use many other methods available folding aligning rna sequences
+CONT--: pruning feature dynamic programming method may used any algorithm using dynamic programming
+MISC--: addition dynamical pruning foldalign software package been significantly updated
+MISC--: constraint speeds up algorithm limiting calculation branch points now also used lower memory requirement during local alignment stage
+MISC--: during backtrack stage algorithm more information needed
+OWNX--: try limit memory consumption during this stage extra pre backtrack step used
+OWNX--: pre backtrack step locates all branch points conserved structure then used divide structure into unbranched segments
+MISC--: unbranched structures then realigned backtracked separately
+MISC--: unbranched structures usually shorter than full branched structure memory consumption reduced
+CONT--: use divide conquer method increases run time algorithm but not much since realignments segments unbranched
+MISC--: addition algorithmic improvements energy model been improved well
+MISC--: external single strand nucleotides scored consistent way
+MISC--: also more insert base pairs allowed
+MISC--: improvements lead better structure predictions

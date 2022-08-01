@@ -1,0 +1,18 @@
+AIMX--: paper proposes new message passing algorithm cycle free factor graphs
+MISC--: proposed entropy message passing emp algorithm may viewed sum product message passing over entropy semiring previously appeared automata theory
+MISC--: primary use emp compute entropy model
+OWNX--: however emp also used compute expressions appear expectation maximization gradient descent algorithms
+MISC--: efficient marginalization multivariate function important many areas including signal processing artificial intelligence digital communications
+MISC--: when cycle free factor graph representation function available then exact marginals computed sum product message passing factor graph citation citation
+MISC--: fact number well known algorithms special cases sum product message passing
+MISC--: sum product sum product message passing may belong arbitrary commutative semiring citation citation
+AIMX--: this paper we propose use entropy semiring resulting algorithm will called entropy message passing emp
+MISC--: entropy semiring was introduced cortes et al citation compute relative entropy between probabilistic automata
+AIMX--: this paper we translate ideas citation into language factor graphs message passing algorithms
+CONT--: primary use emp compute entropy model cycle free factor graph fixed observations
+AIMX--: main prior work this subject hernando et al citation again main point present paper clarify generalize this prior work reformulating terms sum product message passing
+MISC--: however emp also used compute expressions appear expectation maximization gradient ascent algorithms citation citation this connection appears new
+AIMX--: paper structured follows
+OWNX--: section ii we review sum product message passing over commutative semiring
+OWNX--: section iii we introduce entropy semiring
+OWNX--: emp algorithm described section iv mentioned applications described section v

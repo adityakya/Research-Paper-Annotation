@@ -1,0 +1,50 @@
+OWNX--: we show learning convex body symbol given random samples body requires symbol samples
+OWNX--: learning convex body we mean finding set having at most symbol relative symmetric difference input body
+OWNX--: prove lower bound we construct hard learn family convex bodies
+OWNX--: our construction this family very simple based error correcting codes
+OWNX--: we consider following problem given uniformly random points convex body symbol we would like approximately learn body few samples possible
+AIMX--: this question throughout this paper we interested number samples but not computational requirements constructing approximation
+OWNX--: our main result will show this needs about symbol samples
+MISC--: this problem special case statistical problem inferring information about probability distribution samples
+MISC--: example one approximate centroid body sample size roughly linear symbol
+MISC--: other hand sample size polynomial symbol not enough approximate volume convex body within constant factor citation see section here discussion
+MISC--: note known approximation algorithms volume e g citation do not work this setting they need membership oracle random points various carefully chosen subsets input body
+MISC--: our problem also relates work learning theory e g citation where one given samples generated according say gaussian distribution each sample labeled positive negative depending whether belongs body
+MISC--: aside different distributions another difference between learning setting citation ours ours one gets only positive examples
+MISC--: klivans et al citation give algorithm nearly matching lower bound learning convex bodies labeled samples chosen according gaussian distribution
+MISC--: their algorithm takes time symbol they also show lower bound symbol
+MISC--: problem learning convex sets uniformly random samples them was raised frieze et al citation
+MISC--: they gave polynomial time algorithm learning parallelopipeds
+MISC--: another somewhat related direction work learnability discrete distributions kearns et al citation
+OWNX--: our lower bound result like citation also allows membership oracle queries
+OWNX--: note known estimating volume convex bodies requires exponential number membership queries if algorithm deterministic citation implies learning bodies requires exponential number membership queries because if algorithm learn body then also estimate its volume
+OWNX--: formally define notion learning we need specify distance symbol between bodies
+OWNX--: natural choice our setting consider total variation distance uniform distribution each body see section
+OWNX--: we will use term random oracle convex body symbol black box when queried outputs uniformly random point symbol
+MISC--: remarkably lower bound klivans et al citation numerically essentially identical ours symbol symbol constant
+OWNX--: constructions similar theirs possible our particular scenario citation
+OWNX--: we believe our argument considerably simpler elementary compared citation
+OWNX--: furthermore our construction hard learn family explicit
+OWNX--: our construction makes use error correcting codes
+OWNX--: our knowledge this connection error correcting codes new contexts may find further applications
+OWNX--: see section some further comparison paragraph informal outline proof idea proof find large family convex bodies symbol satisfying two conflicting goals any two bodies family almost disjoint yet they look alike sense small sample random points any body insufficient determining one
+MISC--: since any two bodies almost disjoint even approximating body would allow one determine exactly
+OWNX--: this will imply also hard approximate
+OWNX--: we first construct family bodies although not almost disjoint sufficiently large symmetric difference
+OWNX--: we will then able construct family almost disjoint bodies taking products bodies first family
+OWNX--: first family quite natural described formally sec
+MISC--: consider cross polytope symbol symbol generalization octahedron symbol dimensions convex hull vectors symbol where symbol unit vector symbol symbol th coordinate symbol rest symbol
+MISC--: peak attached facet symbol symbol pyramid symbol its base its other vertex outside symbol normal symbol going through its centroid
+MISC--: if height peak sufficiently small then attaching peaks any subset symbol facets will result convex polytope
+OWNX--: we will show later we choose height so volume all symbol peaks symbol fraction volume symbol
+AIMX--: we call this family bodies symbol we remark our construction cross polytopes peaks resemblance construction citation different parameters but there does not seem any connection between problem studied there problem we interested intuitively random point body this family tells one if point one peaks then peak present otherwise one learns nothing
+MISC--: therefore if number queries at most polynomial symbol then one learns nothing about most peaks so algorithm cannot tell body got
+OWNX--: but bodies do not large symmetric difference small symbol fraction cross polytope if two bodies differ just one peak but we pick subfamily them having pairwise symmetric difference at least symbol picking large random subfamily
+MISC--: we will do slightly differently will more convenient proof bodies symbol one one correspondence binary strings length symbol each facet corresponds coordinate string takes value symbol if facet peak attached else value symbol
+MISC--: ensure any two bodies our family differ many peaks suffices ensure their corresponding strings large hamming distance
+MISC--: large sets strings course furnished good error correcting codes
+OWNX--: this family we obtain another family almost disjoint bodies taking products while preserving property polynomially many random samples do not tell bodies apart
+OWNX--: this product trick also known tensoring been used many times before particular amplifying hardness but we not aware its use setting similar ours
+OWNX--: our construction product family also resembles operation concatenation coding theory
+MISC--: acknowledgments
+OWNX--: we grateful adam kalai santosh vempala useful discussions

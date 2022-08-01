@@ -1,0 +1,10 @@
+OWNX--: we consider problem reconstructing low rank matrix small subset its entries
+OWNX--: this paper we describe implementation efficient algorithm proposed citation based singular value decomposition followed local manifold optimization solving low rank matrix completion problem
+MISC--: been shown if number revealed entries large enough output singular value decomposition gives good estimate original matrix so local optimization reconstructs correct matrix high probability
+OWNX--: we present numerical results show this algorithm reconstruct low rank matrix exactly very small subset its entries
+OWNX--: we further study robustness algorithm respect noise its performance actual collaborative filtering datasets
+OWNX--: this paper we consider problem reconstructing symbol low rank matrix symbol small set observed entries
+MISC--: this problem considerable practical interest many applications
+MISC--: one example collaborative filtering where users submit rankings small subsets say movies goal infer preference unrated movies recommendation system citation
+OWNX--: believed movie rating matrix approximately low rank since only few factors contribute user s preferences
+MISC--: other examples matrix completion include problem inferring dimensional structure motion citation triangulation incomplete data distances between wireless sensors also known sensor localization problem citation citation

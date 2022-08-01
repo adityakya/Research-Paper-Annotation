@@ -1,0 +1,44 @@
+MISC--: kohonen self organisation maps well know classification tool commonly used wide variety problems but limited applications time series forecasting context
+AIMX--: this paper we propose forecasting method specifically designed multi dimensional long term trends prediction double application kohonen algorithm
+MISC--: practical applications method also presented
+MISC--: time series forecasting problem encountered many fields applications finance returns stock markets hydrology river floods engineering electrical consumption etc
+MISC--: many methods designed time series forecasting perform well depending complexity problem rather short term horizon but rather poor longer term one
+MISC--: this due fact methods usually designed optimize performance at short term their use at longer term being not optimized
+OWNX--: furthermore they generally carry out prediction single value while real problem sometimes requires predicting vector future values one step
+OWNX--: example case some priori known periodicity could interesting predict all values period whole
+MISC--: but forecasting vector requires either more complex models potential loss performance some vector components many distinct single value predicting models potential loss correlation information between various values
+MISC--: methods able forecast whole vector same precision each its components thus great interest
+MISC--: while enlarging prediction horizon course primary interest practitioners there course some limit accuracy expected long term forecast
+MISC--: limitation due availability information itself not possible limitations forecasting methods
+MISC--: indeed there no doubt whatever forecasting method used predicting at long term i e many time steps advance more difficult predicting at short term because missing information unknown future time steps those between last known value one predict
+OWNX--: at some term all prediction methods will thus fail
+OWNX--: purpose method presented this paper not enlarge time horizon accurate predictions could expected but rather enlarge horizon we insights about future evolution series
+MISC--: insights we mean some information interest practitioner even if does not mean accurate predictions
+MISC--: example there bounds future values
+OWNX--: what we expect average
+OWNX--: confidence intervals future values large narrow
+MISC--: predicting many steps advance could realized straightforward way subsampling known sequence then using any short term prediction method
+CONT--: however this case loss information used forecast obviously even higher due lower resolution known sequence
+OWNX--: furthermore solution does not allow general way introduce stochastic aspect method key issue proposed method
+MISC--: indeed get insights about future evolution series through some statistics expected mean variance confidence intervals quartiles etc several predictions should made order extract statistics
+MISC--: predictions should differ stochastic prediction method able generate several forecasts repeated monte carlo runs
+OWNX--: method presented this paper stochastic character method results use random draws probability law
+OWNX--: another attractive aspect method presented this paper used predict scalar values vectors same expected precision each component case vector prediction
+OWNX--: having at disposal time series values symbol symbol prediction vector defined follows symbol where symbol size vector predicted symbol data generating process symbol number past values influence future values symbol centred noise vector
+MISC--: past values gathered symbol dimensional vector called regressor
+MISC--: knowledge symbol values time series symbol symbol means relation known many symbol time steps past
+MISC--: modeling problem then becomes estimate function symbol models correctly time series whole set past regressors
+OWNX--: idea method segment space symbol dimensional regressors
+OWNX--: this segmentation seen way make possible local modeling each segment
+MISC--: this part method achieved using self organizing map som citation
+MISC--: prototypes obtained each class model locally regressors corresponding class
+OWNX--: furthermore order take into account temporal dependences series deformation regressors built
+MISC--: those vectors constructed differences between two consecutive regressors
+MISC--: set regressor deformations also segmented using som
+MISC--: once those two spaces segmented their dependences characterized simulations performed
+MISC--: using kind monte carlo procedure repeat simulations then possible estimate distribution simulations forecast global trends time series at long term
+MISC--: though we could chosen some other classical vector quantization vq method only clustering property interest here choice som tool perform segmentation two spaces justified fact som efficient fast compared other vq methods limited complexity citation they provide intuitive helpful graphical representation
+AIMX--: following this paper we first recall some basic concepts about som classification tool
+OWNX--: then we introduce proposed forecasting method double vector quantization scalar time series then vector ones
+OWNX--: next we present some experimental results both scalar vector forecastings
+OWNX--: proof method stability given appendix

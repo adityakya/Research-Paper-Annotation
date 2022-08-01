@@ -1,0 +1,37 @@
+OWNX--: we describe median symbol flats mkf algorithm simple online method hybrid linear modeling ie approximating data mixture flats
+MISC--: this algorithm simultaneously partitions data into clusters while finding their corresponding best approximating symbol symbol flats so cumulative symbol error minimized
+MISC--: current implementation restricts symbol flats symbol dimensional linear subspaces
+MISC--: requires negligible amount storage its complexity when modeling data consisting symbol points symbol symbol symbol dimensional linear subspaces order symbol where symbol number iterations required convergence empirically order symbol
+MISC--: since online algorithm data supplied incrementally incrementally produce corresponding output
+CONT--: performance algorithm carefully evaluated using synthetic real data
+MISC--: many common data sets modeled mixtures flats i e affine subspaces
+MISC--: example feature vectors different moving objects video sequence lie different affine subspaces see eg citation similarly images different faces under different illuminating conditions different linear subspaces each subspace corresponding distinct face citation
+OWNX--: data give rise problem hybrid linear modeling i e modeling data mixture flats
+MISC--: different kinds algorithms been suggested this problem utilizing different mathematical theories
+MISC--: example generalized principal component analysis gpca citation based algebraic geometry agglomerative lossy compression alc citation uses information theory spectral curvature clustering scc citation uses multi way clustering methods well multiscale geometric analysis
+MISC--: other hand there also some heuristic approaches eg subspace separation citation local subspace affinity lsa citation
+CONT--: probably most straightforward method all symbol flats kf algorithm any its variants citation
+MISC--: symbol flats algorithm aims partition given data set symbol into symbol subsets symbol each well approximated its best fit symbol flat
+MISC--: more formally given parameters symbol symbol algorithm tries minimize objective function sum i k min d text flats l i sum bx j cx i dist bx j l i
+MISC--: practice minimization this function performed iteratively symbol means algorithm citation
+MISC--: after initialization symbol symbol flats example they may chosen randomly one repeats following two steps until convergence assign clusters according minimal distances flats determined at previous stage compute least squares symbol flats newly obtained clusters principal component analysis pca
+MISC--: this procedure very fast guaranteed converge at least local minimum
+MISC--: however practice local minimum converges often significantly worse than global minimum
+MISC--: result symbol flats algorithm not accurate more recent hybrid linear modeling algorithms even case underlying linear subspaces opposed general affine subspaces often fails when either symbol sufficiently large e g symbol there large component outliers
+AIMX--: this paper two goals
+OWNX--: first one show order significantly improve robustness outliers noise symbol flats algorithm sufficient replace its objective function eq eqref eq objective kflats sum i k min d text flats l i sum bx j cx i dist bx j l i replacing symbol average symbol average
+MISC--: second goal establish online algorithm this purpose so data supplied incrementally one point at time incrementally produce corresponding output
+OWNX--: we believe online procedure very different than symbol flats also beneficial standard settings moderate size data not streaming
+MISC--: indeed possible strategy will converge more often global minimum symbol error than straightforward symbol generalization symbol flats assuming accurate algorithm computing best symbol flats
+AIMX--: order address those goals we propose median symbol flats mkf algorithm
+OWNX--: we chose this name since special case where symbol well known symbol medians algorithm see eg citation approximates minimum same energy function
+MISC--: mkf algorithm employs stochastic gradient descent strategy citation order provide online approximation best symbol symbol flats
+MISC--: its current implementation only applies setting underlying linear subspaces not general affine ones
+OWNX--: numerical experiments synthetic real data indicate superior performance mkf algorithm various instances
+MISC--: particular outperforms some standard algorithms cases large outlier component relatively large intrinsic dimension flats
+MISC--: even hopkins database motion segmentation citation requires small intrinsic dimensions little noise few outliers mkf performs very well particular better than symbol flats
+OWNX--: we speculate this because iterative process mkf converges more often global minimum than symbol flats
+AIMX--: rest this paper organized follows
+OWNX--: section we introduce mkf algorithm
+OWNX--: section carefully tests algorithm both artificial data synthetic hybrid linear models real data motion segmentation video sequences
+OWNX--: section concludes brief discussion mentions possibilities future work

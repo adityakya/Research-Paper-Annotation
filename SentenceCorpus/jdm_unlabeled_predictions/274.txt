@@ -1,0 +1,46 @@
+MISC--: gambler s fallacy hot hand belief been classified two exemplars human misperceptions random sequential events
+MISC--: this article examines times pattern occurrences where fair biased coin tossed repeatedly
+BASE--: we demonstrate due different pattern composition two different statistics mean time waiting time arise same independent bernoulli trials
+MISC--: when coin fair mean time equal all patterns same length but waiting time longest streak patterns
+MISC--: when coin biased both mean time waiting time change more rapidly probability heads streak pattern than non streak pattern
+MISC--: facts might provide new insight understanding why people view streak patterns rare remarkable
+CONT--: statistics waiting time may not justify prediction gambler s fallacy but paying attention streaks hot hand belief appears meaningful detecting changes underlying process
+MISC--: gambler s fallacy hot hand belief been classified two exemplars human misperceptions random sequential events widely studied multiple disciplines psychology sports behavioral economics neuroeconomics citation
+MISC--: often manifested more intricate forms two phenomena demonstrated independent identically distributed bernoulli trials
+OWNX--: suppose fair coin equal probabilities coming up head h tail t tossed repeatedly first three outcomes produce three heads h h h
+OWNX--: predicting next outcome one gambler s fallacy would predict h h h t reversal streak
+MISC--: contrast one hot hand belief would predict h h h h continuation streak
+MISC--: fact people exhibit two opposing expectations upon same past information negative recency gambler s fallacy positive recency hot hand belief been center attention research perception randomness pattern detection judgment uncertainty citation
+MISC--: among existing theories prevailing account representativeness heuristic attributes both gambler s fallacy hot hand belief false belief law small numbers citation
+MISC--: this account people tend believe local sample should resemble underlying population chance perceived self correcting process deviation one direction induces deviation opposite direction restore equilibrium citation
+MISC--: thus gambler s fallacy tail due reverse streak heads
+MISC--: hot hand belief streak successes may indicate existence hot hand streak tends prolonged citation
+MISC--: however representativeness account been criticized its incompleteness testability citation
+MISC--: ayton fischer citation suggest gambler s fallacy arises experience negative recency sequences natural events roulette games but hot hand belief arises experience positive recency serial fluctuations human performance
+MISC--: similarly been proposed hot hand belief arise when people evaluate performance mutual fund manager rather than fluctuations portfolio citation gambler s luck rather than outcomes roulette game citation
+MISC--: moreover burns corpus citation show subjects assume positive recency forecasting scenarios they rated nonrandom negative recency scenarios they rated random
+MISC--: burns citation further argues hot hand belief fast frugal heuristic detect changes shooting accuracy basketball players
+MISC--: this argument consistent finding residual nonstationarity sun citation suggested fluctuations players performance obscured real time adjustments based detection hot hand
+MISC--: example after making several shots row player might try more difficult shot opponent players may increase defense effort
+MISC--: citation compared representativeness account alternative interpretations distinguish hot hand belief gambler s fallacy deviations random process
+MISC--: when underlying process truly random statistically impossible tell apart independent stationary bernoulli trials both beliefs considered biases misperceptions randomness
+MISC--: particular both beliefs appear share common intuition streak patterns rare remarkable streak heads unlikely occur if coin fair basketball player unlikely make shots streaks unless he she hot hand
+MISC--: however independence assumption bernoulli trials states fair coin streak will occur often any other patterns same length its exact order citation
+MISC--: then what so special about streak patterns people normally tend avoid them only expect them when they feel hot
+AIMX--: present paper we show streak patterns do possess set properties set them apart other patterns properties may provide alternative explanation particular role streak patterns people s perception judgment randomness
+OWNX--: we exemplify comparing two patterns h h h t h h h h
+MISC--: when fair coin tossed repeatedly both patterns same probability occurrence any four successive trials
+CONT--: however takes average number tosses encounter first occurrence h h h t but number tosses encounter first occurrence h h h h
+MISC--: other words streak pattern h h h h been delayed its first occurrence
+MISC--: expected number trials required first occurrence particular pattern statistical property known waiting time different among patterns due different pattern compositions citation
+MISC--: while probability occurrence frequency describes how often pattern occurs waiting time describes when pattern will occur time at monitoring begins
+MISC--: interestingly different statistical properties clearly bear different psychological relevance
+MISC--: example passenger who waiting bus when first bus arrives probably more relevant than how often bus arrives
+AIMX--: goal this paper demonstrate plausible link between statistics pattern times people s perception randomness
+MISC--: important note concept waiting time recently received attention psychology literature citation
+MISC--: hahn warren citation show global sequence moderate length streak patterns h h h h higher probabilities nonoccurrence than h h h t
+CONT--: base this result they argue given people s limited exposure environment e g number coin tosses limited misperceptions randomness gambler s fallacy might actually emerge apt reflections environmental statistics
+MISC--: sun tweney wang citation criticize hahn warren s interpretation clarifying relationship between probability nonoccurrence waiting time
+MISC--: particular sun et al argue probability nonoccurrence manifestation waiting time independent length global sequence neither statistic would justify prediction reverting streak gambler s fallacy citation
+MISC--: notwithstanding debate argument treating waiting time part environmental statistics appears quite plausible
+MISC--: given different statistics arise same process coin tossing basketball shooting likely they been actually experienced people different effects people s perception randomness

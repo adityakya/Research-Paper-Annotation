@@ -1,0 +1,20 @@
+MISC--: inferences about target variables achieved deliberate integration probabilistic cues retrieving similar cue patterns exemplars memory
+MISC--: tasks cue information presented screen displays rule based strategies tend dominate unless abstraction cue target relations unfeasible
+MISC--: this dominance also been demonstrated surprisingly experiments demanded retrieval cue values memory citation
+OWNX--: three modified replications involving fictitious disease binary cue values were represented either alternative symptoms e g fever vs hypothermia symptom presence vs absence e g fever vs no fever
+MISC--: former representation might hinder cue abstraction
+MISC--: cues were predictive severity disease participants had infer each trial who two patients was sicker
+MISC--: both experiments replicated rule dominance present absent cues but yielded higher percentages exemplar based strategies alternative cues
+MISC--: experiments demonstrate change cue representation may induce dramatic shift rule based exemplar based reasoning formally identical tasks
+MISC--: making choices between objects people express either preferences bike do i like more
+MISC--: inferences share will fare better
+MISC--: 
+MISC--: often multiple pieces information about attributes probabilistic cues combined
+MISC--: traditionally decision researchers formulate decision strategies processing steps somehow integrate cues either weighted additive fashion citation according noncompensatory rules like lexicographic orderings citation
+MISC--: numerous strategies been proposed participants appear choose between them adaptively citation
+MISC--: juslin olsson olsson citation emphasized structural similarity choice categorization tasks both involve integration features cues
+MISC--: however categorization exemplar based models assuming storage retrieval feature patterns basis inference rather than piecemeal cue integration cue abstraction models cam proven successful citation
+MISC--: juslin his colleagues explored applicability exemplar models multiple cue judgment tasks found successes well failures citation
+CONT--: persson rieskamp citation extended juslin s approach memory based decisions cue values had retrieved memory rather than being presented experimenter i e during judgmental phase experiments participants received only stimulus names all their respective attributes had been learned beforehand had retrieved long term memory
+MISC--: their surprise p r did not find more exemplar based decision making rather most participants adopted cam
+OWNX--: we will test conjecture retrieval memory per se does not induce exemplar based decisions whereas difficulty cue abstraction combination memory retrieval does

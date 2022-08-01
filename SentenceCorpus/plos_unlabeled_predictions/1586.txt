@@ -1,0 +1,34 @@
+MISC--: fly lobula plate tangential cells known perform wide field motion integration
+OWNX--: assumed shape neurons particular shape subclass vs cells responsible this type computation
+OWNX--: we employed inverse approach investigate morphology function relationship underlying wide field motion integration vs cells
+OWNX--: inverse approach detailed model neurons optimized perform predefined computation here wide field motion integration
+OWNX--: we embedded model neurons optimized biologically plausible model fly motion detection provide realistic inputs subsequently optimized model neuron without active conductances along their dendrites perform this computation
+OWNX--: we found both passive active optimized model neurons perform well wide field motion integrators
+OWNX--: addition all optimized morphologies share same blueprint real vs cells
+OWNX--: addition we also found recurring blueprint distribution g k g na active models
+OWNX--: moreover we demonstrate how this morphology distribution conductances contribute wide field motion integration
+OWNX--: using inverse approach we predict still unknown distribution g k g na their role motion integration vs cells
+MISC--: neurons different animals brain regions feature wealth different dendritic morphologies distributions ionic conductances citation citation
+MISC--: while physiological effects morphologies conductance distributions increasingly understood how computational functions dendrites perform emerge their morphologies physiologies still incompletely known
+MISC--: computational function defined here input output transformation resulting physiology subserving biological purpose neuron
+OWNX--: notable exceptions this incomplete understanding neurons close sensory input electrophysiological dynamics recorded during sensory stimulation morphology known both correlated neuron s sensory coding
+MISC--: one example fly lobula plate tangential cells responds visual motion preferred directions demonstrated wide field motion detectors citation citation
+OWNX--: we recently developed inverse approach elucidate dendritic structure function relationships
+MISC--: underlying assumption inverse dendritic structure parallels computational function performed dendrites
+OWNX--: inverse approach we start computational function interest optimize model neurons including dendritic morphology perform this function
+OWNX--: here we apply inverse approach investigate neuronal morphology function relationship fly ltpcs
+OWNX--: we focus particular type lptc vs cells respond vertical motion
+MISC--: briefly vs cells receive motion sensitive signals medulla retinotopic organization their dendrites
+MISC--: inputs noisy insofar they corrupted spatial modulation reflecting activity individual inputs vs cell citation
+OWNX--: while membrane potential vs cells at sites synaptic input reproduces fast input dynamics time signal reaches axon cells physiology anatomy gets rid temporal modulations imposed their presynaptic local motion detectors
+MISC--: output lptcs smooth signal encodes direction presented moving stimulus citation citation
+OWNX--: thus function single vs cell temporal smoothing motion sensitive inputs produce smooth output signal
+AIMX--: this computation rewarded optimization performed this work
+MISC--: line argument described citation we assume dendritic morphology computes temporal smoothing
+OWNX--: aim this study identify morphological building blocks required perform wide field motion integration investigate how physiological processes interact morphology perform wide field motion integration
+BASE--: this work we start formalizing notion temporal smoothing subsequently optimize different model neurons perform this computation
+OWNX--: we found our optimized model neurons share crucial morphological features real vs cell morphologies intrinsic dynamics show remarkable similarity real cells
+OWNX--: our results provide alternative line support hypothesis vs cell s morphology contributes computation wide field motion integration cells
+OWNX--: moreover our simulations we were able identify morphological building blocks required perform wide field motion integration conclude passive dendrites alone account temporal smoothing active ion channels used balance responses visual stimulation preferred null direction
+OWNX--: due similarity our optimized models real vs cells we predict actual but still unknown distribution three ionic conductances their role wide field integration vs cells
+OWNX--: we discuss significance our results compare our findings related approach

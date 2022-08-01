@@ -1,0 +1,43 @@
+OWNX--: we present general approach collaborative filtering cf using spectral regularization learn linear operators users set possibly desired objects
+OWNX--: recent low rank type matrix completion approaches cf shown special cases
+CONT--: however unlike existing regularization based cf methods our approach used also incorporate information attributes users objects limitation existing regularization based cf methods
+OWNX--: we provide novel representer theorems we use develop new estimation methods
+OWNX--: we then provide learning algorithms based low rank decompositions test them standard cf dataset
+MISC--: experiments indicate advantages generalizing existing regularization based cf methods incorporate related information about users objects
+OWNX--: finally we show certain multi task learning methods also seen special cases our proposed approach
+MISC--: collaborative filtering cf refers task predicting preferences given user some objects e g books music products people etc based his her previously revealed preferences typically form purchases ratings well revealed preferences other users
+MISC--: book recommender system example one would like suggest new books someone based what she other users recently purchased rated
+OWNX--: ultimate goal cf infer preferences users order offer them new objects
+MISC--: number cf methods been developed past citation
+MISC--: recently there been interest cf using regularization based methods citation
+MISC--: this work adds literature developing novel general approach developing regularization based cf methods
+MISC--: recent regularization based cf methods assume only data available revealed preferences where no other information background information objects users given
+OWNX--: this case one may formulate problem inferring contents partially observed preference matrix each row represents user each column represents object e g books movies entries matrix represent given user s rating given object
+MISC--: when only information available set observed user object ratings unknown entries matrix must inferred known ones there typically very few relative size matrix
+OWNX--: make useful predictions within this setting regularization based cf methods make certain assumptions about relatedness objects users
+OWNX--: most common assumption preferences decomposed into small number factors both users objects resulting search low rank matrix approximates partially observed matrix preferences citation
+MISC--: rank constraint interpreted regularization hypothesis space
+MISC--: since rank constraint gives rise non convex set matrices associated optimization problem will difficult non convex problem only heuristic algorithms exist citation
+OWNX--: alternative formulation proposed citation suggests penalizing predicted matrix its trace norm i e sum its singular values
+OWNX--: added benefit trace norm regularization sufficiently large regularization parameter final solution will low rank citation
+MISC--: however key limitation current regularization based cf methods they do not take advantage information attributes users e g gender age objects e g book s author genre often available
+MISC--: intuitively information might useful guide inference preferences particular users objects very few known ratings
+OWNX--: example at extreme users objects no prior ratings not considered standard cf formulation while their attributes alone could provide some basic preference inference
+AIMX--: main contribution this paper develop general framework specific algorithms also based novel representer theorems more general cf setting where other information attributes users objects may available
+OWNX--: more precisely we show cf while typically seen problem matrix completion thought more generally estimating linear operator space users space objects
+OWNX--: equivalently this viewed learning bilinear form between users objects
+OWNX--: we then develop spectral regularization based methods learn linear operators
+MISC--: when dealing operators rather than matrices one may also work infinite dimension allowing one consider arbitrary feature space possibly induced some kernel function
+AIMX--: among key theoretical contributions this paper new representer theorems allowing us develop new general methods learn finitely many parameters even when working infinite dimensional user object feature space
+MISC--: representer theorems generalize classical representer theorem minimization empirical loss penalized norm reproducing kernel hilbert space rkhs more general penalty functions function classes
+AIMX--: we also show appropriate choice kernels both users objects we may consider number existing machine learning methods special cases our general framework
+OWNX--: particular we show several cf methods rank constrained optimization trace norm regularization those based frobenius norm regularization all cast special cases spectral regularization operator spaces
+OWNX--: moreover particular choices kernels lead specific sub cases regular matrix completion multitask learning
+OWNX--: specific application collaborative filtering presence attributes we show our generalization sub cases leads better predictive performance
+AIMX--: outline paper follows
+OWNX--: section we review notion compact operator hilbert space we show how cast collaborative filtering problem within this framework
+OWNX--: we then introduce spectral regularization discuss how rank constraint trace norm regularization frobenius norm regularization all special cases spectral regularization
+OWNX--: section we show how our general framework encompasses many existing methods proper choices loss function kernels spectral regularizer
+OWNX--: section we provide three representer theorems operator estimation spectral regularization allow efficient learning algorithms
+OWNX--: finally section we present number algorithms describe several techniques improve efficiency
+OWNX--: we test algorithms section synthetic examples widely used movie database

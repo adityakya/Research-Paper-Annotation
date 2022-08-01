@@ -1,0 +1,57 @@
+MISC--: boosting great interest recently machine learning community because impressive performance classification regression problems
+MISC--: success boosting algorithms may interpreted terms margin theory citation
+MISC--: recently been shown generalization error classifiers obtained explicitly taking margin distribution training data into account
+MISC--: most current boosting algorithms practice usually optimize convex loss function do not make use margin distribution
+OWNX--: this work we design new boosting algorithm termed margin distribution boosting mdboost directly maximizes average margin minimizes margin variance at same time
+OWNX--: this way margin distribution optimized
+OWNX--: totally corrective optimization algorithm based column generation proposed implement mdboost
+MISC--: experiments various datasets show mdboost outperforms adaboost lpboost most cases
+MISC--: boosting offers method improving existing classification algorithms
+MISC--: given training dataset boosting builds strong classifier using only weak learning algorithm citation
+MISC--: typically weak base classifier generated weak learning algorithm misclassification error slightly better than random guess
+MISC--: strong classifier much better test error
+MISC--: this sense boosting algorithms boost weak learning algorithm obtain much stronger classifier
+OWNX--: boosting was originally proposed ensemble learning method depends majority voting multiple individual classifiers
+MISC--: later breiman citation friedman citation observed many boosting algorithms viewed gradient descent optimization functional space
+MISC--: mason citation developed anyboost boosting arbitrary loss functions similar idea
+MISC--: despite large success practice boosting algorithms there still open questions about why how boosting works
+MISC--: inspired large margin theory kernel methods schapire citation presented margin based bound adaboost tries interpret adaboost s success margin theory
+MISC--: although margin theory provides qualitative explanation effectiveness boosting bounds quantitatively weak
+MISC--: recent work citation proffered new tighter margin bounds may useful quantitative predictions
+MISC--: arc gv citation variant adaboost algorithm was designed breiman empirically test adaboost s convergence properties
+MISC--: very similar adaboost only different calculating coefficient associated each weak classifier increases margins even more aggressively than adaboost
+MISC--: breiman s experiments arc gv show contrary results margin theory arc gv always minimum margin provably larger than adaboost but arc gv performs worse terms test error citation
+MISC--: grove schuurmans citation observed same phenomenon
+MISC--: literature much work focused maximizing minimum margin citation
+MISC--: recently reyzin schapire citation re ran breiman s experiments controlling weak classifiers complexity
+MISC--: they found better margin distribution more important than minimum margin
+MISC--: importance large minimum margin but not at expense other factors
+MISC--: they thus conjectured maximizing average margin rather than minimum margin may lead improved boosting algorithms
+OWNX--: we try verify this conjecture this work
+MISC--: recently garg roth citation introduced margin distribution based complexity measure learning classifiers developed margin distribution based generalization bounds
+MISC--: competitive classification results been shown optimizing this bound
+MISC--: another relevant work citation
+MISC--: citation applies boosting method optimize margin distribution based generalization bound obtained citation
+MISC--: experiments show new boosting methods achieve considerable improvements over adaboost
+OWNX--: optimization this new boosting method based anyboost framework citation
+OWNX--: aligned attempts we propose new boosting algorithm through optimization margin distribution termed mdboost
+OWNX--: instead minimizing margin distribution based generalization bound we directly optimize margin distribution maximizing average margin at same time minimizing variance margin distribution
+OWNX--: theoretical justification proposed mdboost approximately adaboost actually maximizes average margin minimizes margin variance
+OWNX--: main contributions our work follows
+OWNX--: we propose new totally corrective boosting algorithm mdboost optimizing margin distribution directly
+OWNX--: optimization procedure mdboost based idea column generation been widely used large scale linear programming
+OWNX--: we empirically demonstrate mdboost outperforms adaboost lpboost most uci datasets used our experiments
+MISC--: success mdboost verifies conjecture citation
+OWNX--: our results also show mdboost achieved similar better classification performance compared adaboost cg citation
+MISC--: adaboost cg also totally corrective sense all linear coefficients weak classifiers updated during training
+MISC--: advantage mdboost at each iteration mdboost solves quadratic program while adaboost cg needs solve general convex program
+OWNX--: throughout paper matrix denoted upper case letter symbol column vector denoted bold low case letter symbol
+MISC--: symbol th row symbol denoted symbol symbol th column symbol
+OWNX--: we use symbol denote identity matrix
+MISC--: symbol symbol column vectors symbol s symbol s respectively
+MISC--: their sizes will clear context
+OWNX--: we use symbol denote component wise inequalities
+AIMX--: rest paper structured follows
+OWNX--: section we present main idea
+OWNX--: section dual mdboost s optimization problem derived enables us design lpboost like column generation based boosting algorithm
+OWNX--: we provide experimental comparison algorithms uci data section conclude paper section

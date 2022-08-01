@@ -1,0 +1,35 @@
+AIMX--: we present extension principal component analysis pca new algorithm clustering points symbol based
+MISC--: key property algorithm affine invariant
+MISC--: when input sample mixture two arbitrary gaussians algorithm correctly classifies sample assuming only two components separable hyperplane ie there exists halfspace contains most one gaussian almost none other probability mass
+OWNX--: this nearly best possible improving known results substantially citation
+CONT--: symbol components algorithm requires only there some symbol dimensional subspace overlap every direction small
+OWNX--: here we define overlap ratio following two quantities average squared distance between point mean its component average squared distance between point mean mixture
+MISC--: main result may also stated language linear discriminant analysis if standard fisher discriminant citation small enough labels not needed estimate optimal subspace projection
+OWNX--: our main tools isotropic transformation spectral projection simple reweighting technique
+OWNX--: we call this combination isotropic pca
+MISC--: we present extension principal component analysis pca able go beyond standard pca identifying important directions
+MISC--: when covariance matrix input distribution point set symbol multiple identity then pca reveals no information second moment along any direction same
+MISC--: inputs called isotropic
+OWNX--: our extension we call isotropic pca reveal interesting information settings
+OWNX--: we use this technique give affine invariant clustering algorithm points symbol
+MISC--: when applied problem unraveling mixtures arbitrary gaussians unlabeled samples algorithm yields substantial improvements known results
+MISC--: illustrate technique consider uniform distribution set symbol isotropic
+OWNX--: suppose this distribution rotated unknown way we would like recover original symbol symbol axes
+OWNX--: each point sample we may project unit circle compute covariance matrix resulting point set
+MISC--: symbol direction will correspond greater eigenvector symbol direction other
+MISC--: see figure illustration
+MISC--: instead projection onto unit circle this process may also thought importance weighting technique allows one simulate one distribution another
+AIMX--: this case we simulating distribution over set symbol where density function proportional symbol so points near symbol symbol more probable this paper we describe how apply this method mixtures arbitrary gaussians symbol order find set directions along gaussians well separated
+MISC--: directions span fisher subspace mixture classical concept pattern recognition
+OWNX--: once directions identified points classified according component distribution generated them hence all parameters mixture learned
+AIMX--: what separates this paper previous work learning mixtures our algorithm affine invariant
+CONT--: indeed every mixture distribution learned using previously known algorithm there linear transformation bounded condition number causes algorithm fail
+OWNX--: symbol components our algorithm nearly best possible guarantees subsumes all previous results clustering gaussian mixtures
+MISC--: symbol requires there symbol dimensional subspace where overlap components small every direction see section
+OWNX--: this condition stated terms fisher discriminant quantity commonly used field pattern recognition labeled data
+OWNX--: because our algorithm affine invariant makes possible unravel much larger set gaussian mixtures than had been possible previously
+OWNX--: first step our algorithm place mixture isotropic position see section via affine transformation
+CONT--: this effect making symbol dimensional fisher subspace i e one minimizes fisher discriminant same subspace spanned means components they only coincide general isotropic position any mixture
+CONT--: rest algorithm identifies directions close this subspace uses them cluster without access labels
+OWNX--: intuitively this hard since after isotropy standard pca reveals no additional information
+OWNX--: before presenting ideas guarantees more detail we describe relevant related work

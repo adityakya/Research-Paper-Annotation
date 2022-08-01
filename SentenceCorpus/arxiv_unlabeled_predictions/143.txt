@@ -1,0 +1,129 @@
+AIMX--: this paper we propose miml multi instance multi label learning
+MISC--: framework where example described multiple instances associated
+MISC--: multiple class labels
+OWNX--: compared traditional learning frameworks miml
+MISC--: framework more convenient natural representing complicated objects
+OWNX--: multiple semantic meanings
+OWNX--: learn miml examples we propose
+MISC--: textsc mimlboost textsc mimlsvm algorithms based simple degeneration
+OWNX--: strategy experiments show solving problems involving complicated objects
+MISC--: multiple semantic meanings miml framework lead good performance
+MISC--: considering degeneration process may lose information we propose
+MISC--: textsc d mimlsvm algorithm tackles miml problems directly regularization
+MISC--: framework
+OWNX--: moreover we show even when we do not access real objects
+MISC--: thus cannot capture more information real objects using miml
+MISC--: representation miml still useful
+OWNX--: we propose textsc insdif
+MISC--: textsc subcod algorithms textsc insdif works transforming single instances into
+MISC--: miml representation learning while textsc subcod works transforming
+MISC--: single label examples into miml representation learning
+OWNX--: experiments show
+MISC--: some tasks they able achieve better performance than learning
+MISC--: single instances single label examples directly
+MISC--: traditional supervised learning object represented instance
+MISC--: i e feature vector associated class label
+MISC--: formally let symbol
+MISC--: denote instance space feature space symbol set class labels
+MISC--: task learn function symbol given data set
+MISC--: symbol where symbol instance symbol known label symbol
+MISC--: although this formalization prevailing successful there many real world
+OWNX--: problems do not fit this framework well
+OWNX--: particular each object this
+MISC--: framework belongs only one concept therefore corresponding instance
+MISC--: associated single class label
+MISC--: however many real world objects complicated
+MISC--: may belong multiple concepts simultaneously
+MISC--: example image belong
+MISC--: several classes simultaneously eg grasslands lions
+MISC--: africa etc text document classified several categories if
+MISC--: viewed different aspects eg scientific novel jules verne s
+MISC--: writing even books traveling web page recognized
+MISC--: news page sports page soccer page etc
+MISC--: specific real
+OWNX--: task maybe only one multiple concepts right semantic meaning
+MISC--: 
+MISC--: example image retrieval when user interested image lions s he may
+MISC--: only interested concept lions instead other concepts
+MISC--: grasslands africa associated image
+MISC--: difficulty here
+MISC--: caused those objects involve multiple concepts
+MISC--: choose right semantic meaning objects specific scenario fundamental difficulty many tasks
+OWNX--: contrast starting large universe all possible concepts involved task may helpful get subset concepts associated concerned object at first then make choice small subset later
+MISC--: however getting subset concepts assigning proper class labels objects still challenging task
+OWNX--: we notice alternative representing object single instance
+MISC--: many cases possible represent complicated object using set instances
+MISC--: example multiple patches extracted image where each patch
+MISC--: described instance thus image represented set instances
+OWNX--: multiple sections extracted document where each section described
+OWNX--: instance thus document represented set instances multiple
+MISC--: links extracted web page where each link described instance
+MISC--: thus web page represented set instances
+MISC--: using multiple instances
+MISC--: represent those complicated objects may helpful because some inherent patterns
+MISC--: closely related some labels may become explicit clearer
+AIMX--: this paper we propose miml multi instance multi label learning
+MISC--: framework where example described multiple instances associated
+MISC--: multiple class labels
+MISC--: compared traditional learning frameworks miml framework more convenient
+OWNX--: natural representing complicated objects
+MISC--: exploit advantages miml
+MISC--: representation new learning algorithms needed
+OWNX--: we propose textsc mimlboost
+OWNX--: algorithm textsc mimlsvm algorithm based simple degeneration strategy
+OWNX--: experiments show solving problems involving complicated objects multiple
+MISC--: semantic meanings under miml framework lead good performance
+MISC--: considering
+OWNX--: degeneration process may lose information we also propose
+MISC--: textsc d mimlsvm i e direct textsc mimlsvm algorithm tackles miml
+MISC--: problems directly regularization framework
+OWNX--: experiments show this direct
+CONT--: algorithm outperforms indirect textsc mimlsvm algorithm
+OWNX--: some practical tasks we do not access real objects themselves
+OWNX--: real images real web pages instead we given observational data where
+OWNX--: each real object already been represented single instance
+MISC--: thus cases
+MISC--: we cannot capture more information real objects using miml representation
+CONT--: even this situation however miml still useful
+OWNX--: we propose textsc insdif
+MISC--: i e instance differentiation algorithm transforms single instances into miml
+MISC--: examples learning
+MISC--: this algorithm able achieve better performance than
+MISC--: learning single instances directly some tasks
+OWNX--: this not strange because
+MISC--: object associated multiple class labels if described only single
+MISC--: instance information corresponding labels mixed thus difficult
+MISC--: learning if we transform single instance into set instances some
+MISC--: proper ways mixed information might detached some extent thus less
+MISC--: difficult learning
+MISC--: miml also helpful learning single label objects
+OWNX--: we propose
+OWNX--: textsc subcod i e sub concept discovery algorithm works discovering
+OWNX--: sub concepts target concept at first then transforming data into miml
+MISC--: examples learning
+MISC--: this algorithm able achieve better performance than
+MISC--: learning single label examples directly some tasks
+OWNX--: this also not strange
+MISC--: because label corresponding high level complicated concept may quite
+MISC--: difficult learn this concept directly since many different lower level concepts
+MISC--: mixed if we transform single label into set labels corresponding some
+OWNX--: sub concepts relatively clearer easier learning we learn
+OWNX--: labels at first then derive high level complicated label based them
+MISC--: less difficulty
+AIMX--: rest this paper organized follows
+OWNX--: section we review
+MISC--: some related work
+OWNX--: section we propose miml framework
+MISC--: 
+OWNX--: section we propose textsc mimlboost textsc mimlsvm
+MISC--: algorithms apply them tasks where objects represented miml examples
+OWNX--: section we present textsc d mimlsvm algorithm compare
+MISC--: indirect textsc mimlsvm algorithm
+MISC--: sections
+OWNX--: we study usefulness miml when we do not access real
+OWNX--: objects
+OWNX--: concretely section we propose textsc insdif
+CONT--: algorithm show using miml better than learning single instances
+OWNX--: directly section we propose textsc subcod algorithm
+OWNX--: show using miml better than learning single label examples directly
+OWNX--: finally we conclude paper section

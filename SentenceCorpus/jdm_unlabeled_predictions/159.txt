@@ -1,0 +1,38 @@
+MISC--: people not only seek avoid losses secure gains they also attempt create opportunities obtaining positive outcomes
+MISC--: when distributing money between gambles equal probabilities people often invest turning negative gambles into positive ones even at cost reduced expected value
+OWNX--: results experiment revealed number preference turn negative outcome into positive outcome exists when people s ability do so depends their performance levels rather than merely their choice number this preference amplified when likelihood turn negative into positive high rather than low number this preference attenuated when people lie about their performance levels allowing them turn negative into positive not performing better but rather lying about how well they performed
+MISC--: losses loom larger than gains citation avoiding losses more desired than securing gains citation especially when motivation line individual s goals citation
+MISC--: beyond avoiding losses securing gains however people motivated create opportunities securing positive outcomes citation
+MISC--: people seek increase probability win something even at cost reduced expected value citation
+MISC--: this tendency translate into large monetary losses real life people attempt minimize number debts they rather than focusing reducing total amount they owe citation
+MISC--: specifically among people holding multiple credit cards amar et al citation found evidence debt account aversion people consistently paid off small debts first even though larger debts had higher interest rates
+MISC--: people s psychological need turn negative positive costly
+MISC--: payne colleagues citation studied people s tendency attempt increasing their probability winning positive outcome using mixed probability gambles
+CONT--: participants were asked imagine they own five outcome gamble following payoffs probabilities number number number number number number number number number number now imagine i tell you you change gamble above one two ways
+MISC--: you add number outcome pays number you add number outcome pays number
+MISC--: citation
+OWNX--: although expected value gamble remains constant regardless outcome participants chose add money all outcome had same probability chosen number percent participants preferred add money outcome increased their probability winning positive outcome e g number increasing probability winning positive outcome number out number number out number
+OWNX--: remaining number percent chose add money alternative outcome did not increase their likelihood winning something e g number
+CONT--: venkatraman et al citation further found number percent people who considered following gamble number number number number number number number number number number chose add their number number outcome rather than number outcome allowing them turn one negative outcome into positive outcome thus increase their probability winning something gamble number out number number out number
+MISC--: although people influence their outcomes choosing how allocate funds citation they often also able influence their outcomes choosing task working
+MISC--: example observing multiple tasks piling their desks emails respond exams grade people must choose task they will attend first
+MISC--: they may choose more urgent task grading exams alternatively choose task likely take least time accomplish reply not so urgent emails
+MISC--: people s desire less unattended tasks their table might lead them procrastinate more urgent tasks they facing
+MISC--: current paper focuses situation people influence their outcomes choosing one multiple outcomes adding value function their task performance predicting outcomes multiple coin tosses
+MISC--: specifically current work asks whether people choose invest their efforts turning negative outcomes into positive outcomes thus increase their probability winning positive outcome
+MISC--: additional questions addressed here whether this tendency amplified when likelihood turn negative positive high rather than low when performance needed accomplish turning negative outcome into positive outcome relatively feasible easy accomplish rather than relatively less feasible difficult accomplish
+MISC--: finally i ask whether ambiguous settings people may over report their performance levels i e lie reduce their sensitivity objective feasibility turn negative positive
+MISC--: address questions i adapted payne s citation paradigm asked participants add points one three outcomes labeled pot pot b pot c choosing one pots
+OWNX--: participants then predicted outcomes number coin tosses gaining one point per correct prediction
+OWNX--: points were added pre selected pot only
+OWNX--: after participants completed coin tossing task one pots was randomly selected determine participant s final outcome
+MISC--: points translated lottery tickets alleged lottery two x number ac number prizes
+OWNX--: pot had positive initial outcome number points pot c had negative initial outcome number points while pot b had negative initial value could potentially turn into positive outcome if participants predicted well enough coin tossing task
+MISC--: specifically i manipulated whether initial value pot b made likely turn negative positive initial value number points unlikely turn negative positive initial value number points
+MISC--: people seek maximize probability winning something thus turn negative outcomes into positive ones they should sensitive likelihood turning negative outcome into positive one
+MISC--: when likelihood successfully turning negative outcome into positive outcome low i e when accomplishing task possible but relatively difficult due initial value pot people should less likely choose modifying this outcome
+MISC--: contrast when likelihood successfully turning negative outcome into positive outcome high i e when accomplishing task possible also relatively easy due initial value pot people should more likely choose modifying this outcome
+MISC--: formally put relative likelihood accomplish task however matters only when performance evaluated objectively when people not able over report their performance levels unethically boost their profit
+MISC--: contrast when people ability lie about their performance levels difficulty task becomes less important people lie rather than perform order achieve positive outcome
+MISC--: this begs question whether situations allowing people dishonestly over report their performance levels may lead people pay less attention likelihood being able turn negative positive citation
+MISC--: other words when people lie improve their outcomes will likelihood turning negative positive i e low vs high initial pot value no longer relevant

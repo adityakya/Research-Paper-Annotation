@@ -1,0 +1,27 @@
+MISC--: identification single nucleotide polymorphisms mutations important discovery genetic predisposition complex diseases
+OWNX--: pcr resequencing method choice de novo snp discovery
+OWNX--: however manual curation putative snps been major bottleneck application this method high throughput screening
+OWNX--: therefore critical develop more sensitive accurate computational method automated snp detection
+OWNX--: we developed software tool snpdetector automated identification snps mutations fluorescence based resequencing reads
+OWNX--: snpdetector was designed model process human visual inspection very low false positive false negative rate
+OWNX--: we demonstrate superior performance snpdetector snp mutation analysis comparing its results those derived human inspection polyphred independent genotype assays three large scale investigations
+OWNX--: first study identified validated inter intra subspecies variations traces inbred mouse strains belong either mus musculus species m spretus species
+OWNX--: unexpected heterozgyosity cast ei strain was observed two out mouse snps
+MISC--: second study identified candidate snps five encode regions human genome covering mb genomic sequence
+MISC--: approximately percent candidate snps were selected experimental genotyping validation rate exceeded percent
+MISC--: third study detected enu induced mutations traces zebra fish
+MISC--: our analysis three large diverse test datasets demonstrated snpdetector effective tool genome scale research large sample clinical studies
+MISC--: snpdetector runs unix linux platform available publicly
+MISC--: identification genetic variations mutations important discovery genetic predisposition complex diseases
+MISC--: although wide variety methods available de novo single nucleotide polymorphism discovery citation dna sequencing method choice high throughput screening studies
+MISC--: dna sequencing may follow either random shotgun strategy citation citation directed strategy using pcr amplification specific target regions interest citation
+MISC--: high density haplotype map human genome citation nears completion demand large scale snp surveys seeking genetic mutations linked causative wide variety human diseases expected greatly increase citation
+OWNX--: direct sequencing pcr amplified genomic fragments diploid samples results mixed sequencing templates
+OWNX--: therefore one most challenging issues snp discovery this method distinguish bona fide heterozygous allelic variations sequencing artifacts give rise two overlapping fluorescence peaks similar true heterozygotes
+MISC--: currently polyphred citation most widely used snp discovery software analysis
+MISC--: reports heterozygous allele only when site shows decrease about percent peak height compared average height homozygous individuals
+MISC--: however inspection computational results human analysts often required ensure low false positive rate labor intensive process
+OWNX--: provide sensitive accurate method snp detection fluorescence based resequencing we developed new software tool snpdetector aiming computerize manual review process
+MISC--: we report snpdetector s application three large scale genetic variation studies compare its results those obtained human inspection polyphred experimental validation
+OWNX--: first study resequencing was used validate mouse snps discovered whole genome shotgun sequencing
+AIMX--: second study identifies novel snps encode regions human genome citation third study aims discover mutations induced enu zebra fish

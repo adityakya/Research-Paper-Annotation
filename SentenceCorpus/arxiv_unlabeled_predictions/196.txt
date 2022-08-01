@@ -1,0 +1,35 @@
+MISC--: recently different works proposed new way mine patterns databases pathological size
+OWNX--: example experiments genome biology usually provide databases thousands attributes genes but only tens objects experiments
+OWNX--: this case mining transposed database runs through smaller search space galois connection allows infer closed patterns original database
+AIMX--: we focus here constrained pattern mining those unusual databases give theoretical framework database constraint transposition
+OWNX--: we discuss properties constraint transposition look into classical constraints
+MISC--: we then address problem generating closed patterns original database satisfying constraint starting those mined transposed database
+OWNX--: finally we show how generate all patterns satisfying constraint closed ones
+MISC--: frequent pattern mining now well mastered but patterns like association rules reveal too numerous experts very expensive compute
+MISC--: they filtered constrained
+MISC--: however mining constraining done jointly pushing constraint order avoid combinatorial explosion citation
+MISC--: mining under complex constraint become today hot topic subject numerous works e g citation
+OWNX--: moreover new domains interested our applications data schemes vary consequently
+MISC--: genome biology biological experiments very expensive time consuming
+MISC--: therefore only small number experiments processed
+OWNX--: however thanks new devices biochips experiments provide measurements activity thousands genes
+OWNX--: this leads databases lots columns genes few rows experiments
+MISC--: numerous works present efficient algorithms mine patterns satisfying user defined constraint large databases
+MISC--: this constraint combine minimum maximum frequency threshold together other syntactical constraints
+MISC--: algorithms designed databases up several millions rows
+MISC--: however their complexity exponential number columns thus they not suited databases too many columns like those encountered genome biology
+MISC--: recently two propositions were done solve this problem instead mining original database algorithms work transposed database i e columns original database become rows transposed database rows becomes columns this indeed same database but different representation
+MISC--: therefore transposed database significantly less columns than original one
+CONT--: carpenter algorithm citation specifically designed mining frequent closed patterns our proposition citation uses classical algorithm mining closed patterns monotonic anti monotonic constraint
+OWNX--: both approaches use transposition principle however problem mining under constraints not fully studied specially complex constraints i e conjunction disjunction simple constraints
+AIMX--: this paper we study this problem theoretical point view
+MISC--: our aim use classical algorithms constrained pattern mining algorithms closed patterns mining algorithms transposed database use their output regenerate patterns original database instead directly mining original database
+MISC--: there several interesting questions we will therefore try answer what kind information gathered transposed database patterns original database
+MISC--: possible transpose constraints i e given database constraint possible find transposed constraint mining transposed database transposed constraint gives information about patterns satisfy original constraint original database
+OWNX--: how we regenerate closed patterns original database patterns extracted transposed database
+OWNX--: how we generate all itemsets satisfying constraint using extracted closed patterns
+MISC--: questions will addressed respectively sec
+AIMX--: organization paper follows we start sec recalling some usual definitions related pattern mining galois connection
+OWNX--: then we show sec how transpose usual complex constraints
+OWNX--: section complete discussion about mining constrained closed patterns using transposed database sec we show how use this compute all i e not only closed patterns satisfying constraint
+MISC--: finally sec short conclusion

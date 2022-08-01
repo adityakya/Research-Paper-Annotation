@@ -1,0 +1,23 @@
+MISC--: computational efforts identify functional elements within genomes leverage comparative sequence information looking regions exhibit evidence selective constraint
+MISC--: one way detecting constrained elements follow bottom up approach computing constraint scores individual positions multiple alignment then defining constrained elements segments contiguous highly scoring nucleotide positions
+AIMX--: here we present gerp new tool uses maximum likelihood evolutionary rate estimation position specific scoring contrast previous bottom up methods novel dynamic programming approach subsequently define constrained elements
+MISC--: gerp evaluates richer set candidate element breakpoints ranks them based statistical significance eliminating need biased heuristic extension techniques
+BASE--: using gerp we identify over million constrained elements spanning over percent human genome
+OWNX--: we predict higher fraction than earlier estimates largely due annotation longer constrained elements improves one one correspondence between predicted elements known functional sequences
+OWNX--: gerp efficient effective tool provide both nucleotide element level constraint scores within deep multiple sequence alignments
+MISC--: identification annotation all functional elements human genome one main goals contemporary genetics general encode project particular citation citation citation
+MISC--: comparative sequence analysis enabled multiple sequence alignments human genome dozens mammalian species become powerful tool pursuit this goal sequence conservation due negative selection often strong signal biological function
+OWNX--: after constructing multiple sequence alignment one quantify evolutionary rates at level individual positions identify segments alignment show significantly elevated levels conservation
+MISC--: several computational methods constrained element detection been developed most falling into one two broad categories generative model based approaches attempt explicitly model quantity distribution constraint within alignment bottom up approaches first estimate constraint at individual positions then look clusters highly constrained positions
+MISC--: widely used generative approach phastcons citation uses phylo hidden markov model find most likely parse alignment into constrained neutral hidden states
+CONT--: while hmms widely used modeling biological sequences they known drawbacks transition probabilities imply specific geometric state duration distribution context phastcons means predicted constrained neutral segment length
+MISC--: this may bias resulting estimates element length total genomic fraction under constraint
+MISC--: one leading bottom up approaches gerp citation quantifies position specific constraint terms rejected substitutions difference between neutral rate substitution observed rate estimated maximum likelihood heuristically extends contiguous segments constrained positions blast like citation manner
+CONT--: however gerp computationally slow because its maximum likelihood computation uses expectation maximization algorithm citation estimate new set branch lengths each position alignment this step also undesirable methodologically because involves estimating k real valued parameters k nucleotides data
+OWNX--: furthermore extension heuristic used gerp may induce biases length predicted ces
+AIMX--: this work we present gerp novel bottom up method constrained element detection like gerp uses rejected substitutions metric constraint
+OWNX--: gerp uses significantly faster more statistically robust maximum likelihood estimation procedure compute expected rates evolution results more than fold reduction computation time
+OWNX--: addition we introduce novel criterion grouping constrained positions into constrained elements using statistical significance guide assigning p values our predictions
+OWNX--: we apply dynamic programming approach globally predict set constrained elements ranked their p values concomitant false positive rate estimate
+OWNX--: using gerp we analyzed alignment human genome other mammalian species identifying over million constrained elements spanning over percent human genome high confidence
+MISC--: compared previous methods we predict larger fraction human genome contained constrained elements due annotation many fewer but longer elements very low false positive rate

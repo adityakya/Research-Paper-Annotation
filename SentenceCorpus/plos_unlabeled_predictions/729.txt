@@ -1,0 +1,35 @@
+CONT--: there evidence biological synapses limited number discrete weight states
+MISC--: memory storage synapses behaves quite differently synapses unbounded continuous weights old memories automatically overwritten new memories
+CONT--: consequently there been substantial discussion about how this affects learning storage capacity
+AIMX--: this paper we calculate storage capacity discrete bounded synapses terms shannon information
+OWNX--: we use this optimize learning rules investigate how maximum information capacity depends number synapses number synaptic states coding sparseness
+OWNX--: below certain critical number synapses per neuron we find storage similar unbounded continuous synapses
+MISC--: hence discrete synapses do not necessarily lower storage capacity
+MISC--: memory biological neural systems believed stored synaptic weights
+MISC--: numerous computational models memory systems been constructed order study their properties explore potential hardware implementations
+MISC--: storage capacity optimal learning rules been studied both single layer associative networks citation citation studied here auto associative networks citation citation
+MISC--: commonly synaptic weights models represented unbounded continuous real numbers
+OWNX--: however biology well potential hardware synaptic weights should take values between certain bounds
+CONT--: furthermore synapses might restricted limited number synaptic states e g synapse might binary
+MISC--: although binary synapses might limited storage capacity they made more robust biochemical noise than continuous synapses citation
+MISC--: consistent this experiments suggest synaptic weight changes occur steps
+MISC--: example putative single synapse experiments show switch like increment reduction excitatory post synaptic current induced pairing brief pre synaptic stimulation appropriate post synaptic depolarization citation citation
+MISC--: networks bounded synapses palimpsest property i e old memories decay automatically they overwritten new ones citation citation
+MISC--: contrast networks continuous unbounded synapses storing additional memories reduces quality recent old memories equally
+MISC--: forgetting old memories must case explicitly incorporated instance via weight decay mechanism citation citation
+MISC--: automatic forgetting discrete bounded synapses allows one study learning realistic equilibrium context there continual storage new information
+MISC--: common use signal noise ratio quantify memory storage neural networks citation citation
+MISC--: snr measures separation between responses network higher snr more memory stands out less likely will lost distorted
+MISC--: when weights unbounded each stored pattern same snr
+MISC--: storage capacity then defined maximum number patterns snr larger than some fixed minimum value
+MISC--: however discrete bounded synapses performance must characterized two quantities initial snr its decay rate
+MISC--: ideally memory high snr slow decay but altering learning rules typically results either increase memory lifetime but decrease initial snr citation increase initial snr but decrease memory lifetime
+MISC--: optimization learning rule ambivalent because arbitrary trade off must made between two effects
+AIMX--: this paper we resolve this conflict between learning forgetting analyzing capacity synapses terms shannon information
+OWNX--: we describe framework calculating information capacity bounded discrete synapses use this find optimal learning rules
+OWNX--: we model single neuron investigate how information capacity depends number synapses number synaptic states
+MISC--: we find below critical number synapses total capacity linear number synapses while more synapses capacity grows only square root number synapses per neuron
+OWNX--: this critical number dependent sparseness patterns stored well number synaptic states
+MISC--: furthermore when increasing number synaptic states information initially grows linearly number states but saturates many states
+OWNX--: interestingly biologically realistic parameters capacity just at this critical point suggesting number synapses per neuron limited prevent sub optimal learning
+MISC--: finally capacity measure allows direct comparison discrete continuous synapses showing under right conditions their capacities comparable

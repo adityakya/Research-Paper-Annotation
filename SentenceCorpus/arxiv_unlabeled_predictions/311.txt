@@ -1,0 +1,89 @@
+MISC--: one most popular algorithms clustering euclidean space symbol means algorithm symbol means difficult analyze mathematically few theoretical guarantees known about particularly when data well clustered
+AIMX--: this paper we attempt fill this gap literature analyzing behavior symbol means well clustered data
+AIMX--: particular we study case when each cluster distributed different gaussian other words when input comes mixture gaussians
+OWNX--: we analyze three aspects symbol means algorithm under this assumption
+OWNX--: first we show when input comes mixture two spherical gaussians variant symbol means algorithm successfully isolates subspace containing means mixture components
+BASE--: second we show exact expression convergence our variant symbol means algorithm when input very large number samples mixture spherical gaussians
+CONT--: our analysis does not require any lower bound separation between mixture components
+OWNX--: finally we study sample requirement symbol means mixture symbol spherical gaussians we show upper bound number samples required variant symbol means get close true solution
+MISC--: sample requirement grows increasing dimensionality data decreasing separation between means gaussians
+OWNX--: match our upper bound we show information theoretic lower bound any algorithm learns mixtures two spherical gaussians our lower bound indicates case when overlap between probability masses two distributions small sample requirement symbol means near optimal
+MISC--: one most popular algorithms clustering euclidean space symbol means algorithm citation this simple local search algorithm iteratively refines partition input points until convergence
+MISC--: like many local search algorithms symbol means notoriously difficult analyze few theoretical guarantees known about
+MISC--: there been three lines work symbol means algorithm
+OWNX--: first line questioning addresses quality solution produced symbol means comparison globally optimal solution
+CONT--: while been well known general inputs quality this solution arbitrarily bad conditions under symbol means yields globally optimal solution well clustered data not well understood
+MISC--: second line work citation examines number iterations required symbol means converge citation shows there exists set symbol points plane symbol means takes many symbol iterations converge points
+MISC--: smoothed analysis upper bound symbol iterations been established citation but this bound still much higher than what observed practice where number iterations frequently sublinear symbol
+MISC--: moreover smoothed analysis bound applies small perturbations arbitrary inputs question whether one get faster convergence well clustered inputs still unresolved
+MISC--: third question considered statistics literature statistical efficiency symbol means
+MISC--: suppose input drawn some simple distribution symbol means statistically consistent then how many samples required symbol means converge
+MISC--: there other consistent procedures better sample requirement
+AIMX--: this paper we study all three aspects symbol means studying behavior symbol means gaussian clusters
+MISC--: data frequently modelled mixture gaussians mixture collection gaussians symbol weights symbol symbol
+OWNX--: sample mixture we first pick symbol probability symbol then draw random sample symbol
+AIMX--: clustering data then reduces problem learning mixture here we given only ability sample mixture our goal learn parameters each gaussian symbol well determine gaussian each sample came
+OWNX--: our results follows
+OWNX--: first we show when input comes mixture two spherical gaussians variant symbol means algorithm successfully isolates subspace containing means gaussians
+MISC--: second we show exact expression convergence variant symbol means algorithm when input large number samples mixture two spherical gaussians
+MISC--: our analysis shows convergence rate logarithmic dimension decreases increasing separation between mixture components
+OWNX--: finally we address sample requirement symbol means mixture symbol spherical gaussians we show upper bound number samples required variant symbol means get close true solution
+MISC--: sample requirement grows increasing dimensionality data decreasing separation between means distributions
+OWNX--: match our upper bound we show information theoretic lower bound any algorithm learns mixtures two spherical gaussians our lower bound indicates case when overlap between probability masses two distributions small sample requirement symbol means near optimal
+AIMX--: additionally we make some partial progress towards analyzing symbol means more general case we show if our variant symbol means run mixture symbol spherical gaussians then converges vector subspace containing means symbol
+OWNX--: key insight our analysis novel potential function symbol minimum angle between subspace means symbol normal hyperplane separator symbol means
+OWNX--: we show this angle decreases iterations our variant symbol means we characterize convergence rates sample requirements characterizing rate decrease potential
+MISC--: one most popular algorithms clustering euclidean space symbol means algorithm citation
+MISC--: symbol means iterative algorithm begins initial partition input points successively refines partition until convergence
+AIMX--: this paper we perform probabilistic analysis symbol means when applied problem learning mixture models
+MISC--: mixture model symbol collection distributions symbol weights symbol symbol
+OWNX--: sample mixture symbol obtained selecting symbol probability symbol then selecting random sample symbol
+MISC--: given only ability sample mixture problem learning mixture determining parameters distributions comprising mixture b classifying samples according source distribution
+MISC--: most previous work analysis symbol means citation studies problem statistical setting shows consistency guarantees when number samples tend infinity
+CONT--: symbol means algorithm also closely related widely used em algorithm citation learning mixture models essentially main difference between symbol means em being em allows sample fractionally belong multiple clusters symbol means does not
+MISC--: most previous work analyzing em view optimization procedure over likelihood surface study its convergence properties analyzing likelihood surface around optimum citation
+AIMX--: this paper we perform probabilistic analysis variant symbol means when input generated mixture spherical gaussians
+OWNX--: instead analyzing likelihood surface we examine geometry input use structure show algorithm makes progress towards correct solution each round high probability
+MISC--: previous probabilistic analysis em due citation applies when input comes mixture spherical gaussians separated two samples same gaussian closer space than two samples different gaussians
+CONT--: contrast our analysis much finer while still deals mixtures two more spherical gaussians applies under any separation
+OWNX--: moreover we quantify number samples required symbol means work correctly medskip our results more specifically our results follows
+OWNX--: we perform probabilistic analysis variant symbol means our variant essentially symmetrized version symbol means reduces symbol means when we very large number samples mixture two identical spherical gaussians equal weights
+OWNX--: symbol means algorithm separator between two clusters always hyperplane we use angle symbol between normal this hyperplane mean mixture component round symbol measure potential each round
+OWNX--: note when symbol we arrived at correct solution
+OWNX--: first section we consider case when we at our disposal very large number samples mixture symbol symbol mixing weights symbol respectively
+OWNX--: we show exact relationship between symbol symbol any value symbol symbol symbol symbol
+AIMX--: using this relationship we approximate rate convergence symbol means different values separation well different initialization procedures
+MISC--: our guarantees illustrate progress symbol means very fast namely square cosine symbol grows at least constant factor high separation each round when one far actual solution slow when actual solution very close
+OWNX--: next section we characterize sample requirement our variant symbol means succeed when input mixture two spherical gaussians
+OWNX--: case two identical spherical gaussians equal mixing weight our results imply when separation symbol when symbol samples used each round symbol means algorithm makes progress at roughly same rate section
+MISC--: this agrees symbol sample complexity lower bound citation learning mixture gaussians line well experimental results citation
+OWNX--: when symbol our variant symbol means makes progress each round when number samples at least symbol
+OWNX--: then section we provide information theoretic lower bound sample requirement any algorithm learning mixture two spherical gaussians standard deviation symbol equal weight
+OWNX--: we show when separation symbol any algorithm requires symbol samples converge vector within angle symbol true solution where symbol constant
+MISC--: this indicates symbol means near optimal sample requirement when symbol
+OWNX--: finally section we examine performance symbol means when input comes mixture symbol spherical gaussians
+OWNX--: we show this case normal hyperplane separating two clusters converges vector subspace containing means mixture components
+MISC--: again we characterize exactly rate convergence looks very similar bounds section medskip related work convergence time symbol means algorithm been analyzed worst case citation smoothed analysis settings citation citation shows convergence time symbol means may symbol even plane citation establishes symbol smoothed complexity bound citation analyzes performance symbol means when data obeys clusterability condition however their clusterability condition very different moreover they examine conditions under constant factor approximations found
+MISC--: statistics literature symbol means algorithm been shown consistent citation citation shows minimizing symbol means objective function namely sum squares distances between each point center assigned consistent given sufficiently many samples
+MISC--: optimizing symbol means objective np hard one cannot hope always get exact solution
+MISC--: none two works quantify either convergence rate exact sample requirement symbol means
+MISC--: there been two lines previous work theoretical analysis em algorithm citation closely related symbol means
+MISC--: essentially learning mixtures identical gaussians only difference between em symbol means em uses partial assignments soft clusterings whereas symbol means does not
+MISC--: first citation views learning mixtures optimization problem em optimization procedure over likelihood surface
+MISC--: they analyze structure likelihood surface around optimum conclude em first order convergence
+MISC--: optimization procedure parameter symbol said first order convergence if symbol where symbol estimate symbol at time step symbol using symbol samples symbol maximum likelihood estimator symbol using symbol samples symbol some fixed constant between symbol symbol
+OWNX--: contrast our analysis also applies when one far optimum
+MISC--: second line work probabilistic analysis em due citation they show two round variant em converges correct partitioning samples when input generated mixture symbol well separated spherical gaussians
+MISC--: their analysis work they require mixture components separated two samples same gaussian little closer space than two samples different gaussians
+MISC--: contrast our analysis applies when separation much smaller
+MISC--: sample requirement learning mixtures been previously studied literature but not context symbol means citation provides algorithm learns mixture two binary product distributions uniform weights when separation symbol between mixture components at least constant so long symbol samples available notice distributions directional standard deviation at most symbol their algorithm similar symbol means some respects but different they use different sets coordinates each round this very crucial their analysis
+MISC--: additionally citation show spectral algorithm learns mixture symbol binary product distributions when distributions small overlap probability mass sample size at least symbol
+MISC--: citation shows at least symbol samples required learn mixture two gaussians one dimension
+OWNX--: we note although our lower bound symbol symbol seems contradict upper bound citation this not actually case
+OWNX--: our lower bound characterizes number samples required find vector at angle symbol vector joining means
+OWNX--: however order classify constant fraction points correctly we only need find vector at angle symbol vector joining means
+MISC--: since goal citation simply classify constant fraction samples their upper bound less than symbol
+MISC--: addition theoretical analysis there been very interesting experimental work due citation studies sample requirement em mixture symbol spherical gaussians
+MISC--: they conjecture problem learning mixtures three phases depending number samples less than about symbol samples learning mixtures information theoretically hard more than about symbol samples computationally easy between computationally hard but easy information theoretic sense
+MISC--: finally there been line work provides algorithms different em symbol means guaranteed learn mixtures gaussians under certain separation conditions see example citation
+OWNX--: mixtures two gaussians our result comparable best results spherical gaussians citation terms separation requirement we smaller sample requirement

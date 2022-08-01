@@ -1,0 +1,11 @@
+OWNX--: we compare critique two measures risk perception
+OWNX--: we suggest single question how risky situation
+OWNX--: captures concept risk perception more accurately than multiple item measure used sitkin weingart citation
+OWNX--: fact this latter measure inadvertently captures notions attractiveness expected return rather than risk perception
+AIMX--: we further propose error underlying construction sitkin weingart s measure explained terms top down model risk perception perceived risk perceived return consequences rather than determinants attractiveness
+MISC--: two studies compare validity two alternative measures
+MISC--: concepts risk return attractiveness distinct concepts theory decision making
+MISC--: therefore empirical measurement perceived risk should apply special care avoid its contamination perceived return global evaluation attractiveness guard against inadvertent replacing one kind meaning another
+AIMX--: demonstrate ease three concepts confused understand reasons this confusion we examine measure risk perception was developed sitkin weingart citation critique its validity measure concept risk perception
+OWNX--: we explain erroneous construction this measure within framework top down model risk perception citation we suggest error constructing measure reflects inadvertent replacement top down bottom up perception relationships between perceived risk perceived return attractiveness
+OWNX--: empirical data provide support suggestions

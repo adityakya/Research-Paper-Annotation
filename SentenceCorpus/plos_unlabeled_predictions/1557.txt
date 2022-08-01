@@ -1,0 +1,42 @@
+OWNX--: circulation important delivery method both natural synthetic molecules but microenvironment interactions regulated endothelial cells critical molecule s fate difficult interpret using traditional approaches
+AIMX--: this work we analyzed predicted growth factor capture under flow using computer modeling three dimensional experimental approach includes pertinent circulation characteristics pulsatile flow competing binding interactions limited bioavailability
+OWNX--: understanding controlling features this process was desired
+MISC--: experimental module consisted bioreactor synthetic endothelial lined hollow fibers under flow
+MISC--: physical design system was incorporated into model parameters
+OWNX--: heparin binding growth factor fibroblast growth factor was used both experiments simulations
+AIMX--: our computational model was composed three parts media flow equations mass transport equations cell surface reaction equations
+MISC--: model based flow reactions within single hollow fiber was scaled linearly total number fibers comparison experimental results
+OWNX--: our model predicted experiments confirmed removal heparan sulfate system would result dramatic loss binding heparin binding proteins but not proteins do not bind heparin
+OWNX--: model further predicted significant loss bound protein at flow rates only slightly higher than average capillary flow rates corroborated experimentally suggesting probability capture single pass at high flow rates extremely low
+MISC--: several other key parameters were investigated coupling between receptors proteoglycans shown critical impact successful capture
+MISC--: combined system offers opportunities examine circulation capture straightforward quantitative manner should prove advantageous biologicals drug delivery investigations
+MISC--: bioavailability molecules they circulate through bloodstream crucial factor their signaling capability
+MISC--: half life circulation determine effectiveness drug simply regulating opportunities molecule interact vessel wall
+MISC--: although vivo measurements routinely made researchers monitor serum levels molecules determine half lives interactions microenvironment not easily measured observed
+MISC--: while some molecules may long circulation life many may only single opportunity interact blood vessel walls before being filtered through liver kidneys
+MISC--: addition even molecules long circulation life may still face impediments direct interaction endothelium
+MISC--: this example case vascular endothelial growth factor when bound bevacizumab monoclonal antibody vegf citation citation
+MISC--: bevacizumab been shown increase circulating concentration vegf cancer patients when compared patients not undergoing therapy because increased half life growth factor antibody complex however complex unable bind vegf receptors citation making delivery vegf questionable
+OWNX--: order better understand vessel microenvironment accurately monitor drug interactions context microenvironment better tools needed provide meaningful measurements predict fate molecules circulation
+MISC--: many important measurements continue made using vitro mammalian tissue culture methods but there obvious limitations traditional two dimensional culture approach
+OWNX--: circulation influence flow whether molecule remains fluid phase binds vessel wall dominant factor
+MISC--: this influence cannot ascertained static tissue culture studies
+MISC--: example velocity blood aorta mm sec while at capillary level less than mm sec citation
+MISC--: this reduction velocity allows exchange processes at capillary level take place more efficiently citation likely also affects activity molecules circulation rely cell surface binding order fulfill their roles
+CONT--: while direct measurement this binding process difficult our model makes use commercial bioreactor endothelial lined hollow tubes operating under pulsatile flow mimic vascular environment architecture directly measure loss molecules they pass through hollow fibers
+OWNX--: we used single pass method allow better assessment effect flow either retaining molecules circulation permitting their interaction vessels
+OWNX--: our approach also makes use bolus administration since this typical way drugs would delivered clinical setting
+MISC--: binding fibroblast growth factor its cell surface receptor role heparan sulfate proteoglycans regulating process been research interest many years because their role angiogenesis growth new blood vessels existing vessels
+MISC--: knowledge how processes work could aid development new therapeutics control tumor growth assist clinically treatment chronic wounds
+MISC--: order understand mechanism fgf mediated cell proliferation multitude experimental studies been undertaken citation past two decades several computational models fgf binding its receptor fgfr hspg been proposed citation citation
+OWNX--: insight gained through experiment coupled modeling could not otherwise readily obtained
+MISC--: nugent edelman citation were among earliest researchers develop simple model includes three species fgf fgfr hspg
+MISC--: they measured kinetic binding rate constants experimentally used their model analyze data thereby providing foundation investigating complexity fgf binding
+MISC--: similar approach was used ibrahimi et al citation investigate stepwise assembly ternary fgf fgfr hspg complex conjunction their surface plasmon resonance measurements
+MISC--: we introduced more complexity into fgf binding model inclusion heparin binding citation receptor dimerization citation formation alternative hspg fgfr species citation
+MISC--: recent models moved towards including intracellular signaling citation
+MISC--: exception work filion popel citation citation included diffusive transport previous simulation work been based static tissue culture environment may quite different dynamic vivo environment blood vessels
+MISC--: we introduced computational model based flow environment competitive binding fgf fgfr hspg pulsatile flow environment was addressed mimic blood vessel like hollow fibers citation citation
+AIMX--: this paper we use updated version model explore how specific parameters flow rate impact fgf capture receptor binding compare our results experimental studies
+OWNX--: insights regard importance surface coupling ligand depletion zones within fluid phase were found
+MISC--: described simulation package provides new valuable way investigate growth factor capture easily extended other biologically relevant molecules drugs

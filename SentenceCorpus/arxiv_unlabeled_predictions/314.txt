@@ -1,0 +1,102 @@
+OWNX--: problem sequence prediction following setting
+MISC--: sequence symbol discrete valued observations generated according some unknown probabilistic law measure symbol
+OWNX--: after observing each outcome required give conditional probabilities next observation
+MISC--: measure symbol belongs arbitrary but known class symbol stochastic process measures
+OWNX--: we interested predictors symbol whose conditional probabilities converge some sense true symbol conditional probabilities if any symbol chosen generate sequence
+MISC--: contribution this work characterizing families symbol predictors exist providing specific simple form look solution
+OWNX--: we show if any predictor works then there exists bayesian predictor whose prior discrete works too
+OWNX--: we also find several sufficient necessary conditions existence predictor terms topological characterizations family symbol well terms local behaviour measures symbol some cases lead procedures constructing predictors
+MISC--: should emphasized framework completely general stochastic processes considered not required iid stationary belong any parametric countable family
+OWNX--: given sequence symbol observations symbol where symbol finite set we want predict what probabilities observing symbol each symbol more generally probabilities observing different symbol before symbol revealed after process continues
+OWNX--: assumed sequence generated some unknown stochastic process symbol probability measure space one way infinite sequences symbol
+OWNX--: goal predictor whose predicted probabilities converge certain sense correct ones symbol conditional probabilities
+MISC--: general this goal impossible achieve if nothing known about measure symbol generating sequence
+MISC--: other words one cannot predictor whose error goes zero any measure symbol
+MISC--: problem becomes tractable if we assume measure symbol generating data belongs some known class symbol
+AIMX--: questions addressed this work part following general problem given arbitrary set symbol measures how we find predictor performs well when data generated any symbol whether possible find predictor at all
+MISC--: example generic property class symbol allows construction predictor symbol countable
+MISC--: clearly this condition very strong
+MISC--: example important applications point view class symbol measures predictors known class all stationary measures
+MISC--: general question however very far being answered
+BASE--: contribution this work solving this question first we provide specific form look predictor
+OWNX--: more precisely we show if predictor predicts every symbol exists then predictor also obtained weighted sum countably many elements symbol
+MISC--: this result also viewed justification bayesian approach sequence prediction if there exists predictor predicts well every measure class then there exists bayesian predictor rather simple prior this property too
+MISC--: this respect important note result obtained about bayesian predictor pointwise holds every symbol symbol stretches far beyond set its prior concentrated
+OWNX--: next we derive some characterizations families symbol predictor exist
+OWNX--: we first analyze what furnished notion separability when suitable topology found we find sufficient but not always necessary condition
+OWNX--: we then derive some sufficient conditions existence predictor based local truncated first symbol observation behaviour measures class symbol
+OWNX--: necessary conditions cannot obtained this way we demonstrate but sufficient conditions along rates convergence construction predictors found
+MISC--: motivation studying predictors arbitrary classes symbol processes two fold
+OWNX--: first all prediction basic ingredient constructing intelligent systems
+MISC--: indeed order able find optimal behaviour unknown environment intelligent agent must able at very least predict how environment going behave more precise how relevant parts environment going behave
+MISC--: since response environment may general depend actions agent this response necessarily non stationary explorative agents
+MISC--: therefore one cannot readily use prediction methods developed stationary environments but rather find predictors classes processes appear possible response environment
+MISC--: apart this problem prediction itself numerous applications diverse fields data compression market analysis bioinformatics many others
+MISC--: seems clear prediction methods constructed one application cannot expected optimal when applied another
+MISC--: therefore important question how develop specific prediction algorithms each domains prior work
+MISC--: was mentioned if class symbol measures countable if symbol represented symbol then there exists predictor performs well any symbol
+MISC--: predictor obtained bayesian mixture symbol where symbol summable positive real weights very strong predictive properties particular symbol predicts every symbol total variation distance follows result citation
+OWNX--: total variation distance measures difference predicted true conditional probabilities all future events not only probabilities next observations but also observations arbitrary far off future see formal definitions below
+OWNX--: context sequence prediction measure symbol was first studied citation
+MISC--: since then idea taking convex combination finite countable class measures predictors obtain predictor permeates most research sequential prediction see example citation more general learning problems citation
+MISC--: practice clear one hand countable models not sufficient since already class symbol bernoulli iid
+MISC--: processes where symbol probability not countable
+MISC--: other hand prediction total variation too strong require predicting probabilities next observation may sufficient maybe even not every step but cesaro sense
+MISC--: key observation here predictor symbol may good predictor not only when data generated one processes symbol symbol but when comes much larger class
+MISC--: let us consider this point more detail
+MISC--: fix simplicity symbol
+MISC--: laplace predictor symbol predicts any bernoulli iid process although convergence total variation distance conditional probabilities does not hold predicted probabilities next outcome converge correct ones
+MISC--: moreover generalizing laplace predictor predictor symbol constructed class symbol all symbol order markov measures any given symbol
+MISC--: was found citation combination symbol good predictor not only set symbol all finite memory processes but also any measure symbol coming much larger class all stationary measures symbol
+MISC--: here prediction possible only cesaro sense more precisely symbol predicts every stationary process expected time average kullback leibler divergence see definitions below
+MISC--: laplace predictor itself obtained bayes mixture over all bernoulli iid
+MISC--: measures uniform prior parameter symbol probability
+MISC--: however was observed citation easy see same asymptotic predictive properties possessed bayes mixture countably supported prior dense symbol e g taking symbol where symbol ranges over all bernoulli iid
+MISC--: measures rational probability
+MISC--: given symbol set symbol order markov processes parametrized finitely many symbol valued parameters
+MISC--: taking dense subset values parameters mixture corresponding measures results predictor class symbol order markov processes
+MISC--: mixing over all symbol yields citation predictor class all stationary processes
+MISC--: thus mentioned classes processes predictor obtained bayes mixture countably many measures class
+MISC--: additional reason why this kind analysis interesting because difficulties arising trying construct bayesian predictors classes processes not easily parametrized
+MISC--: indeed natural way obtain predictor class symbol stochastic processes take bayesian mixture class
+MISC--: do this one needs define structure probability space symbol
+MISC--: if class symbol well parametrized case set all bernoulli iid
+MISC--: process then one integrate respect parametrization
+MISC--: general when problem lacks natural parametrization although one define structure probability space set all stochastic process measures many different ways results one obtain will then probability respect prior distribution see example citation
+MISC--: pointwise consistency cannot assured see eg citation this case meaning some well defined bayesian predictors not consistent some large subset symbol
+MISC--: results prior probability hard interpret if one not sure structure probability space defined set symbol indeed natural one problem at hand whereas if one does natural parametrization then usually results every value parameter obtained case bernoulli iid
+MISC--: processes mentioned above
+MISC--: results present work show when predictor exists indeed given bayesian predictor predicts every not almost every measure class while its support only countable set
+MISC--: related question formulated question about two individual measures rather than about class measures predictor
+MISC--: namely one ask under conditions one stochastic process predicts another
+MISC--: citation was shown if one measure absolutely continuous respect another than latter predicts former conditional probabilities converge very strong sense
+MISC--: citation weaker form convergence probabilities particular convergence expected average kl divergence obtained under weaker assumptions results first we show if there predictor performs well every measure coming class symbol processes then predictor also obtained convex combination symbol some symbol some symbol symbol
+MISC--: this holds if prediction quality measured either total variation distance expected average kl divergence one measure performance very strong other rather weak
+MISC--: analysis total variation case relies fact if symbol predicts symbol total variation distance then symbol absolutely continuous respect symbol so symbol converges positive number symbol probability positive symbol probability
+OWNX--: however if we settle weaker measure performance expected average kl divergence measures symbol typically singular respect predictor symbol
+OWNX--: nevertheless since symbol predicts symbol we show symbol decreases subexponentially symbol high probability expectation then we use this ratio analogue density each time step symbol find convex combination countably many measures symbol desired predictive properties each symbol
+OWNX--: combining predictors all symbol results predictor predicts every symbol average kl divergence
+MISC--: proof techniques developed potential used solving other questions concerning sequence prediction particular general question how find predictor arbitrary class symbol measures
+OWNX--: we then exhibit some sufficient conditions class symbol under predictor all measures symbol exists
+OWNX--: important note none conditions relies parametrization any kind
+OWNX--: conditions presented two types conditions asymptotic behaviour measures symbol their local restricted first symbol observations behaviour
+OWNX--: conditions first type concern separability symbol respect total variation distance expected average kl divergence
+OWNX--: we show case total variation separability necessary sufficient condition existence predictor whereas case expected average kl divergence sufficient but not necessary
+OWNX--: conditions second kind concern capacity sets symbol symbol where symbol measure symbol restricted first symbol observations
+MISC--: intuitively if symbol small some sense then prediction possible
+OWNX--: we measure capacity symbol two ways
+MISC--: first way find maximum probability given each sequence symbol some measure class then take sum over symbol
+OWNX--: denoting obtained quantity symbol one show grows polynomially symbol some important classes processes iid
+MISC--: markov processes
+OWNX--: we show general if symbol grows subexponentially then predictor exists predicts any measure symbol expected average kl divergence
+MISC--: other hand exponentially growing symbol not sufficient prediction
+MISC--: more refined way measure capacity symbol using concept channel capacity information theory was developed closely related problem finding optimal codes class sources
+OWNX--: we extend corresponding results information theory show sublinear growth channel capacity sufficient existence predictor sense expected average divergence
+OWNX--: moreover obtained bounds divergence optimal up additive logarithmic term
+AIMX--: rest paper organized follows
+OWNX--: section introduces notation definitions
+OWNX--: section we show if any predictor works than there bayesian one works while section we provide several characterizations predictable classes processes
+OWNX--: section concerned separability while section analyzes conditions based local behaviour measures
+OWNX--: finally section provides outlook discussion
+OWNX--: running examples illustrate results each section we use countable classes measures family all bernoulli iid
+OWNX--: processes all stationary processes

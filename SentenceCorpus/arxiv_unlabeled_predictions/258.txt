@@ -1,0 +1,34 @@
+MISC--: trailing backward compatibility
+OWNX--: sty file we develop bayesian framework tackling supervised clustering problem generic problem encountered tasks reference matching coreference resolution identity uncertainty record linkage
+OWNX--: our clustering model based dirichlet process prior enables us define distributions over countably infinite sets naturally arise this problem
+OWNX--: we add supervision our model positing existence set unobserved random variables we call reference types generic across all clusters
+OWNX--: inference our framework requires integrating over infinitely many parameters solved using markov chain monte carlo techniques
+AIMX--: we present algorithms both conjugate non conjugate priors
+OWNX--: we present simple but general parameterization our model based gaussian assumption
+OWNX--: we evaluate this model one artificial task three real world tasks comparing against both unsupervised state art supervised algorithms
+OWNX--: our results show our model able outperform other models across variety tasks performance metrics
+MISC--: supervised clustering general characterization problem occurs frequently strikingly different communities
+MISC--: like standard clustering problem involves breaking finite set symbol into symbol way partition symbol symbol unknown
+OWNX--: distinction between supervised clustering standard clustering supervised form we given training examples
+CONT--: training examples enable learning algorithm determine what aspects symbol relevant creating appropriate clustering
+OWNX--: symbol training examples symbol subsets symbol paired their correct partitioning
+MISC--: end supervised clustering task prediction problem new symbol presented system must produce partition
+MISC--: supervised clustering problem goes under many names depending goals interested community
+MISC--: relational learning community typically referred identity uncertainty primary task augment reasoning system so does not implicitly even explicitly assume there one one correspondence between elements knowledge base entities real world citation
+MISC--: database community task arises context merging databases overlapping fields known record linkage citation
+MISC--: information extraction particularly context extracting citations scholarly publications task identify citations same publication
+MISC--: here task known reference matching citation
+MISC--: natural language processing problem arises context coreference resolution wherein one wishes identify entities mentioned document same person organization real life citation
+MISC--: machine learning community additionally been referred learning under equivalence constraints citation learning cluster examples citation
+AIMX--: this paper we propose generative model solving supervised clustering problem
+OWNX--: our model takes advantage dirichlet process prior non parametric bayesian prior over discrete distributions
+OWNX--: this prior plays two crucial roles first allows us estimate number clusters symbol principled manner second allows us control complexity solutions learned
+AIMX--: we present inference methods our model based markov chain monte carlo methods
+OWNX--: we compare our model against other methods large real world data sets where we show able outperform most other systems according several metrics performance
+AIMX--: remainder this paper structured follows
+OWNX--: section we describe prior efforts tackle supervised clustering problem
+OWNX--: section we develop our framework this problem starting very basic assumptions about task
+OWNX--: we follow this discussion general scheme inference this framework section
+OWNX--: next section we present three generic parameterizations our framework describe appropriate adaptation inference scheme parameterizations
+OWNX--: we then discuss performance metrics supervised clustering problem section present experimental results our models performance artificial real world problems section
+OWNX--: we conclude section discussion advantages disadvantages our model our generic parameterization our learning techniques

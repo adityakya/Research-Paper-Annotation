@@ -1,0 +1,61 @@
+OWNX--: we study evolution cooperation under indirect reciprocity believed constitute biological basis morality
+OWNX--: we employ evolutionary game theoretical model multilevel selection show natural selection mutation lead emergence robust simple social norm we call stern judging
+MISC--: under stern judging helping good individual refusing help bad individual leads good reputation whereas refusing help good individual helping bad one leads bad reputation
+MISC--: similarly tit tat win stay lose shift simplest ubiquitous strategies direct reciprocity lack ambiguity stern judging where implacable punishment compensated prompt forgiving supports idea simplicity often associated evolutionary success
+MISC--: many biological systems employ cooperative interactions their organization citation
+MISC--: humans unlike other animal species form large social groups cooperation among non kin widespread
+MISC--: this contrasts general assumption strong selfish individuals ones who benefit most natural selection
+OWNX--: this being case how possible unselfish behaviour survived evolution
+MISC--: adopting terminology resulting seminal work hamilton trivers wilson citation citation act altruistic if confers benefit b another individual spite accruing cost c altruist
+MISC--: this context several mechanisms been invoked explain evolution altruism but only recently evolutionary model indirect reciprocity been developed nowak sigmund citation remarkable simplicity addressed unique aspects human sociality trust gossip reputation citation
+MISC--: means community enforcement indirect reciprocity had been investigated earlier context economics notably sugden citation kandori citation
+MISC--: more recently many studies citation citation citation citation been devoted investigating how altruism evolve under indirect reciprocity
+MISC--: indeed according alexander citation indirect reciprocity presumably provides mechanism distinguishes us humans all other living species earth
+MISC--: moreover recently argued citation indirect reciprocity may provided selective challenge driving cerebral expansion human evolution
+MISC--: indirect reciprocity game any two players supposed interact at most once each other one role potential donor other potential receiver help
+MISC--: each player experience many rounds but never same partner twice direct retaliation being unfeasible
+MISC--: helping another individual given player may increase her reputation may change predisposition others help her future interactions
+OWNX--: however her new reputation depends social norm used her peers assess her action donor
+MISC--: previous studies reputation based models cooperation reviewed recently citation indicate cooperation outweighs defection whenever among other factors assessment actions based norms require considerable cognitive capacities citation citation citation even when individuals capable making binary assessments only world black white citation assumed most recent studies
+MISC--: furthermore stable cooperation hinges availability reliable reputation information citation
+MISC--: high cognitive capacity contrasts technology based interactions e trade also rely reputation based mechanisms cooperation citation citation
+MISC--: indeed anonymous one shot interactions between individuals loosely connected geographically dispersed usually dominate e trade raising issues trust building moral hazard citation
+MISC--: reputation e trade introduced via feedback mechanism announces ratings sellers
+OWNX--: despite success high levels cooperation observed e trade been found citation publicizing detailed account seller s feedback history does not improve cooperation compared publicizing only seller s most recent rating
+OWNX--: other words practice shows simple reputation based mechanisms capable promoting high levels cooperation
+OWNX--: view previous discussion hard explain success e trade basis results obtained so far reputation based cooperation context indirect reciprocity
+MISC--: let us consider world black white consisting set tribes each tribe lives under influence single norm common all individuals
+MISC--: each individual engages once indirect reciprocity game all other tribe inhabitants
+MISC--: her action donor will depend her individual strategy dictates whether she will provide help refuse do depending her recipient s reputation
+MISC--: reputations public this means result every interaction made available everyone through indirect observation model introduced citation
+MISC--: this allows any individual know current status co player without observing all her past interactions
+MISC--: other hand this requires way spread information entire population
+MISC--: consistently language seems important cooperation promoter citation although recent mechanisms reputation spreading rely electronic databases
+MISC--: since reputations either good bad there possible strategies
+MISC--: other hand number possible norms depends their associated order
+OWNX--: simplest so called first order norms all matters action taken donor
+MISC--: second order norms reputation one players also contributes decide new reputation donor
+MISC--: so increasing layers complexity shown figure illustrates features third order norms those we shall employ here
+MISC--: any individual tribe shares same norm turn raises question how each inhabitant acquired
+OWNX--: we do not address this issue here
+MISC--: however inasmuch indirect reciprocity associated community enforcement citation citation one may assume simplicity norms acquired through educational process
+MISC--: moreover likely common norm contributes overall cohesiveness identity tribe
+MISC--: noteworthy however if norms were different different individuals indirect observation model would not valid requires trust judgments made co inhabitants
+AIMX--: norm order n there possible norms each associated binary string length n we consider third order norms assessing donor s new reputation observer make contextual judgment involving donor s action well her recipient s reputations scored previous action
+OWNX--: we introduce following evolutionary dynamics each tribe during one generation all individuals interact once each other via indirect reciprocity game
+MISC--: when individuals reproduce they replace their strategy another individual same tribe chosen proportional her accumulated payoff citation
+MISC--: most successful individuals each tribe higher reproductive success
+MISC--: since different tribes under influence different norms overall fitness each tribe will vary tribe tribe well plethora successful strategies thrive each tribe
+MISC--: this describes individual selection each tribe
+MISC--: tribes engage pairwise conflicts small probability associated selection between tribes
+OWNX--: after each conflict norm defeated tribe will change toward norm victor tribe detailed methods section
+MISC--: we consider different forms conflict between tribes reflect different types inter tribe selection mechanisms group selection citation citation citation based average global payoff each tribe well selection resulting inter tribe conflicts modeled terms games display game war attrition extended hawk dove game citation
+OWNX--: we perform extensive computer simulations evolutionary dynamics sets tribes each inhabitants
+MISC--: once stationary regime reached we collect information subsequent statistical analysis
+OWNX--: we compute frequency occurrence bits each bit locations
+MISC--: bit said fixate if its frequency occurrence exceeds equals percent
+OWNX--: otherwise no fixation occurs we denote x instead
+MISC--: we analyze simulations same value b subsequently computing frequency occurrence x bits x respectively
+MISC--: if x final bit if x final bit otherwise we assume indeterminate denote
+OWNX--: noteworthy our bit bit selection transmission procedure though artificial provides simple means mimicking biological evolution where genes interconnected complex networks yet evolve independently
+MISC--: certainly co evolutionary process would more appropriate this will explored future work

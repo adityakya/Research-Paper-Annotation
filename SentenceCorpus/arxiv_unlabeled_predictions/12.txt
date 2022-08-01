@@ -1,0 +1,62 @@
+AIMX--: we present novel approach semi supervised learning based statistical physics
+MISC--: most former work field semi supervised learning classifies points minimizing certain energy function corresponds minimal k way cut solution
+OWNX--: contrast methods we estimate distribution classifications instead sole minimal k way cut yields more accurate robust results
+OWNX--: our approach may applied all energy functions used semi supervised learning
+MISC--: method based sampling using multicanonical markov chain monte carlo algorithm straightforward probabilistic interpretation allows soft assignments points classes also cope yet unseen class types
+OWNX--: suggested approach demonstrated toy data set two real life data sets gene expression
+CONT--: situations many unlabelled points available only few labelled points provided call semi supervised learning methods
+OWNX--: goal semi supervised learning classify unlabelled points basis their distribution provided labelled points
+MISC--: problems occur many fields obtaining data cheap but labelling expensive
+MISC--: scenarios supervised methods impractical but presence few labelled points significantly improve performance unsupervised methods
+MISC--: basic assumption unsupervised learning i e clustering points belong same cluster actually originate same class
+MISC--: clustering methods based estimating density data points define cluster mode distribution i e relatively dense region surrounded relatively lower density
+MISC--: hence each mode assumed originate single class although certain class may dispersed over several modes
+MISC--: case modes well separated they easily identified unsupervised techniques there no need semi supervised methods
+OWNX--: however consider case two close modes belong two different classes but density points between them not significantly lower than density within each mode
+MISC--: this case density based unsupervised methods may encounter difficulties distinguishing between modes classes while semi supervised methods help
+MISC--: even if few points labelled each class semi supervised algorithms cannot cluster together points different labels forced place border between modes
+MISC--: most probably border will pass between modes where density points lower
+MISC--: hence forced border amplifies otherwise less noticed differences between modes
+MISC--: example consider image fig
+MISC--: each pixel corresponds data point similarity score between adjacent pixels value unity
+MISC--: green red pixels labelled while rest blue pixels unlabelled
+MISC--: desired classification into red green classes appears fig b
+OWNX--: unlikely any unsupervised method would partition data correctly see eg fig c since two classes form one uniform cluster
+CONT--: however using few labelled points semi supervised methods must place border between red green classes may become useful
+MISC--: recent years various types semi supervised learning algorithms been proposed however almost all methods share common basic approach
+MISC--: they define certain cost function i e energy over possible classifications try minimize this energy output minimal energy classification their solution
+MISC--: different methods vary specific energy function their minimization procedures example work graph cuts citation minimizes cost cut graph while others choose minimize normalized cut cost citation quadratic cost citation
+MISC--: stated recently citation searching minimal energy basic disadvantage common all former methods ignores robustness found solution
+OWNX--: blum et al mention case several minima equal energy where one arbitrarily chooses one solution instead considering them all
+MISC--: put differently imagine energy landscape space solutions may contain many equal energy minima considered blum et al but also other phenomena may harm robustness global minimum optimal solution
+MISC--: first may happen difference energy between global minimum close solutions minuscule thus picking minimum sole solution may incorrect arbitrary
+MISC--: secondly many cases there too few data points both labelled unlabelled may cause empirical density locally deviate true density
+MISC--: fluctuations density may drive minimal energy solution far correct one
+MISC--: example due fluctuations low density crack may formed inside high density region may erroneously split single cluster two
+MISC--: another type fluctuation may generate filament high density points low density region may unite two clusters different classes
+OWNX--: both cases minimal energy solution erroneously guided fluctuations fails find correct classification
+MISC--: example latter case appears fig classifications provided three semi supervised methods appear fig d f fail recover desired classification due filament connects classes searching minimal energy solution equivalent seeking most probable joint classification map
+OWNX--: possible remedy difficulties this approach may then consider probability distribution all possible classifications
+CONT--: blum et al provided first step this direction using randomized min cut algorithm
+BASE--: this work we provide different solution based statistical physics
+MISC--: basically each solution our method weighed its energy symbol also known boltzmann weight its probability given symbol where temperature symbol serves free parameter energy symbol takes into account both unlabelled labelled points
+MISC--: classification then performed marginalizing thus estimating probability point symbol belongs class symbol
+MISC--: this formalism often referred markov random field mrf been applied numerous works including context semi supervised learning citation
+OWNX--: however they seek map solution corresponds symbol while we estimate distribution itself at symbol
+MISC--: using framework statistical physics several advantages context semi supervised learning first classification simple probabilistic interpretation
+MISC--: yields fuzzy assignment points class types may also serve confidence level classification
+MISC--: secondly since exactly estimating marginal probabilities most cases intractable statistical physics developed elegant markov chain monte carlo mcmc methods suitable estimating semi supervised systems
+MISC--: due inherent complexity semi supervised problems standard mcmc methods metropolis citation swendsen wang citation methods provide poor results one needs apply more sophisticated algorithms discussed section
+MISC--: thirdly using statistical physics allows us gain intuition regarding nature semi supervised problem i e allows detailed analysis effect adding labelled points unlabelled data set
+OWNX--: addition our method also two practical advantages i while most semi supervised learning methods consider only case two class types our method naturally extended multi class scenario ii another unique feature our method its ability suggest existence new class type did not appear labelled set
+AIMX--: our main objective this paper present framework later applied different directions
+MISC--: example energy function any functions used other semi supervised methods
+AIMX--: this paper we chose use min cut cost function
+OWNX--: we do not claim using this cost function optimal indeed we observed suboptimal some cases
+OWNX--: however we aim convince reader applying our method any energy function would always yield equal better results than merely minimizing same energy function
+BASE--: our work closely related typical cut criterion unsupervised learning first introduced citation framework statistical physics later graph theoretic context citation
+OWNX--: method introduced this work viewed extension clustering algorithms semi supervised case
+OWNX--: paper organized follows section presents model section discusses issue estimating marginal probabilities
+OWNX--: section presents qualitative effect adding labelled points
+OWNX--: our semi supervised algorithm outlined section
+OWNX--: section demonstrates performance our algorithm toy data set two real life examples gene expression data

@@ -1,0 +1,20 @@
+MISC--: tracing potentially infectious contacts become important part control strategy many infectious diseases early cases novel infections endemic sexually transmitted infections
+AIMX--: here we make use mathematical models consider case partner notification sexually transmitted infection however models sufficiently simple allow more general conclusions drawn
+MISC--: we show when contact network structure considered addition contact tracing standard mass action models generally inadequate
+OWNX--: consider impact mutual contacts we develop improvement existing pairwise network models we use demonstrate ceteris paribus clustering improves efficacy contact tracing large region parameter space
+MISC--: this result sometimes reversed however case highly effective contact tracing
+MISC--: we also develop stochastic simulations comparison using simple re wiring methods allow generation appropriate comparator networks
+OWNX--: this way we contribute general theory network based interventions against infectious disease
+MISC--: modelling become central tool understanding epidemiology infectious disease designing control strategies
+MISC--: one control method contact tracing been considered large number disease contexts
+MISC--: include sars pandemic citation citation uk fmd epidemic citation citation contingency planning deliberate release smallpox citation citation control sexually transmitted infections citation citation
+OWNX--: particular benefit tracing allows targeting control at cost effort spent finding individuals at risk
+MISC--: since contact tracing takes place process over network interactions between hosts natural consider network based models this process
+MISC--: theoretical work so far dealt contact tracing branching process citation through modifications mean field equations citation pairwise approximations citation simulation citation
+MISC--: this work means implications heterogeneous numbers contacts efficacy contact tracing reasonably well understood
+MISC--: case clustering due analytical challenge posed existence short closed loops contact network generally been more difficult make similar progress
+MISC--: existing theoretical work therefore either been restricted limiting case clump structured populations all clustering due completely connected cliques citation else simulation exemplar networks citation citation citation
+AIMX--: this work we derive improved triple closure clustered pairwise models removes two significant problems existing closure regimes use this make systematic investigation impact clustering efficacy contact tracing keeping other network epidemiological parameters constant appropriate
+MISC--: we find many parameter choices there intuitive explanations borne out modelling increased impact contact tracing clustering increases
+OWNX--: this not however completely general result meaning full implications clustering efficacy contact tracing subtle should subject case case investigation
+OWNX--: we perform our analysis within sis paradigm meaning while some our terminology will general all infectious disease epidemiology other statements will geared towards modelling sexually transmitted infections where recovery treatment does not confer lasting immunity

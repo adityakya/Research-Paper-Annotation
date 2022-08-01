@@ -1,0 +1,16 @@
+MISC--: quantum classification defined task predicting associated class unknown quantum state drawn ensemble pure states given finite number copies this state
+MISC--: recasting state discrimination problem within framework machine learning ml we use notion learning reduction coming classical ml solve different variants classification task weighted binary multiclass versions
+MISC--: suppose you given unknown quantum state drawn ensemble possible pure states where each state labeled after class originated
+MISC--: how well you predict class this unknown state
+MISC--: this general question often referred literature quantum state discrimination citation been studied at least far back seminal work helstrom seventies field quantum detection estimation theory citation
+MISC--: course answer will depend parameters structure your knowledge ensemble pure states dimension hilbert space quantum states live number copies unknown state you received
+AIMX--: this paper we take machine learning ml view problem recasting learning task called quantum classification
+OWNX--: our main goal doing so bring new ideas insights ml help solve this task some its variants
+MISC--: other motivations include characterization learning tasks terms amount information needed complete them measured instance number copies quantum states development framework used relate compare tasks
+AIMX--: this approach performing learning quantum states was originally taken defined citation where was illustrated giving explicit algorithm task quantum clustering where goal group clusters quantum states similar using fidelity similarity measure while putting states dissimilar different clusters
+AIMX--: model learning quantum states put forward this paper complementary model proposed aaronson citation where training dataset composed povm s positive operator valued measurement not quantum states
+OWNX--: aaronson s model we receive finite number copies unknown quantum state goal training this state few povm s produce high probability hypothesis generalize reasonable accuracy unobserved povm s belonging this training dataset
+AIMX--: outline this paper follows
+OWNX--: first model performing learning quantum world introduced section along notion learning reduction allows us relate together different learning tasks
+OWNX--: afterwards section task binary classification described weighted multiclass versions this task defined respectively sections
+OWNX--: finally section concludes discussion

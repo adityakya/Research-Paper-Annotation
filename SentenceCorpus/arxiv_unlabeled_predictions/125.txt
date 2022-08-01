@@ -1,0 +1,21 @@
+OWNX--: we identify classical perceptron algorithm margin member broader family large margin classifiers we collectively call margitron
+MISC--: margitron despite its sharing same update rule perceptron shown incremental setting converge finite number updates solutions possessing any desirable fraction maximum margin
+OWNX--: experiments comparing margitron decomposition svms tasks involving linear kernels norm soft margin also reported
+MISC--: widely accepted larger margin solution hyperplane greater generalisation ability learning machine citation
+CONT--: simplest online learning algorithm binary linear classification perceptron citation does not aim at any margin
+OWNX--: problem instead finding optimal margin hyperplane lies at core support vector machines svms citation
+MISC--: their efficient implementation however somewhat hindered fact they require solving quadratic programming problem
+MISC--: complications encountered implementing svms respurred interest alternative large margin classifiers many based perceptron algorithm
+MISC--: oldest algorithm appeared long before advent svms standard perceptron margin citation straightforward extension perceptron however incremental setting known able guarantee achieving only up symbol maximum margin dataset possesses citation
+MISC--: subsequently various algorithms succeeded achieving larger fractions maximum margin employing modified perceptron like update rules
+MISC--: algorithms include romma citation alma citation cramma citation micra citation
+MISC--: somewhat different approach hard margin one adopted most algorithms above was also developed focuses minimisation norm soft margin loss through stochastic gradient descent
+MISC--: there connection however between algorithms perceptron since their unregularised form constant learning rate identical perceptron margin
+MISC--: notable representatives this approach pioneer norma citation very recent pegasos citation
+AIMX--: question arises naturally we attempt answer present work whether possible achieve guaranteed fraction maximum margin larger than symbol while retaining original perceptron update rule
+OWNX--: this end we construct whole new family algorithms at least one member guaranteed convergence finite number steps solution hyperplane possessing any desirable fraction unknown maximum margin
+MISC--: this family algorithms classical perceptron margin naturally embedded will termed margitron
+MISC--: hopefully algorithms belonging margitron family virtue being generalisations very successful perceptron will respectable performance various classification tasks
+OWNX--: section contains some preliminaries description margitron algorithm
+OWNX--: section devoted theoretical analysis
+OWNX--: section contains our experimental results while section our conclusions

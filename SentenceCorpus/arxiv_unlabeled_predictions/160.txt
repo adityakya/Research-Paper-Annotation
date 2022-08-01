@@ -1,0 +1,30 @@
+MISC--: we consider design cognitive medium access control mac protocols enabling unlicensed secondary transmitter receiver pair communicate over idle periods set licensed channels ie primary network
+MISC--: objective maximize data throughput while maintaining synchronization between secondary users avoiding interference licensed primary users
+MISC--: no statistical information about primary traffic assumed available priori secondary user
+OWNX--: we investigate two distinct sensing scenarios
+OWNX--: first secondary transmitter capable sensing all primary channels whereas senses one channel only second scenario
+OWNX--: both cases we propose mac protocols efficiently learn statistics primary traffic line
+OWNX--: our simulation results demonstrate proposed blind protocols asymptotically achieve throughput obtained when prior knowledge primary traffic statistics available
+MISC--: most licensed spectrum resources under utilized
+MISC--: this observation encouraged emergence dynamic opportunistic spectrum access concepts where unlicensed secondary users equipped cognitive radios allowed opportunistically access spectrum long they do not interfere licensed primary users
+OWNX--: achieve this goal secondary users must monitor primary traffic order identify spectrum holes opportunities exploited transfer data citation
+OWNX--: main goal cognitive mac protocol sense radio spectrum detect occupancy state different primary spectrum channels then opportunistically communicate over unused channels spectrum holes minimal interference primary users
+OWNX--: specifically cognitive mac protocol should continuously make efficient decisions channels sense access order obtain most benefit available spectrum opportunities
+MISC--: several cognitive mac protocols been proposed previous studies
+MISC--: example citation mac protocols were constructed assuming each secondary user equipped two transceivers control transceiver tuned dedicated control channel software defined radio sdr based transceiver tuned any available channels sense receive transmit signals packets
+OWNX--: other hand citation proposed sensing period optimization mechanism optimal channel sequencing algorithm well environment adaptive channel usage pattern estimation method
+MISC--: slotted markovian structure primary network traffic adopted here was also considered citation where optimal policy was characterized simple greedy policy secondary users was constructed
+OWNX--: authors citation however assumed primary traffic statistics i e markov chain transition probabilities were available priori secondary users
+MISC--: here our focus blind scenario where cognitive mac protocol must learn transition probabilities line
+OWNX--: this work we differentiate between two scenarios
+OWNX--: first assumes secondary transmitter sense all available primary channels before making decision one access
+CONT--: secondary receiver however does not participate sensing process wait decode only one channel
+MISC--: this model adopted citation
+OWNX--: sequel we propose efficient algorithm optimizes line learning capabilities secondary transmitter ensures perfect synchronization between secondary pair
+MISC--: proposed protocol does not assume separate control channel hence piggybacks synchronization information same data packet
+OWNX--: our numerical results demonstrate superiority proposed protocol over one citation where primary transmitter receiver assumed access channel predetermined sequence they agreed upon priori
+MISC--: second scenario assumes both secondary transmitter receiver sense only one primary channel each time slot
+MISC--: this problem re casted restless multi armed bandit problem where optimal algorithm must strike balance between exploration exploitation citation
+MISC--: unfortunately finding optimal solution this problem remains elusive task citation
+MISC--: inspired recent results citation citation efficient mac protocol constructed viewed whittle index strategy citation augmented similar learning phase one proposed citation multi armed bandit scenario
+OWNX--: our numerical results show performance this protocol converges whittle index strategy known transition probabilities citation

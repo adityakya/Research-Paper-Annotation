@@ -1,0 +1,33 @@
+MISC--: metric kernel learning important several machine learning applications
+CONT--: however most existing metric learning algorithms limited learning metrics over low dimensional data while existing kernel learning algorithms often limited transductive setting do not generalize new data points
+AIMX--: this paper we study metric learning problem learning linear transformation input data
+OWNX--: we show high dimensional data particular framework learning linear transformation data based logdet divergence efficiently kernelized learn metric equivalently kernel function over arbitrarily high dimensional space
+OWNX--: we further demonstrate wide class convex loss functions learning linear transformations similarly kernelized thereby considerably expanding potential applications metric learning
+OWNX--: we demonstrate our learning approach applying large scale real world problems computer vision text mining
+MISC--: one basic requirements many machine learning algorithms e g semi supervised clustering algorithms nearest neighbor classification algorithms ability compare two objects compute similarity distance between them
+MISC--: many cases off shelf distance similarity functions euclidean distance cosine similarity used example text retrieval applications cosine similarity standard function compare two text documents
+OWNX--: however standard distance similarity functions not appropriate all problems
+MISC--: recently there been significant effort focused learning how compare data objects
+MISC--: one approach been learn distance metric between objects given additional side information pairwise similarity dissimilarity constraints over data
+MISC--: one class distance metrics shown excellent generalization properties mahalanobis distance function citation
+OWNX--: mahalanobis distance viewed method data subject linear transformation then distances this transformed space computed via standard squared euclidean distance
+MISC--: despite their simplicity generalization ability mahalanobis distances suffer two major drawbacks number parameters grows quadratically dimensionality data making difficult learn distance functions over high dimensional data learning linear transformation inadequate data sets non linear decision boundaries
+MISC--: address latter shortcoming kernel learning algorithms typically attempt learn kernel matrix over data
+MISC--: limitations linear methods overcome employing non linear input kernel effectively maps data non linearly high dimensional feature space
+CONT--: however many existing kernel learning methods still limited learned kernels do not generalize new points citation
+MISC--: methods restricted learning transductive setting where all data labelled unlabeled assumed given upfront
+MISC--: there been some work learning kernels generalize new points most notably work hyperkernels citation but resulting optimization problems expensive cannot scaled large even medium sized data sets
+AIMX--: this paper we explore metric learning linear transformations over arbitrarily high dimensional spaces we will see this equivalent learning parameterized kernel function symbol given input kernel function symbol
+OWNX--: first part paper we focus particular loss function called logdet divergence learning positive definite matrix symbol
+OWNX--: this loss function advantageous several reasons defined only over positive definite matrices makes optimization simpler we will able effectively ignore positive definiteness constraint symbol
+MISC--: loss function precedence optimization citation statistics citation
+OWNX--: important advantage our method proposed optimization algorithm scalable very large data sets order millions data objects
+MISC--: but perhaps most importantly loss function permits efficient kernelization allowing learning linear transformation kernel space
+OWNX--: result unlike transductive kernel learning methods our method easily handles out sample extensions i e applied unseen data
+OWNX--: later paper we extend our result kernelization logdet formulation other convex loss functions learning symbol give conditions we able compute evaluate learned kernel functions
+OWNX--: our result akin representer theorem reproducing kernel hilbert spaces where optimal parameters expressed purely terms training data
+CONT--: our case even though matrix symbol may infinite dimensional fully represented terms constrained data points making possible compute learned kernel function value over arbitrary points
+OWNX--: finally we apply our algorithm number challenging learning problems including ones domains computer vision text mining
+OWNX--: unlike existing techniques we learn linear transformation based distance kernel functions over domains we show resulting functions lead improvements over state art techniques variety problems
+MISC--: jmlr e
+OWNX--: sty ustar root root typeout document style jmlr january requirepackage epsfig requirepackage amssymb requirepackage natbib requirepackage graphicx bibliographystyle plainnat bibpunct renewcommand topfraction let figure take up nearly whole page renewcommand textfraction let figure take up nearly whole page note true addtolength headsep true height text including footnotes figures true width text line widowpenalty clubpenalty twosidetrue mparswitchtrue def ds draft pt def startsiction if noskipsec tempskipa afterindenttrue tempskipa z tempskipa tempskipa afterindentfalse if nobreak everypar addpenalty secpenalty addvspace tempskipa ifstar ssect dblarg sict def sict c secnumdepth def svsec refstepcounter edef svsec endcsname tempskipa tempskipa z hangfrom relax svsec em m par mark endcsname toc c secnumdepth protect numberline endcsname def svsechd svsec mark toc c secnumdepth protect numberline endcsname xsect def sect c secnumdepth def svsec refstepcounter edef svsec endcsname em tempskipa tempskipa z hangfrom relax svsec m par mark endcsname toc c secnumdepth protect numberline endcsname def svsechd svsec mark toc c secnumdepth protect numberline endcsname xsect def arabic section def thesection arabic subsection def

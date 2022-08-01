@@ -1,0 +1,25 @@
+MISC--: one most utilized data mining tasks search association rules
+MISC--: association rules represent probabilistically significant relationships between items transactions
+OWNX--: we extend concept association rule represent much broader class associations we refer entity relationship rules
+MISC--: semantically entity relationship rules express associations between properties related objects
+MISC--: syntactically rules based broad subclass safe domain relational calculus queries
+OWNX--: we propose new definition support confidence entity relationship rules frequency entity relationship queries
+OWNX--: we prove definition frequency satisfies standard probability axioms apriori property
+MISC--: one goals data mining discover interesting relationships data
+MISC--: association rules express relationships hold sufficient frequency but not always
+OWNX--: example may case not all managers earn over symbol pq symbol p symbol q symbol q symbol p symbol p symbol q symbol p symbol q symbol pq symbol p q symbol fr pq
+MISC--: our definition frequency er queries generalizes previous work defining association rules multi relational setting
+MISC--: citation discusses extending itemset rules negations motivates usefulness this extension
+MISC--: query extension approach system citation presents special class entity relationship rules allows conjunctions nonnegated statements existential quantification
+OWNX--: our concept er rules allows features addition negations universal quantification nested quantifiers nested boolean combinations
+AIMX--: thus one contribution this paper extended rule format
+CONT--: characteristic distinguishes our approach previous work previous approaches assume given target table defines base set tuples evaluating support query
+OWNX--: contrast we start query define natural base set tuples evaluating support query
+OWNX--: we think this approach dynamically generating entity sets given query rather than evaluating queries respect fixed entity set
+OWNX--: thus second main contribution this paper new definition support rules our extended format
+AIMX--: paper organized follows
+OWNX--: first we review basic relational database concepts relational schema domain relational calculus
+OWNX--: then we introduce concept entity query define frequency query this class queries
+OWNX--: this definition provides basis notion entity relationship rule defining support entity relationship rule
+MISC--: we compare entity relationship queries frequent itemsets rule language system
+OWNX--: final section establishes sevveral important formal properties query frequencies we define them shows they satisfy apriori property frequency conjunction no greater than frequency its conjuncts

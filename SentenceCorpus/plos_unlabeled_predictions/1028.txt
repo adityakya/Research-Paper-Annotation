@@ -1,0 +1,63 @@
+MISC--: process assigning finite set tags labels collection observations subject side conditions notable its computational complexity
+MISC--: this labeling paradigm theoretical practical relevance wide range biological applications including analysis data dna microarrays metabolomics experiments biomolecular nuclear magnetic resonance spectroscopy
+OWNX--: we present novel algorithm called probabilistic interaction network evidence achieves robust unsupervised probabilistic labeling data
+OWNX--: computational core pine uses estimates evidence derived empirical distributions previously observed data along consistency measures drive fictitious system m hamiltonian h quasi stationary state produces probabilistic label assignments relevant subsets data
+OWNX--: we demonstrate successful application pine key task protein nmr spectroscopy converting peak lists extracted various nmr experiments into assignments associated probabilities their correctness
+MISC--: this application called pine nmr available freely accessible computer server
+MISC--: pine nmr server accepts input sequence protein plus user specified combinations data corresponding extensive list nmr experiments provides output probabilistic assignment nmr signals sequence specific backbone aliphatic side chain atoms plus probabilistic determination protein secondary structure
+MISC--: pine nmr accommodate prior information about assignments stable isotope labeling schemes
+MISC--: part analysis pine nmr identifies verifies rectifies problems related chemical shift referencing erroneous input data
+MISC--: pine nmr achieves robust consistent results been shown effective subsequent steps nmr structure determination
+MISC--: labeling set fixed data another representative set generic description large family problems
+MISC--: this family includes clustering dimensionality reduction approach original dataset represented set typically far lower dimension
+MISC--: representative set often parameter vector signifies set data points simply cluster mean may include additional parameters cluster diameter
+MISC--: labeling problem important because encountered many applications involving data analysis particularly where prior knowledge probability distributions incomplete lacking
+MISC--: challenging instance labeling problem arises naturally nuclear magnetic resonance spectroscopy along x ray crystallography one two major methods determining protein structures
+MISC--: although nmr spectroscopy not highly automated more mature x ray field advantages over x ray crystallography structural studies small proteins partially disordered exist multiple stable conformations solution exhibit weak interactions ligands fail crystallize readily citation provided nmr signals assigned specific atoms covalent structure protein
+MISC--: labeling problem known assignment problem been one major bottlenecks protein nmr spectroscopy
+MISC--: protein nmr structure determination generally proceeds through series steps
+OWNX--: usual approach first collect data used determining backbone aliphatic side chain assignments
+OWNX--: assignments then used interpret data collected order determine interatomic torsion angular constraints used structure determination
+MISC--: front end labeling process associates one more nmr parameters physical entity back end labeling process associates nmr parameters constraints define refine conformational states
+MISC--: reality distinction between front end back end artificial
+MISC--: strategies been developed use noesy data assignments citation citation direct structure determination without assignments citation
+MISC--: addition demonstrated recently structures small proteins determined directly assigned chemical shifts process largely bypasses back end citation citation
+OWNX--: ideally all available data should used unified process yields best set assignments best structure consistent experiment probabilistic analysis provides levels confidence assignments atomic coordinates
+MISC--: usual approach solution problem assigning labels subsets peaks assembled multiple sets noisy spectra collect number multidimensional multinuclear datasets
+MISC--: after converting time domain data frequency domain spectra fourier transformation peaks picked each spectrum analysis
+MISC--: methods been developed automated peak picking global analysis spectra yield models consisting peaks known intensity frequency phase decay rate linewidth citation citation
+OWNX--: ideal case resulting peak lists identify combinatorial subsets two more covalently bonded nuclei their respective frequencies
+MISC--: subsets must assembled coherent way best correspond specific atoms amino acid sequence protein
+MISC--: practice peak lists do not report all nuclei noise peaks commonplace
+OWNX--: examples analyzed here level missing peaks varied between percent percent while level noise peaks varied between percent percent
+CONT--: large number false positives well false negatives typically present data result explosion ambiguities during assembly subsets
+MISC--: common feature among prior approaches been divide assignment labels into sequence discrete steps apply varying methods at each step
+MISC--: steps typically include assignment step citation citation secondary structure determination step citation citation validation step citation
+OWNX--: validation step discrete reliability measure indicates possible presence outliers misassignments abnormal backbone chemical shift values sometimes omitted
+MISC--: other steps added steps split further into simpler tasks
+OWNX--: example backbone side chain assignments frequently carried out sequentially separate processes
+MISC--: some approaches sequence specific assignment rely substantially reduced combinatorial set input data assuming prior subset selection e g prior spin system assembly citation citation
+MISC--: specification conformational states added yet another labeling step
+MISC--: example backbone dihedral angles specified grid determined chemical shifts citation coupling constants noes citation reduced dipolar couplings citation
+MISC--: nmr assignment problem been highly researched most naturally formulated combinatorial optimization problem subsequently solved using variety algorithms
+MISC--: review listed order algorithms software packages citation additional approaches given review citation
+MISC--: prior methods included stochastic approaches simulated annealing monte carlo algorithms citation citation genetic algorithms citation exhaustive search algorithms citation citation citation heuristic comparison predicted chemical shifts derived homologous proteins citation heuristic best first algorithms citation citation constraint based expert system use heuristic best first mapping algorithm citation
+MISC--: most established judged bmrb entries cite assignment software packages used autoassign citation garant citation
+MISC--: similarly wide range methods been used predict protein secondary structural elements play important role classifying proteins citation citation
+MISC--: prior approaches assigning secondary structure label each residue protein included method citation chemical shift index method citation database approach citation empirical probability based method citation supervised machine learning approach citation probabilistic approach utilizes local statistical potential combine predictive potentials derived sequence chemical shifts citation
+MISC--: recently fully automated approach protein structure determination flya been described pipelines standard steps nmr spectra structure utilizes garant assignment engine citation
+OWNX--: flya approach demonstrates benefits making use information each step iterative fashion achieve high number backbone side chain assignments
+OWNX--: our goal implement comprehensive approach utilizes network model rather than pipeline model relies probabilistic analysis results
+OWNX--: we reformulate combinatorial optimization problem whereby each labeling configuration ensemble associated but unknown non vanishing probability
+MISC--: pine algorithm enables full integration information disparate steps achieve probabilistic analysis
+MISC--: use probabilities provides means sharing refining incomplete information among current standard steps steps introduced future developments
+OWNX--: addition probabilistic analysis deals directly multiple minima problem arises cases where data does not support single optimal self consistent state
+MISC--: common example protein populates two stable conformational states
+MISC--: pine nmr package described here represents first step approaching goal full probabilistic approach protein nmr spectroscopy
+MISC--: pine nmr accepts input sequence protein plus peak lists derived one more nmr experiments chosen user extensive list possibilities
+MISC--: pine nmr provides output probabilistic assignment backbone aliphatic side chain chemical shifts secondary structure protein
+MISC--: at same time identifies verifies if needed rectifies problems related chemical shift referencing consistency assignments determined secondary structure
+MISC--: pine nmr make use prior information derived independently other means selective labeling patterns spin system assignments
+AIMX--: principle networked model pine nmr extensible both directions within pipeline protein structure determination combined adaptive data collection at front three dimensional structure determination at back end
+MISC--: extensions should lead rapid fully automated approach nmr structure determination would yield structure most consistent all available data confidence limits atom positions explicitly represented
+MISC--: addition its application nmr spectroscopy pine approach should applicable unbiased classification biological data other domains interest systems biology data various types need integrated genomics proteomics metabolomics data collected function time environmental variables

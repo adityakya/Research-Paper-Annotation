@@ -1,0 +1,14 @@
+MISC--: people often more likely accept risky monetary gambles positive expected values when gambles will played more than once
+MISC--: we investigated whether this distinction between single play multiple play gambles extends medical treatments individual patients groups patients
+MISC--: resident physicians medical students n number undergraduates n number ranked number different flu shots no flu shot option number number combinations perspective individual patient vs group number patients uncertainty frame probability vs frequency
+OWNX--: rank no flu shot option measure preference treatment vs no treatment was not significantly related perspective participant population
+MISC--: main effect uncertainty frame interaction between perspective uncertainty frame approached significance number number greater than p greater than number number no flu shot option faring particularly poorly treatment faring particularly well when decisions about many patients were based frequency information
+MISC--: undergraduate participants believed no flu shot option would less attractive treatment would more attractive decisions about many patients but intuitions were inconsistent actual ranks
+MISC--: results those other studies suggest medical treatments individuals groups not analogous single play multiple play monetary gambles perhaps because many people unwilling aggregate treatment outcomes over patients same way they would compute net gains losses over monetary gambles
+MISC--: convincing body research demonstrates people often make different choices when making multiple play decisions than when making single play decisions
+MISC--: samuelson citation initiated this literature revealing anecdote about lunch colleague who would reject single gamble even chance winning number losing number but who would accept series number gambles
+MISC--: subsequently several studies indicated people more likely accept mixed gambles i e gambles involving possible gain possible loss positive expected values evs when gambles will played more than once citation although opposite result been also been observed citation
+MISC--: multiple plays samuelson type gambles particularly attractive when participants shown distribution possible outcomes resulting repeated plays citation
+MISC--: although rationality making different choices single play multiple play gambles been debated citation this article concerned primarily empirical distinction
+MISC--: related research shows multiple plays may also increase attractiveness higher ev unmixed gambles citation reduce incidence certainty possibility effects citation reduce choosing pricing preference reversals citation reduce illusion control citation facilitate multiplicative combination probabilities outcomes citation
+MISC--: taken together results indicate choices preferences often more consistent expected value theory expected utility theory when multiple plays considered

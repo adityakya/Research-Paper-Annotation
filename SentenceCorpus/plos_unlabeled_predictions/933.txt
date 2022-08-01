@@ -1,0 +1,52 @@
+MISC--: new monotonicity constrained maximum likelihood approach called partial order optimum likelihood presented applied problem functional site prediction protein d structures important current challenge genomics
+MISC--: input consists electrostatic geometric properties derived d structure query protein alone
+MISC--: sequence based conservation information where available may also incorporated
+MISC--: electrostatics features thematics combined multidimensional isotonic regression form maximum likelihood estimates probabilities specific residues belong active site
+MISC--: this allows likelihood ranking all ionizable residues given protein based thematics features
+MISC--: corresponding roc curves statistical significance tests demonstrate this method outperforms prior thematics based methods turn been shown previously outperform other d structure based methods identifying active site residues
+OWNX--: then shown addition one simple geometric property size rank cleft given residue contained yields improved performance
+MISC--: extension method include predictions non ionizable residues achieved through introduction environment variables
+AIMX--: this extension results even better performance than thematics alone constitutes date best functional site predictor based d structure only achieving nearly same level performance methods use both d structure sequence alignment data
+MISC--: finally method also easily incorporates sequence alignment data when this information included resulting method shown outperform best current methods using any combination sequence alignments d structures
+MISC--: included analysis demonstrating when thematics features cleft size rank alignment based conservation scores used individually combination thematics features represent single most important component classifiers
+MISC--: development function prediction capabilities major challenge genomics
+OWNX--: structural genomics projects determining d structures expressed proteins high throughput basis
+MISC--: however determination function d structure proved challenging task functions most structural genomics proteins remain unknown
+MISC--: computationally based predictive methods help guide accelerate functional annotation
+MISC--: first step toward prediction function protein its d structure determine its local site interaction where catalysis ligand recognition occurs
+MISC--: capabilities many important practical implications biology medicine
+OWNX--: we reported thematics citation citation theoretical microscopic titration curves technique prediction local interaction sites protein its three dimensional structure alone
+MISC--: application thematics one begins d structure query protein solves poisson boltzmann equations using well established methods then performs hybrid procedure compute proton occupations ionizable sites functions ph
+MISC--: residues involved catalysis recognition different chemical properties ordinary residues
+MISC--: particular functionally important residues anomalous theoretical proton occupation curves
+MISC--: thematics exploits this difference utilizes information shapes theoretical titration curves ionizable residues calculated approximately computed electrical potential function
+MISC--: thematics utilizes only d structure query protein input neither sequence alignments nor structural comparisons used
+MISC--: recently was shown citation among methods based d structure query protein only thematics achieves far best performance measured sensitivity precision annotated catalytic residues
+AIMX--: purpose present paper five fold we present monotonicity constrained maximum likelihood approach called partial order optimum likelihood improve performance expand capabilities active site prediction
+MISC--: then shown pool thematics input data alone outperforms previous statistical citation support vector machine citation implementations thematics when applied test set annotated protein structures
+OWNX--: then demonstrated inclusion one additional d structure based feature representing ordinal size surface cleft each residue belongs result some improved performance demonstrated roc curves validated wilcoxon signed rank tests
+MISC--: introduction environment features pool then use thematics data predict both ionizable non ionizable residues
+AIMX--: this all residues extension thematics together cleft size rank feature results simple d structure based functional site predictor performs better than other d structure based methods nearly well very best current methods utilize both d structure sequence homology
+MISC--: finally pool approach able take advantage sequence alignment based conservation scores when available addition structure based features
+MISC--: when this additional information included resulting classifier shown outperform all other currently available methods using any combination structure sequence information
+MISC--: prior implementations thematics identification active site residues d structure query protein citation citation titration curve shapes were described moments their first derivative functions
+OWNX--: first derivative functions essentially probability density functions give unity when integrated over all space
+MISC--: ko et al citation third fourth central moments probability functions were used
+MISC--: moments measure asymmetry roughly area under tails relative area near mean respectively
+MISC--: tong et al citation first moment second central moment were also used
+MISC--: each approaches moments measure deviations normal curve shape analyses identify outliers residues deviate most normal proton occupation behavior
+MISC--: prior approaches all use spatial clustering so outlier residues reported positive method if only if they sufficiently close spatial proximity at least one other outlier
+OWNX--: thus previous thematics identifications involve two stages where first stage makes binary decision each residue second stage finds spatial clusters outliers
+MISC--: new approach reported here every residue assigned probability active site residue
+OWNX--: here alternative clustering approach we introduce features describe residue s neighbors we call environment features
+MISC--: given scalar feature x we define value environment feature x env given residue r formulawhere r ionizable residue whose distance d residue r less than weight w given d
+OWNX--: this study we use same features used ko citation approach along additional features env env
+MISC--: thus every ionizable residue any protein structure assigned dimensional feature vector
+CONT--: present approach number advantages
+MISC--: specifically active residues may selected one step they rank ordered according probability involvement active site
+CONT--: furthermore while thematics previously been applied ionizable residues only present approach opens door direct prediction non ionizable active site residues because environment features env env well defined all residues including non ionizable ones
+CONT--: finally additional geometric features obtainable d structure only may readily combined four thematics features order enhance performance
+MISC--: geometric features relative sizes clefts surface protein structure been shown correlate active site location citation citation
+OWNX--: instance majority single chain proteins catalytic residues largest cleft
+CONT--: however geometric features alone do not perform comparatively well active residue prediction particularly because they not very selective
+MISC--: shown here cleft size information combined thematics electrostatic features yields high performance purely d structure based functional site predictions

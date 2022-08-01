@@ -1,0 +1,10 @@
+OWNX--: we consider problem significant practical importance namely reconstruction low rank data matrix small subset its entries
+MISC--: this problem appears many areas collaborative filtering computer vision wireless sensor networks
+OWNX--: this paper we focus matrix completion problem case when observed samples corrupted noise
+OWNX--: we compare performance three state art matrix completion algorithms optspace admira fpca single simulation platform present numerical results
+OWNX--: we show practice efficient algorithms used reconstruct real data matrices well randomly generated matrices accurately
+OWNX--: we consider problem reconstructing symbol low rank matrix symbol small set observed entries possibly corrupted noise
+MISC--: this problem considerable practical interest many applications
+MISC--: one example collaborative filtering where users submit rankings small subsets say movies goal infer preference unrated movies recommendation system citation
+OWNX--: believed movie rating matrix approximately low rank since only few factors contribute user s preferences
+MISC--: other examples matrix completion include problem inferring dimensional structure motion citation triangulation incomplete data distances between wireless sensors citation

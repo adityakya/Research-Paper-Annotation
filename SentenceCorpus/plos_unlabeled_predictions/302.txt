@@ -1,0 +1,65 @@
+MISC--: spike timing dependent plasticity learning rule modifies synaptic strength function relative timing pre postsynaptic spikes
+MISC--: when neuron repeatedly presented similar inputs stdp known effect concentrating high synaptic weights afferents systematically fire early while postsynaptic spike latencies decrease
+MISC--: here we use this learning rule asynchronous feedforward spiking neural network mimics ventral visual pathway shows when network presented natural images selectivity intermediate complexity visual features emerges
+MISC--: those features correspond prototypical patterns both salient consistently present images highly informative enable robust object recognition demonstrated various classification tasks
+OWNX--: taken together results show temporal codes may key understanding phenomenal processing speed achieved visual system stdp lead fast selective responses
+MISC--: temporal constraints pose major challenge models object recognition cortex
+MISC--: when two images simultaneously flashed left right fixation human subjects make reliable saccades side where there target animal little ms citation
+OWNX--: if we allow ms motor delays oculomotor system this implies underlying visual processing done ms less
+MISC--: monkeys recent recordings inferotemporal cortex showed spike counts over time bins small ms only about ms after stimulus onset contain remarkably accurate information about nature visual stimulus citation
+OWNX--: this sort rapid processing presumably depends ability visual system learn recognize familiar visual forms unsupervised manner
+MISC--: exactly how this learning occurs constitutes major challenge theoretical neuroscience
+OWNX--: here we explored capacity simple feedforward network architectures two key features
+MISC--: first when stimulated flashed visual stimulus neurons various layers system fire asynchronously most strongly activated neurons firing first mechanism been shown efficiently encode image information citation
+MISC--: second neurons at later stages system implement spike timing dependent plasticity known effect concentrating high synaptic weights afferents systematically fire early citation citation
+OWNX--: we demonstrate when hierarchical system repeatedly presented natural images intermediate level neurons will naturally become selective patterns reliably present input while their latencies decrease leading both fast informative responses
+OWNX--: this process occurs entirely unsupervised way but we then show intermediate features able support categorization
+MISC--: our network belongs family feedforward hierarchical convolutional networks citation citation
+MISC--: precise its architecture inspired serre wolf poggio s model object recognition citation model itself extends hmax citation performs remarkably well natural images
+MISC--: like them attempt model increasing complexity invariance observed along ventral pathway citation citation we use four layer hierarchy simple cells gain their selectivity linear sum operation while complex cells gain invariance nonlinear max pooling operation
+CONT--: nevertheless our network does not only rely static nonlinearities uses spiking neurons operates temporal domain
+CONT--: at each stage time first spike respect stimulus onset supposed key variable variable contains information indeed read out processed downstream neurons
+MISC--: when presented image first layer s s cells emulating v simple cells detect edges four preferred orientations more strongly cell activated earlier fires
+MISC--: this intensity latency conversion accordance recordings v showing response latency decreases stimulus contrast citation citation proximity between stimulus orientation cell s preferred orientation citation
+OWNX--: already been shown how orientation selectivity emerge v applying stdp spike trains coming retinal off center cells citation so we started our model v orientation selective cells
+OWNX--: we also limit number spikes at this stage introducing competition between s cells through one winner take all mechanism at given location corresponding one cortical column only spike corresponding best matching orientation propagated
+OWNX--: note k winner take all mechanisms easy implement temporal domain using inhibitory gaba interneurons citation
+MISC--: s spikes then propagated asynchronously through feedforward network integrate fire neurons
+BASE--: note within this time first spike framework maximum operation complex cells simply consists propagating first spike emitted given group afferents citation
+OWNX--: this done efficiently integrate fire neuron low threshold synaptic connections all neurons group
+OWNX--: images processed one one we limit activity at most one spike per neuron only initial spike wave propagated
+MISC--: before presenting new image every neuron s potential reset zero
+OWNX--: we process various scaled versions input image
+MISC--: there one s c s pathway each processing scale
+OWNX--: this results s cells various receptive field sizes
+MISC--: then c cells take maximum response s cells over all positions scales leading position scale invariant responses
+AIMX--: this paper explains how stdp set c s synaptic connections leading intermediate complexity visual features whose equivalent brain may v
+MISC--: stdp learning rule modifies strength neuron s synapses function precise temporal relations between pre postsynaptic spikes excitatory synapse receiving spike before postsynaptic one emitted potentiated whereas its strength weakened other way around citation
+MISC--: amount modification depends delay between two events maximal when pre postsynaptic spikes close together effects gradually decrease disappear intervals excess few tens milliseconds citation citation
+MISC--: note stdp agreement hebb s postulate because presynaptic neurons fired slightly before postsynaptic neuron those took part firing
+OWNX--: here we used simplified stdp rule where weight modification does not depend delay between pre postsynaptic spikes time window supposed cover whole spike wave
+OWNX--: we also use soft bounds ensuring synapses remain excitatory
+MISC--: several authors studied effect stdp poisson spike trains citation citation
+OWNX--: here we demonstrate stdp s remarkable ability detect statistical regularities terms earliest firing afferent patterns within visual spike trains despite their very high dimensionality inherent natural images
+OWNX--: visual stimuli presented sequentially resulting spike waves propagated through s layer where stdp used
+OWNX--: we use restricted receptive fields weight sharing
+OWNX--: starting random weight matrix we present first visual stimuli
+MISC--: duplicated cells all integrating spike train compete each other
+OWNX--: if no cell reaches its threshold nothing happens we process next image
+MISC--: otherwise each prototype first duplicate reach its threshold winner
+OWNX--: one winner take all mechanism prevents other duplicated cells firing
+MISC--: winner thus fires stdp rule triggered
+OWNX--: its weight matrix updated change weights duplicated at all positions scales
+MISC--: this allows system learn patterns despite changes position size training examples
+OWNX--: we also use local inhibition between different prototype cells when cell fires at given position scale prevents all other cells firing later at same scale within s s square neighborhood firing position
+CONT--: this competition only used learning phase prevents all cells learning same pattern
+MISC--: instead cell population self organizes each cell trying learn distinct pattern so cover whole variability inputs
+MISC--: if stimuli visual features common stdp process will extract them
+MISC--: some cells we will observe convergence synaptic weights end up being either close
+MISC--: during convergence process synapses compete control timing postsynaptic spikes citation
+MISC--: winning synapses those through earliest spikes arrive citation citation this true even presence jitter spontaneous activity citation
+MISC--: this preference earliest spikes key point since earliest spikes correspond our framework most salient regions image been shown most informative citation
+MISC--: during learning postsynaptic spike latency decreases citation citation citation
+MISC--: after convergence responses become selective citation visual features intermediate complexity similar features used earlier work citation
+MISC--: features now defined clusters afferents consistently among earliest fire
+MISC--: stdp detects kinds statistical regularities among spike trains creates one unit each distinct pattern

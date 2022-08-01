@@ -1,0 +1,34 @@
+MISC--: perception involves two types decisions about sensory world identification stimulus features analog quantities discrimination same stimulus features among set discrete alternatives
+MISC--: veridical judgment categorical discrimination traditionally been conceptualized two distinct computational problems
+OWNX--: here we found two types decision making subserved shared cortical circuit mechanism
+OWNX--: we used continuous recurrent network model simulate two monkey experiments subjects were required make either two alternative forced choice veridical judgment about direction random dot motion
+MISC--: model network endowed continuum bell shaped population activity patterns each representing possible motion direction
+MISC--: slow recurrent excitation underlies accumulation sensory evidence its interplay strong recurrent inhibition leads decision behaviors
+MISC--: model reproduced monkey s performance well single neuron activity categorical discrimination task
+OWNX--: furthermore we examined how direction identification determined combination sensory stimulation microstimulation
+OWNX--: using population vector measure we found direction judgments instantiate winner take all when two stimuli far apart vector averaging when two stimuli close each other
+MISC--: interestingly broad range intermediate angular distances between two stimuli network displays mixed strategy sense direction estimates stochastically produced winner take all some trials vector averaging other trials model prediction experimentally testable
+MISC--: this work thus lends support common neurodynamic framework both veridical judgment categorical discrimination perceptual decision making
+MISC--: perceptual judgments involve detection identification discrimination objects sensory scene citation citation
+MISC--: given ambiguous visual motion pattern instance subject may asked detect whether net motion direction present absent citation identify motion direction analog quantity citation discriminate motion direction between two options citation
+MISC--: using strategy single unit recording behaving monkeys neurophysiologists begun uncover neuronal activity linked perceptual judgments
+MISC--: monkey experiments using perceptual discrimination tasks neural correlates decision making been observed parietal citation citation premotor citation citation prefrontal citation citation cortical areas
+MISC--: experimental observations inspired advance neural circuit models suggest recurrent network dynamics underlie temporal integration sensory information decision formation citation citation
+MISC--: focusing categorical discrimination those neural circuit models well abstract ramp threshold models citation citation typically endowed simple architecture consisting discrete neural pools selective categorical alternatives
+OWNX--: therefore they inadequate exploring perceptual identification requires neural representation analog quantities motion direction arbitrary angle between
+MISC--: other hand probabilistic estimation analog stimulus feature been studied perspective optimal population coding citation citation citation
+OWNX--: studies centered optimal algorithms reading out stimulus feature sensory neural populations inferring orientation visual stimulus neural activity primary visual cortex citation direction motion stimulus activity profiles across middle temporal visual area citation
+CONT--: however probabilistic inference believed occur higher order cortical areas downstream primary sensory areas underlying circuit mechanism remains unclear
+MISC--: particular unknown whether probabilistic estimation categorical discrimination engage distinct decision processes realized shared neural circuit mechanism
+AIMX--: present work we investigated this outstanding question using continuous recurrent network model spiking neurons was initially proposed spatial working memory citation
+OWNX--: we applied this model simulation two monkey experiments using random dot visual motion stimuli
+MISC--: two alternative forced choice direction discrimination task monkey was trained discriminate motion direction making saccadic eye movement one two peripheral choice targets citation citation citation
+OWNX--: was found ramp like spiking activity neurons lateral intraparietal cortex correlated monkey s choice
+OWNX--: contrast direction identification task monkey was required report veridically its perceived direction motion visual stimulus citation
+MISC--: some trials electrical stimulation was applied simultaneously mt neurons when monkey viewed random dot display
+MISC--: microstimulation could bias monkey s judgments toward preferred direction mt neurons at microstimulation site citation citation
+OWNX--: was argued both vector averaging winner take all algorithms might contribute interpretation activity profiles mt neurons
+OWNX--: but citation collected only behavioral data did not record neural activity mt downstream cortical areas
+OWNX--: thus neural mechanism veridical judgments about motion direction remains unknown
+AIMX--: here we show continuous recurrent network model capable reproducing salient observations both experiments
+OWNX--: our results suggest both categorical discrimination veridical judgment subserved common cortical circuit endowed reverberatory dynamics

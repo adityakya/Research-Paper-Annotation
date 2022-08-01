@@ -1,0 +1,113 @@
+MISC--: lipschitz multi armed bandit mab problem generalizes classical multi armed bandit problem assuming one given side information consisting priori upper bounds difference expected payoff between certain pairs strategies
+MISC--: classical results lai robbins citation auer et al citation imply logarithmic regret bound lipschitz mab problem finite metric spaces
+MISC--: recent results continuum armed bandit problems their generalizations imply lower bounds symbol stronger many infinite metric spaces unit interval
+OWNX--: this dichotomy universal
+OWNX--: we prove answer yes every metric space optimal regret lipschitz mab algorithm either bounded above any symbol bounded below any symbol
+OWNX--: perhaps surprisingly this dichotomy does not coincide distinction between finite infinite metric spaces instead depends whether completion metric space compact countable
+OWNX--: our proof connects upper lower bound techniques online learning classical topological notions perfect sets cantor bendixson theorem
+OWNX--: we also consider full feedback k best expert version lipschitz mab problem termed lipschitz experts problem show this problem exhibits similar dichotomy
+OWNX--: we proceed give nearly matching upper lower bounds regret lipschitz experts problem uncountable metric spaces
+MISC--: bounds form symbol where exponent symbol depends metric space
+OWNX--: characterize this dependence we introduce novel dimensionality notion tailored experts problem
+OWNX--: finally we show both lipschitz bandits lipschitz experts problems become completely intractable sense no algorithm regret symbol if only if completion metric space non compact
+MISC--: multi armed bandit henceforth mab problems been studied more than fifty years clean abstract setting analyzing exploration exploitation tradeoffs common sequential decision making
+MISC--: stochastic mab problem algorithm must repeatedly choose fixed set strategies k arms each time receiving random payoff whose distribution depends strategy selected
+MISC--: performance mab algorithms commonly evaluated terms regret difference expected payoff between algorithm s choices always playing one fixed strategy
+MISC--: addition their many applications range experimental design online auctions web advertising another appealing feature multi armed bandit algorithms they surprisingly efficient terms growth rate regret finite armed bandit problems algorithms whose regret at time symbol scales symbol been known more than two decades beginning seminal work lai robbins citation extended subsequent work citation
+MISC--: many applications mab problems especially computer science applications online auctions web advertising adaptive routing require considering strategy sets very large even infinite
+MISC--: infinite strategy sets symbol bound does not apply while very large finite sets symbol notation masks prohibitively large constant
+CONT--: indeed without making any assumptions about strategies their payoffs bandit problems large strategy sets allow no non trivial solutions any mab algorithm performs badly some inputs random guessing
+MISC--: this motivates study bandit problems strategy set large but one given side information constraining form payoffs
+MISC--: problems become subject quite intensive study recent years eg citation
+MISC--: lipschitz mab problem version stochastic mab problem side information consists priori upper bounds difference expected payoff between certain pairs strategies
+MISC--: this models situations where decision maker access some similarity information about strategies ensures similar strategies obtain similar payoffs
+AIMX--: abstractly similarity information may modeled defining metric space structure strategy set side constraints imply expected payoff function symbol lipschitz function lipschitz constant symbol this metric space
+MISC--: lipschitz constant symbol
+MISC--: lipschitz mab problem was introduced kleinberg et al citation
+MISC--: preceding work citation studied problem few specific metric spaces one dimensional real interval
+MISC--: prior work considered regret symbol function time symbol focused asymptotic dependence symbol loosely speaking dimensionality metric space
+OWNX--: various upper lower bounds form symbol were proved where exponent symbol depends metric space
+MISC--: particular if metric space interval symbol standard metric symbol then there exists algorithm regret symbol this bound tight up polylog factors citation
+MISC--: more generally arbitrary infinite metric space symbol one define isometry invariant symbol there exists algorithm regret symbol tight up polylog factors if symbol see citation
+OWNX--: following picture emerges
+BASE--: although algorithms regret symbol known most metric spaces existing work unfortunately provides no examples infinite metric spaces admitting bandit algorithms satisfying lai robbins regret bound symbol although this bound holds all finite metrics
+MISC--: fact most metric spaces been studied unit interval this possibility excluded known lower bounds form symbol where symbol therefore natural ask symbol regret best possible infinite metric space
+MISC--: alternatively there infinite metric spaces one achieve regret symbol
+MISC--: there any metric space best possible regret between symbol symbol
+OWNX--: any metric space xhdr our contributions make above issue more concrete let us put forward following definition
+OWNX--: we settle questions listed above proving following dichotomy
+MISC--: worth mentioning regret bound symbol best possible even two armed bandit problems lower bound lai robbins citation
+OWNX--: thus our upper bound lipschitz mab problems compact countable metric spaces nearly best possible bound spaces modulo gap between symbol symbol
+OWNX--: furthermore we show this gap inevitable infinite metric spaces we turn our attention full feedback version lipschitz mab problem
+MISC--: any mab problem there exists corresponding full feedback problem after each round payoffs all strategies revealed
+MISC--: settings been extensively studied online learning literature under name best experts problems citation
+MISC--: particular finite set strategies one achieve constant regret citation when payoffs iid
+MISC--: over time
+OWNX--: addition full feedback one could also consider version payoffs revealed some but not all strategies
+OWNX--: specifically we define double feedback where each round algorithm selects two strategies bet receives payoff free peek
+OWNX--: after round payoffs revealed both strategies
+OWNX--: abuse notation we will treat bandit setting special case experts setting
+MISC--: experts version lipschitz mab problem called lipschitz experts problem defined obvious way problem instance specified triple symbol where symbol metric space symbol borel probability measure set symbol payoff functions symbol borel symbol algebra induced product topology symbol expected payoff function symbol lipschitz function symbol
+MISC--: each round algorithm presented iid
+MISC--: sample symbol
+MISC--: metric structure symbol known algorithm measure symbol not
+OWNX--: we show lipschitz experts problem exhibits dichotomy similar one theorem
+OWNX--: we formulate upper bound double feedback lower bound full feedback thus avoiding issue what means algorithm receive feedback infinitely many strategies
+MISC--: theorems assert dichotomy between metric spaces lipschitz mab experts problem very tractable those somewhat tractable
+MISC--: let us consider opposite end tractability spectrum ask metric spaces problem becomes completely intractable
+OWNX--: we obtain precise characterization problem completely intractable if only if metric space not pre compact
+OWNX--: moreover our upper bound bandit setting whereas lower bound full feedback
+MISC--: consider ffproblem
+OWNX--: view symbol lower bound theorems we interested matching upper bounds
+MISC--: gupta et al citation observed bounds hold every metric space symbol finite covering dimension namely lipschitz experts problem symbol symbol tractable their algorithm version naive algorithm citation therefore natural ask whether there exist metric spaces optimal regret lipschitz experts problem between symbol symbol
+OWNX--: we settle this question proving characterization nearly matching upper lower bounds terms novel dimensionality notion tailored experts problem
+OWNX--: lower bound theorem holds restricted version ffproblem problem instance symbol satisfies further property each function symbol itself lipschitz function symbol
+OWNX--: we term this version full feedback
+OWNX--: fact this version we obtain matching upper bound omit this end we consider very high dimensional metric spaces exponentially branching edge weighted trees space all probability distributions symbol under earthmover distance
+CONT--: we introduce novel dimensionality notion better captures complexity spaces characterizes regret naive experts algorithm citation interestingly ulproblem allows very non trivial improvement analysis omit any metric space symbol there exist isometry invariant parameters symbol symbol ffproblem symbol symbol tractable any symbol not symbol tractable any symbol
+MISC--: depending metric space symbol take any value symbol
+AIMX--: there exist metric spaces symbol omit any metric space symbol there exists isometry invariant symbol full feedback lipschitz experts problem symbol symbol tractable any symbol not symbol tractable any symbol omit omit we introduce several new techniques most important appear joint proof two main results theorem theorem xhdr connection point set topology main technical contribution this paper interplay online learning point set topology requires novel algorithmic lower bounding techniques
+OWNX--: particular connection topology essential joint proof two main results theorem theorem
+OWNX--: there we identify simple topological property well orderability entails algorithmic result another topological property perfectness entails lower bound
+MISC--: perfect spaces classical notion point set topology
+MISC--: topological well orderings implicit work cantor citation but particular definition given here new best our knowledge
+OWNX--: proof theorems compact metric spaces consists three parts algorithmic result compact well orderable metric space lower bound metric space perfect subspace following lemma ties together two topological properties
+MISC--: lemma follows classical theorems cantor bendixson citation mazurkiewicz sierpinski citation
+OWNX--: we provide proof appendix sake making our exposition self contained
+OWNX--: reduce lipschitz mab problem complete metric spaces we show problem symbol tractable given metric space if only if symbol tractable completion thereof
+MISC--: same true double feedback lipschitz experts problem only if direction holds ffproblem
+OWNX--: then main dichotomy results follow lower bound theorem xhdr accessing metric space we define bandit algorithm possibly randomized borel measurable function maps history past observations symbol strategy symbol played current period
+AIMX--: experts algorithm similarly defined possibly randomized borel measurable function mapping observation history strategy symbol played current period case double feedback model pair strategies representing bet free peek observation history either sequence elements symbol full feedback model sequence quadruples symbol double feedback model
+MISC--: definitions abstract away potentially thorny issue representing accessing infinite metric space
+OWNX--: our algorithmic results we handle this issue follows metric space accessed via well defined calls suitable oracle
+OWNX--: moreover main algorithmic result theorems requires oracle represents well ordering
+OWNX--: we also provide extension section symbol tractability result wide family metric spaces including example compact metric spaces finite number limit points more intuitive oracle access suffices
+MISC--: metric spaces finite cantor bendixson rank classic notion point set topology xhdr related work discussion algorithms stochastic mab problem admit regret guarantees form symbol two types instance specific instance independent depending whether constant symbol allowed depend problem instance
+CONT--: instance ucb citation admits instance specific guarantee symbol whereas best known instance independent guarantee this algorithm only symbol where symbol number arms
+CONT--: accordingly lower bound instance independent version show any algorithm given time symbol there exists problem instance whose regret large at this time whereas instance specific version one needs much more ambitious argument any algorithm there exists problem instance whose regret large infinitely often
+AIMX--: this paper we focus instance specific guarantees omit apart stochastic mab problem considered this paper several other formulations been studied literature multi armed bandits spans operations research economics computer science see citation background apart stochastic mab problem considered this paper several other mab formulations been studied literature see citation background
+MISC--: early work citation focused bayesian formulations bayesian priors payoffs known goal maximize payoff expectation over priors
+MISC--: formulations mab instance markov decision process mdp each arm represented markov chain rewards states transition happens whenever arm played
+MISC--: more difficult restless bandits citation formulations state also changes when arm passive according another transition matrix
+MISC--: theoretical computer science literature recent work this vein includes citation
+OWNX--: interestingly bayesian formulations offline flavor given mdp one needs efficiently compute nearly optimal mapping states actions
+MISC--: contrasting bayesian formulations probabilistic model fully specified adversarial mab problem citation makes no stochastic assumptions whatsoever
+MISC--: instead makes very pessimistic assumption payoffs chosen adversary access algorithm s code but not its random seed
+MISC--: stochastic mab problem goal minimize regret
+MISC--: any fixed finite number arms best possible regret this setting symbol citation
+MISC--: infinite strategy sets one often considers linear mab problem strategies lie convex subset symbol each round payoffs form linear function citation omit more generally convex function citation open question whether ideas lipschitz mab problem extend above formulations
+CONT--: adversarial version lipschitz mab problem well defined but best our knowledge only known result naive algorithm citation
+OWNX--: one could define stochastic version linear mab problem expected payoffs form fixed time invariant linear function viewed special case lipschitz mab problem
+MISC--: however this view not likely fruitful because lipschitz mab problem measuring payoff one arm useless estimating payoffs distant arms whereas prior work linear mab problem inferences about distant arms crucial
+OWNX--: bayesian mab problems limited similarity information not clear how model this information mainly because bayesian setting similarity between arms naturally represented via correlated priors rather than metric space omit oblivious adversary must fix all payoffs advance before first round adaptive adversary sees choices made algorithm all previous rounds xhdr organization paper preliminaries section
+OWNX--: we present joint proof two main results theorems
+OWNX--: lower bound proved section algorithmic results section
+OWNX--: coupled topological equivalence lemma this gives proof compact metric spaces
+OWNX--: complementary symbol intractability result infinite metric spaces theorem section
+OWNX--: symbol tractability result via simpler oracle access metric spaces finite cantor bendixson rank section
+OWNX--: boundary tractability result theorems section
+MISC--: ffproblem very high dimension including theorems discussed sections
+MISC--: some proofs moved appendices
+OWNX--: appendix we reduce problem complete metric spaces
+OWNX--: all kl divergence arguments underlie our lower bounds gathered appendix
+OWNX--: we provide self contained proof topological lemma lemma appendix

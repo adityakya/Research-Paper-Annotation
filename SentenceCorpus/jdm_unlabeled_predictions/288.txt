@@ -1,0 +1,51 @@
+MISC--: physicians often encounter diagnostic problems ambiguous conflicting features
+MISC--: what they likely do situations
+MISC--: we presented diagnostic scenario number family physicians traced their information gathering diagnoses management
+MISC--: scenario contained ambiguous feature while other features supported either cardiac musculoskeletal diagnosis
+MISC--: due risk death cardiac diagnosis should considered managed appropriately
+MISC--: forty seven participants number percent gave only musculoskeletal diagnosis number them managed patient inappropriately sent him home painkillers
+MISC--: they elicited less information spent less time scenario than those who diagnosed cardiac cause
+MISC--: no feedback was provided participants
+MISC--: stimulated recall number physicians revealed differences way same information was interpreted function final diagnosis
+CONT--: musculoskeletal group denigrated important cues making them coherent their representation pulled muscle whilst cardiac group saw them evidence cardiac problem
+MISC--: most physicians indicated they were fairly very certain about their diagnosis
+MISC--: observed behaviours described coherence based reasoning whereby emerging judgment influences evaluation incoming information so confident judgments achieved even ambiguous uncertain conflicting information
+OWNX--: role coherence based reasoning medical diagnosis diagnostic error needs systematically examined
+MISC--: diagnosis chest pain primary care notoriously difficult
+MISC--: cause pain usually not life threatening
+CONT--: however conditions acute coronary syndrome pulmonary embolism may fatal if unrecognised not promptly treated
+MISC--: there evidence myocardial infarction mi may missed primary care citation
+OWNX--: missed mi commonest cause negligence claims against primary care physicians usa relates more deaths than other conditions claims against family physicians uk citation
+MISC--: epidemiological studies found atypical presentations well patients attributing their symptoms non cardiac cause significant factors missed diagnoses mi citation
+OWNX--: we studied diagnosis atypical chest pain using simulated patient who attributes his pain pulled muscle
+MISC--: scenario described detail later included conflicting features i e some features pointing cardiac diagnosis others pointing musculoskeletal diagnosis
+MISC--: accounts coherence based reasoning describe how people deal situations what they do order resolve conflict
+MISC--: faced equivocal i e non diagnostic information about two alternatives people will spontaneously form preference one alternative will distort information received subsequently so favors preferred alternative citation
+MISC--: they may even distort information clearly favors one alternative order preserve earlier preference other alternative though distortion generally declines diagnosticity information increases citation
+MISC--: if preferences judgments change result new incoming information distortion continues operate now favor new preference judgment citation
+MISC--: seems distortion information psychological necessity helps individuals form maintain coherent judgments
+MISC--: parallels medical diagnosis drawn studies legal decision making
+MISC--: simon colleagues gave participants legal case conflicting information i e where each position was supported equal amounts probabilistic evidence asked them render verdict indicate their confidence citation
+MISC--: they pre disposed participants either guilt verdict innocence verdict presenting them dna evidence either incriminated exonerated defendant odds number number million dna evidence being wrong
+OWNX--: before seeing case participants had been asked rate diagnosticity each piece evidence presented them unrelated vignettes describing various social situations
+OWNX--: after they read rendered their verdict legal case participants were asked rate diagnosticity each piece evidence again this time presented them context case
+MISC--: new ratings were consistent verdict significantly differed ones made earlier unrelated vignettes
+MISC--: seems whilst evidence was initially perceived truly equivocal non diagnostic was subsequently contextualised became part mental model legal case
+MISC--: its perceived diagnosticity thus increased line verdict
+MISC--: authors argue dna match should bear no relationship other pieces evidence case reliability eyewitness identification
+OWNX--: nevertherless now perceived related their evaluation shifts support final verdict what authors call coherence shifts
+MISC--: this basic experimental procedure been repeated several variations order test whether different factors affected coherence based reasoning
+OWNX--: coherence shifts were found even when participants were asked simply memorise ambiguous legal case
+MISC--: when they were unexpectedly asked render verdict rate their agreement various arguments case agreement had shifted baseline function final verdict citation
+OWNX--: largest shifts however were observed between baseline interim phase after memorisation but before being asked render verdict indicate leaning towards verdict
+MISC--: findings suggest coherence shifts happen pre decisionally not simply result decision justification
+MISC--: processing complex legal case contained conflicting arguments intention either make decision later receive further information memorise order communicate someone else resulted comparable coherence shifts citation
+OWNX--: this was attributed intense attempt comprehend complex material represent mentally coherent way
+MISC--: pre decisional distortion information been investigated mostly college students tasks required no prior experience technical skill
+MISC--: professionals people experience specific domain making judgments within their domain expertise rarely studied
+MISC--: one study participants experienced horse race betting evaluated task related information chances horses winning simulated race accordance their final choice either anticipation having place bet later consequence simply processing task information
+MISC--: they distorted information greater extent than participants without experience betting horses citation
+MISC--: we wanted investigate how physicians deal difficult diagnostic problems contain conflicting information where diagnoses cannot confirmed excluded certainty
+MISC--: diagnosis chest pain primary care lends itself this type enquiry
+AIMX--: chest pain scenario was one seven scenarios we built larger study investigated relationship between experience information search diagnostic accuracy difficult problems family medicine citation
+OWNX--: we found across scenarios experience was not related diagnostic accuracy was predicted only number critical cues elicited i e cues diagnostic value relevant differential diagnoses

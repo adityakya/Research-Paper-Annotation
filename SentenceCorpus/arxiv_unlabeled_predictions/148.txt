@@ -1,0 +1,44 @@
+MISC--: while statistics focusses hypothesis testing estimating properties true sampling distribution machine learning performance learning algorithms future data primary issue
+AIMX--: this paper we bridge gap general principle phi identifies hypotheses best predictive performance
+MISC--: this includes predictive point interval estimation simple composite hypothesis testing mixture model selection others special cases
+OWNX--: concrete instantiations we will recover well known methods variations thereof new ones
+MISC--: phi nicely justifies reconciles blends reparametrization invariant variation map ml mdl moment estimation
+MISC--: one particular feature phi genuinely deal nested hypotheses
+MISC--: consider data symbol sampled some distribution symbol unknown symbol
+MISC--: likelihood function posterior contain complete statistical information sample
+MISC--: often this information needs summarized simplified various reasons comprehensibility communication storage computational efficiency mathematical tractability etc
+MISC--: parameter estimation hypothesis testing model complexity selection all regarded ways summarizing this information albeit different ways context
+MISC--: posterior might either summarized single point symbol e g ml map mean stochastic model selection convex set symbol e g confidence credible interval finite set points symbol mixture models sample points particle filtering mean covariance matrix gaussian approximation more general density estimation few other ways citation
+MISC--: i roughly sorted methods increasing order complexity
+AIMX--: this paper concentrates set estimation includes multiple point estimation hypothesis testing special cases henceforth jointly referred hypothesis identification this nomenclature seems uncharged naturally includes what we will do estimation testing simple complex hypotheses but not density estimation
+OWNX--: we will briefly comment generalizations beyond set estimation at end
+MISC--: there many desirable properties any hypothesis identification principle ideally should satisfy
+MISC--: should parskip ex parsep exsep ex lead good predictions s what models ultimately broadly applicable analytically computationally tractable defined make sense also non iid non stationary data reparametrization representation invariant work simple composite hypotheses work classes containing nested overlapping hypotheses work estimation testing model selection regime reduce special cases approximately existing other methods
+OWNX--: here we concentrate first item will show resulting principle nicely satisfies many other items
+MISC--: we address problem identifying hypotheses parameters models good predictive performance head
+MISC--: if symbol true parameter then symbol obviously best prediction symbol future observations symbol
+OWNX--: if we don t know symbol but prior belief symbol about its distribution predictive distribution symbol based past symbol observations symbol averages likelihood symbol over symbol posterior weight symbol definition best bayesian predictor often we cannot use full bayes reasons discussed above but predict hypothesis symbol i e use symbol prediction
+OWNX--: closer symbol symbol symbol better symbol s prediction definition where we measure closeness some distance function symbol
+OWNX--: since symbol symbol assumed unknown we sum average over them
+MISC--: predictive hypothesis identification phi minimizes losses w r t some hypothesis class symbol
+MISC--: our formulation general enough cover point interval estimation simple composite hypothesis testing mixture model complexity selection others
+MISC--: general idea inference maximizing predictive performance not new citation
+MISC--: indeed context model complexity selection prevalent machine learning implemented primarily empirical cross validation procedures variations thereof citation minimizing test train set generalization bounds see citation references therein
+MISC--: there also number statistics papers predictive inference see citation overview older references citation newer references
+MISC--: most them deal distribution free methods based some form cross validation discrepancy measure often focus model selection
+MISC--: notable exception mlpd citation maximizes predictive likelihood including future observations
+MISC--: full decision theoretic setup decision based symbol leads loss depending symbol minimizing expected loss been studied extensively citation but scarcely context hypothesis identification
+MISC--: natural progression estimation symbol prediction symbol action approximating predictive distribution minimizing req lpt lies between traditional parameter estimation optimal decision making
+MISC--: formulation req lpt quite natural but i haven t seen elsewhere
+MISC--: indeed besides ideological similarities papers above bear no resemblance this work
+AIMX--: main purpose this paper investigate predictive losses above particular their minima i e best predictor symbol
+OWNX--: section introduces notation global assumptions illustrates phi simple example
+MISC--: this also shows shortcoming map ml esimtation
+OWNX--: section formally states phi possible distance loss functions their minima section i study exact properties phi invariances sufficient statistics equivalences
+MISC--: sections investigates limit symbol phi related map ml
+OWNX--: section derives large sample approximations symbol phi reduces sequential moment fitting smf
+OWNX--: results subsequently used offline phi
+OWNX--: section contains summary outlook conclusions
+AIMX--: throughout paper bernoulli example will illustrate general results paranodot main aim this paper introduce motivate phi demonstrate how deal difficult problem selecting composite nested hypotheses show how phi reduces known principles certain regimes
+MISC--: latter provides additional justification support previous principles clarifies their range applicability
+MISC--: general treatment exemplary not exhaustive

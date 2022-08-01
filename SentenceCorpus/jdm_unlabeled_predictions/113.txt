@@ -1,0 +1,22 @@
+MISC--: heuristic decision making models like take best rely environmental regularities
+MISC--: they conduct limited search ignore available information assuming there structure decision making environment
+MISC--: take best relies at least two regularities diminishing returns says information found earlier search more important than information found later correlated information says information found early search predictive information found later
+OWNX--: we develop new approaches determining search orders measuring cue discriminability make reliance take best regularities clear open manipulation
+OWNX--: we then demonstrate well studied german cities environment three new city environments when how regularities support take best
+MISC--: do this we focus not accuracy take best most previous studies but measure its coherence decision making process
+MISC--: particular we consider whether take best decisions based single piece information justified because exhaustive search information unlikely yield different decision
+AIMX--: using this measure we show when two environmental regularities present decisions made limited search unlikely changed after exhaustive search but both regularities often necessary
+OWNX--: number olympics was first time professionals us nba league were allowed play men s basketball competition
+MISC--: us dream team filled stars like michael jordan magic johnson larry bird charles barkley patrick ewing was one most dominant teams ever assembled any sporting competition
+MISC--: their closest game was number number victory final over croatia head coach chuck daly never felt need call timeout during tournament
+CONT--: making predictions about outcomes sporting contests notoriously difficult but dream team made some predictions easy
+MISC--: imagine trying predict whether not us would beat its first opponent tournament angola examining players each team beginning starting five moving bench players
+MISC--: at some point early us list maybe after jordan johnson bird barkley ewing there would no need look further
+MISC--: no matter who else was us roster angolan roster outcome already clear
+MISC--: dream team also made predictions easy during course games
+MISC--: about number minutes play first half against angola us led number number
+OWNX--: was clear us would win large margin without needing watch rest game
+MISC--: both decisions about us victory non compensatory because not all available information used so ignored information cannot compensate change decision based information used
+OWNX--: remaining player rosters not examined rest game not watched
+MISC--: yet decision forego further information seems sensible both cases
+MISC--: not reaction limited time cognitive resources but recognition nature environment decision making taking place

@@ -1,0 +1,26 @@
+MISC--: several studies propose exemplar retrieval contributes multi attribute decisions
+MISC--: authors proposed process theory enabling priori predictions what cognitive representations people use input their judgment process citation
+MISC--: according sigma exemplar retrieval back up system when task does not allow additive linear abstraction integration cue criterion knowledge e g when task non additive
+MISC--: important question what extent shifts occur spontaneously part automatic procedures error minimization delta rule if they controlled strategy shifts contingent ability identify sufficiently successful judgment strategy
+OWNX--: this article data reviewed demonstrate shift between exemplar memory cue abstraction well data where expected shift does not occur
+MISC--: contrast common assumption previous models results suggest controlled contingent strategy shift
+MISC--: exemplar models proven particularly successful describing categorization learning categorical decisions citation
+MISC--: last years researchers shown interest studying exemplar based reasoning basis other sorts judgments decisions citation
+MISC--: thus been increasingly acknowledged many everyday judgments like example diagnosis patient decision hire job candidate purchase car may at least part driven retrieval concrete similar previous examples
+MISC--: despite this interest nature interaction between exemplar memory other processes rule based processes received relatively little empirical scrutiny
+MISC--: illustration imagine teacher predicting final grades students economy class basis four different test results
+OWNX--: when looking at robin teacher might infer his high score winter exam should associated high final grade
+OWNX--: his medium score national high school economy exam should also associated high grade since exam very difficult
+MISC--: teacher considers different individual test results integrates their combined impact grade
+MISC--: this exemplifies judgment process based abstracted knowledge relations between individual cues tests their difficulty criterion final grade
+MISC--: lisa other hand teacher might realize her test results very similar robin s
+CONT--: since teacher gave robin final grade number out number she decides give lisa number well
+MISC--: this illustrates judgment based similar concrete exemplar
+OWNX--: although examples highly simplified we probably all agree we at times engaged both sorts processes
+CONT--: what less clear received relatively little attention judgment decision research what task properties invite one other process what processes instigate shifts between processes
+MISC--: possibility exemplar memory interacts rule based processes been modeled context example classification learning citation arithmetic learning citation
+MISC--: without claiming identity models share assumption transition one process another occurs automatically at item based level either side effect obligatory accumulative encoding citation implemented error driven learning rule typical connectionist models citation
+MISC--: viable alternative however shifts hypothesis driven involving controlled sequential tests strategies sustained over period trials citation
+MISC--: according this view choice one rather than other strategy result active effortful process problem solving contingent perceived success strategy
+OWNX--: aim this article review data multiple cue judgment citation demonstrate abilities shift between processes well striking stubborn inabilities make appropriate shifts
+MISC--: data turn serve shed light nature mechanisms controlling shifts between processes

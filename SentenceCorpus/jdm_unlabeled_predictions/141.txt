@@ -1,0 +1,14 @@
+MISC--: donation requests often convey numerical information about people need
+OWNX--: two studies we investigated effects numeracy presentation format underlying affective cognitive mechanisms donation decisions
+MISC--: study number participants were presented information about victim need either frequency format percentage format
+OWNX--: study number we manipulated identifiability number target victims
+OWNX--: our results demonstrate donations individuals lower numeracy were more susceptible changes numeric presentation format than those higher numeracy
+MISC--: importantly underlying mechanisms donations differed numeracy
+MISC--: whereas mental image victim influenced donation decisions less numerate people only estimated impact donation was positively correlated donation amounts both more less numerate individuals
+MISC--: reports effects natural man made catastrophes e g famines floods tsunamis wars common encounter statistics about number human lives affected
+MISC--: example earthquake haiti january number number affected number million people approximately number number lost their lives citation estimated number number families were left homeless citation
+MISC--: although may difficult truly comprehend scope tragedies citation numerical figures typically used convey enormity suffering
+MISC--: humanitarian aid organizations likewise use numerical information communicate needs victims entice benefactors make financial contributions
+MISC--: total number lives affected estimated number individuals would benefit donation ratio between them all important aspects decision help
+MISC--: potential donors expected understand use numerical information when deciding whether support humanitarian aid project
+CONT--: however comprehension use this information may differ depending how presented who potential donor

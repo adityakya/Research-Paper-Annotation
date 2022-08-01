@@ -1,0 +1,12 @@
+MISC--: two experiments examined benefits unconscious thought complex decisions citation
+MISC--: experiment number attempted replicate extend past research examining effect providing reasons prior rating options
+OWNX--: results indicated no significant differences between conditions
+MISC--: experiment number attempted replicate findings dijksterhuis bos nordgren van baaren citation determine if memory aid could overcome limitations conscious thought complex tasks
+OWNX--: results revealed memory aid improved decisions compared conscious thought condition
+OWNX--: participants unconscious thought condition did not perform significantly better than did participants conscious thought condition
+OWNX--: conventional wisdom indicates we should think hard about our options when faced difficult decision
+MISC--: devoting attention conscious thought difficult decision one carefully consider weigh various options choose option best matches one s goals
+MISC--: wilson schooler citation challenged this assumption when they found participants asked think about their reasons decision made apparently worse decisions than participants who did not reflect their reasons decision
+MISC--: recent work citation cast further doubt benefits consciously thinking about one s decisions demonstrating consciously thinking about complex tasks i e tasks consist numerous attributes participants must weigh order determine best option lead poorer performance than unconscious thought
+MISC--: some recent attempts replicate this effect been unsuccessful citation
+AIMX--: this paper attempts replicate beneficial effects unconscious thought complex tasks found dijksterhuis colleagues examine some conditions may limit effect

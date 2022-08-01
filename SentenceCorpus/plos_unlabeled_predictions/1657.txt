@@ -1,0 +1,58 @@
+OWNX--: de novo computational design synthetic gene circuits achieve well defined target functions hard task
+MISC--: existing brute force approaches run optimization algorithms structure kinetic parameter values network
+MISC--: however more direct rational methods automatic circuit design lacking
+OWNX--: focusing digital synthetic gene circuits we developed methodology corresponding tool silico automatic design
+OWNX--: given truth table specifies circuit s input output relations our algorithm generates ranks several possible circuit schemes without need any optimization
+MISC--: logic behavior reproduced action regulatory factors chemicals promoters ribosome binding sites biological boolean gates
+CONT--: simulations circuits up four inputs show faithful unequivocal truth table representation even under parametric perturbations stochastic noise
+MISC--: comparison already implemented circuits addition reveals potential simpler designs same function
+OWNX--: therefore we expect method help both devising new circuits simplifying existing solutions
+MISC--: central concept synthetic biology citation rational design synthetic gene circuits means modularized standard parts dna traits well defined functions
+MISC--: field aims at adapting methods ideas part composability abstraction hierarchy engineering biology
+MISC--: several computational tools embracing concepts been developed
+MISC--: moreover some tools permit realize circuits drag drop way typical electronics citation citation
+MISC--: nevertheless de novo design circuits able reproduce target function not easy task its automation represents major challenge synthetic biology
+MISC--: previously fran ois hakim citation showed small networks characterized desired behavior obtained evolutionary optimization set independent circuits
+MISC--: similar optimization based tools like genetdes citation optcircuit citation use simulated annealing mixed integer dynamic optimization respectively
+MISC--: approaches yielded interesting circuit designs but they several inherent limitations
+MISC--: computational complexity requires very simplified models do not represent basic parts but lump functionalities entire genes
+MISC--: similarly brute force optimization only cope rather small networks requires dual optimization circuit structure kinetic parameter values
+MISC--: hence more direct rational design methods desired
+OWNX--: here instead looking general solution automatic design challenge we focus digital circuits
+OWNX--: circuits employ boolean logic where input output signals take only two values
+OWNX--: simplest case boolean gate uses two input signals compute single logical output
+MISC--: more complex digital circuits convert formula inputs into single output
+MISC--: both cases input output relation represented truth table where each entry specifies one possible formula combinations input signal values corresponding binary output
+MISC--: biology digital circuits important several reasons
+MISC--: first logical gates those determined action two different activators promoter abundant natural systems
+MISC--: they often found association feed forward loop motifs provide more complicated functionalities sign sensitive delays citation citation pulse generation citation
+MISC--: more complex networks several ffls interacting basic boolean gates control sporulation b subtilis citation well neuronal system c elegans citation
+MISC--: analysis possible implementations logical gates could thus help further our understanding natural biological networks
+MISC--: synthetic biology secondly complex digital circuits required construction biosensors molecular computers
+MISC--: biosensors should respond well defined external cues may specified truth table
+OWNX--: more inputs sensed better ability biosensor discriminate between similar environmental conditions
+MISC--: biosensors could integrated instance into bioreactors production biofuels citation
+MISC--: furthermore they could play important role disease treatment anderson et al citation implemented biosensor mimics logical gate control bacterial invasion tumor cells response signals tumor environment
+MISC--: even more complex biosensors could work molecular computers perform diagnosis basis sensed substances release drugs if necessary citation
+MISC--: motivated two aspects several synthetic gene circuits implement boolean logic been realized experimentally past years
+MISC--: most circuits rely transcriptional control schemes
+MISC--: fact well known bacterial promoters display logic behavior when controlled two transcription factors citation citation
+MISC--: more complex boolean promoters been engineered instance mammalian cells citation
+CONT--: however number repressors activators generally used synthetic biology low rational engineering transcription factors complex process citation
+MISC--: alternatively boolean gates achieved nature mechanisms translation control like base pairing between antisense small rnas mrna structural mrna modifications due binding chemical effectors riboswitches ribozymes citation citation
+MISC--: complex rna structures made two modules aptamer where chemical binds actuator either undergoes structural modifications riboswitch gets spliced ribozyme consequence chemical binding
+MISC--: both riboswitches ribozymes either repress activate translation citation
+OWNX--: furthermore tandem riboswitch where single actuator under control two aptamers been observed b clausii citation
+OWNX--: two distinct inputs represents natural boolean gate located mrna
+MISC--: taking structures models similar synthetic rna constructs been engineered recently citation
+MISC--: particular win smolke citation built complex ribozymes establish most common two input boolean gates
+OWNX--: importantly design small rnas easy compared design transcription factors
+MISC--: despite individual successes synthetic biology fundamentally lacks tools concepts automatic computational design
+MISC--: logical circuits suitable starting points automatic design because target function defined easily truth table
+OWNX--: here we combine approaches electrical circuit design our previous model circuit design composable parts citation citation develop method automatic design digital synthetic gene circuits
+MISC--: implemented add process modeling tool promot citation citation
+CONT--: circuits use set standard biological parts boolean gates whose kinetic parameters take appropriate default values without invoking any optimization algorithms
+OWNX--: addition previously developed building blocks two operator containing promoters we consider externally controllable ribosome binding sites
+MISC--: method requires only truth table directly produce several possible circuit designs process up four different inputs yield unique pre defined output signal
+MISC--: design alternatives ranked according complexity score reflects efforts practical implementation
+MISC--: simulations single gates networks different complexity confirm validity our approach highlighting accurate representation truth table robustness designed circuits

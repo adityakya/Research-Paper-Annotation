@@ -1,0 +1,9 @@
+OWNX--: we prove mutual information actually negative copula entropy based method mutual information estimation proposed
+MISC--: information theory mutual information mi difference concept entropy
+AIMX--: citation this paper we prove copula citation they essentially same mutual information also kind entropy called copula entropy
+OWNX--: based this insightful result we propose simple method estimating mutual information
+MISC--: copula theory dependence measurement association
+MISC--: citation sklar citation proved joint distribution symbol represented copula symbol margins symbol following form symbol derived separating margins joint distribution copula all dependence information random variables believed mutual information does well
+MISC--: here gives notation
+MISC--: symbol denote copula function copula density symbol denotes joint distribution marginal distribution symbol denote entropy mutual information copula entropy respectively
+MISC--: finally bold letters represent vectors while normal letters single variable

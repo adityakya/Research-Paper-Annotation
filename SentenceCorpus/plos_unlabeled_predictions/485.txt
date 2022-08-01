@@ -1,0 +1,28 @@
+MISC--: major dna constituent primate centromeres alpha satellite dna
+MISC--: much percent percent sequence generated part primate genome sequencing projects consists this material fragmented not assembled part published genome sequences due its highly repetitive nature
+AIMX--: here we develop computational methods rapidly recover categorize alpha satellite sequences previously uncharacterized whole genome shotgun sequence data
+AIMX--: we present algorithm computationally predict potential higher order array structure based paired end sequence data then experimentally validate its organization distribution experimental analyses
+OWNX--: using whole genome shotgun data human chimpanzee macaque genomes we examine phylogenetic relationship sequences provide further support model their evolution mutation over last million years
+OWNX--: our results confirm fundamental differences dispersal evolution centromeric satellites old world monkey ape lineages evolution
+MISC--: alpha satellite only functional dna sequence associated all naturally occurring human centromeres
+MISC--: alpha satellite consists tandem repetitions bp at rich sequence motif
+MISC--: humans two distinct forms alpha satellite recognized based their organization sequence properties
+MISC--: humans large fraction arranged into higher order repeat arrays where alpha satellite monomers organized multimeric repeat units ranging size mb citation
+MISC--: while individual human alpha satellite monomer units show percent percent single nucleotide variation sequence divergence between higher order repeat units typically less than percent citation citation
+MISC--: number multimeric repeats within any centromere varies between different human individuals source considerable chromosome length polymorphism
+MISC--: unequal crossover satellite dna between sister chromatid pairs between homologous chromosomes during meiosis largely responsible copy number differences thought fundamental evolution hor arrays
+MISC--: organization unit periodicity arrays specific each human chromosome citation citation individual monomer units classified into one five different suprafamilies based their sequence properties citation citation
+MISC--: interestingly studies closely related primates chimpanzee orangutan citation citation indicate particular associations do not persist among centromeres homologous chromosome implying structure content centromeric dna changes very quickly over relatively short periods evolutionary time
+MISC--: addition higher order arrays large tracts alpha satellite dna more recently been described devoid any hor structure citation citation citation
+MISC--: individual repeats within segments show extensive sequence divergence been classified monomeric alpha satellite dna
+MISC--: monomeric tracts frequently located at periphery centromeric dna citation citation citation
+CONT--: consequently unlike higher order arrays some regions been accurately sequenced assembled because they localize transition regions between euchromatin heterochromatin
+MISC--: phylogenetic probabilistic analyses suggest higher order alpha satellite dna emerged more recently displaced existing monomeric repeat sequence opposed having arisen unequal crossing over local monomeric dna citation
+MISC--: centromeres pericentromeric regions frequently poorly assembled primate whole genome sequence assemblies citation citation
+MISC--: regions generally regarded too difficult accurately sequence assemble strictly whole genome shotgun sequence
+MISC--: however most wgs sequencing efforts include substantial amounts alpha satellite repeat sequence
+MISC--: indeed much percent percent sequence generated underlying wgs consists centromeric satellite sequences data most often remain unassembled public database repositories
+AIMX--: this study we develop computational methods systematically identify classify alpha satellite sequences primate wgs sequence
+OWNX--: we predict novel hor structures uncharacterized primate genomes define phylogenetic relationship sequences within context known human hor satellite sequences
+OWNX--: finally we take advantage publicly available cloned resources experimentally validate dispersal newly described alpha satellite sequences within various primate genomes
+MISC--: data provide first genome wide sequence analysis alpha satellite dna among primates wgs data framework identify characterize more repeat rich complex regions genomes part genome sequencing projects

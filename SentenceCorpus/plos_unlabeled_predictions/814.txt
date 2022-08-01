@@ -1,0 +1,39 @@
+MISC--: halobacterium salinarum bioenergetically flexible halophilic microorganism generate energy respiration photosynthesis fermentation arginine
+OWNX--: previous study using genome scale metabolic model we shown archaeon unexpectedly degrades essential amino acids under aerobic conditions behavior lead termination growth earlier than necessary
+AIMX--: here we further integratively investigate energy generation nutrient utilization biomass production using extended methodology accounts dynamically changing transport patterns including those arise interactions among supplied metabolites
+OWNX--: moreover we widen scope our analysis include phototrophic conditions explore interplay between different bioenergetic modes
+MISC--: surprisingly we found cells also degrade essential amino acids even during phototropy when energy should already abundant
+OWNX--: we also found under both conditions considerable amounts nutrients were taken up were neither incorporated into biomass nor used respiratory substrates implying considerable production accumulation several metabolites medium
+MISC--: some likely products forms overflow metabolism
+OWNX--: addition our results also show arginine fermentation contrary what typically assumed occurs simultaneously respiration photosynthesis contribute energy levels comparable primary bioenergetic modes if not more
+MISC--: findings portray picture organism takes approach toward growth favors here now even at cost longer term concerns
+CONT--: we believe seemingly greedy behavior exhibited actually consists adaptations organism its natural environments where nutrients not only irregularly available but may altogether absent extended periods may span several years
+MISC--: setting probably predisposed cells grow much possible when conditions become favorable
+MISC--: halobacterium salinarum halophilic archaeon thrives extremely saline environments salt concentrations reaching m higher
+MISC--: organism perhaps most well known its retinal protein bacteriorhodopsin light driven proton pump
+MISC--: br only known nonchlorophyll structure allows photosynthesis citation
+MISC--: currently being developed applications optical security citation optical data storage citation holography citation
+MISC--: accordingly h salinarum s photosynthetic capabilities its most well studied aspects
+OWNX--: example d structure br been resolved its complete catalytic cycle elucidated at molecular level
+CONT--: however despite focus br photosynthesis not only means h salinarum generate energy
+MISC--: respiration citation citation well fermentation arginine citation citation other mechanisms utilized organism
+MISC--: this bioenergetic flexibility makes archaeon good model system investigating interplay between different energy production modes
+MISC--: h salinarum also one few reported organisms use potassium gradients long term energy storage battery like manner citation
+MISC--: metabolic network organism reconstructed genomic biochemical physiological data citation citation citation
+MISC--: this network consists known hypothesized reactions take place within organism considered genome scale when most all genes known metabolic function included citation
+AIMX--: we previous study reconstructed proposed network halobacterium salinarum citation
+MISC--: addition immediate information gained metabolic reconstructions networks analyzed gain insights emergent system properties through use appropriate computational methods
+MISC--: this respect constraints based framework emerged important convenient tool modeling systems because does not require detailed information typically required full kinetic models
+MISC--: rather constraints based models require only generally available physicochemical information stoichiometry reversibility energy balance when available reaction velocities citation citation citation
+MISC--: one methods available under constraints based framework flux balance analysis
+MISC--: essentially fba uses linear optimization find flux distribution maximizes particular objective function e g growth rate atp production citation citation
+MISC--: been shown optimality principles within limits under defined conditions describe operation metabolic networks including prediction internal fluxes citation citation
+MISC--: extensions fba include hybrid models introduce some degree dynamics through integration time variant input rates static model citation citation citation
+OWNX--: our aim this study two fold
+OWNX--: first we set out investigate interplay between energy generation nutrient utilization biomass production under different bioenergetic modes
+OWNX--: second we also analyzed relationships between different energy producing mechanisms respiration photosynthesis fermentation themselves typically examined individually
+OWNX--: achieve we used genome scale metabolic network connects different aspects
+CONT--: our results include several findings contrary assumptions typically made particularly respect utilization nutrients how bioenergetic modes operate
+OWNX--: more methodological perspective we also sought out extend existing framework hybrid genome scale metabolic models handle biological systems where nutrient utilization growth rates vary time
+MISC--: changes nutrient consumption example result differences between growth phases arise interactions between supplied metabolites
+OWNX--: we demonstrate extended methodology not only accounts dynamics but several instances actually led identification underlying causes

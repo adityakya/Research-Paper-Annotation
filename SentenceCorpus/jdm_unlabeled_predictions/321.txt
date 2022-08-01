@@ -1,0 +1,39 @@
+MISC--: long known problem preferential publication statistically significant results publication bias may lead incorrect estimates true effects being investigated
+MISC--: even though other research areas e g medicine biology aware problem identified strong publication biases researchers judgment decision making jdm largely ignore
+OWNX--: we reanalyzed two current meta analyses this area
+MISC--: both showed evidence publication biases may led substantial overestimation true effects they investigated
+MISC--: review additional jdm meta analyses shows most meta analyses conducted no insufficient analyses publication bias
+OWNX--: however given our results rareness non significant effects literature we suspect biases occur quite often
+MISC--: findings suggest conclusions based meta analyses without reported tests publication bias should interpreted caution b publication policies standard research practices should revised overcome problem
+OWNX--: comparison statistically non significant results larger proportion significant results overestimate underlying population effect
+MISC--: long known repeatedly discussed problem citation preferential publication significant studies will therefore lead literature provides false impression regarding robustness size effect question
+MISC--: when non significant results largely completely excluded publication even non existing effects may appear substantial citation
+MISC--: strong direct evidence overrepresentation significant results scientific literature originates primarily area medicine where several representative samples all studies investigating specific research question become available
+MISC--: samples consist studies registered drug licensing agencies funding agencies institutional review boards
+OWNX--: several surveys compared results registered studies data were eventually published
+MISC--: recent particularly impressive example survey turner et al citation
+OWNX--: data base this survey consists number clinical trials effect antidepressant agents were registered food drug administration fda united states
+MISC--: according fda number studies reported statistically significant primary results
+OWNX--: thirty seven studies were eventually published
+OWNX--: contrast number studies reporting non significant main results number remained unpublished
+MISC--: additional number studies appeared scientific journals but reported contradiction fda records significant main outcomes studies dependent variables considered most relevant were exchanged
+MISC--: combined effect size registered studies was g number
+MISC--: published literature however this combined effect size was inflated g number
+MISC--: field psychology surveys this nature rare individual studies their results particular seldom documented systematic fashion
+MISC--: however one survey did employ similar procedure assess publication biases citation
+OWNX--: data base consisted all studies were approved department psychology human subjects committee at u s university between number number
+OWNX--: approximately number percent studies reporting significant results were published
+CONT--: studies non significant outcomes however only number percent were submitted publication
+MISC--: thus there strong evidence supporting conclusion publication biases affect scientific literature several disciplines citation including psychology
+CONT--: even though omnipresence null hypothesis significance tests may less pronounced area jdm than elsewhere psychology still widely used procedure
+MISC--: this rarity non significant results give good reason assume publication biases do occur
+OWNX--: thus main question we pursue this article whether there evidence inflated estimates effect sizes jdm literature caused biases
+MISC--: generally publication biases pose threat validity body scientific knowledge represented literature
+CONT--: however absence registered studies may serve standard comparison problem may only become apparent when study results collected systematic quantitative review
+MISC--: any summary review extant literature including meta analyses will inevitably produce incorrect estimate true effect if available information represents selective sample relevant research area
+MISC--: at same time meta analyses provide opportunity gauge extent problem
+MISC--: several methods been developed aim assess whether collection effect sizes affected publication bias
+MISC--: areas human medicine biology several examples serious publication biases been identified using methods reanalyze published data citation
+CONT--: however jdm psychology whole this problem been largely ignored
+OWNX--: following we will first provide brief overview methods detection publication biases
+OWNX--: then we will use methods reanalyze some detail one meta analysis area jdm

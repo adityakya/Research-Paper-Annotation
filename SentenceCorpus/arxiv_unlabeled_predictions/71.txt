@@ -1,0 +1,37 @@
+OWNX--: we consider problem estimating parameters gaussian binary distribution way resulting undirected graphical model sparse
+OWNX--: our approach solve maximum likelihood problem added symbol norm penalty term
+MISC--: problem formulated convex but memory requirements complexity existing interior point methods prohibitive problems more than tens nodes
+OWNX--: we present two new algorithms solving problems at least thousand nodes gaussian case
+OWNX--: our first algorithm uses block coordinate descent interpreted recursive symbol norm penalized regression
+OWNX--: our second algorithm based nesterov s first order method yields complexity estimate better dependence problem size than existing interior point methods
+BASE--: using log determinant relaxation log partition function citation we show same algorithms used solve approximate sparse maximum likelihood problem binary case
+OWNX--: we test our algorithms synthetic data well gene expression senate voting records data
+MISC--: put title first chapter this line undirected graphical models offer way describe explain relationships among set variables central element multivariate data analysis
+OWNX--: principle parsimony dictates we should select simplest graphical model adequately explains data
+AIMX--: this paper weconsider practical ways implementing following approach finding model given set data we solve maximum likelihood problem added symbol norm penalty make resulting graph sparse possible
+MISC--: many authors studied variety related ideas
+MISC--: gaussian case model selection involves finding pattern zeros inverse covariance matrix since zeros correspond conditional independencies among variables
+MISC--: traditionally greedy forward backward search algorithm used determine zero pattern citation
+CONT--: however this computationally infeasible data even moderate number variables
+MISC--: citation introduce gradient descent algorithm they account sparsity inverse covariance matrix defining loss function negative log likelihood function
+MISC--: recently citation considered penalized maximum likelihood estimation citation proposed set large scale methods problems where sparsity pattern inverse covariance given one must estimate nonzero elements matrix
+MISC--: another way estimate graphical model find set neighbors each node graph regressing variable against remaining variables
+MISC--: this vein citation employ stochastic algorithm manage tens thousands variables
+MISC--: there also been great deal interest using symbol norm penalties statistical applications
+MISC--: citation apply symbol norm penalty sparse principle component analysis
+BASE--: directly related our problem use lasso citation obtain very short list neighbors each node graph
+AIMX--: citation study this approach detail show resulting estimator consistent even high dimensional graphs
+OWNX--: problem formulation gaussian data therefore simple
+MISC--: difficulty lies its computation
+MISC--: although problem convex non smooth unbounded constraint set
+MISC--: we shall see resulting complexity existing interior point methods symbol where symbol number variables distribution
+OWNX--: addition interior point methods require at each step we compute store hessian size symbol
+MISC--: memory requirements complexity thus prohibitive symbol higher than tens
+MISC--: specialized algorithms needed handle larger problems
+AIMX--: remainder paper organized follows
+OWNX--: we begin considering gaussian data
+OWNX--: section we set up problem derive its dual discuss properties solution how heavily weight symbol norm penalty our problem
+OWNX--: section we present provably convergent block coordinate descent algorithm interpreted recursive symbol norm penalized regression
+AIMX--: section we present second alternative algorithm based nesterov s recent work non smooth optimization give rigorous complexity analysis better dependence problem size than interior point methods
+OWNX--: section we show algorithms we developed gaussian case also used solve approximate sparse maximum likelihood problem multivariate binary data using log determinant relaxation log partition function given citation
+OWNX--: section we test our methods synthetic well gene expression senate voting records data

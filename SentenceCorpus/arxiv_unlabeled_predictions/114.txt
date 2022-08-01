@@ -1,0 +1,94 @@
+OWNX--: we consider framework stochastic multi armed bandit problems study possibilities
+MISC--: limitations forecasters perform line exploration arms
+MISC--: forecasters assessed terms their simple regret regret
+MISC--: notion captures fact exploration only constrained number
+MISC--: available rounds not necessarily known advance contrast case when cumulative
+MISC--: regret considered when exploitation needs performed at same time
+OWNX--: we
+MISC--: believe this performance criterion suited situations when
+MISC--: cost pulling arm expressed terms resources rather than rewards
+OWNX--: we discuss links between simple cumulative regret
+OWNX--: one main results case finite number arms
+MISC--: general lower bound simple regret forecaster terms its
+MISC--: cumulative regret smaller latter larger former
+OWNX--: keeping this result mind
+OWNX--: we then exhibit upper bounds simple regret some forecasters
+AIMX--: paper ends study devoted continuous armed bandit problems
+OWNX--: we show simple regret minimized respect family probability
+MISC--: distributions if only if cumulative regret
+MISC--: minimized
+OWNX--: based this equivalence we able prove separable metric spaces
+MISC--: exactly metric spaces
+MISC--: regrets minimized
+MISC--: respect family all probability distributions continuous mean payoff functions
+MISC--: learning processes usually face exploration versus exploitation
+MISC--: dilemma since they get information environment exploration
+MISC--: able take good actions exploitation
+MISC--: key example
+MISC--: multi armed bandit problem citation sequential decision
+MISC--: problem where at each stage forecaster pull one out
+MISC--: symbol given stochastic arms gets reward drawn at random
+MISC--: according distribution chosen arm
+MISC--: usual assessment criterion forecaster given its cumulative regret
+OWNX--: sum differences between expected reward best arm obtained rewards
+MISC--: typical good forecasters like ucb citation trade off between exploration exploitation
+OWNX--: our setting follows
+MISC--: forecaster may sample arms given number times symbol not necessarily known
+OWNX--: advance then asked output recommended arm
+OWNX--: he evaluated his simple regret difference between
+OWNX--: average payoff best arm average payoff obtained his recommendation
+MISC--: distinguishing feature classical multi armed bandit problem
+OWNX--: exploration phase evaluation phase separated
+OWNX--: we now illustrate why this natural framework numerous applications
+OWNX--: historically first occurrence multi armed bandit problems was given medical trials
+MISC--: case severe disease ill patients only included trial
+MISC--: cost picking wrong treatment
+MISC--: high associated reward would equal large negative value
+MISC--: important minimize cumulative regret since test
+MISC--: cure phases coincide
+CONT--: however cosmetic products there exists test phase separated
+MISC--: commercialization phase one aims at minimizing regret commercialized product rather
+MISC--: than cumulative regret test phase irrelevant here several formul ae cream considered some quantitative measurement like
+MISC--: skin moisturization performed
+MISC--: medskip
+OWNX--: pure exploration problem addresses design strategies making best possible use available numerical
+MISC--: resources e g cpu time order optimize performance some decision making task
+MISC--: occurs situations preliminary exploration phase
+MISC--: costs not measured terms rewards but rather terms resources come limited budget
+MISC--: motivating example concerns recent works computer go e g mogo program citation
+MISC--: given time i e given amount cpu times given player
+MISC--: explore possible outcome sequences plays output final decision
+OWNX--: efficient exploration search space obtained considering hierarchy
+MISC--: forecasters minimizing some cumulative regret see instance
+MISC--: uct strategy citation bast strategy citation
+MISC--: however cumulative regret does not seem right
+OWNX--: way base strategies since simulation costs same exploring all
+MISC--: options bad good ones
+MISC--: this observation
+MISC--: was actually starting point notion simple regret this work
+MISC--: final related example maximization some function symbol observed noise see eg citation
+MISC--: whenever evaluating symbol at point costly e g terms numerical financial costs
+MISC--: issue choose adequately possible where query value this function
+MISC--: order good approximation maximum
+MISC--: pure exploration problem considered here addresses exactly design adaptive exploration strategies
+CONT--: making best use available resources order make most precise prediction
+MISC--: once all resources consumed
+OWNX--: remark also turns out all examples considered above
+OWNX--: we may impose further restriction forecaster ignores ahead time
+MISC--: amount available resources time budget number patients included
+OWNX--: we seek anytime performance medskip
+MISC--: problem pure exploration presented above was referred budgeted multi armed bandit problem
+MISC--: open problem citation where however another notion regret than simple regret considered
+OWNX--: pure exploration problem was solved minmax sense case two arms
+MISC--: only rewards given probability distributions over symbol citation
+MISC--: related setting considered citation citation where
+MISC--: forecasters perform exploration during random number
+OWNX--: rounds symbol aim at identifying symbol best arm
+MISC--: articles study possibilities
+MISC--: limitations policies achieving this goal overwhelming symbol probability
+MISC--: indicate particular upper lower bounds expectation symbol
+MISC--: another related problem identification best arm high probability
+MISC--: however this binary assessment criterion forecaster either right wrong
+OWNX--: recommending arm does not capture possible closeness performance recommended arm compared optimal one
+MISC--: simple regret does
+CONT--: moreover unlike latter this criterion not suited distribution free analysis

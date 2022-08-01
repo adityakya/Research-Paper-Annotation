@@ -1,0 +1,24 @@
+MISC--: statistical problems set parameterized probability distributions used estimate true probability distribution
+OWNX--: if fisher information matrix at true distribution singular then been left unknown what we estimate about true distribution random samples
+AIMX--: this paper we study singular regression problem prove limit theorem shows relation between singular regression problem two birational invariants real log canonical threshold singular fluctuation
+MISC--: obtained theorem important application statistics because enables us estimate generalization error training error without any knowledge true probability distribution
+OWNX--: let symbol symbol natural numbers symbol symbol symbol symbol dimensional real euclidean spaces respectively
+MISC--: assume symbol probability space symbol symbol valued random variable subject simultaneous probability density function symbol where symbol probability density function symbol symbol constant symbol measurable function symbol symbol symbol euclidean norm symbol
+MISC--: function symbol called regression function symbol
+MISC--: assume symbol set random variables independently subject same probability distribution symbol
+MISC--: let symbol subset symbol
+MISC--: let symbol function symbol symbol
+MISC--: square error symbol real function symbol symbol expectation operator symbol symbol defined symbol where symbol measurable function symbol probability density function symbol symbol constant called inverse temperature
+MISC--: note symbol not constant but random variable because symbol depends random variables
+MISC--: two random variables symbol symbol defined symbol random variables symbol symbol called generalization training errors respectively
+MISC--: since symbol expected some natural conditions both symbol symbol converge symbol when symbol tends infinity if there exists symbol symbol
+AIMX--: this paper we ask how fast convergences other words our study concerns limit theorem shows convergences symbol symbol when symbol
+MISC--: if fisher information matrix symbol where symbol positive definite arbitrary symbol then this problem well known regular regression problem
+MISC--: fact regular regression problem convergences symbol symbol hold
+MISC--: however if symbol singular say if symbol then problem called singular regression problem convergences symbol symbol been left unknown
+MISC--: general been difficult study limit theorem case when fisher information matrix singular
+MISC--: however recently we shown limit theorem established based resolution singularities there mathematical relations between limit theorem two birational invariants singular density estimation citation
+AIMX--: this paper we prove new limit theorem singular regression problem enables us estimate birational invariants random samples
+MISC--: limit theorem proved this paper important application statistics because expectation value generalization error symbol estimated training error symbol without any knowledge true probability distribution vskip mm example let symbol symbol symbol symbol
+MISC--: if function symbol defined symbol symbol then set symbol not one point fisher information matrix at symbol singular
+OWNX--: lot functions used statistics information science brain informatics bio informatics singular example artificial neural networks radial basis functions wavelet functions

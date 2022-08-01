@@ -1,0 +1,35 @@
+AIMX--: this paper we propose method learns play pac man
+OWNX--: we define set high level observation action modules
+MISC--: actions temporally extended multiple action modules may effect concurrently
+MISC--: decision agent represented rule based policy
+OWNX--: learning we apply cross entropy method recent global optimization algorithm
+MISC--: learned policies reached better score than hand crafted policy neared score average human players
+MISC--: we argue learning successful mainly because i policy space includes combination individual actions thus sufficiently rich ii search biased towards low complexity policies low complexity solutions found quickly if they exist
+OWNX--: based principles we formulate new theoretical framework found appendix supporting material
+MISC--: during last two decades reinforcement learning reached mature state been laid solid foundations
+MISC--: we large variety algorithms including value function based direct policy search hybrid methods citation
+MISC--: basic properties many algorithms relatively well understood e g conditions convergence complexity effect various parameters etc although needless say there still lots important open questions
+MISC--: there also plenty test problems like various maze navigation tasks pole balancing car hill etc capabilities rl algorithms been demonstrated number successful large scale rl applications also growing steadily
+MISC--: however there still sore need more successful applications validate place rl major branch artificial intelligence
+OWNX--: we think games including diverse set classical board games card games modern computer games etc ideal test environments reinforcement learning
+MISC--: games intended interesting challenging human intelligence therefore they ideal means explore what artificial intelligence still missing
+MISC--: furthermore most games fit well into rl paradigm they goal oriented sequential decision problems where each decision long term effect
+MISC--: many cases hidden information random events unknown environment known unknown players account part difficulty playing game
+MISC--: circumstances focus reinforcement learning idea
+MISC--: they also attractive testing new methods decision space huge most cases so finding good strategy challenging task
+CONT--: there another great advantage games test problems rules games fixed so danger tailoring task algorithm i e tweak rules environment so they meet capabilities proposed rl algorithm reduced compared eg various maze navigation tasks
+MISC--: rl been tried many classical games including checkers citation backgammon citation chess citation
+MISC--: other hand modern computer games got into spotlight only recently there not very many successful attempts learn them ai tools
+MISC--: notable exceptions eg role playing game baldur s gate citation real time strategy game wargus citation possibly tetris citation
+MISC--: games also interesting point view rl they catch different aspects human intelligence instead deep wide logical deduction chains most modern computer games need short term strategies but many observations considered parallel both observation space action space huge
+OWNX--: this spirit we decided investigate arcade game pac man
+OWNX--: game interesting its own largely unsolved but also imposes several important questions rl we will overview section
+OWNX--: we will show hybrid approach more successful than either tabula rasa learning hand coded strategy alone
+OWNX--: we will provide hand coded high level actions observations task rl learn how combine them into good policy
+MISC--: we will apply rule based policies because they easy interpret easy include human domain knowledge
+OWNX--: learning we will apply cross entropy method recently developed general optimization algorithm
+OWNX--: next section we overview pac man game related literature
+OWNX--: we also investigate emerging questions upon casting this game reinforcement learning task
+OWNX--: sections we give short description rule based policies cross entropy optimization method respectively
+OWNX--: section we describe details learning experiments section we present our results
+OWNX--: finally section we summarize discuss our approach emphasis its implications other rl problems

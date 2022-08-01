@@ -1,0 +1,68 @@
+MISC--: real time object detection many applications video surveillance teleconference multimedia retrieval etc
+MISC--: since viola jones citation proposed first real time adaboost based face detection system much effort been spent improving boosting method
+OWNX--: this work we first show feature selection methods other than boosting also used training efficient object detector
+MISC--: particular we introduce greedy sparse linear discriminant analysis gslda citation its conceptual simplicity computational efficiency slightly better detection performance achieved compared citation
+OWNX--: moreover we propose new technique termed boosted greedy sparse linear discriminant analysis bgslda efficiently train detection cascade
+MISC--: bgslda exploits sample re weighting property boosting class separability criterion gslda
+MISC--: experiments domain highly skewed data distributions eg face detection demonstrates classifiers trained proposed bgslda outperforms adaboost its variants
+OWNX--: this finding provides significant opportunity argue adaboost similar approaches not only methods achieve high classification results high dimensional data object detection
+MISC--: ieeeparstart r eal time objection detection face detection numerous computer vision applications eg intelligent video surveillance vision based teleconference systems content based image retrieval
+MISC--: various detectors been proposed literature citation
+OWNX--: object detection challenging due variations visual appearances poses illumination conditions
+OWNX--: furthermore object detection highly imbalanced classification task
+MISC--: typical natural image contains many more negative background patterns than object patterns
+MISC--: number background patterns symbol times larger than number object patterns
+MISC--: means if one wants achieve high detection rate together low false detection rate one needs specific classifier
+MISC--: cascade classifier takes this imbalanced distribution into consideration citation
+MISC--: because huge success viola jones real time adaboost based face detector citation lot incremental work been proposed
+MISC--: most them focused improving underlying boosting method accelerating training process
+MISC--: example asymboost was introduced citation alleviate limitation adaboost context highly skewed example distribution
+MISC--: li citation proposed floatboost better detection accuracy introducing backward feature elimination step into adaboost training procedure
+MISC--: wu citation used forward feature selection fast training ignoring re weighting scheme adaboost
+OWNX--: another technique based statistics weighted input data was used citation even faster training
+MISC--: klboost was proposed citation train strong classifier
+MISC--: weak classifiers klboost based histogram divergence linear features
+MISC--: therefore detection phase not efficient haar like features
+MISC--: notice klboost classifier design separated feature selection
+BASE--: this work part was published preliminary form citation we propose improved learning algorithm face detection dubbed boosted greedy sparse linear discriminant analysis bgslda
+MISC--: viola jones citation introduced framework selecting discriminative features training classifiers cascaded manner shown fig
+MISC--: cascade framework allows most non face patches rejected quickly before reaching final node resulting fast performance
+MISC--: test image patch reported face only if passes tests all nodes
+MISC--: this way most non face patches rejected early nodes
+MISC--: cascade detectors lead very fast detection speed high detection rates
+OWNX--: cascade classifiers also been used context support vector machines svms faster face detection citation
+MISC--: citation soft cascade developed reduce training design complexity
+MISC--: idea was further developed citation
+OWNX--: we followed viola jones original cascade classifiers this work
+CONT--: one issue contributes efficacy system comes use adaboost algorithm training cascade nodes
+OWNX--: adaboost forward stage wise additive modeling weighted exponential loss function
+OWNX--: algorithm combines ensemble weak classifiers produce final strong classifier high classification accuracy
+MISC--: adaboost chooses small subset weak classifiers assign them proper coefficients
+MISC--: linear combination weak classifiers interpreted decision hyper plane weak classifier space
+OWNX--: proposed bgslda differs original adaboost following aspects
+MISC--: instead selecting decision stumps minimal weighted error adaboost proposed algorithm finds new weak leaner maximizes class separability criterion
+MISC--: result coefficients selected weak classifiers updated repetitively during learning process according this criterion
+OWNX--: our technique differs citation following aspects
+MISC--: citation proposed concept linear asymmetric classifier lac addressing asymmetries asymmetric node learning goal cascade framework
+CONT--: unlike our work where features selected based linear discriminant analysis lda criterion citation selects features using adaboost symbol asymboost algorithm
+MISC--: given selected features wu then build optimal linear classifier node learning goal using lac lda
+MISC--: note similar techniques also been applied neural network
+MISC--: citation nonlinear adaptive feed forward layered network linear output units been introduced
+MISC--: input data nonlinearly transformed into space classes separated more easily
+MISC--: since lda considers number training samples each class applying lda at output neural network hidden units been shown increase classification accuracy two class problem unequal class membership
+AIMX--: our experiments show terms feature selection proposed bgslda methods superior than adaboost asymboost object detection key contributions this work follows
+OWNX--: we introduce gslda alternative approach training face detectors
+OWNX--: similar results obtained compared viola jones approach
+OWNX--: we propose new algorithm bgslda combines sample re weighting schemes typically used boosting into gslda
+OWNX--: experiments show bgslda achieve better detection performances
+OWNX--: we show feature selection classifier training techniques different objective functions other words two processes separated context training visual detector
+MISC--: this offers more flexibility even better performance
+MISC--: previous boosting based approaches select features train classifier simultaneously
+OWNX--: our results confirm beneficial consider highly skewed data distribution when training detector
+MISC--: lda s learning criterion already incorporates this imbalanced data information
+OWNX--: hence better than standard adaboost s exponential loss training object detector
+AIMX--: remaining parts paper structured follows
+OWNX--: section gslda algorithm introduced alternative learning technique object detection problems
+OWNX--: we then discuss how lda incorporates imbalanced data information when training classifier section
+MISC--: then sections proposed bgslda algorithm described training time complexity discussed
+OWNX--: experimental results shown section paper concluded section

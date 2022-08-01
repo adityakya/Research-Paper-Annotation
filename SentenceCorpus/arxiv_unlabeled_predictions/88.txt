@@ -1,0 +1,16 @@
+OWNX--: we show brier game prediction mixable find optimal learning rate substitution function
+OWNX--: resulting prediction algorithm applied predict results football tennis matches
+OWNX--: theoretical performance guarantee turns out rather tight data sets especially case more extensive tennis data
+MISC--: paradigm prediction expert advice was introduced late s see eg citation citation citation been applied various loss functions see citation recent book length review
+MISC--: especially important class loss functions mixable ones learner s loss made small best expert s loss plus constant depending number experts
+CONT--: known citation optimal additive constant attained strong aggregating algorithm proposed citation we use adjective strong distinguish weak aggregating algorithm citation
+MISC--: there several important loss functions been shown mixable optimal additive constant been found
+MISC--: prime examples case binary observations log loss function square loss function
+MISC--: log loss function whose mixability obvious been explored extensively along its important generalizations kullback leibler divergence cover s loss function
+AIMX--: this paper we concentrate square loss function
+MISC--: binary case its mixability was demonstrated citation
+MISC--: there two natural directions this result could generalized regression observations real numbers square loss regression standard problem statistics classification observations take values finite set this leads brier game defined below standard way measuring quality predictions meteorology other applied fields see eg citation
+MISC--: mixability square loss function case observations belonging bounded interval real numbers was demonstrated citation haussler et al s algorithm was simplified citation
+MISC--: surprisingly case square loss non binary classification never been analysed framework prediction expert advice
+AIMX--: purpose this paper fill this gap
+MISC--: its short conference version citation appeared icml proceedings

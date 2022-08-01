@@ -1,0 +1,47 @@
+MISC--: membrane fusion critical biological processes viral infection endocrine hormone secretion neurotransmission yet precise mechanistic details fusion process remain unknown
+MISC--: current experimental computational model systems approximate complex physiological membrane environment fusion using one few protein lipid species
+AIMX--: here we report results computational model system fusion ratio lipid components was systematically varied using thousands simulations up microsecond length predict effects lipid composition both fusion kinetics mechanism
+OWNX--: our simulations increased phosphatidylcholine content vesicles causes increased activation energies formation initial stalk like intermediate fusion hemifusion intermediates accordance previous continuum mechanics theoretical treatments
+OWNX--: we also use our large simulation dataset quantitatively compare mechanism vesicles fuse at different lipid compositions showing significant difference fusion kinetics mechanism at different compositions simulated
+OWNX--: physiological membranes different compositions inner outer leaflets we examine effect asymmetry well effect membrane curvature fusion
+OWNX--: predicted effects lipid composition fusion mechanism both underscore way experimental model system construction may affect observed mechanism fusion illustrate potential mechanism cellular regulation fusion process altering membrane composition
+OWNX--: membrane fusion plays key role cellular function allowing processes diverse neurotransmitter release secretion peptide hormones infection enveloped viruses
+MISC--: fusion also critical allowing intracellular transport
+MISC--: cellular membranes participating fusion reactions contain complex mixtures lipids proteins
+MISC--: composition potentially organization mixtures both variable closely regulated cell citation citation
+MISC--: variety experimental computational model systems citation citation been used gain insight into basic physical properties underlying membrane fusion
+MISC--: model systems necessity much simpler nature than physiologic context fusion containing one few lipid species omitting simplifying protein environment
+MISC--: designing interpreting model systems fusion important consider how variations lipid mixtures chosen may affect results
+OWNX--: investigating how changes lipid composition affect kinetics mechanism fusion also provides fundamental insight illuminating aspects fusion robust small perturbations model system used highly model dependent
+MISC--: experimental data lipid vesicle fusion indicate variation lipid composition plays important role determining fusogenicity
+MISC--: much initial work concentrated effects fusion lipids prefer either positive negative membrane curvature citation citation
+MISC--: perhaps most extensively characterized association between increased fusogenicity increased fraction phosphatidylethanolamine citation lipid headgroup thought promote negative membrane curvature
+MISC--: plasma membranes fusogenic contexts ratio phosphatidylcholine pe headgroups measured at between citation citation
+MISC--: presence pe been identified critical factor fusion citation citation many systems used develop structural models fusion intermediates contain substantially higher proportion pe than physiologic levels citation citation citation
+MISC--: similarly theoretical treatments proposed fusion intermediates suggest pe important energetic favorability stalk like state been proposed early fusion intermediate citation citation citation citation
+MISC--: other lipid species likely play additional modulatory role fusion pc pe ratio physiological membranes also varies independently inner outer leaflets citation citation
+AIMX--: this work we examine effect pc pe ratio first order approximation lipid composition effects we first treat uniform composition inner outer membrane leaflets then examine asymmetric compositions
+MISC--: membrane curvature long been believed important modulator fusion process
+MISC--: simply conceived curvature strain highly curved membrane provide driving force reduces energetic barrier fusion process
+MISC--: most physiological fusion occurs between membranes relatively large radius curvature even concave relative fusion site
+MISC--: however local curvature at site fusion been subject much discussion several theories positing membrane protrusion high local curvature at site fusion citation citation
+MISC--: recent experimental evidence suggests synaptotagmin one neuronal fusion proteins preferentially binds curved membranes induces tubulation model membranes diameter nm accelerates vesicle fusion rates citation
+AIMX--: this important finding provides more direct evidence highly curved membrane structures we simulate here may play important role physiological fusion induction curvature may major function fusion protein apparatus
+CONT--: possibility physiological fusion may involve highly curved membranes raises questions what degree this curvature required fusion how curvature may differentially affect formation stability fusion intermediates
+OWNX--: here we report initial results regard we refer reader forthcoming work lee schick more extensive investigation this phenomenon field theoretic perspective
+MISC--: because structures detailed kinetics fusion intermediates difficult observe experimentally computational simulations fusion play important role generating detailed structural kinetic models fusion consistent available experimental data
+MISC--: coarse grained simulations allow substantial increase computational tractability at expense some fidelity experiment degree fidelity varies particular approximations made constructing model
+MISC--: lipid model developed marrink mark citation provides quantitative approximation experimentally observable lipid parameters area per head group diffusion bilayer width represents good compromise between computational tractability level atomistic detail
+OWNX--: initial results reported membrane fusion this model citation demonstrate fusogenicity nm vesicles composed either pure palmitoyloleoyl pe dipalmitoyl pc dipalmitoyl pe mixture also observing faster fusion pore formation dppc dppe mixture than pure pope
+OWNX--: simulated pure dppc vesicles were not observed form fusion pores
+OWNX--: subsequent work we used this marrink mark coarse grained model systematically predict intermediates kinetics fusion small pope vesicles citation
+OWNX--: our simulations suggested branching fusion pathway vesicles first react form stalk like intermediate but then either rapidly form fusion pore stalk like state fuse via intermediate expanded hemifusion diaphragm metastable microsecond timescale
+OWNX--: previous theoretical work suggested two pathways alternative hypotheses we predicted pathways may coexist within single system
+OWNX--: our initial report we predicted pure pope vesicles react via both pathways but primarily undergo fusion via late hemifused intermediate using indirect pathway
+AIMX--: we now extend this model address how more complex mixtures lipids may affect reaction mechanism kinetics fusion
+MISC--: physiologic membrane fusion takes place membranes consisting complex citation citation citation likely inhomogeneous citation citation mixture multiple lipid species proteins
+MISC--: experimental computational model systems fusion far simpler containing well defined lipid mixtures case computational studies single component membranes routinely used citation citation citation
+OWNX--: given this gap complexity between model systems used mechanistic studies fusion physiologic situation they meant reproduce we wish understand how fusion mechanisms properties depend membrane composition
+AIMX--: we therefore performed thousands simulations vesicle fusion at different lipid compositions systematically predict how membrane fusion kinetics intermediates depend lipid composition
+MISC--: this molecular dynamics approach yields similar results those recently obtained using self consistent field theory methods citation
+OWNX--: our molecular dynamics analyses field theoretic results schick coworkers prior continuum mechanics work kozlov expand computational models more complex membrane compositions better approximate experimental models physiologic scenarios

@@ -1,0 +1,38 @@
+OWNX--: we present molecular dynamics simulations unliganded human hemoglobin under physiological conditions starting r r t state
+OWNX--: simulations were carried out protonated deprotonated hc histidines his they sum up total length s we observe spontaneous reproducible t r quaternary transitions hb tetramer tertiary transitions subunits detected principal component projections rmsd measure rigid body rotation analysis
+MISC--: simulations reveal marked asymmetry between subunits
+MISC--: using mutual information correlation measure we find subunits substantially more strongly linked quaternary transition than subunits
+OWNX--: addition tertiary populations subunits differ substantially subunits showing tendency towards r subunits showing tendency towards t based simulation results we present transition pathway coupled quaternary tertiary transitions between r t conformations hb
+MISC--: conformational transitions allosteric proteins fundamental variety biological functions
+MISC--: instance quaternary transitions hemoglobin give rise cooperativity ligand binding therefore drawn extensive ongoing scientific interest over many decades citation citation
+MISC--: end points quaternary transition hb referred deoxy t state oxy r state hb characterized low high oxygen affinity respectively citation cooperativity ligand binding originates dependence quaternary population number liganded subunits citation
+OWNX--: oxygen affinity hb decreases lower ph phenomenon referred alkaline bohr effect
+MISC--: approximately percent bohr effect been attributed protonation terminal his residues subunits also denoted hc histidines citation
+MISC--: stereochemical explanation hb cooperativity characterization transition pathway were originally based hbco deoxyhb crystal structures corresponding r t state respectively
+MISC--: according structures transition mainly described rotation dimer respect dimer citation citation
+MISC--: later second quaternary structure liganded hb termed r was found citation larger distance between centers mass two subunits compared r structure
+MISC--: differences between r r at interface triggered still unresolved discussion whether r stable intermediate r r t pathway citation citation
+MISC--: nmr experiments indicate liganded hb solution equilibrium between r r structures citation
+MISC--: more recently two additional liganded hb structures rr r were found using high salt crystallization conditions perutz citation emphasizing consensus view liganded hb state solution far being reached
+OWNX--: rr represents intermediate structure between r r whereas distance between coms two subunits reduced r compared r structure
+MISC--: extensive efforts aimed identify transition pathway hb response ligand dissociation citation
+MISC--: kinetics r t transition after photodissociation co adduct hbco been studied using time resolved spectroscopic techniques including absorption citation raman citation citation circular dichroism spectroscopy citation citation
+MISC--: picture derived experiments suggests multistep r t pathway via several metastable intermediates relaxation rates ranging tens nanoseconds tens microseconds time constant s overall r t quaternary transition citation
+MISC--: experiments provide extremely valuable insights into kinetics hb but they also bear limitations
+MISC--: they do not directly detect global quaternary transitions but mainly measure formation hydrogen bonds aromatic residues trp asp tyr asp h bonds must interpreted terms conformational transitions
+MISC--: full atomistic picture r t transition could so far exclusively derived mollusk dimeric hemoglobin using time resolved x ray crystallography citation
+MISC--: experiments provide ensemble averaged picture whereas hb may follow heterogeneous transition pathways may not fully reflected spectra
+MISC--: furthermore contrast well studied r t transition little known about kinetics t r transition because transition cannot triggered photolysis
+CONT--: molecular dynamics simulations provide full atomistic picture hb therefore well suited complement experimental efforts
+MISC--: early md efforts focused photodissociation co citation were restricted dynamic treatment subset hb residues citation
+MISC--: ramadas rifkind considered response hb perturbation heme several ps time scale citation mouawad coworkers enforced quaternary transitions within ps using technique called path exploration method citation
+OWNX--: addition set md simulation up ns were carried out focus mechanism effectors citation
+MISC--: recently single ns simulation hb was published without observing any conformational transitions citation
+MISC--: complementary md studies normal mode analysis considered collective motions intrinsic hb tetramer citation elastic network study suggested t r transition preferential quaternary transition pathway citation
+CONT--: so far no spontaneous quaternary tertiary transitions hb were observed during md simulations presumably since previous simulations were restricted too short time scales
+OWNX--: here we apply extensive md simulations investigate deoxy r r t state human
+OWNX--: we observe first time spontaneous reproducible quaternary transitions hb well tertiary transitions subunits
+MISC--: hence simulations allow one study transition mechanism atomistic detail
+OWNX--: we find t r pathway primary quaternary transition pathway
+MISC--: analyzing repeated t r transitions we find marked asymmetry between subunits
+OWNX--: based simulation results we present schematic mechanism underlying preferential transition pathway between r t states hemoglobin

@@ -1,0 +1,99 @@
+AIMX--: chelt cholera like toxin vibrio cholerae certhrax anthrax like toxin bacillus cereus among six new bacterial protein toxins we identified characterized using silico cell based techniques
+OWNX--: we also uncovered medically relevant toxins mycobacterium avium enterococcus faecalis
+OWNX--: we found agriculturally relevant toxins photorhabdus luminescens vibrio splendidus
+MISC--: toxins belong adp ribosyltransferase family conserved structure despite low sequence identity
+AIMX--: therefore our search new toxins combined fold recognition rules filtering sequences including primary sequence pattern reduce reliance sequence identity identify toxins using structure
+OWNX--: we used computers build models analyzed each new toxin understand features including structure secretion cell entry activation nad substrate binding intracellular target binding reaction mechanism
+OWNX--: we confirmed activity using yeast growth test
+AIMX--: this era where expanding protein structure library complements abundant protein sequence data we need high throughput validation our approach provides insight into newest toxin adp ribosyltransferases
+MISC--: sequence data over genome projects available through genomes online database citation more than protein structures protein data bank
+CONT--: while sequences represent large diversity limited number possible folds estimated at citation helps researchers organize sequences structure
+MISC--: single fold performs limited number functions between average citation
+MISC--: therefore structure knowledge helps pinpoint function
+MISC--: researchers combining sequence structure data expand protein families mono adp ribosyltransferase protein toxins participate human diseases including diphtheria cholera whooping cough citation
+MISC--: adp ribosylation post translational modification plays role many settings citation
+MISC--: adp ribosyltransferases bind nad covalently transfer single poly adp ribose macromolecule target usually protein changing its activity
+MISC--: many prokaryotic adprt toxins damage host cells mono adp ribosylating intracellular targets
+MISC--: g proteins common targets including eukaryotic elongation factor elongation factor thermo unstable ras rho gs
+MISC--: other targets include actin citation kinase regulators citation rna recognition motifs citation
+MISC--: researchers use adprt toxins develop vaccines citation drug targets kill cancer cells citation stent coatings prevent restenosis after angioplasty citation insecticides deliver foreign proteins into cells using toxin receptor binding membrane translocation domains study cell biology citation citation understand adp ribosylation reaction identify biosecurity risks
+MISC--: adprts occur viruses prokaryotes archaea eukaryotes
+MISC--: genomes acquire them through horizontal gene transfer citation citation
+MISC--: several authors reviewed prokaryotic adprt family citation citation citation
+OWNX--: examples include pseudomonas aeruginosa exoenzyme s vibrio cholerae cholera toxin bordetella pertussis pertussis toxin corynebacterium diphtheriae diphtheria toxin
+MISC--: toxic adprts divided into ct dt groups better organize family
+OWNX--: we focus ct group we divide into exos like c like c like ct pt like toxins
+MISC--: ct group primary sequences related through specific structure linked pattern citation
+MISC--: adprt pattern updated previous reports citation citation written regular expression formula
+MISC--: toxin catalytic domain consists several regions
+BASE--: we describe them here going n c terminus using previously introduced nomenclature citation citation
+MISC--: region sometimes present recognizes substrate when exot recognizes crk example
+MISC--: its recognition exot targets exception rather than general rule adprts
+MISC--: except ct pt like subgroup region b active site loop flanked two helices appears early toxin sequence
+MISC--: stabilizes catalytic glu binds nicotinamide ribose adenine phosphate
+MISC--: also stabilizes target substrate helps specific bonds rotate during adprt reaction turn helping bring nucleophile electrophile together reaction
+MISC--: region at end sheet sequence pattern yfl rx
+MISC--: important binding phosphate nicotinamide phosphate nicotinamide adenine ribose target substrate
+MISC--: region f follows region sometimes recognizes substrate
+MISC--: region follows sheet sequence pattern yf x s t sqt
+MISC--: binds adenine positions catalytic glu orients adp ribosyl turn turn loop maintains active site integrity
+OWNX--: phosphate nicotinamide loop immediately after sts motif
+OWNX--: interacts target binds n phosphate
+MISC--: menetrey et al suggested pn loop flexible implicated locking nicotinamide place during reaction citation
+MISC--: region consists artt loop leading into sheet pattern qe x e
+OWNX--: recognizes stabilizes target binds n ribose create strained nad conformation
+MISC--: artt loop plastic having both out forms might aid substrate recognition citation
+MISC--: fas region mediates activator binding when present citation citation citation citation
+MISC--: researchers long debated adprt reaction details
+MISC--: some suggest s n mechanism citation citation but many now favor s n mechanism citation citation
+BASE--: tsuge et al recently devised specific version this mechanism iota toxin we follow closely this work citation citation
+MISC--: reaction follows three steps toxin cleaves nicotinamide form oxacarbenium ion oxacarbenium o d p n bond rotates relieve strain forms second ionic intermediate
+OWNX--: finally target makes nucleophilic attack second ionic intermediate
+MISC--: s n mechansim believed widely applicable ct group toxins template new toxins given historical structure similarity consistent nad conformation active site shown figures
+MISC--: quaternary structure toxins wide ranging
+MISC--: several combinations exist toxin domains receptor binding membrane translocation domains
+MISC--: b domains diverse structures functions exist fusions separate polypeptides
+OWNX--: various formats include only two domain ab three domain ab ab
+MISC--: c like toxins only
+MISC--: exos like toxins toxic domains often paired rho gtpase activating protein not true b domains
+MISC--: c like toxins ab toxins contain b domains structural duplicates domain
+MISC--: b domains not toxins they bind proteins similar anthrax protective antigen including vip c ii iota ib citation citation
+MISC--: dt group toxins three domain single polypeptide ab toxins where b domain contains both receptor binding membrane translocation domain
+MISC--: ct pt like toxins ab b domains form receptor binding pentamer citation
+MISC--: low overall sequence identity hampers conventional sequence based homology searches citation citation citation citation
+MISC--: one challenge key filling gaps toxin family link new sequences known toxins
+MISC--: depending only amino acid sequence alignment techniques discover new toxins imprudent
+MISC--: instead trend use more structure information search because many primary sequences produce same fold citation
+MISC--: researchers then link sequences through fold recognition citation
+MISC--: otto et al used psi blast identify new adprt toxins including spvb salmonella enterica citation
+MISC--: more recently similar strategy yielded potential new toxins citation
+MISC--: this led interesting examples later characterized including cards toxin mycoplasma pneumonia citation spya streptococcus pyogenes citation hopu pseudomonas syringae citation
+MISC--: psi blast classic way expand protein families but limits
+MISC--: example unrelated sequences often capture search
+MISC--: also nearly decade passed since pallen et al released last detailed data mining results toxin family citation
+MISC--: sequence structure databases remote homolog detection tools advanced during this time
+MISC--: masignani et al proposed match between conserved adprt pattern corresponding secondary structure one way reduce dependence sequence identity
+MISC--: pattern helps ensure function reduces total sequence set smaller subset screening secondary structure prediction ensures key active site parts present citation
+OWNX--: our contribution expand adprt toxin family using new approach
+OWNX--: difference we use fold recognition searches extensively rather than relying psi blast secondary structure prediction
+OWNX--: our genomic data mining combines pattern structure based searches
+OWNX--: bioinformatics toolset allows us discover new toxins classify rank them assess their structure function
+MISC--: often data mining studies simply present table hits aligned sequences but do not interpret analyze those hits detail
+OWNX--: our aim rather than explicitly confirm roles six proteins domains loops residues discussed develop theoretical framework understanding new toxins based s s jobs per sequence
+OWNX--: we intend our silico approach guide complement rather than replace follow up vitro vivo studies
+AIMX--: here we extract features patterns known adprt toxins explain how they fit new toxins
+OWNX--: we use silico methods probe structure secretion cell entry activation nad substrate binding intracellular target binding reaction mechanism
+MISC--: computer approach fitting several reasons
+OWNX--: environment safe way study new toxins
+MISC--: challenges cloning expressing purifying crystallizing often prevent vitro characterization
+OWNX--: also adprts abundant within bacterial genomes researchers make sequences available faster than we conduct biochemical studies
+MISC--: new toxins might play role current outbreaks also excellent drug targets against antibiotic resistance
+OWNX--: our new study design expands family percent
+OWNX--: cell based validation complements our silico approach
+AIMX--: we use saccharomyces cerevisiae model host study toxin effects
+MISC--: increasingly researchers turning yeast study bacterial toxins
+MISC--: yeast easy grow well characterized genetics conserved mammals cellular processes including dna rna metabolism signalling cytoskeletal dynamics vesicle trafficking cell cycle control programmed cell death citation citation
+OWNX--: we place toxin genes under control copper inducible promoter test putative toxins adp ribosyltransferase activity live cells citation
+MISC--: growth defective phenotype clearly shows toxicity
+MISC--: substitutions catalytic signature residues confirms adp ribosyltransferase activity causes toxicity
+OWNX--: indeed pairing silico cell based studies helps identify characterize new adprt toxins

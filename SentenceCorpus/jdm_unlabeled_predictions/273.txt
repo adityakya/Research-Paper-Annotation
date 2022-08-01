@@ -1,0 +1,40 @@
+OWNX--: manipulating scale graphs this study demonstrated new evaluation bias caused attribute salience graphical representations
+MISC--: decompressing graph axis scale changed relative distance respect options given attribute thus changed salience information graphical representations
+OWNX--: experiment number showed differences graphical representations had significant impact evaluation
+MISC--: experiment number repeated scale manipulation effect different scenario extended multi options context
+MISC--: experiment number disentangled effect scale distance manipulation other variables e g scale resolution assignment attributes axes further supported finding experiment number
+MISC--: results indicated attribute salience graphical representations clearly affects evaluations graphs manipulated cause very different impressions same data
+MISC--: this finding not consistent axioms normative economic theory
+OWNX--: experiment number also tested attribute importance hypothesis but evidence indicated participants did not regard longer axis more important attribute
+OWNX--: finally we related our findings impact visual processing decision making discussed them perspective two system cognitive theory
+MISC--: people often focus single salient aspect problem overlook rest when making decision
+MISC--: limited focus cause bias decision making process leads results violate axioms normative economic theory
+MISC--: interestingly incidental information e g way preferences elicited wording options could some cases determine information perceived salient thus what people would focus decision making situations
+MISC--: evidence indicated means preference elicitation e g choose vs reject likely shift focus decision makers
+OWNX--: hypothetical sole custody case shafir citation found people who had option choose tended focus parents positive attributes whereas people who were asked reject tended focus parents negative attributes
+MISC--: result preference reversal occurs when same enriched option was majority choice both choosing rejecting
+MISC--: line this focusing view jones frisch yurak kim citation reported interesting framing effect caused description options
+MISC--: when decision was described choice e g should i move new york stay chicago
+MISC--: people paid equal attention each options
+MISC--: however when same decision was described opportunity e g should i move new york
+MISC--: people focused their attention single option was explicitly mentioned
+MISC--: thus preference was changed when opportunity description made single option more salient
+MISC--: levin citation levin gaeth citation evaluated associative effects various ways framing consumer information found consumers evaluations were more favorable toward beef labeled number percent lean than labeled number percent fat because information about lean percentage was salient former but not latter
+MISC--: kahneman tversky citation found there was pseudo certainty effect two stage risky choice showing individuals tended neglect earlier contingency only focus second contingent decision
+MISC--: recently li su sun citation reported similar pseudo immediacy effect two stage intertemporal choice
+MISC--: interestingly people also tend make biased spatial judgments result focusing only most salient aspects spatial stimuli ignoring other dimensions
+MISC--: example piaget citation found children appeared use only height container when making volume judgments ignored diameter cylinder
+MISC--: raghubir krishna citation even found similar results adults
+MISC--: verge bogartz citation asked children adjust square match area rectangle found majority children tended equate side square either width height rectangle neglect other relevant dimension
+MISC--: similarly raghubir krishna citation found people often use direct distance between endpoints nonstraight path proxy distance judgment little regard path configuration
+MISC--: recent study this direct distance bias was even able found real stock market situation information was presented using graphs
+MISC--: stocks higher run lengths were often perceived riskier citation
+OWNX--: since people often focus most salient aspects spatial judgments tend biased focus attention choice reviewed above we conjectured focusing bias would also appear decision making problems presented graphs if we manipulated graphical representations options
+MISC--: order appreciate significance this manipulation see scholarship problem figures number number same information provided each figure but salience information spatial graphical representation differs function scale employed each graphs
+CONT--: waiting time attribute appears relatively salient figure number whereas money amount attribute appears relatively salient figure number
+MISC--: imagine you applied scholarship
+OWNX--: two types scholarships b were presented graphs involving two attributes money amounts waiting time
+MISC--: obviously you would glad if you could get scholarship less waiting time but more money
+OWNX--: basis following data please indicate your preference strength number point scale ranging number not at all number extremely each type scholarship
+OWNX--: we hypothesized evaluation two types would affected scale employed graphs since people tend focus salient attribute
+MISC--: specifically preference strength type would higher participants who saw figure number than those who saw figure number but reverse would true type b

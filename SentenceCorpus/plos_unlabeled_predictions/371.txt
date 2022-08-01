@@ -1,0 +1,38 @@
+MISC--: advances computational identification functional noncoding polymorphisms will aid cataloging novel determinants health identifying genetic variants explain human evolution
+CONT--: date however development evaluation techniques been limited availability known regulatory polymorphisms
+OWNX--: we attempted address this assembling literature computationally tractable set regulatory polymorphisms within oreganno database
+OWNX--: we further used regulatory single nucleotide polymorphisms this set polymorphisms unknown function kb bp noncoding upstream regions genes investigate discriminatory potential properties related gene regulation population genetics
+MISC--: among most important properties detected this region distance transcription start site local repetitive content sequence conservation minor derived allele frequencies presence cpg island
+OWNX--: we further used entire set properties evaluate their collective performance detecting regulatory polymorphisms
+OWNX--: using fold cross validation approach we were able achieve sensitivity specificity respectively we show this performance strongly influenced distance transcription start site
+OWNX--: our ability identify molecular mechanisms responsible specific genetic traits within our population will enhanced our imminent ability decipher each individual s genome
+MISC--: this evident recent advances sequencing genotyping technologies allow increasing number variants sampled association linkage contribute growing number sources variation their frequencies public databases each year
+OWNX--: new variants identified each becomes molecular window into our past present future each aids tracing our genetic heritage charting footsteps our common evolution possesses potential predict disease drug susceptibilities ideally acting early warning system preventative medical practice
+OWNX--: however our ability catalog genotypes far outstripped our ability implicate them phenotypes
+MISC--: currently more than million unique single nucleotide polymorphisms included version dbsnp citation snps only very small fraction been associated phenotype using genetic association linkage analysis
+MISC--: this because association studies costly time consuming dependent frequency genotype sampled population
+OWNX--: furthermore many snps not necessarily expected function
+MISC--: select candidates functional validation computational methods been developed identify snps alter protein coding structure genes citation citation
+MISC--: types computational methods tend prioritize putative functional snps identifying those snps alter protein s amino acid sequence located within well conserved regions functional protein domains alter biochemical structure protein
+MISC--: however very few methods identify regulatory snps alter expression genes
+MISC--: rsnps been implicated etiology several human diseases including cancer citation citation depression citation systemic lupus erythematosus citation perinatal hiv transmission citation response type interferons citation
+MISC--: this work aims extend computer based techniques identify this particular class functional variants within core promoter regions human genes
+MISC--: conventional computational approaches rsnp classification predominantly relied allele specific differences scoring transcription factor weight matrices supplied databases transfac jaspar citation citation citation
+MISC--: snps located within matrix positions possessing high information content assumed more likely functional
+OWNX--: support this hypothesis date however been restricted single case examples
+OWNX--: furthermore recent study failed detect significant weight matrix signals percent regulatory polymorphisms citation
+CONT--: however prevailing hypothesis computational regulatory element prediction been majority predictions using unrestricted application matrix based approaches false positives
+MISC--: extending this technique using phylogenetic footprinting between mouse human was demonstrated ten snps show significant allele specific differences jaspar predictions seven also demonstrated electrophoretic mobility shift differences citation
+CONT--: however only two seven had marked effect reporter gene assays
+MISC--: conservation alone also been demonstrated poor discriminant function study regulatory polymorphisms eukaryotic promoter database promoters where zero ten experimentally validated regulatory variants were conserved binding sites citation
+MISC--: substantial challenge developing strategies identifying functional noncoding variants been shortage characterized regulatory variants
+OWNX--: few studies successfully identified causative variant after susceptibility haplotype identified
+OWNX--: address this problem we assembled largest openly available collection functional regulatory polymorphisms within oreganno database citation
+OWNX--: this dataset we examined several features snps they relate polymorphisms unknown function within promoter regions associated genes
+MISC--: our hypothesis using combination regulatory population genetics properties discriminative efficacy individual properties evaluated significant predictors rsnp function chosen
+OWNX--: within our assayed set we found best discriminants distance transcription start site local repetitive density content sequence conservation minor allele frequency derived allele frequency cpg island presence
+MISC--: notably unrestricted application matrix based approach demonstrated one least effective classifiers
+OWNX--: we used this dataset rsnps their properties train support vector machine classifier
+OWNX--: two approaches were used train classifier one properties all rsnps were compared all ufsnps one each property value positive snps ufsnps within associated gene were compared average values each property within gene
+CONT--: all approach designed determine if there any properties important across test set while group approach designed determine if there important directional shifts values within promoter may discriminate functional snps ufsnps
+MISC--: fold cross validated test svm achieves receiver operating characteristic value all analysis group analysis

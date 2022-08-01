@@ -1,0 +1,22 @@
+MISC--: impact default options choice reliable well established behavioral finding
+MISC--: however several different effects may lend choosing defaults often indistinguishable manner including loss aversion inattention information leakage transaction costs associated switching
+OWNX--: we introduce notion default pull effect even subtle default options decision makers uncertainty about their own preferences
+MISC--: default pull shapes what decision maker prefers causing her consider whether she prefers default
+OWNX--: we demonstrate default pull effects using simple decision making task strips away many usual reasons defaults could affect choices we show defaults substantial effects choice even when default itself was not chosen
+MISC--: perhaps one most well established behavioral decision making effects effect default options choice
+MISC--: people choose options presented defaults more often than they otherwise would even important decisions would seem require careful thought choosing health care retirement plans citation
+MISC--: but under umbrella default bias several different effects all point direction choosing default
+MISC--: mere inattention could lead some decision makers retain default if action required only when opting out default
+MISC--: loss averse decision makers may not want give up default because feels like loss more painful than gaining different option pleasurable citation
+MISC--: fact someone set option default create information leakage citation people might infer normative reasons choosing default
+MISC--: finally people may choose defaults when there sufficient transaction costs money time choosing alternative
+OWNX--: we examine effect default options choices we call default pull
+MISC--: default pull effect default options decision makers uncertainty about their own preferences
+OWNX--: when deciding what one likes we argue even subtle defaults help shape what decision maker prefers causing her consider whether she prefers default
+MISC--: this process provides link between how defaults influence choices how anchors influence judgments citation
+MISC--: this way default pull effect kind constructed preference citation wherein manner preference elicited influences what one s preferences
+OWNX--: unlike many findings people stick default we show default pull sometimes involves choosing default sometimes involves choosing something different what one otherwise would presence default but not default itself
+BASE--: study default pull we use motivated experimental choice strips away many common reasons why defaults might work modified presentation dictator game citation whatever option top list allocations left selected computer interface ostensibly unintentionally see figure number
+MISC--: this subtle default option substantially affects players choices different defaults change average amount given number percent total endowment
+MISC--: design results our experiment allow us rule out inattention loss aversion information leakage transaction costs explanations effect default
+OWNX--: before we describe specifics task we briefly review literature default biases then formally define default pull

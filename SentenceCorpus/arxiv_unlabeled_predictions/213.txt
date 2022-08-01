@@ -1,0 +1,54 @@
+MISC--: detecting outliers grossly different inconsistent remaining dataset major challenge real world kdd applications
+MISC--: existing outlier detection methods ineffective scattered real world datasets due implicit data patterns parameter setting issues
+OWNX--: we define novel local distance based outlier factor ldof measure outlier ness objects scattered datasets addresses issues
+MISC--: ldof uses relative location object its neighbours determine degree object deviates its neighbourhood
+MISC--: properties ldof theoretically analysed including ldof s lower bound its false detection probability well parameter settings
+OWNX--: order facilitate parameter settings real world applications we employ top symbol technique our outlier detection approach where only objects highest ldof values regarded outliers
+OWNX--: compared conventional approaches top symbol knn top symbol lof our method top symbol ldof more effective at detecting outliers scattered data
+OWNX--: also easier set parameters since its performance relatively stable over large range parameter values illustrated experimental results both real world synthetic datasets
+OWNX--: all data mining techniques vogue outlier detection comes closest metaphor mining nuggets information real world data
+MISC--: concerned discovering exceptional behavior certain objects citation
+MISC--: outlier detection techniques widely been applied medicine e g adverse reactions analysis finance e g financial fraud detection security e g counter terrorism information security e g intrusions detection so
+MISC--: recent decades many outlier detection approaches been proposed broadly classified into several categories distribution based citation depth based citation distance based e g knn citation cluster based e g dbscan citation density based e g lof citation methods
+MISC--: however methods often unsuitable real world applications due number reasons
+MISC--: firstly real world data usually scattered distribution where objects loosely distributed domain feature space
+MISC--: local point view objects cannot represent explicit patterns e g clusters indicate normal data behavior
+MISC--: however global point view scattered objects constitute several mini clusters represent pattern subset objects
+OWNX--: only objects do not belong any other object groups genuine outliers
+MISC--: unfortunately existing outlier definitions depend assumption most objects crowded few main clusters
+MISC--: they incapable dealing scattered datasets because mini clusters dataset evoke high false detection rate low precision
+MISC--: secondly difficult current outlier detection approaches set accurate parameters real world datasets
+MISC--: most outlier algorithms must tuned through trial error citation
+OWNX--: this impractical because real world data usually do not contain labels anomalous objects
+OWNX--: addition hard evaluate detection performance without confirmation domain experts
+MISC--: therefore detection result will uncontrollable if parameters not properly chosen
+MISC--: alleviate parameter setting problem researchers proposed top symbol style outlier detection methods
+OWNX--: instead binary outlier indicator top symbol outlier methods provide ranked list objects represent degree outlier ness each object
+MISC--: users domain experts re examine selected top symbol where symbol typically far smaller than cardinality dataset anomalous objects locate real outliers
+OWNX--: since this detection procedure provide good interaction between data mining experts users top symbol outlier detection methods become popular real world applications
+MISC--: distance based top symbol symbol nearest neighbour distance citation typical top symbol style outlier detection approach
+OWNX--: order distinguish original distance based outlier detection method citation we denote symbol nearest neighbour distance outlier top symbol knn this paper
+OWNX--: top symbol knn outlier distance object its symbol nearest neighbour denoted symbol distance short indicates outlier ness object
+OWNX--: intuitively larger symbol distance higher outlier ness object top symbol knn outlier regards symbol objects highest values symbol distance outliers citation
+MISC--: density based outlier local outlier factor lof citation was proposed same year top symbol knn
+MISC--: lof outlier factor assigned each object w r t its surrounding neighbourhood
+MISC--: outlier factor depends how data object closely packed its locally reachable neighbourhood citation
+MISC--: since lof uses threshold differentiate outliers normal objects citation same problem parameter setting arises
+OWNX--: lower outlier ness threshold will produce high false detection rate while high threshold value will result missing genuine outliers
+MISC--: recent real world applications researchers found more reliable use lof top symbol manner citation i e only objects highest lof values will considered outliers
+OWNX--: hereafter we call top symbol lof
+MISC--: besides top symbol knn top symbol lof researchers proposed other methods deal real world data connectivity based cof citation resolution cluster based rb outlier citation
+AIMX--: although existing top symbol style outlier detection techniques alleviate difficulty parameter setting detection precision methods this paper we take top symbol knn top symbol lof typical examples low scattered data
+OWNX--: section we will discuss further problems top symbol knn top symbol lof
+AIMX--: this paper we propose new outlier detection definition named local distance based outlier factor ldof sensitive outliers scattered datasets
+MISC--: ldof uses relative distance object its neighbours measure how much objects deviate their scattered neighbourhood
+OWNX--: higher violation degree object more likely object outlier
+OWNX--: addition we theoretically analyse properties ldof including its lower bound false detection probability provide guidelines choosing suitable neighbourhood size
+OWNX--: order simplify parameter setting real world applications top symbol technique employed our approach
+OWNX--: validate ldof we perform various experiments both synthetic real world datasets compare our outlier detection performance top symbol knn top symbol lof
+OWNX--: experimental results illustrate our proposed top symbol ldof represents significant improvement outlier detection capability scattered datasets
+OWNX--: paper organised follows section we illustrate discuss problems top symbol knn top symbol lof real world data
+OWNX--: section we formally introduce outlier definition our approach mathematically analyse properties our outlier ness factor section
+MISC--: section top symbol ldof outlier detection algorithm described together analysis its complexity
+OWNX--: experiments reported section show superiority our method previous approaches at least considered datasets
+OWNX--: finally conclusions presented section

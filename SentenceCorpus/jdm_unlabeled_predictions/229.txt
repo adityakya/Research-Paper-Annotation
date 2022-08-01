@@ -1,0 +1,39 @@
+MISC--: when participants psychophysical experiments asked estimate identify stimuli differ single physical dimension their judgments influenced local experimental context item presented judgment made previous trial
+OWNX--: been suggested similar sequential effects occur more naturalistic real world judgments
+OWNX--: three experiments we asked participants judge prices sequence items
+MISC--: experiment number judgments were biased towards previous response assimilation but away true value previous item contrast pattern matches found psychophysical research
+MISC--: experiments number number b we manipulated provision feedback expertise participants found feedback reduced effect previous judgment shifted effect previous item s true price contrast assimilation
+OWNX--: finally all three experiments we found judgments were biased towards centre range phenomenon known regression effect psychophysics
+MISC--: results suggest most recently presented item point reference current judgment
+OWNX--: findings inform our understanding judgment process constrain explanations local context effects put forward psychophysicists carry practical importance real world situations contextual bias may degrade accuracy judgments
+MISC--: when people make basic perceptual judgments about brightness light loudness tone example their responses greatly influenced context stimuli presented square given size regarded large when most squares experiment smaller size but regarded small when most squares larger citation
+MISC--: long been known this insight psychophysics relevance more complex real world situations
+MISC--: thus perceived severity moral transgression depends upon ensemble scenarios presented judgment even when participants explicitly instructed ignore this context citation
+MISC--: psychophysical studies therefore demonstrated importance what may termed global experimental context set stimuli employed determining perceptual judgments this insight proven useful more complex naturalistic judgment tasks
+MISC--: yet psychophysical judgments also influenced local context stimuli presented past few trials number authors provided evidence same principal applies more complex non perceptual decisions too citation
+MISC--: current article develops this idea studying sequential effects complex judgment task using analytical tools experimental manipulations employed psychophysical research
+MISC--: dependency perceptual judgments events last few trials been extensively researched psychophysicists
+MISC--: typical approach employ regression model current judgment j dependent variable current stimulus stimuli responses trials earlier sequence predictors
+MISC--: particular jesteadt luce green citation advocated use following regression model where p value stimulus presented current trial p value stimulus previous trial j value judgment made previous trial
+MISC--: equation been applied data large number psychophysical experiments
+MISC--: experiments participant presented sequence stimuli differ one physical attribute tones differ loudness asked form some judgment attribute precise nature judgment depends psychophysical task
+MISC--: magnitude estimation experiments participant asked assign number indicates his her subjective impression loudness each tone either respect explicit standard citation absolute scale citation
+MISC--: cross modality matching experiments participant asked adjust magnitude one dimension loudness so matches magnitude another dimension brightness citation
+MISC--: category judgment experiments participant asked put each stimulus into one several categories citation
+MISC--: absolute identification experiments each stimulus given unique label example stimuli numbered number number participant asked name stimulus presented each trial citation
+OWNX--: equation been used study sequential effects all paradigms
+MISC--: details results depend somewhat experimental task but general pattern robust response current trial biased towards judgment made previous trial but away stimulus presented trial citation
+MISC--: there assimilation immediately preceding response but contrast immediately preceding stimulus
+MISC--: sequential effects been given various interpretations many assume there some kind perceptual interference previous stimulus previous item judgment assigned serve point reference when evaluating current stimulus citation
+MISC--: argued even when participants asked judge stimuli respect long term referents they use most recently experienced events framework judgment citation
+MISC--: many real world tasks structural similarity magnitude estimation category judgment people esimate classify sequence stimuli
+MISC--: however stimuli very different
+OWNX--: tones lights lines used psychophysical investigations very simple notoriously difficult store long term memory indeed frequently asserted our capacity processing stimuli limited about number items citation contrast our capacity recognise identify many thousands complex objects citation
+MISC--: labile mental representations psychophysical stimuli may responsible observed sequential effects inability form accurate long term representations may push people towards use recent items frame reference
+MISC--: when people make real world judgments about complex items when judgments type they very familiar may sequential effects eliminated people use only long term referents stable internal scales judgment
+MISC--: indeed many models sequential effects psychophysical judgment make assumptions explicitly concern perceptual tasks not readily extended other situations citation
+MISC--: current article asks whether pattern sequential dependencies seen psychophysical tasks extends situations people make judgments about non physical dimensions complex real world objects
+OWNX--: three experiments we asked participants judge prices various items
+OWNX--: we chose this task because corresponds reasonably well important aspect our economic lives we routinely exposed sequences products implicitly explicitly assess their probable cost
+MISC--: this task was also attractive because allowed us use rich complex stimuli require judgments about property does not correspond simple physical aspect item presented judgment
+OWNX--: experiment number we ask whether judgments price exhibit sequential dependencies type seen psychophysical experiments

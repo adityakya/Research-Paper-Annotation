@@ -1,0 +1,45 @@
+MISC--: increasing importance non coding rna biology medicine led growing interest problem rna d structure prediction
+MISC--: case proteins rna d structure prediction methods require two key ingredients accurate energy function conformational sampling procedure
+MISC--: both only partly solved problems
+OWNX--: here we focus problem conformational sampling
+MISC--: current state art solution based fragment assembly methods construct plausible conformations stringing together short fragments obtained experimental structures
+CONT--: however discrete nature fragments necessitates use carefully tuned unphysical energy functions their non probabilistic nature impairs unbiased sampling
+OWNX--: we offer solution sampling problem removes important limitations probabilistic model rna structure allows efficient sampling rna conformations continuous space associated probabilities
+OWNX--: we show model captures several key features rna structure its rotameric nature distribution helix lengths
+MISC--: furthermore model readily generates native like d conformations out test structures solely using coarse grained base pairing information
+OWNX--: conclusion method provides theoretical practical solution major bottleneck way routine prediction simulation rna structure dynamics atomic detail
+MISC--: non coding rna crucial importance functioning living cell where plays key catalytic regulatory structural roles citation citation
+OWNX--: understanding exact mechanisms behind functions therefore great importance both biology medicine
+MISC--: many cases this understanding requires knowledge rna structure atomic detail
+CONT--: however determining structure rna molecule experimentally typically time consuming expensive difficult task citation
+MISC--: therefore algorithms rna structure prediction attracted much interest initially main focus predicting secondary structure
+MISC--: many noticeable advances been made area secondary structure prediction most recently introduction statistical sampling had important impact citation citation
+MISC--: past years increasing number relevant structures become available much progress been made understanding three dimensional structure rna
+MISC--: conformational space rna been analyzed using methods inspired ramachandran plot proteins citation citation rna base pair interactions been accurately classified citation conformational space rna backbone been clustered into discrete recurring conformations citation citation citation
+MISC--: new insights led several useful tools modeling rna d structure citation citation significant advances atomic resolution prediction recently been reported citation citation
+MISC--: however routine prediction rna d structure still remains important open problem growing gap between number known sequences determined structures problem becoming more more pronounced
+MISC--: two key ingredients algorithms rna d structure prediction namely accurate energy function conformational sampling procedure citation both only partly solved problems
+OWNX--: here we focus latter problem
+MISC--: current state art rna conformational sampling based fragment assembly methods construct plausible conformations stringing together short fragments obtained experimental structures
+MISC--: methods led numerous important breakthroughs related fields protein rna d structure prediction last ten years citation citation
+MISC--: nonetheless fragment assembly methods not panacea
+MISC--: one problems associated methods they inherently discretize continuous conformational space hence do not cover all relevant conformations citation
+MISC--: this problematic since resolution conformational search procedure imposes limits energy function use fine grained energy terms requires continuous adjustments rna s dihedral degrees freedom fragment assembly methods cannot provide citation
+OWNX--: other words shortcomings conformational sampling method need counteracted tweaking energy function
+MISC--: furthermore full conformational detail great importance complete understanding rna catalysis binding citation dynamics citation
+MISC--: another fundamental problem fragment assembly methods their non probabilistic nature makes their rigorous use framework statistical physics problematic
+MISC--: particularly currently impossible ensure unbiased sampling markov chain monte carlo framework using fragment assembly proposal function citation
+MISC--: other words using fragment library implies adding inherently unknown additional term energy function citation
+OWNX--: this means unbiased simulation dynamics rna molecule under control all atom empirical forcefield using fragment assembly methods currently impossible
+AIMX--: reasons we developed new solution conformational sampling problem probabilistic model called barnacle describes rna structure natural continuous space
+MISC--: barnacle makes possible efficiently sample d conformations rna like short length scale
+OWNX--: model used purely proposal distribution but also energy term enforcing realistic local conformations
+MISC--: imposing favorable long range interactions hydrogen bonding between bases lies outside scope local model task global energy function
+MISC--: barnacle combines dynamic bayesian network citation suits sequential nature rna molecule directional statistics branch statistics concerned representation angular data
+MISC--: model not only computationally attractive but also rigorously interpreted language statistical physics citation citation making attractive theoretical viewpoint well
+BASE--: this approach conceptually related probabilistic models protein structure recently proposed our group citation citation
+MISC--: however model presented here clearly far trivial extension rna molecule many more degrees freedom than protein rna backbone alone there angles per residue citation opposed two proteins
+MISC--: many degrees freedom combined limited number experimentally determined rna structures citation make this particularly challenging statistical task very different strategy was required
+OWNX--: particular approach we used proteins would case rna require use probability density function dimensional hypertorus poses serious statistical computational obstacle
+OWNX--: below we describe probabilistic model detail show captures crucial aspects local rna structure
+OWNX--: we also demonstrate its usefulness context rna d prediction end outlook possible applications

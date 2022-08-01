@@ -1,0 +1,36 @@
+OWNX--: we study problem partitioning small sample symbol individuals mixture symbol product distributions over boolean cube symbol according their distributions
+MISC--: each distribution described vector allele frequencies symbol
+OWNX--: given two distributions we use symbol denote average symbol distance frequencies across symbol dimensions measures statistical divergence between them
+OWNX--: we study case assuming bits independently distributed across symbol dimensions
+MISC--: this work demonstrates balanced input instance symbol certain graph based optimization function returns correct partition high probability where weighted graph symbol formed over symbol individuals whose pairwise hamming distances between their corresponding bit vectors define edge weights so long symbol symbol
+MISC--: function computes maximum weight balanced cut symbol where weight cut sum weights across all edges cut
+OWNX--: this result demonstrates nice property high dimensional feature space one trade off number features required size sample accomplish certain tasks like clustering
+OWNX--: we explore type classification problem arises context computational biology
+OWNX--: problem we given small sample size symbol eg dna symbol individuals each described values symbol features markers eg snps single nucleotide polymorphisms where symbol
+MISC--: features slightly different frequencies depending population individual belongs assumed independent each other
+OWNX--: given population origin individual genotype represented bit vector this paper reasonably assumed generated drawing alleles independently appropriate distribution
+OWNX--: objective we consider minimize number features symbol thus total data size symbol correctly classify individuals sample according their population origin given any symbol
+OWNX--: we describe symbol symbol function average quality symbol features
+AIMX--: throughout paper we use symbol symbol shorthands symbol symbol respectively
+AIMX--: we first describe general mixture model we use this paper
+BASE--: same model was previously used citation citation statistical model we symbol probability spaces symbol over set symbol
+OWNX--: further components features symbol independent symbol symbol symbol
+MISC--: hence probability spaces symbol comprise distribution features each symbol populations
+CONT--: moreover input algorithm consists collection mixture symbol unlabeled samples symbol points symbol algorithm determine each data point symbol was chosen
+OWNX--: general we do not assume symbol revealed algorithm but we do require some bounds their relative sizes
+MISC--: important parameter probability ensemble symbol measure divergence between any two distributions
+MISC--: note symbol provides lower bound euclidean distance between means any two distributions represents their separation
+OWNX--: further let symbol so if populations were balanced we would symbol each type
+AIMX--: this paper proves following theorem gives sufficient condition balanced symbol input instance when symbol
+MISC--: variants above theorem based model allows two random draws at each dimension all points given citation citation
+MISC--: cleverness there construction diploid score at each dimension given any pair individuals under assumption two random bits drawn same distribution at each dimension
+MISC--: expectation diploid scores higher among pairs different groups than pairs same group across all symbol dimensions
+MISC--: addition citation shows when symbol given two bits each dimension one always classify any size symbol unbalanced cases any number mixtures using essentially connected component based algorithms given weighted graph described theorem
+AIMX--: key contribution this paper show new ideas we use accomplish goal clustering same amount features while requiring only one random bit at each dimension
+OWNX--: while some ideas proofs theorem section appeared citation modifications handling single bit at each dimension ubiquitous throughout proof
+OWNX--: hence we contain complete proof this paper nonetheless give complete exposition
+MISC--: finding max cut computationally intractable hill climbing algorithm was given citation partition balanced mixture stronger requirement symbol given any symbol middle green curve figure shows
+MISC--: two simpler algorithms using spectral techniques were constructed citation attempting reproduce conditions above
+MISC--: both spectral algorithms citation achieve bound established theorem without requiring input instances being balanced work cases when symbol constant however they require symbol even when symbol input instance balanced vertical line figure shows
+OWNX--: note when symbol i e when we enough sample each distribution symbol becomes only requirement theorem
+MISC--: exploring tradeoffs between symbol symbol when symbol small theorem algorithmic design both theoretical interests practical value long lemma

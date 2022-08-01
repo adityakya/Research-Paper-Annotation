@@ -1,0 +1,50 @@
+AIMX--: this paper spectrum access cognitive radio networks modeled repeated auction game subject monitoring entry costs
+MISC--: secondary users sensing costs incurred result primary users activity
+OWNX--: furthermore each secondary user pays cost transmissions upon successful bidding channel
+MISC--: knowledge regarding other secondary users activity limited due distributed nature network
+MISC--: resulting formulation thus dynamic game incomplete information
+AIMX--: this paper efficient bidding learning algorithm proposed based outcome past transactions
+MISC--: demonstrated through extensive simulations proposed distributed scheme outperforms myopic one stage algorithm achieve good balance between efficiency fairness
+MISC--: recent studies shown despite claims spectral scarcity actual licensed spectrum remains unoccupied long periods time citation
+MISC--: thus cognitive radio cr systems been proposed citation order efficiently exploit spectral holes
+MISC--: crs secondary users sus wireless devices intelligently monitor adapt their environment hence they able share spectrum licensed primary users pus operating whenever pus idle
+MISC--: three key design challenges active topics research cognitive radio networks namely distributed implementation spectral efficiency tradeoff between sensing spectrum access
+MISC--: previous studies tackled various aspects spectrum sensing spectrum access
+MISC--: citation performance spectrum sensing terms throughput investigated when sus share their instantaneous knowledge channel
+MISC--: work citation studies performance different detectors spectrum sensing while citation spatial diversity methods proposed improving probability detecting pu sus
+MISC--: other aspects spectrum sensing discussed citation citation
+MISC--: furthermore spectrum access also received increased attention eg citation
+CONT--: citation dynamic programming approach proposed allow sus maximize their channel access time while taking into account penalty factor any collision pu
+MISC--: work citation references therein establish practice sensing time cr networks large affects access performance sus
+MISC--: citation authors model spectrum access problem non cooperative game propose learning algorithms find correlated equilibria game
+MISC--: non cooperative solutions dynamic spectrum access also proposed citation while taking into account changes sus environment arrival new pus among others
+MISC--: citation when multiple sus compete spectral opportunities issues fairness efficiency arise
+MISC--: one hand desirable su access channel high availability
+MISC--: other hand effective achievable rate su decreases when contending many sus over most available channel
+MISC--: consequently efficiency spectrum utilization system reduces
+MISC--: therefore su should explore transmission opportunities other channels if available refrain transmission same channel all time
+CONT--: intuitively diversifying spectrum access both frequency exploring more channels time refraining continuous transmission attempts would beneficial achieving fairness among multiple sus sus experiencing poorer channel conditions not starved long run
+AIMX--: objective this paper design mechanism enables fair efficient sharing spectral resources among sus
+OWNX--: we model spectrum access cognitive radio networks repeated auction game entry monitoring costs
+MISC--: auctioning spectral opportunities carried out repeatedly
+MISC--: at beginning each period each su wishes participate spectrum access submits bid coordinator based its view channel past auction history
+MISC--: knowledge regarding other secondary users activities limited due distributed nature network
+MISC--: resulting formulation thus dynamic game incomplete information
+MISC--: bidder highest bid gains spectrum access
+OWNX--: entry fees charged all bidders who participate auction irrespective outcome auction
+OWNX--: su also choose stay out so current round case no entry fee incurred
+OWNX--: at end each auction period information regarding bidding allocation made available all sus turn monitoring fee incurred
+MISC--: achieve efficient bidding learning algorithm proposed based outcome past transactions
+MISC--: each su decides local actions objective increasing its long term cost effectiveness
+MISC--: demonstrated through extensive simulations proposed distributed scheme outperforms myopic one stage algorithm where su always participates spectrum access game both single channel multi channel networks
+MISC--: comment order feasibility auction based approach spectrum access practice
+MISC--: due commercial industrial exploitation different stake holders interests functional architectures cognitive signaling schemes currently under discussion within standardization forums including ieee scc etsi tc rrs reconfigurable radio systems
+OWNX--: cognitive pilot channel cpc gained attention potential enabler data aided mitigation techniques between secondary primary communication systems well mechanism support optimized radio resource data management across heterogeneous networks
+MISC--: cpc common control channel used provide information corresponding operators radio access technology frequencies allocated given area
+OWNX--: we thus leverage intelligence cpc coordinator control channel solicit bidding broadcast outcome auctions
+AIMX--: main contributions this paper we formulated spectrum access problem cognitive radio networks repeated auction game
+CONT--: distributed learning algorithm proposed single channel networks non regret learning algorithm investigated multi channel networks
+AIMX--: rest paper organized follows
+OWNX--: section system model terminology introduced
+MISC--: mechanism design repeated auction learning presented section
+OWNX--: simulation results given section followed conclusions discussion future work section

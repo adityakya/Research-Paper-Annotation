@@ -1,0 +1,35 @@
+OWNX--: context inference expectation constraints we propose approach based loopy belief propagation algorithm textsc lpb surrogate exact markov random field textsc mrf modelling
+MISC--: prior information composed correlations among large set symbol variables encoded into graphical model this encoding optimized respect approximate decoding procedure textsc lbp used infer hidden variables observed subset
+MISC--: we focus situation where underlying data many different statistical components representing variety independent patterns
+OWNX--: considering single parameter family models we show how textsc lpb may used encode decode efficiently information without solving np hard inverse problem yielding optimal textsc mrf
+BASE--: contrary usual practice we work non convex bethe free energy minimization framework manage associate belief propagation fixed point each component underlying probabilistic mixture
+MISC--: mean field limit considered yields exact connection hopfield model at finite temperature steady state when number mixture components proportional number variables
+OWNX--: addition we provide enhanced learning procedure based straightforward multi parameter extension model conjunction effective continuous optimization procedure
+MISC--: this performed using stochastic search heuristic textsc cmaes yields significant improvement respect single parameter basic model
+MISC--: prediction recognition methods systems random environment somehow exploit regularities correlations possibly both spatial temporal infer global behavior partial observations
+MISC--: example road traffic network one interested extract fixed sensors floating car data estimation overall traffic situation its evolution citation
+MISC--: image recognition visual event detection some sense mutual information between different pixels sets pixels one wishes exploit
+MISC--: natural probabilistic tool encode mutual information markov random field textsc mrf marginal conditional probabilities computed prediction recognition process
+MISC--: inference problem expectation constraints citation we want address stated follows system composed discrete variables symbol only known statistical information form marginal probabilities symbol set symbol cliques symbol
+MISC--: marginals typically result some empirical procedure producing historical data
+MISC--: based this historical information consider then situation where some variables observed say subset symbol while other one complementary set symbol remains hidden
+OWNX--: what prediction made concerning this complementary set how fast we make this prediction if we think terms real time applications like traffic prediction example
+AIMX--: since variables take their values over finite set marginal probabilities fully described finite set correlations following principle maximum entropy distribution jaynes citation we expect historical data best encoded textsc mrf joint probability distribution symbol form symbol this representation corresponds factor graph citation where convenience we associate function symbol each variable symbol addition subsets symbol we call factors
+OWNX--: symbol together symbol define factor graph symbol will assumed connected
+MISC--: there two main issues inverse problem how set parameters order fulfill constraints imposed historical data
+MISC--: inference how decode sense computing marginals most efficient manner typically real time this information terms conditional probabilities symbol
+MISC--: exact procedures generally face exponential complexity problem both encoding decoding procedures one resort approximate procedures citation
+MISC--: bethe approximation citation used statistical physics consists minimizing approximate version variational free energy associated
+MISC--: computer science belief propagation textsc bp algorithm citation message passing procedure allows compute efficiently exact marginal probabilities when underlying graph tree
+MISC--: when graph cycles still possible apply procedure then referred textsc lbp loopy belief propagation converges rather good accuracy sufficiently sparse graphs
+CONT--: however there may several fixed points either stable unstable
+MISC--: been shown points coincide stationary points bethe free energy citation defined follows addition stable fixed points textsc lbp local minima bethe free energy citation
+MISC--: question convergence textsc lbp been addressed series works citation establishing conditions bounds textsc mrf coefficients having global convergence
+AIMX--: present work we reverse viewpoint
+MISC--: since decoding procedure performed textsc lbp presumably best encoding historical data one textsc lbp s output symbol absence real time information when all variables remain hidden symbol
+OWNX--: this actually been proposed citation where proved specific case working wrong model i e message passing approximate version yields better results decoding viewpoint
+OWNX--: we will come back this later section when we will compare various possible approximate models within this framework
+AIMX--: this paper we propose new approach based multiple fixed points textsc lbp identification able deal both encoding decoding procedure consistent way suitable real time applications
+OWNX--: paper organized follows our inference strategy detailed section section we specify problem inference binary variables distribution follows mixture product forms present some numerical results analyzed section light some scaling limits where mean field equations become relevant allowing direct connection hopfield model
+OWNX--: section we propose multi parameter extension model well suited continuous optimization allows enhance performance model
+OWNX--: finally we conclude section comparing our approach other variant textsc lbp giving perspective future developments

@@ -1,0 +1,60 @@
+MISC--: idea date party hubs been influential study protein protein interaction networks
+OWNX--: date hubs display low co expression their partners whilst party hubs high co expression
+MISC--: was proposed party hubs local coordinators whereas date hubs global connectors
+AIMX--: here we show reported importance date hubs network connectivity fact attributed tiny subset them
+MISC--: crucially few extremely central hubs do not display particularly low expression correlation undermining idea link between this quantity hub function
+OWNX--: date party distinction was originally motivated approximately bimodal distribution hub co expression we show this feature not always robust methodological changes
+MISC--: additionally topological properties hubs do not general correlate co expression
+OWNX--: however we find significant correlations between interaction centrality functional similarity interacting proteins
+MISC--: we suggest thinking terms date party dichotomy hubs protein interaction networks not meaningful might more useful conceive roles protein protein interactions rather than individual proteins
+MISC--: protein interaction networks constructed data obtained via techniques yeast two hybrid screening do not capture fact actual interactions occur vivo depend prevailing physiological conditions
+MISC--: instance actively expressed proteins vary amongst tissues organism also change over time
+MISC--: thus specific parts interactome active well their organisational form might depend great deal where when one examines network citation citation
+MISC--: one way incorporate information use mrna expression data microarray experiments
+MISC--: han et al citation examined extent hubs yeast interactome co expressed their interaction partners
+MISC--: they defined hubs proteins degree at least where degree refers number links emanating node
+MISC--: based averaged pearson correlation coefficient expression over all partners they concluded hubs fall into two distinct classes those low avpcc those high avpcc
+MISC--: they inferred two types hubs play different roles modular organisation network party hubs thought coordinate single functions performed group proteins all expressed at same time whereas date hubs described higher level connectors between groups perform varying functions active at different times under different conditions
+MISC--: validity date party hub distinction since been debated sequence papers citation citation there appears no consensus issue
+OWNX--: two established points contention distribution hubs truly bimodal date party distinction was originally observed general property interactome artefact employed data set
+MISC--: different statistical tests suggested seemingly different answers
+MISC--: however despite this ongoing debate hypothesis been highly prominent literature citation citation citation
+BASE--: here following up work batada et al citation citation we revisit initial data suggest additional problems statistical methodology was employed
+OWNX--: accordance their results we find differing behaviour observed deletion date party hubs citation seemed suggest date hubs were more essential global connectivity was largely due very small number key hubs rather than being generic property entire set date hubs
+OWNX--: more generally we use complementary perspective batada et al define structural roles hubs context modular organisation protein interaction networks
+MISC--: our results indicate there little correlation between expression avpcc structural roles
+MISC--: light this more refined categorisation date party family hubs was based taking into account differences expression variance addition avpcc citation also appears inappropriate
+MISC--: recent study taylor et al citation argued existence intermodular intramodular hubs categorisation along same lines date party hubs human interactome
+OWNX--: we show their observation binary hub classification susceptible changes algorithm used normalise microarray expression data kernel function used smooth histogram avpcc distribution
+MISC--: data does not fact display any statistically significant deviation unimodality per dip test citation citation already been observed batada et al citation citation yeast data
+AIMX--: we revisited bimodality question because was key part original paper citation particular because made reappearance taylor et al citation human data
+AIMX--: however possible date party like continuum may exist even absence bimodal distribution this why we also attempt examine more general question whether network roles hub proteins really related their co expression properties interaction partners
+MISC--: many real world networks display some sort modular organisation they partitioned into cohesive groups nodes relatively high ratio internal external connection densities
+MISC--: sub networks known communities often correspond distinct functional units citation citation
+MISC--: several studies recent years considered existence community structure protein protein interaction networks citation citation
+MISC--: myriad algorithms been developed detecting communities networks citation citation
+MISC--: example concept graph modularity used quantify extent number links falling within groups exceeds number would expected appropriate random network citation
+MISC--: one standard techniques detect communities partition network into sub networks graph modularity maximised citation citation
+AIMX--: we use idea community structure take new approach problem hub classification attempting assign roles hubs purely basis network topology rather than basis expression data
+MISC--: our rationale biological roles date party hubs essentially topological nature should thus identifiable network alone
+MISC--: once we partitioned network into set meaningful communities possible compute statistics measure connectivity each hub both within its own community other communities
+OWNX--: one method assigning relevant roles nodes metabolic network was formulated guimer amaral citation we follow analogous procedure hubs our protein interaction networks
+OWNX--: we then examine extent roles match up date party hypothesis finding little evidence support
+MISC--: one might also wonder about extent observed interactome properties dependent particular instantiation network being analysed
+MISC--: several papers discussed at length concerns about completeness reliability existing protein interaction data sets e g citation citation
+MISC--: data been gathered using multiple methods most prominent y h affinity purification followed mass spectrometry
+MISC--: recent paper yu et al examined properties interaction networks were derived different sources suggesting experimental bias might play key role determining properties observed given data set citation
+MISC--: particular their findings suggest y h tends detect key interactions between protein complexes so y h data sets may contain high proportion date hubs whereas ap ms tends detect interactions within complexes so hubs ap ms derived networks predominantly highly co expressed their partners
+OWNX--: this indicates possible reason observing bimodal hub avpcc distribution citation interaction data sets used information was combined both sources
+OWNX--: here we compare several yeast interaction data sets find both widely differing structural properties surprisingly low level overlap
+OWNX--: finally alternative node based date party categorisation we suggest thinking about topological roles networks defining measures links rather than nodes
+MISC--: other words one attempt categorise interactions between proteins rather than proteins themselves
+MISC--: we use well known measure link significance known betweenness centrality citation citation examine its relation phenomena protein co expression functional overlap
+OWNX--: here well we find little evidence significant correlation expression pcc interactors
+MISC--: however there seems reasonably strong relation between link betweenness functional similarity interacting proteins so link centric role definitions might some utility
+OWNX--: summary we examined proposed division hubs protein interaction network into date party categories several different angles demonstrating prior arguments favour date party dichotomy appear susceptible various kinds changes data methods used
+MISC--: observed differences network vulnerability attacks two hub types seem arise only small number particularly important hubs
+OWNX--: results strengthen existing evidence against existence date party hubs
+MISC--: furthermore detailed analysis network topology employing novel perspective community structure roles hubs within this context suggests picture more complicated than simple dichotomy
+MISC--: proteins interactome show variety topological characteristics appear lie along continuum there does not exist clear correlation between their location this continuum avpcc expression their interaction partners
+MISC--: other hand investigating link betweenness centralities reveals interesting relation functional linkage proteins suggesting framework incorporating more nuanced notion roles both nodes links might provide better framework understanding organisation interactome

@@ -1,0 +1,37 @@
+MISC--: given time series multicomponent measurements symbol usual objective nonlinear blind source separation bss find source time series symbol comprised statistically independent combinations measured components
+AIMX--: this paper source time series required density function symbol equal product density functions individual components
+MISC--: this formulation bss problem solution unique up permutations component wise transformations
+MISC--: separability shown impose constraints certain locally invariant scalar functions symbol derived local higher order correlations data s velocity symbol
+MISC--: data separable if only if they satisfy constraints if constraints satisfied sources explicitly constructed data
+MISC--: method illustrated using separate two speech like sounds recorded single microphone
+MISC--: sensory devices often receive signals multiple physical stimuli evolve simultaneously but unrelated one another
+OWNX--: many situations necessary create separate representations one more stimuli blindly processing observed signals i e processing them without prior knowledge nature stimuli
+MISC--: recent years there considerable progress solution this blind source separation bss problem special case signals source variables linearly related
+CONT--: however although nonlinear bss often performed effortlessly humans computational methods doing this quite limited citation
+MISC--: consider time series data symbol where symbol multiplet symbol measurements symbol
+MISC--: usual objectives nonlinear bss determine if data instantaneous mixtures symbol statistically independent source components symbol symbol where symbol possibly nonlinear invertible symbol mixing function if this case compute mixing function
+MISC--: other words problem find coordinate transformation symbol transforms observed data symbol measurement defined coordinate system symbol state space special source coordinate system symbol components transformed data statistically independent
+MISC--: let symbol state space probability density function pdf source coordinate system defined so symbol fraction total time source trajectory symbol located within volume element symbol at location symbol
+MISC--: usual formulation bss problem source components required statistically independent sense their state space pdf product density functions individual components symbol every formulation bss multiple solutions created permutations component wise transformations any one solution
+MISC--: however well known criterion so weak suffers much worse non uniqueness problem namely this form bss problem multiple solutions created transformations mix source variables see citation references therein
+MISC--: issue non uniqueness circumvented considering data s trajectory symbol symbol instead symbol i e state space
+MISC--: first let symbol pdf this space defined so symbol fraction total time location velocity source trajectory within volume element symbol at location symbol
+AIMX--: earlier paper citation described formulation bss problem this pdf was required product density functions individual components symbol separability symbol stronger requirement than separability state space
+MISC--: see this note recovered integrating both sides over all velocities but latter equation cannot deduced former one
+MISC--: fact shown strong enough guarantee bss problem symbol unique solution up permutations component wise transformations citation
+MISC--: furthermore this type statistical independence virtue being satisfied almost all classical physical systems composed non interacting subsystems generators most signals interest
+MISC--: author previously demonstrated citation symbol pdf time series induces riemannian geometry state space metric equal local second order correlation matrix data s velocity
+OWNX--: nonlinear bss performed computing this metric symbol coordinate system i e computing second order correlation symbol at each point symbol well its first second derivatives respect symbol
+OWNX--: however although this mathematically correct complete method solving nonlinear bss problem suffers practical difficulty namely if dimensionality state space high great deal data required cover densely enough order calculate derivatives accurately
+AIMX--: current paper citation shows how perform nonlinear bss computing higher order local correlations data s velocity instead computing derivatives its second order correlation
+OWNX--: this approach advantageous because requires much less data accurate computation
+OWNX--: example synthetic speech separation experiment section iii new method separate two synthetic utterances recorded single microphone after minutes observation rather than hours observation required differential geometric method
+OWNX--: method described this paper differs significantly methods proposed other investigators because uses criterion statistical independence symbol instead state space
+MISC--: addition there technical differences between proposed method conventional ones
+CONT--: first all technique this paper exploits statistical constraints data locally defined state space contrast usual criteria statistical independence global conditions data time series its time derivatives citation
+MISC--: furthermore unlike many other methods citation mixing function derived constructive deterministic non parametric manner without employing iterative algorithms without using probabilistic learning methods without parameterizing neural network architecture other means
+CONT--: addition proposed method handle any differentiable mixing function unlike some other techniques only apply restricted class mixing functions citation
+OWNX--: next section describes how separate two dimensional data into two one dimensional source variables
+OWNX--: section iii illustrates method using separate two simultaneous speech like sounds recorded single microphone
+OWNX--: implications this work discussed last section
+MISC--: appendix describes how method generalized separate data arbitrary dimensionality into possibly multidimensional source variables

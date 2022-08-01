@@ -1,0 +1,20 @@
+OWNX--: we examined choice behavior younger versus older adults using medical decision making task similar medicare part d
+AIMX--: study was designed assess age differences choice processes general specifically designed examine effect choice set size performance
+MISC--: data drawn larger study choice aging ninety six younger adults ages number number number older adults ages number number selected prescription drug plan either number number different options
+MISC--: hypothesized choice set size was significant predictor individuals ability choose best plan
+MISC--: participants who were presented number plans were less likely choose correct prescription drug plan
+OWNX--: age did not negative effect decision performance however numeracy speed processing significantly affected performance across groups
+OWNX--: older adults were more likely characterized satisficers decision personality measure but this categorization did not predict performance choice task
+MISC--: january citation medicare modernization act known medicare part d came into effect u s offering millions medicare beneficiaries opportunity purchase insurance coverage help them pay their prescription drugs
+MISC--: unlike other health benefits provided medicare part d benefits not provided directly government but rather private insurance companies
+MISC--: older adults buy insurance directly insurance companies while government oversees certain aspects program
+MISC--: one consequence this design large number insurance plans available beneficiaries
+MISC--: most states older adults more than number insurance plans choose
+MISC--: citation while older adults reported satisfaction program citation they also deemed program too complicated
+MISC--: indeed when kaiser family foundation number asked doctors pharmacists older adults what they thought about medicare d program number percent doctors number percent pharmacists number percent older adults judged too complicated
+MISC--: one might wonder therefore about usefulness offering older adults large array choice
+MISC--: economist psychologist long cherished idea choice
+MISC--: recent research however come question this basic assumption arguing too much choice reduce quality decision satisfaction decision citation
+OWNX--: field cognitive aging documented declines speed processing executive functioning could potentially affect older adults ability process information make decisions citation we set out study how natural aging process may interact choice set size implications decision quality
+OWNX--: medicare part d was used basis task because its current relevance real world decision making older adults
+OWNX--: specifically study examined relationship between number drug plan choices available effect age individuals ability make objective subjective decisions

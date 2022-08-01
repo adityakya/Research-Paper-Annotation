@@ -1,0 +1,54 @@
+OWNX--: evolution cooperation described terms simple two person interactions received considerable attention recent years where several key results were obtained
+MISC--: among those now well established web social interaction networks promotes emergence cooperation when modeled terms symmetric two person games
+MISC--: up until now however impacts heterogeneity social interactions into emergence cooperation not been fully explored other aspects remain investigated
+AIMX--: here we carry out study employing simplest example prisoner s dilemma game benefits collected participants may proportional costs expended
+AIMX--: we show heterogeneous nature social network naturally induces symmetry breaking game contributions made cooperators may become contingent social context individual embedded
+MISC--: new numerical mean field analysis reveals prisoner s dilemmas networks no longer constitute defector dominance dilemma instead individuals engage effectively general coordination game
+AIMX--: we find symmetry breaking induced population structure profoundly affects evolutionary dynamics cooperation dramatically enhancing feasibility cooperators cooperation blooms when each cooperator contributes same cost equally shared among plethora games she participates
+MISC--: this work provides clear evidence while individual rational reasoning may hinder cooperative actions intricate nature social interactions may effectively transform local dilemma cooperation into global coordination problem
+MISC--: portuguese no exception like any other language many proverbs popular sayings
+MISC--: one them states something like i already contributed charity citation concerning originally situations individuals faced decision offering contribution common venture expression above meaning no
+MISC--: interestingly amount given never stated
+MISC--: turns out quite often we confronted situations act giving more important than amount given
+MISC--: let us keep charity event some celebrities invited participate
+MISC--: typically their appearance given maximal audience they shown contributing seemingly large amount money charity s cause
+MISC--: this offer aimed at stimulating contribution many same charity indeed this mechanism celebrity participation charities common presumably effective
+MISC--: but what relevance amount contributed celebrity
+MISC--: certainly impressive many despite being most likely small contribution both face celebrity s wealth also what concerns overall amount accumulated
+MISC--: but does induce hopefully large number contributions anonymous charity participants who feel compelled contribute given fact their role model contributed
+MISC--: other words majority copies act giving but certainly not amount given
+MISC--: nowadays web signed petitions also examples collective decisions often benefit fact some well known people adhere petition s cause
+MISC--: besides those who fully aware agree cause there also those who sign petition simply because they admire someone who signed petition again copying attitude
+MISC--: many other examples real life could provided along similar lines trivia fads stock markets humanitarian causes up salvation planet earth citation citation
+MISC--: theoretical perspective many situations provide beautiful examples public goods games citation citation often hard dissociate reputation building social norms moral principles citation citation
+MISC--: this intricate interplay reflects many body nature multi level complexity interactions among social atoms citation
+MISC--: simplest pgg involves two persons
+MISC--: both opportunity contribute cost c common pool
+MISC--: cooperator one who contributes otherwise she defector
+MISC--: total amount multiplied enhancement factor f equally shared between two participants
+OWNX--: hence player i using strategy s i gets payoff formula this game leading following payoff matrixformula
+MISC--: formula ds dominate unconditionally
+MISC--: f no strategy favored well mixed populations yet formula better play c despite fact mixed pair d collects higher payoff than c formula game example famous symmetric one shot two person prisoner s dilemma citation many central results been obtained over years particular context evolutionary game theory citation citation citation been explicitly shown population structure matters despite its importance being recognized already darwin albeit form group selection citation citation
+MISC--: clearly makes difference whether everybody equally likely interact anybody else population not
+AIMX--: we learnt evolutionary game theory finite populations may behave very differently infinite populations citation even absence any population structure evolutionarily stable strategies becoming population size dependent
+MISC--: we learnt heterogeneous population structures play important role evolution cooperation under prisoner s other social dilemmas citation citation result spawned number investigations citation citation
+MISC--: mathematical condition was obtained cs become advantageous populations structured along links homogeneous networks citation subsequently confirmed making use inclusive fitness methods citation limited subset game payoff matrices
+OWNX--: this result valid limit weak selection also unraveled important feature evolutionary game theoretical studies outcome cooperation depends evolutionary dynamics adopted dictating how individual strategy evolves generation generation
+MISC--: furthermore evolutionary game dynamics populations structured along multiple networks been explored citation citation well mechanisms favor cooperation under adaptive population structures been identified both non repeated citation citation repeated games citation citation
+MISC--: results consubstantiate keep stimulating enormous amount research work
+MISC--: common all studies settings underlying social dilemma conventional view every c pays fixed cost c per game providing same benefit b partner
+MISC--: however if what matters act giving not amount given then there no reason assume everybody contributes same cost c each game
+MISC--: depending amount each individual contribution overall result evolutionary dynamics may change
+MISC--: two person game introduced above provides not only ideal ground introduce diversity contributions but also intuitive coupling between game dynamics social embedding first individual contributes cost c if playing c nothing otherwise
+MISC--: hence player i now gets following payoff this game formulareflecting symmetry breaking induced possibly different contributions different cooperating individuals
+OWNX--: this poses natural question who will acquire evolutionary edge under conditions
+MISC--: often amount each individual contributes correlated social context she actually embedded citation citation citation
+MISC--: modern communities grounded complex social networks investment cooperation some individuals play radically different roles interact more more often than others
+MISC--: empirical studies demonstrated social networks share both small world properties heterogeneous distribution connectivities citation citation
+MISC--: heterogeneous communities where different individuals may embedded very different social environments indeed hard imagine every c will always provide same amount every game interaction hence reducing problem standard two person prisoner s dilemma studied so far
+MISC--: context n person games played prototypical social networks been found diversity contributions greatly favors cooperation citation
+MISC--: however similar relation between two body many body interactions physical sciences n person public goods games intrinsic complexity cannot anticipated two person games words late william hamilton theory many person games may seem stand two person games relation sea sickness headache citation
+MISC--: here besides conventional scenario every c contributes same cost c each game she participates we shall also explore limit every c contributes same overall amount c however this amount shared between all games she participates defined social network players embedded
+MISC--: instance c may interpreted availability amount resources each individual dedicate all her commitments
+MISC--: hence contribution each game will depend now social context each c heterogeneity will foster symmetry breaking pair wise interactions two individuals may contribute different amounts same game
+OWNX--: this sense cooperation will identified act giving no longer amount given

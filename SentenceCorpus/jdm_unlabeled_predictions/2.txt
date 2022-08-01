@@ -1,0 +1,48 @@
+MISC--: according siegrist earle gutscher s citation model risk communication effect advice about risk agent s behavior depends agent s trust competence advisor their trust motives advisor
+MISC--: trust competence depends how good advice received source been past
+OWNX--: trust motives depends how similar agent assesses advisor s values their own
+OWNX--: we show past quality advice degree similarity between advisors judges values separate non interacting effects two types agent behavior degree trust expressed source stated trust weight given source s advice revealed trust
+MISC--: findings support siegrist et al s model
+OWNX--: we also found revealed trust was affected more than stated trust differences advisor quality
+MISC--: not clear how this finding should accommodated within siegrist et al s citation model
+MISC--: throughout social sciences trust recognized important factor mediates many aspects human behavior citation
+MISC--: definitions trust vary but widely accepted one psychological state comprising intention accept vulnerability based upon positive expectations intentions behavior another citation
+OWNX--: thus person trustor who depends someone else trustee expects reduce likelihood size negative outcome some situation when dependence misplaced expected value outcome lower
+MISC--: experimental work trust been carried out various contexts including behavioral game theory citation line commerce citation risk communication
+AIMX--: work we report here falls into last three domains
+MISC--: risk communication provides information fallible gives people advice about levels risk associated hazards
+MISC--: reliance advisors signals acceptance vulnerability based expectations those advisors competent well meaning when fact they may not
+OWNX--: reliance provides evidence trust sense encapsulated above definition
+MISC--: when people rely more certain advisors we say their behavior reveals they more trust those advisors citation
+MISC--: recent research into trust indicates determined number factors citation
+MISC--: factors broadly categorized into two groups
+MISC--: first concerns competence trustee ability competence expertise knowledge
+MISC--: second concerns motives trustee benevolence integrity honesty fairness
+MISC--: basis findings siegrist earle gutscher citation siegrist gutscher earle citation developed their trust confidence cooperation tcc model
+MISC--: simplified version shown figure number
+MISC--: according this model two different types trust determine degree people cooperate their advisors
+MISC--: first trust motives also known simply trust social trust second trust competence known confidence
+OWNX--: cooperative intention produced two types trust results cooperative behaviors various types
+MISC--: example people may express trust their advisors they may use advice them form their own judgments they may act basis their advice
+MISC--: trust competence determined past history quality advice produced source
+MISC--: this type information already been shown affect advice taking people place greater weight information received sources who been more accurate past citation
+MISC--: trust motives determined how similar judge assesses advisor s values their own
+MISC--: siegrist et al s citation model predicts people will take more advice advisors whose values they judge more similar their own
+OWNX--: date this prediction their two route model not been tested
+OWNX--: our aim here provide test
+MISC--: past researchers into advice taking measured trust advice using behavioral measures
+MISC--: example given two different pieces advice value numerical variable e g risk level judgment closer first than second indicates greater influence first
+MISC--: hence relative proximity judgments advice different sources provides behavioral means assessing relative influence those sources advice
+MISC--: contrast researchers into trust required people make verbal numerical estimates their trust different sources information typically using rating scales
+MISC--: however o neill citation argued behavioral verbal measures trust may not always coincide
+MISC--: example people may state they do not trust agent when their behavior reveals they do
+MISC--: they may do this because behavioral placement trust relies implicit intuitive nonconscious processes not easily accessed explicit processes required verbal expression trust
+MISC--: indeed there some evidence stated revealed trust do dissociate under certain conditions citation
+AIMX--: given results we shall measure trust both ways present study
+MISC--: siegrist et al s citation model predicts similarity values intentions goals will increase trust motives thereby increase influence advisor judge
+CONT--: however does not make any prediction about effects physical similarity advisor judge
+MISC--: nevertheless there good reason expect people will more influenced advisors who same sex they who approximately same age they
+MISC--: this because there persuasive evidence attitudes values particularly those relating risk technology more likely similar people same sex similar age citation
+MISC--: result physical i e age sex similarity may imply degree value similarity
+MISC--: if does advisors who physically similar judges likely trusted more
+MISC--: also advisors who similar judges both respects likely trusted more than those who similar them just one respect

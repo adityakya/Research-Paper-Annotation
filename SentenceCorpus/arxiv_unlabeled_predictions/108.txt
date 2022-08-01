@@ -1,0 +1,17 @@
+MISC--: cm consider class symbol binary functions symbol finite interval symbol
+MISC--: define sample width symbol finite subset sample symbol w s h min xs w h x where symbol
+MISC--: let symbol space all samples symbol cardinality symbol consider sets wide samples ie hypersets defined beta h s mathbb s ell w s h beta through application sauer shelah result density sets upper estimate obtained growth function trace class symbol symbol ie number possible dichotomies obtained intersecting all hypersets fixed collection samples symbol cardinality symbol
+MISC--: estimate symbol
+MISC--: any logical expression symbol denote symbol indicator function takes value symbol symbol whenever statement symbol true false respectively
+OWNX--: let symbol any fixed positive integer define space symbol all samples symbol size symbol
+OWNX--: symbol consider sets wide samples i e symbol we refer sets hypersets
+OWNX--: will convenient associate sets indicator functions symbol denoted symbol referred hyperconcepts we may write symbol brevity
+OWNX--: any fixed width parameter symbol define hyperclass symbol words symbol consists all sets subsets symbol cardinality symbol corresponding binary functions symbol wide at least symbol
+MISC--: aim paper compute complexity hyperclass symbol corresponds class symbol
+MISC--: since domain symbol infinite then so symbol hence one cannot simply measure its cardinality
+MISC--: instead we apply standard combinatorial measure complexity family sets follows suppose symbol general domain symbol infinite class subsets symbol
+MISC--: any subset symbol let gamma mg s mg s where symbol
+MISC--: growth function see instance citation defined symbol measures rate number dichotomies obtained intersecting subsets symbol symbol finite set symbol increases function cardinality symbol symbol maximal case also called trace symbol citation
+OWNX--: since we interested hypersets opposed simple sets symbol above then we consider trace finite collection symbol samples instead finite sample symbol above
+OWNX--: will convenient define cardinality collection cardinality union its component sets i e any given finite collection symbol let zeta left bigcup s s zeta s right we use symbol denote possible value symbol
+OWNX--: measure complexity symbol we compute growth function symbol i e symbol

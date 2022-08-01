@@ -1,0 +1,30 @@
+OWNX--: st
+MISC--: petersburg paradox famous economic philosophical puzzle generated numerous conflicting explanations
+OWNX--: shed empirical light this phenomenon we examined subjects bids one st
+MISC--: petersburg gamble real monetary payment
+OWNX--: we found bids were typically lower than twice smallest payoff thus much lower than generally supposed
+OWNX--: we also examined bids offered several hypothetical variants st
+MISC--: petersburg paradox
+OWNX--: we found bids were weakly affected truncating gamble were strongly affected repeats gamble depended linearly initial seed value gamble
+OWNX--: one explanation we call median heuristic strongly predicts data
+OWNX--: subjects following this strategy evaluate gamble if they were taking median rather than mean payoff distribution
+OWNX--: finally we argue distribution outcomes embodied st
+MISC--: petersburg paradox so divergent gaussian form statistical mean poor estimator expected value so expected value st
+MISC--: petersburg gamble undefined
+MISC--: results suggest this classic paradox straightforward explanation rooted use statistical heuristic
+OWNX--: st
+MISC--: petersburg paradox originally proposed number house offers flip coin until comes up heads
+MISC--: house pays number if heads appears first trial otherwise payoff doubles each time tails appears this compounding stopping payment being given at first heads bernoulli number shown figure number
+OWNX--: conventional definitions st
+MISC--: petersburg gamble infinite expected value nonetheless most people share intuition they should not offer more than few dollars play
+MISC--: explaining why people offer small sums play gamble infinite expected value important question economics philosophy citation
+OWNX--: st
+MISC--: petersburg paradox attracted explanations many well known thinkers including daniel niklaus bernoulli cramer de morgan condorcet euler poisson gibbon economists including marschack cournot arrow keynes stigler samuelson von mises ramsey aumann citation
+OWNX--: earliest discussions st
+MISC--: petersburg paradox led idea utility curves now central concept economics citation
+MISC--: moreover menger s discussion paradox sparked von neumann s interest utility turn influenced von neumann morgenstern s foundational book theory games economic behavior citation
+OWNX--: despite importance st
+MISC--: petersburg paradox there no widely accepted explanation low values most people place this theoretically priceless gamble citation
+CONT--: moreover there precious little empirical data st
+MISC--: petersburg paradox citation
+AIMX--: present study we review several major classes explanations then provide empirical data designed test explanations

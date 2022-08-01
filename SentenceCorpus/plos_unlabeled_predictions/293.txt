@@ -1,0 +1,66 @@
+MISC--: presence exogenous mortality risks future reproduction individual worth less than present reproduction its fitness
+OWNX--: senescent aging thus results inevitably transferring net fertility into younger ages
+MISC--: some long lived organisms appear defy theory however presenting negligible senescence extended lifespans
+OWNX--: here we investigate possibility onset vitality loss delayed indefinitely even accepting abundant evidence reproduction intrinsically costly survival
+OWNX--: environment constant hazard we establish natural selection itself contributes increasing density dependent recruitment losses
+OWNX--: we then develop generalized model accelerating vitality loss analyzing fitness optima tradeoff between compression spread age profile net fertility
+MISC--: across realistic spectrum senescent age profiles density regulation recruitment trigger runaway selection ever reducing senescence
+MISC--: this novel prediction applies without requirement special life history characteristics indeterminate somatic growth increasing fecundity age
+OWNX--: evolution nonsenescence senescence robust presence exogenous adult mortality tends instead increase age independent component vitality loss
+OWNX--: we simulate examples runaway selection leading negligible senescence even intrinsic immortality
+MISC--: senescence usually treated synonymous aging refers deterioration physiological condition age manifest increase mortality decline fertility
+MISC--: since this phenomenon detrimental reproductive success natural selection might expected cause its postponement elimination life history organisms
+MISC--: its apparent ubiquity natural world therefore been treated challenge evolutionary theory citation
+MISC--: there general acceptance this challenge principle been met modern understanding widespread occurrence senescence nature been hailed one great triumphs evolutionary thinking citation
+MISC--: discussions evolution senescence broadly follow one two paradigms based either classical population genetics physiological ecology citation
+MISC--: first emphasizes accumulation late acting deleterious mutations hypothesized genes age specific expression citation citation
+MISC--: more generally this paradigm hypothesizes antagonistic pleiotropy age specific genes mutations confer fitness benefit early life at cost some deleterious effect later citation citation
+MISC--: key insight this perspective force selection additive component genetic variance necessarily declines age so early age cost more strongly selected against than equivalent late age cost fortiori early age benefit more than compensates late age cost citation
+MISC--: hamilton concludes organisms reproduce repeatedly senescence expected inevitable consequence working natural selection citation
+MISC--: this population genetic analysis been challenged recently both theoretically empirically
+MISC--: first declining force selection only guaranteed mutations additive effects been suggested mutations proportional effects force selection need not decline age may more relevant citation
+OWNX--: second hamilton himself concedes what extent exactly what way life schedules will moulded natural selection depends what sort genetical variation available citation
+MISC--: thus more genes there more evolutionary pressure there will toward compressed life histories
+MISC--: however despite much empirical work over several decades evidence availability genes necessary age specific effects appears thin
+MISC--: contrast classical population genetic approach disposable soma theory citation citation citation based firmly within physiological ecology
+MISC--: thus claimed birth death schedules result action integrated physiological processes concerned optimal partitioning available resources between reproduction somatic maintenance growth
+MISC--: particular there inherent cost reproduction early age reproductive benefit incurs late age cost decreased survival possibly form latent damage only unmasked later life citation
+OWNX--: relevant genetic mutations must effects manifest at this physiological level
+MISC--: this potentially much more constraining paradigm though apparently more strongly supported current evidence citation citation
+MISC--: nevertheless given this tradeoff between early fecundity longevity again generally been concluded senescence inevitable citation
+MISC--: particular immortality long been considered theoretically impossible because inevitability senescent aging citation citation
+MISC--: yet this understanding evolution senescence fails account organisms showing negligible even negative senescence citation citation
+MISC--: species freshwater hydra vulgaris citation period survival remains constant increases adult age
+MISC--: they include some organisms apparently indefinite lifespans great basin bristlecone pine pinus longaeva citation citation continues producing viable cones at well over y old quaking aspen populus tremuloides citation creosote bush larrea tridentata citation both clonal clusters at least y old
+MISC--: other examples citation recently led reversal traditional perspective problem was explain evolution senescence nonsenescence
+MISC--: contrary given ubiquity senescence nature abundance explanations its presence seems very unlikely majority today s organisms descended nonsenescent ancestors
+MISC--: rather important issue now provide evolutionary account those organisms appear exhibit little no senescence but almost certainly evolved ancestors did exhibit senescence
+MISC--: rising this challenge theoretical analysis costs senescent aging citation shown although senescence often favored high sustained early vitality nonsenescing strategies locally optimal if vitality loss presence senescence would otherwise sufficiently fast
+MISC--: similarly optimization model citation shown how negative senescence evolve species grow body size throughout their lives if this growth carries proportionate benefits increasing reproductive output decreasing mortality
+MISC--: both analyses concerned optimal tradeoff between fecundity mortality so lie within disposable soma paradigm
+MISC--: analyses not modeled density dependence except implicitly limiting case population growth set zero
+AIMX--: this paper we construct explicit models within disposable soma paradigm very general class organisms including those without indefinite somatic growth
+MISC--: reveal density dependence recruitment sufficient driver evolution nonsenescent life histories senescent ancestors
+MISC--: density limited recruitment sets up balance opposing selective forces underpins direction evolution toward either compressed spread reproductive life
+MISC--: thus one hand future reproduction worth less than present reproduction individual s fitness given future extrinsic mortality risk citation
+MISC--: other hand future reproduction individual s mature offspring may worth more its inclusive fitness than its own present reproduction if otherwise viable offspring face extrinsic mortality risk before recruitment
+OWNX--: crucial advance we make prefigured abrams citation who showed faster senescence favored positive zero density independent growth also density dependent adult mortality whereas slower senescence requires density dependent fecundity
+OWNX--: our advance his analysis show how slower senescence take form runaway selection negligible senescence even intrinsic immortality
+MISC--: indeed density dependent recruitment reflects widely prevailing ecological condition bottom up regulation crowded habitats
+OWNX--: we show unwise either ignore represent only implicitly zero population growth because its ubiquity nature its significant consequences evolution senescence
+MISC--: here we perform optimization analysis vitality evolution fitness tradeoff between compression into earlier life spread into later life context density dependent recruitment accords abundant evidence reproduction intrinsically costly survival citation citation citation citation citation
+OWNX--: populations at recruitment regulated equilibrium we demonstrate generic conditions under natural selection itself increases extrinsic recruitment losses successive genomic invasions increasing level crowding within population
+MISC--: stronger density dependence means fewer recruitment opportunities into adult population therefore natural selection weighted toward maximizing generation length over early age vitality
+MISC--: this positive feedback leads novel result density regulation trigger selection ever reducing senescence
+OWNX--: we develop model shows potential runaway selection reduced senescence arise across wide range age specific vitality profiles including accelerating loss early late onset constant aging
+OWNX--: we find natural selection favor evolution nonsenescence even immortality senescence presence exogenous mortality without requirement special life history characteristics increasing intrinsic fecundity age
+MISC--: simulations this process given various scenarios including stochastic environments
+OWNX--: first four results sections develop our analytical framework
+OWNX--: section outlines assumptions we make about action density dependent recruitment
+OWNX--: section specifies precisely relation between concepts we use vitality senescent nonsenescent aging
+MISC--: our approach define concepts terms instantaneous rates rather than rate change age specific reproductive value
+OWNX--: section model invasion mutations outlines our assumptions concerning effects mutations key life history parameter controlling rate senescence states our main result concerning possibility evolution highly compressed life history highly spread life history
+OWNX--: section example describes specific example evolution positive senescence non senescence
+OWNX--: finally section simulations outlines stochastic simulations model
+OWNX--: supporting material provided methods section text s
+OWNX--: we conclude discussion model predictions life history conditions biotic environments favor negligible senescence

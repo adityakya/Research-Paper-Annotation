@@ -1,0 +1,24 @@
+MISC--: often detriment human decision making people prone impact bias when making affective forecasts overestimating emotional consequences future events
+MISC--: cognitive processes underlying impact bias methods correcting been debated warrant further exploration
+AIMX--: present investigation we examined both individual differences contextual variables associated cognitive processing affective forecasting election
+OWNX--: results showed perceived importance event working memory capacity were both associated increased impact bias some participants whereas retrieval interference had no relationship bias
+MISC--: additionally experimental manipulation effectively reduced biased forecasts particularly among participants who were most distracted thinking about peripheral life events
+MISC--: findings theoretical implications understanding impact bias highlight importance individual differences affective forecasting ramifications future decision making research
+OWNX--: possible functional role impact bias discussed within context evolutionary psychology
+OWNX--: benjamin franklin observed declaration independence doesn t guarantee happiness only pursuit
+MISC--: you catch up yourself citation
+MISC--: part pursuing happiness involves making predictions about endeavors events yield most desired outcomes
+MISC--: life altering decisions contemplating who marry career pursue require reasoned predictions regarding long term emotional benefits
+OWNX--: when asked make affective forecasts people accurately predict direction valence their emotional reactions but show surprisingly poor ability predict intensity duration their anticipated feelings citation
+MISC--: more specifically people generally overestimate emotional impact future events phenomenon termed impact bias citation
+MISC--: people expect endless despair response romantic breakups enduring euphoria response winning lottery whereas reactions tend more fleeting than anticipated citation
+MISC--: although impact bias tends somewhat greater distressing events been found predictions both positive negative events including holidays final course grades tenure decisions housing assignments sports outcomes meals prize money missed train departures elections citation
+MISC--: because people often make decisions based their predicted emotional reactions impact bias leads frequent errors decision making citation
+MISC--: affective forecasting research highlighted importance assessing both predicted actual emotional reactions since one type reaction cannot merely taken proxy other
+MISC--: nonetheless due difficulty conducting biphasic investigations researchers often chosen examine forecasts only citation use between group design predicted actual reactions event measured across different samples citation
+MISC--: fact meta analysis currently underway citation indicates only small number n number number total forecasting studies used solid repeated measures design same participants provided both predicted actual reactions same event
+MISC--: only two focused extensively non demographic individual difference variables citation
+CONT--: although impact bias been described past researchers relatively general phenomenon study individual differences affective forecasting help reveal thought processes underlying impact bias
+MISC--: past research theory implicated working memory capacity proneness retrieval interference important individual difference variables may influence biased forecasts
+OWNX--: present investigation repeated measures design was used determine whether individual differences cognitive processing influence predicted reactions actual reactions both
+OWNX--: furthermore we attempted account core situational moderators impact bias namely use bias reduction strategy well perceived importance event question

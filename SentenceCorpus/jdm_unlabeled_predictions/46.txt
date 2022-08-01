@@ -1,0 +1,60 @@
+MISC--: researchers decision making tradition usually analyze multiple decisions within experiments aggregating choices across individuals using individual subject unit analysis
+OWNX--: this approach mask important variations patterns within data
+MISC--: specifically ignores variations decisions across task game possible influences characteristics subject experiment variations
+OWNX--: we demonstrate reanalyzing data two previously published articles how mixed model analysis addresses limitations
+OWNX--: our results modified iowa gambling task prisoner s dilemma game illustrate ways analysis test hypotheses not possible other techniques more parsimonious more likely faithful theoretical models
+MISC--: experiments within broad decision making tradition involve subjects making multiple decisions either different partners groups citation repeated decisions learning task citation
+MISC--: analyses data typically involve examination how rewards received related characteristics experiment individuals involved citation
+MISC--: complex multivariate analyses relatively rare
+OWNX--: this typical analytic approach at least one major drawback
+MISC--: most studies this tradition involve multiple decisions each individual
+MISC--: each subject participates several decisions
+MISC--: entirely possible individuals vary their decisions across rounds play they engage
+OWNX--: looking at average results decisions could mask important variations patterns within data
+MISC--: aggregated analyses do not allow researcher fully examine ways characteristics participants experimental design affect decisions
+CONT--: other words analyses provide descriptive results but only hints decision making dynamics within experiments
+OWNX--: we suggest data experiments fit classic form multi level nested data sets they usually include multiple decisions actor within one more set conditions
+OWNX--: mixed models been specifically developed deal multi level units observation help us understand process dynamics decision making within our studies
+AIMX--: this paper we describe logic mixed model analyses contrasting them familiar within between subject designs
+OWNX--: we then demonstrate use models decision making data reanalyzing data two previously published articles
+MISC--: first study citation involves modification iowa gambling task multiple decisions individual players response variety stimuli second citation involves prisoner dilemma games conducted within seven person groups
+CONT--: finally we briefly describe wide range possible applications advantages approach provide pragmatic advice using hierarchical models encourage their broader use decision making research
+OWNX--: although major aim this paper illustrate utility this method we include appendix sas language used our analyses provide greater transparency encourage use method
+MISC--: mixed model one there both between within subject variables
+MISC--: noted above studies decision research literature often focus exclusively between subject variables their analyses ignore within subject variables those affect variations decisions one individual makes
+MISC--: yet variations individuals decisions often theoretically substantively important
+OWNX--: thus we argue more natural fruitful parsimonious analyze many decision making studies using mixed model approach
+MISC--: addition mixed models very flexible adapt wide variety experimental designs
+OWNX--: pure within subjects design all subjects serve all treatment conditions
+MISC--: first panel table number illustrates this design assuming there two different design elements b
+MISC--: this design each subject s participates each condition design element design element b b
+MISC--: example would classic lichtenstein slovic citation study gamblers las vegas casino showed within subject preference reversals based response mode bids choices
+MISC--: pure between subjects design one each subject serves only single condition there no within subject variation
+MISC--: this design illustrated second panel table number where each subject s only one condition two design conditions b
+MISC--: other words pure between subjects design subjects nested within b ab each subject contributes single observation dependent variable thus appears only single treatment condition
+MISC--: many decision making studies use this design citation simplify their data mimic this design summarizing across all decisions individual makes form summary score citation
+OWNX--: this summary number then used dependent variable
+MISC--: researchers also use design involves repeated measures conditions one more factors presented each subject within subject variables set rewards neuroimaging study variables gender culture experimental conditions positive negative frames subjects do not share between subject variables
+MISC--: this design frequently referred psychologists mixed design illustrated third part table number b within subjects factor between subjects factor
+MISC--: term mixed particularly apt there sources variance produced between subjects differences within subjects differences both types differences contribute statistical analysis
+AIMX--: this design allows us assess within subject differences at same time we study between subject relationships
+OWNX--: design also allows us model dependency successive decisions what technically called auto regression tendency individuals behave similar manner one decision another
+MISC--: researchers used mixed models variety settings
+MISC--: much original work mixed models was conducted agricultural settings thus statisticians also refer models split plot design
+CONT--: agricultural setting plots were often considered random each plot exposed same set fixed experimental conditions one experimental variables while plots were nested within experimental conditions different experimental variable
+MISC--: mixed designs contain at least one within subject plot variable at least one between subject plot variable citation
+MISC--: panel models used economists both between units often firms component within units changes over time component citation
+MISC--: sociologists used hierarchical linear models examine influence characteristics school classrooms entire schools individual student achievement citation
+MISC--: developmental psychologists educational researchers used models examine growth curves changes individuals achievement developmental characteristics within subject variable students varying different characteristics between subject analysis citation
+MISC--: thus there wide variety analytical methods pay close attention within between individual group variables
+MISC--: two widely used general modeling strategies hierarchical linear models mixed models
+MISC--: either allows modeling random variation individuals decisions nested within individuals
+OWNX--: situations analyzed this paper either hierarchical linear modeling mixed modeling approach used
+AIMX--: we suggest general logic this approach applied issues facing experimenters studying decision making help researchers develop more accurate understanding elements decision making process lead hypothesized outcomes
+MISC--: within many experiments given individual makes numerous choices often across variety experimental settings
+OWNX--: because individuals make multiple decisions decisions not statistically independent
+OWNX--: usual method handling data simply aggregate all decisions level individual ignore any intra individual variation
+MISC--: practice however ignores potential variation limits extent researchers assess impact experimental variables individual choice
+MISC--: also encourages researchers conduct numerous separate bivariate analyses
+CONT--: use mixed models provide both more inclusive yet more parsimonious efficient method analysis
+OWNX--: we now illustrate utility models reanalyzing data two different studies

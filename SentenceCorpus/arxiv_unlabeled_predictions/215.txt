@@ -1,0 +1,69 @@
+MISC--: given random binary sequence symbol random variables symbol symbol instance one generated markov source order symbol each state represented symbol bits
+MISC--: let symbol probability symbol assume constant respect symbol due stationarity
+MISC--: consider learner based parametric model instance markov model order symbol who trains sample sequence symbol randomly drawn source
+MISC--: test learner s performance giving sequence symbol generated source check its predictions every bit symbol error occurs at time symbol if prediction symbol differs true bit value symbol
+MISC--: denote symbol sequence errors where error bit symbol at time symbol equals symbol symbol according whether event error occurs not respectively
+OWNX--: consider subsequence symbol symbol corresponds errors predicting symbol ie symbol consists bits symbol only at times symbol symbol this paper we compute upper bound deviation frequency symbol s symbol symbol showing dependence symbol symbol symbol
+MISC--: basic theory finite markov chains since matrix symbol stochastic i e sum elements any row equals symbol then symbol stationary joint probability distribution symbol not necessarily unique
+OWNX--: keep notation simple we use symbol denote also any marginal distribution derived stationary joint distribution
+MISC--: instance symbol
+OWNX--: henceforth all random binary sequences assumed drawn according this probability distribution symbol
+MISC--: thus any symbol symbol satisfying symbol probability string symbol expressed symbol let us denote symbol stationary probability event symbol at time symbol
+OWNX--: data generation we henceforth assume source reached stationarity produces data sequence symbol respect symbol
+MISC--: consider learner s model symbol
+MISC--: its set parameters true unknown probability values transitions between states symbol where probability values assigned according source distribution symbol
+OWNX--: we denote them symbol instance suppose symbol symbol consider two states symbol symbol
+MISC--: corresponding transition probability symbol based symbol learner estimates symbol symbol where state symbol symbol denotes number times symbol appears symbol symbol denotes number times there transition state symbol symbol symbol
+MISC--: instance if symbol symbol symbol then symbol
+MISC--: thus symbol frequency state transitions symbol
+MISC--: note symbol symbol dependent random variables since markov chain may visit each state random number times they must satisfy symbol
+OWNX--: after training learner tested remaining symbol bits data symbol
+MISC--: makes binary prediction symbol symbol symbol based maximum posteriori probability defined follows suppose current state symbol then prediction symbol where symbol defined symbol state symbol obtained symbol type transition i e if symbol then symbol
+MISC--: corresponding true probability value denoted symbol
+AIMX--: note may expressed alternatively symbol we claim symbol symbol independent random variables when conditioned vector symbol
+OWNX--: we now prove claim will used section
+MISC--: let us denote symbol symbol symbol particular sequence states corresponding sequence symbol
+OWNX--: show dependence symbol symbol we will sometimes write symbol
+MISC--: then we symbol since at every bit there only two types transitions then not every sequence symbol possible
+MISC--: instance if symbol then state sequence symbol valid but symbol not valid
+MISC--: denote symbol set valid state sequences symbol
+MISC--: we now show if symbol symbol then conditioned symbol any other state sequence visits same states symbol same number times perhaps different order must same probability
+MISC--: any state symbol denote symbol random variable whose value number type transitions state symbol sequence random states symbol
+MISC--: define symbol number type transitions state symbol sequence symbol
+MISC--: since all state transitions either type type then we symbol where symbol was defined above
+MISC--: let symbol non negative integer parameter define random variable symbol
+MISC--: associate conditional probability function parameter symbol random variable symbol symbol then right side equals symbol fixed value symbol event symbol equivalent event symbol
+MISC--: hence alternatively right side expressed symbol right side product probability functions random variables symbol
+MISC--: so conditioned symbol event symbol corresponds valid state sequence symbol event symbol generated source markov chain symbol equivalent event its corresponding state sequence symbol transition frequencies symbol independently take particular values symbol prescribed symbol
+MISC--: claim proved
+MISC--: also follows symbol average independent bernoulli trials success taken type transition state symbol
+MISC--: distributed according binomial distribution parameters symbol symbol
+AIMX--: we now summarize problem setting under main result paper holds
+MISC--: problem setting let symbol symbol positive integers
+OWNX--: let symbol stationary probability distribution based finite ergodic reversible markov chain probability transition matrix symbol second largest eigenvalue symbol
+OWNX--: all probability values measured according symbol
+MISC--: denote symbol
+MISC--: after reaching stationarity source generates binary sequence symbol repeatedly drawing symbol according symbol
+MISC--: denote symbol
+MISC--: let symbol data sequence obtained randomly drawing according symbol
+MISC--: let learner s model symbol markov order symbol denote symbol probability making type transition state symbol symbol
+OWNX--: learner uses first symbol bits symbol estimate symbol symbol
+MISC--: let symbol denote number times state symbol appears symbol symbol
+MISC--: after training learner s decision at state symbol output symbol if symbol else output symbol
+MISC--: denote symbol probability binomial random variable parameters symbol symbol larger smaller than symbol given symbol smaller larger than symbol respectively
+MISC--: let symbol
+MISC--: let symbol
+MISC--: using symbol learner tested incrementally remaining symbol bits symbol data predicts output bit symbol bit symbol symbol symbol if symbol else symbol
+MISC--: denote symbol sequence mistakes where symbol if symbol symbol otherwise symbol
+MISC--: denote symbol symbol subsequence symbol time instants symbol corresponding symbol predictions symbol symbol
+MISC--: note symbol also subsequence input sequence symbol hence effectively learner acts selection rule picks certain bits symbol symbol
+AIMX--: let symbol assume learner s model order symbol satisfies symbol we now state main result paper
+OWNX--: before presenting proof we make following remarks effect training sequence length symbol symbol symbol symbol
+MISC--: symbol increases class possible learnt models hypothesis class decreases size thereby decreasing bound symbol deviation error sequence
+MISC--: effect learner s model order symbol opposite symbol
+MISC--: we see symbol symbol increases hypothesis class increases size
+MISC--: effect length symbol error sequence symbol symbol
+MISC--: clearly longer subsequence less chance its frequency s deviate mean symbol
+MISC--: effect inter dependence between states source model symbol symbol symbol
+MISC--: dependence increases symbol decreases increases possible deviation size symbol
+MISC--: symbol decreases bits sequence symbol become less dependent symbol decreases

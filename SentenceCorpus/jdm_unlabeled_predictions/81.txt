@@ -1,0 +1,53 @@
+MISC--: this article presents several studies replicate extend previous research maximizing
+MISC--: modified scale measuring individual maximizing tendency introduced
+MISC--: scale adequate psychometric properties reflects maximizers aspirations high standards their preference extensive alternative search but not decision difficulty aspect included several previous studies
+OWNX--: based this scale maximizing positively correlated optimism need cognition desire consistency risk aversion intrinsic motivation self efficacy perceived workload whereas association regret inconsistent
+MISC--: analysis correlates difficulty dimension suggests decision difficulty should conceptualized separate dimension rather than sub dimension maximizing
+MISC--: opportunities future research suggested
+MISC--: distinction between maximizing satisficing approaches decision making long been considered important decision making literature citation
+MISC--: when maximizing decision makers hope find best possible solution systematically comparing available alternatives based well defined preferences
+MISC--: when satisficing contrast decision makers aspire find solution meets important minimum requirements aspirations i e option good enough rather than best
+MISC--: schwartz et al citation attracted considerable attention interest when proposing individuals differ their global disposition maximize versus satisfice decision making
+MISC--: new maximizing scale was claimed adequately measure individual maximizing tendency was presented
+MISC--: based analysis correlates this scale maximizers seemed less happy life less optimistic possess lower self esteem
+MISC--: maximizers also appeared more prone depression perfectionism regret well more inclined engage upward social comparison than satisficers
+MISC--: accordingly schwartz citation argued maximizing represents recipe unhappiness due overly high expectations self fulfilling fears regret
+OWNX--: increased opportunities choice were also claimed represent particular burden maximizers who would feel compelled explore all possible opportunities find increasingly difficult make choice
+MISC--: this line reasoning corresponds schwartz s citation previous research problems related increased choice possible tyranny freedom schwartz citation recommended decision makers should make efforts learn accept good enough rather than searching elusive best well stop worrying about what they missing
+MISC--: subsequent research replicated several key results schwartz et al s citation studies identified other negative correlates
+MISC--: example findings parker bruine de bruin fischoff citation suggest maximizing associated worse life outcomes less behavioral coping greater dependence others more decision avoidance
+MISC--: parker et al citation argued if relationships causal then importance teach normative decision making skills well stress benefits satisficing order obtain better outcomes
+MISC--: inspired research opportunities associated schwartz et al s citation maximizing scale well prospects offering practical advice decision makers scale was introduced several groups graduate students business administration norway
+OWNX--: some groups responded original english version scale while other groups rated items pilot version norwegian based preliminary translations items
+MISC--: surprisingly hardly any subjects seemed maximizers based their scores original maximizing scale regardless whether scale was presented original english version pilot version norwegian
+MISC--: all but very few subjects reported satisficing approaches most tasks depicted items scale
+MISC--: yet based discussions schwartz et al s citation theoretical underpinnings many subjects reported they indeed considered themselves maximizers
+MISC--: however many items scale were seen too commonplace too inconsequential set off maximizing efforts
+MISC--: subjects also argued many items referred situations were irrelevant them
+MISC--: this feedback indicated many items scale not sufficiently general terms item content simultaneously not sufficiently relevant measure differences individual maximizing tendency across samples settings cultures
+MISC--: limitations construct validity scale also been stressed diab gillespie highhouse citation among others
+MISC--: diab et al citation argued uni dimensionality internal consistency important characteristics maximization attribute all thirteen items scale should load onto one factor
+CONT--: however schwartz et al s citation scale comprises three distinct sub dimensions several items produce relatively weak inconsistent factor loadings
+MISC--: accordingly there been debate literature concerning validity construct factor structure reliability scale well proposed correlates indicating maximizers less happy than satisficers
+MISC--: diab et al citation asserted findings indicating maximizers less happy than satisficers need interpreted light inadequate definition measurement core construct
+MISC--: based definition individual maximizing tendency general tendency pursue identification optimal alternative diab et al citation presented several alternative measures
+MISC--: hypothesized schwartz et al s citation maximizing scale produced significantly higher correlations maladaptive personality traits dysfunctional decision making behaviors regret indecisiveness avoidance neuroticism life satisfaction than several diab et al s citation alternative measures including their nine item scale
+MISC--: nenkov morrin ward schwartz hulland citation also addressed factor structure reliability validity schwartz et al s citation maximizing scale several short forms scale were tested using datasets different populations
+MISC--: results replicated three factor solution schwartz et al citation
+MISC--: nenkov et al citation interpreted first dimension reflect preference extensive alternative search i e desire continue seeking even better options
+MISC--: second dimension was interpreted reflect decision difficulty i e decision makers perceived difficulty choosing making decisions
+MISC--: third dimension was taken represent decision makers tendency hold high standards themselves their surroundings
+MISC--: nenkov et al citation argued along same lines diab et al citation stressing need uni dimensionality internal consistency measurements maximizing construct
+MISC--: however although several short versions schwartz et al s citation scale appeared equally useful when analyzing correlates three sub dimensions varied their correlation other variables
+MISC--: nenkov et al citation therefore argued three dimensions should examined separately future research there need resolve whether all perhaps only one two three sub dimensions represent inherent components maximizing construct
+MISC--: research reported diab et al citation nenkov et al citation suggests measurement individual maximizing tendency associated several fundamental methodological problems need resolved order advance research this area
+MISC--: view interest schwartz et al s citation seminal article relatively few studies report empirical findings based original scale refined versions scale so far
+MISC--: important exceptions include carrillat edmondson ladik s citation study customer loyalty iyengar wells schwartz s citation investigation job search strategies bruine de bruin parker fischoff s citation investigation individual differences decision making competence parker bruine de bruin fischoff s citation exploration decision making styles competence outcomes chowdhury ratneshwar mohanty s citation investigation maximizing versus satisficing consumers lewer gerlich gretz citation analysis determinants maximizing consumer purchase
+MISC--: ambition studies reported here was threefold
+MISC--: first purpose derives lack success when introducing schwartz et al s citation scale new population was contribute improving measurement scale testing original new items across several new large samples
+MISC--: second purpose was replicate extend previous studies correlates individual maximizing tendency
+MISC--: improved insight into correlates may shed better light maximizers personality traits driving forces behind efforts maximize decision making
+OWNX--: instrument development testing across subjects settings important practical well theoretical methodological reasons
+MISC--: reliable scale adequate factor structure discriminate validity would facilitate future research maximizing citation
+OWNX--: efforts develop adequate scale may also improve our understanding core construct aid development clearer definition better nomological net
+MISC--: attention attracted schwartz et al s citation research also demonstrates reliable scale high interest high potential value decision makers who wish reflect improve their decision making

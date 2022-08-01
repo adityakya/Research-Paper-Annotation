@@ -1,0 +1,29 @@
+AIMX--: this paper focuses problem kernelizing existing supervised mahalanobis distance learner
+AIMX--: following features included paper
+MISC--: firstly three popular learners namely neighborhood component analysis large margin nearest neighbors discriminant neighborhood embedding do not kernel versions kernelized order improve their classification performances
+MISC--: secondly alternative kernelization framework called kpca trick presented
+MISC--: implementing learner new framework gains several advantages over standard framework eg no mathematical formulas no reprogramming required kernel implementation framework avoids troublesome problems singularity etc
+MISC--: thirdly while truths representer theorems just assumptions previous papers related ours here representer theorems formally proven
+MISC--: proofs validate both kernel trick kpca trick context mahalanobis distance learning
+OWNX--: fourthly unlike previous works always apply brute force methods select kernel we investigate two approaches efficiently adopted construct appropriate kernel given dataset
+OWNX--: finally numerical results various real world datasets presented
+MISC--: recently many mahalanobis distance learners invented shortcite chen cvpr goldberger nips weinberger nips yang aaai sugiyama icml yan pami wei icml torresani nips xing nips
+MISC--: recently proposed learners carefully designed so they handle class problems where data one class form multi modality where classical learners principal component analysis pca fisher discriminant analysis fda cannot handle
+MISC--: therefore promisingly new learners usually outperform classical learners experiments reported recent papers
+MISC--: nevertheless since learning mahalanobis distance equivalent learning linear map inability learn non linear transformation one important limitation all mahalanobis distance learners
+CONT--: research mahalanobis distance learning just recently begun several issues left open some efficient learners do not non linear extensions kernel trick citation standard non linearization method not fully automatic sense new mathematical formulas derived new programming codes implemented this not convenient non experts existing algorithms assume truth representer theorem shortcite chapter scholkopf book however our knowledge there no formal proof theorem context mahalanobis distance learning problem how select efficient kernel function been left untouched previous works currently best kernel achieved via brute force method cross validation
+AIMX--: this paper we highlight following key contributions symbol three popular learners recently proposed literatures namely neighborhood component analysis nca shortcite goldberger nips large margin nearest neighbors lmnn shortcite weinberger nips discriminant neighborhood embedding dne shortcite wei icml kernelized order improve their classification performances respect knn algorithm
+MISC--: symbol kpca trick framework presented alternative choice kernel trick framework
+MISC--: contrast kernel trick kpca trick does not require users derive new mathematical formulas
+OWNX--: also whenever implementation original learner available users not required re implement kernel version original learner
+OWNX--: moreover new framework avoids problems singularity eigen decomposition provides convenient way speed up learner
+MISC--: symbol two representer theorems context mahalanobis distance learning proven
+OWNX--: our theorems justify both kernel trick kpca trick frameworks
+MISC--: moreover theorems validate kernelized algorithms learning mahalanobis distance any separable hilbert space also cover kernelized algorithms performing dimensionality reduction
+MISC--: symbol problem efficient kernel selection dealt
+OWNX--: firstly we investigate kernel alignment method proposed previous works shortcite lanckriet jmlr zhu nips see whether appropriate kernelized mahalanobis distance learner not
+OWNX--: secondly we investigate simple method constructs unweighted combination base kernels
+OWNX--: theoretical result provided support this simple approach
+CONT--: kernel constructions based our two approaches require much shorter running time when comparing standard cross validation approach
+MISC--: symbol knn already non linear classifier there some doubts about usefulness kernelizing mahalanobis distance learners shortcite pp weinberger nips
+OWNX--: we provide explanation conduct extensive experiments real world datasets prove usefulness kernelization

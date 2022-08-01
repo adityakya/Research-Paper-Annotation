@@ -1,0 +1,26 @@
+MISC--: research reinforcement learning produced algorithms optimal decision making under uncertainty fall within two main types
+MISC--: first employs bayesian framework where optimality improves increased computational time
+OWNX--: this because resulting planning task takes form dynamic programming problem belief tree infinite number states
+MISC--: second type employs relatively simple algorithm shown suffer small regret within distribution free framework
+OWNX--: this paper presents lower bound high probability upper bound optimal value function nodes bayesian belief tree analogous similar bounds pomdps
+OWNX--: bounds then used create more efficient strategies exploring tree
+CONT--: resulting algorithms compared distribution free algorithm ucb well simpler baseline algorithm multi armed bandit problems
+MISC--: recent work citation bayesian methods exploration markov decision processes mdps solving known partially observable markov decision processes pomdps well exploration latter case been proposed
+MISC--: all methods suffer computational intractability problems most domains interest
+MISC--: sources intractability two fold
+MISC--: firstly there may no compact representation current belief
+MISC--: this especially true pomdps
+OWNX--: secondly optimally behaving under uncertainty requires we create augmented mdp model form tree citation where root node current belief state pair children all possible subsequent belief state pairs
+MISC--: this tree grows large very fast particularly problematic grow case continuous observations actions
+BASE--: this work we concentrate second problem consider algorithms expanding tree
+AIMX--: since bayesian exploration methods require tree expansion performed we view whole problem nested exploration
+MISC--: simplest exploration exploitation trade off setting bandit problems there already exist nearly optimal computationally simple methods citation
+MISC--: methods recently been extended tree search citation
+MISC--: this work proposes take advantage special structure belief trees order design nearly optimal algorithms expansion nodes
+OWNX--: sense recognising tree expansion problem bayesian look ahead exploration methods also optimal exploration problem we develop tree algorithms solve this problem efficiently
+OWNX--: furthermore we able derive interesting upper lower bounds value branches leaf nodes help limit amount search
+MISC--: ideas developed tested multi armed bandit setting nearly optimal algorithms already exist
+BASE--: remainder this section introduces augmented mdp formalism employed within this work discusses related work
+OWNX--: section discusses tree expansion exploration problems introduces some useful bounds
+OWNX--: bounds used algorithms detailed section then evaluated section
+OWNX--: we conclude outlook further developments

@@ -1,0 +1,36 @@
+MISC--: mechanical force plays important role physiology eukaryotic cells whose dominant structural constituent actin cytoskeleton composed mainly actin actin crosslinking proteins
+MISC--: thus knowledge rheological properties actin networks crucial understanding mechanics processes cells
+OWNX--: we used brownian dynamics simulations study viscoelasticity crosslinked actin networks
+MISC--: two methods were employed bulk rheology segment tracking rheology where former measures stress response applied shear strain latter analyzes thermal fluctuations individual actin segments network
+MISC--: was demonstrated storage shear modulus increases more addition acps form orthogonal crosslinks than those form parallel bundles
+MISC--: networks orthogonal crosslinks crosslink density increases power law exponent g function oscillation frequency decreases reflects transverse thermal motion actin filaments near zero at low frequency
+MISC--: under increasing prestrain network becomes more elastic three regimes behavior observed each dominated different mechanisms bending actin filaments bending acps at highest prestrain tested stretching actin filaments acps
+OWNX--: last case only small portion actin filaments connected via highly stressed acps support strain
+OWNX--: we thus introduce concept supportive framework subset full network responsible high elasticity
+MISC--: notably entropic effects due thermal fluctuations appear important only at relatively low prestrains when average crosslinking distance comparable greater than persistence length filament
+OWNX--: taken together our results suggest viscoelasticity actin network attributable different mechanisms depending amount prestrain
+MISC--: actin most abundant intracellular protein eukaryotic cells plays important role wide range biological mechanical phenomena citation
+MISC--: monomeric actin self assembles filamentous form f actin crosslinked into actin cytoskeleton various actin crosslinking proteins
+MISC--: been known mechanical force plays crucial role physiology eukaryotic cells citation therefore appropriate functions living cells attributable rigorous control their rheological properties citation
+MISC--: thus investigating rheological properties actin networks indispensable elucidating mechanics cells well understanding wide variety cellular processes
+MISC--: experiments been conducted probe viscoelastic properties cells reconstituted actin gels using variety techniques microbead rheology magnetic bead cytometry bulk rheology citation citation
+OWNX--: experiments discrepancies been observed among measurements using dissimilar methodologies many observed features not well understood
+MISC--: example viscoelastic moduli measured single bead passive microbead rheology much smaller than those determined point microrheology bulk rheology citation citation
+MISC--: also although distinct power law responses storage modulus often been observed vivo vitro citation citation their origin not yet clearly understood
+MISC--: concurrently characteristics semi flexible polymer networks been studied theoretically computationally citation citation
+MISC--: two citation citation dimensional computational models citation studying affine nonaffine deformations semi flexible networks responding large shear strain revealed two regimes dominated bending stretching filaments respectively
+MISC--: recently using microstructure based continuum mechanics approach palmer boyce reproduced many rheological properties actin networks observed experiments citation
+MISC--: viscoelastic behavior semi flexible networks was also investigated using dissipative particle dynamics concept microbead rheology where scale free behavior bead displacement was observed citation citation
+MISC--: date however most models neither explicitly take into account acp mechanics nor systematically account thermal fluctuations nor they been used explore effects finite prestress viscoelasticity all potentially important factors governing matrix viscoelasticity
+OWNX--: objective extending previous works providing new insights into underlying mechanisms we develop brownian dynamics model actin network includes features steric interaction among filaments usage explicit crosslinkers more realistic morphology consideration crosslinker stiffness
+MISC--: measuring stress response applied oscillatory shear strain thermal fluctuations individual segments polymeric chain we investigate viscoelastic properties actin like networks
+MISC--: throughout this paper convenience term actin network used refer network being simulated
+CONT--: should noted however some properties employed our model especially acps were estimated since they not well known experimentally
+MISC--: due simplifications model parameter uncertainty results should therefore viewed representative generic crosslinked network but lack quantitatively precise correspondence actin networks
+OWNX--: nevertheless we found features semi quantitatively capture experimentally observed behaviors actin networks
+MISC--: storage loss moduli g g followed power laws functions oscillation frequency
+MISC--: prestrain increased network became increasingly elastic
+MISC--: bending extensional stiffnesses actin filaments acps played important role depending degree prestrain
+MISC--: we found mechanical response network dominated percolating supportive framework while other actin filaments contribute little viscoelastic moduli
+MISC--: surprisingly typical physiological conditions where distance between crosslinking points along f actin much shorter than actin persistence length we found thermal fluctuation plays little role viscoelasticity so network consisting crosslinked f actins viewed essentially deterministic overdamped system viscous medium
+MISC--: sum our computational model elucidates how various mechanical responses govern viscoelastic properties network under different conditions

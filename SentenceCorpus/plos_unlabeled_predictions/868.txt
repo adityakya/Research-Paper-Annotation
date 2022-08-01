@@ -1,0 +1,39 @@
+MISC--: transitive inference class inclusion variety other inferential abilities strikingly similar developmental profiles all acquired around age five
+MISC--: yet little known about reasons this correspondence
+MISC--: category theory was invented formal means establishing commonalities between various mathematical structures
+MISC--: we use category theory show transitive inference class inclusion involve dual mathematical structures called product coproduct
+MISC--: other inferential tasks similar developmental profiles including matrix completion cardinality dimensional changed card sorting balance scale theory mind also involve structures
+OWNX--: contrast products not involved behaviours exhibited younger children tasks simplified versions within their ability
+MISC--: results point fundamental cognitive principle under development during childhood capacity compute products categorical sense
+MISC--: children acquire various reasoning skills over remarkably similar periods development
+MISC--: transitive inference class inclusion two behaviours among suite inferential abilities strikingly similar developmental profiles all acquired around age five years citation
+MISC--: example older children infer if john taller than mary mary taller than sue then john taller than sue
+MISC--: this form reasoning called transitive inference
+MISC--: older children also understand grocery store will contain more fruit than apples
+MISC--: number items belonging superclass greater than number items any one its subclasses
+MISC--: this form reasoning called class inclusion
+MISC--: two types inference appear little common
+MISC--: transitive inference typically involves physical relationships between objects while class inclusion involves abstract relative sizes object classes
+MISC--: nonetheless explicit tests other inferences range age groups revealed success was attained about median age five years citation
+MISC--: since piaget decades research revealed important clues regarding development inference yet little known about reasons underlying correspondences
+MISC--: common theme two recent proposals computing relational information citation citation
+MISC--: regard relational complexity theory citation correspondence between commonly acquired cognitive behaviours based maximum arity relations must processed
+MISC--: regard cognitive complexity control theory citation correspondence based common depth relation hierarchies
+MISC--: although relational approach cognitive behaviour formal basis relational algebra citation certain assumptions must made about units analysis
+MISC--: tasks diverse procedure content transitive inference class inclusion difficult see how analysis one task leads naturally other
+MISC--: relational complexity theory transitive inference considered involve integration two binary relations between task elements into ordered triple ternary relation whereas class inclusion regarded integration three binary relations between three sets elements into ternary relation citation citation
+MISC--: cognitive complexity control theory transitive inference involves relations over items whereas class inclusion involves relations over sets items
+MISC--: this theoretical difficulty symptomatic general problem cognitive science where basic components cognition unknown
+MISC--: absence detailed knowledge cognitive modelers been forced assume particular representational format
+CONT--: this approach however does not lend itself current problem because elements transitive inference class inclusion tasks do not share common basis
+MISC--: understandably then sorts behaviours tended studied detailed isolation narrowing scope identifying general principles
+MISC--: category theory was born out desire establish formal commonalities between various mathematical structures citation citation since been applied analysis computational structures computer science
+MISC--: seminal insight was shift objects primary focus analysis their transformations
+MISC--: contrast instance sets defined terms objects they contain set theory against sets defined terms morphisms map them category theory citation
+OWNX--: this insight motivates our categorical approach analysis inference our way around current impasse
+MISC--: cognitive science several authors used category theory conceptual analysis space time citation citation though we know only one other application modeled empirical data citation
+OWNX--: since our application category theory cognitive behaviour novel we first introduce basic category theory constructs needed our subsequent analysis transitive inference class inclusion other paradigms
+OWNX--: analysis begins brief introduction sort data our approach intended explain primarily concerns contrasts between younger older children relative age five correlations across paradigms
+OWNX--: finally we extend our categorical approach more complex levels inference
+OWNX--: our main point despite apparent lack resemblance all tasks formally connected via categorical product defined below
+MISC--: significance this result opens door entirely new approach identifying general principles particularly regard development inferential abilities less likely revealed standard modeling methods

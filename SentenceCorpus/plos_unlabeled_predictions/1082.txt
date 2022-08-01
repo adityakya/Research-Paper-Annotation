@@ -1,0 +1,40 @@
+MISC--: biophysically detailed models single cells difficult fit real data
+OWNX--: recent advances imaging techniques allow simultaneous access various intracellular variables data used significantly facilitate modelling task
+OWNX--: data however noisy current approaches building biophysically detailed models not designed deal this
+MISC--: we extend previous techniques take noisy nature measurements into account
+OWNX--: sequential monte carlo methods combination detailed biophysical description cell used principled model based smoothing noisy recording data
+OWNX--: we also provide alternative formulation smoothing where neural nonlinearities estimated non parametric manner
+MISC--: biophysically important parameters detailed models inferred automatically noisy data via expectation maximisation
+OWNX--: overall we find model based smoothing powerful robust technique smoothing noisy biophysical data inference biophysical parameters face recording noise
+MISC--: recent advances imaging techniques allow measurements time varying biophysical quantities interest at high spatial temporal resolution
+MISC--: example voltage sensitive dye imaging allows observation backpropagation individual action potentials up dendritic tree citation citation
+MISC--: calcium imaging techniques similarly allow imaging synaptic events individual synapses
+MISC--: data very well suited constrain biophysically detailed models single cells
+OWNX--: both dimensionality parameter space noisy undersampled nature observed data renders use statistical techniques desirable
+MISC--: here we here use sequential monte carlo methods citation citation standard machine learning approach hidden dynamical systems estimation automatically smooth noisy data
+OWNX--: first step we will do this while inferring biophysically detailed models second step inferring non parametric models cellular nonlinearities
+MISC--: given laborious nature building biophysically detailed cellular models hand citation citation there long been strong emphasis robust automatic methods citation citation
+MISC--: large scale efforts added need methods yielded exciting advances
+MISC--: neurofitter citation package example provides tight integration number standard simulation tools implements large number search methods uses combination wide variety cost functions measure quality model s fit data
+CONT--: however highly complex approaches while extremely flexible arguably make optimal use neither richness structure present statistical problem nor richness new data emerging imaging techniques
+MISC--: past been shown us others citation citation citation knowledge true transmembrane voltage decouples number fundamental parameters allowing simultaneous estimation spatial distribution multiple kinetically differing conductances intercompartmental conductances time varying synaptic input
+OWNX--: importantly this inference problem form constrained linear regression single global optimum all parameters given data
+MISC--: none approaches however at present take various noise sources recording situations explicitly into account
+AIMX--: here we extend findings citation applying standard inference procedures well founded statistical descriptions recording situations hope this more specifically tailored approach will provide computationally cheaper more flexible robust solutions probabilistic approach will allow noise addressed principled manner
+OWNX--: specifically we approach issue noisy observations interpolation undersampled data first model based then model free setting
+OWNX--: we start exploring how accurate description cell used optimal de noising infer unobserved variables ca concentration voltage
+AIMX--: we then proceed show how accurate model cell inferred noisy signals first place this relies using model based smoothing first step standard two step iterative machine learning algorithm known expectation maximisation citation citation
+OWNX--: maximisation step here turns out weighted version our previous regression based inference method assumed exact knowledge biophysical signals
+OWNX--: aim this paper fit biophysically detailed models noisy electrophysiological imaging data
+AIMX--: we first give overview kinds models we consider parameters those models we seek infer how this inference affected noise inherent measurements how standard machine learning techniques applied this inference problem
+MISC--: overview will couched terms voltage measurements but we later also consider measurements calcium concentrations
+MISC--: compartmental models spatially discrete approximations cable equation citation citation citation allow temporal evolution compartment s voltage written asformulawhere formula voltage compartment formula formula specific membrane capacitance formula current evolution noise
+MISC--: note important factor formula ensures noise variance grows linearly time formula
+OWNX--: currents formula we will consider here three types
+MISC--: axial currents along dendritesformula
+MISC--: transmembrane currents active passive other membrane conductancesformula
+MISC--: experimentally injected currentsformulawhere formula indicates one particular current type formula its reversal potential formula its maximal conductance compartment formula formula membrane resistivity formula current experimentally injected into compartment
+MISC--: variable formula represents time varying open fraction conductance typically given complex highly nonlinear functions time voltage
+MISC--: example hodgkin huxley k channel kinetics given formula withformulaand formula themselves nonlinear functions voltage citation we again additive noise term
+MISC--: practice gate noise either drawn truncated gaussian one work transformed variable formula
+MISC--: similar equations formulated other variables intracellular free ca concentration citation

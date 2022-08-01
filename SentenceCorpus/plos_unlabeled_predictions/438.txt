@@ -1,0 +1,44 @@
+MISC--: micrornas important post transcriptional regulators but extent this regulation uncertain both regard number mirna genes their targets
+OWNX--: using algorithm based intragenomic matching potential mirnas their targets coupled support vector machine classification mirna precursors we explore potential regulation mirnas three plant genomes arabidopsis thaliana populus trichocarpa oryza sativa
+OWNX--: we find intragenomic matching conjunction supervised learning approach contains enough information allow reliable computational prediction mirna candidates without requiring conservation across species
+OWNX--: using this method we identify mirna candidate genes capable extensive base pairing potential target mrnas thaliana p trichocarpa o sativa respectively
+MISC--: this more than five times number currently annotated mirnas plants
+MISC--: many candidates derived repeat regions yet they seem contain features necessary correct processing mirna machinery
+MISC--: conservation analysis indicates only few candidates conserved between species
+OWNX--: we conclude there large potential mirna mediated regulatory interactions encoded genomes investigated plants
+AIMX--: we hypothesize some interactions may realized under special environmental conditions while others readily recruited when organisms diverge adapt new niches
+MISC--: small rnas now accepted major players control eukaryotic gene expression
+MISC--: most well known micrornas small interfering rnas both derived processing dsrna molecules members drosha dicer family endonucleases
+MISC--: plants sirna mirna distinguished mainly their biogenesis not their mechanism action
+OWNX--: mirnas arise stem loop precursors encoded genome their major mechanism action plants thought post transcriptional regulation through near complementary base pairing target mrnas leading specific endonucleolytic cleavage degradation target citation
+MISC--: most initially discovered mirnas were so highly conserved evolution defining characteristic mirna was had conserved citation
+MISC--: this attribute those mirnas discovered early been used successfully number groups computationally predict new mirna genes citation citation
+MISC--: basically methods scan genome inverted repeats potential form mirna precursors
+MISC--: scans typically find order hundreds thousands millions hairpins depending genome size search parameters citation
+OWNX--: this high number then reduced only keeping hairpins conserved other species
+MISC--: another approach search only transcribed sequences form expressed sequence tags citation citation
+OWNX--: this method works nonsequenced genomes efficiently reduces search space probably leading lower number false positives but method also misses candidates not covered expressed sequence tag libraries
+MISC--: mirbase version arabidopsis thaliana mirna genes listed most conserved down monocot oryza sativa
+MISC--: however studies noncoding rna shown lack conservation does not necessarily mean lack function citation
+MISC--: potentially all takes evolve mirna one many inverted repeats genome transcribed necessary structure sequence features recognized processed drosha dicer
+MISC--: indeed large numbers more narrowly conserved mirnas also exist citation
+MISC--: recent bioinformatic study human identified patterns associated mirna precursors suggested number mirna precursors larger than citation
+MISC--: plants similar situation could exist
+MISC--: deep sequencing effort arabidopsis using massively parallel signature sequence technique revealed distinct small rna species citation mapping large variety genomic contexts including exons introns repetitive dna intergenic regions
+MISC--: this perhaps not surprising considering other studies finding unexpectedly large fractions eukaryotic genomes transcribed also outside antisense annotated protein coding genes citation citation
+OWNX--: necessary feature any functional mirna must target at least one mrna
+MISC--: plants this means mirna must almost complementary some part spliced mrna transcript
+MISC--: set rules allowing mismatches only certain positions been suggested based experimental observations citation
+OWNX--: requirement target previously been used predict plant mirnas citation citation instead relying phylogenetic conservation methods successfully used intragenomic matches potential target mrnas find hairpins potentially capable producing mirnas regulate target
+OWNX--: intragenomic matches will inherently arise structure dynamics genome retrotransposons formation pseudogenes other duplicative events provide sequences almost ready regulate originally copied gene citation likewise reverse strand one gene complementary other paralogous genes
+MISC--: not relying conservation between species intragenomic matching capable more fully charting potential post transcriptional regulation mirnas
+MISC--: effort reduce spurious predictions earlier screens new mirnas removed candidates overlapping existing annotation repeats protein coding regions
+MISC--: although filters probably increase signal noise ratio they also introduce biases assuming repeat derived sequences not functional each sequence segment only one function
+MISC--: however transposon derived conventional mirnas been demonstrated arabidopsis citation recent work several groups show repeat associated mirnas quite common mammals citation citation
+MISC--: borchert et al point human mirnas associated alu repeats polymerase iii transcription citation
+MISC--: piriyapongsa et al link experimentally characterized human mirnas different types transposable elements citation
+MISC--: conserved other vertebrate genomes authors predict additional novel transposable element derived mirnas
+OWNX--: observations along evidence very complex widespread transcriptional patterns eukaryotes including nested transcripts antisense transcription citation underlines importance enumerating all possible mirna target interactions order explore full potential mirna mediated regulation
+OWNX--: this paper we develop apply mimatcher pipeline perform intragenomic matching followed classification mirna candidates using support vector machines
+OWNX--: using this method three plant genomes thaliana o sativa p trichocarpa we find species specific mirna like hairpins almost perfect complementarity mrna targets
+OWNX--: we present indications many active hypothesize remainder forms pool regulators easily recruited natural selection adapting organisms

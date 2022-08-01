@@ -1,0 +1,15 @@
+MISC--: studying group decision making challenging multiple reasons
+MISC--: important logistic difficulty studying sufficiently large number groups each multiple participants
+BASE--: assembling groups online could make this process easier also provide access group members more representative real world work groups than sample college students typically comprise lab face face ftf groups
+AIMX--: main goal this paper compare decisions online groups those ftf groups
+OWNX--: we did so study manipulated gain loss framing risky decision between groups examined decisions both individual group members groups
+OWNX--: all dependent measures compared online ftf sample
+OWNX--: our results suggest web conferencing substitute ftf interaction group decision making research we found no moderation effects communication medium individual group decision outcome variables
+OWNX--: effects medium were found suggest use online groups may preferred method group research
+CONT--: wit discussions among online groups were shorter but generated greater number thought units i e they made more efficient use time
+MISC--: studying group decision making more challenging than studying individual decision making multiple reasons
+MISC--: requires more complex data analysis methods due increase number levels analysis relevant variables
+MISC--: also requires increased sample sizes sufficient statistical power test hypotheses groups rather than individuals unit analysis
+MISC--: groups consist members themselves constitute sources variance this further complicated variation social interactions group members between groups
+MISC--: all this increases between group variability increases required sample size detect effects experimental manipulations
+CONT--: another challenge practical requirement needing group members present at same time location where single no shows lead cancelled experimental sessions

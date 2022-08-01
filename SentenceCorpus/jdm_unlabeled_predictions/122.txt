@@ -1,0 +1,43 @@
+MISC--: decision makers often ambiguity averse preferring options subjectively known probabilities options unknown probabilities
+MISC--: ellsberg paradox best known example this phenomenon
+MISC--: ambiguity generally been studied domain risky choice many theories ambiguity aversion deal ambiguity only this context
+MISC--: however ambiguity aversion may occur other contexts
+AIMX--: present experiment we examine effects ambiguity intertemporal choice
+MISC--: subjects imagine they expecting package must choose between two delivery options
+MISC--: some delivery times exact
+MISC--: others ambiguous delivery possible over range dates
+MISC--: this problem was structurally identical ellsberg paradox
+MISC--: subjects showed same pattern responses traditional ellsberg paradox each delivery service preferred when was unambiguous option
+MISC--: ambiguity aversion not specific risk but also occur other domains
+MISC--: when faced decision logical first question what will happen if i do this
+OWNX--: will this investment make money
+MISC--: if i get this treatment will i get better
+MISC--: frequently not questions answered certainty
+OWNX--: thus second question concerns probabilities what chances this investment will make money
+MISC--: if i get this treatment what probability i will get better
+MISC--: often questions cannot answered any degree certainty either
+OWNX--: while sometimes we make subjectively good estimates probabilities various outcomes at other times we must make decisions under ambiguity decisions we feel we lack knowledge required subjective estimate probability
+MISC--: many real world decisions ambiguous
+MISC--: apply expected utility theory eut normative theory risky choice ambiguous situations decision makers must produce subjective estimate absent probabilities regardless whether they feel they sufficient information do so
+MISC--: according expected utility theory decision maker should evaluate gamble multiplying probability each outcome numerical measure goodness outcome utility
+MISC--: sum resulting numbers expected utility gamble decision maker should choose gamble this value higher
+MISC--: because derived defensible axioms because no other system will result better aggregate outcomes over time eut considered normative theory decision making citation
+MISC--: initially was assumed addition being normative eut also described actual decisions
+MISC--: however challenges soon arose suggestion eut descriptive theory choice
+MISC--: one earliest objections was made ellsberg citation who proposed what now known ellsberg paradox according eut decision maker should choose same outcome both gamble pairs
+MISC--: do otherwise would violate sure thing principle states changing outcome common two gambles should not change decision maker s preference between them
+MISC--: if decision maker prefers red gamble black gamble pair one implies decision maker thinks there more red balls than black balls
+MISC--: however if there more red balls than black balls there must more total red yellow balls than total black yellow balls decision maker should prefer red gamble black gamble pair two well
+MISC--: symmetrical argument demonstrates decision makers who prefer black gamble pair two should prefer black gamble pair one
+MISC--: adding common outcome winning number if yellow ball drawn should not change whether decision maker prefers bet red black ball
+MISC--: however ellsberg found decision makers prefer red gamble first pair but prefer black gamble second pair
+OWNX--: this pattern choices violates sure thing principle thus inconsistent eut
+MISC--: instead decision maker shows this pattern choices displaying ambiguity aversion each pair preferring gamble known number balls gambling unknown number
+MISC--: subsequent experiments confirmed ellsberg s intuition both about pattern choices shown ellsberg paradox about ambiguity aversion more generally citation
+MISC--: ellsberg discussed ambiguity strictly terms risky choice subsequent work generally followed this lead ambiguity defined unknown probability probability decision maker feels she does not enough information make subjective estimate
+MISC--: however seems possible ambiguity aversion may more general phenomenon not constrained risky choice
+MISC--: specifically analogous phenomena may occur realm intertemporal choice choices made about outcomes occur at different times
+MISC--: wide variety real world decisions described intertemporal choices including saving investment decisions preventive health behaviors
+MISC--: example investor must choose between spending small amount money now saving money larger amount money later
+MISC--: many cases length time will pass before receiving outcome cannot estimated any degree accuracy equivalent ambiguous probabilities risky choice
+MISC--: present experiment examines whether effects ambiguity domain delay similar effects ambiguity risky choice

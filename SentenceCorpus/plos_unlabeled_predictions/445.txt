@@ -1,0 +1,23 @@
+MISC--: finding functional dna binding sites transcription factors throughout genome crucial step understanding transcriptional regulation
+MISC--: unfortunately binding sites typically short degenerate posing significant statistical challenge many more matches known tf motifs occur genome than actually functional
+MISC--: however information about chromatin structure may help identify functional sites
+MISC--: particular been shown active regulatory regions usually depleted nucleosomes thereby enabling tfs bind dna those regions
+OWNX--: here we describe novel motif discovery algorithm employs informative prior over dna sequence positions based discriminative view nucleosome occupancy
+OWNX--: when gibbs sampling algorithm applied yeast sequence sets identified chip chip correct motif found percent more cases our informative prior than commonly used uniform prior
+OWNX--: this first demonstration nucleosome occupancy information used improve motif discovery
+OWNX--: improvement dramatic even though we using only statistical model predict nucleosome occupancy we expect our results improve further high resolution genome wide experimental nucleosome occupancy data becomes increasingly available
+MISC--: finding functional dna binding sites transcription factors throughout genome necessary step understanding transcriptional regulation
+MISC--: however despite explosion tf binding data high throughput technologies like chip chip dip chip citation pbm citation gene expression arrays finding functional occurrences binding sites tfs remains difficult problem because binding sites most tfs short degenerate sequences occur frequently genome chance
+MISC--: particular matches known tf motifs genome often do not appear bound respective tfs vivo
+OWNX--: one popular explanation this when dna form chromatin not all parts dna equally accessible tfs
+MISC--: this state dna wrapped around histone octamers forming nucleosomes
+MISC--: positioning nucleosomes along dna believed provide mechanism differential access tfs at potential binding sites
+MISC--: indeed been shown functional binding sites tfs at regulatory regions typically depleted nucleosomes vivo citation citation
+OWNX--: if we knew precise positions nucleosomes throughout genome under various conditions we could increase specificity motif finders restricting search functional binding sites nucleosome free areas
+MISC--: here we describe method incorporating nucleosome positioning information into motif discovery algorithms constructing informative priors biased toward less occupied promoter positions
+OWNX--: our method should improve motif discovery most when access high resolution nucleosome occupancy data gathered under various vivo conditions
+OWNX--: unfortunately this data not currently available any organism at whole genome scale let alone under variety conditions
+OWNX--: nevertheless because our method probabilistic even noisy evidence regarding nucleosome positioning effectively exploited
+MISC--: example segal et al citation recently published computational model based high quality experimental nucleosome binding data predicts probability each nucleotide position yeast genome being bound nucleosome predictions intrinsic dna sequence thus independent condition but were purported explain around half nucleosome positions observed vivo
+MISC--: addition lee et al citation used chip chip profile average nucleosome occupancy each yeast intergenic region
+OWNX--: we show informative positional priors whether learned computational occupancy predictions low resolution average occupancy data significantly outperform not only commonly used uniform positional prior but also state art motif discovery programs

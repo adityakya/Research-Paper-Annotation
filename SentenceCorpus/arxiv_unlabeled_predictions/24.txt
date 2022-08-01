@@ -1,0 +1,33 @@
+OWNX--: standard approach pattern classification estimate distributions label classes then apply bayes classifier estimates distributions order classify unlabeled examples
+MISC--: one might expect better our estimates label class distributions better resulting classifier will
+AIMX--: this paper we make this observation precise identifying risk bounds classifier terms quality estimates label class distributions
+OWNX--: we show how pac learnability relates estimates distributions pac guarantee their symbol distance true distribution we bound increase negative log likelihood risk terms pac bounds kl divergence
+MISC--: we give inefficient but general purpose smoothing method converting estimated distribution good under symbol metric into distribution good under kl divergence
+OWNX--: we consider general approach pattern classification elements each class first used train probabilistic model via some unsupervised learning method
+MISC--: resulting models each class then used assign discriminant scores unlabeled instance label chosen one associated model giving highest score
+MISC--: example citation uses this approach classify protein sequences via training well known probabilistic suffix tree model ron et al citation each sequence class
+MISC--: indeed even where unsupervised technique mainly being used gain insight into process generated two more data sets still sometimes instructive try out associated classifier since misclassification rate provides quantitative measure accuracy estimated distributions
+MISC--: work citation led further related algorithms learning classes probabilistic finite state automata pdfas objective learning been formalized estimation true underlying distribution over strings output target pdfa distribution represented hypothesis pdfa
+MISC--: natural discriminant score assign string probability hypothesis would generate string at random
+MISC--: one might expect better one s estimates label class distributions class conditional densities better should associated classifier
+AIMX--: contribution this paper make precise observation
+OWNX--: we give bounds risk associated bayes classifier terms quality estimated distributions
+OWNX--: results partly motivated our interest relative merits estimating class conditional distribution using variation distance opposed kl divergence defined next section
+MISC--: citation been shown how learn class pdfas using kl divergence time polynomial set parameters includes expected length strings output automaton
+AIMX--: citation we show how learn this class respect variation distance polynomial sample size bound independent length output strings
+OWNX--: furthermore shown necessary switch weaker criterion variation distance order achieve this
+AIMX--: we show here this leads different but still useful performance guarantee bayes classifier
+MISC--: abe warmuth citation study problem learning probability distributions using kl divergence via classes probabilistic automata
+MISC--: their criterion learnability unrestricted input distribution symbol hypothesis pdfa should almost i e within symbol close possible symbol
+MISC--: abe takeuchi warmuth citation study negative log likelihood loss function context learning stochastic rules i e rules associate element domain symbol probability distribution over range symbol
+MISC--: we show here if two more label class distributions learnable sense citation then resulting stochastic rule conditional distribution over symbol given symbol learnable sense citation
+MISC--: we show if instead label class distributions well estimated using variation distance then associated classifier may not good negative log likelihood risk but will misclassification rate close optimal
+MISC--: this result general symbol class classification where distributions may overlap i e optimum misclassification rate may positive
+OWNX--: we also incorporate variable misclassification penalties sometimes one might wish false positive cost more than false negative show this more general loss function still approximately minimized provided discriminant likelihood scores rescaled appropriately
+MISC--: result we show pac learnability more generally p concept learnability citation follows ability learn class distributions setting kearns et al citation
+MISC--: papers citation study problem learning various classes probability distributions respect kl divergence variation distance this setting
+MISC--: well known noted citation learnability respect kl divergence stronger than learnability respect variation distance
+MISC--: furthermore kl divergence usually used example citation due property when minimized respect sample empirical likelihood sample maximized
+MISC--: algorithm learns respect variation distance sometimes converted one learns respect kl divergence smoothing technique citation when domain symbol symbol parameter learning problem
+AIMX--: this paper we give related smoothing rule applies version pdfa learning problem where we seem need use variation distance
+OWNX--: however smoothed distribution does not efficient representation requires probabilities used target pdfa limited precision

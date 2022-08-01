@@ -1,0 +1,94 @@
+MISC--: people report themselves above average simple tasks below average difficult tasks
+AIMX--: this paper proposes explanation this effect simpler than prior explanations
+MISC--: new explanation people conflate relative absolute evaluation especially subjective measures
+AIMX--: paper then presents series four studies test this conflation explanation
+MISC--: tests distinguish conflation other explanations differential weighting selecting wrong referent
+MISC--: results suggest conflation occurs at response stage during people attempt disambiguate subjective response scales order choose answer
+MISC--: this because conflation little effect objective measures would equally affected if conflation occurred at encoding
+MISC--: there inconsistency research findings comparative judgment
+MISC--: both better than average bta worse than average wta effects tend stronger direct measures than indirect measures comparative judgment
+MISC--: given robustness durability profound consequences biases comparative judgment citation this inconsistency deserves investigation
+MISC--: direct measures comparison ask people explicitly compare two thingsusually comparing themselves others
+MISC--: instance moore kim citation had their participants take number item trivia quiz was either very easy mean score number percent correct very difficult mean score number percent correct
+MISC--: direct comparative measure asked how do you expect score relative others
+OWNX--: participants responded scale ranging number well below average number well above average
+MISC--: those who took easy quiz expected they would score above average while takers difficult quiz expected score below average
+MISC--: indirect measures ask people evaluate target referent target being compared separately using same absolute standard
+MISC--: instance moore kim citation also asked their participants estimate their own others scores trivia quiz
+MISC--: indirect measure comparison calculated subtracting estimated performance self minus others
+MISC--: those who had taken easy quiz guessed their own scores would higher than those others whereas those who had taken difficult quiz guessed their own scores would lower
+MISC--: curious fact both bta wta effects stronger direct measures comparison than indirect measures comparison citation
+MISC--: other words task difficulty bigger effect indirect than direct comparative evaluations
+MISC--: moore kim s manipulation task difficulty had significantly larger effect direct measure than had indirect measure
+MISC--: precise moore kim s citation manipulation task difficulty accounted number percent variance direct measure
+MISC--: contrast difficulty manipulation accounted only number percent variance indirect measure
+MISC--: most popular explanation this difference differential weighting
+MISC--: differential weighting explanation holds people weight target referent differently when making comparative judgments
+MISC--: self target comparison weighed more heavily than other referent
+MISC--: referent may neglected several reasons including fact information about self generally more accessible more vivid more reliable than information about others kruger windschitl burrus fessel chambers press
+MISC--: result when target s performance good rated above average when bad rated below average
+MISC--: this theory holds stronger bta effects easy tasks wta effects hard tasks direct than indirect judgments deep psychological origins
+CONT--: result differences accessibility salience reliability knowledge target referent not simply result response scale used elicit people s beliefs
+OWNX--: what evidence differential weighting explanation
+MISC--: number studies presented results path analyses citation
+MISC--: analyses utilize three variables number absolute evaluation target individual number absolute evaluation referent group representative member group number direct comparative judgment individual relative group
+MISC--: results typically demonstrate direct comparative judgment highly correlated individual s own absolute performance but only weakly often insignificantly negatively correlated absolute performance reference group consistent differential weighting
+MISC--: figure number shows path analysis using moore kim s citation data
+MISC--: direct comparative judgments ought weight target referent equally oppositely but target appears weighted more heavily number than referent number
+MISC--: differential weighting may accurate description results path analyses
+MISC--: however not necessarily accurate description underlying psychological processes comparative judgment
+MISC--: important flaw path analyses suggests result may not diagnostic actual differential weighting person making comparison
+MISC--: if people making comparisons sensibly then there should less variance estimates group average than estimates individual performance
+MISC--: after all if everyone correctly estimated group average then there should no between person variance estimates group average would therefore non predictive comparative judgments path analyses
+MISC--: but there additional concern regarding way path analyses often conducted absolute judgments target referent often measured subjective verbally anchored scales
+MISC--: example klar giliadi citation had their participants rate photographs using absolute scale ran number very unattractive number very attractive
+MISC--: comparative judgments those same photographs were made using scale ran fromnumber much less attractive than average student number much more attractive than average student
+MISC--: biernat s work shifting standards demonstrated responses scales sensitive relevant comparison group citation
+MISC--: american woman who measures number feet number inches would more likely describe herself tall than would man same height
+MISC--: this case innumerable others evaluation depends crucially context relevant comparison others
+MISC--: ratings subjective response scales unlikely pure measures either absolute relative assessment citation
+MISC--: measures intended tap absolute performance will at least part measures relative performance well
+OWNX--: imagine simple test everyone does well
+OWNX--: if one person received score number percent other number test takers all scored above number percent when asked how well did you do test
+MISC--: person who got number percent unlikely rate himself number number point scale if scale anchored verbal labels very poorly very well
+MISC--: similarly when relative performance measured using subjective response scales we should expect judgments may influenced absolute performance
+MISC--: should no surprise target s rated absolute performance correlates highly relative performance when they both measured subjective response scales
+MISC--: some extent they measuring same thing
+MISC--: this brings us second explanation why bta wta effects stronger direct than indirect measures comparative judgment conflation
+MISC--: conflation error treating two distinct concepts if they were one
+MISC--: people routinely conflate absolute relative evaluation each other when making comparative judgments citation
+MISC--: when people asked compare themselves others their comparative judgments contaminated their absolute judgments their own performances citation
+MISC--: subjectively anchored response scales force participants construe scale order map their own private knowledge onto response scale
+MISC--: idiosyncratic construals open subjective scales influence contamination other considerations citation
+MISC--: after having done well at task people more likely rate themselves being above average even if simple task everyone should expected do well
+AIMX--: new hypothesis tested this paper this effect not due some sort profound differential weighting self over othersrather this effect mundane conflation caused vague questions subjective response scales
+MISC--: new part this explanation idea way comparative judgment measured matters
+MISC--: unlike differential weighting explanation predicts equivalent bta wta effects across both subjective objective measures comparative judgment conflation hypothesis predicts bta wta effects will shrink disappear when comparative judgments measured using unambiguous objective response formats
+MISC--: implication would people make more accurate estimates comparative judgment but experimenters often fail ask question ways most likely elicit uncontaminated comparative judgment
+OWNX--: this not obscure technical issue measurementit important two reasons
+MISC--: first subjective verbally anchored scales perhaps single most commonly used measure psychological research including work comparative judgment
+MISC--: if measures elicit systematically biased responses implications may profound respect both reinterpretation prior findings optimal design future studies
+MISC--: second would illuminate psychological processes at work comparative judgment
+MISC--: if people make accurate comparative judgments when provided unambiguous response scales shows conflation occurring at response stage during people s mental representations translated into behavioral responses
+MISC--: if instead conflation relative absolute evaluation were occurring during encoding then would appear people s responses all sorts comparative judgments regardless response format question because there would no unconflated evaluation retrieve
+MISC--: without doubt bta wta effects multiply determined
+AIMX--: not goal this paper show conflation only cause effects only conflation contributing cause distinct other causes
+OWNX--: this simple demonstration important repercussions
+MISC--: suggests prior research often overestimated size both bta wta effects through use vague measures
+OWNX--: also suggests straightforward methodological solution this problem clearer objective measures
+MISC--: four experiments presented here examine conflation explanation testing its specific predictions eliminating many other explanations bta wta effects possible
+MISC--: i use both subjective response scales also clearer objective measures
+MISC--: i find bta effects easy tasks wta effects difficult tasks weaken more objective measures
+MISC--: experiment number replicates bta wta effects shown elsewhere seeks eradicate them through experimental manipulations provide participants clear unambiguous information about performances themselves others
+MISC--: full information about others performances should rule out explanations based greater regressiveness estimates others because differential information theories assume errors people s estimations others
+MISC--: however conflation explanation predicts persistence bta wta effects even presence full information but especially subjective measures comparative judgment
+MISC--: experiments number number number also provide participants full information about target referents but order rule out role egocentrism participants only asked compare other individuals each other
+MISC--: finally research shown bta wta effects stronger when referent group rather than individual citation
+MISC--: order rule out this influence experiments number number ask participants compare two individuals whose performances known
+MISC--: fact effect persists even this context but only subjective direct measures explained better conflation than other theories
+MISC--: research presented this paper contributes theory research several different dimensions
+OWNX--: first four studies i report first put conflation explanation bta wta effects test systematically comparing judgments varying their subjectivity
+OWNX--: key prediction confirmed all four studies bta effects easy tasks wta effects hard tasks stronger subjective than objective direct comparative judgments
+MISC--: second four studies presented here do another thing prior research not present participants excellent information about performance target referent
+MISC--: this important ruling out other explanations bta wta effects
+MISC--: third experiments number number number take tests conflation explanation their logical extreme minimizing egocentric motives having people compare two targets about they complete information

@@ -1,0 +1,55 @@
+MISC--: during embryonic development positional information provided concentration gradients maternal factors directs pattern formation providing spatially dependent cues gene expression
+MISC--: fruit fly drosophila melanogaster classic example this sharp off activation hunchback gene at midembryo response local concentrations smooth anterior posterior bicoid gradient
+MISC--: regulatory region hb contains multiple binding sites bcd protein well multiple binding sites hb protein
+MISC--: some previous studies suggested bcd sufficient properly sharpened hb expression yet other evidence suggests need additional regulation
+OWNX--: we experimentally quantified dynamics hb gene expression flies were wild type were mutant hb self regulation bcd binding contained artificial promoter construct consisting six bcd two hb sites
+OWNX--: addition experiments we developed reaction diffusion model hb transcription bcd cooperative binding hb self regulation used zero eigenvalue analysis look multiple stationary states reaction network
+OWNX--: our model reproduces hb developmental dynamics correctly predicts mutant patterns
+OWNX--: analysis our model indicates hb sharpness produced spatial bistability hb self regulation produces two stable levels expression
+MISC--: absence self regulation bistable behavior vanishes hb sharpness disrupted
+MISC--: bcd cooperative binding affects position where bistability occurs but not itself sufficient sharp hb pattern
+OWNX--: our results show control hb sharpness positioning hb self regulation bcd cooperativity respectively separate processes altered independently
+OWNX--: our model matches changes hb position sharpness observed different experiments provides theoretical framework understanding data particular indicates spatial bistability play central role threshold dependent reading mechanisms positional information
+MISC--: how embryo achieves pattern form initially undifferentiated state fascinated people at least since time aristotle
+MISC--: scientific advances this began over century ago example experiments hans driesch sea urchin embryos citation he proposed embryo coordinate system specifying cellular position experiments ethel browne citation who showed piece hydra mount induced secondary axis when grafted into body another hydra
+MISC--: other subsequent results were synthesized lewis wolpert citation into definition positional information
+MISC--: according this concept spatial asymmetries concentration gradients chemical signals provide positional information during cellular differentiation each cell reads its position local morphogen concentration differentiates accordingly
+MISC--: wolpert s concept morphogen gradients become central tenet developmental biology citation citation
+MISC--: modern molecular techniques demonstrated numerous cases protein concentration patterns embryogenesis many been shown act morphogens
+MISC--: late s bicoid protein gradient was characterized its concentration dependent effect downstream target genes drosophila was demonstrated citation citation
+MISC--: this since become one most studied examples morphogen gradient signaling developmental biology citation citation
+MISC--: reaction network models been successfully applied describe great variety systems physics chemistry biology citation citation
+MISC--: along this many mathematical tools been developed support applications
+MISC--: tools one show certain reaction networks may exhibit multiple stationary states particular ranges their rate constants
+OWNX--: bistability special case system evolve either two asymptotically stable steady states
+MISC--: under certain conditions spatial patterning oscillations arise citation citation
+MISC--: biology bistability long been established control cell cycle other oscillations citation citation also recently reported artificial gene regulation network citation
+MISC--: drosophila spatial bistability been proposed dorso ventral patterning citation citation
+MISC--: early embryogenesis diffusion bcd protein translated mrna localized at anterior end egg forms exponential concentration gradient establishing anterior posterior axis citation citation citation
+OWNX--: bcd transcriptional regulator through its asymmetric distribution acts morphogen governing positions at downstream gap genes will activated
+MISC--: combination cross regulation between genes initial bcd asymmetry propagated refined establishing first stage embryo segmentation citation citation citation
+CONT--: still not well characterized however what mechanisms interpret smooth bcd positional information into sharp precisely positioned downstream target gene expression
+MISC--: hunchback one first gap genes activated bcd strong anterior expression sharp off boundary at mid embryo citation citation citation
+MISC--: anterior hb activation depends bcd shown struhl et al citation driever et al citation its own self regulation already reported treisman et al citation margolis et al citation many bcd hb binding sites been identified hb promoter region reported treisman et al among others citation citation
+MISC--: hb maternal zygotic contributions provides positional information other gap genes kr ppel knirps giant homeotic gene ultrabithorax citation citation
+MISC--: removal both maternal zygotic hb expression results severe deletions polarity reversals most anterior segments citation
+CONT--: normal development hb expression drops highest lowest over about percent egg length considerable attention been focused what molecular mechanism generates this hb sharpness
+MISC--: early was shown hb enhancer element base pairs containing bcd binding sites sufficient reproduce regulatory activity bcd hb citation citation
+MISC--: was shown bcd binds sites cooperatively was hypothesized due this cooperativity small change bcd concentration across some threshold could produce large change hb promoter occupancy generating off expression pattern citation citation citation citation
+CONT--: however studies did not establish cooperativity sufficient generate hb border sharpness
+MISC--: quantify degree bcd s cooperativity ma et al citation used six bcd site fragment hb promoter dnase i footprint assay found hill coefficient about burz et al citation using gel shift assay bp hb enhancer found hill coefficient
+MISC--: quantified vivo patterns bcd hb proteins gregor et al citation estimated higher value this coefficient around suggested could support proposal crauk dostatni citation hb expression entirely determined bcd cooperative binding
+OWNX--: however systems high hill coefficients would expected show temperature sensitivity
+MISC--: houchmandzadeh et al citation showed bcd gradient strongly affected temperature changes c but hb pattern largely unaffected
+OWNX--: dependence bcd hill coefficients between would expected show far greater effects hb than observed indicating bcd cannot only factor regulating hb border
+MISC--: insufficiency bcd cooperativity produce hb sharpness also supported findings simpson brose et al citation who showed synergy between hb bcd necessary establish expression patterns gap genes including hb itself
+AIMX--: address issues we taken combined experimental theoretical approach understand how hb gene converts positional information smooth bcd gradient into sharp expression pattern
+OWNX--: we used wild type embryos experimentally determine how hb position sharpness change time we measured how quantities affected embryos mutant bcd cooperative binding hb self regulation use artificial promoter bcd hb binding sites
+OWNX--: we also developed predictive reaction diffusion model hb transcription incorporating both bcd cooperative binding hb self regulation
+OWNX--: fitting this model wild type bcd hb patterns we determined kinetic parameters model binding constants
+OWNX--: parameters our model successfully reproduces dynamic development hb pattern
+OWNX--: reducing bcd binding constants number bcd binding sites our model reproduces same mutant phenotypes our experiments predicts loss sharpness hb self regulation mutant we experimentally verified
+AIMX--: applying dynamical systems theory model we show hb sharpness due spatial bistability stemming hb self regulation
+OWNX--: this means hb does not single steady state concentration continuously dependent bcd but at threshold bcd concentration two stable steady states become available hb small change bcd concentration create dramatic shift hb concentration
+OWNX--: this shift between steady states responsible sharpness hb boundary
+MISC--: position bcd threshold controlled bcd cooperative binding but this mechanism itself not sufficient generate hb s expression sharpness

@@ -1,0 +1,15 @@
+MISC--: i describe discuss sometimes heated controversy surrounding recognition heuristic rh model inferential decision making
+CONT--: after briefly recapitulating history rh up its current version i critically evaluate several specific assumptions predictions rh its surrounding framework recognition memory based process rh cognitive process model proper conditions testing rh measures using rh reasons not using rh rh non compensatory strategy evidence less more effect lime rh part toolbox
+MISC--: collection controversial issues may help better understand debate further sharpen rh theory develop ideas future research
+MISC--: one simplest heuristics adaptive toolbox citation recognition heuristic rh exploits recognition may reach high level accuracy inferential decisions
+MISC--: example if asked two cities larger b given one recognizes but not b one may simply follow recognition cue infer larger city
+MISC--: domains probability recognizing object substantially related its criterion value here city s size simple strategy will lead many correct answers far above chance
+MISC--: goldstein gigerenzer citation formulated this strategy recognition heuristic defined using only one piece evidence namely recognition two objects yes no
+MISC--: no other knowledge about objects enters inference process could possibly overturn decision based recognition
+OWNX--: rh thus represents case non compensatory one reason decision making strategy
+MISC--: especially this claim raised some controversy past decade led multitude new empirical findings
+MISC--: other words besides providing precisely formulated thus testable model one merit rh certainly challenged quite number researchers consequence extended our knowledge how inferential decision making may proceed
+MISC--: new exciting set studies included jdms special issue recognition processes inferential decision making citation
+OWNX--: following section section number i recapitulate basic features rh its underlying assumptions looking at its precursors its fully laid out version
+OWNX--: main part paper section number i then discuss detail main points controversy surrounding rh its framework
+OWNX--: note i do not try provide complete review all theoretical arguments exchanged so far citation

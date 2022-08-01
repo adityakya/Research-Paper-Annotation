@@ -1,0 +1,83 @@
+AIMX--: we present novel graphical framework modeling non negative sequential data hierarchical structure
+OWNX--: our model corresponds network coupled non negative matrix factorization nmf modules we refer positive factor network pfn
+MISC--: data model linear subject non negativity constraints so observation data consisting additive combination individually representable observations also representable network
+MISC--: this desirable property modeling problems computational auditory scene analysis since distinct sound sources environment often well modeled combining additively corresponding magnitude spectrogram
+OWNX--: we propose inference learning algorithms leverage existing nmf algorithms straightforward implement
+OWNX--: we present target tracking example provide results synthetic observation data serve illustrate interesting properties pfns motivate their potential usefulness applications music transcription source separation speech recognition
+OWNX--: we show how target process characterized hierarchical state transition model represented pfn
+OWNX--: our results illustrate pfn defined terms single target observation then used effectively track states multiple simultaneous targets
+OWNX--: our results show quality inferred target states degrades gradually observation noise increased
+OWNX--: we also present results example meaningful hierarchical features extracted spectrogram
+MISC--: hierarchical representation could useful music transcription source separation applications
+MISC--: we also propose network language modeling
+AIMX--: we present graphical hidden variable framework modeling non negative sequential data hierarchical structure
+OWNX--: our framework intended applications where observed data non negative well modeled non negative linear combination underlying non negative components
+OWNX--: provided we able adequately model underlying components individually full model will then capable representing any observed additive mixture components due linearity property
+MISC--: this leads economical modeling representation since compact parameterization explain any number components combine additively
+OWNX--: thus our approach we do not need concerned explicitly modeling maximum number observed components nor their relative weights mixture signal
+MISC--: motivate approach consider problem computational auditory scene analysis casa involves identifying auditory objects musical instrument sounds human voice various environmental noises etc audio recording
+MISC--: speech recognition music transcription specific examples casa problems
+MISC--: when analyzing audio common first transform audio signal into time frequency image spectrogram i e magnitude short time fourier transform stft
+MISC--: we empirically observe spectrogram mixture auditory sources often well modeled linear combination spectrograms individual audio sources due sparseness time frequency representation typical audio sources
+MISC--: example consider recording musical piece performed band
+OWNX--: we empirically observe spectrogram recording tends well approximated sum spectrograms individual instrument notes played isolation
+MISC--: if one could construct model using our framework capable representing any individual instrument note played isolation model would then automatically capable representing observed data corresponding arbitrary non negative linear combinations individual notes
+MISC--: likewise if one could construct model under our framework capable representing recording single human speaker possibly including language model model would then capable representing audio recording multiple people speaking simultaneously
+OWNX--: model would obvious applications speaker source separation simultaneous multiple speaker speech recognition
+AIMX--: we do not attempt construct complex models this paper however
+AIMX--: rather our primary objective here will construct models simple enough illustrate interesting properties our approach yet complex enough show our approach noise robust capable learning training data at least somewhat scalable
+OWNX--: we hope results presented here will provide sufficient motivation others extend our ideas begin experimenting more sophisticated pfns perhaps applying them above mentioned casa problems
+OWNX--: existing area research related our approach non negative matrix factorization nmf its extensions
+MISC--: nmf data modeling analysis tool approximating non negative matrix symbol product two non negative matrices symbol symbol so reconstruction error between symbol symbol minimized under suitable cost function
+OWNX--: nmf was originally proposed paatero positive matrix factorization citation
+MISC--: lee seung later developed robust simple implement multiplicative update rules iteratively performing factorization citation
+MISC--: various sparse versions nmf also been recently proposed citation citation citation
+MISC--: nmf recently been applied many applications where representation non negative data additive combination non negative basis vectors seems reasonable
+MISC--: applications include object modeling computer vision magnitude spectra modeling audio signals citation various source separation applications citation
+MISC--: non negative basis decomposition provided nmf itself not capable representing complex model structure
+OWNX--: this reason extensions been proposed make nmf more expressive
+MISC--: smaragdis extended nmf citation model temporal dependencies successive spectrogram time slices
+OWNX--: his nmf extension he termed convolutive nmf also appears special case one our example models section
+CONT--: we unaware any existing work literature allow general graphical representation complex hidden variable models particularly sequential data models provided our approach however
+BASE--: second existing area research related our approach probabilistic graphical models citation particular dynamic bayesian networks dbns citation citation probabilistic graphical models sequential data
+OWNX--: we note hidden markov model hmm special case dbn
+OWNX--: dbns widely used speech recognition other sequential data modeling applications
+MISC--: probabilistic graphical models appealing because they they represent complex model structure using intuitive modular graphical modeling representation
+MISC--: drawback corresponding exact approximate inference learning algorithms complex difficult implement overcoming tractability issues challenge
+AIMX--: our objective this paper present framework modeling non negative data retains non negative linear representation nmf while also supporting more structured hidden variable data models graphical means representing variable interdependencies analogously probabilistic graphical models framework
+OWNX--: we will particularly interested developing models sequential data consisting spectrograms audio recordings
+OWNX--: our framework essentially modular extension nmf full graphical model corresponds several coupled nmf sub models
+MISC--: overall model then corresponds system coupled vector matrix factorization equations
+AIMX--: throughout this paper we will refer particular system factorizations corresponding graphical model positive factor network pfn
+OWNX--: we will refer dynamical extension pfn dynamic positive factor network dpfn
+OWNX--: given observed subset pfn model variables we define inference solving values hidden subset variables learning solving model parameters system factorization equations
+OWNX--: note our definition inference distinct probabilistic notion inference
+MISC--: pfn inference corresponds solving actual values hidden variables whereas probabilistic model inference corresponds solving probability distributions over hidden variables given values observed variables
+MISC--: performing inference pfn therefore more analogous computing map estimates hidden variables probabilistic model
+MISC--: one could obtain analogous probabilistic model pfn considering model variables non negative continuous valued random vectors defining suitable conditional probability distributions consistent non negative linear variable model
+MISC--: let us call this class models probabilistic pfns
+MISC--: exact inference generally intractable model since hidden variables continuous valued model not linear gaussian
+MISC--: however one could consider deriving algorithms performing approximate inference developing corresponding em based learning algorithm
+OWNX--: we unaware any existing algorithms performing tractable approximate inference probabilistic pfn
+AIMX--: possible our pfn inference algorithm may also probabilistic interpretation but exploring idea further outside scope this paper
+AIMX--: rather this paper our objective develop motivate inference learning algorithms taking modular approach existing nmf algorithms used coupled way seems intuitively reasonable
+OWNX--: we will primarily interested empirically characterizing performance proposed inference learning algorithms various example pfns test data sets order get sense utility this approach interesting real world applications
+OWNX--: we propose general joint inference learning algorithms pfns correspond performing nmf update steps independently therefore potentially also parallel various factorization equations while simultaneously enforcing coupling constraints so variables appear multiple factorization equations constrained identical values
+OWNX--: our empirical results show proposed inference learning algorithms fairly robust additive noise good convergence properties
+MISC--: leveraging existing nmf multiplicative update algorithms pfn inference learning algorithms advantage being straightforward implement even relatively large networks
+MISC--: sparsity constraints also added module pfn model leveraging existing sparse nmf algorithms
+MISC--: we note algorithms performing inference learning pfns should understandable anyone knowledge elementary linear algebra basic graph theory do not require background probability theory
+MISC--: similar existing nmf algorithms our algorithms highly parallel optimized take advantage parallel hardware multi core cpus potentially also stream processing hardware gpus
+MISC--: more research will needed determine how well our approach will scale very large complex networks
+AIMX--: remainder this paper following structure
+OWNX--: section we present basic pfn model
+OWNX--: section we present example how dpfn used represent transition model present empirical results
+OWNX--: section we present example using pfn model sequential data hierarchical structure present empirical results regular expression example
+OWNX--: section we present target tracking example provide results synthetic observation data serve illustrate interesting properties pfns motivate their potential usefulness applications music transcription source separation speech recognition
+OWNX--: we show how target process characterized hierarchical state transition model represented pfn
+OWNX--: our results illustrate pfn defined terms single target observation then used effectively track states multiple simultaneous targets observed data
+OWNX--: section we present results example meaningful hierarchical features extracted spectrogram
+MISC--: hierarchical representation could useful music transcription source separation applications
+OWNX--: section we propose dpfn modeling sequence words characters text document additive factored transition model word features
+OWNX--: we also propose slightly modified versions lee seung s update rules avoid numerical stability issues
+MISC--: resulting modified update rules presented appendix

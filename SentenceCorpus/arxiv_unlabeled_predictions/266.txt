@@ -1,0 +1,28 @@
+OWNX--: sparse coding modelling data vectors sparse linear combinations basis elements widely used machine learning neuroscience signal processing statistics
+OWNX--: this paper focuses large scale matrix factorization problem consists learning basis set order adapt specific data
+OWNX--: variations this problem include dictionary learning signal processing non negative matrix factorization sparse principal component analysis
+AIMX--: this paper we propose address tasks new online optimization algorithm based stochastic approximations scales up gracefully large data sets millions training samples extends naturally various matrix factorization formulations making suitable wide range learning problems
+MISC--: proof convergence presented along experiments natural images genomic data demonstrating leads state art performance terms speed optimization both small large data sets
+MISC--: linear decomposition signal using few atoms learned dictionary instead predefined one based wavelets citation example recently led state art results numerous low level signal processing tasks image denoising citation texture synthesis citation audio processing citation well higher level tasks image classification citation showing sparse learned models well adapted natural signals
+MISC--: unlike decompositions based principal component analysis its variants models do not impose basis vectors orthogonal allowing more flexibility adapt representation data
+MISC--: machine learning statistics slightly different matrix factorization problems formulated order obtain few interpretable basis elements set data vectors
+MISC--: this includes non negative matrix factorization its variants citation sparse principal component analysis citation
+AIMX--: shown this paper problems strong similarities even though we first focus problem dictionary learning algorithm we propose able address all them
+MISC--: while learning dictionary proven critical achieve improve upon state art results signal image processing effectively solving corresponding optimization problem significant computational challenge particularly context large scale data sets may include millions training samples
+OWNX--: addressing this challenge designing generic algorithm capable efficiently handling various matrix factorization problems topic this paper
+MISC--: concretely consider signal symbol symbol
+OWNX--: we say admits sparse approximation over mbox dictionary symbol symbol symbol columns referred atoms when one find linear combination few atoms symbol close signal symbol
+MISC--: experiments shown modelling signal sparse decomposition sparse coding very effective many signal processing applications citation
+OWNX--: natural images predefined dictionaries based various types wavelets citation also been used this task
+MISC--: however learning dictionary instead using off shelf bases been shown dramatically improve signal reconstruction citation
+MISC--: although some learned dictionary elements may sometimes look like wavelets gabor filters they tuned input images signals leading much better results practice
+MISC--: most recent algorithms dictionary learning citation iterative batch procedures accessing whole training set at each iteration order minimize cost function under some constraints cannot efficiently deal very large training sets citation dynamic training data changing over time video sequences
+OWNX--: address issues we propose online approach processes signals one at time mini batches
+MISC--: this particularly important context image video processing citation where common learn dictionaries adapted small patches training data may include several millions patches roughly one per pixel per frame
+MISC--: this setting online techniques based stochastic approximations attractive alternative batch methods see eg citation
+MISC--: example first order stochastic gradient descent projections constraint set citation sometimes used dictionary learning see citation instance
+OWNX--: we show this paper possible go further exploit specific structure sparse coding design optimization procedure tuned this problem low memory consumption lower computational cost than classical batch algorithms
+MISC--: demonstrated our experiments scales up gracefully large data sets millions training samples easy use faster than competitive methods
+OWNX--: paper structured follows section presents dictionary learning problem
+OWNX--: proposed method introduced section proof convergence section
+OWNX--: section extends our algorithm various matrix factorization problems generalize dictionary learning section devoted experimental results demonstrating our algorithm suited wide class learning problems

@@ -1,0 +1,14 @@
+OWNX--: four fold classification emotions respect their functions decision making proposed
+MISC--: argued emotions not homogenous concerning their role decision making but four distinct functions distinguished concerning emotional phenomena
+MISC--: one function provide information about pleasure pain preference construction second function enable rapid choices under time pressure third function focus attention relevant aspects decision problem fourth function generate commitment concerning morally socially significant decisions
+MISC--: pertinent literature relationship between emotion decision making reviewed concluded most approaches fit into proposed framework
+OWNX--: we argue precise conceptualization emotional phenomena required advance our understanding complex role emotions decision making
+AIMX--: this paper we address question how conceptualize emotions concerning their role decision making
+MISC--: study emotions context decision making beginning more than twenty years ago citation received increasing attention over past decade citation
+CONT--: there however little consensus literature what actually meant emotion affect
+AIMX--: this paper tries contribute more precise useful conceptualization emotion concerning emotion decision making relationship
+OWNX--: first we briefly sketch two approaches similar objective classification emotions loewenstein lerner citation functional typology proposed peters citation
+OWNX--: we will then discuss some common assumptions about emotions we believe confused understanding role emotion decision making
+OWNX--: particular we argue emotions should not construed homogenous category positive negative valence dimension not most important aspect emotions decision making emotions do not imply irrationality
+OWNX--: we argue more useful think emotional phenomena implementing specific mechanisms account different functions arise decision making
+OWNX--: four functions proposed conceptually independent though empirically correlated

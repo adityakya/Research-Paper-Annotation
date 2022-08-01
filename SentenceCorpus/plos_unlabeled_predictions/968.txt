@@ -1,0 +1,39 @@
+MISC--: goal human genome re sequencing obtaining accurate assembly individual s genome
+MISC--: recently there been great excitement development many technologies this even more expected appear
+MISC--: costs sensitivities technologies differ considerably each other
+MISC--: important goal personal genomics reduce cost re sequencing affordable point worthwhile consider optimally integrating technologies
+MISC--: here we build simulation toolbox will help us optimally combine different technologies genome re sequencing especially reconstructing large structural variants
+MISC--: sv reconstruction considered most challenging step human genome re sequencing
+OWNX--: this end we formulate canonical problems representative issues reconstruction small enough scale computationally tractable simulatable
+OWNX--: using semi realistic simulations we show how we combine different technologies optimally solve assembly at low cost
+MISC--: mapability maps our simulations efficiently handle inhomogeneous repeat containing structure human genome computational complexity practical assembly algorithms
+MISC--: they quantitatively show how combining different read lengths more cost effective than using one length how optimal mixed sequencing strategy reconstructing large novel svs usually also gives accurate detection snps indels how paired end reads improve reconstruction efficiency how adding arrays more efficient than just sequencing disentangling some complex svs
+OWNX--: our strategy should facilitate sequencing human genomes at maximum accuracy low cost
+MISC--: human genome comprised approximately billion nucleotides two pairs chromosomes
+MISC--: variations between individuals comprised million single nucleotide polymorphisms relatively large structural variants kb larger many more smaller svs responsible phenotypic variation among individuals citation citation
+MISC--: most large svs due genomic rearrangements few others contain novel sequences not present reference genome citation
+CONT--: goal personal genomics determine all genetic differences between individuals understand how contribute phenotypic differences individuals
+MISC--: making personal genomics almost reality over past decade development high throughput sequencing technologies enabled sequencing individual genomes citation citation
+MISC--: levy et al reported sequencing individual s genome based sanger citation whole genome shotgun sequencing followed de novo assembly strategies
+MISC--: wheeler et al presented another individual s genome sequence constructed sequencing reads citation comparative genome assembly methods
+MISC--: mean time other new sequencing technologies solexa illumina sequencing citation become available individual genome sequencing corresponding specially designed sequence assembly algorithm designed citation citation
+CONT--: projects algorithms however mostly relied single sequencing technology perform individual re sequencing thus did not take full advantage all existing experimental technologies
+MISC--: table gives summary characteristics several technologies comparative individual genome sequencing
+OWNX--: at one extreme performing long sanger sequencing very deep coverage will lead excellent results at high cost
+MISC--: another performing only inexpensive short illumina sequencing may generate good cost efficient results snp detection but will not able either unambiguously locate some svs repetitive genomic regions fully reconstruct many large svs
+MISC--: moreover array technologies snp array citation cgh array at different resolutions citation citation also utilized identify svs snp arrays detect snps directly cgh array able detect kilobase megabase sized copy number variants citation integrated into sequencing based sv analysis
+MISC--: thus advantageous consider optimally combining all experimental techniques into individual genome re sequencing framework design experiment protocols computational algorithms accordingly
+MISC--: due existence reference genome assemblies citation citation high similarity between individual s genome reference citation identification small svs relatively straightforward comparative re sequencing analysis single split reads covering small svs
+MISC--: meanwhile although there exist algorithms detect large svs paired end reads citation complete reconstruction large sv requires integration reads spanning wide region often involving misleading reads other locations genome
+MISC--: if there were no repeats duplications human genome reconstruction large svs would trivially accomplished de novo assembly high coverage inexpensive short reads around regions
+MISC--: existence repeats duplications human genome however set longer reads will required accurately locate some svs repetitive regions hybrid re sequencing strategy both comparative de novo approaches will necessary identify genomic rearrangement events deletions translocations also reconstruct large novel insertions individuals
+AIMX--: steps thus much harder than others will main focus this paper
+AIMX--: here we present toolbox some representative case studies how optimally combine different experimental technologies individual genome re sequencing project especially reconstructing large svs so achieve accurate economical sequencing
+MISC--: optimal experimental design should intelligent combination long medium short sequencing technologies also some array technologies cgh
+MISC--: some previous genome sequencing projects citation citation already incorporated hybrid approaches using both long medium reads although general problem optimal experimental design not yet been systematically studied
+OWNX--: while obvious combining technologies advantageous we want quantitatively show potential savings based different integration strategies
+MISC--: also since technologies constantly developing will useful general flexible approach predict outcome integrating different technologies including new ones coming future
+OWNX--: following sections we will first briefly describe schematic comparative genome re sequencing framework focusing intrinsically most challenging steps reconstructing large svs then use set semi realistic simulations representative steps optimize integrated experimental design
+MISC--: since full simulations computationally intractable steps large parameter space combinations different technologies simulations carried out framework combine real genomic data analytical approximations sequencing assembly process
+MISC--: also this simulation framework capable incorporating new technologies well adjusting parameters existing ones provide informative guidelines optimal re sequencing strategies characteristics cost structures technologies evolve when combining them becomes more important concern
+MISC--: simulation framework downloadable general toolbox guide optimal re sequencing technology constantly advances

@@ -1,0 +1,37 @@
+MISC--: hidden markov models hmms one most fundamental widely used statistical tools modeling discrete time series
+MISC--: general learning hmms data computationally hard under cryptographic assumptions practitioners typically resort search heuristics suffer usual local optima issues
+OWNX--: we prove under natural separation condition bounds smallest singular value hmm parameters there efficient provably correct algorithm learning hmms
+CONT--: sample complexity algorithm does not explicitly depend number distinct discrete observations implicitly depends this quantity through spectral properties underlying hmm
+CONT--: this makes algorithm particularly applicable settings large number observations those natural language processing where space observation sometimes words language
+MISC--: algorithm also simple employing only singular value decomposition matrix multiplications
+MISC--: hidden markov models hmms citation workhorse statistical model discrete time series widely diverse applications including automatic speech recognition natural language processing nlp genomic sequence modeling
+CONT--: this model discrete hidden state evolves according some markovian dynamics observations at particular time depend only hidden state at time
+MISC--: learning problem estimate model only observation samples underlying distribution
+MISC--: thus far predominant learning algorithms been local search heuristics baum welch em algorithm citation
+MISC--: not surprising practical algorithms resorted heuristics general learning problem been shown hard under cryptographic assumptions citation
+OWNX--: fortunately hardness results hmms seem divorced those we likely encounter practical applications
+MISC--: situation many ways analogous learning mixture distributions samples underlying distribution
+MISC--: there general problem also believed hard
+MISC--: however much recent progress been made when certain separation assumptions made respect component mixture distributions eg citation
+MISC--: roughly speaking separation assumptions imply high probability given point sampled distribution one determine mixture component generated point
+MISC--: fact there prevalent sentiment we often only interested clustering when separation condition holds
+MISC--: much theoretical work here focused how small this separation still permit efficient algorithm recover model
+OWNX--: we present simple efficient algorithm learning hmms under certain natural separation condition
+OWNX--: we provide two results learning
+BASE--: first we approximate joint distribution over observation sequences length symbol here quality approximation measured total variation distance
+MISC--: symbol increases approximation quality degrades polynomially
+BASE--: our second result approximating conditional distribution over future observation conditioned some history observations
+OWNX--: we show this error asymptotically bounded i e any symbol conditioned observations prior time symbol error predicting symbol th outcome controlled
+OWNX--: our algorithm thought improperly learning hmm we do not explicitly recover transition observation models
+OWNX--: however our model does maintain hidden state representation closely fact linearly related hmm s used interpreting hidden state
+OWNX--: separation condition we require spectral condition both observation matrix transition matrix
+OWNX--: roughly speaking we require observation distributions arising distinct hidden states distinct we formalize singular value conditions observation matrix
+MISC--: this requirement thought being weaker than separation condition clustering observation distributions overlap quite bit given one observation we do not necessarily information determine hidden state was generated unlike clustering literature
+OWNX--: we also spectral condition correlation between adjacent observations
+OWNX--: we believe both conditions quite reasonable many practical applications
+OWNX--: furthermore given our analysis extensions our algorithm relax assumptions should possible
+OWNX--: algorithm we present both polynomial sample computational complexity
+MISC--: computationally algorithm quite simple at its core singular value decomposition svd correlation matrix between past future observations
+MISC--: this svd viewed canonical correlation analysis cca citation between past future observations
+OWNX--: sample complexity results we present do not explicitly depend number distinct observations rather they implicitly depend this number through spectral properties hmm
+CONT--: this makes algorithm particularly applicable settings large number observations those nlp where space observations sometimes words language

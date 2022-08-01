@@ -1,0 +1,16 @@
+MISC--: exploration exploitation dilemma been intriguing unsolved problem within framework reinforcement learning optimism face uncertainty model building play central roles advanced exploration methods
+OWNX--: here we integrate several concepts obtain fast simple algorithm
+OWNX--: we show proposed algorithm finds near optimal policy polynomial time give experimental evidence robust efficient compared its ascendants
+MISC--: reinforcement learning rl art maximizing long term rewards stochastic unknown environment
+MISC--: construction rl algorithms choice exploration strategy central significance
+OWNX--: we shall examine problem exploration markov decision process mdp framework
+MISC--: while simple methods like symbol greedy boltzmann exploration commonly used known their behavior extremely poor citation
+MISC--: recently number efficient exploration algorithms been published some them formal proofs efficiency also exist
+OWNX--: we review methods section
+OWNX--: combining ideas several sources we construct new algorithm efficient exploration
+OWNX--: new algorithm optimistic initial model ourmethod described section
+OWNX--: section we show many advanced algorithms including ours treated unified way
+OWNX--: we use this fact sketch proof ourmethod finds near optimal policy polynomial time high probability
+MISC--: section provides experimental comparison between ourmethod number other methods some benchmark problems
+OWNX--: our results summarized section
+OWNX--: rest this section we review necessary preliminaries markov decision processes exploration task

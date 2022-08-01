@@ -1,0 +1,95 @@
+MISC--: cooperative decision making vision future network management control
+MISC--: distributed connection preemption important example where nodes make intelligent decisions allocating resources controlling traffic flows multi class service networks
+MISC--: challenge nodal decisions spatially dependent traffic flows trespass multiple nodes network
+MISC--: hence performance complexity trade off becomes important ie how accurate decisions versus how much information exchanged among nodes
+MISC--: connection preemption known np complete
+MISC--: centralized preemption optimal but computationally intractable
+MISC--: decentralized preemption computationally efficient but may result poor performance
+MISC--: this work investigates distributed preemption where nodes decide whether flows preempt using only local information exchange neighbors
+BASE--: this work we first model large number distributed preemption decisions using probabilistic graphical model
+OWNX--: we then define near optimality distributed preemption its approximation optimal centralized preemption within given error bound
+OWNX--: we show sufficient condition distributed preemption optimal local decisions should constitute markov random field
+MISC--: decision variables however do not possess exact spatial markov dependence reality due flows passing through multiple links
+OWNX--: hence we study traffic patterns flows derive sufficient conditions flows distributed preemption near optimal
+OWNX--: we develop based probabilistic graphical models near optimal distributed algorithm
+OWNX--: algorithm used each node make collectively near optimal preemption decisions
+OWNX--: we study trade offs between near optimal performance complexity corresponds amount information exchange distributed algorithm
+MISC--: algorithm validated both analysis simulation
+MISC--: vision future network management involve nodes make intelligent decisions allocating resources controlling traffic flows
+MISC--: this includes admitting new flows preempting less important existing flows well studied policy based admission control i e admission based priority flows citation citation
+MISC--: specifically preemption defined at prioritized multi class network where new call needs set up high priority between source s destination d citation citation citation citation citation
+MISC--: when capacity insufficient at all feasible routes between source destination s d pair some existing flows lower priorities need forced reduce their bandwidth move lowest service class e g best effort service simply preempted accommodate new call
+MISC--: preemption decisions decide lower priority flows remove free reserved bandwidth new call at chosen route citation citation
+OWNX--: goal decide whether preempt active flow so total preempted bandwidth minimal under constraints bandwidth demand new call available free bandwidth at each link benefit preemption been described prior works
+MISC--: example preemption allows new high priority connection access heavily crowded core networks eg multi protocol label switched mpls networks citation
+MISC--: connection preemption also improves resource utilization allowing low priority flows access unused bandwidths citation citation
+MISC--: preemption sees potential applications emerging networks
+MISC--: example e wireless lan delay sensitive ip packets expedited forwarding ef class served earlier than best effort packets through preemption citation
+MISC--: multi level preemption precedence mlpp proposed classify calls their importance used military well commercial networks citation there two significant challenges preemption performance complexity
+MISC--: performance corresponds whether right flows preempted result minimal bandwidth accommodate new flow
+MISC--: complexity corresponds amount information needed preemption decision
+MISC--: preemption known np complete citation
+MISC--: complexity results large number active flows supported core network preemption decisions need made
+MISC--: example gbps link if bandwidth each flow order kbps there would thousands flows supported per link
+MISC--: addition flow generally passes through multiple nodes making preemption decisions among nodes dependent thus difficult done local information
+MISC--: thus preemption network centric may require huge amount information perform large network centralized preemption decisions centralized node maintains routed path information active flows their priorities bandwidth occupancies at entire route
+MISC--: centralized node then decides active flows preempt upon request new call
+MISC--: therefore centralized preemption always optimal resulting minimal preempted bandwidth
+MISC--: but amount management information needed overwhelming at centralized node
+MISC--: example let symbol total number distinct flows per priority class at route new call
+MISC--: each flow two states preempted not preempted
+MISC--: total number possible states symbol making centralized decision
+MISC--: when symbol order hundreds thousands citation centralized preemption becomes computationally intractable
+MISC--: decentralized preemption then adopted reducing amount management information citation decentralized preemption done at each node individually thus requires node maintain its local information i e active flows at adjacent links their priorities bandwidth occupancy
+MISC--: information available locally at nodes
+OWNX--: node then decides independently other nodes connections preempt
+MISC--: this however may cause conflicting local decisions same flows pass multiple links route resulting more preempted bandwidth than necessary
+MISC--: other words decentralized preemption decision neglects spatial dependence flows across multiple links may perform poorly
+MISC--: but amount management information greatly reduced compared centralized preemption
+MISC--: example let symbol maximum number active flows per link
+MISC--: total number states symbol at each link
+MISC--: since symbol symbol symbol compared centralized preemption decentralized schemes much smaller search space preemption decisions
+MISC--: therefore most algorithms literature focus decentralized preemption see citation citation references there this work studies distributed decisions take into account spatial dependence among neighboring links through local information exchange
+MISC--: fact distributed preemption considered generalization centralized decentralized preemption
+MISC--: centralized preemption corresponds one extreme case distributed preemption entire route neighborhood information exchange whereas decentralized decisions correspond another extreme case where neighborhood size zero
+MISC--: therefore communication complexity characterized terms neighborhood size
+MISC--: there trade off between optimality complexity general been shown difficult problem develop distributed algorithm whose performance predictable within tolerable degradation i e given error bound optimal scheme citation
+MISC--: hence open issues when distributed decisions collectively result near optimal global preemption b how model large number dependent decision variables obtain near optimal local decisions using distributed algorithms
+AIMX--: we apply machine learning study issues machine learning perspective machine learning view distributed preemption individual nodes learn make decisions collectively iteratively
+MISC--: ideally if each node complete information all active flows at route new flow node will able make correct decisions flows preempt
+CONT--: however at any given time node only partial information active flows route its neighbors decisions flows preempt
+MISC--: but node adapt i e learn make decisions based those its neighbors
+MISC--: neighbors learn neighbors neighbors node would indirectly learn what farther nodes decide only delay
+OWNX--: eventually all nodes would make local decisions collectively resulting near optimal preemption at entire route how would machine learning benefit distributed preemption
+MISC--: problem collective learning decision making been keen interest machine learning adaptive control citation citation but just begun see applications networking
+MISC--: particular citation proposes using markov random fields general model decision making ad hoc wireless networks
+MISC--: model then applied routing wireless networks
+MISC--: our prior work citation citation obtain probabilistic graphical models ad hoc wireless wireline networks starting network properties citation citation resulting probabilistic models turn out multi layer
+MISC--: this work focuses distributed decisions network flows
+MISC--: we view machine learning framework large number decision variables treated jointly
+MISC--: spatial dependence among variables poses key challenge preemption origin high communication complexity not been dealt sufficiently prior works
+AIMX--: machine learning provides feasible approaches this problem summarized below global model distributed preemption decisions we first develop probabilistic model represents explicitly spatial dependence distributed preemption decisions over pre determined preempting route new flow
+MISC--: randomness results randomly arriving departing active flows their locations
+MISC--: preemption decisions made flows at each node also random due incomplete inaccurate local information distributed preemption
+OWNX--: we first obtain cost function preemption hamiltonian system potential energy citation
+MISC--: hamiltonian combines local preemption decisions constraints into single quantity
+OWNX--: constraints include link capacity unused bandwidths bandwidth demand new flow at each link
+MISC--: hamiltonian then used obtain spatial probabilistic model gibbs distribution citation b markov random field mrf sufficient conditions spatial dependence characterized through probabilistic dependency graph graphical models citation citation citation machine learning
+MISC--: probabilistic dependency graph provides simple yet explicit representation spatial dependence among random variables
+OWNX--: we show if dependence decision variables spatially markovian globally optimal preemption decision obtained collectively iterative local decisions through information exchange only neighboring nodes
+MISC--: probabilistic model known markov random field citation
+MISC--: general distributed decisions may not spatially markov since spatial dependence caused flows across multiple links
+OWNX--: hence we identify traffic patterns active flows result approximately spatial markov dependence
+OWNX--: we then define near optimality distributed decisions difference between centralized distributed decisions measured hamiltonian obtain sufficient conditions difference reside within error bound c distributed decision algorithm near optimal distributed algorithm derived based markov random field
+MISC--: algorithms implemented through either message passing citation gibbs sampling citation d trade offs challenging issue performance complexity trade off i e when how distributed preemption achieve near optimal performance moderate complexity
+MISC--: here performance measures optimality distributed preemption decision relative centralized optimal decision
+MISC--: communication complexity distributed preemption characterized amount information used distributed decision making
+MISC--: distributed decisions reduce complexity using information exchange only neighbors but may deviate optimal performance
+AIMX--: hence we study performance complexity trade off through both analysis simulation rest this paper organized follows
+OWNX--: section provides problem formulation connection preemption
+MISC--: section develops probabilistic spatial model distributed preemption utilizing graphical models machine learning interpreting derived model terms optimality complexity
+OWNX--: section proposes distributed preemption algorithm based derived model using probabilistic inference
+OWNX--: section analyzes performance distributed preemption
+OWNX--: section validates performance distributed preemption through simulation
+OWNX--: section provides further literature review discussions
+OWNX--: section concludes paper

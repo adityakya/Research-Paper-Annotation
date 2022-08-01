@@ -1,0 +1,14 @@
+MISC--: problem classifying sonar signals rocks mines first studied gorman sejnowski become benchmark against many learning algorithms been tested
+BASE--: we discovered both training set test set this benchmark linearly separable although different hyperplanes
+MISC--: moreover complete set learning test patterns together also linearly separable
+OWNX--: we give weights separate sets may used compare results found other algorithms
+MISC--: become current practice test performance learning algorithms textsl realistic benchmark problems
+CONT--: underlying difficulty tests general problems not well caracterized making thus impossible decide whether better solution one already found exists
+MISC--: sonar signals classification benchmark introduced gorman et al citation widely used test machine learning algorithms
+MISC--: this problem classifier discriminate if given sonar return was produced metal cylinder cylindrically shaped rock same environment
+MISC--: benchmark contains preprocessed sonar spectra defined symbol real values their corresponding class
+MISC--: among symbol patterns usually used determine classifier parameters through procedure called learning
+OWNX--: then classifier used class symbol remaining patterns fraction misclassified patterns used estimate generalization error produced learning algorithm
+OWNX--: we applied monoplane neural incremental learning algorithm this benchmark
+OWNX--: this algorithm hidden units included one after other until number training errors vanishes
+MISC--: each hidden unit simple binary perceptron trained learning algorithm minimerror citation

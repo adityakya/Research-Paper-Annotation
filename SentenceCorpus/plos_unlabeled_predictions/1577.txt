@@ -1,0 +1,57 @@
+OWNX--: accurate modelling biological systems requires deeper more complete knowledge about molecular components their functional associations than we currently
+MISC--: traditionally new knowledge protein associations generated experiments played central role systems modelling contrast generally less trusted bio computational predictions
+MISC--: however we will not achieve realistic modelling complex molecular systems if current experimental designs lead biased screenings real protein networks leave large functionally important areas poorly characterised
+MISC--: assess likelihood this we built comprehensive network models yeast human proteomes using meta statistical integration diverse computationally predicted protein association datasets
+OWNX--: we compared predicted networks against combined experimental datasets seven biological resources at different level statistical significance
+OWNX--: eukaryotic predicted networks resemble all topological noise features experimentally inferred networks both species we also show this observation not due random behaviour
+MISC--: addition topology predicted networks contains information true protein associations beyond constitutive first order binary predictions
+OWNX--: we also observe most reliable predicted protein associations experimentally uncharacterised our models constituting hidden dark matter networks analogy astronomical systems
+MISC--: some this dark matter shows enrichment particular functions contains key functional elements protein networks hubs associated important functional areas like regulation ras protein signal transduction human cells
+MISC--: thus characterising this large functionally important dark matter elusive established experimental designs may crucial modelling biological systems
+OWNX--: any case predictions provide valuable guide experimentally elusive regions
+MISC--: many features biological systems cannot inferred simple sum their components but rather emerge network properties citation
+MISC--: organisms comprise systems highly integrated networks accelerating networks citation all components integrated coordinated time space
+MISC--: given complexity gaps our current knowledge prevent us modelling complete living organisms citation citation
+MISC--: therefore development bio computational approaches identifying new protein functions protein protein functional associations play important role systems biology citation
+MISC--: scarce knowledge biological systems further compounded experimental error
+MISC--: common different high throughput experimental approaches applied same biological system yield different outcomes resulting protein networks different topological biological properties citation
+CONT--: however errors not restricted high throughput analysis
+MISC--: example been demonstrated high throughput yeast two hybrid interactions human proteins more precise than literature curated interactions supported single publication citation
+MISC--: there been great deal work analysing biological networks across different species giving insights into how networks evolve
+MISC--: however many publications yielded disparate sometimes contradictory conclusions
+MISC--: observation poor overlap protein networks across species citation divergence amongst organisms citation suggest fast evolution
+MISC--: significant variation subunit compositions functional modules also been observed protein networks across species citation
+MISC--: however contrast observations recent work using combined protein protein interaction data suggests high conservation protein networks between yeast human citation
+MISC--: this approach based data combination stresses importance integrating different data sources reduce bias associated errors functional prediction increase coverage network modelling been demonstrated numerous studies citation citation
+OWNX--: increasing accuracy networks integrating different protein interaction data relies intuitive principle combining multiple independent sources evidence gives greater confidence than single source
+MISC--: any genome wide computational analyses we expect prediction errors randomly distributed amongst large sample true negative interactions
+MISC--: hence unlikely two independent prediction methods will both identify same false positive data large interactomes like yeast human
+OWNX--: general we expect precision increase proportionally number independent approaches supporting same evidence
+OWNX--: available list well known integration methods specifically designed integrate diverse protein protein interaction ppi datasets we chose fisher method citation order predictor independent experimental data used validate
+OWNX--: fisher integration method not trained supervised method example naive bayes svm methods
+MISC--: fisher method presumes gaussian random distribution prediction datasets scores null hypothesis fisher integrated score calculation based information theory statistics citation citation
+OWNX--: therefore fisher integration score completely independent experimental datasets used this study validate compare predictions
+BASE--: this work we significantly increase prediction power binary protein functional associations yeast human proteomes integrating different individual prediction methods using fisher integration method
+MISC--: three different untrained methods implemented geco hippi coda run two protein domain classifications cath citation pfam citation
+OWNX--: four different prediction datasets obtained methods were integrated using simple integration fisher s method examples untrained methods
+OWNX--: similarly ab initio prediction datasets string citation were also integrated using fisher integration compared against integrated prediction datasets our methods
+OWNX--: results fisher integration our prediction datasets were benchmarked compared against individual prediction methods results integrated string methods
+OWNX--: all cases we demonstrate increased performance integrated approach fisher integration geco hippi codacath codapfam datasets yielding best results
+MISC--: protein pairs identified significant fisher integration p values were used build protein network model yeast human proteomes referred predictogram
+MISC--: additionally all protein protein associations several major biological databases including reactome citation kegg citation go citation funcat citation intact citation mint citation hrpd citation were retrieved combined into network referred knowledgegram
+OWNX--: implemented other pioneering studies citation we built predicted experimental models further comparison
+MISC--: different network topology parameters were calculated compared between kg pg models two test species homo sapiens sacharomyces cerevisae
+OWNX--: we observe how networks change cut off confidence score predictions varied
+MISC--: results this pg kg network comparison demonstrate pg networks resemble kg networks many major topological features model substantial fraction real protein network associations previously observed some bacterial predicted networks citation citation
+MISC--: there been frequent observations low overlaps between different experimental high throughput approaches citation
+OWNX--: our comparison pg kg models also show intersection between two models small majority predictions pg novel predictions
+MISC--: however overlap between pg kg significantly higher than expected random both species supporting correspondence between pg kg screenings ppi space
+MISC--: this pg kg data overlap significantly larger yeast than human pointing better functional characterization yeast ppi network presence larger dark areas human ppi network still hidden current experimental knowledge
+AIMX--: we suggest this novel prediction set may valuable estimation relative differences dark matter uncharacterised protein protein associations between both specie we show this dark matter contains key elements hubs important functional roles cell
+MISC--: analogy citation dark matter protein network models refers predicted protein protein associations whose existence not yet been experimentally verified
+AIMX--: this study we suggest dark matter involves functional associations difficult characterise current experimental assays making any network modelling organisms highly incomplete therefore inaccurate
+OWNX--: results divided into four main sections predicted experimental ppi models human yeast compared
+MISC--: first section analyses performance single integrated methods predicting protein associations determines correlation between prediction scores degree accuracy noise predictions
+MISC--: second chapter compares topological network features predicted experimental ppi models at equivalent levels accuracy noise
+CONT--: third section searches functional differences between predicted experimental models looking specific functional areas appear illuminated prediction methods but elusive experimental approaches
+MISC--: whilst final fourth section explores whether predicted ppi network graphs contain additional context based information protein associations beyond sets predicted protein pairs used build networks

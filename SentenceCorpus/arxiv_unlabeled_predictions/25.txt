@@ -1,0 +1,7 @@
+AIMX--: this paper we introduce class stationary prediction strategies construct prediction algorithm asymptotically performs well best continuous stationary strategy
+OWNX--: we make mild compactness assumptions but no stochastic assumptions about environment
+MISC--: particular no assumption stationarity made about environment stationarity considered strategies only means they do not depend explicitly time we argue natural consider only stationary strategies even highly non stationary environments
+MISC--: this paper belongs area learning theory been variously referred prediction expert advice competitive line prediction prediction individual sequences universal line learning see citation review
+MISC--: there many proof techniques known this field this paper based kalnishkan vyugin s weak aggregating algorithm citation but possible some numerous other techniques could used instead
+OWNX--: section we give main definitions state our main results theorems their proofs given sections
+OWNX--: section we informally discuss notion stationarity section concludes

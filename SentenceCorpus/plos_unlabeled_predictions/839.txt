@@ -1,0 +1,32 @@
+MISC--: molecular chaperones essential elements protein quality control machinery governs translocation folding nascent polypeptides refolding degradation misfolded proteins activation wide range client proteins
+MISC--: prokaryotic heat shock protein dnak e coli representative ubiquitous hsp family specializes binding exposed hydrophobic regions unfolded polypeptides
+MISC--: accurate prediction dnak binding sites e coli proteins essential prerequisite understand precise function this chaperone properties its substrate proteins
+MISC--: order map dnak binding sites protein sequences we developed algorithm combines sequence information peptide binding experiments structural parameters homology modelling
+OWNX--: we show this combination significantly outperforms either single approach
+MISC--: final predictor had matthews correlation coefficient when assessed over tested peptide sequences detect true positives true negatives
+OWNX--: test robustness learning set we conducted simulated cross validation where we omit sequences learning sets calculate rate repredicting them
+MISC--: this resulted surprisingly good mcc
+MISC--: algorithm was also able perform equally well blind test set binders non binders there was no prior knowledge learning sets
+OWNX--: algorithm freely available at link
+MISC--: hsp molecular chaperones part quality control machinery functions assist protein folding
+MISC--: members hsp family been implicated refolding misfolded proteins folding newly synthesized polypeptide chains disassembly larger aggregates translocation proteins organelles citation
+MISC--: hsp molecules also enable cell survival during stress heat shock conditions characterized increased concentration denatured polypeptides
+MISC--: chaperones recognize bind misfolded aggregation prone peptide stretches through exposed hydrophobic regions normally buried protein core
+MISC--: exposed regions typical non native proteins citation citation
+MISC--: hsp molecular chaperones consist two distinct domains n terminal atpase domain citation c terminal peptide binding domain citation
+MISC--: hsp function dependent atp regulated cycle substrate binding release citation
+OWNX--: atp bound substrate affinity low hsp resides open state ready receive suitable substrate
+MISC--: once substrate bound atp hydrolyzed adp hsp undergoes conformational change high affinity state subsequently trapping substrate
+MISC--: co chaperone hsp binds hsp stimulates atpase function causing retention substrate
+MISC--: hsp also recognizes hydrophobic stretches may serve substrate delivery chaperone hsp citation citation
+MISC--: upon exchange adp atp hsp returns low affinity state enabling binding another substrate providing another refolding cycle same substrate if necessary
+MISC--: crystallisation archetypical well characterized e coli hsp dnak bound peptide reflects heptameric substrate binding motif requiring hydrophobic core region preferably basic flanking residues complement overall negatively charged dnak surface citation
+MISC--: this preference was later confirmed seminal work bukau co workers binding studies dnak cellulose based peptide libraries dnak binding profile was derived citation
+MISC--: contrary previous studies dnak binding motif profiling utilised only sequence information we complement experimental binding information set peptides structural data homology modelling obtain accurate predictor
+MISC--: similar dual based approaches already been shown successful predict other peptide signatures
+MISC--: prediction binding endogenous antigenic peptides mhc class i molecules was aided adding structural information molecular models sequence data citation
+MISC--: branetti et al used structural data various sh ligand complexes sequence information phage libraries predict preferred ligand binding different sh domains citation
+MISC--: recently algorithm predict amylogenic regions protein sequences profited greatly combination sequence based data structural information amyloid fibers crystallographic studies
+OWNX--: this article we introduce dual based method profiling dnak binding sequences
+MISC--: we combine sequence based information experimental binding assays structural information molecular modelling via foldx force field citation
+OWNX--: we present dnak binding prediction algorithm under cross validated conditions performs strikingly accurate

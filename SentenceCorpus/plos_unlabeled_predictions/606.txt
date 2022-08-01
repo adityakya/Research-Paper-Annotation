@@ -1,0 +1,43 @@
+OWNX--: both excitability neuron s membrane driven active ion channels dendritic morphology contribute neuronal firing dynamics but relative importance interactions between features remain poorly understood
+MISC--: recent modeling studies shown different combinations active conductances evoke similar firing patterns but neglected how morphology might contribute homeostasis
+MISC--: parameterizing morphology cylindrical dendrite we introduce novel application mathematical sensitivity analysis quantifies how dendritic length diameter surface area influence neuronal firing compares effects directly against those active parameters
+OWNX--: method was applied model neurons goldfish area ii
+OWNX--: neurons exhibit likely contribute persistent activity eye velocity storage simple model working memory
+MISC--: we introduce sensitivity landscapes defined local sensitivity analyses firing rate gain each parameter performed globally across parameter space
+MISC--: principal directions over sensitivity all parameters varied most revealed intrinsic currents most controlled model output
+OWNX--: we found domains where different groups parameters had highest sensitivities suggesting interactions within each group shaped firing behaviors within each specific domain
+OWNX--: application our method its characterization models were sensitive general morphologic features will lead advances understanding how realistic morphology participates functional homeostasis
+OWNX--: significantly we predict active conductances how many them will compensate given age development related structural change will offset morphologic perturbation resulting trauma neurodegenerative disorder restore normal function
+OWNX--: our method adapted analyze any computational model
+MISC--: thus sensitivity landscapes quantitative predictions they provide give new insight into mechanisms homeostasis any biological system
+OWNX--: recent studies demonstrated neurons neuronal networks capable functional homeostasis maintaining specific levels neural activity over long time scales
+MISC--: although combination currents within individual neurons same class varies widely output neurons even network whole remains remarkably stable citation citation
+MISC--: interestingly some circumstances function maintained despite changes neuronal morphology citation
+MISC--: computational models been used explore processes underlying neuronal homeostasis citation demonstrated many combinations conductance parameters across parameter space evoke similar firing patterns citation citation citation
+OWNX--: neuronal morphology also seems under homeostatic control global features including distribution dendritic mass conserved across different classes neurons making unlikely local morphologic features dendritic length numbers branches regulated independently citation citation
+MISC--: nonetheless computational models not yet explored how morphology might contribute functional homeostasis
+MISC--: dendritic morphology critical determinant neuronal firing dynamics signal processing citation citation
+MISC--: influence morphology neuronal processing further enhanced active ion channels distributed throughout dendrites citation citation citation
+MISC--: previous computational studies identified conductance citation citation citation citation morphologic citation citation citation parameters drive general firing patterns but not quantified how different parameters influence individual models across parameter space
+MISC--: moreover few studies analyzed contributions intracellular calcium dynamics firing patterns citation despite crucial role intracellular ca shaping membrane potential synaptic transmission signaling cascades citation
+MISC--: working memory maintains brief mental representation recent event necessary future task performance citation citation one function thought exploit computational capacity dendrites citation citation
+OWNX--: persistent neural activity hallmark working memory been observed throughout brain
+MISC--: neurons pre cerebellar nucleus area ii goldfish exhibit likely contribute eye velocity storage citation citation mechanism displays persistent activity long after termination its eliciting stimulus
+MISC--: experiments suggest intrinsic properties individual cells contribute persistent activity
+OWNX--: we hypothesize morphologic properties area ii neurons partially compensate intrinsic differences active passive conductances maintain similar firing patterns throughout nucleus citation citation
+AIMX--: begin test hypotheses like this we introduce novel application mathematical sensitivity analysis citation we quantify effects different classes parameters like active conductances morphology model output
+OWNX--: this quantification allows us compare effects each parameters models across parameter space produce similar output identifying mechanisms homeostasis
+CONT--: sensitivity analysis been used widely physics chemical engineering biological signaling models understand relationship between model input output citation citation but its use within computational neuroscience been limited citation citation
+MISC--: traditionally sensitivity analysis performed locally around single optimal model globally reporting general sensitivity throughout parameter space quantify how each parameter contributes model output
+MISC--: large number parameters their nonlinear interactions render techniques insufficient over broad parameter space neuronal compartment models
+OWNX--: synthesize approaches we explore sensitivity landscapes provide global picture parameter sensitivities while identifying how intrinsic properties individual neurons influence their firing patterns
+OWNX--: this method adapted easily compare sensitivities parameters any computational model
+OWNX--: our method defined three basic steps parameterizing morphology permit its systematic variation evaluating sensitivity small perturbations models across parameter space exploring sensitivity landscapes constructed local sensitivities identify global trends
+OWNX--: simplify presentation our method we use reduced morphologic model comprising soma cylindrical dendrite
+OWNX--: we later demonstrate our sensitivity analysis method applied models include more realistic morphologies
+CONT--: our analysis identified principal directions over sensitivity magnitude even sign all parameters varied most
+OWNX--: at same time we found domains across space different groups parameters even morphologic ones had highest sensitivities
+OWNX--: together results reveal mechanisms maintain homeostasis both locally globally across parameter space
+OWNX--: we show how sensitivities used predict compensatory tradeoffs quantitatively between morphologic conductance parameters maintain target activity levels area ii cells
+MISC--: compensatory mechanisms exist many systems where function conserved despite variability dendritic structure synaptic input membrane excitability citation citation may offset some morphologic changes associated aging neurodegenerative disorders
+MISC--: sensitivity landscapes provide new insight into mechanisms functional homeostasis throughout brain facilitate analysis homeostasis any biological system

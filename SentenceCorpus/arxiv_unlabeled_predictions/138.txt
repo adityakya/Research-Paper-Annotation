@@ -1,0 +1,27 @@
+CONT--: previous studies multi instance learning typically treated instances bags independently identically distributed
+CONT--: instances bag however rarely independent real tasks better performance expected if instances treated non iid
+MISC--: way exploits relations among instances
+AIMX--: this paper we propose two simple yet effective methods
+OWNX--: first method we explicitly map every bag undirected graph design graph kernel distinguishing positive negative bags
+OWNX--: second method we implicitly construct graphs deriving affinity matrices propose efficient graph kernel considering clique information
+MISC--: effectiveness proposed methods validated experiments
+MISC--: multi instance learning citation each training example bag instances
+OWNX--: bag positive if contains at least one positive instance negative otherwise
+MISC--: although labels training bags known however labels instances bags unknown
+MISC--: goal construct learner classify unseen bags
+MISC--: multi instance learning been found useful diverse domains image categorization citation image retrieval citation text categorization citation computer security citation face detection citation computer aided medical diagnosis citation etc
+MISC--: prominent advantage multi instance learning mainly lies fact many real objects inherent structures adopting multi instance representation we able represent objects more naturally capture more information than simply using flat single instance representation
+OWNX--: example suppose we partition image into several parts
+MISC--: contrast representing whole image single instance if we represent each part instance then partition information captured multi instance representation if partition meaningful e g each part corresponds region saliency additional information captured multi instance representation may helpful make learning task easier deal
+MISC--: obviously not good idea apply multi instance learning techniques everywhere since if single instance representation sufficient using multi instance representation just gilds lily
+MISC--: even tasks where objects inherent structures we should keep mind power multi instance representation exists its ability capturing some structure information
+CONT--: however zhou xu citation indicated previous studies multi instance learning typically treated instances bags independently identically distributed this neglects fact relations among instances convey important structure information
+MISC--: considering above image task again treating different image parts inter correlated samples evidently more meaningful than treating them unrelated samples
+MISC--: actually instances bag rarely independent better performance expected if instances treated non iid
+MISC--: way exploits relations among instances
+AIMX--: this paper we propose two multi instance learning methods do not treat instances iid
+MISC--: samples
+OWNX--: our basic idea regard each bag entity processed whole regard instances inter correlated components entity
+MISC--: experiments show our proposed methods achieve performances highly competitive state art multi instance learning methods
+AIMX--: rest this paper organized follows
+OWNX--: we briefly review related work section propose new methods section report our experiments section conclude paper finally section

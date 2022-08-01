@@ -1,0 +1,16 @@
+MISC--: one major challenge behavioral decision research identify cognitive processes underlying judgment decision making
+MISC--: glockner citation argued compared previous methods process models more efficiently tested simultaneously analyzing choices decision times confidence judgments
+OWNX--: multiple measure maximum likelihood mm ml strategy classification method was developed this purpose implemented ready use routine stata commercial package statistical data analysis
+OWNX--: present article we describe implementation mm ml r free package data analysis under gnu general public license we provide practical guide application
+OWNX--: we also provide mm ml easy use r function
+MISC--: thus prior knowledge r programming not necessary those interested using mm ml
+MISC--: been repeatedly argued individuals make adaptive use different decision strategies citation application respective strategy might depend different factors participants characteristics citation effort accuracy trade offs citation learning experiences citation presentation format citation situational forces citation
+MISC--: some strategies might entirely based deliberate computations citation
+MISC--: others contrast might partially rely automatic intuitive processes citation
+MISC--: glockner betsch citation showed classic process tracing methods mouselab citation might hinder information search processes necessary applying automatic processes
+MISC--: furthermore taking into account intuitive automatic processes many strategies make essentially same choice predictions citation
+MISC--: glockner citation showed considering strategies make different choice predictions people more efficiently classified applying multiple measure maximum likelihood strategy classification method mm ml compared relying choice based strategy classification alone citation
+MISC--: furthermore mm ml method also allows us differentiate between strategies make same choice predictions given decision time predictions aid discrimination
+MISC--: preparing experiment generate data application mm ml method comprises three basic steps number choose dependent measures specify distributions those measures number choose set strategies number select items differentiate between considered strategies derive predictions dependent measures
+MISC--: then fit predictions strategies individuals empirical data calculated using mm ml strategy most likely accounting individuals behavior identified
+MISC--: glockner citation provided implementation mm ml method stata commercial package data analysis

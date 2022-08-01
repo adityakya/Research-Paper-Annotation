@@ -1,0 +1,61 @@
+MISC--: knowledge social contact patterns still represents most critical step understanding spread directly transmitted infections
+MISC--: data social contact patterns however expensive obtain
+MISC--: major issue then whether simulation synthetic societies might helpful reliably reconstruct data
+AIMX--: this paper we compute variety synthetic age specific contact matrices through simulation simple individual based model
+CONT--: model informed italian time use data routine socio demographic data
+MISC--: model named little italy because each artificial agent clone real person
+MISC--: other words each agent s daily diary one observed corresponding real individual sampled italian time use survey
+OWNX--: we also generated contact matrices socio demographic model underlying italian ibm pandemic prediction
+MISC--: synthetic matrices then validated against recently collected italian serological data varicella parvovirus
+OWNX--: their performance fitting sero profiles compared other matrices available italy polymod matrix
+MISC--: synthetic matrices show same qualitative features ones estimated sample surveys example strong assortativeness presence super sub diagonal stripes related contacts between parents children
+MISC--: once validated against serological data little italy matrices fit worse than polymod one vzv but better than concurrent matrices b
+OWNX--: this first occasion where synthetic contact matrices systematically compared real ones validated against epidemiological data
+OWNX--: results suggest simple carefully designed synthetic matrices provide fruitful complementary approach questionnaire based matrices
+MISC--: paper also supports idea depending transmissibility level infection either number different contacts repeated exposure may key factor transmission
+MISC--: century after first contributions giving birth mathematical epidemiology after years fast growth since first public health oriented contributions citation citation infectious diseases modeling recently received further dramatic impulse pandemics threats
+OWNX--: bio terrorism sars first fear potentially devastating pandemic avian flu then finally recent pandemic h n influenza all fostered development more more detailed predictive tools
+MISC--: range traditional models network analysis highly detailed large scale individual based models citation citation
+MISC--: ibm highly flexible tools policy makers they allow define intervention measures at finest possible levels
+CONT--: first time pandemic model continental scale been proposed citation
+MISC--: critical aspect common all models parameterization social contact patterns i e how people socially mix each other citation
+MISC--: social contact patterns key factors underlying transmission dynamics directly transmitted close contacts infectious diseases citation
+MISC--: different models independently their level complexity geographical scale sensitive parameterization social contact patterns
+MISC--: relatively simple case where individuals stratified age only contact patterns represented form contact matrices whose entries represent average number contacts individuals age group i individuals age group j per unit time
+MISC--: until recently contact patterns were estimated indirectly calibrating suitably restricted contact matrices using observed epidemiological data serological case notifications data
+MISC--: two major examples this indirect approach who acquires infection whom matrix citation proportionate preferred mixing approach citation
+MISC--: approaches important restrictions population divided n age groups contact matrix contains nxn n unknown entries
+OWNX--: therefore order estimate n parameters n data points some simplifying assumptions about structure matrix needed
+MISC--: addition indirect approaches only estimate adequate contacts transmission rates i e composite parameters given product between contact rate corresponding risk infection per contact
+MISC--: recently important progress been made this area through direct collection contact data means sample surveys citation citation
+OWNX--: direct approach based appropriate definitions at risk event
+MISC--: survey respondents then asked record diary relevant characteristics all individuals they had contact during randomly assigned day other factors location where contact occurred
+MISC--: standardized international survey data social contact patterns european countries currently available citation
+MISC--: addition contact matrices time contact matrices been estimated secondary data sources transportation surveys citation time use data citation increasingly available
+MISC--: case time use data underlying hypothesis amount time people spend doing same activity same place relevant transmission disease
+MISC--: drawback time use data they usually do not give direct information about number social contacts respondents time they spent contacts
+MISC--: they only give marginal information time individuals allocated various daily activities citation
+MISC--: therefore data need augmented other data assumptions produce reliable estimates contact matrices citation
+MISC--: way supplement time use data relies socio demographic sources provide information size distribution arenas where contacts take place
+MISC--: example school contacts we often know average class size average pupils teacher ratio all compulsory grades
+OWNX--: contacts within household we information household size composition
+MISC--: most other activities however there little information
+MISC--: assumptions e g independency therefore necessary give some coarse ideas contact patterns citation
+MISC--: however this approach ignores structure social networks where contacts formed
+MISC--: promising approach then reconstruct networks simulation appropriate artificial social networks
+MISC--: first example social network generated portland synthetic population citation
+MISC--: case contact time contact matrices age products social dynamics portland model
+OWNX--: matrices standard expected features population contacts cluster around children adult children interact most frequently other children close their own age etc however matrices were neither compared other contact matrices nor validated against empirical epidemiological data
+OWNX--: thus no actual evaluation their goodness explaining transmission infections available
+AIMX--: this paper we follow same line aim reconstruct contact time contacts matrices simulating suitable minimalistic socio demographic individual based model italy
+CONT--: model parameterized integrating time use data italian time use survey citation other official socio demographic data citation citation
+MISC--: model each artificial agent clone real individual i e there one one correspondence between diary each artificial agent one corresponding real survey participant
+OWNX--: since sample representative italian population but size model population comparable small italian city we named model little italy
+BASE--: this point view our model resembles portland model citation eemnes model citation
+MISC--: little italy world agents physically displace during day order attend their various daily activities corresponding location
+MISC--: locations agents contact other agents
+MISC--: we defined contact having shared same physical environment during given time slot
+BASE--: our approach we generate three different types contact matrices possibly informative distinct aspects biology transmission matrix describing time spent contact citation matrix counting number repetition contact episodes matrix counting contacts average number different persons contacted i e number different social partnerships citation
+OWNX--: addition we extracted adequate citation contact matrix socio demographic model underlying italian ibm pandemic prediction mitigation citation we named big italy
+MISC--: synthetic contact matrices computed simulation little big italy tested against recently collected italian serological data varicella parvovirus
+CONT--: their performances compared other contact matrices available italy i e polymod time use matrices

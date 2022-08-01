@@ -1,0 +1,21 @@
+OWNX--: given matrix symbol low rank we consider problem reconstructing noisy observations small random subset its entries
+MISC--: problem arises variety applications collaborative filtering netflix problem structure motion positioning
+AIMX--: we study low complexity algorithm introduced citation based combination spectral techniques manifold optimization we call here optspace
+OWNX--: we prove performance guarantees order optimal number circumstances
+MISC--: spectral techniques authentic workhorse machine learning statistics numerical analysis signal processing
+MISC--: given matrix symbol its largest singular values associated singular vectors explain most significant correlations underlying data source
+OWNX--: low rank approximation symbol further used low complexity implementations number linear algebra algorithms citation
+OWNX--: many practical circumstances we access only sparse subset entries symbol matrix symbol
+MISC--: recently been discovered if matrix symbol rank symbol unless too structured small random subset its entries allow reconstruct exactly
+MISC--: this result was first proved citation analyzing convex relaxation introduced citation
+MISC--: tighter analysis same convex relaxation was carried out citation
+MISC--: number iterative schemes solve convex optimization problem appeared soon thereafter citation
+MISC--: alternative line work citation attacked same problem using combination spectral techniques manifold optimization we will refer their algorithm optspace optspace intrinsically low complexity most complex operation being computing symbol singular values corresponding singular vectors sparse symbol matrix
+MISC--: performance guarantees proved citation comparable information theoretic lower bound roughly symbol random entries needed reconstruct symbol exactly here we assume symbol order symbol
+OWNX--: related approach was also developed citation although without performance guarantees matrix completion
+OWNX--: above results crucially rely assumption symbol exactly rank symbol matrix
+MISC--: many applications interest this assumption unrealistic therefore important investigate their robustness
+OWNX--: above approaches generalized when underlying data well approximated rank symbol matrix
+MISC--: this question was addressed citation within convex relaxation approach citation
+AIMX--: present paper proves similar robustness result optspace
+OWNX--: remarkably guarantees we obtain order optimal variety circumstances improve over analogous results citation

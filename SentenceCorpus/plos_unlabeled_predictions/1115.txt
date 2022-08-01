@@ -1,0 +1,70 @@
+OWNX--: discovery small molecules targeted specific oncogenic pathways revolutionized anti cancer therapy
+CONT--: however therapy often fails due evolution acquired resistance
+MISC--: one long standing question clinical cancer research identification optimum therapeutic administration strategies so risk resistance minimized
+AIMX--: this paper we investigate optimal drug dosing schedules prevent at least delay emergence resistance
+AIMX--: we design analyze stochastic mathematical model describing evolutionary dynamics tumor cell population during therapy
+MISC--: we consider drug resistance emerging due single genetic alteration calculate probability resistance arising during specific dosing strategies
+OWNX--: we then optimize treatment protocols risk resistance minimal while considering drug toxicity side effects constraints
+OWNX--: our methodology used identify optimum drug administration schedules avoid resistance conferred one genetic alteration any cancer treatment type
+OWNX--: alteration normal regulation cell cycle progression division death lies at heart processes driving tumorigenesis
+MISC--: detailed molecular understanding processes provides opportunity design targeted anti cancer agents
+MISC--: term targeted therapy refers drugs focused mechanism specifically act well defined protein targets biological pathways when altered therapy impair abnormal proliferation cancer cells
+MISC--: examples this type therapy include hormonal based therapies breast prostate cancer small molecule inhibitors egfr pathway lung breast colorectal cancers erlotinib gefitinib cetuximab inhibitors jak flt bcr abl tyrosine kinases leukemias imatinib dasatinib nilotinib blockers invasion metastasis anti angiogenesis agents like bevacizumab proapoptotic drugs proteasome inhibitors bortezomib citation citation
+CONT--: target driven approach drug development contrasts conventional more empirical approach used develop cytotoxic chemotherapeutics successes past few years illustrate power this concept
+MISC--: absence prolonged clinical responses many cases however stresses importance continued basic studies into mechanisms targeted drugs their failure clinic
+MISC--: acquired drug resistance important reason failure targeted therapies
+MISC--: resistance emerges due drug metabolism drug export alteration drug target mutation deletion overexpression
+MISC--: depending cancer type its stage therapy administered genetic background patient one several genetic alterations may necessary confer drug resistance cells
+AIMX--: this paper we investigate drug resistance emerging due single alteration
+MISC--: example treatment chronic myeloid leukemia targeted agent imatinib fails due acquired point mutations bcr abl kinase domain citation
+MISC--: date ninety different point mutations been identified each sufficient confer resistance imatinib citation
+CONT--: second generation bcr abl inhibitors dasatinib nilotinib circumvent most mutations confer resistance imatinib t i mutation however causes resistance all bcr abl kinase inhibitors developed so far
+MISC--: similarly t m point mutation epidermal growth factor receptor confers resistance egfr tyrosine kinase inhibitors gefitinib erlotinib citation used treat non small cell lung cancer
+MISC--: other mechanisms resistance include gene amplification overexpression p glycoprotein family membrane transporters decreases intracellular drug accumulation changes cellular proteins involved detoxification activation drug changes molecules involved dna repair activation oncogenes her neu c myc ras well inactivation tumor suppressor genes like p citation citation
+MISC--: design optimal drug administration schedules minimize risk resistance represents important issue clinical cancer research
+MISC--: currently many targeted drugs administered continuously at sufficiently low doses so no drug holidays necessary limit side effects
+MISC--: alternatively drug may administered at higher doses short pulses followed rest periods allow recovery toxicity
+MISC--: clinical studies evaluating advantages different approaches been ambivalent
+MISC--: some investigations found low dose continuous strategy more effective citation while others advocated more concentrated dosages citation
+MISC--: effectiveness low dose continuous approach often attributed its targeted effect tumor endothelial cells prevention angiogenesis rather than low rates resistance citation
+MISC--: continuous dosing strategy often implemented combination therapy sometimes including second drug administered at higher dose pulsed fashion
+MISC--: significant amount research effort been devoted developing mathematical models tumor growth response chemotherapy
+OWNX--: seminal paper norton simon proposed model kinetic resistance cell cycle specific therapy tumor growth followed gompertzian law citation
+MISC--: authors used differential equation model rate cell kill was proportional rate growth unperturbed tumor given size
+OWNX--: they suggested one way combating slowing rate tumor regression was increase intensity treatment tumor became smaller thus increasing chance cure
+MISC--: authors also published review clinical trials employing dosing schedules related their proposed dose intensification strategy concluded concept intensification was clinically feasible possibly efficacious citation
+MISC--: later predictions extension this model were validated clinical trial evaluating effects dose dense strategy conventional regimen chemotherapy citation
+MISC--: their model its predictions become known norton simon hypothesis generated substantial interest mathematical modeling chemotherapy kinetic resistance
+OWNX--: example dibrov colleagues formulated kinetic cell cycle model describe cell synchronization cycle phase specific blockers citation this model was then used optimizing treatment schedules increase degree synchronization thus effectiveness cycle specific drug
+OWNX--: agur introduced another model describing cell cycle dynamics tumor host cells investigate effect drug scheduling responsiveness chemotherapy citation this model was then used optimize scheduling chemotherapeutics maximize efficacy while controlling host toxicity
+MISC--: other theoretical studies include mathematical model tumor recurrence metastasis during periodically pulsed chemotherapy citation control theoretic approach optimal dosing strategies citation evaluation chemotherapeutic strategies light their anti angiogenic effects citation
+MISC--: more comprehensive survey kinetic models tumor response chemotherapy we refer reader reviews citation citation references therein
+MISC--: there also been substantial research efforts devoted developing mathematical models genetic resistance i e resistance driven genetic alterations cancer cells
+MISC--: since mutations conferring resistance arise random events during dna replication phase cell division dynamics resistant populations well suited description stochastic mathematical models
+OWNX--: coldman co authors pioneered this field introducing stochastic models resistance against chemotherapy guide treatment schedules
+MISC--: coldman goldie studied emergence resistance one two functionally equivalent chemotherapeutic drugs using branching process model tumor growth differentiation hierarchy citation
+OWNX--: this model birth death rates cells were time independent constants each sensitive cell division gave rise resistant cell certain probability
+MISC--: effect drug was modeled additional probabilistic cell kill law existing population drug could administered fixed dose at series fixed time points
+MISC--: goal model was schedule sequential administration both drugs order maximize probability cure
+MISC--: later assumption equivalence symmetry between two drugs was relaxed citation
+OWNX--: models were also extended include toxic effects chemotherapy normal tissue optimal control problem was formulated maximize probability tumor cure without toxicity citation
+MISC--: more recently iwasa colleagues used multi type birth death process model study probability resistance emerging due one multiple mutations populations under selection pressure citation
+MISC--: authors considered pre existing resistance mutations determined optimum intervention strategy utilizing multiple drugs
+MISC--: multi drug resistance was also investigated using multi type birth death process model work komarova wodarz citation citation
+MISC--: their models resistance each drug was conferred genetic alterations within mutational network
+MISC--: birth death rates each cell type were time independent constants cells had additional drug induced death rate if they were sensitive one more drugs
+MISC--: authors studied evolution resistant cells both before after start treatment calculated probability treatment success under continuous treatment scenarios variable number drugs
+MISC--: recently dynamics resistance emerging due one two genetic alterations clonally expanding population sensitive cells prior start therapy were studied using time homogenous multi type birth death process citation citation
+MISC--: one common feature models genetic resistance treatment effect formulated additional probabilistic cell death rate sensitive cells separate underlying birth death process model constant birth death rates
+MISC--: under model assumptions drug cannot alter proliferation rate either sensitive resistant cells however main effect many targeted therapies inhibition proliferation cancer cells
+OWNX--: inhibited proliferation turn leads reduced probability resistance since resistant cells generated during sensitive cell divisions
+AIMX--: this paper we utilize non homogenous multi type birth death process model wherein birth death rates both sensitive resistant cells dependent temporally varying drug concentration profile
+OWNX--: this study represents significant departure existing models resistance since we incorporate effect inhibition sensitive cell proliferation well drug induced death obtaining more accurate description evolutionary dynamics system
+OWNX--: addition we generalize our model incorporate partial resistance so drug may also effect birth death rates resistant cells
+MISC--: goals our analysis also differ those previous work
+MISC--: coldman murray were interested finding optimal administration strategy multiple chemotherapeutic drugs combination sequential administration citation they aimed maximize probability cure while limiting toxicity
+MISC--: komarova was interested studying effect multiple drugs administered continuously probability eventual cure citation
+AIMX--: contrast this paper we derive estimates expected size resistant cell population well probability resistance during full spectrum continuous pulsed treatment schedules one targeted drug
+OWNX--: we then propose methodology selecting optimal strategy this spectrum minimize probability resistance well maximally delay progression disease controlling expected size resistant population while incorporating toxicity constraints
+MISC--: many clinical scenarios probability resistance high regardless dosing strategy thus maximal delay disease progression more realistic objective than tumor cure
+AIMX--: methodology developed this paper applied study acquired resistance any cancer treatment type

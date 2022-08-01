@@ -1,0 +1,61 @@
+MISC--: client server architecture simultaneously solve multiple learning tasks distributed datasets described
+MISC--: architecture each client associated individual learning task associated dataset examples
+MISC--: goal architecture perform information fusion multiple datasets while preserving privacy individual data
+MISC--: role server collect data real time clients codify information common database
+OWNX--: information coded this database used all clients solve their individual learning task so each client exploit informative content all datasets without actually having access private data others
+MISC--: proposed algorithmic framework based regularization theory kernel methods uses suitable class mixed effect kernels
+OWNX--: new method illustrated through simulated music recommendation system
+MISC--: solution learning tasks joint analysis multiple datasets receiving increasing attention different fields under various perspectives
+MISC--: indeed information provided data specific task may serve domain specific inductive bias others
+MISC--: combining datasets solve multiple learning tasks approach known machine learning literature multi task learning learning learn citation
+MISC--: this context analysis inductive transfer process investigation general methodologies simultaneous learning multiple tasks important topics research
+MISC--: many theoretical experimental results support intuition when relationships exist between tasks simultaneous learning performs better than separate single task learning citation
+OWNX--: theoretical results include extension multi task setting generalization bounds notion vc dimension citation methodology learning multiple tasks exploiting unlabeled data so called semi supervised setting citation
+MISC--: importance combining datasets especially evident biomedicine
+MISC--: pharmacological experiments few training examples typically available specific subject due technological ethical constraints citation
+OWNX--: this makes hard formulate quantify models experimental data
+MISC--: obviate this problem so called population method been studied applied success since seventies pharmacology citation
+MISC--: population methods based knowledge subjects albeit different belong population similar individuals so data collected one subject may informative respect others citation
+MISC--: population approaches belongs family so called mixed effect statistical methods
+MISC--: methods clinical measurements different subjects combined simultaneously learn individual features physiological responses drug administration citation
+MISC--: population methods been applied success also other biomedical contexts medical imaging bioinformatics citation
+MISC--: classical approaches postulate finite dimensional nonlinear dynamical systems whose unknown parameters determined means optimization algorithms citation
+MISC--: other strategies include bayesian estimation stochastic simulation citation nonparametric population methods citation
+MISC--: information fusion different but related datasets widespread also econometrics marketing analysis where goal learn user preferences analyzing both user specific information information related users see eg citation
+MISC--: so called conjoint analysis aims determine features product mostly influence customer s decisions
+MISC--: web collaborative approaches estimate user preferences become standard methodologies many commercial systems social networks under name collaborative filtering recommender systems see eg citation
+MISC--: pioneering collaborative filtering systems include tapestry citation grouplens citation referralweb citation phoaks citation
+MISC--: more recently collaborative filtering problem been attacked machine learning methodologies bayesian networks citation mcmc algorithms citation mixture models citation dependency networks citation maximum margin matrix factorization citation
+MISC--: coming back machine learning literature single task context much attention been given last years non parametric techniques kernel methods citation gaussian processes citation
+MISC--: approaches powerful theoretically sound having their mathematical foundations regularization theory inverse problems statistical learning theory bayesian estimation citation
+MISC--: flexibility kernel engineering allows estimation functions defined generic sets arbitrary sources data
+MISC--: methodologies been recently extended multi task setting
+MISC--: citation general framework solve multi task learning problems using kernel methods regularization been proposed relying theory reproducing kernel hilbert spaces rkhs vector valued functions citation
+MISC--: many applications e commerce social network data processing recommender systems real time processing examples required
+MISC--: line multi task learning schemes find their natural application data mining problems involving very large datasets therefore required scale well number tasks examples
+MISC--: citation line task wise algorithm solve multi task regression problems been proposed
+OWNX--: learning problem formulated context line bayesian estimation see eg citation within gaussian processes suitable covariance functions used characterize non parametric mixed effect model
+MISC--: one key features algorithm capability exploit shared inputs between tasks order reduce computational complexity
+CONT--: however algorithm citation centralized structure tasks sequentially analyzed not able address neither architectural issues regarding flux information nor privacy protection
+AIMX--: this paper multi task learning distributed datasets addressed using client server architecture
+OWNX--: our scheme clients one one correspondence tasks their individual database examples
+MISC--: role server collect examples different clients order summarize their informative content
+MISC--: when new example associated any task becomes available server executes line update algorithm
+CONT--: while citation different tasks sequentially analyzed architecture presented this paper process examples coming any order different learning tasks
+MISC--: summarized information stored disclosed database whose content available download enabling each client compute its own estimate exploiting informative content all other datasets
+MISC--: particular attention paid confidentiality issues especially valuable commercial recommender systems see eg citation
+OWNX--: first we require each specific client cannot access other clients data
+MISC--: addition individual datasets cannot reconstructed disclosed database
+MISC--: two kind clients considered active passive ones
+MISC--: active client sends its data server thus contributing collaborative estimate
+MISC--: passive client only downloads information disclosed database without sending its data
+OWNX--: regularization problem parametric bias term considered mixed effect kernel used exploit relationships between tasks
+MISC--: albeit specific mixed effect non parametric model quite flexible its usefulness been demonstrated several works citation
+AIMX--: paper organized follows
+MISC--: multi task learning regularized kernel methods presented section class mixed effect kernels also introduced
+OWNX--: section efficient centralized off line algorithm multi task learning described solves regularization problem section
+MISC--: section rather general client server architecture described able efficiently solve online multi task learning distributed datasets
+MISC--: server side algorithm derived discussed subsection while client side algorithm both active passive clients derived subsection
+OWNX--: section simulated music recommendation system employed test performances our algorithm
+OWNX--: conclusions section end paper
+MISC--: appendix contains technical lemmas proofs

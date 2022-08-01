@@ -1,0 +1,28 @@
+OWNX--: deliberation without attention dwa effect refers apparent improvements decision making following period distraction
+MISC--: been presented evidence beneficial unconscious cognitive processes
+OWNX--: we identify two major concerns this claim first demonstrations typically involve subjective preferences effects distraction cannot objectively assessed beneficial second there no direct evidence dwa manipulation promotes unconscious decision processes
+OWNX--: we describe two tasks based dwa paradigm we found no evidence distraction manipulation led decision processes subjectively unconscious nor reduced influence presentation order upon performance
+OWNX--: crucially we found lack awareness decision process was associated poorer performance both terms subjective preference measures used traditional dwa paradigm equivalent task where performance objectively assessed
+OWNX--: therefore we argue reliance conscious memory itself explain data
+OWNX--: thus dwa paradigm not adequate method assessing beneficial unconscious thought
+MISC--: decision theorists long distinguished between analytical intuitive decision making citation often attributing them different processing modes citation
+CONT--: despite flourishing theoretical literature supporting this dichotomous view number empirical attempts contrast effects intuition deliberation limited
+MISC--: one reason this lack research difficulty assessing goodness any particular decision citation
+MISC--: another reason could originate traditional assumption reasoning analysis always lead better outcomes citation
+MISC--: nevertheless some theories subscribing this dichotomous view assume under certain circumstances intuitive decisions bring more optimal results than rational thinking
+OWNX--: number empirical studies given support this notion suggesting some tasks we really better off without conscious thinking citation
+MISC--: results were often explained hypothesis reasoning lead people use non optimal criteria consequently make worse decisions citation intuitive decisions benefit use smart heuristics citation
+OWNX--: dijksterhuis his colleagues however propose alternative explanation superior performance when analytic strategies not used
+MISC--: according unconscious thought theory citation intuitive decisions may benefit unconscious thought high capacity process weight numerous pieces information integrate them into decisions automatically via distributed bottom up processing
+MISC--: they argue this smart unconscious process more capable complex information dense decision situations than conscious thought limited working memory capacity
+MISC--: empirical support utt comes primarily deliberation without attention dwa paradigm citation participants presented list positive negative attributes describing variety possible choices within particular category e g apartments
+OWNX--: opportunity thinking before choosing manipulated across three conditions participants immediate decision condition make their decision at once those conscious thought condition four minutes think those unconscious thought condition make choice after four minutes performance irrelevant task
+MISC--: according utt best choices will made participants unconscious thought condition because irrelevant task interval provides opportunity unconscious processing information
+OWNX--: contrast conscious thought condition assumed promote choices based limited capacity conscious processing
+MISC--: been noted previously citation also possible forced delay between evaluation may completed early four minute interval response conscious thought condition may somehow e g self generated interference reduce performance immediate decision condition acts baseline providing control this counterintuitive effect forced delay
+MISC--: initial studies using this paradigm provided many illustrations this dwa effect supporting utt citation
+OWNX--: however several recent papers challenged this interpretation questioned degree support original paradigm offers utt
+MISC--: series studies reported failure replicate original results citation
+MISC--: others found effect may only occur under specific circumstances citation
+OWNX--: acker citation used meta analysis determine benefit choices following unconscious thought first number studies published was modest mean effect size g number
+MISC--: more recent meta analysis number studies strick et al n d reported similar effect size g number authors propose evidence important moderators effect different designs task

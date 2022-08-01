@@ -1,0 +1,57 @@
+MISC--: minimizing rank matrix subject affine constraints fundamental problem many important applications machine learning statistics
+OWNX--: this paper we propose simple fast algorithm symbol singular value projection rank minimization affine constraints symbol show svp recovers minimum rank solution affine constraints satisfy restricted isometry property
+OWNX--: we show robustness our method noise strong geometric convergence rate even noisy measurements
+OWNX--: our results improve upon recent breakthrough recht fazel parillo citation lee bresler citation three significant ways our method symbol significantly simpler analyze easier implement we give recovery guarantees under strictly weaker isometry assumptions we give geometric convergence guarantees symbol demonstrated empirically symbol significantly faster real world synthetic problems
+OWNX--: addition we address practically important problem low rank matrix completion seen special case symbol
+MISC--: however affine constraints defining matrix completion problem do not obey restricted isometry property general
+OWNX--: we empirically demonstrate our algorithm recovers low rank incoherent matrices almost optimal number uniformly sampled entries
+OWNX--: we make partial progress towards proving exact recovery provide some intuition performance symbol applied matrix completion showing more restricted isometry property
+MISC--: our algorithm outperforms existing methods those citation symbol matrix completion problem order magnitude also significantly more robust noise
+AIMX--: this paper we study general affine rank minimization problem armp renewcommand theequation armp symbol renewcommand theequation arabic equation addtocounter equation where symbol affine transformation symbol symbol
+OWNX--: general affine rank minimization problem considerable practical interest many important machine learning problems matrix completion low dimensional metric embedding low rank kernel learning viewed instances above problem
+MISC--: unfortunately armp np hard general also np hard approximate citation
+MISC--: until recently most known methods symbol were heuristic nature few known rigorous guarantees
+MISC--: most commonly used heuristic problem assume factorization symbol optimize resulting non convex problem alternating minimization citation alternative projections citation alternating lmis citation
+MISC--: another common approach relax rank constraint convex function trace norm log determinant citation citation
+CONT--: however most methods do not any optimality guarantees
+MISC--: recently meka et al citation proposed online learning based methods armp
+CONT--: however their methods only guarantee at best logarithmic approximation minimum rank
+MISC--: recent breakthrough recht et al citation obtained first nontrivial exact recovery results symbol obtaining guaranteed rank minimization affine transformations symbol satisfy restricted isometry property symbol
+OWNX--: define isometry constant symbol symbol smallest number all symbol rank at most symbol symbol recht et al show affine constraints bounded isometry constants specifically symbol finding minimum trace norm solution recovers minimum rank solution
+MISC--: their results were later extended noisy measurements isometry constants up symbol lee bresler citation
+CONT--: however even best existing optimization algorithms trace norm relaxation relatively inefficient practice their results hard analyze
+MISC--: another recent work lee bresler citation obtained exact recovery guarantees symbol satisfying symbol using different approach
+CONT--: lee bresler propose algorithm admira motivated orthogonal matching pursuit line work compressed sensing show affine constraints isometry constant symbol their algorithm recovers optimal solution
+MISC--: they also prove similar guarantees noisy measurements provide geometric convergence rate their algorithm
+MISC--: however their method not very efficient large datasets hard analyze
+AIMX--: this paper we propose simple fast algorithm symbol singular value projection based classical projected gradient algorithm
+OWNX--: we present simple analysis showing symbol recovers minimum rank solution affine constraints satisfy symbol even presence noise prove following guarantees
+BASE--: independent our work goldfarb ma citation proposed algorithm similar our algorithm
+MISC--: however their analysis formulation different ours
+MISC--: particular their analysis builds analysis lee bresler they require stronger isometry assumptions symbol than we do
+OWNX--: addition we make partial progress analyzing symbol matrix completion problem proving exact recovery
+BASE--: our analysis symbol motivated recent work field compressed sensing blumensath davies citation garg khandekar citation
+OWNX--: our results improve results recht et al lee bresler follows
+MISC--: symbol considerably simpler analyze than methods recht et al lee bresler
+BASE--: further we need weaker isometry assumptions symbol we only require symbol opposed symbol required recht et al symbol required lee bresler citation symbol required lee bresler citation
+MISC--: symbol strong geometric convergence rate faster than using best trace norm optimization algorithms methods lee bresler order magnitude
+MISC--: although restricted isometry property natural settings where affine constraints contain information about all entries unknown matrix several cases considerable practical interest affine constraints only contain local information may not satisfy symbol directly
+OWNX--: one important problem where symbol does not hold directly low rank matrix completion problem
+OWNX--: matrix completion problem we given entries unknown low rank matrix symbol ordered pairs symbol goal complete missing entries symbol
+OWNX--: highly popular application matrix completion problem field collaborative filtering where typically task predict user ratings given past ratings users
+MISC--: recently lot attention been given problem due netflix challenge citation
+MISC--: other applications matrix completion include triangulation incomplete data link prediction social networks etc
+MISC--: similar symbol low rank matrix completion also np hard general most methods heuristic nature no theoretical guarantees
+MISC--: alternating least squares minimization heuristic its variants citation perform best practice but notoriously hard analyze
+MISC--: recently candes recht citation candes tao citation keshavan et al citation obtained first non trivial results low rank matrix completion under few additional assumptions
+MISC--: broadly papers give exact recovery guarantees when optimal solution symbol symbol incoherent see definition entries symbol chosen uniformly at random symbol where symbol depends only symbol
+MISC--: however algorithms above papers even when using methods tailored specifically matrix completion those cai et al citation quite expensive practice not very tolerant noise
+OWNX--: low rank matrix completion special case symbol we naturally adapt our algorithm symbol matrix completion
+MISC--: we demonstrate empirically suitable step size symbol significantly outperforms methods citation citation citation citation accuracy computational time tolerance noise
+MISC--: furthermore our experiments strongly suggest see figure guarantees similar those citation citation hold symbol achieving exact recovery incoherent matrices almost optimal number entries
+OWNX--: although we do not provide rigorous proof exact recovery symbol applied matrix completion we make partial progress this direction give strong intuition performance symbol
+OWNX--: we prove though affine constraints defining matrix completion problems do not obey restricted isometry property they obey restricted isometry property over incoherent matrices
+OWNX--: this weaker symbol condition along hypothesis bounding incoherence iterates symbol imply exact recovery low rank incoherent matrix almost optimal number entries
+OWNX--: we also provide strong empirical evidence supporting our hypothesis bounding incoherence iterates symbol see figure we first present our algorithm symbol section present its analysis affine constraints satisfying symbol section
+OWNX--: section we specialize our algorithm symbol task low rank matrix completion prove more restricted isometry property matrix completion problem
+OWNX--: section we give empirical results symbol applied symbol matrix completion real world synthetic problems

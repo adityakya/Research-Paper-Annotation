@@ -1,0 +1,29 @@
+OWNX--: productive cell migration requires spatiotemporal coordination cell adhesion membrane protrusion actomyosin mediated contraction
+OWNX--: integrins engaged extracellular matrix nucleate formation adhesive contacts at cell s leading edge maturation nascent adhesions form stable focal adhesions constitutes functional switch between protrusive contractile activities
+OWNX--: shed additional light coupling between integrin mediated adhesion membrane protrusion we formulated quantitative model leading edge dynamics combining mechanistic phenomenological elements studied its features through classical bifurcation analysis stochastic simulation
+MISC--: model describes mathematical terms feedback loops driving one hand rac mediated membrane protrusion rapid turnover nascent adhesions other myosin dependent maturation adhesions inhibit protrusion at high ecm density
+OWNX--: our results show qualitative behavior model most sensitive parameters characterizing influence stable adhesions myosin
+OWNX--: major predictions model we subsequently confirmed persistent leading edge protrusion optimal at intermediate ecm density whereas depletion myosin iia relieves repression protrusion at higher ecm density
+MISC--: multicellular organisms cell migration paramount importance physiological processes tissue homeostasis repair immune surveillance response developmental patterning
+OWNX--: culture crawling mammalian cells surface coated extracellular matrix protein fibronectin classically described cycle distinct subprocesses membrane protrusion formation new adhesive bonds underlying substratum at cell s leading edge followed contraction cell body forwards finally detachment adhesions at cell s rear citation
+OWNX--: primary molecular hubs integration subprocesses integrins adhesion receptors recognize specific ecm proteins
+MISC--: upon ligation integrins cluster form adhesive contacts orchestrate activation host signal transduction pathways anchorage actin filaments inside cell citation citation
+MISC--: thus they provide not only physical linkages between ecm actin cytoskeleton through myosin ii motors generate contractile force but also platforms localizing biochemical signals govern leading edge protrusion citation citation
+MISC--: particular importance regard integrin mediated activation rac
+MISC--: its isoforms small gtpases rho family among other cellular functions promote cell spreading formation broad flat membrane structures called lamellipodia citation
+MISC--: despite molecular insights bases dynamics cell migration subprocesses seemingly stochastic one hand yet spatiotemporally coordinated other only beginning clarified citation
+MISC--: one most mechanistically telling aspects cell migration its dependence ecm density
+MISC--: general observation overall migration speed determined movement cell centroid optimal at intermediate ecm density citation citation
+OWNX--: physical interpretation this finding was optimal ecm density corresponds density integrin ecm bonds allows both productive motility at cell front detachment older adhesions at rear cell through myosin dependent contractility
+MISC--: more recently this conceptual model been refined based detailed measurements f actin dynamics myosin ii recruitment ptk cells revealing optimal myosin ii f actin density ratio at intermediate ecm density citation
+OWNX--: further insight came through implication not all adhesions actively contribute membrane protrusion signaling apparently only newer adhesions formed at cell s leading edges do citation
+MISC--: seems maturation nascent adhesion form stable focal adhesion marked actomyosin dependent growth complex perpendicular leading edge citation accompanied loss its ability mediate protrusion signaling
+MISC--: chinese hamster ovary k cells expressing paxillin enhanced green fluorescent protein total internal reflection fluorescence microscopy revealed during steady protrusion small nascent adhesions rapidly formed turned over citation proportion protrusion velocity citation
+OWNX--: this phenotype mediated signaling through rac activated variety ways one them involving rac effector p activated kinase
+MISC--: among its various functions active pak phosphorylates focal adhesion protein paxillin ser providing binding site recruitment scaffold protein git git binds both pix guanine nucleotide exchange factor activates rac pak activated turn rac
+MISC--: thus pathway constitutes positive feedback circuit
+MISC--: disrupting circuit example through expression paxillin ser ala mutation kinase dead pak abrogates protrusion nascent adhesion formation whereas expression paxillin phosphorylation mimicked ser asp mutation constitutively active pak enhances responses citation
+MISC--: myosin ii opposes influence rac pak signaling this context promotes adhesion maturation strongly inhibits protrusion phenotype citation citation this effect expected more prominent at higher ecm density citation
+OWNX--: here through computational modeling stochastic simulations we develop new ideas about mechanisms might give rise dynamical interplay between cell protrusion adhesion at cell s leading edge citation citation
+OWNX--: analysis model suggests protrusion signaling mediated nascent adhesions inherently sensitive because positive feedback but also susceptible regulation other feedback loops involving stable adhesions myosin ii
+OWNX--: regulatory mechanisms shape dependence protrusion adhesion phenotypic balance ecm density we compare experimentally observed dynamics cho k cells

@@ -1,0 +1,18 @@
+MISC--: differentiation embryonic stem cells initiated gradual loss pluripotency associated transcripts induction differentiation genes
+OWNX--: accordingly detection differentially expressed genes at early stages differentiation could assist identification causal genes either promote inhibit differentiation
+MISC--: previous methods identifying differentially expressed genes comparing different cell types would inevitably include large portion genes respond rather than regulate differentiation process
+OWNX--: we demonstrate through use biological replicates novel statistical approach gene expression data obtained without prior separation cell types informative detecting differentially expressed genes at early stages differentiation
+OWNX--: applying proposed method analyze differentiation murine embryonic stem cells we identified then experimentally verified smarcad novel regulator pluripotency self renewal
+OWNX--: we formalized this statistical approach statistical test generally applicable analyze other differentiation processes
+MISC--: cellular differentiation process less specialized cell becomes more specialized cell type characterized expression pattern subset genes during differentiation process
+MISC--: search marker genes widely pursued almost every differentiation process although principled approach still missing
+OWNX--: current practice separate distinguishable cell types measure gene expression each cell type then identify differentially expressed genes
+MISC--: methods require expression data both cell types available
+MISC--: limitation methods time cell types distinguishable example morphology many genes already shown differential expression
+OWNX--: this set differentially expressed genes may include class early marker genes enriched markers early differentiating cell lineages well genes whose down regulation triggers differentiation
+OWNX--: however set differentially expressed genes will also include second larger class genes gene expression not important regulation differentiation process but genes simply characteristic fully differentiated cell types
+OWNX--: traditional sample comparison procedures not designed separate two classes differentially expressed genes result large lists differentially expressed genes usually do not provide direct guidance dissecting underlining mechanisms differentiation
+OWNX--: recognizing early marker genes enables separation cell types at early stage differentiation turn separating cell types at early stage differentiation enables identification early marker genes
+OWNX--: however neither piece puzzle currently available study new differentiation process
+OWNX--: we demonstrate contrary common belief early marker genes detected measuring average expression mixture cell types provided enough biological replicates been measured statistical test based variance ratio been used
+OWNX--: we provide theoretical reasoning statistical method two validation experiments

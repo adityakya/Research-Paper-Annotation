@@ -1,0 +1,37 @@
+OWNX--: we bound future loss when predicting any computably stochastic sequence online
+MISC--: solomonoff finitely bounded total deviation his universal predictor symbol true distribution symbol algorithmic complexity symbol
+OWNX--: here we assume we at time symbol already observed symbol
+MISC--: we bound future prediction performance symbol new variant algorithmic complexity symbol given symbol plus complexity randomness deficiency symbol
+MISC--: new complexity monotone its condition sense this complexity only decrease if condition prolonged
+OWNX--: we also briefly discuss potential generalizations bayesian model classes classification problems
+OWNX--: we consider problem online sequential predictions
+MISC--: we assume sequences symbol drawn some true but unknown probability distribution symbol
+MISC--: bayesians proceed considering class symbol models hypotheses distributions sufficiently large symbol prior over symbol
+MISC--: solomonoff considered truly large class contains all computable probability distributions citation
+OWNX--: he showed his universal distribution symbol converges rapidly symbol citation i e predicts well any environment long computable modeled computable probability distribution all physical theories this sort
+MISC--: symbol roughly symbol where symbol length shortest description symbol called kolmogorov complexity symbol
+MISC--: since symbol symbol incomputable they approximated practice
+MISC--: see eg citation references therein
+MISC--: universality symbol also precludes useful statements about prediction quality at particular time instances symbol citation opposed simple classes like iid sequences data size symbol where accuracy typically symbol
+MISC--: luckily bounds expected total cumulative loss e g number prediction errors symbol derived citation often sufficient online setting
+MISC--: bounds terms kolmogorov complexity symbol
+OWNX--: instance deterministic symbol number errors sense tightly bounded symbol measures this case information bits observed infinite sequence symbol
+OWNX--: this paper we assume we at time symbol already observed symbol
+OWNX--: hence we interested future prediction performance symbol since typically we don t care about past errors
+MISC--: if total loss finite future loss must necessarily small large symbol
+AIMX--: sense paper intends quantify this apparent triviality
+OWNX--: if complexity symbol bounds total loss natural guess something like conditional complexity symbol given symbol bounds future loss if symbol contains lot even all information about symbol we should make fewer no errors anymore indeed we prove two bounds this kind but additional terms describing structural properties symbol
+MISC--: additional terms appear since total loss bounded only expectation hence future loss small only most symbol
+OWNX--: first bound theorem additional term complexity length symbol kind worst case estimation
+MISC--: second bound theorem finer additional term complexity randomness deficiency symbol
+OWNX--: advantage deficiency small typical symbol bounded average contrast length
+MISC--: but this case conventional conditional complexity turned out unsuitable
+AIMX--: so we introduce new natural modification conditional kolmogorov complexity monotone function condition
+MISC--: informally speaking we require programs descriptions consistent sense if program generates some symbol given symbol then must generate same symbol given any prolongation symbol
+MISC--: new posterior bounds also significantly improve upon previous total bounds
+AIMX--: paper organized follows
+MISC--: some basic notation definitions given sections
+OWNX--: section we prove discuss length based bound theorem
+OWNX--: section we show why new definition complexity necessary formulate deficiency based bound theorem
+OWNX--: we discuss definition basic properties new complexity section prove theorem section
+OWNX--: we briefly discuss potential generalizations general model classes symbol classification concluding section

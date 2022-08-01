@@ -1,0 +1,54 @@
+MISC--: increasing number cis regulatory rna elements been found regulate gene expression post transcriptionally various biological processes bacterial systems
+OWNX--: effective computational tools large scale identification novel regulatory rnas strongly desired facilitate our exploration gene regulation mechanisms regulatory networks
+OWNX--: we present new computational program named rssvm employs support vector machines efficient identification functional rna motifs random rna secondary structures
+MISC--: rssvm uses set distinctive features represent common rna secondary structure structural alignment predicted rna sampler tool accurate common rna secondary structure prediction trained functional rnas variety bacterial rna motif gene families covering wide range sequence identities
+MISC--: when tested large number known random rna motifs rssvm shows significantly higher sensitivity than other leading rna identification programs while maintaining same false positive rate
+MISC--: rssvm performs particularly well sets low sequence identities
+MISC--: combination rna sampler rssvm provides new fast efficient pipeline large scale discovery regulatory rna motifs
+OWNX--: we applied rssvm multiple shewanella genomes identified putative regulatory rna motifs untranslated regions s oneidensis important bacterial organism extraordinary respiratory metal reducing abilities great potential bioremediation alternative energy generation
+OWNX--: sets utrs orthologous operons we identified putative regulatory rna motifs including known rna motifs rfam additional rna motifs supported literature evidence rna motifs overlapping predicted transcription terminators attenuators other candidate regulatory rna motifs
+OWNX--: our study provides list promising novel regulatory rna motifs potentially involved post transcriptional gene regulation
+OWNX--: combined previous cis regulatory dna motif study s oneidensis this genome wide discovery cis regulatory rna motifs may offer more comprehensive views gene regulation at different level this organism
+OWNX--: rssvm software predictions analysis results shewanella genomes available at link
+MISC--: rna remarkably versatile citation citation acting not only messengers transfer genetic information dna protein but also critical structural components citation catalytic enzymes citation citation cell
+MISC--: more intriguingly non coding rnas been found play important regulatory roles
+MISC--: they mediate gene expression post transcriptionally two ways one serve trans acting antisense rnas micrornas hybridize target mrnas silence their expression citation citation other form structural cis elements mrnas riboswitches regulate gene expression mediating transcription termination translation initiation citation citation
+MISC--: regulatory roles ncrnas make them promising drug targets citation efficient tools drug development gene therapy citation citation
+MISC--: past few years many cis regulatory rna structural motifs been identified prokaryotes citation citation
+MISC--: they often located untranslated regions mrnas sense interact cognate factors including proteins rnas small metabolites even temperature changes mediate transcription attenuation citation translation initiation citation mrna stability citation
+MISC--: functions regulatory rnas intrinsically tied their secondary structures mostly recognizable stem loops pseudoknots
+OWNX--: moreover regulatory rnas often conserved during evolution similar regulatory rna elements shared multiple co regulated genes same metabolic pathway conserved orthologous genes across closely related species citation
+MISC--: experimental screenings citation cis regulatory rnas highly labor time consuming
+MISC--: demonstrated previous studies citation citation parallel way find good candidates computationally followed targeted experimental validation
+OWNX--: because functional regulatory rnas often evolutionarily conserved their secondary structures we identify them finding significantly conserved rna secondary structures orthologous genes across closely related species
+OWNX--: accomplish this we need two tools one accurately predict common rna secondary structures multiple related sequences other distinguish functional rna secondary structures random foldings rna sequences
+MISC--: number algorithms been developed common rna secondary structure prediction rnaalifold citation dynalign citation comrna citation cmfinder citation foldalign citation citation
+MISC--: we recently published new algorithm called rna sampler citation predicting common rna secondary structures structural alignments multiple sequences
+MISC--: both our study citation independent studies other researchers citation citation demonstrated rna sampler provides more accurate structure predictions generates better structural alignments sequences wide range identities than other leading software similar purposes
+MISC--: moreover rna sampler runs fast feasible common rna secondary structure prediction genome scale
+MISC--: studies shown single sequence rna secondary structure alone not sufficient distinguish functional rna random sequence citation citation
+OWNX--: however availability multiple rna sequences related species comparative genomics approaches provide additional power identify functional rna structures
+MISC--: one strategy design scoring function predicted rna secondary structures examine difference between score distributions real structures randomly permutated structures employed rna identification pipeline based cmfinder citation comrna citation
+MISC--: but one limitation approach user needs generate large number random sequence sets each set real sequences doing structure predictions permutated sequence sets usually time consuming
+MISC--: besides difficult find score cutoff make call between functional random rnas
+MISC--: another strategy train classification model based features distinguish common structures known functional rnas those random rnas then apply classification model newly predicted common rna structures determine whether they functional random rnas
+MISC--: rna classification algorithms employing this strategy include qrna rnaz dynalign libsvm
+MISC--: qrna citation classifies pairwise sequence alignment posterior probabilities three probabilistic models rna coding null
+MISC--: rnaz citation dynalign libsvm citation both employ support vector machines build classification models
+CONT--: train classification model developer still needs generate large number random sequence sets negative training sets make structure predictions them but once classification model trained user directly utilize model identify functional rnas without need generate perform folding random sequences
+MISC--: type sequences used train classification models essential their classification performance new sequences
+CONT--: qrna dynalign libsvm only use trnas rrnas their training rna structures rnaz trained multiple rna gene motif families rfam database but only uses sequence sets high identities
+MISC--: avoid overfitting classification model specific classes rnas using training sets cover wide range sequence identities variety rna families more desirable
+MISC--: addition training classification model using more accurately predicted rna common structures alignments advantageous more sensitive classification functional rnas random ones
+MISC--: rnaz uses rnaalifold citation common rna structure prediction
+MISC--: when using sequence alignments its input rnaalifold performs poorly predicting rna structures sequence sets low identities citation
+CONT--: structure prediction accuracy rnaalifold may improved using structural alignments but rnaz might need re trained use structural alignments
+AIMX--: this paper we present new svm based functional rna identifier named rssvm
+MISC--: rssvm applies set features represent common rna secondary structures structural alignments generated rna sampler predicts rna structures more accurately than other approaches citation citation
+MISC--: rssvm trained rna sets wide range sequence identities all bacterial rna motif gene families rfam database citation
+MISC--: rssvm more sensitive identifying real functional rnas than other leading rna classification programs including rnaz dynalign libsvm qrna at same false positive rate
+OWNX--: we applied rssvm multiple shewanella genomes identify putative cis regulatory rna motifs utrs orthologous genes
+MISC--: shewanella oneidensis facultative gram negative proteobacterium
+MISC--: extraordinary abilities use wide variety metals organic molecules electron acceptors respiration citation citation gives great potential applied bioremediation both metal organic pollutants
+MISC--: complete genomic sequences shewanella oneidensis multiple other shewanella species provide good resources discovering cis regulatory rnas using comparative genomics approaches
+OWNX--: combining recent predictions putative dna cis regulatory motifs s oneidensis citation we will more complete view gene regulation s oneidensis at different regulation levels

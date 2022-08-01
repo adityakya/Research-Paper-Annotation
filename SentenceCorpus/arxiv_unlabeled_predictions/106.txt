@@ -1,0 +1,15 @@
+OWNX--: we prove optimal assignment kernel proposed recently attempt embed labeled graphs more generally tuples basic data hilbert space fact not always positive definite
+OWNX--: let symbol set symbol symmetric function satisfies any symbol any symbol symbol symbol symbol symbol symbol k symbol symbol symbol inph cdot cdot hcal symbol phi xcal rightarrowsymbol x x insymbol symbol symbol k through because they only access data through inner products hence through kernel
+MISC--: this kernel trick allows example perform supervised classification regression strings graphs state art statistical methods soon positive definite kernel strings graphs defined
+OWNX--: unsurprisingly this triggered lot activity focused design specific positive definite kernels specific data strings graphs applications bioinformatics natural language processing citation
+MISC--: motivated applications computational chemistry citation proposed recently kernel labeled graphs more generally structured data decomposed into subparts
+MISC--: kernel called optimal assignment kernel measures similarity between two data points performing optimal matching between subparts both points
+MISC--: translates natural notion similarity between graphs efficiently computed hungarian algorithm
+CONT--: however we show below general not positive definite suggests special care may needed before using kernel methods
+CONT--: should pointed out not being positive definite not necessarily big issue use this kernel practice
+OWNX--: first may fact positive definite when restricted particular set data used practical experiment
+MISC--: second other non positive definite kernels sigmoid kernel been shown very useful efficient combination kernel methods
+OWNX--: third practitioners kernel methods developed variety strategies limit possible dysfunction kernel methods when non positive definite kernels used projecting gram matrix pairwise kernel values set positive semidefinite matrices before processing
+MISC--: good results reported several chemoinformatics benchmark citation indeed confirm usefulness method
+CONT--: hence our message this note certainly not criticize use optimal assignment kernel context kernel methods
+OWNX--: instead we wish warn some cases negative eigenvalues may appear gram matrix specific care may needed simultaneously contribute limitation error propagation scientific litterature

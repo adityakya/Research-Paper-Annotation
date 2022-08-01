@@ -1,0 +1,75 @@
+MISC--: runs gains losses particularly salient decision makers because their perceived departure randomness well their immediate impact financial status decision makers
+MISC--: past research focused decision making biases relate faulty conceptions chance luck gambler s fallacy hot hand effect
+MISC--: participants current study bet outcomes long sequence simulated coin tosses
+MISC--: risk preferences were found change function run valence i e losses vs gains run length financial status
+MISC--: individuals were found differ effect all factors their responses runs gains losses sequential risky choice
+MISC--: many decisions repeated over time accordingly results past decisions substantial impact future decisions
+OWNX--: financial analysts make repeated decisions involving gains losses charting financial data common method used summarize past performance companies markets
+MISC--: runs consecutive gains losses frequently depicted charts generally some their more noticeable characteristics
+MISC--: behavioral finance researchers believe run patterns so prominent runs affect future predictions made analysts
+MISC--: this influence troubling because runs highlighted shefrin s quote often occur naturally without any special underlying cause
+MISC--: shefrin citation emphasized folly basing financial predictions solely run patterns he provided case studies financial experts illustrate poor decisions
+MISC--: one example involved prediction number senior investment adviser merrill lynch
+OWNX--: after exceptionally long period high returns equities analyst incorrectly forecast below average returns were inevitable after long run gains
+MISC--: unfortunately analyst there was number number percent increase dow jones index close trading year
+MISC--: this analyst committed classic gambler s fallacy believing long runs outcomes low frequency occurrence therefore runs more likely end longer they continue
+OWNX--: but we assume any investors who decreased their investment equities at this time were doing so because gambler s fallacy
+MISC--: there no doubt humans susceptible biased probabilistic reasoning when judging predicting runs random near random binary events citation
+MISC--: but runs losses gains not like other binary events because consequences events also financial impact decision maker
+MISC--: run losses will result depletion financial resources just run gains will result increase financial resources
+MISC--: but most real world laboratory based studies impact runs gains losses risk preferences focused solely biased reasoning explanations disregarded explanations based financial impacts runs
+MISC--: example sundali croson citation examined prevalence gambler s fallacy hot hand gamblers playing roulette casino
+MISC--: hot hand another decision bias result betting random events
+MISC--: decision makers who follow hot hand heuristic behave if runs gains losses likely continue possibly because winning creates illusion control
+MISC--: result decision makers risk more after run gains risk less after run losses
+MISC--: sundali croson citation tested hot hand effect looking at number bets gamblers made after win after loss
+MISC--: researchers assumed hot hand bias would cause gamblers make more bets after win than after loss they found many gamblers who produced betting behaviors
+MISC--: however researchers also admitted same pattern risk preferences could result concurrent changes financial state occur during runs gains losses
+MISC--: they suggested gamblers could also place more bets after win because they feel richer
+CONT--: however sundali croson citation had no way recording financial status gamblers their study
+MISC--: laboratory studies allow researcher examine how runs gains losses influence risk preferences whilst controlling financial status decision maker
+MISC--: most previous studies gains losses laboratory settings not implemented control
+MISC--: example johnson tellis macinnis citation examined effects runs losses gains single simulated investment decision
+MISC--: investment decision was based stock reports highlighted run gains losses immediately prior this investment decision
+MISC--: length run was manipulated researchers
+MISC--: majority participants varied their choice basis prior runs researchers explained choices terms hot hand gambler s fallacy
+MISC--: although this research important implications one off investment decisions experimental design fails capture dynamic nature sequential risky choice
+OWNX--: prior run gains losses had no direct effect financial status participants subsequently no effect choices made participants
+OWNX--: not surprisingly reasons provided participants this experiment appeared indicate biased probabilistic reasoning
+MISC--: one laboratory study did attempt capture dynamic more complex aspects sequential risky choices was conducted leopard citation
+OWNX--: this study participants were provided long sequence binary gambles where riskiness gambles was manipulated changing variance amount lost gained
+MISC--: although this experimental manipulation does not change actual risk gamble i e expected value remains same each choice previous research shown participants perceive gambles larger variance riskier choices
+MISC--: example winning losing number number perceived riskier than winning losing number number
+MISC--: leopard allowed runs gains losses occur naturally during long sequences random events participants were requested play until they had lost their starting bank number number until they had played number gambles
+MISC--: leopard recorded run valence loss vs gain run length before each choice was made also recorded current bank participant each time gamble was played
+MISC--: leopard tested run effects conducting kruskal wallis non parametric equivalent anova analysis gamble risk each run length
+OWNX--: runs losses were coded negative run value runs gains were coded positive run value
+OWNX--: significant run effect was found number percent her participants each participant s data summarized figure number
+OWNX--: leopard then grouped participants basis visual inspection graphs displayed figure number
+OWNX--: she inferred eight participants had followed gambler s fallacy figure number three participants had shown hot hand effect figure number b
+MISC--: she also found two participants who provided non linear risk preferences she labeled participants incurable optimists figure number c
+MISC--: she believed participants increased their risk because they perceived long runs any type signal positive outcome imminent
+MISC--: leopard s conclusions raise several questions
+MISC--: leopard admitted outcome financial state inherently confounded some degree at least some subjects p number
+OWNX--: many participants leopard s study provided significant relationships between risk preference financial state including all but three participants displayed figure number
+OWNX--: addition her classification participants relied solely visual inspection data graphed figure number
+MISC--: however unclear whether linear non linear patterns required classifications were actually statistically significant
+MISC--: addition consistent trends were not always evident both types runs gains losses across full range run lengths
+MISC--: many participants figures number number b showed stronger non linear trends run length increased run valence changed
+MISC--: non linear trends could reflect change risk strategy during times
+MISC--: finally outcomes each participant s gambles were random therefore participant s financial state at times when runs occurred could varied dramatically within between participants
+CONT--: leopard does not provide any information about how many participants failed complete number trials what financial state each participant was at end each experimental session
+CONT--: not out question participant may experienced runs only when down their initial bank alternatively experienced runs only when up their initial bank
+MISC--: difficulty using random event sequences there no control over when runs will occur what type run will occur how long each run will
+AIMX--: goal current study improve leopard citation study controlling type runs length runs when runs occur respect participant s financial state
+MISC--: more thorough statistical analysis data collected will also provide better justification speculated causes risk preference patterns during runs gains losses
+MISC--: i hypothesize financial status will affect risk preferences but runs gains losses will still influence risk preferences independently effects status
+MISC--: latter hypothesis based evidence decision makers highly predisposed faulty probabilistic reasoning involving repeated random binary events citation
+MISC--: consequently linear patterns risk preferences follow gambler s fallacy negative slope hot hand positive slope still expected
+MISC--: however other participants may show significant non linear relationships between run variables risk preference there two possible explanations non linear patterns
+MISC--: prior research found perceptions runs may not linearly related length
+MISC--: carlson schu citation recently reported incremental reaction sequence repeated outcomes often peaks at three consecutive outcomes plateaus after this third event
+MISC--: second explanation non linear effects participant follows different strategies runs different lengths valence
+MISC--: example self perception being lucky winner after couple wins row will compete growing misperception this streak must end if continues grow
+MISC--: eventually latter perception may win out change risk preference occurs leading non linear pattern risk preferences
+MISC--: i hypothesize use risk strategies during runs gains losses much more dynamic transient than suggested previous research

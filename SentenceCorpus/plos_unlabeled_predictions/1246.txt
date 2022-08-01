@@ -1,0 +1,43 @@
+MISC--: off direction selective ganglion cell mammalian retinas responds most strongly stimulus moving specific direction
+OWNX--: dsgc initiates spikes its dendritic tree thought propagate soma high probability
+MISC--: both dendritic somatic spikes dsgc display strong directional tuning whereas somatic psps only weakly directional indicating spike generation includes marked enhancement directional signal
+OWNX--: we used realistic computational model based anatomical physiological measurements determine source enhancement
+OWNX--: our results indicate dsgc dendritic tree partitioned into separate electrotonic regions each summing its local excitatory inhibitory synaptic inputs initiate spikes
+MISC--: within each local region local spike threshold nonlinearly amplifies preferred response over null response basis psp amplitude
+BASE--: using inhibitory conductances previously measured dsgcs simulation results showed inhibition only sufficient prevent spike initiation cannot affect spike propagation
+MISC--: therefore inhibition will only act locally within dendritic arbor
+OWNX--: we identified role three mechanisms generate directional selectivity local dendritic regions
+OWNX--: first mechanism ds intrinsic dendritic structure dsgc enhances ds null side cell s dendritic tree weakens preferred side
+MISC--: second spatially offset postsynaptic inhibition generates robust ds isolated dendritic tips but weak ds near soma
+MISC--: third presynaptic ds apparently necessary because more robust across dendritic tree
+OWNX--: pre postsynaptic mechanisms together overcome local intrinsic ds
+OWNX--: local dendritic mechanisms perform independent nonlinear computations make decision there could analogous mechanisms within cortical circuitry
+MISC--: off direction selective ganglion cell mammalian retina spikes vigorously moving stimuli but only weakly stationary light spots
+MISC--: responds most strongly over limited range stimulus directions direction producing maximal response called preferred direction while stimulus moving opposite direction called null direction produces little no response citation
+OWNX--: we refer directionally tuned spike responses direction selective
+OWNX--: off dsgcs sharply bistratified neurons respond transient depolarization burst spikes at both onset termination bright stimulus within receptive field
+MISC--: similarly leading edge bright bar crossing receptive field will produce transient response if bar wide relative dendritic extent speed low enough trailing edge will produce distinct temporally separate off response
+MISC--: their original description dsgc barlow levick citation noted direction selective spike output was produced stimuli covered only small fraction dendritic arbor
+MISC--: they proposed synaptic mechanism comprised subunits were repeated array across receptive field
+MISC--: contrast most ganglion cells initiate spikes axon initial segment dsgc initiates spikes dendritic tree citation
+OWNX--: dendritic spikes thought propagate soma initiate somatic spike similar neurons other regions brain where dendritic spiking important signal processing citation
+OWNX--: observations suggest some type local dendritic processing could provide basis proposed subunits
+OWNX--: evidence dendritic spiking dsgc was observed low amplitude spikelets appear when somatic spiking suppressed local application tetrodotoxin soma hyperpolarizing soma citation
+OWNX--: dendritic spikes hypothesized initiate somatic spikes high probability because they rarely seen under normal conditions
+MISC--: further both somatic dendritic spiking responses strongly tuned preferred direction stimuli whereas somatic graded potential shows relatively weak directional tuning citation citation
+OWNX--: this implies dsgc does not employ mechanism used most other ganglion cells synaptic integration where spikes initiated at soma reflect summation synaptic inputs over dendritic tree citation
+OWNX--: instead suggests dsgc dendrites sum synaptic inputs generate local spikes then propagate soma process amplifying responses directional selectivity
+MISC--: addition dendritic spiking dsgc other mechanisms also important generating its direction selective response
+MISC--: gabaergic inhibition essential presynaptic mechanisms render both excitatory inhibitory synaptic inputs dsgc directionally tuned citation citation
+MISC--: both excitatory inhibitory inputs vary amplitude relative timing function direction
+MISC--: further postsynaptic integration excitatory inhibitory inputs been hypothesized contribute ds signals citation citation
+MISC--: postsynaptic inhibition resulting null direction movement could produce ds signals two ways could block propagation dendritic spikes could block their initiation citation citation citation
+OWNX--: however relative contributions presynaptic postsynaptic mechanisms ds spiking dsgc remains unclear
+OWNX--: initial theoretical studies suggested postsynaptic mechanisms might suffice citation this received some experimental support citation
+MISC--: however more recently presynaptic mechanisms appeared most significant citation citation citation citation
+OWNX--: we wanted revisit this issue delineate relative contributions presynaptic postsynaptic mechanisms calibrated model
+OWNX--: investigate how dendritic processing synaptic psps could amplify ds we constructed multi compartment biophysical models dsgcs digitized tracer injected morphologies calibrated physiological data obtained prior tracer injection
+OWNX--: we stimulated models moving light bars activated synaptic inputs
+MISC--: goal was explore how morphology voltage gated channels synaptic inhibition affect initiation propagation dendritic spikes compare known physiological properties
+OWNX--: our simulations show sub threshold psps distal dendritic regions off dsgc heavily attenuated propagation soma but spikes initiated within local dendritic regions propagate high probability soma back propagate remainder dendritic tree
+MISC--: therefore active amplification ds appears take place during spike initiation dendrites

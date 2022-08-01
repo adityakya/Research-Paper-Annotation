@@ -1,0 +1,7 @@
+MISC--: percent progressing hiv patients cxcr tropic virus emerges late infection often overtaking ccr tropic virus dominant viral strain
+MISC--: this phenotypic switch strongly associated rapidly declining cd t cell counts aids onset yet its causes remain unknown
+AIMX--: here we analyze mathematical model mechanism x emergence late stage hiv infection use this analysis evaluate utility promising new class antiretroviral drugs ccr inhibitors dual r x infection
+OWNX--: model shows r x switch occurs cd t cell activation levels increase above threshold cd t cell counts decrease below threshold during late stage hiv infection
+MISC--: importantly model also shows highly active antiretroviral therapy inhibit x emergence but monotherapy ccr blockers accelerate x onset immunodeficiency if x infection memory cd t cells occurs at high rate
+OWNX--: fortunately when cxcr blockers haart used conjunction ccr blockers this risk accelerated immunodeficiency eliminated
+MISC--: results suggest ccr blockers will more effective when used combination cxcr blockers caution against ccr blockers absence effective haart regimen during haart failure

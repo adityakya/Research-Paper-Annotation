@@ -1,0 +1,45 @@
+OWNX--: hypoxia induces expression genes alter metabolism through hypoxia inducible factor
+MISC--: theoretical model based differential equations hypoxia response network been previously proposed sharp response changes oxygen concentration was observed but not quantitatively explained
+OWNX--: model consisted reactions involving molecular species among concentrations hif oxygen were linked through complex set reactions
+AIMX--: this paper we analyze this previous model using combination mathematical tools draw out key components network explain quantitatively how they contribute sharp oxygen response
+OWNX--: we find switch like behavior due pathway switching wherein hif degrades rapidly under normoxia one pathway while other pathway accumulates hif trigger downstream genes under hypoxia
+MISC--: analytic technique potentially useful studying larger biomedical networks
+OWNX--: molecular oxygen terminal electron acceptor mitochondrial electron transport chain
+MISC--: hypoxia oxygen deficiency induces number metabolic changes rapid profound consequences cell physiology
+OWNX--: hypoxia induced shortage energy alters gene expression energy consumption cellular metabolism allow continued energy generation despite diminished oxygen availability
+MISC--: molecular interaction map hypoxia response network been proposed citation citation basis analyzing conserved components between nematodes mammals
+MISC--: key element this network hypoxia inducible factor master regulator oxygen sensitive gene expression citation citation
+MISC--: hif heterodimeric transcription factor consists one three different members common constitutive arnt subunit also known hif
+OWNX--: system also includes enzyme family prolyl hydroxylases directly sense level oxygen hydroxylate hif covalently modifying hif subunits
+MISC--: very likely reactive oxidative species byproduct mitochondrial respiration also involved oxygen sensing neutralizing necessary cofactor fe hydroxylation hif phd citation citation
+MISC--: there three members this enzyme family phd phd phd
+MISC--: hydroxylated hif then targeted von hippel lindau tumor suppressor protein ubiquitination dependent degradation
+OWNX--: hypoxia response element promoter hypoxia regulated genes occupancy hre controls expression levels genes
+MISC--: cascade figure consists input output core network
+MISC--: network characterized switch like behavior namely sharp increase hif when oxygen decreases below critical value followed sharp increase hre occupancy
+MISC--: was observed experimentally many cell lines including hela cells citation hep b cells citation hif increases exponentially oxygen concentration decreases
+MISC--: past two decades seen growing body work use mathematical modeling help uncover both general principles behind molecular networks provide quantitative explanations particular network phenomena citation may one day sufficient predictive power accurately model large subnetworks cell
+MISC--: this sense kohn et al citation successfully modeled switch like response characteristics hre occupancy numerically integrating system ordinary differential equations involving score molecular species related hypoxia
+MISC--: large model however does not identify smaller components actually responsible switch like response may occur other networks
+OWNX--: furthermore numerical solution does not provide type insight mathematical formulas
+MISC--: at same time virtually impossible solve symbolically type nonlinear differential equations model reactions
+MISC--: this context methods desirable both tractable reduce system its key components not solely reliant numerical solution
+MISC--: extreme pathway analysis one recently developed method citation citation
+MISC--: this method dynamics interactions between species formulated boolean network state gene represented either transcribed not transcribed
+OWNX--: upregulation downregulation genes captured through appropriate sign scaling constant
+OWNX--: boolean network then formulated matrix interaction rules then analyzed help reveal key components their contributions dynamic behavior citation
+MISC--: theory matrices then allows us look vectors characterize matrix ways helpful further analysis
+MISC--: epa technique particular finds vectors correspond boundaries space steady state solutions differential equations
+MISC--: we note similar methods flux balance analysis elementary modes analysis been developed other contexts citation citation
+MISC--: they essentially yield same results citation been verified expa citation cellnetanalyzer citation citation
+MISC--: methods provide way out intractable complexity sizable molecular networks citation citation
+OWNX--: our contribution go beyond this type matrix approach provide detailed quantitative analysis explains observed behavior models
+MISC--: this achieved combining elementary pathway identification via epa depends solely network topology detailed analytical well numerical analysis governing differential equations model allows studies phase space spanned mostly unknown rate constants differential equations
+OWNX--: specifically epa first used our approach decompose original network into several underlying pathways
+OWNX--: following this we make some reasonable approximations facilitate analytic solution
+AIMX--: we show this analytic solution case hypoxia network explains switch like behavior
+MISC--: this explanation confirmed comparing numerical output simplified model numerical output complete differential equation model
+MISC--: second contribution this paper highlight particular mechanism pathway switching pathway branching effect citation appears cause sharp response oxygen concentration
+OWNX--: particular we examine flux redistribution among elementary pathways function oxygen concentration
+OWNX--: we also identify key molecular species involved subcomponent network show quantitatively how response this subcomponent exactly matches overall response thus responsible
+OWNX--: hypoxia our analysis suggests cycle abundant production efficient degradation hif plays main role sharp response

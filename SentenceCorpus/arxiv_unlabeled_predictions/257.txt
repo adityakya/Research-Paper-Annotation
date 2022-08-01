@@ -1,0 +1,25 @@
+CONT--: we present searn algorithm integrating textsc sear ch l textsc earn ing solve complex structured prediction problems those occur natural language speech computational biology vision searn meta algorithm transforms complex problems into simple classification problems any binary classifier may applied
+MISC--: unlike current algorithms structured learning require decomposition both loss function feature functions over predicted structure searn able learn prediction functions any loss function any class features
+MISC--: moreover searn comes strong natural theoretical guarantee good performance derived classification problems implies good performance structured prediction problem
+OWNX--: prediction task learning function symbol maps inputs symbol input domain symbol outputs symbol output domain symbol
+MISC--: standard algorithms support vector machines decision trees neural networks etc
+OWNX--: focus simple output domains symbol case binary classification symbol case univariate regression
+OWNX--: we interested problems elements symbol complex internal structure
+MISC--: simplest best studied output domain labeled sequences
+MISC--: however we interested even more complex domains space english sentences instance machine translation application space short documents perhaps automatic document summarization application space possible assignments elements database information extraction data mining application
+MISC--: structured complexity features loss functions problems significantly exceeds sequence labeling problems
+OWNX--: high level there four dimensions along structured prediction algorithms vary structure varieties structure efficient learning possible loss different loss functions learning possible features generality feature functions learning possible data ability algorithm cope imperfect data sources missing data etc
+OWNX--: depth discussion alternative structured prediction algorithms given section
+MISC--: however give flavor popular conditional random field algorithm citation viewed along dimensions follows
+MISC--: structure inference crf tractable any graphical model bounded tree width loss crf typically optimizes log loss approximation loss over entire structure features any feature input possible but only output features obey graphical model structure allowed data em cope hidden variables
+OWNX--: we prefer structured prediction algorithm not limited models bounded treewidth applicable any loss function handle arbitrary features cope imperfect data
+MISC--: somewhat surprisingly searn meets nearly all requirements transforming structured prediction problems into binary prediction problems vanilla binary classifier applied searn comes strong theoretical guarantee good binary classification performance implies good structured prediction performance
+MISC--: simple applications searn standard structured prediction problems yield tractable state art performance
+OWNX--: moreover we apply searn more complex non standard structured prediction problems achieve excellent empirical performance
+AIMX--: this paper following outline introduction
+MISC--: core definitions
+MISC--: searn algorithm
+MISC--: theoretical analysis
+MISC--: comparison alternative techniques
+MISC--: experimental results
+MISC--: discussion

@@ -1,0 +1,17 @@
+MISC--: suppose signal symbol realized driving symbol sparse signal symbol through arbitrary unknown stable discrete linear time invariant system symbol namely symbol where symbol impulse response operator symbol
+MISC--: types processes arise naturally reflection seismology
+OWNX--: this paper we interested several problems blind deconvolution we recover both filter symbol sparse signal symbol noisy measurements b compressive sensing symbol compressible conventional sense compressed sensing
+MISC--: namely symbol reconstructed sparse set measurements
+OWNX--: we develop novel symbol minimization methods solve both cases establish sufficient conditions exact recovery case when unknown system symbol auto regressive i e all pole known order
+OWNX--: compressed sensing sampling setting turns out both symbol symbol reconstructed symbol measurements under certain technical conditions support structure symbol
+CONT--: our main idea pass symbol through linear time invariant system symbol collect symbol sequential measurements
+MISC--: filter symbol chosen suitably namely its associated toeplitz matrix satisfies rip property
+OWNX--: we develop novel lp optimization algorithm show both unknown filter symbol sparse input symbol reliably estimated
+OWNX--: this paper we focus blind de convolution problems filtered sparse processes
+OWNX--: specifically sparse input symbol filtered unknown infinite impulse response iir discrete time stable linear filter symbol resulting output symbol symbol y t x t n t symbol t ldots n symbol u t symbol h symbol x t symbol u t symbol h symbol h symbol h symbol h symbol z symbol h symbol ell symbol h symbol u symbol h symbol u symbol x t symbol x t symbol u t symbol h symbol z symbol o k log n symbol gh symbol h symbol hu symbol x symbol symbol alpha alpha symbol alpha symbol x symbol u t x t x t symbol x symbol h symbol u symbol x hu symbol h symbol x symbol g symbol g t symbol symbol symbol g h symbol symbol symbol u gu symbol g symbol g symbol u symbol h symbol h symbol h symbol u t symbol u t symbol u t symbol ell symbol symbol symbol ell symbol u symbol ell symbol ell symbol symbol symbol h symbol u symbol h symbol h perp symbol p symbol g h h g symbol ell symbol u symbol p symbol m symbol o m p symbol o mp symbol ell minimization algorithm main result this paper theorem stated this section
+OWNX--: proof theorem found section
+OWNX--: help reader understand main idea proof we first consider very simple case section provides proof general case
+OWNX--: section addresses blind deconvolution problem regarded noisy version our problem
+OWNX--: we use lasso solve this problem detailed proof provided section
+OWNX--: section we extend our techniques two related problem namely decoding arma process decoding non causal ar process
+OWNX--: finally simulation results shown section

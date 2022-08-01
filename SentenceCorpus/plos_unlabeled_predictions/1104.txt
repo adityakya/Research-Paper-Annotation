@@ -1,0 +1,50 @@
+OWNX--: simultaneous spike counts neural populations typically modeled gaussian distribution
+CONT--: short time scales however this distribution too restrictive describe analyze multivariate distributions discrete spike counts
+OWNX--: we present alternative based copulas account arbitrary marginal distributions including poisson negative binomial distributions well second higher order interactions
+OWNX--: we describe maximum likelihood based procedures fitting copula based models spike count data we derive so called flashlight transformation makes possible move tail dependence arbitrary copula into arbitrary orthant multivariate probability distribution
+MISC--: mixtures copulas combine different dependence structures thereby model different driving processes simultaneously also introduced
+OWNX--: first we apply copula based models populations integrate fire neurons receiving partially correlated input show best fitting copulas provide information about functional connectivity coupled neurons extracted using flashlight transformation
+OWNX--: we then apply new method data were recorded macaque prefrontal cortex using multi tetrode array
+OWNX--: we find copula based distributions negative binomial marginals provide appropriate stochastic model multivariate spike count distributions rather than multivariate poisson latent variables distribution often used multivariate normal distribution
+OWNX--: dependence structure distributions provides evidence common inhibitory input all recorded stimulus encoding neurons
+OWNX--: finally we show copula based models successfully used evaluate neural codes e g characterize stimulus dependent spike count distributions information measures
+MISC--: this demonstrates copula based models not only versatile class models multivariate distributions spike counts but those models exploited understand functional dependencies
+OWNX--: so far still unknown statistics crucial analysis order understand neural code
+OWNX--: one approach analyze simultaneous spike counts neural populations
+MISC--: responses populations sensory neurons vary even when same stimulus presented repeatedly variations between simultaneous spike counts usually correlated at least neighboring neurons
+MISC--: noise correlations been subject substantial number studies
+CONT--: computational reasons however studies typically assume gaussian noise
+OWNX--: thus correlated spike rates generally modeled multivariate normal distributions specific covariance matrix describes all pairwise linear correlations
+MISC--: long time intervals high firing rates average number spikes sufficiently large central limit theorem apply normal distribution good approximation spike count distributions
+CONT--: several experimental findings however suggest processing sensory information take place shorter time scales involving only tens hundreds milliseconds citation citation
+OWNX--: this regime normal distribution no longer valid approximation
+MISC--: its marginals continuous symmetric shape whereas empirical distributions real spike counts tend positive skew
+MISC--: normal distribution heuristically modified order avoid positive probabilities negative values not meaningful spike counts
+OWNX--: this major issue low rates probability negative values would high
+MISC--: dependence structure multivariate normal distribution always elliptical whereas spike count data often show so called tail dependence probability mass concentrated one corners
+MISC--: multivariate normal distribution assumes second order correlations only
+MISC--: although was shown pairwise interactions sufficient describing spike count distributions retinal ganglion cells cortex cells vitro citation there evidence significant higher order interactions spike counts recorded cortical areas vivo citation
+CONT--: though not widespread modeling spike counts alternative models been proposed previous studies poisson distributed marginals separate parameters higher order correlations e g multiple interaction process model citation compound poisson model citation
+MISC--: both models point processes
+MISC--: terms their induced spike count distributions models special cases multivariate poisson latent variables distribution first introduced kawamura citation presented compact matrix notation karlis meligkotsidou citation
+OWNX--: similar multivariate normal distribution this model also couple shortcomings spike count modeling only poisson marginals modeled
+MISC--: negative correlations cannot represented
+MISC--: dependence structure inflexible features like tail dependence cannot modeled
+MISC--: we use extend versatile class models multivariate discrete distributions overcome shortcomings afore mentioned models citation citation
+MISC--: models based concept copulas citation allow combine arbitrary marginal distributions using rich set dependence structures
+MISC--: neuroscience they were also applied model distribution continuous first spike latencies citation
+OWNX--: figure illustrates copula concept using spike count data two real neurons
+MISC--: figure shows bivariate empirical distribution its two marginals
+MISC--: distribution counts depends length time bin used count spikes here formula
+OWNX--: case considered correlation at low counts higher than at high counts
+MISC--: this called lower tail dependence citation
+MISC--: figure b shows discretized rectified multivariate normal distribution
+MISC--: other hand spike count probabilities copula based distribution correspond well empirical distribution figure
+AIMX--: paper organized follows
+MISC--: next section materials methods contains description methodological details regarding multivariate normal distribution multivariate poisson latent variables distribution copula approach spike counts model fitting procedures
+OWNX--: this section we will also introduce novel transformation copula families
+OWNX--: method innovative yields novel result
+OWNX--: we will then describe computational model used generate synthetic data experimental recording analysis procedures
+OWNX--: section results copula based models will applied artificial data generated integrate fire models coupled neural populations data recorded macaque prefrontal cortex during visual memory task
+MISC--: appropriateness models also investigated
+AIMX--: paper concludes discussion strengths weaknesses copula approach spike counts

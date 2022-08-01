@@ -1,0 +1,27 @@
+MISC--: whereas much literature exists choice overload less known about effects numbers alternatives donation decisions
+OWNX--: we hypothesize donations increase number recipients albeit at decreasing rate reflect donors knowledge recipients
+MISC--: donations involve different concepts fairness equity equality interact numbers alternatives
+MISC--: two experiments respondents indicated how they would donate lottery winnings number euros
+OWNX--: results showed first more was donated non governmental organizations campaigns respondents knew better
+MISC--: second total donations increased number recipients albeit at decreasing rate
+CONT--: third when limited giving only one multiple alternatives donors gave less than when this restriction did not apply
+MISC--: fourth variability donations both increase decrease number potential recipients
+OWNX--: we comment theoretical practical implications well suggesting issues future research
+MISC--: recently much literature highlighted importance numbers alternatives choice
+MISC--: this considered two perspectives
+MISC--: one investigators reported effects when people make unique selections different numbers alternatives citation
+MISC--: example studies documented differential satisfaction choice decisions involving pens citation pension plans citation gift boxes citation wines citation
+MISC--: moreover recent meta analysis suggests magnitude effects depends preconditions choice moderators contexts decisions made citation
+MISC--: focus second perspective what happens when people allocate resources across different numbers alternatives citation
+AIMX--: this topic present paper
+OWNX--: specifically we consider this issue context charitable donations investigate effects numbers alternatives amount total donations well their distribution across charitable organizations ngos non governmental organizations specific campaigns
+MISC--: both issues important theoretical practical viewpoints
+MISC--: example when attempting maximize donations ngos might consider whether donors perceive them belonging small large subsets potential recipients
+MISC--: at same time ngos often seek funds different campaigns important know how number presentation campaigns affect total donations
+OWNX--: we report two experiments
+OWNX--: first we explore effects when donors allocate funds across different numbers ngos
+OWNX--: second we investigate what happens when single ngo solicits contributions different numbers campaigns
+OWNX--: short we find two effects increasing number alternatives total contributions increase albeit at decreasing rate distributions donations affected
+MISC--: specifically tend become less egalitarian case ngos but more so case campaigns
+OWNX--: second experiment we also investigate use drop down menus donation interfaces soliciting donations specific campaigns
+MISC--: when current practice choice limited one several alternatives contributions lower than when this restriction does not apply

@@ -1,0 +1,37 @@
+MISC--: scholars economics psychology created large literature studying reward punishment reciprocity
+MISC--: labor markets constitute popular application this body work particular emphasis how reciprocity helps regulate workplace relationships where managers unable perfectly monitor workers
+OWNX--: we study how idiosyncratic features labor market compared most scenarios reciprocity applies affect nature worker reciprocity
+OWNX--: particular we show how having excess supply workers simulating unemployment managers who observe reciprocal behavior workers hire fire them basis simulating reputational concerns inherent labor market transactions profoundly alters worker reciprocity
+MISC--: absence reputational concerns workers tend reward kind behavior punish unkind behavior managers approximately equal measure
+MISC--: presence reputational concerns workers exhibit marked increase decrease propensity reward kind punish unkind behavior managers
+OWNX--: we demonstrate how this consequence workers managers responding changes strategic incentives reward punish
+MISC--: principle retaliation old mankind
+MISC--: far back hammarabian code some number years ago retaliation some form served organize behavior both market non market situations
+MISC--: perhaps illustrating importance revenge most succinctly biblical injunction exodus number number number life life eye eye tooth tooth bruise bruise
+MISC--: their part scholars explored importance negative actions alongside their seemingly more benign cousins positive actions
+MISC--: one key insights taken decades research within social sciences reciprocity general important negative actions toward individual induce greater behavioral response than comparable positive actions
+BASE--: this stylized fact perhaps best illustrated words baumeister et al citation who provide broad survey several areas study examining positive negative reciprocity conclude p number number italics added breadth convergence evidence however across different areas were striking forms most important evidence
+OWNX--: no area were we able find consistent reversal one could draw firm conclusion good stronger than bad
+OWNX--: this failure find any substantial contrary patterns occurred despite our own wishes efforts
+OWNX--: hence we must conclude bad stronger than good at pervasive general level
+MISC--: within economics results served classic example loss aversion people more sensitive negative realizations than positive realizations uncertainty citation played important role policymaking citation informed mechanism design
+MISC--: terms latter principal confronted interesting decision problem if framing incentive scheme matters agent behavior number instruments available principal constrained
+MISC--: this manner choosing between carrots sticks example plays important role outcome citation
+MISC--: more generally scholars frequently remarked loss aversion represents one most robust general behavioral patterns social sciences citation
+AIMX--: this study we explore general labor market setting wherein economic theory provides predictions positive reciprocity should stronger than negative reciprocity
+MISC--: two key features agent short end market includes reputational considerations being out market provides less utility than being participant
+MISC--: under this design worker respects her initial affective reaction punishes employer will find herself unemployed
+MISC--: alternatively worker who nice employer will more likely employed next period
+OWNX--: since being employed dominates unemployment we predict worker will restrain herself will not follow initial affective reaction
+MISC--: other hand if employer nice worker will reciprocate strongly since this situation not only she employed but also nice employer
+OWNX--: thus this situation positive reciprocity will stronger than negative reciprocity
+OWNX--: test our theory we design simple controlled laboratory experiment yields several insights
+MISC--: first consonant literature agents reciprocate
+MISC--: when interactions anonymous negative reciprocity slightly more important than positive reciprocity but not significantly so
+MISC--: also consonant literature fact agents become emotionally charged when treated poorly
+MISC--: yet this emotional charge does not readily transfer actions when realistic institutional features labor markets place
+MISC--: example when agents form reputations they respond much more acutely positive than negative stimuli
+OWNX--: second data suggest source behavioral differences observed strategic rather than change social norm reciprocation gift exchange setting
+OWNX--: remainder our study proceeds follows
+OWNX--: section number contains experimental design
+OWNX--: section number summarizes experimental results

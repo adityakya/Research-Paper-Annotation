@@ -1,0 +1,38 @@
+MISC--: one selection pressure shaping sequence evolution requirement protein fold sufficient stability perform its biological functions
+AIMX--: we present conceptual framework explains how this requirement causes probability particular amino acid mutation fixed during evolution depend its effect protein stability
+OWNX--: we mathematically formalize this framework develop bayesian approach inferring stability effects individual mutations homologous protein sequences known phylogeny
+AIMX--: this approach able predict published experimentally measured mutational stability effects accuracy exceeds both state art physicochemical modeling program sequence based consensus approach
+OWNX--: further test we use our phylogenetic inference approach predict stabilizing mutations influenza hemagglutinin
+OWNX--: we introduce mutations into temperature sensitive influenza virus defect its hemagglutinin gene experimentally demonstrate some mutations allow virus grow at higher temperatures
+CONT--: our work therefore describes powerful new approach predicting stabilizing mutations successfully applied even large complex proteins hemagglutinin
+MISC--: this approach also makes mathematical link between phylogenetics experimentally measurable protein properties potentially paving way more accurate analyses molecular evolution
+MISC--: knowledge impact individual amino acid mutations protein s stability valuable both understanding protein s natural evolution altering its properties engineering purposes
+MISC--: experimentally measuring effects mutations protein stability laborious process so variety methods been devised predict effects computationally
+MISC--: most existing methods rely some type physicochemical modeling mutation context protein s three dimensional structure often augmented information gleaned statistical analyses protein sequences structures
+MISC--: types methods moderately accurate at predicting effects mutations stabilities small soluble proteins citation citation
+MISC--: there little no published data evaluating their performance larger more complex proteins frequently greatest biological interest although might expected worse given greater difficulty modeling larger structures
+MISC--: alternative approach predicting effects mutations protein stability utilizes information contained alignments evolutionarily related sequences
+MISC--: this approach was originally introduced steipe coworkers citation envisions alignment related sequences representing random sample all possible sequences fold into given protein structure
+MISC--: based loose analogy statistical physics frequency given residue sequence alignment assumed exponential function its contribution protein s stability
+MISC--: this often called consensus approach since always predicts most stabilizing mutation will most commonly occurring residue
+MISC--: consensus approach proven surprisingly successful wide range studies supporting basic notion stabilizing residues tend appear more frequently sequence alignments homologous proteins citation citation
+OWNX--: but although often effective consensus approach suffers obvious conceptual flaw alignments natural proteins do not represent random samples all possible sequences encoding given structure but instead highly biased evolutionary relationships
+MISC--: particular residue might occur frequently because arisen repeatedly through independent amino acid substitutions might occur frequently simply because occurred common ancestor many related sequences alignment
+MISC--: sequence evolution even distantly related protein homologs non ergodic so this problem will plague all natural sequence alignments
+MISC--: therefore would clearly desirable extract information about protein stability sequence alignments using method accounts evolutionary relationships
+MISC--: fact there already highly developed mathematical descriptions divergence evolving protein sequences
+MISC--: widely used likelihood based methods inferring protein phylogenies employ explicit models amino acid substitution assess likelihood phylogenetic trees citation
+CONT--: however methods make no effort determine how selection protein stability might manifest itself ultimate frequencies amino acids alignment evolved sequences
+MISC--: instead their simplest form phylogenetic methods simply assume there universal average tendency one particular amino acid substituted another
+MISC--: more advanced phylogenetic methods sometimes allow different average substitution tendencies different classes protein residues citation citation
+MISC--: still other methods use simulations other structure based methods derive site specific substitution matrices different positions protein citation citation
+MISC--: however none methods relate substitution probabilities effects mutations experimentally measurable properties protein stability nor do they provide method predicting effects mutations protein phylogenies
+AIMX--: here we present approach using protein phylogenies infer effects amino acid mutations protein stability
+OWNX--: we begin describing conceptual framework quantitatively links mutation s effect protein stability probability will fixed evolution
+OWNX--: we then show how this framework used calculate likelihood specific phylogenetic relationships given stability effects all possible amino acid mutations protein
+MISC--: our actual goal do reverse infer stability effects given known protein phylogeny
+OWNX--: robustly accomplish this we use bayesian inference informative priors derived established physicochemical modeling program
+OWNX--: we compare inferred stability effects published experimental values several proteins show our method outperforms both physicochemical modeling program consensus approach
+OWNX--: finally we use our method predict mutations increase temperature stability influenza hemagglutinin complex multimeric membrane bound glycoprotein stabilizing mutations never previously been successfully predicted any approach
+OWNX--: we introduce predicted stabilizing mutations into hemagglutinin experimentally demonstrate several them increase temperature stability protein context live influenza virus
+CONT--: overall our work presents unified framework incorporating protein stability into phylogenetic analyses well demonstrating powerful new approach predicting stabilizing mutations

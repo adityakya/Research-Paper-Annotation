@@ -1,0 +1,40 @@
+OWNX--: transposable elements mobile repetitive sequences make up significant fractions metazoan genomes
+MISC--: despite their near ubiquity importance genome chromosome biology most efforts annotate tes genome sequences rely results single computational program repeatmasker
+OWNX--: contrast recent advances gene annotation indicate high quality gene models produced combining multiple independent sources computational evidence
+OWNX--: elevate quality te annotations level comparable gene models we developed combined evidence model te annotation pipeline analogous systems used gene annotation integrating results multiple homology based de novo te identification methods
+OWNX--: proof principle we annotated te models drosophila melanogaster release genomic sequences using combined computational evidence derived repeatmasker blaster tblastx all all blastn recon te hmm previous release annotation
+OWNX--: our system designed use apollo genome annotation tool allowing automatic results curated manually produce reliable annotations
+OWNX--: euchromatic te fraction d melanogaster now estimated at percent we found substantially higher number tes than previously identified
+MISC--: most new tes derive small fragments few hundred nucleotides long highly abundant families not previously annotated
+OWNX--: we also estimated te copies inserted into at least one other te forming nest elements
+MISC--: pipeline allows rapid thorough annotation even most complex te models including highly deleted nested elements those often found heterochromatic sequences
+MISC--: our pipeline easily adapted other genome sequences those d melanogaster heterochromatin other species genus drosophila
+MISC--: transposable elements mobile repetitive dna sequences constitute structurally dynamic component genomes
+OWNX--: taxonomic distribution tes virtually ubiquitous they been found nearly all eukaryotic organisms studied few exceptions
+MISC--: tes represent quantitatively important components genome sequences there no doubt modern genomic dna evolved close association tes
+MISC--: tes show high species specificity number types te differ quite dramatically between even closely related organisms
+MISC--: there abundant circumstantial evidence tes may transfer horizontally between species mechanisms remain obscure
+MISC--: forces controlling dynamics te spread within species also poorly understood systemic effects elements their host genomes
+MISC--: insertions individual tes may lead genome restructuring mutations genes changes gene regulation
+MISC--: some te insertions may even become domesticated play roles normal functions host
+MISC--: despite their manifold effects abundance ubiquity we understand very little about most aspects te biology
+OWNX--: one way furthering our knowledge te biology through computational analysis tes growing number complete genomic sequences
+MISC--: detailed comparison abundance distribution tes entire genomes we infer fundamental biological properties tes shared differ among species
+OWNX--: however meaningful inferences about te biology based computationally derived te annotations only done if we confident about results analyses
+OWNX--: hallmark strong result computational biology should its robustness particular method used
+CONT--: annotation tes however typically relies results single computational program repeatmasker recent studies indicate may neither most efficient nor most sensitive approach te annotation citation
+OWNX--: contrast recent advances field gene annotation indicate high quality gene models produced combining multiple independent sources computational evidence citation citation
+MISC--: recent development several new methods te repeat detection citation citation now possible apply similar combined evidence approach elevate quality te annotations level comparable gene models
+OWNX--: achieve this aim we developed te annotation pipeline integrates results multiple homology based de novo te identification methods
+BASE--: currently our pipeline uses combined computational evidence derived repeatmasker blaster citation tblastx citation all all blastn citation recon citation te hmm citation previously published te annotations citation
+OWNX--: we designed our system use evidence model framework apollo genome annotation tool citation allowing computational evidence manually curated efficient manner produce reliable te models
+MISC--: pipeline allows rapid thorough annotation complex te models providing key structural details allow insights into origin highly deleted nested elements
+OWNX--: contrast simply masking repeats our method provides means complete accurate annotation tes supported multiple sources computational evidence goal important implications experimental studies genome chromosome biology
+OWNX--: test case we chosen annotate euchromatic genomic sequence fruit fly drosophila melanogaster
+MISC--: mb release genome sequence d melanogaster among highest quality genome sequences particularly well suited sequence genome wide studies tes since repetitive dna sequences been finished high quality systematically verified restriction fingerprint analysis citation
+MISC--: moreover release annotation d melanogaster includes manually curated set te annotations citation used benchmark developing refining te annotation methodologies
+MISC--: controlled tests performed here release sequence show combined evidence approach superior performance over individual te detection methods substantially larger fraction genome composed tes than previously estimated
+AIMX--: we applied our pipeline new mb release sequence closed several gaps release extended sequence pericentomeric regions produce systematic re annotation tes d melanogaster genome
+OWNX--: euchromatic te fraction now estimated at percent we found substantially higher number tes than previously identified
+OWNX--: we also estimated te copies inserted into at least one other te forming nest elements
+OWNX--: our pipeline easily adapted other genome sequences could markedly increase efficiency annotating genomic regions complex abundant te insertions heterochromatic sequences

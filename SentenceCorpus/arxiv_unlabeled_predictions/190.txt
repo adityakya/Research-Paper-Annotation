@@ -1,0 +1,30 @@
+OWNX--: scenarios emergence bootstrap lexicon involve repeated interaction between at least two agents who must reach consensus how name symbol objects using symbol words
+MISC--: here we consider minimal models two types learning algorithms cross situational learning individuals determine meaning word looking something common across all observed uses word supervised operant conditioning learning there strong feedback between individuals about intended meaning words
+AIMX--: despite stark differences between learning schemes we show they yield same communication accuracy realistic limits large symbol symbol coincides result classical occupancy problem randomly assigning symbol objects symbol words
+MISC--: how coherent lexicon emerge group interacting agents major open issue language evolution acquisition research area hurford nowak krakauer steels kirby smith kirby brighton
+MISC--: addition dynamics self organization shared lexicons one issues computational mathematical modeling contribute most emergence lexicon scratch implies some type self organization possibly threshold phenomenon
+MISC--: this cannot completely understood without thorough exploration parameter space models baronchelli felici loreto caglioli steels
+MISC--: there two main research avenues investigate emergence bootstrapping lexicon
+AIMX--: first approach inspired seminal work pinker bloom who argued natural selection main design principle explain emergence complex structure language resorts evolutionary algorithms evolve shared lexicon
+MISC--: key element here improvement communication ability individual results average increase number offspring produces hurford nowak krakauer cangelosi fontanari perlovsky
+AIMX--: second research avenue we will follow this paper argues culturally based view language evolution so assumes lexicons acquired modified solely through learning during individual s lifetime steels smith kirby brighton
+MISC--: course if there fact about language uncontroversial lexicon must learned active passive interaction between children language proficient adults
+MISC--: issue whether this ability learn lexicon due some domain general learning mechanism innate ability unique humans still table bates elman
+MISC--: problem we address here there simply no language proficient individuals so not so far fetched put forward biological rather than cultural explanation emergence self organized lexicon
+BASE--: nevertheless this contribution we will use many insights produced research language acquisition children see eg gleitman bloom study different learning strategies
+MISC--: developmental perspective there basically two competing schemes lexicon acquisition children rosenthal zimmerman
+OWNX--: first scheme termed cross situational observational learning based intuitive idea one way learner determine meaning word find something common across all observed uses word pinker gleitman siskind
+MISC--: hence learning takes place through statistical sampling contexts word appears
+OWNX--: since learner receives no feedback about its inferences we refer this scheme unsupervised learning
+MISC--: second scheme known generally operant conditioning involves active participation agents learning process exchange non linguistic cues provide feedback hearer inferences
+MISC--: this supervised learning scheme been applied design system communication autonomous robots so called language game talking heads experiments steels
+MISC--: despite technological appeal empirical evidence most part lexicon acquired children product unsupervised learning pinker gleitman bloom
+MISC--: interestingly perspective evolving bootstrapping lexicon unsupervised scheme very attractive too since eliminates altogether issue honest signaling dawkins krebs no signaling involved learning process requires only observation some elements intuitive psychology e g theory mind
+MISC--: many different computational implementations variants two schemes bootstrapping lexicon been proposed literature
+MISC--: example smith b smith smith blythe vogt de beule de vylder belpaeme addressed unsupervised learning scheme whereas steels kaplan ke minett au wang smith kirby brighton lenaerts jansen tuyls de vylder supervised scheme
+CONT--: however except extensive statistical analysis variant supervised learning algorithm reduces problem naming single object baronchelli felici loreto caglioli steels study effects changing parameters those models been usually limited display time evolution some measure communication accuracy population
+OWNX--: although at first sight supervised learning scheme may seem clearly superior unsupervised one albeit less realistic context language acquisition children we not aware any thorough comparison between performances two learning scenarios
+OWNX--: fact this contribution we show realistic limit very large lexicon sizes supervised unsupervised learning performances essentially identical
+AIMX--: this paper we study minimal models supervised unsupervised learning schemes preserve main ingredients two classical language acquisition paradigms
+OWNX--: sake simplicity here we interpret lexicon mapping between objects words sounds rather than mapping between meanings conceptual structures sounds
+OWNX--: more complete scenario would involve first creation meanings i e bootstrapping object meaning mapping steels fontanari then emergence meaning sound mapping see eg smith b fontanari perlovsky

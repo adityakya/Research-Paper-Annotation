@@ -1,0 +1,39 @@
+MISC--: recent advances reconstruction analytical methods signaling networks spurred development large scale models incorporate fully functional biologically relevant features
+MISC--: extended reconstruction human toll like receptor signaling network presented herein
+OWNX--: this reconstruction contains extensive complement kinases phosphatases other associated proteins mediate signaling cascade along delineation their associated chemical reactions
+MISC--: computational framework based methods large scale convex analysis was developed applied this network characterize input output relationships
+MISC--: input output relationships enabled significant modularization network into ten pathways
+MISC--: analysis identified potential candidates inhibitory mediation tlr signaling respect their specificity potency
+OWNX--: subsequently we were able identify eight novel inhibition targets through constraint based modeling methods
+MISC--: results this study expected yield meaningful avenues further research task mediating toll like receptor signaling network its effects
+MISC--: toll like receptors group conserved pattern recognition receptors activate processes innate adaptive immunity citation
+MISC--: recent activity focused characterization tlr network its involvement apoptotic inflammatory innate immune responses citation citation
+MISC--: tlr signaling primary contributor inflammatory responses been implicated several diseases including cardiovascular disease citation citation
+CONT--: indeed even cases desired inflammatory response excessive activation signaling pathways lead septic shock other serious conditions citation
+MISC--: there much interest development methods attenuate modulate tlr signaling targeted fashion
+MISC--: example one approach involves inhibition specific reactions components within tlr network will dampen undesired signaling pathways while not adversely affecting other signaling components citation citation
+MISC--: reactions components should ideally highly specific tlr network also one transcription target
+MISC--: therefore available comprehensive data sets tlr network need put into more structured systematic format enables better understanding associated signaling cascades pathways connections other cellular networks
+MISC--: systemic approach necessary achieve ultimate goal mediating effects toll like receptor signaling upon inflammatory immune apoptotic responses
+MISC--: this need particularly important given amount experimental data about tlr signaling already too large analyzed simply viewing complex web overlapping interactions
+MISC--: so far relatively few attempts been made organize plethora experimental data into single unified representation citation
+MISC--: hence there clearly need investigate function capabilities this network using computational model particularly yield further insights into mechanistic action tlrs their immunoadjuvant effects
+MISC--: constraint based reconstruction analysis methods represent systems approach computational modeling biological networks citation
+MISC--: briefly all known biochemical transformations particular system collected various data sources listing genomic biochemical physiological data citation citation
+MISC--: reconstruction built existing knowledge bottom up fashion subsequently converted into condition specific model citation citation allowing investigation its functional properties citation citation
+MISC--: this conversion involves translating reaction list into so called stoichiometric matrix extracting stoichiometric coefficients substrates products each network reaction placing lower upper bounds network reactions
+MISC--: constraints include mass balancing thermodynamic considerations reaction rates citation
+MISC--: additionally environmental constraints applied represent different availabilities medium components
+MISC--: many computational analysis tools been developed citation including flux balance analysis
+MISC--: fba formalism reconstructed network framed linear programming optimization problem specific objective function maximized minimized citation
+MISC--: cobra methods well established metabolic networks both reconstruction analysis tools widely used citation
+MISC--: furthermore methods been successfully applied other important cellular functions transcription translation citation transcriptional regulation citation signaling including jak stat citation angiogenesis citation
+AIMX--: this study we present extended reformulated model tlr network reconstructed based publicly available tlr map citation cobra approach citation citation
+MISC--: signaling networks been analyzed using extreme pathway analysis citation fba citation
+MISC--: however since expa analysis becomes computationally challenging large scale mass balanced networks citation we could not apply this method tlr network
+MISC--: contrast network modularization been established method reducing large scale networks into more manageable units citation citation
+MISC--: another approach reducing network complexity focus input output relationships citation citation
+OWNX--: we used fba simplify mesh network reactions into ten functionally distinct input output pathways show different patterns signal activation control
+OWNX--: furthermore we used this modular representation complex tlr signaling network determine control points network specific dios pathway
+MISC--: control points allow modulation tlr signaling targeted fashion will induce change undesired signaling while not having adverse effect other signaling components
+OWNX--: taken together we show this study how signaling network reconstruction fba used identify potential candidates drug targeting

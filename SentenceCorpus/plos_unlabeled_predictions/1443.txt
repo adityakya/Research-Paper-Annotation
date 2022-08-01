@@ -1,0 +1,47 @@
+MISC--: most cellular processes depend intracellular locations random collisions individual protein molecules
+MISC--: model processes we developed algorithms simulate diffusion membrane interactions reactions individual molecules implemented smoldyn program
+OWNX--: compared popular mcell chemcell simulators we found smoldyn was many cases more accurate more computationally efficient easier use
+MISC--: using smoldyn we modeled pheromone response system signaling among yeast cells opposite mating type
+OWNX--: this model showed secreted bar protease might help cell identify fittest mating partner sharpening pheromone concentration gradient
+MISC--: this model involved about protein molecules about cubic microns volume about minutes simulated time took about hours run
+MISC--: over next several years faster computers become available smoldyn will allow researchers model explore systems size entire bacterial smaller eukaryotic cells
+MISC--: one hurdle computational modeling cellular systems lack adequate tools
+MISC--: if one assumes molecules inside cells well mixed they behave deterministically then one model chemical reactions cells use operate differential equations
+MISC--: however assumptions frequently inadequate
+MISC--: firstly most cellular processes depend at least some extent intracellular spatial organization
+MISC--: example cell signaling systems transmit signals across significant distances within subcellular compartments across intracellular membranes nuclear envelope
+OWNX--: also cell division systems segregate one cell into two regulate partition molecular components
+MISC--: secondly many cellular outputs exhibit substantial random variation citation must arise random differences molecular collisions
+MISC--: examples range random switching swimming escherichia coli bacteria between so called running tumbling states citation cell cell variation operation cell signaling systems citation citation
+MISC--: more generally stochastic behavior likely affect outcomes essentially all cellular processes
+MISC--: representation this complexity requires algorithms programs model cellular processes spatial accuracy citation model chemical reactions they operate stochastic detail citation
+MISC--: computational biologists pursued four main approaches simulating biochemical systems spatial stochastic detail
+MISC--: differ how they represent space time molecules turn affects classes biological systems they simulate appropriately
+MISC--: spatial gillespie method citation based gillespie s stochastic simulation algorithms citation
+MISC--: divides simulation volume into coarse lattice subvolumes each contains many molecules interest
+MISC--: this method computationally efficient because tracks total number individual classes molecules per subvolume rather than individual molecules citation
+CONT--: however lattice structure uses divide space into subvolumes does not work well realistic membrane shapes require special treatment citation
+OWNX--: microscopic lattice method subdivides space into much finer lattice so each volume contain zero one molecule
+OWNX--: this method molecules diffuse hopping between sites react molecules neighboring sites
+MISC--: naturally lends itself studies oligomerization complex formation citation effects macromolecular crowding reactions citation
+MISC--: not found wide use studying cell sized processes due facts high computational demands specific lattice structures affect simulated reaction rates differently citation although recent techniques may circumvent challenges citation
+MISC--: particle based methods primary focus this article most widely used spatial stochastic methods citation
+MISC--: represent individual molecules point like particles diffuse continuous space over fixed time steps molecules react when they collide
+CONT--: fact models use continuous space makes realistic membrane geometries relatively easy represent citation avoids lattice based artifacts offers high spatial resolution
+MISC--: need track individual molecules however imposes high computational demands so particle based methods about factor two slower than spatial gillespie methods citation
+MISC--: finally green s function reaction dynamics methods citation enable especially accurate particle based simulation
+MISC--: gfrd methods step simulation exact time one individual reaction exact time next
+MISC--: this makes methods ideal systems long delays between individual reactions but very computationally intensive most cellular processes citation
+MISC--: dominant particle based simulators chemcell citation mcell citation citation smoldyn citation citation
+MISC--: programs many common features but differ other features quantitative accuracy their simulations
+CONT--: three chemcell fewest features but particularly easy use only simulator supports both spatial non spatial simulations
+MISC--: mcell oldest program citation been used most produces highest quality graphics citation number features make particularly well suited simulating cellular processes involved synaptic transmission citation
+MISC--: smoldyn relative newcomer but yields most accurate results runs fastest
+OWNX--: smoldyn also number attributes listed table below make well suited modeling wide range cellular processes
+OWNX--: this article focuses latest version smoldyn smoldyn
+MISC--: smoldyn embodied several algorithms were based smoluchowski reaction dynamics citation
+BASE--: subsequent versions were used investigate spatial version classic lotka volterra chemical oscillator citation diffusion hair cell membranes citation protein sequestration dendritic spines citation diffusion obstructed spaces intracellular signaling e coli chemotaxis citation citation
+MISC--: smoldyn preserves original focuses accuracy efficiency but offers significantly improved functionality
+MISC--: particular represent realistic membrane geometries simulate diffusion membrane bound molecules accurately simulate wide variety molecule membrane interactions citation
+MISC--: make general simulator possible smoldyn also supports spatial compartments rule based reaction network generation citation citation molecules excluded volume conformational spread interactions over fifty run time commands system manipulation observation
+OWNX--: we anticipate smoldyn will particularly useful investigating cellular systems signaling division metabolic systems studying basic biophysical phenomena effects macromolecular crowding molecular diffusion helping quantify microscopy data citation diffusion rates investigated frap

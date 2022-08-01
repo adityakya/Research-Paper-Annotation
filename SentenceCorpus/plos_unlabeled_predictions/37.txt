@@ -1,0 +1,30 @@
+MISC--: important element developing field proteomics understand protein protein interactions other functional links amongst genes
+MISC--: across species correlation methods detecting functional links work premise functionally linked proteins will tend show common pattern presence absence across range genomes
+OWNX--: we describe maximum likelihood statistical model predicting functional gene linkages
+MISC--: method detects independent instances correlated gain loss pairs proteins phylogenetic trees reducing high rates false positives observed conventional across species methods do not explicitly incorporate phylogeny
+OWNX--: we show dataset protein pairs phylogenetic method improves up percent across species analyses at identifying known functionally linked proteins
+MISC--: method shows protein pairs at least two three correlated events gain loss almost certainly functionally linked
+OWNX--: contingent evolution one gene s presence absence depends upon presence another also detected phylogenetically may identify genes whose functional significance depends upon its interaction other genes
+MISC--: incorporating phylogenetic information improves prediction functional linkages
+MISC--: improvement derives having lower rate false positives detecting trends across species analyses miss phylogenetic methods easily incorporated into screening large scale bioinformatics datasets identify sets protein links characterise gene networks
+MISC--: evidence two more traits co evolve across range species used test hypotheses about common selective pressures acting traits about functional adaptive relationship between them
+OWNX--: correlated evolution increasingly being applied at genetic level premise genes gained lost together show similar expression patterns rates evolution may form functional linkage
+OWNX--: this provides computational approach screen large genomic datasets functional links help identify functions uncharacterised genes
+OWNX--: analyses also used describe metabolic networks discover gene modules clusters genes engaged common function
+MISC--: genes their expression patterns evolve phylogenetic context functional links adaptive value tend conserved inherited descendant species
+OWNX--: among closely related species shared phylogenetic inheritance also produce correlated gene profiles genes not linked
+OWNX--: two more genes might arise independently common ancestor retained evolutionary descendants owing their individual adaptive functions
+OWNX--: figure shows how this produce spurious evidence functional link when measured across species
+OWNX--: comparison multiple independent phylogenetic events gain loss pairs genes make compelling statistical case functional link
+MISC--: phylogenetic methods uses beyond merely accounting shared inheritance they make possible investigate ancestral states identify probable temporal ordering changes two traits
+OWNX--: knowledge two traits changed first evolutionary history phylogeny describes used test ideas about cause effect dependency one trait another
+OWNX--: our interest evaluate whether incorporating phylogenetic information improves identification functional gene links
+MISC--: need take account phylogenetic relationships comparative studies long been appreciated evolutionary biology but received less attention bioinformatics studies we apply phylogenetic statistical method discrete assessing correlated evolution among pairs discrete traits data presence absence pairs genes
+OWNX--: method identifies independent events correlated evolution phylogeny comparing statistical likelihood observed data under two alternative scenarios one two genes allowed evolve phylogeny independently another they co evolve
+MISC--: trait evolution modelled continuous time markov process evidence model correlated evolution assessed means likelihood ratio statistic
+OWNX--: our dataset consists phylogeny eukaryote species complete nearly complete sequenced genomes available
+CONT--: there no limit number species used but important use fully sequenced well annotated genomes ensure genes determined absent fact not genome
+OWNX--: we compare phylogenetic method s predictions predictions derived across species correlations latter been used bioinformatics investigations predict functional gene links we use munich information center protein sequences database annotated complexes yeast proteins known criterion measure
+OWNX--: mips functional links been determined low throughput laboratory procedures therefore provide reliable collection functional links this species
+OWNX--: we find incorporating phylogenetic information improves predictions up percent over across species correlations detecting functional links increasingly so pairs genes greater phylogenetic evidence functional link
+MISC--: number times pair genes been independently gained lost phylogeny strong predictor functional linkage protein pairs at least two three correlated events almost certainly functionally linked

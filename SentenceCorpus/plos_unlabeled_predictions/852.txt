@@ -1,0 +1,73 @@
+MISC--: structural functional studies abl egfr kinase domains recently suggested common mechanism activation cancer causing mutations
+MISC--: however dynamics mechanistic aspects kinase activation cancer mutations stimulate conformational transitions thermodynamic stabilization constitutively active kinase form remain elusive
+OWNX--: we present large scale computational investigation activation mechanisms abl egfr kinase domains panel clinically important cancer mutants abl t i abl l m egfr t m egfr l r
+OWNX--: we also simulated activating effect gatekeeper mutation conformational dynamics allosteric interactions functional states abl sh sh regulatory complexes
+CONT--: comprehensive analysis was conducted using hierarchy computational approaches included homology modeling molecular dynamics simulations protein stability analysis targeted molecular dynamics molecular docking
+OWNX--: collectively results this study revealed thermodynamic mechanistic catalysts kinase activation major cancer causing mutations abl egfr kinase domains
+MISC--: using multiple crystallographic states abl egfr computer simulations allowed one map dynamics conformational fluctuations transitions normal oncogenic kinase forms
+MISC--: proposed multi stage mechanistic model activation involves series cooperative transitions between different conformational states including assembly hydrophobic spine formation src like intermediate structure cooperative breakage formation characteristic salt bridges signify transition active kinase form
+OWNX--: we suggest molecular mechanisms activation cancer mutations could mimic activation process normal kinase yet exploiting conserved structural catalysts accelerate conformational transition enhanced stabilization active kinase form
+AIMX--: results this study reconcile current experimental data insights theoretical approaches pointing general mechanistic aspects activating transitions protein kinases
+MISC--: protein kinase genes signaling switches conserved catalytic domain phosphorylate protein substrates thereby play critical role cell signaling citation citation
+MISC--: result many protein kinases emerged important therapeutic targets combating diseases caused abnormalities signal transduction pathways especially various forms cancer
+MISC--: large number protein kinase crystal structures free form complexes various inhibitors been determined resulting growing wealth structural information about kinase catalytic domain citation citation
+MISC--: crystal structures revealed considerable structural differences between closely related active highly specific inactive kinase forms citation citation
+MISC--: conformational plasticity diversity crystal structures abl citation citation egfr kinase domains citation citation demonstrated existence active inactive src like inactive intermediate conformational forms
+MISC--: conformational transitions dynamic equilibrium between distinct conformational states important characteristics kinase regulation recognition other molecules citation citation
+MISC--: evolutionary analysis functional constraints acting eukaryotic protein kinases demonstrated protein kinase mechanisms may evolved through elaboration simple structural component included hxd motif adjoining catalytic loop f helix f helix aspartate catalytically critical asp phe gly motif activation loop
+MISC--: this computational analysis showed how distinctive structural elements kinase core may linked conformational changes dfg motif kinase regulation citation
+MISC--: surface comparison crystal structures serine threonine tyrosine kinases recently identified conserved residues most sensitive activation citation
+MISC--: according proposed model critical features common activation mechanism may include dynamic assembly hydrophobic spine motif formation specific salt bridges collectively provide coordination kinase lobes during activation process citation citation
+MISC--: illuminating studies demonstrated protein kinase function may controlled dynamic assembly spatially distributed conserved residues important regulation allosteric signaling pathways
+MISC--: subsequent study was proposed f helix kinase domain may act central scaffold assembly active protein kinase forms anchoring hydrophobic regulatory spine second functional cluster termed catalytic spine citation
+MISC--: abnormal activation protein kinases among major causes human diseases especially various cancers
+MISC--: resequencing studies kinase coding regions tumors revealed small number kinase mutations contribute tumor formation while majority neutral mutational byproducts somatic cell replication citation citation
+MISC--: mutations protein kinases implicated many cancers citation often exemplify phenomenon oncogene addiction citation citation whereby structural effects oncogenic mutations confer selective advantage tumor formation during somatic cell replication
+MISC--: dominant oncogenes confer oncogene addiction effect include abl egfr vegfr braf ret met kinase genes citation
+OWNX--: dependence chronic myeloid leukemia translocated bcr abl kinase correlated dramatic responses small molecule inhibitors
+MISC--: large number diverse point mutations impair binding imatinib abl been described citation citation suggesting some drug resistant mutations could exist before treatment may contribute tumorigenesis
+MISC--: profound selectivity imatinib at inhibiting small group protein tyrosine kinases achieved high precision this inhibitor recognize inactive conformation activation loop abl kit pdgfr kinases citation citation
+MISC--: structurally conserved gate keeper mutation abl t i dominant cancer causing alteration leading most severe imatinib resistance favoring active form abl kinase
+MISC--: subsequently series rationally designed analogs imatinib based core scaffold were shown recognize broader spectrum inactive kinase conformations inhibit equal potency both abl c src kinases citation
+MISC--: inhibitors bind inactive conformation face weaker competition cellular atp may act shifting equilibrium between conformational states way prevents kinase activation rather than inhibiting kinase activity directly
+MISC--: spectrum lung cancer derived egfr mutations induce oncogenic transformation leading constitutive kinase activity confer markedly different degrees sensitivity egfr inhibitors citation citation
+MISC--: similarly egfr t m mutant could cause resistance gefitinib erlotinib drugs treatment lung cancer citation
+MISC--: importantly mutations promote oncogenic activation uncontrolled cell proliferation tumorigenesis even absence selective pressure kinase inhibitors
+MISC--: activating mutation activation loop egfr kinase domain l r among most frequent mutations lung cancer amounting more than percent egfr mutations this cancer category citation citation
+MISC--: while t m only modest effect egfr function tandem t m l r mutations result dramatic enhancement egfr activity citation
+MISC--: crystal structures egfr l r egfr t m citation citation abl t i mutants citation citation shown cancer causing modifications could stabilize active kinase form
+MISC--: recent structural mutagenesis investigations asserted common activating nature gatekeeper mutations c abl c src egfr pdgfr kinases citation
+MISC--: moreover mutations gatekeeper residues smaller amino acids pharmacological intervention inhibitor binding interfere structural integrity hydrophobic spine could effectively abrogate kinase activity
+MISC--: conversely substitutions gatekeeper residues bulkier modifications strengthen hydrophobic spine tend correlate enhanced oncogenic activation abl egfr kinases citation
+MISC--: studies proposed mechanism activation stabilization hydrophobic regulatory spine may promote shift kinase equilibrium towards constitutively active kinase form thus dramatic effect regulation enzyme
+CONT--: crystallographic analysis may not capture complete ensemble protein kinase conformations available solution under physiological conditions
+MISC--: nmr spectroscopy techniques effectively complement x ray studies providing more adequate characterization conformational ensembles dynamics transitions between different kinase states citation citation
+MISC--: first nmr characterization abl kinase complexes various inhibitors been recently reported citation
+AIMX--: this study detected microsecond millisecond motions activation loop seen both active inactive states suggesting this mobility may intrinsic structural requirement enabling conformational transitions between alternative kinase conformations
+CONT--: hydrogen exchange mass spectrometry been applied investigate conformational dynamics abl upon t i mutation citation
+MISC--: effect abl t i mutation manifested not only local conformational disturbances near site mutation but also influenced protein flexibility remote regions sh domain
+MISC--: hence allosteric interactions inter domain communication abl regulatory complexes could considerably perturbed activating mutations thereby playing major role kinase regulation solution
+MISC--: computational studies begun investigate molecular basis protein kinase function structural effects activating mutations may ultimately control activity signatures cancer drugs determine scope drug resistance mutations citation citation
+CONT--: molecular mechanism long range allosteric conformational activation src tyrosine kinases been proposed using combination experimental enzyme kinetics nonequilibrium molecular dynamics simulations citation citation
+MISC--: atomistic simulations large scale allosteric conformational transitions adenylate kinase suggested population shift mechanism upon inhibitor binding citation
+MISC--: coarse grained all toms modeling using structural connectivity mapping allowed characterize collective dynamics conformational transitions between inactive active states src kinase citation citation
+MISC--: atomistic dynamics open closed movement cyclin dependent kinase been recently studied using metadynamics sampling approach revealing two step molecular mechanism formation functionally important intermediates citation
+MISC--: molecular dynamics simulations abl kinase imatinib binding kinetics assays proposed protonation dependent switch dfg motif activation loop may allow kinase access multiple conformations facilitating nucleotide binding release cycles citation
+MISC--: targeted molecular dynamics simulations attempted explore conformational transitions activation loop c kit kinase domain citation
+MISC--: most recently conformational dynamics egfr kinase domain studied tmd simulations suggested formation hydrophobic spine salt bridges may important activation process citation
+MISC--: computational studies protein kinases elucidated thermodynamic factors kinase activation suggesting cancer mutations higher oncogenic activity may greater destabilization effect inactive kinase structure citation citation
+MISC--: studies suggested conserved topology protein kinase fold could preserve global dynamics normal oncogenic forms yet allowing functionally important local allosteric conformational changes caused mutations
+MISC--: basic mechanistic features protein kinase dynamics activation mechanisms may interpreted using conformational selection model citation citation energy landscape perspective citation citation protein folding binding
+MISC--: this theoretical framework implies ensemble preexisting multiple conformational states underlying energy landscape mutations shifting energy landscape relative populations accessible states towards functionally relevant complexes citation citation
+MISC--: important role conformational selection mechanisms recently gained further prominence citation suggesting broad applicability this model explaining dynamic effects variety biological systems citation citation
+MISC--: was recently proposed evolution may preserved protein flexibility features retain ability kinases fluctuate normally between active inactive states
+MISC--: contrary cancer kinase mutations may result increased conformational space explored inactive state citation citation
+MISC--: thermodynamic mechanistic effects cancer mutations may manifest preferential shifting landscape equilibrium altering accessible conformational space deleterious mutants through either local allosteric based dynamic changes
+MISC--: similar energy landscape based framework predicting effects mutations protein dynamics binding was successfully employed allostery based rescue mutant design tumor suppressor protein citation studies molecular evolution affinity flexibility immune system citation citation
+MISC--: despite recent progress computational experimental studies protein kinases quantitative understanding thermodynamic mechanistic catalysts kinase activation cancer mutations still lacking
+CONT--: this study we embarked detailed computational analysis activation mechanisms abl egfr kinase domains using homology modeling md simulations protein stability analysis tmd simulations molecular docking
+MISC--: comparative analysis been conducted based computational modeling wild type abl egfr kinase domains well panel clinically important cancer mutants abl t i abl l m egfr t m egfr l r
+OWNX--: we also simulated effect gatekeeper abl t i mutation conformational dynamics allosteric interactions abl sh sh regulatory complexes
+OWNX--: support experimental hypotheses our results suggested potential thermodynamic mechanistic catalysts abl egfr kinase activation may collectively accelerate conformational transitions result enhanced stabilization active kinase form
+OWNX--: we also proposed multi stage mechanistic model activation process includes series cooperative transitions resulting formation key intermediate states characterized rapid assembly hydrophobic spine subsequent stabilization src like structures
+MISC--: broadly results study may reconcile current experimental data insights computational approaches pointing general mechanistic aspects activating transitions protein kinases

@@ -1,0 +1,37 @@
+OWNX--: we present new approach handling interrogating large flow cytometry data where cell status function described at population level global descriptors distribution mean co efficient variation experimental data
+OWNX--: here we link real data initialise computer simulation cell cycle mimics evolution individual cells within larger population simulates associated changes fluorescence intensity functional reporters
+MISC--: model based stochastic formulations cell cycle progression cell division uses evolutionary algorithms allied further experimental data sets optimise system variables
+OWNX--: at population level silico cells provide same statistical distributions fluorescence their real counterparts addition model maintains information at single cell level
+MISC--: cell model demonstrated analysis cell cycle perturbation human osteosarcoma tumour cells using topoisomerase ii inhibitor icrf
+CONT--: simulation gives continuous temporal description pharmacodynamics between discrete experimental analysis points hour interval providing quantitative assessment inter mitotic time variation drug interaction time constants sub population fractions within normal polyploid cell cycles
+MISC--: repeated simulations indicate model accuracy percent
+MISC--: development simulated cell model initialized calibrated reference experimental data provides analysis tool biological knowledge obtained directly via interrogation silico cell population
+OWNX--: envisaged this approach study cell biology simulating virtual cell population pertinent data available applied generic cell based outputs including experimental data imaging platforms
+MISC--: multiparameter flow cytometry widely used study cell cycle its perturbation context both basic research routine clinical analysis citation citation
+MISC--: analyses may use wide range fluorescent reporters correlate expression key molecular components cell cycle cyclins cyclin dependent kinases citation quantify dna content citation
+MISC--: regardless particular fluorophores used quantitative methodology ensuing synthesis biological knowledge based statistical analyses experimental data sets
+MISC--: single variable distributions may include calculations moments increasing orders provide mean variance skewness etc cumulative indices kolmogorov smirnov test citation citation
+MISC--: more complex multi variate approaches may involve discriminant function cluster principal component analysis n dimensional space citation citation
+MISC--: all approaches there common procedural thread acquisition data followed statistical parameterisation measurement set biological form function correlated
+AIMX--: this work we present alternative based computational simulation experiment
+MISC--: stochastic simulation cell cycle dynamics within large population initialised reference flow cytometry data set then evolved using evolutionary computer algorithms assessment fitness measures derived comparisons subsequent data sets
+MISC--: cell cycle information then read directly silico populations
+OWNX--: development simulated cell population approach been driven requirement track evolution large numbers cells over multiple generations through cell cycle provide means track progression both whole cell population distinct sub groups citation citation
+OWNX--: this context mapping heterogeneity cell cycle response perturbation events e g effects cell proliferation anticancer therapeutics designed block cell division
+OWNX--: this report we present conceptual basis this simulated cell cytometry detail methodology adopted
+OWNX--: demonstrate application technique validate its potential we use quantify cell cycle perturbation tumour cell line topoismerase ii inhibitor causes endocycle routing late cell cycle
+MISC--: aim simulation predict dynamic evolution large population virtual cells through life cycle corresponding prescribed their real life counterparts
+OWNX--: furthermore model seeks account perturbations cell cycle progression virtual population
+MISC--: spatial position vcells within cell cycle initially determined real flow data set
+OWNX--: this information each vcell assigned temporal position within mean inter mitotic time allowing cell cycle events dna replication cell division stochastically predicted
+MISC--: after vpopulation evolved given period they may compared further experimental data set enable important simulation parameters governing their evolution optimised constrained so correlations between respective data sets maximised
+MISC--: standard approaches studying cell cycle involve statistical analysis distributions either d involving nuclear content reporters citation d when further cell cycle molecular reporters also included citation citation
+MISC--: thus inherently whole population measures only describe cell variability via global parameters standard deviation mean
+MISC--: whilst automated analytical approaches been developed order reduce user subjectivity citation citation majority flow analyses still involve user defined gating measured data set identify segment sub population cells
+MISC--: subsequent mapping this population onto d dot plots fluorescence provides temporal snapshots further partitioning cells different compartments g s g m within normal polypoid cycles
+MISC--: apparent quantitative assessments become inaccurate varying extent subjective they based either user identification various components dot plot fitting gaussian distributions representing g s g m fractions dna content histogram citation
+CONT--: challenge current investigation adopt computational approach where analytical interpretive steps implemented at simulated biology stage not raw data outputs
+OWNX--: no new data added this approach computer simulations could viewed elaborate form data analysis
+OWNX--: however methodology does deliver new insight process delivering continuous simulation dynamic evolution cellular system between fixed sampling points
+MISC--: this respect provides physical validation when applying various hypotheses interpret experimental data
+MISC--: also goes some way visualising variation between individual cells gives rise biological heterogeneity stochastic simulation delivers report population dynamics each every cell tracked

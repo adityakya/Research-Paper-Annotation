@@ -1,0 +1,36 @@
+MISC--: recent study indicates acute stress affects moral decision making youssef et al press
+MISC--: current study examines whether results replicated using different kind stressor different kind stress measurement
+OWNX--: we induced stress number participants cover story anticipated speech
+MISC--: another group number participants was tested control condition
+OWNX--: stress levels stress responses were assessed questionnaires heart rate
+OWNX--: all participants performed moral decision making task describing moral dilemmas
+MISC--: dilemmas were either personal impersonal each offered utilitarian non utilitarian option
+OWNX--: acutely stressed participants compared control participants made fewer utilitarian judgments needed longer making decision
+MISC--: individual physiological stress response was related fewer utilitarian judgments
+BASE--: results line those previously found although different instruments were used
+MISC--: recent research postulates moral decision making influenced automatic emotional responses controlled cognitive processes citation
+MISC--: there also growing evidence stress affects decision making neuropsychological tasks citation moral decision making citation
+MISC--: given moral dilemmas experienced outside laboratory elicit stress responses themselves citation seems reasonable investigate more thoroughly how moral decisions influenced different types stress
+MISC--: moral decision making experimental laboratory studies frequently assessed moral dilemmas trolley problem modified versions
+MISC--: trolley problem subdivided into switch dilemma footbridge dilemma
+MISC--: switch dilemma people judge whether morally acceptable divert runaway trolley onto side track where will kill only one person whereas five other people being saved
+MISC--: footbridge dilemma only way save five people runaway trolley push someone off footbridge onto railway will stop trolley but will inevitably kill person being pushed
+MISC--: decision sacrifice one person order save lives group people called utilitarian because maximizes overall benefit amongst all individuals involved
+MISC--: according several authors citation utilitarian judgments particularly related controlled cognitive processes whereas non utilitarian judgments particularly related automatic emotional responses
+MISC--: most people deliver utilitarian judgment switch dilemma but not footbridge dilemma because footbridge dilemma perceived emotionally more aversive entails high personal involvement
+MISC--: dilemmas footbridge dilemma termed personal because agent take direct action pushing individual off bridge dilemmas switch dilemma existing threat deflected agent termed impersonal
+MISC--: response latencies making decision differ respect kind dilemma kind choice personal dilemmas participants typically need longer make utilitarian judgment than non utilitarian judgment
+MISC--: results emphasize conflict between spontaneous emotional decisions not direct agent someone s death deliberative utilitarian judgment maximizing overall profit citation
+MISC--: mentioned before moral dilemmas elicit stress responses citation
+MISC--: but then there also evidence stress affects simple non moral decision making measured neuropsychological gambling tasks iowa gambling task citation game dice task citation
+MISC--: task performance based emotional learning processes processing feedback gains losses previous trials strategy application calculating most advantageous decisions
+MISC--: stress related decision making leads disadvantageous results long run individual stress responses related disadvantageous decisions citation
+MISC--: recent study investigated moral decisions after exposure well known psychosocial stress task youssef et al press using cortisol measures stress indicator
+MISC--: participants were either exposed trier social stress test citation participants deliver speech solve arithmetic task front committee control condition
+MISC--: subsequently they responded subset aforementioned moral dilemmas developed greene et al citation were either personal impersonal each offering utilitarian non utilitarian decision alternative
+MISC--: youssef et al found participants exposed stress made fewer utilitarian judgments personal dilemmas individual stress response was negatively related number utilitarian judgments
+MISC--: they concluded stress inhibited cognitive control processes necessary making utilitarian judgments
+MISC--: based this theoretical empirical background current study aimed replicate generalize significant findings youssef et al different kind stressor i e cover story anticipated speech citation different kind stress measurement i e heart rate
+MISC--: both heart rate cortisol levels established stress indicators heart rate associated fast reacting neural path also referred sympathetic adrenomedullary system citation cortisol reactions associated slower hypothalamus pituitary adrenal axis citation
+MISC--: trier social stress test been shown activate both systems citation anticipated speech been shown activate sympathetic adrenomedullary system lesser degree hypothalamus pituitary adrenal axis too citation
+MISC--: our study was created generalize results yielded youssef et al different methods

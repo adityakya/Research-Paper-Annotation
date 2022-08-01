@@ -1,0 +1,27 @@
+AIMX--: we show how models prediction expert advice defined concisely clearly using hidden markov models hmms standard hmm algorithms then used efficiently calculate among other things how expert predictions should weighted according model
+OWNX--: we cast many existing models hmms recover best known running times each case
+AIMX--: we also describe two new models switch distribution was recently developed improve bayesian minimum description length model selection new generalisation fixed share algorithm based run length coding
+OWNX--: we give loss bounds all models shed new light their relationships
+OWNX--: we cannot predict exactly how complicated processes weather stock market social interactions so will develop into future
+MISC--: nevertheless people do make weather forecasts buy shares all time
+MISC--: predictions based formal models human expertise intuition
+MISC--: investment company may even want choose between portfolios basis combination kinds predictors
+MISC--: scenarios predictors typically cannot considered true
+OWNX--: thus we may well end up position where we whole collection prediction strategies experts each whom some insight into some aspects process interest
+MISC--: we address question how given set experts combined into single predictive strategy good if possible even better than best individual expert
+MISC--: setup follows
+MISC--: let symbol finite set experts
+MISC--: each expert symbol issues distribution symbol next outcome symbol given previous observations symbol
+MISC--: here each outcome symbol element some countable space symbol random variables written bold face
+MISC--: probability expert assigns sequence outcomes given chain rule symbol
+OWNX--: standard bayesian approach combine expert predictions define prior symbol experts symbol induces joint distribution mass function symbol
+MISC--: inference then based this joint distribution
+MISC--: we compute example marginal probability data symbol b predictive distribution next outcome symbol defines prediction strategy combines those individual experts c posterior distribution experts symbol tells us how experts predictions should weighted
+CONT--: this simple probabilistic approach advantage computationally easy predicting symbol outcomes using symbol experts requires only symbol time
+MISC--: additionally this bayesian strategy guarantees overall probability data only factor symbol smaller than probability data according best available expert symbol
+OWNX--: flip side this strategy we never do any better than symbol either we symbol means potentially valuable insights other experts not used our advantage
+MISC--: more sophisticated combinations prediction strategies found literature under various headings including bayesian statistics source coding universal prediction
+MISC--: latter experts predictions not necessarily probabilistic scored using arbitrary loss function
+OWNX--: this paper we consider only logarithmic loss although our results undoubtedly generalised framework described eg citation
+AIMX--: we introduce hmms intuitive graphical language allows unified description existing new models
+MISC--: additionally running time evaluation models read off directly size their representation

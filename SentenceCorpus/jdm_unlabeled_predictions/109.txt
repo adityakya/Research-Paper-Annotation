@@ -1,0 +1,96 @@
+OWNX--: we employed simple gambles investigate information processing relation compatibility effect
+MISC--: subjects should more likely engage deliberative thinking strategy when completing pricing task rather than rating task
+OWNX--: we used eye tracking methodology measure information acquisition processing order test above hypothesis well show losses alternatives uncertain outcomes more likely than gains alternatives sure outcomes processed through deliberative thinking process
+OWNX--: results showed pupil dilations fixation duration number fixations increased when subjects evaluated gambles pricing task
+MISC--: additionally number fixations increased gamble outcome became increasingly negative when outcome was uncertain vs sure
+MISC--: fixations were also predictive subjects final evaluations gambles
+OWNX--: we discuss our results light cognitive processes underlying different response modes economic preferences
+MISC--: both psychologists economists traditionally been interested understanding how people make decisions under uncertainty how they deal economic risks
+MISC--: however whereas latter conventionally been more concerned delineating conditions under decisions follow rational norms expectations citation psychologists focused analyzing cognitive processes underlying decisions preferences citation
+MISC--: early laboratory study showed people pay more selective attention probabilities payoffs depending response mode presented task citation
+MISC--: instance when asked specify price sell simple gamble offering probability p win amount x individuals more likely base their judgment gamble payoff x
+MISC--: however when people asked make choice between two more gambles they more likely base decision probability p obtaining positive outcome
+MISC--: subsequent research lichtenstein slovic citation demonstrated both laboratory las vegas casino particular set paired gambles possible reverse people s preferences simply asking them choose among gambles set price each them
+OWNX--: each pair gambles included one gamble offered large payoff but low probability labeled bet another gamble offered small payoff but high probability labeled p bet
+OWNX--: this way was possible assess dimension was more influential each task determine whether their effects people s preferences were big enough induce preference reversals
+MISC--: consistent above reasoning results showed many people chose p bet because offered highest chance win but then placed higher selling price bet offered possibility winning larger amount money
+MISC--: research preference reversals suggests this phenomenon mainly induced overpricing bet pricing condition when this gamble offers larger payoff compared p bet citation
+MISC--: this result been replicated many times citation no doubt because offers particular challenge economic theories choice assume stable preferences
+MISC--: several explanations been suggested account preference reversals like citation compatibility effect probably most prominent citation
+MISC--: compatibility effects between task response been shown several research domains cognitive psychology citation
+OWNX--: tversky sattath slovic citation suggested similar explanation account different degree attention given specific attributes depending method used elicit preferences
+MISC--: particular authors postulated when attributes compatible response scale they assigned greater weight because they most easily mapped onto response
+OWNX--: instance when subjects asked set price gamble this task compatible information about gamble payoff also expressed monetary values e g dollars
+MISC--: conversely when task requires choice payoff information not easily mapped onto response anymore loses some its salience
+MISC--: fact slovic griffin tversky citation could show using non monetary outcomes attenuates preference reversals when no compatibility between pricing task outcome attribute was possible
+MISC--: assumption compatibility effect response modes compatible specific characteristics options e g payoffs draw attention them
+MISC--: attentional deployment characteristics turn increases weight given them construction preferences citation
+MISC--: research attentional processes underlying choices preference reversals supports role attention compatibility effect citation
+MISC--: using mouselab computer based process tracing system schkade johnson were able force subjects view components each gamble sequentially one at time
+MISC--: results showed percentage time spent looking at payoffs was significantly greater pricing task than rating task therefore supporting hypothesis people attend information differently depending answer they required provide
+OWNX--: process tracing methodology used schkade johnson allowed them considerably improve understanding processes behind compatibility effect
+MISC--: ratings attractiveness required less time than generation price
+MISC--: additionally pricing task information search pattern was significantly more dimensional than ratings task transitions between two outcomes two probabilities within same gamble opposed transitions between payoff its probability
+MISC--: finally there were differences how people generated their answers two tasks
+MISC--: when generating price subjects spent one third time adjusting their evaluation response scale whereas rating task they spent same amount time generate response but adjusted position pointer scale less often
+OWNX--: based this seminal work recent application physiological measures study thinking decision making we aimed extend understanding compatibility effect measuring people s information processing way eye tracking methodology citation
+MISC--: several complementary methodologies study information processing physiological perspective recently proven useful investigate how people make decisions including event related potentials citation fmri citation
+MISC--: physiological measures also been applied investigate intuitive deliberative thinking systems
+MISC--: instance using skin conductance responses scrs was shown intuitive processes faster than deliberative i e conscious processes decisions based experience citation
+MISC--: furthermore horstmann ahlgrimm glockner citation used eye tracking methodology analyze people s information processing when instructed decide deliberatively intuitively
+MISC--: although their findings illustrated instructing decision modes may not result qualitatively different information processing deciding deliberatively was related higher number fixations more complete information search more repeated information inspections
+AIMX--: current paper we assess physiological attentional eye tracking measures allow natural acquisition information citation while extending schkade johnson s citation results information processing underlying compatibility effect
+OWNX--: specifically our goal show number compatibility effects also present when using simple gambles both gain frame loss frame number we intended draw connection between compatibility effect dual process theories citation
+MISC--: we hypothesized different processes activated task compatible characteristics alternative could exert their effect leading decision makers rely either more deliberative more automatic thinking strategies
+MISC--: particular setting price seems entail more fine tuned adjustments once initial evaluation established
+MISC--: this dynamic adjustments could hint at deliberative type processing activated search most advantageous balance between costs price paid benefits amount possible gain
+OWNX--: deliberative processing we mean strategy characterized conscious detailed evaluation pros cons specific gamble
+MISC--: contrast holistic strategy based more general less detailed less conscious evaluation gamble
+OWNX--: therefore we test hypothesis pricing task requires more deliberative information processing conscious process comparison between different pieces information
+OWNX--: this reasoning consistent fact ratings attractiveness also used measure affective reactions citation should more influenced intuitive thinking strategy
+MISC--: specifying price other hand should mainly based conscious effort setting correct price
+MISC--: thus we expect people exert more cognitive effort deliberation when they asked set price rather than rate gamble s attractiveness
+MISC--: measure cognitive effort we will use overall eye fixation count how many times subjects look at information about gamble s outcomes their associated probabilities
+MISC--: hypothesis number subjects should exert more cognitive effort terms eye fixation count when providing price than when providing ratings attractiveness since pricing task should activate more deliberative thinking strategy than rating task
+MISC--: hypothesis number b subjects should give payoff information more weight than respective probabilities when providing price than when providing ratings attractiveness
+MISC--: other words subjects should fixate prices more often than respective probabilities when providing price than when providing ratings attractiveness
+OWNX--: we also expect find set additional results based type alternatives simple gambles we employ our study
+MISC--: instance subjects should exert more cognitive effort when amount lost increases comparison increase amount won
+MISC--: this consistent research effects gain vs loss framing cognitive processes demonstrated people exhibit more thorough evaluations more effortful cognitive analysis when faced potential losses citation
+MISC--: additionally research loss aversion shows losses loom larger than gains citation typically carry more weight decisions
+MISC--: subjects should more careful judging loss than gain whose relevance psychologically less intense
+MISC--: this hypothesis also consistent previous literature describing negativity bias citation
+MISC--: baumeister et al concluded adaptive individuals mobilize their attention resources toward negative information
+MISC--: we believe losses induce people anticipate stronger affective reactions than gains therefore causing them pay more attention evaluate them more carefully
+MISC--: this line previous work demonstrating emotions drive attentional processes citation
+MISC--: hypothesis number subjects should exert more cognitive effort terms eye fixation count outcome becomes increasingly negative
+MISC--: addition different cognitive processes gains losses we also examine alternatives uncertain outcomes alternatives sure outcomes
+MISC--: previous research demonstrated sure outcomes special status people s mind
+MISC--: kahneman tversky citation described what they called certainty effect whereby individuals overweigh sure outcomes compared uncertain ones
+OWNX--: starting this evidence we hypothesized people should process alternatives sure outcomes alternatives uncertain outcomes differently
+MISC--: particular subjects should exhibit more deliberative processing characteristics e g fixate more information when presented uncertain outcome rather than sure one since uncertainty should make more difficult attach specific value gamble
+MISC--: alternatives whose outcomes impossible attain should processed more easily less effort than alternatives whose outcomes very unlikely but not impossible
+MISC--: again subjects should exhibit more deliberative processing characteristics when they evaluate alternative whose outcomes almost impossible because uncertainty makes its value harder judge
+MISC--: therefore current study will provide additional evidence about processes behind certainty effect citation extend findings lower end probability scale
+MISC--: hypothesis number more information should attended terms overall eye fixation count when subjects evaluate alternatives uncertain outcomes e g number percent chance either gain lose rather than alternatives sure outcomes number percent because uncertainty should contribute making alternative s overall value more difficult judge
+MISC--: hypothesis number b similarly evaluation alternatives offering impossible outcome number percent should induce subjects attend less information terms overall fixation count than evaluation alternatives offering outcomes almost impossible e g number percent chance either gain lose
+OWNX--: finally besides effects different tasks cognitive effort attentional mechanisms we also expect find evidence compatibility effect behavioral data i e evaluation gambles
+MISC--: demonstrated prior research citation valuations should more influenced changes outcome value i e amounts won lost when valuations form price
+MISC--: conversely valuations should more influenced changes outcome percentage i e chances winning losing when valuations form attractiveness rating
+MISC--: additionally cognitive processes activated different tasks i e pricing versus rating different types outcomes sure versus uncertain should also affect how alternatives evaluated
+MISC--: if people attend more payoffs wtp task then they should less sensitive difference between sure uncertain outcomes since less attention deployed processing probabilities
+MISC--: however diminished sensitivity difference between sure uncertain outcomes should not arise rating task since this case people do not attend more payoffs than probabilities
+OWNX--: therefore we expect find difference between sure uncertain outcomes when subjects asked rate their attractiveness whereas no difference should arise when subjects asked set price
+OWNX--: we derive this hypothesis directly compatibility effect
+MISC--: since response mode effect piece information weighed more highly people s appreciation difference between alternatives sure uncertain outcomes should depend method used elicit preferences
+MISC--: instance even when chances win lose very close e g number percent vs number percent number percent vs number percent difference between certainty uncertainty still make substantial difference way people perceive alternatives
+MISC--: because compatibility effect difference should more relevant when subjects provide ratings attractiveness rather than when they specify price
+OWNX--: we hypothesized people should provide higher attractiveness ratings number percent gain compared number percent gain number percent gain compared number percent gain
+OWNX--: similarly subjects should provide higher attractiveness ratings number percent loss compared number percent loss number percent loss compared number percent loss
+MISC--: however subjects should set similar prices number percent number percent alternatives also number percent number percent ones
+OWNX--: hypothesis number according compatibility effect we expect valuations gambles more influenced gambles outcomes when valuations consist prices vs attractiveness ratings
+MISC--: hypothesis number b since rating pricing should induce people attend outcomes differently alternatives sure uncertain outcomes will evaluated differently when people asked rate attractiveness but not when they asked set price
+AIMX--: summary main goal this study apply eye tracking methodology investigation compatibility effect well extend analysis this effect linking dual process theories decision making citation
+OWNX--: further we hypothesize subjects should exert more cognitive effort increasing losses hypothesis number
+MISC--: people should also attend more information when evaluating alternatives uncertain outcomes number percent rather than alternatives sure outcomes number percent hypothesis number
+MISC--: similarly they should attend less information when evaluating alternatives impossible outcomes number percent rather than alternatives almost impossible outcomes number percent hypothesis number b

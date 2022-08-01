@@ -1,0 +1,39 @@
+AIMX--: this paper we used general stochastic processes framework derive first principles incidence rate function characterizes epidemic models
+OWNX--: we investigate particular case liu hethcote van den driessche s incidence rate function results modeling number successful transmission encounters pure birth process
+MISC--: this derivation also takes into account heterogeneity population regard per individual transmission probability
+OWNX--: we adjusted deterministic sirs model both classical lhd incidence rate functions time series number children infected syncytial respiratory virus banjul gambia turku finland
+OWNX--: we also adjusted deterministic seir model both incidence rate functions famous measles data sets uk cities london birmingham
+MISC--: two lines evidence supported our conclusion model lhd incidence rate may very well better description seasonal epidemic processes studied here
+OWNX--: first our model was repeatedly selected best according two different information criteria two different likelihood formulations
+MISC--: second line evidence qualitative nature contrary what sirs model classical incidence rate predicts solution deterministic sirs model lhd incidence rate will reach either disease free equilibrium endemic equilibrium depending initial conditions
+MISC--: findings along computer intensive simulations models poincar map environmental stochasticity contributed attain clear separation roles environmental forcing mechanics disease transmission shaping seasonal epidemics dynamics
+MISC--: plethora deterministic epidemic models involving susceptible formula infected formula recovered formula individuals been proposed citation citation carefully analyzed citation citation confronted data sets biomathematics ecology literatures citation citation
+MISC--: well defined topic within this mathematical ecology research area study formula type models seasonal forcing citation citation
+MISC--: models proved useful understanding observed patterns natural processes behind human non human epidemics citation citation
+AIMX--: here we restrict our attention formula formula models we introduce seasonal forcing while varying structural form incidence rates
+OWNX--: two hypotheses pertaining rsv measles transmission mechanisms were modeled two simple functional forms incidence rates
+OWNX--: we show doing so we able attain clear separation roles environmental forcing mechanics disease transmission shaping epidemics dynamics
+OWNX--: construction deterministic incidence rates functions critical building block epidemiological modeling
+MISC--: seminal paper hethcote citation showed because there many choices form incidence demographic structure epidemiological demographic interactions there really plethora incidence rate functional forms choose
+MISC--: not surprisingly biomathematics literature abound qualitative mathematical analyses many functional forms citation citation
+MISC--: however biological first principles derivations incidence rate functional forms not too common
+AIMX--: we show this study using first principles derivations greatly enrich reaches practice confronting models data while testing biological hypotheses
+OWNX--: thus despite big amount available functional incidence rates forms citation we believe set models chosen confronted data should restricted those forms derivable first principles
+AIMX--: illustrate this argument this study we first show simple probabilistic setting wherein infectious encounters modeled pure birth stochastic process leads general nonlinear incidence form proposed previously liu citation later analyzed hethcote van den driessche citation
+MISC--: lhd incidence rate leads models qualitatively different dynamics compared ones obtained using classical incidence rate
+MISC--: sirs model either incidence rate seasonal forcing formula becomes periodic function time trajectory formula pursuits moving target thus giving rise limit cycles
+OWNX--: moving target former endemic equilibrium bounces back forth between two points
+MISC--: either model target switches between moving point disease free equilibrium when formula crosses giving rise period doubling bifurcation
+OWNX--: sirs model classical incidence rate this mechanism does not depend initial conditions
+AIMX--: this work we show disease free equilibrium unconditionally attractor sirs model lhd incidence rate
+MISC--: this leads scenario where two regions attraction coexist
+MISC--: trajectory formula will either reach disease free equilibrium periodic solutions depending initial conditions
+OWNX--: furthermore after carrying formal model selection we show sirs model lhd incidence rate leads significant fit improvement over classical sirs model same seasonal forcing
+OWNX--: finally we compared applicability generality classical lhd incidence rates functions fitting them two measles time series data sets
+MISC--: using later function leads vast improvement model fit both cases
+OWNX--: since we were fitting deterministic seir model we chose use data two largest cities measles data set where effects demographic stochasticity expected less influential dynamics epidemics citation
+MISC--: varying form contact rate function while including environmental stochasticity sirs seir models leads better understanding dynamics infectious disease transmission
+MISC--: depending model contact rate disease free equilibrium either saddle point attractor
+MISC--: first case if trajectory located originally basin attraction endemic equilibrium basin attraction perturbed environmental noise may transiently visit dfe stable submanifold then return ee basin attraction
+MISC--: if however dfe ee coexist stable equilibria trajectory initially at ee basin attraction may end up dfe basin attraction
+MISC--: interaction between stochasticity different contact rate models was studied using computer intensive simulations poincar map citation

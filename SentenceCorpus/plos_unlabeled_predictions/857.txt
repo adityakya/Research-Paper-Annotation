@@ -1,0 +1,75 @@
+MISC--: trp cage designed residue polypeptide spite its size shares several features larger globular proteins
+CONT--: although system been intensively investigated experimentally theoretically its folding mechanism not yet fully understood
+MISC--: indeed some experiments suggest two state behavior while others point presence intermediates
+OWNX--: this work we show results bias exchange metadynamics simulation used constructing detailed thermodynamic kinetic model system
+MISC--: model although constructed biased simulation quality similar those extracted analysis long unbiased molecular dynamics trajectories
+MISC--: this demonstrated careful benchmark approach smaller system solvated ace ala nme peptide
+MISC--: trp cage folding model predicts relaxation time ns observed experimentally due presence compact molten globule like conformation
+OWNX--: this state occupancy only percent at k but acts kinetic trap
+MISC--: instead non compact structures relax folded state sub microsecond timescale
+MISC--: model also predicts presence state at formula nmr structure trp strongly interacts pro
+MISC--: this state explain abnormal temperature dependence formula formula chemical shifts
+MISC--: structures two most stable misfolded intermediates agreement nmr experiments unfolded protein
+BASE--: our work shows using biased molecular dynamics trajectories possible construct model describing detail trp cage folding kinetics thermodynamics agreement experimental data
+MISC--: understanding protein folding thermodynamics kinetics central issue molecular biology citation citation computer aided modeling becoming increasingly useful also this field
+MISC--: direct comparison between simulations experiments requires both accurate description system possibility sample extensively configuration space
+MISC--: order observe folding molecular dynamics necessary use very large computers citation citation worldwide distributed computing citation enhanced sampling technique citation citation
+MISC--: system almost ideal theoretical investigation trp cage citation designed residue miniprotein folds rapidly citation spontaneously globular structure
+MISC--: nmr structure citation reveals compact hydrophobic core trp side chain buried
+MISC--: secondary structure elements include short formula helix polyproline ii helix at c terminus
+MISC--: folding mechanism this system been studied several experimental techniques
+MISC--: calorimetry circular dichroism spectroscopy citation fluorescence citation show cooperative two state folding behavior transition midpoint at approximately k relaxation time s at k citation
+MISC--: uv resonance raman citation reveals more complex unfolding behavior presence compact intermediate retains formula character hydrophobic core even more compact
+MISC--: nmr experiments citation citation show substantially cooperative thermal unfolding but large negative chemical shift deviations formula formula suggest those residues might pack more tightly temperature raised
+MISC--: also fluorescence correlation spectroscopy experiments cannot interpreted terms simple two state folding formation molten globule like intermediate been proposed citation
+MISC--: atomistic modeling trp cage folding been studied using several different approaches citation citation
+MISC--: particular all atom explicit solvent description folding trp cage been studied replica exchange molecular dynamics citation citation
+MISC--: starting extended configuration structure formula root mean square deviation nmr reference structure obtained after ns simulation replicas citation
+OWNX--: relatively high melting temperature k predicted
+MISC--: other studies suggested even if trp cage rather small system achieving statistical convergence remd simulation may require much longer simulation times citation citation
+MISC--: kinetics trp cage folding was studied explicit solvent transition path sampling citation transition interface sampling citation
+MISC--: folding trp cage was also investigated two us using bias exchange metadynamics approach citation metadynamics potentials acting different collective variables exchanged among molecular dynamics simulations performed at same temperature
+OWNX--: using this method possible explore simultaneously virtually unlimited number cvs
+CONT--: since all md simulations performed at same temperature number replicas does not grow system size like remd approach ref
+MISC--: citation
+MISC--: using was possible reversibly fold trp cage citation villin headpiece advillin headpiece together two their mutants citation insulin chain b citation using explicit solvent force field less than nanoseconds simulation only eight replicas
+OWNX--: recently this method was also used exploring mechanism enzyme reactions citation
+MISC--: atomistic simulations biological systems after exhaustive exploration achieved necessary extract trajectory relevant metastable conformations assign their occupation probability compute rates transitions among them
+MISC--: several methods been developed this scope citation citation
+MISC--: methods big advantage reducing complex dynamics high dimensional configuration space markov process describing transitions among finite number metastable states
+MISC--: they suitable analyzing ergodic molecular dynamics trajectory but they cannot straightforwardly applied if system evolved under action external bias
+AIMX--: this paper we present method allows exploiting statistics accumulated bias exchange metadynamics run citation constructing detailed kinetic thermodynamic model complex process trp cage folding
+MISC--: approach presented here aims at extracting same information simulation one obtain analysis long ergodic md run several shorter runs citation citation
+MISC--: method relies projection trajectory space defined set variables assumed describe relevant physics system
+MISC--: variables not necessarily ones used simulation chosen formula
+MISC--: once cvs selected rate model constructed following three steps
+MISC--: cluster analysis performed trajectories possibly extended cv space assigning each configuration explored during biased dynamics reference structure close cv space
+MISC--: next equilibrium population each bin calculated simulations using weighted histogram analysis method citation exploiting metadynamics bias potentials
+MISC--: finally kinetic model constructed assigning rates transitions among bins
+MISC--: transition rates assumed form introduced ref
+MISC--: citation namely depend exponentially free energy difference between bins prefactor determined diffusion matrix formula bins relative position
+MISC--: only free parameter model formula free energies already assigned
+OWNX--: following ref
+MISC--: citation formula estimated maximizing likelihood unbiased md trajectory
+CONT--: model constructed this manner designed optimally reproduce long time scale dynamics system
+OWNX--: used example characterizing metastable misfolded intermediates folding process
+MISC--: advantage using biased trajectories besides acceleration slow transitions greatly enhanced accuracy estimated free energy at transition state regions
+OWNX--: this approach first illustrated ace ala nme peptide
+OWNX--: this system simple enough allow benchmarking results against long standard md simulation
+OWNX--: this system model capable reproducing excellent accuracy kinetics thermodynamics observed unbiased run
+MISC--: same approach then applied trp cage miniprotein
+MISC--: model built allows describing folding process computing folding rates nmr spectra simulating t jump experiment etc scenario emerges good agreement available experimental data
+MISC--: kinetic monte carlo citation citation markov cluster analysis citation citation several metastable sets identified
+MISC--: states except folded cluster considered misfolded intermediates folding process
+OWNX--: at k two main clusters present population percent percent respectively
+MISC--: most populated folded state its structural properties very close nmr ensemble
+MISC--: second most populated cluster retains significant amount secondary structure but formula native state approximately
+OWNX--: this cluster trp trapped hydrophobic pocket its distance pro gly reduced
+MISC--: presence this cluster thermal ensemble system explain some anomalies temperature behavior observed nmr citation uv raman citation experiments
+MISC--: structures most populated misfolded intermediates good agreement unfolded states distances reported ref
+MISC--: citation
+MISC--: using kinetic model fluorescence t jump experiment also simulated
+MISC--: agreement experimental results citation relaxation time s found
+MISC--: this time primarily determined relaxation towards folded state compact molten globule like structure acts kinetic trap
+MISC--: relaxation times among all other clusters including transitions between fully unstructured states folded state all sub microsecond time domain
+MISC--: thus surprisingly relaxation time measured fluorescence may not directly related folding transition if one calls folding transition random coil native state

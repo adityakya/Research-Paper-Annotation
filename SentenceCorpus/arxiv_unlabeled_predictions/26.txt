@@ -1,0 +1,50 @@
+MISC--: probabilistic grammatical inference usual goal infer good approximation unknown distribution symbol called stochastic language
+MISC--: estimate symbol stands some class probabilistic models probabilistic automata pa
+AIMX--: this paper we focus probabilistic models based multiplicity automata ma
+MISC--: stochastic languages generated ma called rational stochastic languages they strictly include stochastic languages generated pa they also admit very concise canonical representation
+CONT--: despite fact this class not recursively enumerable efficiently identifiable limit using algorithm dees introduced authors previous paper
+MISC--: however identification not proper before convergence algorithm dees produce ma do not define stochastic languages
+MISC--: nevertheless possible use ma define stochastic languages
+AIMX--: we show they belong broader class rational series we call pseudo stochastic rational languages
+OWNX--: aim this paper twofold
+OWNX--: first we provide theoretical study pseudo stochastic rational languages languages output dees showing example this class decidable within polynomial time
+OWNX--: second we carried out lot experiments order compare dees classical inference algorithms alergia mdi
+MISC--: they show dees outperforms them most cases keywords pseudo stochastic rational languages multiplicity automata probabilistic grammatical inference
+OWNX--: probabilistic grammatical inference we often consider stochastic languages define distributions over symbol set all possible words over alphabet symbol
+OWNX--: general we consider unknown distribution symbol goal find good approximation given finite sample words independently drawn symbol
+MISC--: class probabilistic automata pa often used modeling distributions
+MISC--: this class same expressiveness hidden markov models identifiable limit citation
+CONT--: however there exists no efficient algorithm identifying pa
+CONT--: this explained fact there exists no canonical representation automata makes difficult correctly identify structure target
+MISC--: one solution focus subclasses pa probabilistic deterministic automata citation but important lack expressiveness
+MISC--: another solution consists considering class multiplicity automata ma
+MISC--: models admit canonical representation offers good opportunities machine learning point view
+OWNX--: ma define functions compute rational series values symbol citation
+MISC--: ma strict generalization pa stochastic languages generated pa special cases rational stochastic languages
+MISC--: let us denote symbol class rational stochastic languages computed ma parameters symbol where symbol
+MISC--: symbol symbol symbol exactly class stochastic languages generated pa parameters symbol
+OWNX--: but when symbol symbol we obtain strictly greater classes
+BASE--: this provides several advantages elements symbol minimal normal representation thus elements symbol may significantly smaller representation symbol parameters minimal representations directly related probabilities some natural events form symbol efficiently estimated stochastic samples lastly when symbol field rational series over symbol form vector space efficient linear algebra techniques used deal rational stochastic languages
+MISC--: however class symbol presents serious drawback there exists no recursively enumerable subset class ma exactly generates citation
+MISC--: consequence no proper identification algorithm exist indeed applying proper identification algorithm enumeration samples symbol would provide enumeration class rational stochastic languages over symbol
+MISC--: spite this result there exists efficient algorithm dees able identify symbol limit
+MISC--: but before reaching target dees produce ma do not define stochastic languages
+MISC--: however been shown citation probability one any rational stochastic language symbol if dees given input sufficiently large sample symbol drawn according symbol dees outputs rational series symbol converges absolutely
+MISC--: moreover symbol converges size symbol increases
+AIMX--: we show ma belong broader class rational series we call pseudo stochastic rational languages
+MISC--: pseudo stochastic rational language symbol property symbol defined any word symbol symbol
+MISC--: stochastic language symbol associated symbol way symbol when sum symbol absolutely convergent
+MISC--: first consequence symbol when symbol stochastic language
+MISC--: second consequence any rational stochastic language symbol if dees given input increasing samples drawn according symbol dees outputs pseudo stochastic rational languages symbol symbol converges size symbol increases
+AIMX--: aim this paper twofold provide theoretical study class pseudo stochastic rational languages series experiments order compare performance dees two classical inference algorithms alergia citation mdi citation
+AIMX--: we show class pseudo stochastic rational languages decidable within polynomial time
+OWNX--: we provide algorithm used compute symbol any ma computes symbol
+OWNX--: we also show how possible simulate symbol using automaton
+OWNX--: we show there exist pseudo stochastic rational languages symbol symbol not rational
+AIMX--: finally we show undecidable whether two pseudo stochastic rational languages define same stochastic language
+OWNX--: we carried out lot experiments show dees outperforms alergia mdi most cases
+OWNX--: results were expected since alergia mdi not same theoretical expressiveness since dees aims at producing minimal representation target set ma significantly smaller than smaller equivalent pda if exists
+AIMX--: paper organized follows
+OWNX--: section we introduce some background about multiplicity automata rational series stochastic languages present algorithm dees
+OWNX--: section deals our study pseudo rational stochastic languages
+OWNX--: our experiments detailed section

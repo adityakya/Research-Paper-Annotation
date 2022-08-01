@@ -1,0 +1,58 @@
+OWNX--: we propose novel model nonlinear dimension reduction motivated probabilistic formulation principal component analysis
+MISC--: nonlinearity achieved specifying different transformation matrices at different locations latent space smoothing transformation using markov random field type prior
+MISC--: computation made feasible recent advances sampling von mises fisher distributions
+MISC--: parstart p rincipal component analysis pca old statistical technique unsupervised dimension reduction
+MISC--: often used exploratory data analysis objective understanding structure data
+OWNX--: pca aims represent high dimensional data points low dimensional representers commonly called latent variables used visualization data compression etc
+MISC--: sometimes pca also used preprocessing step before regression citation clustering citation
+MISC--: context however pca typically does not satisfying performance due ignorance subsequent analysis
+OWNX--: we denote original high dimensional data symbol where symbol
+OWNX--: note superscript symbol used denote transposition so symbol column vector
+OWNX--: we assume data already centered so symbol
+MISC--: one common definition pca taking linear combination components symbol symbol where symbol weighting coefficient symbol th covariate
+MISC--: this written symbol where symbol
+OWNX--: we take symbol so represents projection onto linear subspace spanned symbol
+MISC--: given symbol symbol optimal linear reconstruction symbol given symbol
+OWNX--: we want symbol good representation original symbol
+OWNX--: thus we aim minimize symbol
+MISC--: shown minimizing symbol eigenvector symbol associated its largest eigenvalue called first principal component denoted symbol
+OWNX--: similarly we define symbol principal components symbol minimizer respect symbol total squared reconstruction error symbol where symbol symbol symbol projection symbol onto subspace spanned columns symbol principal components
+MISC--: pca linear procedure since reconstruction based linear combination principal components
+MISC--: several nonlinear extensions been proposed
+MISC--: most famous one statistical literature principal curves proposed citation
+MISC--: principal curve defined curve each point curve center all data points whose projection onto curve point
+MISC--: thus visually principal curve defined curve passes through middle data points
+CONT--: although conceptually appealing computational constraint makes difficult extend this approach higher dimensions
+MISC--: other approaches including neural networks citation kernel embedding citation generative topographic mapping citation been proposed
+MISC--: absence probabilistic models traditional pca motivated probabilistic pca ppca approach adopted citation
+MISC--: advantage probabilistic modeling multifold including providing mechanism density modeling determination degree novelty new data point naturally incorporating incomplete observations
+MISC--: citation generative model defined through observation equation symbol stated linear relationship between latent variable data points symbol symbol matrix not constrained orthogonal columns priori symbol iid
+MISC--: noises symbol
+OWNX--: note we assume data already centered otherwise observation model should changed symbol shift parameter symbol
+OWNX--: ppca we put zero mean unit covariance gaussian prior symbol likelihood maximized over symbol after marginalizing over symbol symbol shown when noise level symbol goes zero maximum likelihood estimator symbol will converge symbol where matrix symbol symbol comes singular value decomposition symbol
+MISC--: thus ppca natural extension traditional pca
+MISC--: citation extends ppca mixture ppca used model nonlinear structure data
+MISC--: ppca after marginalizing over symbol distribution symbol becomes symbol if data not centered
+MISC--: mixture ppca models marginal distribution symbol symbol mixture symbol components each component observation model symbol if symbol th observation comes symbol th mixture component
+MISC--: thus mixture ppca each mixture component defined different linear transformation while clustering defined original symbol dimensional space
+MISC--: marginalization over symbol still same using unit covariance gaussian distribution
+MISC--: maximization over symbol symbol performed using em algorithm taking mixture indicators missing data
+MISC--: experiments citation showed this model wide applicability
+OWNX--: we also note when using symbol reconstruct data point symbol we must also store mixture component responsible generating symbol more preferably posterior responsibility each mixture symbol th observation
+MISC--: this piece information cannot recovered latent variable symbol alone
+MISC--: another approach probabilistic nonlinear pca based gaussian processes been proposed citation
+MISC--: starts same observation model but instead marginalizing over symbol marginalizes over symbol putting independent spherical gaussian prior symbol columns symbol resulting marginal distribution symbol where symbol symbol th column symbol symbol symbol matrix latent variables
+OWNX--: author noticed one replace symbol another kernel matrix achieve nonlinearity
+OWNX--: conceptually this regarded multivariate nonparametric regression problem symbol symbol unknown need found optimization likelihood
+CONT--: computational complexity gaussian process approach cubic number data points symbol although approximation algorithm designed reduce complexity
+AIMX--: this contribution we propose novel bayesian approach nonlinear pca puts priors both symbol symbol
+MISC--: model based observation model similar but two differences
+OWNX--: first linear transformation defined through orthonormal matrix symbol instead symbol roughly corresponds symbol ppca
+MISC--: second linear transformation symbol our model dependent corresponding latent variable
+MISC--: linear transformations different parts latent space related putting markov random field prior over space orthonormal matrices makes model identifiable
+MISC--: model estimated gibbs sampling explores posterior distribution both latent space transformation space
+MISC--: computational burden each iteration gibbs sampling square number data points
+OWNX--: rest paper organized follows next section we present baysian model discuss gibbs sampling estimation procedure
+OWNX--: since we think readers might not familiar von mises fisher distribution some background material also provided
+OWNX--: some experiments carried out section using both simulated manifold data handwritten digits data
+OWNX--: we conclude section some thoughts possible extensions model

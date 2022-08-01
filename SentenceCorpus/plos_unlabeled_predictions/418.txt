@@ -1,0 +1,50 @@
+OWNX--: previous modeling studies identified vaccination coverage level necessary preventing influenza epidemics but not shown whether this critical coverage reached
+OWNX--: here we use computational modeling determine first time whether critical coverage influenza achieved voluntary vaccination
+MISC--: we construct novel individual level model human cognition behavior individuals characterized two biological attributes they use when making vaccination decisions
+OWNX--: we couple this model population level model influenza includes vaccination dynamics
+MISC--: coupled models allow individual level decisions influence influenza epidemiology conversely influenza epidemiology influence individual level decisions
+OWNX--: including effects adaptive decision making within epidemic model we reproduce two essential characteristics influenza epidemiology annual variation epidemic severity sporadic occurrence severe epidemics
+OWNX--: we suggest individual level adaptive decision making may important causal factor driving influenza epidemiology
+OWNX--: we find severe epidemics cannot prevented unless vaccination programs offer incentives
+MISC--: frequency severe epidemics could reduced if programs provide incentive vaccinated several years free vaccines individuals who pay one year vaccination
+MISC--: magnitude epidemic amelioration will determined number years free vaccination individuals adaptability decision making their memory
+MISC--: this type incentive program could control epidemics if individuals very adaptable long term memories
+MISC--: however incentive based programs provide free vaccination families could increase frequency severe epidemics
+OWNX--: we conclude incentive based vaccination programs necessary control influenza but some may detrimental
+MISC--: surprisingly we find individuals memories flexibility adaptive decision making extremely important factors determining success influenza vaccination programs
+OWNX--: finally we discuss implication our results controlling pandemics
+MISC--: previously both complex citation citation simple models citation citation influenza transmission dynamics been analyzed determine what proportion population would need vaccinated prevent influenza epidemics pandemics
+MISC--: however none modeling studies shown whether this critical coverage actually reached
+OWNX--: here we investigate modeling vaccination decisions made individuals whether critical coverage achieved through voluntary vaccination
+OWNX--: we construct individual level model human cognition behavior link epidemic model influenza includes vaccination dynamics
+MISC--: we assume decision each individual based upon self interest s he wishes avoid catching influenza preferably without having vaccinated
+MISC--: since protective immunity against influenza lasts less than one year citation individuals must decide every year whether not participate voluntary vaccination program
+MISC--: individuals who get vaccinated protect themselves infection but if they do not get vaccinated they may still avoid infection if sufficient numbers their peers get vaccinated
+MISC--: this poses yearly dilemma self interested individual whether vaccination necessary
+OWNX--: we model each individual s strategy making yearly vaccination decisions adaptive process trial error
+OWNX--: we track both individual level decisions population level variables
+OWNX--: we use our model address following question influenza epidemics prevented voluntary vaccination
+OWNX--: our individual level adaptive decision making model inspired minority game methodology
+MISC--: minority game models how noncommunicating selfish individuals reach collective behavior respect common dilemma under adaptation each one s expectations
+MISC--: past decade minority games citation been used model inductive reasoning systems citation financial markets citation
+MISC--: our constructed model consists population n individuals acting their own self interest who do not communicate their vaccination decisions each other
+MISC--: every year individuals independently decide whether not get vaccinated against influenza using risk free highly effective vaccine citation
+OWNX--: we assumed vaccine presents no real risk individuals do not perceive any risk vaccination
+MISC--: individuals model characterized two biological attributes they use when making vaccination decisions
+MISC--: individuals adapt their vaccination behavior current season basis their memories consequences their past vaccination decisions i e they use cognition make decisions
+OWNX--: we couple our individual level model adaptive decision making model influenza vaccination dynamics
+OWNX--: our coupled models show effect individual level vaccination decisions influenza epidemiology conversely effect influenza epidemiology individual level vaccination decisions
+OWNX--: we first use our model assess whether vaccination programs without incentives could achieve critical coverage levels necessary control influenza epidemics
+OWNX--: we then assess potential epidemiological impact two public heath programs use incentives encourage vaccination
+MISC--: there two major classes incentive based public health programs investigated our coupled models
+MISC--: first class uses incentives correlate vaccination decisions same individual over many influenza seasons
+MISC--: second class uses incentives correlate vaccination decisions amongst individuals population one influenza season
+MISC--: many additional incentive based vaccination programs formulated combining defining characteristics two classes
+OWNX--: first public health program we investigate example first class incentive based programs
+MISC--: this program offers free vaccination y number years individual who pays vaccination first year
+MISC--: we assume individual gets vaccinated each year during y years free vaccination but s he also evaluates necessity vaccination every year
+MISC--: at end y years each individual program then uses their evaluations decide whether not re enroll program
+MISC--: if they choose re enroll they pay vaccination season receive free vaccinations further y years
+MISC--: second public health program we analyze example second class incentive based programs
+MISC--: this program vaccinates family free if head family pays her his own vaccination
+MISC--: we assume head family decides every year whether re enroll program depending upon how many her his family members were infected previous season

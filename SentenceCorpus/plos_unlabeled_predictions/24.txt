@@ -1,0 +1,37 @@
+OWNX--: electroreceptive fish detect nearby objects processing information contained pattern electric currents through skin
+MISC--: distribution local transepidermal voltage current density sensory surface fish s skin electric image surrounding environment
+OWNX--: this article reports model study quantitative effect conductance internal tissues skin electric image generation gnathonemus petersii
+OWNX--: using realistic modelling we calculated electric image metal object simulated fish having different combinations internal tissues skin conductances
+OWNX--: object perturbs electric field if were distribution electric sources
+MISC--: equivalent distribution electric sources referred object s imprimence
+OWNX--: high conductivity fish body lowers load resistance given object s imprimence increasing electric image
+OWNX--: also funnels current generated electric organ way field imprimence objects vicinity rostral electric fovea enhanced
+OWNX--: regarding skin conductance our results show actual value optimal range transcutaneous voltage modulation nearby objects
+MISC--: this result suggests voltage answer long standing question whether current voltage effective stimulus electroreceptors
+OWNX--: our analysis shows fish body should conceived object interacts nearby objects conditioning electric image
+MISC--: concept imprimence extended other sensory systems facilitating identification features common different perceptual systems
+OWNX--: electroreceptive fish detect nearby objects processing information contained pattern electric currents through skin
+MISC--: weakly electric fish currents result self generated field produced electric organ discharge
+MISC--: local transepidermal voltage current density effective stimulus electroreceptors
+MISC--: distribution voltage current sensory surface fish s skin electric image surrounding environment citation citation
+MISC--: this image brain constructs representation external world
+OWNX--: therefore understand electrolocation necessary know image generation strategy used electrolocating animals
+MISC--: theoretical analysis image generation yielded realistic models predict acceptable accuracy electrosensory stimulus citation citation
+AIMX--: one general conclusion previous reports skin conductance conductivity difference between internal tissues fish water main factors shaping electric image seminal paper lissmann machin citation started long lasting controversy about roles factors
+MISC--: lissmann machin argued if fish approximately same conductivity water does not appreciably distort perturbing field potential distribution around fish due perturbing field calculated
+OWNX--: however several reports citation citation citation indicated internal conductivity freshwater fish high respect surrounding water high conductance internal tissues critical enhancing local eod field well generating centre surround opposition pattern characterizes electric images coded primary afferents citation
+MISC--: experimental studies pulse gymnotids confirmed theoretical predictions showing high conductivity fish body funnels self generated current perioral region where electrosensory fovea been described basis electroreceptor density variety central representation citation
+OWNX--: this funnelling effect enhances stimulus at foveal region
+MISC--: addition two different types skin been described some electric fish family mormyridae low conductance mormyromast epithelium where electroreceptors present high conductance non mormyromast epithelium where electroreceptors absent citation citation
+MISC--: mormyromast epithelium found head front gills well along dorsum back along ventral surface trunk
+MISC--: non mormyromast epithelium found along sides trunk
+OWNX--: this heterogeneity skin conductance introduces another factor shaping physical electric images
+OWNX--: this article describes realistic modelling study effect internal skin conductance electric image generation g petersii
+OWNX--: we calculated electric image metal object simulated fish having different magnitudes conductances internal tissues skin
+OWNX--: while high conductivity fish body enhances electric image combination mechanisms skin conductance appears optimize transcutaneous voltage modulation nearby objects
+MISC--: contrast transcutaneous current increases monotonically skin conductivity
+OWNX--: results suggest transcutaneous voltage critical proximal stimulus electroreceptors
+OWNX--: we generalize two concepts object perturbing field imprimence introduced early electroreception research citation other sensory systems
+OWNX--: object perturbs electric field if were adding new field basal one
+MISC--: this perturbing field considered equivalent certain distribution electric sources
+OWNX--: this distribution referred object s imprimence

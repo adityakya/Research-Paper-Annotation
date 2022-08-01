@@ -1,0 +1,68 @@
+OWNX--: we compare four different risk taking propensity measures their ability describe predict actual risky behavior domain health
+MISC--: risk taking propensity measures we compare number general measure risk taking propensity derived one item survey question citation number risk aversion index calculated set incentivized monetary gambles citation number measure risk taking derived incentive compatible behavioral task balloon analog risk task citation number composite score risk taking likelihood health domain domain specific risk taking dospert scale citation
+MISC--: study participants number clients health centers around witbank south africa
+OWNX--: our findings suggest one item general measure best predictor risky health behavior our population predicting two out four behaviors at number percent level remaining two behaviors at number percent level
+OWNX--: dospert score health domain performs well predicting one out four behaviors at number percent significance level two out four behaviors at number percent level but only if dospert instrument contains hypothetical risk taking item similar actual risky behavior being predicted
+OWNX--: incentivized monetary gambles behavioral task were unrelated actual health behaviors they were unable predict any risky health behaviors at number percent level
+OWNX--: we provide evidence this not because participants had trouble understanding monetary trade off questions performed poorly behavioral task
+OWNX--: we conclude urging researchers further test usefulness one item general measure both explaining health related risk taking behavior other contexts
+MISC--: risk taking part life but people differ their risk taking propensity
+MISC--: some people enjoy risky pursuits while others detest activities
+MISC--: psychologists economists developed various methods measure individual s risk taking propensity
+AIMX--: this paper examines four different types risk taking propensity measures tests how well they predict risk taking health domain smoking problem drinking seat belt non use risky sexual behavior
+MISC--: first risk taking propensity measure called dohmen measure this paper was developed dohmen et al citation
+MISC--: elicited using one survey question directly asks about risk taking propensity how do you see yourself
+MISC--: you generally person who fully prepared take risks do you try avoid taking risks
+MISC--: please tick box scale where value number means not at all willing take risks value number means very willing take risks
+MISC--: while straightforward simple administer dohmen measure been subject two concerns
+OWNX--: first concern relates domain specificity
+MISC--: generally accepted psychology behavior domain specific possible individuals show different levels risk taking propensity depending context citation
+MISC--: thus dohmen measure being general measure may not able predict risk taking health domain example
+MISC--: this concern greatly mitigated dohmen et al citation who showed general dohmen measure robust predictor behavior different domains including smoking behavior health domain
+MISC--: second concern dohmen measure its lack incentive compatibility
+MISC--: this issue derives general concern economists about incentive compatible measures respondents presumed work harder more persistently more effectively when money aligned performance citation
+MISC--: case measuring people s risk taking propensity incentive compatibility usually achieved giving respondents choices between gambles paying them what they choose
+MISC--: because dohmen question does not provide incentives motivate respondents answer truthfully respondents may misrepresent their answers
+MISC--: charness viceisza citation instance administered dohmen question rural senegal found resulting distribution answers differ significantly found dohmen et al citation germany
+MISC--: authors implied not having aligned incentives was reason discrepancy between measures found senegal germany but authors also alluded issues related translation difficulties including lack equivalent word risk wolof main national language senegal
+AIMX--: second risk taking propensity measure called hl measure this paper was developed holt laury citation
+MISC--: hl most common measure individual s risk taking propensity economics literature
+OWNX--: participant hl makes ten separate choices between gambles where each choice entails choosing between risky gamble where high low payoffs r number r number respectively our study safer gamble where high low payoffs respectively r number r number
+OWNX--: probability obtaining high vs low payoff risky gamble same probability obtaining high vs low payoff safer gamble
+MISC--: this probability ranges number number number increments number number ten sets choices
+OWNX--: when probability high payoff high at number number respondent high chance ending up r number under risky option r number under safer option this case only very risk averse would choose safer option
+OWNX--: point at respondent switches safer option risky option used calculate risk aversion index
+OWNX--: because one choice pairs randomly selected played real after respondent made all number choices respondent knows about this before making any choices hl measure incentive compatible
+MISC--: because hl measure derived using monetary gambles unclear whether measure derived monetary domain related risky health behavior
+MISC--: this question not been widely studied
+CONT--: anderson mellor citation using sample almost number number mostly college educated respondents u s found hl measure associated smoking heavy drinking seat belt non use but only at number percent significance level
+MISC--: lammers citation using sample about number college students south africa found hl measure unrelated condom use
+AIMX--: third risk taking propensity measure used this paper bart citation behavioral risk task performed computer
+MISC--: task number trials
+MISC--: each trial begins un inflated balloon screen
+OWNX--: clicking computer mouse makes balloon grow bigger earns participant number cents per click
+MISC--: every balloon different pre set level inflation before bursts participant does not know number clicks made before any balloon bursts
+MISC--: at any point during each trial participant stop clicking bank money earned trial computer makes slot machine coin dispensing sound
+MISC--: if however balloon over inflated beyond its pre set level balloon bursts money trial gone
+OWNX--: at end task participant paid all money banked
+MISC--: bart task essence measures actual risk taking propensity individual
+MISC--: because earnings feedback given after each trial either casino sound when money banked explosion noise if balloon bursts bart decisions made hot psychological state citation
+OWNX--: hl decisions contrast made cold psychological state because actual earnings hl task revealed after all choices been made
+MISC--: dislich et al citation use term impulsive risk taking describe bart term reflective risk taking describe task similar hl
+MISC--: bart been shown associated psychological measures risk taking sensation seeking personality self reported behavioral risks including smoking heavy drinking drug use sexual risk taking gambling stealing etc
+MISC--: citation
+MISC--: however bart good predictor health related risk taking not consistent finding literature
+MISC--: reynolds et al citation found bart was uncorrelated study s self reported personality measures related risk taking
+MISC--: gordon citation found bart uncorrelated attitudes towards risky driving
+MISC--: dean et al citation found smokers did not display greater risk taking bart than nonsmokers
+MISC--: klassen citation found bart was unrelated any alcohol consumption measures examined
+BASE--: our fourth measure uses modified version domain specific risk taking scale dospert developed weber et al citation
+MISC--: dospert asks about one s likelihood pursue various hypothetical but risky activities each five domains financial ethical health safety social recreational then aggregates activity specific risk taking propensity scores into domain specific risk taking propensity scores
+MISC--: this contrast dohmen measure elicits single global risk taking propensity
+MISC--: dospert domain scores been shown associated real life risk taking activities within same domain
+MISC--: instance hanoch et al citation found smokers had significantly higher risk taking propensity scores health domain than respondents comparison group consisting gym members athletes gamblers investors
+OWNX--: zuniga bouzas citation found dospert health safety recreational risk taking scores significantly predicted blood alcohol concentrations mexican high school students
+AIMX--: current study we examine dohmen hl bart dospert measures population clients at health clinics south africa test how measures relate health risk taking terms smoking drinking seat belt non use risky sexual practices
+OWNX--: our study makes few contributions
+MISC--: we extend work dohmen et al citation testing how one item measure fares predicting unhealthy behavior other than smoking
+AIMX--: we test ability incentive based hl bart tasks explaining activities health domain using implementation hl task may interest other researchers addresses concerns citation about respondent understanding this risk task

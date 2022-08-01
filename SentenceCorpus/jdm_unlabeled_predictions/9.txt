@@ -1,0 +1,23 @@
+OWNX--: present article investigates effectiveness methods traditionally used distinguish between emotions regret disappointment presents new method regret disappointment scale rds assessing two emotions decision making research
+MISC--: validity rds was tested three studies
+MISC--: study number used two scenarios one prototypical regret other disappointment test compare traditional methods how much regret do you feel how much disappointment do you feel rds
+OWNX--: results showed only rds clearly differentiated between constructs regret disappointment
+MISC--: study number confirmed validity rds real life scenario both feelings regret disappointment could experienced
+OWNX--: study number also demonstrated rds discriminate between regret disappointment results similar those obtained using context specific scale
+MISC--: study number showed advantages rds over traditional methods gambling situations commonly used decision making research provided evidence convergent validity rds
+MISC--: emotions powerful impact our lives they shape our behavior their influence so pervasive no decision theory could complete without taking their role into account
+MISC--: example we typically experience feelings happiness elation after having made decision leads good outcome us
+OWNX--: conversely we tend experience negative even painful feelings when wishing we had made better decision
+MISC--: other emotions anticipated at very moment decision made influencing guiding our choices thereby citation
+OWNX--: emotion most frequently studied decision theorists regret counterfactual emotion one experiences after realizing imagining better outcome could been obtained had one decided differently
+MISC--: experience regret depends choice behavior focused counterfactual thoughts its intensity varies relation availability counterfactual alternatives citation
+MISC--: economists psychologists been investigating relation between regret choice since early number s there now general consensus concerning influence anticipated regret decision making
+MISC--: specifically anticipation regret increase attractiveness certain alternatives citation
+MISC--: same process also function promote health safety behavior citation computer security behavior citation
+MISC--: although receiving less empirical focus effects experienced regret been more debated
+MISC--: example some studies shown feelings regret diminish consumer satisfaction intention repeat purchases citation also lowers ultimatum game players offers citation
+MISC--: other authors however found experienced regret lower impact than generally assumed citation
+OWNX--: emotion disappointment also based counterfactual thinking we feel disappointment when we find ourselves wishing events world had turned out better us
+CONT--: yet although regret disappointment different emotions they both generated comparing what what might been
+OWNX--: emotion regret results comparison between actual outcome better outcome might occurred had another option been chosen choice behavior focused counterfactuals
+OWNX--: conversely disappointment stems comparison actual outcome better outcome might resulted had world events occurred differently situation focused counterfactuals citation

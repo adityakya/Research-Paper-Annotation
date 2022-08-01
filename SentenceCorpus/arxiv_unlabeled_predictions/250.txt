@@ -1,0 +1,40 @@
+MISC--: replace your abstract
+MISC--: traffic forecasting past observed traffic data small calculation complexity one important problems planning servers networks
+AIMX--: focusing world wide web www traffic fundamental investigation this paper would deal bayesian forecasting network traffic time varying poisson model viewpoint statistical decision theory
+OWNX--: under this model we would show estimated forecasting value obtained simple arithmetic calculation expresses real www traffic well both theoretical empirical points view
+MISC--: under network environment internet planning servers networks one important problems stable operation
+MISC--: often typical situation administrators analyze logs their servers networks
+MISC--: they may frequently look into result log analysis software where tools usually some functions periodically summarize logs
+MISC--: example webalizer citation analog citation etc been widely used among world wide web www server administrators users long years
+MISC--: tools usually summarize logs counting hourly daily monthly numbers hits files pages etc
+MISC--: administrators would often make their operation plans combination their experience intuition logs
+MISC--: this case traffic forecasting rule not clearly formulated those summarized logs remain field descriptive statistics statistical point view
+MISC--: other hand researchers field traffic engineering been suggesting lot analysis models
+OWNX--: probabilistic approach one viewpoints this field
+MISC--: wide spread fact stationary poisson distribution not always suitable internet traffic because its nature non stationality citation citation long range dependence lrd citation citation etc
+MISC--: therefore desirable conditions good traffic models structures express nature at least
+MISC--: furthermore another requirement models structure traffic forecasting
+MISC--: this point parameter estimation often performed at first under assumption stationarity citation then estimated parameter substituted parameter model
+MISC--: this approach been wide spread field inferential statistics statistical point view
+MISC--: however substituting estimated parameter constant model s parameter not always suitable especially forecasting problems
+MISC--: this because there often no guarantee assumptions under parameter estimation model always hold future unknown data set
+MISC--: bayesian approach citation citation one alternatives this point
+MISC--: bayesian approach probability distribution parameter assumed prior distribution
+OWNX--: if new data observed then bayes theorem updates prior distribution parameter posterior distribution then forecasts posterior distribution data
+MISC--: recently this approach been widely applied many forecasting problems especially field information technologies bioinformatics etc
+MISC--: order take bayesian approach statistical decision theory important theoretical framework statistical point view
+AIMX--: taking above factors into account this paper would deal bayesian forecasting www traffic non stationary i e time varying poisson model
+MISC--: bayesian forecasting time varying parameter model been proposed citation defining certain class parameter transformation function
+CONT--: however not yet been discussed about any predictive estimator nor definite transformation function parameter citation
+OWNX--: this paper would clearly define random walking type transformation function parameter obtain bayes optimal prediction www traffic
+MISC--: then its effectiveness would evaluated real www traffic data
+AIMX--: this model time varying degree caught real valued constant symbol this constant would play important role throughout this paper
+MISC--: another feature traffic forecasting value obtained simple arithmetic calculations under known symbol
+MISC--: general bayes theorem often results large calculation costs
+MISC--: however certain combination parameter distribution its transformation function solves this problem
+MISC--: we believe this point helpful not only theoretical calculation cost but also real implementation www log analysis tools citation citation
+AIMX--: rest this paper organized followings
+OWNX--: section gives some definitions explanations forecasting model time varying poisson distribution
+OWNX--: section shows some analysis examples real www traffic data validate this paper s approach section gives their discussions
+OWNX--: finally section concludes this paper
+MISC--: chap

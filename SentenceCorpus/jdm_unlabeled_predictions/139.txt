@@ -1,0 +1,45 @@
+MISC--: very small but cumulated decreases food intake may sufficient significant effects even erasing obesity over period years citation
+AIMX--: two studies one lab study other real world study we examine effect manipulating position different foods restaurant menu
+OWNX--: items placed at beginning end list their category options were up twice popular when they were placed center list
+MISC--: given this effect placing healthier menu items at top bottom item lists less healthy ones their center e g sugared drinks vs calorie free drinks should result some increase favor healthier food choices
+MISC--: obesity growing problem throughout world
+MISC--: fighting via dieting apparently ineffective citation
+AIMX--: companion paper rozin et al citation present arguments facts substantiate two claims we shall not repeat here
+MISC--: they then suggest war obesity could benefit nudges citation not only heavy efforts investments resources
+MISC--: nudges small cheap easily implementable often hardly noticed changes choice architecture i e manner setting choice set presented do not affect choice set itself yet affect appeal different options
+MISC--: rozin et al s nudge nobesity very simple if you want increase decrease popularity food item make easier harder access respectively
+AIMX--: same spirit present paper explores another possible nudge nobesity
+OWNX--: we show placing food item menu at beginning end its category increases its popularity compared placing middle
+MISC--: restaurants present customers lists their offerings
+MISC--: when menu displayed writing items presented simultaneously
+MISC--: when waiter recites day s specials items presented sequentially
+OWNX--: our study involved only printed menus
+MISC--: menu items may organized various ways type e g soups salads etc
+MISC--: according main ingredients fish dishes vegetarian dishes etc
+MISC--: 
+MISC--: within each category they typically listed vertical ordering
+MISC--: when designing menus does this order matter
+MISC--: one may seek answers two kinds sources how literature menu design psychological literature position effects
+MISC--: familiar position effects primacy recency refer stimuli presented sequentially their dependent variable not usually choice
+MISC--: but effect called edge avoidance citation centrality preferences citation middle bias citation center stage effect citation refers choice among simultaneously presented options various names indicate typical findings people choosing array identical options reliably prefer middle ones citation
+MISC--: when items not identical effect s manifestation when options presented middle array they chosen more often than when they presented its edges
+MISC--: studies do not course apply options position may inherently important theater airplane seats skyscraper floors restaurant tables place queues
+MISC--: rather they use options hard imagine why position would matter i
+MISC--: number opaque boxes people choose hide seek treasure citation ii
+MISC--: similarly what position people place guess answers multiple choice tests citation iii
+MISC--: good they choose set identical citation non identical citation goods offered iv
+MISC--: what stall they head public bathroom citation etc
+MISC--: all studies found placing item middle rather than edges choice set enhanced its popularity
+MISC--: we aware only three exceptions there seems advantage being first last simultaneously presented choice set rather than its middle
+MISC--: nisbett wilson citation asked their subjects consider linear array number identical pairs stockings fact their subjects were not aware serendipitously found pronounced left right position effect right most object array was also last perused was heavily over chosen p number namely last best
+OWNX--: contrast koppell steen citation analyzed real ballot voting data was almost like controlled study inasmuch order candidates names was rotated precinct p number found candidates received greater proportion vote when listed first than when listed any other position p number namely first best
+OWNX--: finally christenfeld citation asked respondents choose route between two points either hypothetical maps real
+MISC--: destination point could not reached walking straight line but paths chosen had same total length number turns
+OWNX--: respondents showed preference path reached making first turn late possible
+OWNX--: paths cannot classified into first last middle but possible points taking first turn sense respondents preferred last
+OWNX--: contrast all above mentioned findings restaurant trade publications menus advocate both edges namely first last positions where one should place items whose popularity one wants enhance citation
+MISC--: recommendations however were never backed research none best our knowledge exists panitz s claim certainly valid but not clear why one needs rely much memory when choosing menu
+MISC--: moreover when kincaid corsun citation attempted put other accepted truths regarding impact menu layout item sales empirical test their title question consultants blowing smoke
+MISC--: p number was answered affirmative
+OWNX--: however since they did not study edge bias specifically we no direct menu results either contrast add edge avoidance we reported above
+OWNX--: present study therefore we did not hypothesize bias either favor against middle positioned items but rather checked whether one exists using number tailed significance testing

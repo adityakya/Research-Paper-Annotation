@@ -1,0 +1,62 @@
+MISC--: lasso symbol regularized least squares been explored extensively its remarkable sparsity properties
+AIMX--: shown this paper solution lasso addition its sparsity robustness properties solution robust optimization problem
+OWNX--: this two important consequences
+MISC--: first robustness provides connection regularizer physical property namely protection noise
+MISC--: this allows principled selection regularizer particular generalizations lasso also yield convex optimization problems obtained considering different uncertainty sets
+MISC--: secondly robustness itself used avenue exploring different properties solution
+MISC--: particular shown robustness solution explains why solution sparse
+OWNX--: analysis well specific results obtained differ standard sparsity results providing different geometric intuition
+OWNX--: furthermore shown robust optimization formulation related kernel density estimation based this approach proof lasso consistent given using robustness directly
+MISC--: finally theorem saying sparsity algorithmic stability contradict each other hence lasso not stable presented
+OWNX--: this paper we consider linear regression problems least square error
+MISC--: problem find vector symbol so symbol norm residual symbol minimized given matrix symbol vector symbol
+OWNX--: learning regression perspective each row symbol regarded training sample corresponding element symbol target value this observed sample
+MISC--: each column symbol corresponds feature objective find set weights so weighted sum feature values approximates target value
+MISC--: well known minimizing least squared error lead sensitive solutions citation
+MISC--: many regularization methods been proposed decrease this sensitivity
+MISC--: among them tikhonov regularization citation lasso citation two widely known cited algorithms
+MISC--: methods minimize weighted sum residual norm certain regularization term symbol tikhonov regularization symbol lasso
+MISC--: addition providing regularity lasso also known tendency select sparse solutions
+MISC--: recently this attracted much attention its ability reconstruct sparse solutions when sampling occurs far below nyquist rate also its ability recover sparsity pattern exactly probability one asymptotically number observations increases there extensive literature this subject we refer reader citation references therein
+OWNX--: first result this paper solution lasso robustness properties solution robust optimization problem
+MISC--: itself this interpretation lasso solution robust least squares problem development line results citation
+CONT--: there authors propose alternative approach reducing sensitivity linear regression considering robust version regression problem i e minimizing worst case residual observations under some unknown but bounded disturbance
+MISC--: most research this area considers either case where disturbance row wise uncoupled citation case where frobenius norm disturbance matrix bounded citation
+OWNX--: none robust optimization approaches produces solution sparsity properties particular solution lasso does not solve any previously formulated robust optimization problems
+OWNX--: contrast we investigate robust regression problem where uncertainty set defined feature wise constraints
+OWNX--: noise model interest when values features obtained some noisy pre processing steps magnitudes noises known bounded
+MISC--: another situation interest where features meaningfully coupled
+OWNX--: we define coupled uncoupled disturbances uncertainty sets precisely section below
+MISC--: intuitively disturbance feature wise coupled if variation disturbance across features satisfy joint constraints uncoupled otherwise
+OWNX--: considering solution lasso solution robust least squares problem two important consequences
+MISC--: first robustness provides connection regularizer physical property namely protection noise
+OWNX--: this allows more principled selection regularizer particular considering different uncertainty sets we construct generalizations lasso also yield convex optimization problems
+MISC--: secondly perhaps most significantly robustness strong property itself used avenue investigating different properties solution
+OWNX--: we show robustness solution explain why solution sparse
+OWNX--: analysis well specific results we obtain differ standard sparsity results providing different geometric intuition extending beyond least squares setting
+OWNX--: sparsity results obtained lasso ultimately depend fact introducing additional features incurs larger symbol penalty than least squares error reduction
+OWNX--: contrast we exploit fact robust solution definition optimal solution under worst case perturbation
+OWNX--: our results show essentially coefficient solution nonzero if corresponding feature relevant under all allowable perturbations
+OWNX--: addition sparsity we also use robustness directly prove consistency lasso
+AIMX--: we briefly list main contributions well organization this paper
+OWNX--: section we formulate robust regression problem feature wise independent disturbances show this formulation equivalent least square problem weighted symbol norm regularization term
+OWNX--: hence we provide interpretation lasso robustness perspective
+MISC--: helpful choosing regularization parameter
+OWNX--: we generalize robust regression formulation loss functions arbitrary norm section
+OWNX--: we also consider uncertainty sets require disturbances different features satisfy joint conditions
+OWNX--: this used mitigate conservativeness robust solution obtain solutions additional properties
+OWNX--: we call features coupled
+OWNX--: section we present new sparsity results robust regression problem feature wise independent disturbances
+MISC--: this provides new robustness based explanation sparsity lasso
+OWNX--: our approach gives new analysis also geometric intuition furthermore allows one obtain sparsity results more general loss functions beyond squared loss
+OWNX--: next we relate lasso kernel density estimation section
+AIMX--: this allows us re prove consistency statistical learning setup using new robustness tools formulation we introduce
+OWNX--: along our results sparsity this illustrates power robustness explaining also exploring different properties solution
+OWNX--: finally we prove section no free lunch theorem stating algorithm encourages sparsity cannot stable notation
+OWNX--: we use capital letters represent matrices boldface letters represent column vectors
+MISC--: row vectors represented transpose column vectors
+MISC--: vector symbol symbol denotes its symbol element
+OWNX--: throughout paper symbol symbol used denote symbol column symbol row observation matrix symbol respectively
+OWNX--: we use symbol denote symbol element symbol hence symbol element symbol symbol element symbol
+MISC--: convex function symbol symbol represents any its sub gradients evaluated at symbol
+MISC--: vector length symbol each element equals symbol denoted symbol

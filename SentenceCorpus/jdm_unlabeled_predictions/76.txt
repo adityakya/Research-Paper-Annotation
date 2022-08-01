@@ -1,0 +1,65 @@
+MISC--: individuals often ambiguity averse when choosing among purely chance based prospects citation
+MISC--: however they often prefer apparently ambiguous ability based prospects unambiguous chance based prospects
+MISC--: according competence hypothesis citation this pattern derives favorable perceptions one s competence
+MISC--: most past tests competence hypothesis ambiguity confounded personal controllability source ambiguity e g chance vs missing information
+OWNX--: we unconfound factors three experiments find strong evidence independent effects both ambiguity aversion competence
+MISC--: experiment number participants preferred unambiguous chance based option ambiguous ability based option when ambiguity derived chance rather than uncertainty about one s own ability
+MISC--: experiments number number used different operationalizations ambiguity choice contexts actual consequences participants attempted avoid both ambiguity chance insofar they could
+OWNX--: findings support extend competence hypothesis demonstrating ambiguity aversion independent personal controllability source ambiguity
+MISC--: folk wisdom advises better devil you know than devil you don t
+MISC--: most people abide this logic when choosing between options known probabilities others ambiguous probabilities second order uncertainty
+MISC--: people often choose former manifesting what decision scientists call ambiguity aversion
+MISC--: classic demonstration ellsberg citation decision makers faced choice between two urns one contained number percent red number percent black marbles whereas other had unknown distribution
+MISC--: selection marble specified color produced monetary prize
+CONT--: participants showed no color preference but they did show clear preference number number urn
+MISC--: this preference hard justify rational grounds because ambiguous urn cannot contain lower proportion both red black marbles
+MISC--: later work showed people prefer unambiguous urn even when expected value other ambiguous urn higher citation they willing pay more ambiguity premium draw number number urn citation
+MISC--: several persuasive explanations been offered account ambiguity aversion
+MISC--: frisch baron citation proposed decision makers particularly averse missing information especially if information known manipulated others opponent may become available at some later point decision process
+MISC--: authors also suggest people concerned about blame regret may follow decision made context missing information
+MISC--: example parents relatively less willing vaccinate their children setting where characteristics children who experience side effects vaccination unspecified citation
+MISC--: similarly heath tversky citation argue participants ellsberg paradigm mentally simulate attributions will made following selection marble consequently worry about being blamed if ambiguous urn turns out present smaller chance winning
+MISC--: indeed curley yates abrams citation observed ambiguity aversion greater when contents ambiguous urn will revealed others
+MISC--: important feature ellsberg paradigm contents ambiguous urn knowable just unknown participants
+MISC--: outcome decision also hinges chance not any way tethered participants own knowledge abilities
+MISC--: heath tversky citation suggest if people feel competent decision domain if competence related outcome they should exhibit less ambiguity aversion
+MISC--: illustrative study participants predicted outcomes american football games over five week period also assessed their own knowledge about each game
+MISC--: they then chose between betting team they predicted would win lottery chances winning were identical but determined chance
+MISC--: long participants perceived probability winning number higher those higher perceived knowledge chose bet over lottery suggesting perceptions competence domain attenuated ambiguity aversion
+MISC--: similar findings emerged contexts where voters made predictions about outcomes november number presidential election where students made predictions about future news events citation
+MISC--: competence decision domain likely reduced perception missing information frisch baron posited key ambiguity aversion
+OWNX--: thus heath tversky proposed perceived competence affects perceived ambiguity does not independent effect its own
+MISC--: however other characteristics this decision paradigm suggest competence independent effect
+MISC--: most importantly people generally prefer controllable uncontrollable outcomes citation more optimistic about outcomes controllable outcomes citation
+MISC--: most though not all tests competence hypothesis unambiguous option chance determined meaning manipulation competence may confounded outcome controllability
+MISC--: if probabilities skill based option were ambiguous participants might still choose skill option suggesting they prefer skill over chance enough override any opposing effect ambiguity
+MISC--: controllability rather than ambiguity may also account choice betting familiar vs unfamiliar domains competence e g weather one s own geographical area vs weather distal unknown geographical area given familiarity proximity conflated controllability due magical thinking citation
+MISC--: another possibility current context people responding not competence controllability per se but rather reason ambiguity
+MISC--: ambiguity could different effects depending its source
+MISC--: tests competence hypothesis ability based option ambiguous because not associated clearly stated probability winning there chance option
+OWNX--: ambiguity instead related natural variation competence perceptions competence thereby confounding source ambiguity competence
+MISC--: if ambiguity associated ability based option derived factors unrelated personal competence chance likely ability based option would become less appealing
+AIMX--: above we suggested chance based options tests competence hypothesis should possess ambiguity i e range probabilities rather than point estimate here we take this one step further arguing competence based options should possess same kind ambiguity untethered competence
+OWNX--: finally previous experiments offered competence options were based priori beliefs limiting way competence was conceptualized
+OWNX--: no cases was competence manipulated particular giving participants feedback competence domain more directly test role competence choices involving ambiguity
+OWNX--: we report three experiments systematically separate ambiguity controllability source ambiguity order determine whether people continue exhibit ambiguity aversion predicted competence hypothesis
+MISC--: experiment number participants face choice between unambiguous chance based prospect ambiguous ability based prospect
+MISC--: importantly latter prospect ambiguous because its difficulty determined chance
+OWNX--: we predicted decision makers would prefer chance based option contrary typical pattern tests competence hypothesis but nevertheless illustrative ambiguity aversion
+OWNX--: experiment number builds this study presenting participants chance option low ambiguity ability based option approximately number percent chance winning high ambiguity ability based option win probabilities ranging number percent number percent
+OWNX--: because ambiguity inherent third option due chance because first option entirely chance based we expect participants prefer low ambiguity ability based option over other two demonstrating preferences controllability against ambiguity same context
+OWNX--: this experiment we also give participants performance feedback upon base their choices rather than relying priori beliefs about competence
+OWNX--: experiment number builds standard competence hypothesis paradigm pitting two ability based options against each other while independently manipulating level ambiguity
+OWNX--: finally we ask participants make same choice someone else thereby completely separating ambiguity controllability
+MISC--: if ambiguity aversion independent controllability then choices other people should mirror those self
+MISC--: experiment number tests similar hypothesis using different operationalization ambiguity again unaffected personal controllability
+OWNX--: this case we give participants choice among unambiguous chance based option ability based option where they must outperform low ambiguity opponent ability based option where they must instead outperform high ambiguity opponent
+OWNX--: experiment number we expect people prefer ability based options but show ambiguity aversion selecting option they compete against low ambiguity opponent
+MISC--: additional characteristic previous studies this literature probability winning chance based option was always unambiguous i e fixed probability
+OWNX--: experiments number number we also introduce ambiguity chance based option form range probabilities
+MISC--: doing so provides even more conservative test whether preference ability based tasks previous tests was due ambiguity simply preference ability based over chance based tasks
+MISC--: moreover defining ambiguity terms opponent experiment number we yet again disentangled ambiguity personal competence different manner than experiment number where we ask participants make choices both themselves others
+OWNX--: sum we report three experiments designed test extend competence hypothesis
+MISC--: studies include both hypothetical actual choices final two experiments more than one ability based choice
+MISC--: we expect people will exhibit ambiguity aversion even when controllability held constant
+MISC--: they should prefer chance based options only when ability options more ambiguous but when choosing among similar ability based options they should prefer those lower ambiguity

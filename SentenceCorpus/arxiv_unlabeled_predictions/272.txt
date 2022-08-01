@@ -1,0 +1,8 @@
+BASE--: we develop abc logitboost based prior work abc boost citation robust logitboost citation
+OWNX--: our extensive experiments variety datasets demonstrate considerable improvement abc logitboost over logitboost abc mart
+MISC--: boosting algorithms citation become very successful machine learning
+MISC--: this study revisits logitboost citation under framework adaptive base class boost abc boost citation multi class classification
+MISC--: we denote training dataset symbol where symbol number feature vectors samples symbol symbol th feature vector symbol symbol th class label where symbol multi class classification
+MISC--: both logitboost citation mart multiple additive regression trees citation algorithms viewed generalizations logistic regression model assumes class probabilities symbol while traditional logistic regression assumes symbol logitboost mart adopt flexible additive model function symbol terms where symbol base learner typically regression tree
+MISC--: parameters symbol symbol learned data maximum likelihood equivalent minimizing negative log likelihood loss where symbol if symbol symbol otherwise
+MISC--: identifiability sum zero constraint symbol usually adopted citation

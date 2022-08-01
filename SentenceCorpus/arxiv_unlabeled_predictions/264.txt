@@ -1,0 +1,67 @@
+MISC--: principal component analysis pca widely used technique data analysis dimension reduction numerous applications science engineering
+MISC--: however standard pca suffers fact principal components pcs usually linear combinations all original variables thus often difficult interpret pcs
+OWNX--: alleviate this drawback various sparse pca approaches were proposed literature citation
+MISC--: despite success achieving sparsity some important properties enjoyed standard pca lost methods uncorrelation pcs orthogonality loading vectors
+MISC--: also total explained variance they attempt maximize too optimistic
+OWNX--: this paper we propose new formulation sparse pca aiming at finding sparse nearly uncorrelated pcs orthogonal loading vectors while explaining much total variance possible
+OWNX--: we also develop novel augmented lagrangian method solving class nonsmooth constrained optimization problems well suited our formulation sparse pca
+OWNX--: we show converges feasible point moreover under some regularity assumptions converges stationary point
+MISC--: additionally we propose two nonmonotone gradient methods solving augmented lagrangian subproblems establish their global local convergence
+OWNX--: finally we compare our sparse pca approach several existing methods synthetic random real data respectively
+MISC--: computational results demonstrate sparse pcs produced our approach substantially outperform those other methods terms total explained variance correlation pcs orthogonality loading vectors vskip pt key words sparse pca augmented lagrangian method nonmonotone gradient methods nonsmooth minimization vskip pt ams subject classification h h h c k
+MISC--: principal component analysis pca popular tool data processing dimension reduction
+MISC--: been widely used numerous applications science engineering biology chemistry image processing machine learning so
+MISC--: example pca recently been applied human face recognition handwritten zip code classification gene expression data analysis see citation
+MISC--: essence pca aims at finding few linear combinations original variables called principal components pcs point orthogonal directions capturing much variance variables possible
+OWNX--: well known pcs found via eigenvalue decomposition covariance matrix symbol
+MISC--: however symbol typically unknown practice
+OWNX--: instead pcs approximately computed via singular value decomposition svd data matrix eigenvalue decomposition sample covariance matrix
+OWNX--: detail let symbol symbol dimensional random vector symbol symbol data matrix records symbol observations symbol
+MISC--: without loss generality assume symbol centered column means symbol all symbol
+OWNX--: then commonly used sample covariance matrix symbol
+MISC--: suppose eigenvalue decomposition symbol symbol then symbol gives pcs columns symbol corresponding loading vectors
+MISC--: worth noting symbol also obtained performing svd symbol see example citation
+MISC--: clearly columns symbol orthonormal vectors moreover symbol diagonal
+MISC--: we thus immediately see if symbol corresponding pcs uncorrelated otherwise they correlated each other see section details
+MISC--: we now describe several important properties pcs obtained standard pca when symbol well estimated symbol see also citation pcs sequentially capture maximum variance variables approximately thus encouraging minimal information loss much possible pcs nearly uncorrelated so explained variance different pcs small overlap pcs point orthogonal directions their loading vectors orthogonal each other
+MISC--: practice typically first few pcs enough represent data thus great dimensionality reduction achieved
+MISC--: spite popularity success pca due nice features pca obvious drawback pcs usually linear combinations all symbol variables loadings typically nonzero
+MISC--: this makes often difficult interpret pcs especially when symbol large
+MISC--: indeed many applications original variables concrete physical meaning
+OWNX--: example biology each variable might represent expression level gene
+MISC--: cases interpretation pcs would facilitated if they were composed only small number original variables namely each pc involved small number nonzero loadings
+MISC--: thus imperative develop sparse pca techniques finding pcs sparse loadings while enjoying above three nice properties much possible
+MISC--: sparse pca been active research topic more than decade
+MISC--: first class approaches based ad hoc methods post processing pcs obtained standard pca mentioned above
+MISC--: example jolliffe citation applied various rotation techniques standard pcs obtaining sparse loading vectors
+MISC--: cadima jolliffe citation proposed simple thresholding approach artificially setting zero standard pcs loadings absolute values smaller than threshold
+OWNX--: recent years optimization approaches been proposed finding sparse pcs
+MISC--: they usually formulate sparse pca into optimization problem aiming at achieving sparsity loadings while maximizing explained variance much possible
+MISC--: instance jolliffe et al citation proposed interesting algorithm called scotlass finding sparse orthogonal loading vectors sequentially maximizing approximate variance explained each pc under symbol norm penalty loading vectors
+MISC--: zou et al citation formulated sparse pca regression type optimization problem imposed combination symbol symbol norm penalties regression coefficients
+MISC--: d aspremont et al citation proposed method called dspca finding sparse pcs solving sequence semidefinite program relaxations sparse pca
+MISC--: shen huang citation recently developed approach computing sparse pcs solving sequence rank one matrix approximation problems under several sparsity inducing penalties
+MISC--: very recently journ ee et al citation formulated sparse pca nonconcave maximization problems symbol symbol norm sparsity inducing penalties
+MISC--: they showed problems reduced into maximization convex function compact set they also proposed simple but computationally efficient gradient method finding stationary point latter problems
+MISC--: additionally greedy methods were investigated sparse pca moghaddam et al citation d aspremont et al citation
+MISC--: pcs obtained above methods citation usually sparse
+MISC--: however aforementioned nice properties standard pcs lost some extent sparse pcs
+MISC--: indeed likely correlation among sparse pcs not considered methods
+MISC--: therefore their sparse pcs quite correlated each other
+MISC--: also total explained variance methods attempt maximize too optimistic there may some overlap among individual variances sparse pcs
+MISC--: finally loading vectors sparse pcs given methods lack orthogonality except scotlass citation
+AIMX--: this paper we propose new formulation sparse pca taking into account three nice properties standard pca maximal total explained variance uncorrelation pcs orthogonality loading vectors
+OWNX--: we also explore connection this formulation standard pca show viewed certain perturbation standard pca
+OWNX--: we further propose novel augmented lagrangian method solving class nonsmooth constrained optimization problems well suited our formulation sparse pca
+OWNX--: this method differs classical augmented lagrangian method i values augmented lagrangian functions at their approximate minimizers given method bounded above ii magnitude penalty parameters outgrows lagrangian multipliers see section details
+OWNX--: we show this method converges feasible point moreover converges first order stationary point under some regularity assumptions
+OWNX--: we also propose two nonmonotone gradient methods minimizing class nonsmooth functions over closed convex set suitably applied subproblems arising our augmented lagrangian method
+MISC--: we further establish global convergence under local lipschitzian error bounds assumption citation local linear rate convergence gradient methods
+AIMX--: finally we compare sparse pca approach proposed this paper several existing methods citation synthetic random real data respectively
+MISC--: computational results demonstrate sparse pcs obtained our approach substantially outperform those other methods terms total explained variance correlation pcs orthogonality loading vectors
+AIMX--: rest paper organized follows
+OWNX--: section we propose new formulation sparse pca explore connection this formulation standard pca
+OWNX--: section we then develop novel augmented lagrangian method class nonsmooth constrained problems propose two nonmonotone gradient methods minimizing class nonsmooth functions over closed convex set
+OWNX--: section we discuss applicability implementation details our augmented lagrangian method sparse pca
+OWNX--: sparse pca approach proposed this paper then compared several existing methods synthetic random real data section
+OWNX--: finally we present some concluding remarks section

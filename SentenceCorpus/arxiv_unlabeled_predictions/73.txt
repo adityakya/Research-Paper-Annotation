@@ -1,0 +1,55 @@
+OWNX--: we consider agent interacting unmodeled environment
+MISC--: at each time agent makes observation takes action incurs cost
+MISC--: its actions influence future observations costs
+MISC--: goal minimize long term average cost
+OWNX--: we propose novel algorithm known active lz algorithm optimal control based ideas lempel ziv scheme universal data compression prediction
+OWNX--: we establish under active lz algorithm if there exists integer symbol future conditionally independent past given window symbol consecutive actions observations then average cost converges optimum
+OWNX--: experimental results involving game rock paper scissors illustrate merits algorithm
+OWNX--: ieeeparstart c onsider agent at each integer time symbol makes observation symbol finite observation space symbol takes action symbol selected finite action space symbol
+MISC--: agent incurs bounded cost symbol
+MISC--: goal minimize long term average cost symbol here expectation over randomness symbol process at each time symbol action symbol selected function prior observations symbol prior actions symbol
+OWNX--: we will propose general action selection strategy called active lz algorithm
+OWNX--: addition new strategy primary contribution this paper theoretical guarantee this strategy attains optimal average cost under weak assumptions about environment
+MISC--: main assumption there exists integer symbol future conditionally independent past given window symbol consecutive actions observations
+MISC--: other words symbol where symbol transition kernel symbol symbol algebra generated symbol
+MISC--: we particularly interested situations where neither symbol nor even symbol known agent
+MISC--: where there finite but unknown dependence history
+OWNX--: consider following examples fall into above formalism
+MISC--: optimization problem find sequence functions symbol where each function symbol specifies encoder at time symbol so minimize long term average distortion symbol assume source markov order symbol but both transition probabilities source order symbol unknown
+OWNX--: setting symbol define observation at time symbol vector symbol action at time symbol symbol
+OWNX--: then optimal coding problem at hand falls within our framework cf
+MISC--: citation references therein end example knowledge kernel symbol even just order kernel symbol solving average cost optimal policy either examples above via dynamic programming methods relatively straightforward
+OWNX--: this paper develops algorithm without knowledge kernel its order achieves average cost optimality
+OWNX--: active lz algorithm we develop consists two broad components
+CONT--: first efficient data structure context tree joint process symbol store information relevant predicting observation at time symbol symbol given history available up time symbol action selected at time symbol symbol
+OWNX--: our prediction methodology borrows heavily lempel ziv algorithm data compression citation
+BASE--: second component our algorithm dynamic programming scheme given probabilistic model determined context tree selects actions so minimize costs over suitably long horizon
+OWNX--: absent knowledge order kernel symbol two tasks above building context tree order estimate kernel selecting actions minimize long term costs must done continually tandem creates important tension between exploration exploitation
+MISC--: particular one hand algorithm must select actions manner builds accurate context tree
+MISC--: other hand desire minimize costs naturally restricts this selection
+OWNX--: carefully balancing two tensions our algorithm achieves average cost equal optimal policy full knowledge kernel symbol
+MISC--: related problems been considered literature
+MISC--: kearns singh citation present algorithm reinforcement learning markov decision process
+OWNX--: this algorithm applied our context when symbol known asymptotic optimality guaranteed
+MISC--: more recently even dar et al citation present algorithm optimal control partially observable markov decision processes more general setting than what we consider here able establish theoretical bounds convergence time
+CONT--: algorithm there however seems difficult unrealistic implement contrast what we present here
+MISC--: further relies knowledge constant related amount time homing policy requires achieve equilibrium
+MISC--: this constant may challenging estimate
+MISC--: work de farias megiddo citation considers optimal control framework where dynamics environment not known one wishes select best finite set experts
+OWNX--: contrast our problem thought competing set all possible strategies
+MISC--: prediction problem loss functions memory markov modulated source considered merhav et al citation essentially markov decision problem authors point out again this case knowing structure loss function implicitly gives order underlying markov process
+CONT--: active lz algorithm inspired lempel ziv algorithm
+MISC--: this algorithm been extended address many problems prediction citation filtering citation
+CONT--: almost all cases however future observations not influenced actions taken algorithm
+OWNX--: this contrast active lz algorithm proactively anticipates effect actions future observations
+BASE--: exception work vitter krishnan citation considers cache pre fetching viewed special case our formulation
+MISC--: lempel ziv algorithm its extensions revolve around context tree data structure constructed observations made
+MISC--: this data structure simple elegant implementational point view
+CONT--: use this data structure reinforcement learning represents departure representations state belief state commonly used reinforcement learning literature
+MISC--: data structures proved useful representing experience algorithms engineering applications ranging compression prediction denoising
+AIMX--: understanding whether how some this value extended reinforcement learning motivation this paper
+AIMX--: remainder this paper organized follows
+OWNX--: section we formulate our problem precisely
+OWNX--: section we present our algorithm provide computational results context rock paper scissors example
+OWNX--: our main result stated theorem section algorithm asymptotically optimal
+OWNX--: section concludes

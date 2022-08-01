@@ -1,0 +1,51 @@
+MISC--: motivated philosophy phenomenal success compressed sensing problem reconstructing matrix sampling its entries attracted much attention recently
+OWNX--: problem viewed information theoretic variant well studied matrix completion problem main objective design efficient algorithm reconstruct matrix inspecting only small number its entries
+MISC--: although this impossible task general cand e s co authors recently shown under so called incoherence assumption rank symbol symbol matrix reconstructed using semidefinite programming sdp after one inspects symbol its entries
+AIMX--: this paper we propose alternative approach much more efficient reconstruct larger class matrices inspecting significantly smaller number entries
+OWNX--: specifically we first introduce class so called stable matrices show includes all those satisfy incoherence assumption
+OWNX--: then we propose randomized basis pursuit rbp algorithm show reconstruct stable rank symbol symbol matrix after inspecting symbol its entries
+OWNX--: our sampling bound only logarithmic factor away information theoretic limit essentially optimal
+MISC--: moreover runtime rbp algorithm bounded symbol compares very favorably symbol runtime sdp based algorithm
+OWNX--: perhaps more importantly our algorithm will provide exact reconstruction input matrix polynomial time
+CONT--: contrast sdp based algorithm only provide approximate one polynomial time
+MISC--: fundamental problem arises frequently many disciplines reconstructing matrix certain properties some partial information
+MISC--: typically problem motivated desire deduce global structure small number local observations
+MISC--: instance consider following applications covariance estimation areas statistics machine learning wireless communications often interest find maximum likelihood estimate covariance matrix symbol random vector symbol
+MISC--: estimate used study relationship among variables symbol give some indication performance certain systems
+MISC--: usually extra information available facilitate estimation
+OWNX--: instance we may number independent samples drawn according distribution symbol well some structural constraints symbol e g certain entries symbol prescribed values citation matrix symbol toeplitz structure some its entries prescribed values citation etc
+CONT--: thus estimation problem becomes completing partially specified matrix so completion satisfies structural constraints maximizes certain likelihood function graph realization trivial matter see given coordinates symbol points symbol distance between any two points computed efficiently
+MISC--: however inverse problem given subset interpoint distances find coordinates points called realization symbol where symbol fixed fit those distances turns out anything but trivial see eg citation
+MISC--: problem arises many different contexts sensor network localization see eg citation molecular conformation see e
+MISC--: g citation equivalent problem completing partially specified matrix euclidean distance matrix certain rank cf citation recovering structure motion fundamental problem computer vision reconstruct structure object analyzing its motion over time
+MISC--: this problem known structure motion sfm problem literature formulated finding low rank approximation certain measurement matrix see eg citation
+MISC--: however due presence occlusion tracking failures measurement matrix often missing entries
+MISC--: when one takes into account difficulties reconstruction problem becomes completing partially specified matrix one certain rank see eg citation recommendation systems although electronic commerce offered great convenience customers merchants alike complicated task tracking predicting customers preferences
+MISC--: cope this problem various recommendation systems been developed over years see eg citation
+MISC--: roughly speaking those systems maintain matrix preferences where rows correspond users columns correspond items
+MISC--: when user purchases browses subset items she specify her preferences those items those preferences will then recorded corresponding entries matrix
+MISC--: naturally if user not considered particular item then corresponding entry matrix will remain unspecified
+MISC--: now order predict users preferences unseen items one will complete partially specified matrix so completion maximizes certain performance measure each individual s utility citation
+OWNX--: note all examples above we forced take whatever information given us
+OWNX--: particular we cannot instance specify entries unknown matrix examine
+CONT--: result reconstruction problem ill posed e g there may not unique even any solution satisfies given criteria
+MISC--: this indeed important issue
+BASE--: however we shall not address this paper see eg citation related work
+OWNX--: instead we take different approach consider information theoretic aspects reconstruction problem
+OWNX--: specifically let symbol rank symbol matrix we wish reconstruct
+MISC--: sake simplicity suppose symbol known
+MISC--: initially no information about symbol other than its rank available
+OWNX--: however we allowed inspect any entry symbol inspect many entries we desire order complete reconstruction
+OWNX--: course if we inspect all symbol entries symbol then we will able reconstruct symbol exactly
+OWNX--: thus natural ask whether we inspect only small number entries still able reconstruct symbol efficient manner
+MISC--: besides being theoretical curiosity problem does arise practical applications
+MISC--: instance sensor network localization setting citation aforementioned problem tantamount asking pairwise distances needed order guarantee successful reconstruction network topology
+MISC--: turns out if number required pairwise distances small then we will able efficiently reconstruct network topology performing just few distance measurements solving small semidefinite program sdp citation
+OWNX--: get idea what we should aim let us first determine degrees freedom available specifying rank symbol matrix symbol
+OWNX--: this will give us lower bound number entries symbol we need inspect order guarantee exact reconstruction
+MISC--: towards end consider singular value decomposition svd symbol where symbol symbol orthonormal columns symbol diagonal matrix
+MISC--: clearly there symbol degrees freedom specifying symbol
+MISC--: now observe symbol symbol th column symbol must orthogonal all previous symbol columns must unit length
+MISC--: thus there symbol degrees freedom specifying symbol th column symbol implies there symbol degrees freedom specifying symbol
+MISC--: same argument there symbol degrees freedom specifying symbol
+OWNX--: hence we symbol symbol symbol symbol symbol symbol symbol theta delta symbol symbol nn symbol e e t symbol e ldots r n symbol symbol symbol symbol theta delta symbol symbol

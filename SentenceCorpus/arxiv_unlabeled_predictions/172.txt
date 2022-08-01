@@ -1,0 +1,23 @@
+MISC--: past few years powerful generalizations euclidean k means problem been made bregman clustering citation co clustering i e simultaneous clustering rows columns input matrix citation tensor clustering citation
+MISC--: like k means more general problems also suffer np hardness associated optimization
+MISC--: researchers developed approximation algorithms varying degrees sophistication k means k medians more recently also bregman clustering citation
+MISC--: however there seem no approximation algorithms bregman co tensor clustering
+AIMX--: this paper we derive first our knowledge guaranteed methods increasingly important clustering settings
+OWNX--: going beyond bregman divergences we also prove approximation factor tensor clustering arbitrary separable metrics
+OWNX--: through extensive experiments we evaluate characteristics our method show also practical impact
+MISC--: partitioning data points into clusters fundamentally hard problem
+MISC--: well known euclidean k means problem partitions input data points vectors symbol into symbol clusters while minimizing sums their squared distances corresponding cluster centroids np hard problem citation exponential symbol
+MISC--: however simple frequently used procedures rapidly obtain local minima exist since long time citation
+MISC--: because its wide applicability importance euclidean k means problem been generalized several directions
+MISC--: specific examples relevant this paper include setlength sep pt bregman clustering citation where instead minimizing squared euclidean distances one minimizes bregman divergences generalized distance functions see citation details bregman co clustering citation includes both euclidean citation information theoretic co clustering citation special cases where set input vectors viewed matrix one simultaneously clusters rows columns obtain coherent submatrices co clusters while minimizing bregman divergence tensor clustering multiway clustering citation especially version based bregman divergences citation where one simultaneously clusters along various dimensions input tensor
+OWNX--: problems too commonly used heuristics perform well but do not provide theoretical guarantees at best assure local optimality
+MISC--: k means type clustering problems i e problems group together input vectors into clusters while minimizing distance cluster centroids there exist several algorithms approximate globally optimal solution
+MISC--: we refer reader citation numerous references therein more details
+MISC--: stark contrast approximation algorithms tensor clustering much less studied
+AIMX--: we aware only two very recent attempts both papers two dimensional special case co clustering namely citation citation both papers follow similar approaches obtain their approximation guarantees
+MISC--: both prove symbol approximation euclidean co clustering citation additional factor symbol binary matrices symbol norm objective citation factor symbol co clustering real matrices symbol norms
+MISC--: all factors symbol approximation guarantee clustering either rows columns
+AIMX--: this paper we build upon citation obtain approximation algorithms tensor clustering bregman divergences arbitrary separable metrics symbol norms
+MISC--: latter result particular interest symbol norm based tensor clustering may viewed generalization k medians tensors
+OWNX--: terminology citation we focus block average versions co tensor clustering
+MISC--: additional discussion relevant references co clustering found citation while lesser known problem tensor clustering more background gained referring citation

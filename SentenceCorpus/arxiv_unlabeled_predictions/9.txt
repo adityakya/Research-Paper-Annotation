@@ -1,0 +1,38 @@
+OWNX--: method topological grammars proposed multidimensional data approximation
+OWNX--: data complex topology we define principal cubic complex low dimension given complexity gives best approximation dataset
+MISC--: this complex generalization linear non linear principal manifolds includes them particular cases
+MISC--: problem optimal principal complex construction transformed into series minimization problems quadratic functionals
+MISC--: quadratic functionals physically transparent interpretation terms elastic energy
+MISC--: energy computation whole complex represented system nodes springs
+MISC--: topologically principal complex product one dimensional continuums represented graphs grammars describe how continuums transform during process optimal complex construction
+MISC--: this factorization whole process onto one dimensional transformations using minimization quadratic energy functionals allow us construct efficient algorithms
+OWNX--: this paper we discuss classical problem how approximate finite set symbol symbol relatively large symbol finite subset regular low dimensional object symbol
+MISC--: application this finite set dataset this problem arises many areas data visualization fluid dynamics
+OWNX--: first hypothesis we check whether dataset symbol situated near low dimensional affine manifold plane symbol
+OWNX--: if we look point straight line plane
+MISC--: 
+MISC--: 
+OWNX--: minimizes average squared distance datapoints we immediately come principal component analysis pca
+MISC--: pca one most seminal inventions data analysis
+MISC--: now textbook material
+MISC--: nonlinear generalization pca great challenge many attempts been made answer
+OWNX--: two them especially important our consideration kohonen s self organizing maps som principal manifolds
+OWNX--: som algorithm citation we take finite metric space symbol metric symbol try map into symbol best preservation initial structure image symbol b best approximation dataset symbol
+MISC--: som algorithm several setup variables regulate compromise between goals
+OWNX--: we start some initial approximation map symbol
+OWNX--: each symbol th step algorithm we datapoint symbol current approximation symbol
+OWNX--: symbol symbol we define owner symbol symbol symbol
+MISC--: next approximation symbol symbol here symbol step size symbol monotonically decreasing cutting function
+MISC--: there many ways combine steps whole algorithm
+AIMX--: idea som very flexible seminal plenty applications generalizations but strictly speaking we don t know what we looking we algorithm but no independent definition som result algorithm work
+MISC--: attempts define som solution minimization problem some energy functional were not very successful citation
+MISC--: known probability distribution principal manifolds were introduced lines surfaces passing through middle data distribution citation
+MISC--: this intuitive vision was transformed into mathematical notion self consistency every point symbol principal manifold symbol conditional expectation all points symbol projected into symbol
+MISC--: neither manifold nor projection should linear just differentiable projection symbol data space usually symbol domain symbol onto manifold symbol self consistency requirement conditional expectations symbol finite dataset symbol only one zero datapoints typically projected into point principal manifold
+MISC--: order avoid overfitting we introduce smoothers become essential part principal manifold construction algorithms
+MISC--: soms give most popular approximations principal manifolds we take symbol fragment regular symbol dimensional grid consider resulting som approximation symbol dimensional principal manifold see example citation
+MISC--: several original algorithms construction principal curves citation surfaces finite datasets were developed during last decade well many applications this idea
+MISC--: discussion about som at th russian national seminar neuroinformatics method multidimensional data approximation based elastic energy minimization was proposed see citation bibliography there
+OWNX--: this method based analogy between principal manifold elastic membrane plate
+OWNX--: following metaphor elasticity we introduce two quadratic smoothness penalty terms
+MISC--: this allows one apply standard minimization quadratic functionals i e solving system linear algebraic equations sparse matrix

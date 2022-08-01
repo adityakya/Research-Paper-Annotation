@@ -1,0 +1,55 @@
+AIMX--: current paper we investigate how feedback over decision outcomes may affect future decisions
+MISC--: experimental study we demonstrate if people receive feedback over outcomes they obtained factual outcomes outcomes they would obtained had they decided differently counterfactual outcomes they become regret averse subsequent decisions
+MISC--: this effect not only observed when this feedback evoked regret counterfactual outcomes being higher than factual outcomes but even when feedback evoked no regret factual outcomes being equal counterfactual outcomes
+MISC--: findings suggest this effect subsequent decisions at least partly due transfer comparison mind set triggered prior choice
+MISC--: regret negative experience most us would want avoid
+MISC--: stems comparing obtained decision outcome outcomes might been had one chosen differently citation
+MISC--: research regret consistently shown anticipation regret motivation avoid regret drives many our decisions
+MISC--: although literature regret distinguishes between experienced regret anticipated regret does acknowledge connection between two sense experience current regret may affect anticipation future regret citation
+MISC--: agreement this notion creyer ross citation found experienced regret bidding subsequently led more risk averse biddings
+OWNX--: more specifically led people subsequently prefer high probability low payoff options over low probability high payoff options
+MISC--: also context consumer decision making cooke et al citation showed experienced regret over first decision influenced subsequent purchase decisions
+MISC--: similar vein zeelenberg pieters citation showed experienced regret led consumers switch different product
+MISC--: studies effect experienced regret subsequent decisions was domain specific sense example regret purchasing specific product was found affect subsequent purchases same similar product
+MISC--: more recently however raeva mittone schwarzbach citation found effects experienced regret might broader scope even extend decisions other domains
+MISC--: their study regret over risky decision affected subsequent decisions intertemporal choice setting
+MISC--: after playing gamble participants who learned they could obtained higher outcomes had they decided differently i e had they played another gamble showed stronger time preference citation
+MISC--: time preference does not refer comparison between factual counterfactual outcomes not related traditional gamble paradigm thus pertains different domain than one participants experienced regret
+OWNX--: so how should we explain findings
+MISC--: domain specific effects experienced regret subsequent choice most straightforward explanation would after experience regret decision makers merely learn they should not repeat their mistake thus change their behavior i e once bitten twice shy
+MISC--: this would consistent most models emotion regulation citation more specifically regret regulation citation
+MISC--: broader effects experienced regret however explanation terms learning may not suffice
+OWNX--: after all after experiencing regret risky setting does not directly follow one avoid making same mistake showing strong time preference
+MISC--: note however even non domain specific effects regret one could envisage carry over process assuming not specific decision related regret carries over subsequent decisions but rather more unspecified nature regret carries over
+MISC--: experience regret may sensitize decision makers future experiences regret increase their motivation avoid anticipated regret
+MISC--: rather than concluding they do not want make same mistake twice decision makers may reason they do not want experience same negative emotion twice
+MISC--: this explanation was favored raeva et al citation
+OWNX--: we do not want dispute regret specific explanations been put forward previous research
+MISC--: however we do want draw attention additional yet unexplored more general process may result experience regret experience regret may lead carry over comparative mind set citation
+OWNX--: one defining characteristics regret emotion results comparing what what could been
+MISC--: when obtained outcomes what after making choice compare unfavorable outcomes one could obtained decision makers will experience regret
+MISC--: comparing decision outcomes therefore essential experience regret if you don t compare you don t regret citation
+AIMX--: current paper we draw attention consequences making comparison
+MISC--: particular we suggest mere fact making comparative judgments about decision outcomes may already elicit comparative mind set this mind set may carry over subsequent decisions
+MISC--: xu wyer citation recently demonstrated carry over effect series studies purchase decisions
+MISC--: example one their experiments they presented participants opportunity buy one out four types products chocolate bars potato chips chewing gum pens
+MISC--: choose buy one products one needs compare products
+MISC--: consistent their comparative mind set idea participants willingness purchase one products increased if previously they had completed task requiring them compare animals each other e g comparing elephants hippos
+MISC--: other words evoked comparative mind set animals task carried over product purchase task
+MISC--: more general terms xu wyer p number described carry over comparative mind set once activated persist influence behaviors decisions other situations comparison processes might come into play
+AIMX--: agreement insights we here suggest experience regret critically dependent comparison what what could been may evoke comparative mind set this comparative mind set persists influence subsequent decision making
+OWNX--: investigate this possibility we designed experiment participants made two successive decisions
+OWNX--: first we presented participants decision task they would would not experience regret
+OWNX--: subsequently we presented them different task matching task they had match two options terms attractiveness
+MISC--: induce regret first task participants were presented situation they obtained low outcomes learned they would obtained higher outcomes had they chosen differently
+OWNX--: investigate idea at least part effects this induction regret may attributed invoked comparative mind set we also included several alternative inductions
+OWNX--: some we presented our participants same low outcomes but we did not inform them outcomes they could obtained had they chosen differently
+OWNX--: conditions participants thus obtained low outcomes but could not compare their outcomes what could been
+MISC--: absence comparison decision outcomes people could therefore not regret their decision
+MISC--: this consistent bell citation who argued key identification regret factor decision making under uncertainty hypothesis may matter whether foregone lottery resolved not
+OWNX--: this predicted phenomenon experimentation should concentrated
+MISC--: indeed studies followed up this advice found decision makers most likely anticipate regret when expecting feedback citation
+OWNX--: another condition however we did inform participants about outcome they would obtained had they chosen differently but told them this outcome would yielded exactly same outcome
+OWNX--: note this condition crucial because this condition too participants would experience no regret but this no regret would now result similar comparison process this case conclusion there nothing regret also results comparison what what could been
+OWNX--: this experimental setup allowed us investigate plausibility our general comparative mind set explanation versus more specific explanations learning regret sensitivity explanations put forward prior research
+OWNX--: if effects experienced regret subsequent decisions would primarily result carry over specific experience regret we should find effects would observed only condition we induced regret

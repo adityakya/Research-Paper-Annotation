@@ -1,0 +1,24 @@
+OWNX--: we present streaming model large scale classification context symbol svm leveraging connections between learning computational geometry
+MISC--: streaming model imposes constraint only single pass over data allowed
+MISC--: symbol svm known equivalent formulation terms minimum enclosing ball meb problem efficient algorithm based idea core sets exists cvm citation
+MISC--: cvm learns symbol approximate meb set points yields approximate solution corresponding svm instance
+OWNX--: however cvm works batch mode requiring multiple passes over data
+AIMX--: this paper presents single pass svm based minimum enclosing ball streaming data
+OWNX--: we show meb updates streaming case easily adapted learn svm weight vector way similar using online stochastic gradient updates
+OWNX--: our algorithm performs polylogarithmic computation at each example requires very small constant storage
+OWNX--: experimental results show even restrictive settings we learn efficiently just one pass get accuracies comparable other state art svm solvers batch online
+OWNX--: we also give analysis algorithm discuss some open issues possible extensions
+AIMX--: learning streaming model poses restriction we constrained both terms time well storage
+MISC--: scenarios quite common example cases analyzing network traffic data when data arrives streamed fashion at very high rate
+MISC--: streaming model also applies cases disk resident large datasets cannot stored memory
+MISC--: unfortunately standard learning algorithms do not scale well cases
+AIMX--: address scenarios we propose applying stream model computation citation supervised learning problems
+OWNX--: stream model we allowed only one pass small number passes over ordered data set polylogarithmic storage polylogarithmic computation per element
+MISC--: spite severe limitations imposed streaming framework streaming algorithms been successfully employed many different domains citation
+MISC--: many problems geometry adapted streaming setting since many learning problems equivalent geometric formulations streaming algorithms naturally motivate development efficient techniques solving approximating large scale batch learning problems
+AIMX--: this paper we study application stream model problem maximum margin classification context symbol svms citation
+OWNX--: since support vector machine widely used classification framework we believe success here will encourage further research into other frameworks
+MISC--: svms known natural formulation terms minimum enclosing ball problem high dimensional space citation
+MISC--: this latter problem been extensively studied computational geometry literature admits natural streaming algorithms citation
+OWNX--: we adapt algorithms classification setting provide some extensions outline some open issues
+OWNX--: our experiments show we learn efficiently just one pass get competetive classification accuracies synthetic real datasets

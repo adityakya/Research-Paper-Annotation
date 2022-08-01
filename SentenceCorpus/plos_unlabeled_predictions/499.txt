@@ -1,0 +1,35 @@
+MISC--: recently number advanced screening technologies allowed comprehensive quantification aggravating alleviating genetic interactions among gene pairs
+MISC--: parallel tap ms studies been successful at identifying physical protein interactions indicate proteins participating same molecular complex
+OWNX--: here we propose method joint learning protein complexes their functional relationships integration quantitative genetic interactions tap ms data
+OWNX--: using independent benchmark datasets we demonstrate this method percent more accurate at identifying functionally related protein pairs than previous approaches
+MISC--: application genes involved yeast chromosome organization identifies functional map multimeric complexes number novel been substantially expanded addition new subunits
+OWNX--: interestingly we find complexes enriched aggravating genetic interactions more likely contain essential genes linking each interactions underlying mechanism
+OWNX--: results demonstrate importance both large scale genetic physical interaction data mapping pathway architecture function
+MISC--: genetic interactions logical relationships between genes occur when mutating two more genes combination produces unexpected phenotype citation citation
+MISC--: recently rapid screening genetic interactions become feasible using synthetic genetic arrays diploid synthetic lethality analysis microarray citation citation
+MISC--: sga pairs gene deletion interest against deletion every other gene genome
+OWNX--: growth no growth phenotype measured over all pairings defines genetic interaction profile gene no growth indicating synthetic lethal genetic interaction
+MISC--: alternatively all combinations double deletions analyzed among functionally related group genes citation citation
+MISC--: recent variant sga termed e map citation made possible measure continuous rates growth varying degrees epistasis
+MISC--: aggravating interactions indicated if growth rate double gene deletion slower than expected while alleviating interactions opposite true citation citation
+OWNX--: one popular method analyze genetic interaction data been hierarchically cluster genes using distance between their genetic interaction profiles
+OWNX--: clusters genes similar profiles manually searched identify known pathways complexes they contain well any genetic interactions between complexes
+OWNX--: this approach been applied several large scale genetic interaction screens yeast including genes involved secretory pathway citation chromosome organization citation
+MISC--: segr et al citation extended basic hierarchical clustering concept monochromaticity genes were merged into same cluster based minimizing number interactions other clusters do not share same classification
+MISC--: another set methods sought interpret genetic relationships using physical protein protein interactions citation
+MISC--: among kelley ideker citation used physical interactions identify both within module between module explanations genetic interactions
+MISC--: both cases modules were detected clusters proteins physically interact each other more often than expected chance
+MISC--: within module model predicts clusters directly overlap clusters genetic interactions
+MISC--: between module model predicts genetic interactions run between two physical clusters functionally related
+MISC--: this approach was improved ulitsky et al citation using relaxed definition physical modules
+MISC--: related work zhang et al citation screened known complexes annotated munich information center protein sequences identify pairs complexes dense genetic interactions between them
+MISC--: one concern above approaches works kelley ulitsky particular they make assumptions about density interactions within between modules not been justified biologically
+MISC--: ideally parameters should learned directly data
+OWNX--: second between module relationships identified separate independent searches network seeded each genetic interaction
+MISC--: this local search strategy lead set modules highly overlapping even completely redundant one another
+MISC--: finally genetic interactions assumed binary growth no growth events while e map technology now made possible measure continuous values genetic interaction varying degrees epistasis
+AIMX--: here we present new approach integrating quantitative genetic physical interaction data addresses several shortcomings
+MISC--: interactions analyzed infer set modules set inter module links module represents protein complex coherent cellular function inter module links capture functional relationships between modules vary quantitatively strength sign
+CONT--: our approach supervised appropriate pattern physical genetic interactions not predetermined but learned examples known complexes
+OWNX--: rather than identify each module independent searches all modules identified simultaneously within single unified map modules inter module functional relationships
+AIMX--: we show this method outperforms number alternative approaches when applied analyze recent emap study yeast chromosome function identifies numerous new protein complexes protein functional relationships

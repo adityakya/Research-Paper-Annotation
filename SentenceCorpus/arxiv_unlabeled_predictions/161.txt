@@ -1,0 +1,22 @@
+MISC--: support vector machines svms extremely successful type classification regression algorithms
+MISC--: building svm entails solving constrained convex quadratic programming problem quadratic number training samples
+OWNX--: we introduce efficient parallel implementation support vector regression solver based gaussian belief propagation algorithm gabp
+AIMX--: this paper we demonstrate methods complex system domain could utilized performing efficient distributed computation
+OWNX--: we compare proposed algorithm previously proposed distributed single node svm solvers
+OWNX--: our comparison shows proposed algorithm just accurate solvers while being significantly faster especially large datasets
+OWNX--: we demonstrate scalability proposed algorithm up computing nodes hundreds thousands data points using ibm blue gene supercomputer
+BASE--: far we know our work largest parallel implementation belief propagation ever done demonstrating applicability this algorithm large scale distributed computing systems
+MISC--: support vector machines svms class algorithms recent years exhibited superior performance compared other pattern classification algorithms
+MISC--: there several formulations svm problem depending specific application svm e g classification regression etc
+OWNX--: one difficulties using svms building svm requires solving constrained quadratic programming problem whose size quadratic number training examples
+MISC--: this fact led extensive research efficient svm solvers
+MISC--: recently several researchers suggested using multiple computing nodes order increase computational power available solving svms
+OWNX--: this article we introduce distributed svm solver based gaussian belief propagation gabp algorithm
+OWNX--: we improve original gabp algorithm reducing communication load represented number messages sent each optimization iteration symbol symbol aggregated messages where symbol number data points
+MISC--: previously was known gabp algorithm very efficient sparse matrices
+OWNX--: using our novel construction we demonstrate algorithm exhibits very good performance dense matrices well
+OWNX--: we also show gabp algorithm used kernels thus making algorithm more powerful than what was considered previously thought possible
+OWNX--: using extensive simulation we demonstrate applicability our protocol vs state art existing parallel svm solvers
+OWNX--: using linux cluster up hundred machines ibm blue gene supercomputer we managed solve very large data sets up hundreds thousands data point using up cpus working parallel
+CONT--: our comparison shows proposed algorithm just accurate previous solvers while being significantly faster
+AIMX--: preliminary version this paper appeared poster citation

@@ -1,0 +1,30 @@
+OWNX--: we used diffusion model examine effects response bias manipulations response time rt accuracy data collected two experiments involving two choice decision making task
+OWNX--: we asked number subjects respond low high number asterisks number x number grid based experimenter determined decision cutoff
+OWNX--: model evidence accumulated until either low high decision criterion reached this turn initiates response
+OWNX--: we performed two experiments four experimental conditions
+OWNX--: conditions number number decision cutoff between low high judgments was fixed at number
+OWNX--: condition number we manipulated frequency low high stimuli were presented
+OWNX--: condition number we used payoff structures mimicked frequency manipulation
+OWNX--: we found manipulating stimulus frequency resulted larger effect rt accuracy than did manipulating payoff structure
+OWNX--: model we found manipulating stimulus frequency produced greater changes starting point evidence accumulation process than did manipulating payoff structure
+CONT--: conditions number number we set decision cutoff at number number number experiment number at number number experiment number
+OWNX--: condition number there was equal number low high stimuli whereas condition number there were unequal proportions low high stimuli
+MISC--: model analyses showed starting point changes accounted biases produced changes stimulus proportions whereas evidence biases accounted changes decision cutoff
+MISC--: well known experimental manipulations perceptual decision making tasks produce systematic changes behavioral responses subjects
+MISC--: experimental psychologists example observed subjects bias their responses based probability occurrence stimulus citation
+MISC--: formal models been used describe predict response bias perceptual two choice tasks citation
+MISC--: models typically conceptualize decision process accumulation sensory information over time towards decision threshold
+MISC--: aim this study was use one models citation examine what processes account biases two choice tasks produced manipulations stimulus frequency payoffs movement decision cutoff i e point at stimuli assigned one versus other response category
+MISC--: manipulations stimulus frequency well known response times rts stimuli appear more often faster than rts stimuli shown less often
+MISC--: addition accuracy increased less more frequent stimuli
+MISC--: remington citation example used task subjects responded one two lights depressing corresponding keys
+OWNX--: there were blocks trials each light was turned half trials blocks one light was turned number percent trials other number percent trials blocks proportions were reversed
+MISC--: comparison equally likely condition response times rts were faster trials light appeared more often slower trials appeared less often
+MISC--: studying effects explicit payoff manipulations also been long standing interest cognitive psychology citation
+MISC--: fitts citation example used payoff matrices allow subjects earn bonus at end session
+MISC--: subjects always earned one point each correct fast response but lost points based one following structures one they lost half point correct slow responses one tenth point wrong fast responses one point wrong slow responses two they lost one tenth point correct slow responses half point wrong fast responses one point wrong slow responses
+MISC--: fitts found subjects either responded faster made more errors responded more slowly made fewer errors order not lose too many points
+MISC--: more recently rorie gao mcclelland newsome citation manipulated response biases payoffs motion discrimination task multiple reward contingencies four reward conditions
+CONT--: two rhesus monkeys tested showed indistinguishable psychophysical performance neutral reward conditions but biased performance i e faster response increased response probability toward high reward response biased conditions
+AIMX--: our present study manipulated stimulus frequency payoffs typically reported literature but planned novel direct comparison two manipulations attempt answer whether effect observed both rt accuracy due changes stimulus frequency similar effect due changes reward values
+OWNX--: moreover we added this comparison less commonly studied manipulation decision cutoffs

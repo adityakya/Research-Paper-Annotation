@@ -1,0 +1,56 @@
+AIMX--: we consider class fully stochastic fully distributed algorithms we prove learn equilibria games
+OWNX--: indeed we consider family stochastic distributed dynamics we prove converge weakly sense weak convergence probabilistic processes towards their mean field limit i
+MISC--: e ordinary differential equation ode general case
+AIMX--: we focus then class stochastic dynamics where this ode turns out related multipopulation replicator dynamics
+MISC--: well known studied evolutionary game theory
+MISC--: using facts known about convergence this ode we discuss convergence initial stochastic dynamics general games there might non convergence but when convergence ode holds considered stochastic algorithms converge towards nash equilibria
+OWNX--: games admitting lyapunov functions we call lyapunov games stochastic dynamics converge
+OWNX--: we prove any ordinal potential game hence any potential game lyapunov game multiaffine lyapunov function
+AIMX--: lyapunov games multiaffine lyapunov function we prove this lyapunov function super martingale over stochastic dynamics
+MISC--: this leads way provide bounds their time convergence martingale arguments
+MISC--: this applies particular many classes games been considered literature including several load balancing game scenarios congestion games
+MISC--: consider scenario where agents learn their experiments small adjustments
+MISC--: this might example about choosing their telephone companies about their portfolio investments
+OWNX--: we will assume rational
+MISC--: assume agents rational
+OWNX--: we interested understanding when whole market converge towards rational situations i e nash equilibria sense game theory
+OWNX--: this natural expect dynamics adjustments stochastic fully distributed since we expect agents adapt their strategies based their local knowledge market since agents often involved games where global hence local deterministic description whole global market not possible
+MISC--: we also want avoid dynamics would suppose global knowledge market say we several dynamics adjustments been considered recently algorithmic game theory literature
+OWNX--: up our knowledge this been done mainly deterministic dynamics best response based dynamics computing best response requires global description market
+MISC--: stochastic variations avoiding global description been considered
+CONT--: however considered dynamics somehow rather ad hoc order get efficient convergence time bounds still mainly best response based
+MISC--: we want consider here more general dynamics discuss when one may expect convergence
+MISC--: this could lead consider any dynamics monotone respect utility players relation evolutionary game theory literature citation
+AIMX--: we propose restrict here dynamics lead dynamics related possibly perturbed replicator dynamics
+BASE--: somehow algorithmic game theory seen algorithmic version classical game theory our long term aim better understand algorithmic evolutionary game theory
+AIMX--: somehow we could also say best response dynamics seen strategies visit corners simplex mixed strategies we interested long term objective learning methods could seen interior point methods find equilibria
+MISC--: basic game theory framework
+MISC--: let symbol set players
+MISC--: every player symbol set symbol pure strategies
+MISC--: let symbol cardinal symbol
+MISC--: mixed strategy symbol corresponds probability distribution over pure strategies pure strategy symbol chosen probability symbol symbol
+MISC--: let symbol simplex mixed strategies player symbol
+MISC--: any pure strategy symbol considered mixed strategy symbol where vector symbol denotes unit probability vector symbol component unity hence corner symbol
+OWNX--: let symbol space all mixed strategies
+OWNX--: strategy profile symbol specifies mixed pure strategies all players symbol corresponds mixed strategy played player symbol
+OWNX--: following classical convention we write often write abusively symbol where symbol denotes vector strategies played all other players
+OWNX--: we allow games whose payoffs may random we only assume whenever strategy profile symbol known each player symbol gets random cost expected value symbol
+OWNX--: particular expected cost player symbol playing pure strategy symbol denoted symbol
+MISC--: some classes games
+MISC--: several classes deterministic games where players costs based shared usage common set resources symbol where each resource symbol associated nondecreasing cost function denoted symbol been considered algorithmic game theory literature
+MISC--: load balancing games citation resources called machines players compete elements i e singleton subsets symbol
+MISC--: hence pure strategy space symbol player symbol having weight symbol corresponds symbol subset symbol pure strategy symbol player symbol some element symbol
+MISC--: cost player task symbol under profile pure strategies assignment symbol corresponds symbol where symbol load machine symbol symbol say defined sum weights tasks running
+MISC--: congestion games citation resources called edges players compete subsets symbol
+OWNX--: hence pure strategy space symbol player symbol subset symbol pure strategy symbol player symbol subset symbol
+MISC--: cost player symbol under profile pure strategies symbol corresponds symbol where symbol number players use resource symbol symbol say number symbol symbol
+MISC--: weighted congestion games weights symbol associated players one takes instead symbol
+MISC--: task allocation games citation load balancing games resources called machines players compete elements i e singleton subsets symbol
+MISC--: each resource machine symbol assumed function symbol takes input set tasks symbol assigned outputs cost symbol each participating player symbol
+MISC--: cost player symbol under profile pure strategies symbol then given symbol
+MISC--: functions symbol considered speed scheduling policies associated costs corresponding completion time player task symbol
+MISC--: example spt lpt policies schedule jobs without preemption respectively order increasing decreasing weights processing times citation
+MISC--: clearly load balancing games particular task allocation games load balancing games particular weighted congestion games
+OWNX--: load balancing game whose weights unitary particular congestion game
+MISC--: ordinal potential games
+OWNX--: all classes games related ordinal potential games introduced citation game ordinal potential game if there exists some function symbol pure strategies symbol all pure strategies symbol symbol symbol one symbol

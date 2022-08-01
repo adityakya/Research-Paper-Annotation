@@ -1,0 +1,38 @@
+MISC--: recent times stochastic treatments gene regulatory processes appeared literature cell exposed signaling molecule its environment triggers synthesis specific protein through network intracellular reactions
+MISC--: stochastic nature this process leads distribution protein levels population cells determined fokker planck equation
+OWNX--: often instability occurs consequence two steady state protein levels one at low end representing off state other at high end representing state given concentration signaling molecule within suitable range
+MISC--: consequence bistability been appearance bimodal distributions indicating two different populations one off state other state
+MISC--: bimodal distribution come about stochastic analysis single cell
+CONT--: however concerted action population altering extracellular concentration environment individual cells hence their behavior only accomplished appropriate population balance model accounts reciprocal effects interaction between population its environment
+AIMX--: this study we show how formulate population balance model stochastic gene expression individual cells incorporated
+MISC--: interestingly simulation model shows bistability neither sufficient nor necessary bimodal distributions population
+MISC--: original notion linking bistability bimodal distribution single cell stochastic model therefore only special consequence population balance model
+OWNX--: study cell populations vastly improved flow cytometry access multivariate distribution measures cell populations advanced considerably calling concomitant application theory sensitive population heterogeneity
+MISC--: this regard population balance framework fredrickson et al citation provided requisite modeling machinery same
+OWNX--: while this recognition generally exists literature modeling gene regulatory processes been at single cell level based being viewed average cell
+MISC--: since gene regulatory processes typically involve small number molecules reaction network stochastic its dynamics feature included single cell analysis
+OWNX--: further issue importance bistability occurs when two levels gene expression one high referred other low referred off exist given concentration signaling molecule
+MISC--: this issue very much part stochastic modeling single cell citation citation
+MISC--: several kinds stochastic models been developed two them been broadly used stochastic simulation algorithm citation citation fokker planck equation stochastic differential equations citation citation
+MISC--: stochastic model certainly cures drawback deterministic model describes only averaged behavior large populations without realizing fluctuating behaviors different cells
+MISC--: bistability been studied extensively through experiments theoretical analysis numerical simulations citation citation citation citation
+MISC--: bistable system characterized existence two stable steady states
+OWNX--: modes relating two stable steady states appear bimodal distribution population
+MISC--: coexistence bistability bimodal distribution been shown many publications citation citation citation citation citation
+OWNX--: however almost all modeling works stochastic gene regulation relate processes at single cell level
+MISC--: outcome numerous simulated trajectories single cell behavior been interpreted population behavior
+OWNX--: cell assumed act totally independently other cells without regard fact signaling environment continuously altered concerted action all members population
+MISC--: no interaction between other cells been taken into consideration models could indeed lead serious bias
+MISC--: drawback single cell model may overcome applying population balance approach citation
+MISC--: detailed general framework application population balances microbial populations was developed fredrickson et al citation
+MISC--: however population balance model cited work many others followed literature based deterministic behavior particulate entities
+MISC--: ramkrishna citation shows how pbm accommodate random particulate behavior described stochastic differential equations
+OWNX--: this study we demonstrate formulating stochastic gene regulation incorporating pbm capable tracing time evolution behavior entire cell population
+MISC--: system pheromone induced conjugative plasmid transfer citation contributing dissemination antibiotic resistance virulence enterococcus faecalis infections citation citation been simulated this study example critical difference between stochastic gene regulation incorporating pbm single cell stochastic model
+AIMX--: our objective this paper formulate population balance models stochastic gene expression single cells
+BASE--: further we explore circumstances under bimodal distributions observed protein distributions particular we investigate generally prevailing view literature bistability bimodality protein distribution occur concurrently citation citation citation citation citation
+MISC--: exception this view appears work karmakar bose citation citation who showed bimodal distributions arise without bistability when reaction time downstream gene regulation short relative time required change dna conformation
+MISC--: other similar publications also found literature citation citation
+OWNX--: while cited works show bimodal distributions without bistability must understood their conclusions based mechanistic differences behavior isolated single cells
+AIMX--: this study we approach issue relationship between bistability bimodality rational viewpoint i e examine nature protein distribution cells without bistability within framework population balances
+MISC--: thus circumstances will investigated figure bimodal distributions arise without bistability figure b unimodal distributions arise even when bistability exists

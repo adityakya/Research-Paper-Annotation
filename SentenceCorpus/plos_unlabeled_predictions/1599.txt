@@ -1,0 +1,44 @@
+MISC--: eukaryotic cells internalization extracellular cargo via endocytic machinery important regulatory process required many essential cellular functions
+MISC--: role cooperative protein protein protein membrane interactions ubiquitous endocytic pathway mammalian cells namely clathrin dependent endocytosis remains unresolved
+OWNX--: we employ helfrich membrane hamiltonian together surface evolution methodology address how shapes energetics vesicular bud formation planar membrane stabilized presence clathrin coat assembly
+OWNX--: our results identify unique dual role tubulating protein epsin multiple epsins localized spatially orientationally collectively play role curvature inducing capsid addition epsin serves role adapter binding clathrin coat membrane
+OWNX--: our results also suggest important role clathrin lattice namely spatial orientational templating epsins
+OWNX--: we suggest there exists critical size coat above vesicular bud constricted neck resembling mature vesicle stabilized
+OWNX--: based observed strong dependence vesicle diameter bending rigidity we suggest variability bending stiffness due variations membrane composition cell type explain experimentally observed variability size clathrin coated vesicles typically range nm
+OWNX--: our model also provides estimates number epsins involved stabilizing coated vesicle without any direct fitting reproduces experimentally observed shapes vesicular intermediates well their probability distributions quantitatively wildtype well clap igg injected neuronal cell experiments
+MISC--: we presented minimal mesoscale model quantitatively explains several experimental observations process vesicle nucleation induced clathrin coated assembly prior vesicle scission clathrin dependent endocytosis
+MISC--: cellular process endocytosis important biological regulation trafficking cells well impacts technology targeted drug delivery nanomedicine citation citation citation citation citation citation citation
+OWNX--: eukaryotic cells internalization extracellular cargo via endocytic machinery important regulatory process required many essential cellular functions including nutrient uptake cell cell communication
+MISC--: several experimental citation well theoretical citation citation citation treatments addressed mechanisms endocytosis yet role cooperative protein protein protein membrane interactions ubiquitous endocytic pathway mammalian cells namely clathrin dependent endocytosis remains unresolved
+MISC--: sequence molecular events cde responsible recruitment adaptor protein accessory proteins epsin ap eps dynamin etc scaffolding protein clathrin plasma membrane citation
+MISC--: accessory proteins epsin implicated membrane bending citation
+MISC--: polymerization clathrin triskelia presence adaptor proteins ap results clathrin coat formation tubulating proteins epsin interact both clathrin coat well bilayer citation stabilize clathrin coated budding vesicle
+MISC--: involvement dynamin believed vesicle scission step citation
+MISC--: even though actin believed play important role endocytosis process s cerevisiae mammalian cells actin repression at best small effect endocytosis citation
+OWNX--: we focus energetic stabilization budding vesicle induced clathrin coat assembly
+MISC--: recent work citation demonstrates membrane invagination only begins presence growing clathrin coat citation
+MISC--: experiments performed down regulating ap expression citation citation well those involving inhibition epsin citation either significantly decrease number clathrin coated pits alter distribution coated intermediates involved vesicle bud formation
+BASE--: although cde mammalian cells remains complex regulatory process we believe critical self consistent set experiments now emerging warrants formulation physically based models quantitatively describe bioenergetics protein induced vesicle formation cde citation
+MISC--: even though models directly addressing cde experimental context not been proposed oster et al addressed yeast endocytosis driven actin citation citation
+MISC--: moreover kohyama et al citation shown model two component membranes bud response induced spontaneous curvature line tension between two components membrane frese et al investigated effect protein shape crowding domain formation curvature biological membranes citation
+MISC--: recent mini review examining current experimental trend lundmark carlsson driving membrane curvature clathrin dependent clathrin independent endocytosis also available citation
+OWNX--: we formulate minimal model restricting our focus three proteins clathrin coat assembly clathrin epsin ap their role stabilization budding vesicle cell membrane
+MISC--: mammalian cells diverse set proteins often serve surrogates participate compensatory mechanisms
+OWNX--: this regard our choice ingredients minimal model represents roles scaffolding proteins curvature inducing proteins adaptor proteins
+MISC--: recent experiments citation citation reported characteristics nucleation growth clathrin coat initiation was observed occur randomly but only within subdomains devoid cytoskeletal elements
+MISC--: bsc cell lines domains appear nm diameter surrounded rim nm dead zone
+MISC--: notably nucleation clathrin coats was observed only nm region citation following salient properties growth phase addition clathrin proceeds at steady rate about one triskelion every s
+MISC--: two fates possible growing coat they either transform into vesicle they abort containing about triskelia suggests coat sizes bounded
+OWNX--: while we do not consider process nucleation growth clathrin based above observations we study process one maturing vesicle presence assembled clathrin coat finite size membrane patch free cytoskeletal elements subject pinned boundary condition at patch boundary
+OWNX--: our model cell membrane patch not fortified cytoskeleton we employ typical value bending rigidity our k bt derived literature citation citation
+OWNX--: this respect we describe mean field model characterizes membrane patch homogeneous phase effective properties
+OWNX--: our model also mean field sense applies just one vesicular intermediate effect neighboring coats not included
+OWNX--: noted earlier our model does not account mechanism clathrin coat nucleation vesicle scission
+MISC--: clathrin triskelia ap polymerize form coat citation stabilizing interactions clathrin coat assembly quantified using free energy polymerization process
+MISC--: based vitro equilibrium data clathrin cage formation nossal citation estimated energetics fully closed clathrin ap basket relative dissolved coat k bt
+MISC--: inclusion epsin clathrin coat accounts k bt energy per bound epsin enth domain epsin binds ptdinsp lipid head groups membrane binding energy k bt per bound epsin citation clap domain epsin interacts clathrin ap energy k bt citation
+MISC--: enth interactions membrane require presence pip constitutes about percent total phospholipids cell membrane citation
+MISC--: produce coated vesicle d nm diameter area clathrin coat required d nm
+MISC--: considering area per lipid head group nm number pip molecules membrane spanning area coat percent
+OWNX--: hence we note ratio enth binding sites clap binding sites hence clathrin coat grows we expect sufficient number corresponding pip binding sites present enth domain epsin bind
+OWNX--: this reason we justified not explicitly considering pip necessary limiting species our minimal model

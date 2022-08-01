@@ -1,0 +1,35 @@
+MISC--: we perform large scale study intrinsically disordered regions proteins protein complexes using non redundant set hundreds different protein complexes
+MISC--: accordance conventional view folding binding coupled many our cases disorder order transition occurs upon complex formation localized binding interfaces
+MISC--: moreover analysis disorder protein complexes depicts significant fraction intrinsically disordered regions up one third all residues being disordered
+OWNX--: we find disorder homodimers especially symmetrical homodimers significantly higher than heterodimers offer explanation this interesting phenomenon
+OWNX--: we argue mechanisms regulation binding specificity through disordered regions complexes common unbound monomeric proteins
+MISC--: fascinating diversity roles disordered regions various biological processes protein oligomeric forms shown our study may subject future endeavors this area
+MISC--: many proteins protein regions been shown intrinsically disordered under native conditions namely they contain no very little well defined structure citation citation
+MISC--: intrinsically disordered proteins been found wide scope organisms their disorder content was shown increase organism complexity citation citation
+MISC--: comparative analysis functional roles disordered proteins suggest they predominantly located cell nucleus involved transcription regulation cell signaling also associated processes cell cycle control endocytosis replication biogenesis cytoskeleton citation citation
+MISC--: idps certain properties functions distinguish them proteins well defined structures
+MISC--: idps no unique three dimensional structure isolated state but fold upon binding their interaction partners citation citation citation citation
+MISC--: conformational changes upon binding proteins unstructured regions much larger than those structured proteins citation
+MISC--: conformations disordered regions protein complex determined not only amino acid sequences but also interacting partners citation citation
+MISC--: idps many different functions bind many different partners using same different interfaces citation
+MISC--: idps accommodate larger interfaces smaller scaffolds compared proteins well defined structure citation citation citation
+MISC--: idps typically amino acid composition low aromatic content high net charge well low sequence complexity high flexibility citation citation citation
+MISC--: intrinsic disorder provides rapid degradation unfolded proteins thereby enabling rapid response changes protein concentration citation
+MISC--: finally intrinsic disorder offers elegant mechanism regulation through post translational modifications many cellular processes citation citation
+MISC--: predictions disorder proteins take into account characteristic features unstructured proteins been shown rather successful especially case large regions
+OWNX--: according results casp best prediction groups successfully identified percent disordered residues false positive rates percent percent citation
+MISC--: prediction methods aim identify disordered regions through analysis amino acid sequences using mainly physico chemical properties amino acids citation citation citation evolutionary conservation citation citation citation
+MISC--: protein interactions crucial protein function biological role disordered proteins should also studied this context
+MISC--: indeed folding disordered proteins into ordered structures may occur upon binding their specific partners citation citation citation citation may allow disordered regions structurally accommodate multiple interaction partners high specificity low affinity citation citation citation
+MISC--: moreover been shown binding mechanism whether binding occurs between folded unfolded chains depends structural characteristics interface properties degree minimal frustration monomers citation citation
+MISC--: binding through unfolded partially unfolded intermediates provide kinetic advantage through fly casting mechanism citation
+MISC--: according this mechanism dimensionality reduction occurs when folding disordered protein coupled binding thereby speeding up search specific targets
+MISC--: database continuous protein fragments been compiled protein data bank include short protein chains bound larger proteins citation citation
+OWNX--: been argued morfs participate coupling binding folding hypothesis was supported analysis composition predicted disorder morf segments
+MISC--: result studying subtle structural differences same proteins different conditions functional states many so called dual personality protein segments were found able exist both ordered disordered states citation
+MISC--: there continuous range between completely structured completely disordered proteins intermediate cases rather common citation proteins disordered but compact multi domain proteins disordered linkers ordered proteins some local disorder
+MISC--: examples proteins intrinsically disordered regions exhibit coupling between folding binding been described literature previously citation citation citation citation
+MISC--: nevertheless universality this phenomenon functional importance many disordered regions remains unclear
+MISC--: question expanded further how much intrinsic disorder do protein complexes contain what its functional importance
+OWNX--: answer questions we examine observed predicted disorder protein complexes unbound proteins using large scale dataset protein structures
+MISC--: atomic details structures conserved binding mode analysis introduced earlier citation allow us monitor changes happening near interaction interfaces infer their functional importance

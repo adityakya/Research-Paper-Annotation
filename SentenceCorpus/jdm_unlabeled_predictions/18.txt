@@ -1,0 +1,34 @@
+MISC--: numerical predictions central interest both coherence based approaches judgment decisions heuristic biases hb program particular correspondence based approaches social judgment theory sjt
+AIMX--: this paper i examine way two approaches study numerical predictions reviewing papers use cue probability learning cpl central experimental paradigm studying numerical predictions sjt tradition while attempting look heuristics biases
+MISC--: theme underlying this review both bias prone heuristics adaptive heuristics govern subjects predictions cpl
+CONT--: when they little experience guide them subjects fall prey relying bias prone natural heuristics representativeness anchoring adjustment only prediction strategies available them
+MISC--: but they acquire experience prediction task heuristics abandoned replaced ecologically valid heuristics
+MISC--: numerical predictions predictions single most appropriate numerical estimation outcome required central interest both coherence based correspondence based approaches judgment decisions
+MISC--: correspondence approach numerical predictions central interest social judgment theory sjt derived brunswikian ideas about probabilistic functionalism citation
+MISC--: coherence approach numerical predictions central interest heuristic biases hb research program citation
+OWNX--: way predictions studied two traditions different
+MISC--: sjt tradition they studied comparing them measurable criteria way their correspondence environment evaluated
+MISC--: particular cue probability learning cpl experimental paradigm most popular experimental paradigm sjt tradition subjects learn environmental relationship between cues predictors outcomes asked generate predictions based their learning
+MISC--: paradigm allows assessing validity predictions examining correlation between prediction true outcome labeled achievement index
+MISC--: other hand hb tradition validity predictions assessed against normative prediction rules
+MISC--: example their classic study kahneman tversky citation examined predictions outcome gpa three predictors differing their predictive validity found they did not differ their extremity measured prediction slope
+MISC--: predictions violate basic normative least square law suggesting predictions ought regressive higher predictive validity predictor higher extremity
+OWNX--: thus at least at first glance appears sjt approach study numerical prediction based correspondence focuses evaluating predictions based their correspondence ecological criterion whereas hb approach based coherence focuses evaluating predictions based normative standard
+MISC--: one issue evaluating coherence correspondence approaches judgment decisions general numerical prediction particular their reliance different experimental paradigms
+MISC--: possible research based correspondence approach relies experimental paradigms cpl tend produce correspondence between judgments decisions environment whereas research based coherence approach relies paradigms one question experiments citation sometimes described experiments conducted so word problems set up trap subjects would fall into if they were using particular heuristic citation tend produce biases
+MISC--: thus research programs associated two approaches take different views regarding people s adaptability their environment
+MISC--: particular whereas sjt highlights people s adaptive behavior emphasizes accuracy ecological rationality citation hb program tends emphasize biases error irrationality citation
+MISC--: particular numerical predictions cpl experiments almost always show people able learn experience improve their predictions citation
+MISC--: other hand kahneman tversky citation more pessimistic about people s ability learn experience argue regression effects all about us
+MISC--: our experience most outstanding fathers somewhat disappointing sons brilliant wives duller husbands ill adjusted tend adjust fortunate eventually stricken ill luck
+MISC--: spite encounters people do not acquire proper notion regression p number
+MISC--: 
+AIMX--: this paper i try examine two views reviewing papers used cpl experimental paradigm while attempting look heuristics biases
+MISC--: underlying theme both bias prone heuristics adaptive heuristics govern subjects predictions cpl
+MISC--: when they little experience rely subjects fall prey natural bias prone heuristics primarily representativeness but also anchoring adjustment citation
+MISC--: but subjects acquire experience prediction task heuristics abandoned replaced adaptive environmentally suitable heuristics citation
+MISC--: note contrast view sees natural heuristics adaptive citation view see them error prone citation more line data presented this paper suggest biased heuristics natural since they associated little experience
+MISC--: cue probability learning may most suitable experimental paradigm study interplay between natural adaptive heuristics since early phases cpl experiment subjects make predictions no experience whereas later phases they make predictions abundant experience
+MISC--: yet very little cpl research examined this interplay
+MISC--: reason my view cpl researchers adhering sjt approach not been interested natural error prone heuristics while hb researchers de emphasizing effect experience ignored cue probability learning emphasizes people adaptive behavior
+MISC--: coming hb approach i also tended ignore central role adaptive heuristics intuitive prediction despite reliance cpl central experimental paradigm my work citation emphasized coherence rather than correspondence heuristics early rather than later phases extremity rather than achievement

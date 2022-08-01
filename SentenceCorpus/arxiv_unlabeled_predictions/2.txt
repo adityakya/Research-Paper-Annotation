@@ -1,0 +1,19 @@
+OWNX--: problem joint universal source coding modeling addressed rissanen context lossless codes generalized fixed rate lossy coding continuous alphabet memoryless sources
+OWNX--: we show bounded distortion measures any compactly parametrized family iid
+MISC--: real vector sources absolutely continuous marginals satisfying appropriate smoothness vapnik chervonenkis learnability conditions admits joint scheme universal lossy block coding parameter estimation give nonasymptotic estimates convergence rates distortion redundancies variational distances between active source estimated source
+OWNX--: we also present explicit examples parametric sources admitting joint universal compression modeling schemes
+OWNX--: universal data compression single code achieves asymptotically optimal performance all sources within given family
+MISC--: intuition suggests good universal coder should acquire accurate model source statistics sufficiently long data sequence incorporate this knowledge its operation
+MISC--: lossless codes this intuition been made rigorous rissanen citation
+MISC--: under his scheme data encoded two stage set up binary representation each source block consists two parts suitably quantized maximum likelihood estimate source parameters lossless encoding data matched acquired model redundancy resulting code converges zero symbol where symbol block length
+OWNX--: this paper we extend rissanen s idea lossy block coding vector quantization iid
+OWNX--: sources values symbol some finite symbol
+MISC--: specifically let symbol iid
+MISC--: source marginal distribution symbol belonging some indexed class symbol absolutely continuous distributions symbol where symbol bounded subset symbol some symbol
+MISC--: bounded distortion measures our main result theorem states if class symbol satisfies certain smoothness learnability conditions then there exists sequence finite memory lossy block codes achieves asymptotically optimal compression each source class permits asymptotically exact identification active source respect variational distance defined symbol where supremum over all borel subsets symbol
+MISC--: overhead rate distortion redundancy scheme converge zero symbol symbol respectively where symbol block length while active source identified up variational ball radius symbol eventually almost surely
+OWNX--: we also describe extension our scheme unbounded distortion measures satisfying certain moment condition present two examples parametric families satisfying regularity conditions theorem
+OWNX--: while most existing schemes universal lossy coding rely implicit identification active source e g through topological covering arguments citation glivenko cantelli uniform laws large numbers citation nearest neighbor code clustering citation our code builds explicit model mechanism responsible generating data then selects appropriate code data basis model
+OWNX--: this ability simultaneously model compress data may prove useful applications media forensics citation where parameter symbol could represent evidence tampering aim compress data way evidence later extracted high fidelity compressed version
+MISC--: another key feature our approach use vapnik chervonenkis theory citation order connect universal encodability class sources combinatorial richness certain collection decision regions associated sources
+OWNX--: way vapnik chervonenkis estimates thought imperfect analogue combinatorial method types finite alphabets citation

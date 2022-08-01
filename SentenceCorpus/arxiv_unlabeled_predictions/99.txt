@@ -1,0 +1,33 @@
+MISC--: we consider problem choosing density estimate set distributions symbol minimizing symbol distance unknown distribution citation
+MISC--: devroye lugosi citation analyze two algorithms problem scheff e tournament winner minimum distance estimate
+MISC--: scheff e tournament estimate requires fewer computations than minimum distance estimate but strictly weaker guarantees than latter
+OWNX--: we focus computational aspect density estimation
+OWNX--: we present two algorithms both same guarantee minimum distance estimate
+OWNX--: first one modification minimum distance estimate uses same number quadratic symbol computations scheff e tournament
+MISC--: second one called efficient minimum loss weight estimate uses only linear number computations assuming symbol preprocessed
+OWNX--: we also give examples showing guarantees algorithms cannot improved explore randomized algorithms density estimation
+AIMX--: we study following density estimation problem considered citation
+OWNX--: there unknown distribution symbol we given symbol not necessarily independent samples define empirical distribution symbol
+MISC--: given finite class symbol distributions our objective output symbol error symbol minimized
+MISC--: use symbol norm well justified many useful properties example scale invariance fact approximate identification distribution symbol norm gives estimate probability every event
+OWNX--: following two parameters influence error possible estimate distance symbol symbol empirical error
+OWNX--: first parameter required since we no control over symbol hence we cannot select distribution better than optimal distribution symbol one closest symbol symbol norm
+OWNX--: not obvious how define second parameter error symbol respect symbol
+OWNX--: we follow definition citation inspired citation see section precise definition
+MISC--: devroye lugosi citation analyze two algorithms this setting scheff e tournament winner minimum distance estimate
+MISC--: minimum distance estimate defined yatracos citation special case minimum distance principle formalized wolfowitz citation
+MISC--: minimum distance estimate helpful tool example was used citation obtain estimates smoothing factor kernel density estimates also citation hypothesis testing
+MISC--: scheff e tournament winner algorithm requires fewer computations than minimum distance estimate but strictly weaker guarantees terms two parameters mentioned above than latter
+OWNX--: our main contribution two procedures selecting estimate symbol both same guarantees minimum distance estimate but computationally more efficient
+OWNX--: first quadratic symbol cost matching cost scheff e tournament winner algorithm
+MISC--: second one even faster using linearly many symbol computations after preprocessing symbol
+AIMX--: now we outline rest paper
+OWNX--: section we give required definitions introduce notion test function variant scheff e set
+OWNX--: then section we restate previous density estimation algorithms scheff e tournament winner minimum distance estimate using test functions
+OWNX--: next section we present our algorithms
+OWNX--: first one modification minimum distance estimate improved quadratic symbol computational cost
+OWNX--: second one we call efficient minimum loss weight estimate only linear computational cost after preprocessing symbol
+OWNX--: section we explore randomized density estimation algorithms
+OWNX--: final section we give examples showing tightness theorems stated previous sections
+AIMX--: throughout this paper we focus case when symbol finite order compare computational costs our estimates previous ones
+OWNX--: however our results generalize straightforward way infinite classes well if we ignore computational complexity

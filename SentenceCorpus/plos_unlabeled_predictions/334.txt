@@ -1,0 +1,48 @@
+OWNX--: all materials enter exit cell nucleus through nuclear pore complexes efficient transport devices combine high selectivity throughput
+MISC--: npc associated proteins containing phenylalanine glycine repeats large flexible unstructured proteinaceous regions line npc
+MISC--: central feature npc mediated transport binding cargo carrying soluble transport factors unstructured regions fg nups
+OWNX--: here we model dynamics nucleocytoplasmic transport diffusion effective potential resulting interaction transport factors flexible fg nups using minimal number assumptions consistent most well established structural functional properties npc transport
+OWNX--: we discuss how specific binding transport factors fg nups facilitates transport how this binding competition between transport factors other macromolecules binding sites space inside npc accounts high selectivity transport
+OWNX--: we also account why transport relatively insensitive changes number distribution fg nups npc providing explanation recent experiments where up half total mass fg nups been deleted without abolishing transport
+OWNX--: our results suggest strategies creation artificial nanomolecular sorting devices
+MISC--: contents eukaryotic nucleus separated cytoplasm nuclear envelope
+MISC--: nuclear pore complexes large protein assemblies embedded nuclear envelope sole means materials exchange across
+MISC--: water ions small macromolecules citation small neutral particles diffuse unaided across npc citation while larger macromolecules will generally only transported efficiently if they display particular transport signal sequence nuclear localization signal nuclear export signal
+MISC--: macromolecular cargoes carrying signal sequences bind cognate soluble transport factors facilitate passage resulting transport factor cargo complexes through npc
+MISC--: best studied transport factors belong family structurally related proteins collectively termed karyopherins although other transport factors also mediate nuclear transport particularly export mrnas
+MISC--: npcs pass cargoes up nm diameter at rates high several hundred macromolecules per second each transport factor cargo complex dwelling npc time order ms citation citation
+OWNX--: here we focus karyopherin mediated import although our conclusions pertain other types nucleocytoplasmic transport well including mrna export
+MISC--: during import karyopherins bind cargoes cytoplasm via their nuclear localization signals
+MISC--: karyopherin cargo complexes then translocate through npcs nucleoplasm where cargo released karyopherin rangtp maintained its gtp bound form nuclear factor rangef
+OWNX--: high affinity rangtp binding karyopherins allows displace cargoes karyopherins nucleus
+MISC--: subsequently karyopherins bound rangtp travel back through npc cytoplasm where conversion rangtp rangdp stimulated cytoplasmic factor rangap
+OWNX--: energy released gtp hydrolysis used dissociate rangdp karyopherins then ready next cycle transport
+OWNX--: importantly this gtp hydrolysis only step process nuclear import requires input metabolic energy
+MISC--: overall energy obtained rangtp hydrolysis used create concentration gradient karyopherin cargo complexes between cytoplasm nucleus so process actual translocation across npc occurs purely diffusion citation citation citation citation citation
+OWNX--: conceptually nuclear import divided into three stages first loading cargo onto karyopherins cytoplasm second translocation karyopherin cargo complexes through npc third release cargo inside nucleus
+MISC--: first last stages been subject numerous studies relatively well understood being soluble phase reactions amenable biochemical characterization
+MISC--: intermediate stage transport much less understood
+MISC--: nevertheless clear ability karyopherins bind particular class npc associated proteins containing phenylalanine glycine repeats known collectively fg nups key feature transport process allows them selectively efficiently pass their cargoes through npc
+MISC--: particular experiments fg nup binding sites karyopherins were mutated show disrupting binding karyopherins fg nups impairs transport citation citation citation citation citation
+MISC--: current estimates binding affinity karyopherins most fg nups range nm depending fg nup karyopherin type citation citation
+MISC--: each fg nup usually carries small region anchors body npc larger region characterized multiple fg repeats
+MISC--: fg repeat regions natively disordered flexible chains filaments contain binding sites transport factors also appear set up barrier at entrance npc macromolecules cannot bind them citation citation citation citation citation citation citation citation
+MISC--: detailed physicochemical nature this barrier still under active study although fg nups been shown vitro form flexible polymer brushes when grafted surface citation gels bulk solution citation
+MISC--: importantly been repeatedly demonstrated individual fg repeat regions long reach order many tens nm within npc citation citation citation citation
+OWNX--: what still needed quantitative theoretical explanation account observed characteristics facilitated nuclear cytoplasmic transport
+OWNX--: here we develop diffusion based theory explain mechanism intermediate stage nucleocytoplasmic transport i e translocation through npc
+AIMX--: useful theory npc mediated transport should provide insight into several major unresolved questions including how does npc achieve high transport efficiency cargoes variable sizes both directions through only diffusion transport factor cargo complexes
+MISC--: how does binding transport factors fg nups facilitate transport efficiency while maintaining high throughput citation citation citation citation citation npcs largely exclude nonspecific macromolecules favor transport factor bound cargoes
+OWNX--: how this high degree selectivity achieved
+MISC--: neither deletion up half mass fg nups filamentous unfolded regions nor deletion asymmetrically disposed fg nups filamentous regions potentially set up affinity gradient abolish transport citation
+MISC--: directionality transport across npc even reversed reversing concentration gradient rangtp citation
+OWNX--: how we account high degree robustness
+OWNX--: several theoretical models been proposed mechanism transport through npc
+MISC--: include brownian affinity gate model citation citation selective phase models citation citation citation citation oily spaghetti model citation affinity gradient models citation citation citation citation citation dimensionality reduction model citation most recently two gate model citation
+MISC--: all models thought viewing npc virtual gate citation citation where fg nups set up barrier entrance into npc transport through npc involves facilitated diffusion controlled association disassociation transport receptors fg nups
+MISC--: they differ only specific assumptions conformation spatial deployment fg nups their physicochemical state distribution affinities binding sites
+AIMX--: aim present paper establish general quantitative framework npc transport consistent well established structural functional properties npc its components
+OWNX--: we explain how binding karyopherins fg nups flexible filaments inside npc give rise efficient transport
+OWNX--: we demonstrate competition limited space binding sites within npc leads novel highly selective filtering process
+OWNX--: finally we explain how flexibility fg nups could account high robustness npc mediated transport respect structural changes citation
+OWNX--: we conclude discussing verifiable experimental predictions model

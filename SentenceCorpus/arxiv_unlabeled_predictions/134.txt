@@ -1,0 +1,34 @@
+MISC--: many applications machine learning data mining require computing pairwise symbol distances data matrix symbol
+OWNX--: massive high dimensional data computing all pairwise distances symbol infeasible
+MISC--: fact even storing symbol all pairwise distances symbol memory may also infeasible
+OWNX--: symbol efficient small space algorithms exist example based method stable random projections unfortunately not directly applicable symbol this paper proposes simple method symbol symbol symbol
+MISC--: 
+MISC--: 
+OWNX--: we first decompose symbol where symbol even distances into sum marginal norms symbol inner products at different orders
+OWNX--: then we apply normal sub gaussian random projections approximate resultant inner products assuming marginal norms computed exactly linear scan
+OWNX--: we propose two strategies applying random projections
+CONT--: basic projection strategy requires only one projection matrix but more difficult analyze while alternative projection strategy requires symbol projection matrices but its theoretical analysis much easier
+MISC--: terms accuracy at least symbol basic strategy always more accurate than alternative strategy if data non negative common reality
+OWNX--: this study proposes simple method efficiently computing symbol distances massive data matrix symbol symbol where symbol even using random projections citation
+MISC--: while many previous work random projections focused approximating symbol distances inner products method symmetric stable random projections citation applicable approximating symbol distances all symbol
+MISC--: this work proposes using random projections symbol least some special cases
+MISC--: machine learning algorithms often operate symbol distances symbol instead original data
+MISC--: straightforward application would searching nearest neighbors using symbol distance
+MISC--: symbol distance also basic loss functions quality measure
+OWNX--: widely used kernel trick e g support vector machines svm often constructed top symbol distances citation
+OWNX--: here we treat symbol tuning parameter
+MISC--: common take symbol euclidian distance symbol infinity distance symbol manhattan distance symbol hamming distance but principle any symbol values possible
+MISC--: fact if there efficient mechanism compute symbol distances then becomes affordable tune learning algorithms many values symbol best performance
+MISC--: modern data mining learning applications ubiquitous phenomenon massive data imposes challenges
+MISC--: example pre computing storing all pairwise symbol distances memory at cost symbol infeasible when symbol even just symbol citation
+OWNX--: ultra high dimensional data even just storing whole data matrix infeasible
+MISC--: meanwhile modern applications routinely involve millions observations developing scalable learning data mining algorithms been active research direction
+OWNX--: one commonly used strategy current practice compute distances fly citation stead storing all pairwise symbol distances
+MISC--: data reduction algorithms sampling sketching methods also popular
+MISC--: while there been extensive studies approximating symbol distances symbol symbol useful too
+OWNX--: example because normal distribution completely determined its first two moments mean variance we identify non normal components data analyzing higher moments particular fourth moments i e kurtosis
+MISC--: thus fourth moments critical example field independent component analysis ica citation
+MISC--: therefore viable use symbol distance symbol when lower order distances not efficiently differentiate data
+OWNX--: unfortunate family stable distributions citation limited symbol hence we not directly using stable distributions approximating symbol distances
+MISC--: theoretical cs community there been many studies approximating symbol norms distances citation some also applicable symbol distances e g comparing two long vectors
+MISC--: those papers proved small space symbol algorithms exist only symbol

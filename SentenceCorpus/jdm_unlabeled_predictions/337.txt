@@ -1,0 +1,31 @@
+MISC--: recognition heuristic models adaptive use dominant role recognition knowledge judgment under uncertainty
+OWNX--: several predictions heuristic makes empirical tests predominantly focused proposed noncompensatory processing recognition
+MISC--: some authors emphasized heuristic needs scrutinized based precise tests exclusive use recognition
+MISC--: although precise tests clear merits i critically evaluate value tests they currently employed
+MISC--: first i argue using precise measures exclusive use recognition go beyond showing recognition heuristic like every model cannot capture reality completely
+MISC--: second i illustrate how precise tests based response times lead unsubstantiated conclusions if fact recognition heuristic does not model recognition judgment itself ignored
+CONT--: finally i highlight two key but so far neglected aspects recognition heuristic connection between recognition memory recognition heuristic b mechanisms underlying adaptive use recognition
+MISC--: his essays french philosopher michel de montaigne suggested good memory not necessarily coupled good decision making
+MISC--: fact he seems imply decisions sometimes even benefit deficits memory
+MISC--: how could this possible
+MISC--: one answer because structures mind often reflect meaningful regularities world citation blanks memory exploited making inferences about world
+MISC--: notion judgments feed dynamics memory been taken up several models decision making
+MISC--: instance tversky kahneman citation proposed ease instances occurrences brought mind ecologically valid clue p number about world availability heuristic based this ease might operate when people judge probability frequency
+MISC--: more recently goldstein gigerenzer citation described recognition heuristic model how people recruit recognition memory when making inferences more generally
+MISC--: contrast availability heuristic recognition heuristic clearly specified computational model precise search stopping decision rules
+MISC--: moreover recognition heuristic was proposed adaptive mental tool specific boundary conditions citation
+MISC--: recognition heuristic makes several testable predictions about recognition its use decision making
+MISC--: first recognition heuristic assumed ecologically rational i e exploiting regularity environment recognition should frequently correlated quantities world
+MISC--: second people s use recognition heuristic should sensitive structure environment
+MISC--: third recognition heuristic predicts recognition processed noncompensatory fashion recognition should supersede further cue knowledge
+MISC--: finally heuristic predicts under certain conditions counterintuitive less more effect where recognizing fewer objects lead more accurate inferences than recognizing more objects
+MISC--: citation precise definition recognition heuristic its assumed role adaptive mental tool made attractive study object
+CONT--: maybe not surprisingly not all empirical investigations found evidence supporting heuristic
+MISC--: several predictions heuristic makes seems fair say assumed noncompensatory processing recognition received greatest attention so far generated strongest objection citation
+MISC--: some authors emphasized need precise tests recognition heuristic developed precise measures exclusive use recognition arguing precise models deserve precise measures b conducted precise tests information processing recognition based inference based response times citation
+OWNX--: following i discuss value precise tests they currently used argue they done little advance our understanding recognition based inference
+CONT--: addition i highlight two key issues underlying use recognition decision making seem been neglected result strong focus testing noncompensatory processing recognition
+OWNX--: first we need better understand relationship between recognition studied memory literature recognition memory tapped recognition heuristic
+MISC--: second i summarize proposals how people might adaptively adjust their reliance recognition across different situations
+MISC--: importantly i do not argue developments precise measures demonstrations recognition heuristic s failure predict data should ignored
+MISC--: rather i call more constructive way use findings refining models memory based decision making

@@ -1,0 +1,47 @@
+OWNX--: we consider problem high dimensional non linear variable selection supervised learning
+MISC--: our approach based performing linear selection among exponentially many appropriately defined positive definite kernels characterize non linear interactions between original variables
+AIMX--: select efficiently many kernels we use natural hierarchical structure problem extend multiple kernel learning framework kernels embedded directed acyclic graph we show then possible perform kernel selection through graph adapted sparsity inducing norm polynomial time number selected kernels
+OWNX--: moreover we study consistency variable selection high dimensional settings showing under certain assumptions our regularization framework allows number irrelevant variables exponential number observations
+OWNX--: our simulations synthetic datasets datasets uci repository show state art predictive performance non linear regression problems
+OWNX--: high dimensional problems represent recent important topic machine learning statistics signal processing
+MISC--: settings some notion sparsity fruitful way avoiding overfitting example through variable feature selection
+MISC--: this led many algorithmic theoretical advances
+MISC--: particular regularization sparsity inducing norms symbol norm attracted lot interest recent years
+MISC--: while early work focused efficient algorithms solve convex optimization problems recent research looked at model selection properties predictive performance methods linear case citation within constrained non linear settings multiple kernel learning framework citation generalized additive models citation
+MISC--: however most recent work dealt linear high dimensional variable selection while focus much earlier work machine learning statistics was non linear low dimensional problems indeed last two decades kernel methods been prolific theoretical algorithmic machine learning framework
+MISC--: using appropriate regularization hilbertian norms representer theorems enable consider large potentially infinite dimensional feature spaces while working within implicit feature space no larger than number observations
+MISC--: this led numerous works kernel design adapted specific data types generic kernel based algorithms many learning tasks citation
+MISC--: however while non linearity required many domains computer vision bioinformatics most theoretical results related non parametric methods do not scale well input dimensions
+OWNX--: this paper our goal bridge gap between linear non linear methods tackling high dimensional non linear problems
+MISC--: task non linear variable section hard problem few approaches both good theoretical algorithmic properties particular high dimensional settings
+MISC--: among classical methods some implicitly explicitly based sparsity model selection boosting citation multivariate additive regression splines citation decision trees citation random forests citation cosso citation gaussian process based methods citation while some others do not rely sparsity nearest neighbors kernel methods citation
+MISC--: first attempts were made combine non linearity sparsity inducing norms considering generalized additive models where predictor function assumed sparse linear combination non linear functions each variable citation
+MISC--: however shown mysec universal higher orders interactions needed universal consistency i e adapt potential high complexity interactions between relevant variables we need potentially allow symbol them symbol variables all possible subsets symbol variables
+MISC--: theoretical results suggest appropriate assumptions sparse methods greedy methods methods based symbol norm would able deal correctly symbol features if symbol order number observations symbol citation
+MISC--: however presence more than few dozen variables order deal many features even simply enumerate those certain form factorization recursivity needed
+AIMX--: this paper we propose use hierarchical structure based directed acyclic graphs natural our context non linear variable selection
+OWNX--: we consider positive definite kernel expressed large sum positive definite basis local kernels
+MISC--: this exactly corresponds situation where large feature space concatenation smaller feature spaces we aim do selection among many kernels equivalently feature spaces may done through multiple kernel learning citation
+OWNX--: one major difficulty however number smaller kernels usually exponential dimension input space applying multiple kernel learning directly this decomposition would intractable
+MISC--: shown mysec decompositions non linear variable selection we consider sum kernels indexed set subsets all considered variables more generally symbol symbol
+OWNX--: order perform selection efficiently we make extra assumption small kernels embedded directed acyclic graph dag
+OWNX--: following citation we consider mysec mkl specific combination symbol norms adapted dag will restrict authorized sparsity patterns certain configurations our specific kernel based framework we able use dag design optimization algorithm polynomial complexity number selected kernels mysec optimization
+OWNX--: simulations mysec simulations we focus directed grids where our framework allows perform non linear variable selection
+OWNX--: we provide some experimental validation our novel regularization framework particular we compare regular symbol regularization greedy forward selection non kernel based methods shows always competitive often leads better performance both synthetic examples standard regression datasets uci repository
+OWNX--: finally we extend mysec consistency some known consistency results lasso multiple kernel learning citation give partial answer model selection capabilities our regularization framework giving necessary sufficient conditions model consistency
+OWNX--: particular we show our framework adapted estimating consistently only hull relevant variables
+OWNX--: hence restricting statistical power our method we gain computational efficiency
+AIMX--: moreover we show we obtain scalings between number variables number observations similar linear case citation indeed we show our regularization framework may achieve non linear variable selection consistency even number variables symbol exponential number observations symbol
+OWNX--: since we deal symbol kernels we achieve consistency number kernels doubly exponential symbol
+OWNX--: moreover general directed acyclic graphs we show total number vertices may grow unbounded long maximal out degree number children dag less than exponential number observations
+AIMX--: this paper extends previous work citation providing more background multiple kernel learning detailing all proofs providing new consistency results high dimension comparing our non linear predictors non kernel based methods paragraph notation throughout paper we consider hilbertian norms symbol elements symbol hilbert spaces where specific hilbert space always inferred context unless otherwise stated
+OWNX--: rectangular matrices symbol we denote symbol its largest singular value
+OWNX--: we denote symbol symbol largest smallest eigenvalue symmetric matrix symbol
+MISC--: naturally extended compact self adjoint operators citation
+MISC--: moreover given vector symbol product space symbol subset symbol symbol symbol denotes vector symbol elements symbol indexed symbol
+MISC--: similarly matrix symbol defined symbol blocks adapted symbol symbol denotes submatrix symbol composed blocks symbol whose rows symbol columns symbol
+MISC--: moreover symbol denotes cardinal set symbol symbol denotes dimension hilbert space symbol
+OWNX--: we denote symbol symbol dimensional vector ones
+OWNX--: we denote symbol positive part real number symbol
+MISC--: besides given matrices symbol subset symbol symbol symbol denotes block diagonal matrix composed blocks indexed symbol
+OWNX--: finally we let denote symbol symbol general probability measures expectations

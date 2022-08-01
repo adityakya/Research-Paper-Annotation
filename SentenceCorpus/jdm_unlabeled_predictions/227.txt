@@ -1,0 +1,15 @@
+MISC--: this article presents theory reasoning about moral propositions based four fundamental principles
+OWNX--: first no simple criterion picks out propositions about morality within larger set deontic propositions concerning what permissible impermissible social relations law games manners
+OWNX--: second mechanisms underlying emotions deontic evaluations independent operate parallel so some scenarios elicit emotions prior moral evaluations some elicit moral evaluations prior emotions some elicit them at same time
+MISC--: third deontic evaluations depend inferences either unconscious intuitions conscious reasoning
+MISC--: fourth human beliefs about what isn t moral neither complete nor consistent
+MISC--: article marshals evidence includes new studies corroborating principles discusses relations between them other current theories moral reasoning
+AIMX--: morally wrong take paper clip your office
+MISC--: morally wrong steal money your co worker
+MISC--: morally wrong stab your employer
+MISC--: absence mitigating circumstances most individuals likely agree all three actions wrong but they increase heinousness
+MISC--: psychologists studied moral evaluations moral inferences many years but they yet converge single comprehensive theory processes citation
+MISC--: our aim present article propose new theory moral reasoning based account inferences general about permissible situations citation theory emotions citation account intuitions citation
+OWNX--: we begin outline principal psychological theories how individuals make moral evaluations
+OWNX--: we then describe new theory
+OWNX--: we present evidence corroborating including some new experimental results

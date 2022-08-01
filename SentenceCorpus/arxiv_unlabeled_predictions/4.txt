@@ -1,0 +1,30 @@
+MISC--: given finite set words symbol independently drawn according fixed unknown distribution law symbol called stochastic language usual goal grammatical inference infer estimate symbol some class probabilistic models probabilistic automata pa
+AIMX--: here we study class symbol rational stochastic languages consists stochastic languages generated multiplicity automata ma strictly includes class stochastic languages generated pa
+MISC--: rational stochastic languages minimal normal representation may very concise whose parameters efficiently estimated stochastic samples
+OWNX--: we design efficient inference algorithm dees aims at building minimal normal representation target
+OWNX--: despite fact no recursively enumerable class ma computes exactly symbol we show dees strongly identifies symbol limit
+OWNX--: we study intermediary ma output dees show they compute rational series converge absolutely one used provide stochastic languages closely estimate target
+MISC--: probabilistic grammatical inference supposed data arise form finite set words symbol built predefinite alphabet symbol independently drawn according fixed unknown distribution law symbol called stochastic language
+MISC--: then usual goal try infer estimate this distribution law some class probabilistic models probabilistic automata pa same expressivity hidden markov models hmm
+MISC--: pa identifiable limit citation
+MISC--: however our knowledge there exists no efficient inference algorithm able deal whole class stochastic languages generated pa
+MISC--: most previous works use restricted subclasses pa probabilistic deterministic automata pda citation
+AIMX--: other hand probabilistic automata particular cases multiplicity automata stochastic languages generated multiplicity automata special cases rational languages we call rational stochastic languages
+CONT--: ma been used grammatical inference variant exact learning model angluin citation but not probabilistic grammatical inference
+MISC--: let us design symbol class rational stochastic languages over semiring symbol
+MISC--: when symbol symbol symbol exactly class stochastic languages generated pa parameters symbol
+MISC--: but when symbol symbol we obtain strictly greater classes provide several advantages at least one drawback elements symbol may significantly smaller representation symbol clearly advantage learning perspective elements symbol minimal normal representation while normal representations do not exist pa parameters minimal representations directly related probabilities some natural events form symbol efficiently estimated stochastic samples lastly when symbol field rational series over symbol form vector space efficient linear algebra techniques used deal rational stochastic languages
+MISC--: however class symbol presents serious drawback there exists no recursively enumerable subset ma exactly generates citation
+MISC--: moreover this class representations unstable arbitrarily close ma generates stochastic language we may find ma whose associated rational series symbol takes negative values not absolutely convergent global weight symbol may unbounded not absolutely defined
+OWNX--: however we show symbol strongly identifiable limit we design algorithm dees any target symbol given access infinite sample symbol drawn according symbol will converge finite but unbounded number steps minimal normal representation symbol
+MISC--: moreover dees efficient runs within polynomial time size input computes minimal number parameters classical statistical rates convergence
+CONT--: however before converging target dees output ma close target but do not compute stochastic languages
+OWNX--: question what kind guarantees do we intermediary hypotheses how we use them probabilistic inference purpose
+OWNX--: we show since algorithm aims at building minimal normal representation target intermediary hypotheses symbol output dees nice property they absolutely converge i e symbol symbol
+MISC--: consequence symbol defined without ambiguity any symbol shown symbol tends learning proceeds
+OWNX--: given any series symbol we efficiently compute stochastic language symbol not rational but property symbol any word symbol symbol
+MISC--: our conclusion despite fact no recursively enumerable class ma represents class rational stochastic languages ma used efficiently infer stochastic languages
+OWNX--: classical notions stochastic languages rational series multiplicity automata recalled section
+AIMX--: we study example shows representation rational stochastic languages ma real parameters may very concise
+OWNX--: we introduce our inference algorithm dees section we show symbol strongly indentifiable limit
+OWNX--: we study properties ma output dees section we show they define absolutely convergent rational series used compute stochastic languages estimates target

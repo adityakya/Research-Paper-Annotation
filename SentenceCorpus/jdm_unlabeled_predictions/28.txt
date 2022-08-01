@@ -1,0 +1,59 @@
+MISC--: series recent experiments citation matching subsidies generate significantly higher charity receipts than do theoretically equivalent rebate subsidies
+AIMX--: this paper reports laboratory experiment conducted examine whether higher receipts attributable relative preference matching subsidies isolation effect citation
+MISC--: some potential policy implications isolation effects charitable contributions also considered
+MISC--: voluntary charitable contributions play large ever increasing role supporting social infrastructure developed economics
+MISC--: effort find ways encourage private contributions experimental economists recent years devoted considerable attention effects alternative fundraising formats mechanisms
+MISC--: citation one branch this general program regards effects different methods subsidizing contributions
+MISC--: series recent experiments citation indicate matching subsidies elicit considerably higher charity receipts than do comparable rebate subsidies
+MISC--: design experiments consists one more modified dictator games similar those used andreoni vesterlund citation andreoni miller citation where participants make pass hold decisions under different endowment price contribution conditions
+OWNX--: however rather than changing directly price contributions subsidy format experiments subjects make pass hold decisions under various matching subsidy rebate subsidy conditions alter effective price contributions
+MISC--: table number illustrates design used control treatment davis millner reilly citation many ways representative
+MISC--: subjects asked make series decisions hold themselves pass charity portions endowment column number under conditions shown column number
+MISC--: sum hold pass entries must sum endowment
+OWNX--: after making their choices one randomly selected decision implemented
+MISC--: decision subject receives cash amount they chose hold supplemented rebates passed amounts rebate conditions
+OWNX--: amount passed supplemented matching amounts matching conditions sent designated charity
+MISC--: general matching subsidy s reduces effective price contributing number charity p number number s rebate subsidy s reduces effective price number contribution p numbers
+MISC--: thus s s induce same effective price when s s number s
+OWNX--: however davis millner reilly observed substantially higher charity receipts under matching subsidy than under comparable rebate subsidy
+MISC--: example charity receipts were roughly twice high under number percent matching subsidy shown problem number table number than under number percent refund condition shown problem number
+OWNX--: this control treatment replicates results previously reported eckel grossman citation
+MISC--: eckel grossman also report very similar results alternative laboratory designs where subjects make fewer allocative decisions citation field contexts citation
+MISC--: addition their control treatment davis millner reilly citation report extra information treatment where subjects received information prompting them about net consequences their choices
+CONT--: extra information only reduced but did not eliminate significant differences net charity receipts
+MISC--: reason why changing subsidy formats so prominently affects charity receipts remains unclear
+MISC--: failure part subjects understand task at hand doubtfully drives results
+OWNX--: instructions simple subjects report very high levels understanding
+MISC--: eckel grossman citation example observe subjects strongly agreed statement instructions were clear
+MISC--: using number point likert scale mean subject response was number number
+MISC--: one possible explanation higher charity receipts collected under matching subsidy people find something psychologically appealing about matching subsidies
+MISC--: eckel grossman citation suggest sort framing effect might support preference matching subsidies knowledge experimenter also contributes charity under matching subsidy may create subjects cooperation frame increases contributions relative rewards frame created rebate subsidy
+MISC--: at least some economists find this justification persuasive citation
+MISC--: alternatively isolation effects discussed mccaffery baron citation may explain higher charity receipts generated matching subsidies
+MISC--: notion isolation effects closely related but distinct well known concept mental accounting citation suggests when given multi dimensional problem people tend disaggregate dimensions problem focus only those components they control most directly affect them most directly
+MISC--: example given problems shown table number people may focus direct consequences giving away portions their endowments rather than indirect consequences themselves charity various conditions imply
+MISC--: harris joyce citation observed similar result when they asked subjects make series fair allocations among members partnership
+MISC--: when asked divide profits subjects tended allocate profits equally among partners despite very unequal profit contributions
+MISC--: when asked divide expenditures subjects again tended use equal division rule even though this time rule resulted very unequal division profits
+MISC--: prompting subjects information about indirect consequences their decisions reduced but did not eliminate tendency make equal allocations presented amounts
+MISC--: preferences matching subsidies isolation effects carry distinct policy implications charitable fundraising
+MISC--: if people simply prefer matching subsidies governments fundraising organizations might do well switch away rebate schemes toward schemes feature matching contributions
+MISC--: particular replacing tax rebates government sponsored matching contributions program would increase charitable contributions however extent isolation effects explain higher charity receipts generated matching subsidies policy makers may encounter difficulties implementing program even if implemented may not find program increases charity receipts
+MISC--: both potential difficulties follow what people may isolate direct effects
+MISC--: example attempting replace tax rebates combination matching contributions higher taxes might difficult politically since people may focus direct negative consequences personal tax increase rather than more indirect positive consequences increased charitable contributions
+MISC--: again matching subsidies program would increase charity receipts over current tax refund subsidy policy only if people isolate more increased effectiveness contributions induced matching subsidy than other possible foci attention reduction obligations sometimes resented government rebated donation implies
+MISC--: potential importance isolation effects contexts remains subject future investigation
+AIMX--: this paper reports experiment focuses preliminary task distinguishing between preference matching subsidies isolation effects explanation subsidy formatting effects
+MISC--: idea experiment straightforward
+MISC--: addition previously reported control treatment conducted using design shown table number i conduct maximum possible contribution mpc treatment where allocation decisions restructured so problem dimension presented most directly subjects maximum amount charity may receive rather than maximum amount subject may take home
+MISC--: although framing contributions terms charity receipts few obvious parallels natural contexts allows clean distinction between simple preferences matching subsides isolation effects extent subjects simply prefer matching subsidies rebates matching subsidies will elicit higher net charity receipts than rebate subsidies both mpc control treatments
+MISC--: other hand extent subjects isolate amount presented divided net charity receipts under matching subsidy will exceed those under comparable rebate subsidy only control treatment
+OWNX--: mpc treatment charity receipts will increase equally both rebate matching subsidies because subjects will divide maximum possible contributions between themselves charity roughly same way all subsidy conditions
+OWNX--: i summarize observations following hypothesis i state alternative form
+OWNX--: hypothesis isolation effects drive previously observed subsidy formatting effects
+MISC--: shifting direct effect contributions amount endowment donate maximum amount charity may receive eliminates increased charity receipts elicited matching subsidies over rebate subsidies
+MISC--: way overview experimental results overwhelmingly consistent isolation effects
+AIMX--: remainder this paper organized follows
+OWNX--: section number explains experimental design procedures used evaluate this hypothesis
+OWNX--: section number presents experimental results
+OWNX--: fourth section discusses some potential policy implications isolation effects charity contributions

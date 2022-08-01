@@ -1,0 +1,26 @@
+AIMX--: this paper we show connection between certain online low congestion routing problem online prediction graph labeling
+MISC--: more specifically we prove if there exists routing scheme guarantees congestion symbol any edge there exists online prediction algorithm mistake bound symbol times cut size size cut induced label partitioning graph vertices
+OWNX--: previous known bound symbol symbol routing problem trees symbol vertices we obtain improved prediction algorithm graphs high effective resistance
+CONT--: contrast previous approaches move graph problem into problems vector space using graph laplacian rely analysis perceptron algorithm our proof purely combinatorial
+OWNX--: further more our approach directly generalizes case where labels not binary
+OWNX--: we interested online prediction problem graphs
+OWNX--: given connected graph symbol labeling symbol unknown prediction algorithm each round symbol symbol adversary asks label vertex symbol prediction algorithm provides answer symbol then receives correct label symbol
+MISC--: goal minimize number rounds algorithm makes mistake i e rounds symbol symbol
+OWNX--: make our presentation clean this work we do not count mistake made first question symbol
+MISC--: this problem been studied standard online learning tools perceptron algorithm
+MISC--: herbster pontil wainer citation herbster pontil citation use pseudoinverse graph laplacian kernel provide mistake bound depends size cut induced partition based real labeling vertices largest effective resistance between any pair vertices graph
+MISC--: recently herbster citation exploits cluster structure labeling graph provides improved mistake bounds
+MISC--: pelckmans suykens citation present combinatorial algorithm problem predicts label given vertex based known labels its neighbors
+MISC--: they also prove bound number mistakes when labels adjacent vertices known
+MISC--: however their bound very loose since does not count every mistakes their proof still based graph laplacian
+OWNX--: we shall compare bound we obtain previous bounds herbster et
+MISC--: al citation pelckmans suykens citation section
+MISC--: this work follows initiation pelckmans suykens
+OWNX--: we show connection between prediction problem following online routing problem first introduced awerbuch azar citation their study online multicast routing
+MISC--: given connected graph symbol algorithm receives sequence requests symbol where symbol each symbol where symbol route one unit flow symbol some previous know symbol where symbol
+MISC--: algorithm works online fashion i e return route symbol before receiving other requests symbol where symbol
+MISC--: given set routes we define congestion symbol incurred edge symbol defined number routes use symbol
+MISC--: performance algorithm measured maximum congestion incurred any edge
+MISC--: we prove section if there exists algorithm symbol guarantee congestion incurred any edge will no greater than symbol there exists online prediction algorithm mistake bound symbol where symbol set edges joining pairs vertices different labels i e symbol
+OWNX--: section we apply known congestion bound show mistake bound graph prediction problem compare bound obtained bounds previous results
+OWNX--: we note our approach directly generalizes case when labels not binary i e when labeling function symbol maps symbol arbitrary set symbol labels same mistake bound

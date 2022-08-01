@@ -1,0 +1,15 @@
+MISC--: research endeavors determine effectiveness patient decision aids ptdas yielded mixed results
+MISC--: conflicting evaluations largely due different metrics used assess validity judgments made using ptdas
+MISC--: different approaches characterized hammond s citation two frameworks evaluating judgments correspondence coherence
+AIMX--: this paper reviews literature effectiveness ptdas recasts this argument renewed debate between two meta theories judgment
+MISC--: evaluation correspondence criteria involves measuring impact patient decision aids metrics there objective external empirically justifiable values
+MISC--: evaluation coherence criteria involves assessing degree decisions follow logical implications internal possibly subjective value systems preferences
+MISC--: coherence exist absent correspondence vice versa
+MISC--: therefore many seemingly conflicting results regarding effectiveness ptdas reconciled considering two meta theories contribute unique perspectives
+OWNX--: we argue one approach cannot substitute other researchers should not deny value either approach
+OWNX--: furthermore we suggest future research evaluating ptdas include both correspondence coherence criteria
+MISC--: number kenneth hammond argued field judgment decision making taken two distinct paths describing those two paths meta theories used evaluation judgments
+OWNX--: correspondence meta theory judgments compared objective facts explicit goal evaluating empirical accuracy judgments
+MISC--: contrast coherence meta theory assesses logical consistency judgments
+MISC--: this framework judgments evaluated degree they similar solutions given logical mathematical statistical theories
+MISC--: judgments not compared external true value instead judgments compared normative rule often mathematical nature

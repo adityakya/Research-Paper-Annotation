@@ -1,0 +1,41 @@
+MISC--: protegrin peptides potent antimicrobial agents believed act against variety pathogens forming nonselective transmembrane pores bacterial cell membrane
+OWNX--: we employed d poisson nernst planck calculations determine steady state ion conduction characteristics pores at applied voltages range mv m kcl bath solutions
+AIMX--: we tested variety pore structures extracted molecular dynamics simulations based experimentally proposed octomeric pore structure
+OWNX--: computed single channel conductance values were range ps
+MISC--: better agreement experimental range ps was obtained using structures last ns md simulation where conductance values range ps
+OWNX--: we observed no significant variation conductance applied voltage any structures we tested suggesting voltage dependence observed experimentally result voltage dependent channel formation rather than inherent feature open pore structure
+OWNX--: we found pore highly selective anions anionic cationic current ratios order
+MISC--: this consistent highly cationic nature pore but surprisingly disagreement experimental finding only slight anionic selectivity
+OWNX--: we additionally tested sensitivity our pnp model several parameters found ion diffusion coefficients significant influence conductance characteristics
+MISC--: best agreement experimental data was obtained using diffusion coefficient each ion set percent bulk literature value everywhere inside channel scaling used several other studies employing pnp calculations
+CONT--: overall this work presents useful link between previous work focused structure protegrin pores experimental efforts aimed at investigating their conductance characteristics
+MISC--: antimicrobial peptides small proteins produced innate immune system many plants animals first line defense against bacterial infections citation citation
+MISC--: due their persistence nature well their nonspecific mechanism action there been significant research activity aimed at designing novel antibiotics based amps citation expectation bacteria will not develop significant resistance antibiotics designed based peptides
+MISC--: thus far drug design efforts been largely hampered lack understanding fundamental mechanism action amps
+MISC--: although recent evidence suggests intracellular targets may play important role action many amps citation citation citation there strong body evidence suggesting ability peptides interact disrupt bacterial membrane essential their mechanism action citation citation citation
+MISC--: amps various structural classes been shown significant disruptive effects both living bacterial membranes model membrane systems lipid bilayers citation citation citation lipid monolayers citation citation citation
+MISC--: thorough reviews several proposed mechanisms membrane disruption reader referred citation
+MISC--: most relevant present work model amps aggregate form large nonselective pores bacterial membrane result uncontrolled ion leakage decay transmembrane potential uncontrolled water transport loss cell contents ultimately cell death
+OWNX--: we focused our efforts protegrin particularly potent antimicrobial peptide recently been shown form pores lipid bilayers certain compositions
+MISC--: protegrins small peptides isolated porcine leukocytes exhibit strong antimicrobial activity against broad range both gram positive gram negative bacteria citation
+MISC--: protegrins characterized hairpin conformation held together two cysteine cysteine disulfide bonds
+MISC--: they contain amino acids typically highly cationic positive charges arising arginine residues at hairpin turn region two termini
+BASE--: present work we focus most prevalent natural form protegrin designated pg amino acid sequence rggrlcycrrrfcvcvgr nh
+MISC--: mani coworkers citation conducted solid state nmr experiments investigate membrane bound structure pg peptide concluded this peptide likely forms octomeric pores lipid bilayers composed mixture palmitoyloleoyl phosphatidylethanolamine palmitoyloleoyl phosphatidylglycerol citation
+OWNX--: langham coworkers used structure suggested nmr experiments starting configuration molecular dynamics simulation lipid bilayer same composition citation
+OWNX--: this simulation showed pore stable over more than ns
+OWNX--: figure shows cartoon representation single protegrin peptide well side view proposed pore structure
+MISC--: prior studies pore structure protegrin early evidence protegrin pores was provided experiments mangoni coworkers citation sokolov coworkers citation conductance characteristics protegrin treated membranes were measured
+MISC--: knowledge nonequlibrium ion flow through protegrin pores may closely related their mechanism action since unrestricted flow ions through membrane could result potentially lethal membrane depolarization
+MISC--: mangoni coworkers conducted voltage clamp experiments xenopus laevis oocyte membranes treated protegrin several analogues citation
+MISC--: they found protegrins form weakly anion selective pores presence several different salts kcl solutions exhibiting almost no selectivity
+MISC--: furthermore they found conductance pores does not exhibit any voltage dependence over voltage range mv
+MISC--: sokolov coworkers citation carried out conductance measurements across several different types planar phospholipid bilayers treated protegrin well protegrin
+OWNX--: authors found both protegrin analogues form weakly anion selective channels mixed phospholipid bilayers moderately cation selective channels bilayers containing negatively charged bacterial lipopolysaccharide
+MISC--: they reported voltage dependent single channel conductance range picosiemens depending peptide used lipid bilayer composition applied voltage
+MISC--: present work we attempt explain quantify conductance behaviour protegrin pores terms structural information nmr experiments citation molecular dynamics simulations citation
+MISC--: particular we explore connection between structural features size pore opening magnitude conductance well surprising experimental finding both mangoni coworkers citation sokolov coworkers citation protegrin pore only slightly anion selective despite having total charge
+OWNX--: our investigation based poisson nernst planck theory continuum method calculating non equilibrium ion concentrations fluxes around fixed structure presence applied electrical voltage
+AIMX--: our model we simulate voltage across protegrin pore embedded lipid bilayer patch measure resulting current
+OWNX--: since pnp model requires rigid structure we perform calculations using several snapshots md simulations langham coworkers citation
+OWNX--: description underlying equations numerical scheme used solve them deferred methods section below

@@ -1,0 +1,22 @@
+MISC--: bounds risk play crucial role statistical learning theory
+MISC--: they usually involve capacity measure model studied vc dimension one its extensions
+MISC--: classification vc dimensions exist models taking values symbol symbol symbol
+OWNX--: we introduce generalizations appropriate missing case one models values symbol
+MISC--: this provides us new guaranteed risk m svms appears superior existing one
+MISC--: vapnik s statistical learning theory citation deals three types problems pattern recognition regression estimation density estimation
+CONT--: however theory bounds primarily been developed computation dichotomies only
+OWNX--: central this theory notion capacity classes functions
+MISC--: case binary classifiers measure this capacity famous vapnik chervonenkis vc dimension
+MISC--: extensions also been proposed real valued bi class models multi class models taking theirs values set categories
+OWNX--: strangely enough no generalized vc dimension was available so far symbol category classifiers taking their values symbol
+OWNX--: this was all more unsatisfactory many classifiers exhibit this property multi layer perceptrons multi class support vector machines m svms
+AIMX--: this paper scale sensitive symbol dimensions introduced fill this gap
+MISC--: generalization sauer s lemma citation given relates covering numbers appearing standard guaranteed risk large margin multi category discriminant models one dimensions margin natarajan dimension
+OWNX--: this latter dimension then bounded above architecture shared all m svms proposed so far
+MISC--: this provides us sharper bound their sample complexity
+AIMX--: organization paper follows
+MISC--: section introduces basic bound risk large margin multi category discriminant models
+OWNX--: section scale sensitive symbol dimensions defined generalized sauer lemma formulated
+OWNX--: upper bound margin natarajan dimension m svms then described section
+MISC--: lack space proofs omitted
+MISC--: they found citation

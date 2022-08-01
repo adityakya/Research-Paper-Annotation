@@ -1,0 +1,53 @@
+MISC--: conformal prediction uses past experience determine precise levels confidence new predictions
+OWNX--: given error probability symbol together method makes prediction symbol label symbol produces set labels typically containing symbol also contains symbol probability symbol
+OWNX--: conformal prediction applied any method producing symbol nearest neighbor method support vector machine ridge regression etc
+OWNX--: conformal prediction designed line setting labels predicted successively each one being revealed before next predicted
+MISC--: most novel valuable feature conformal prediction if successive examples sampled independently same distribution then successive predictions will right symbol time even though they based accumulating dataset rather than independent datasets
+OWNX--: addition model under successive examples sampled independently other line compression models also use conformal prediction
+OWNX--: widely used gaussian linear model one
+OWNX--: this tutorial presents self contained account theory conformal prediction works through several numerical examples
+MISC--: more comprehensive treatment topic provided algorithmic learning random world vladimir vovk alex gammerman glenn shafer springer
+MISC--: how good your prediction symbol
+MISC--: if you predicting label symbol new object how confident you symbol
+MISC--: if label symbol number how close do you think symbol
+MISC--: machine learning questions usually answered fairly rough way past experience
+OWNX--: we expect new predictions fare about well past predictions
+MISC--: conformal prediction uses past experience determine precise levels confidence predictions
+OWNX--: given method making prediction symbol conformal prediction produces symbol prediction region set symbol contains symbol probability at least symbol
+MISC--: typically symbol also contains prediction symbol
+OWNX--: we call symbol point prediction we call symbol region prediction
+MISC--: case regression where symbol number symbol typically interval around symbol
+OWNX--: case classification where symbol limited number possible values symbol may consist few values ideal case just one
+OWNX--: conformal prediction used any method point prediction classification regression including support vector machines decision trees boosting neural networks bayesian prediction
+OWNX--: starting method point prediction we construct nonconformity measure measures how unusual example looks relative previous examples conformal algorithm turns this nonconformity measure into prediction regions
+MISC--: given nonconformity measure conformal algorithm produces prediction region symbol every probability error symbol
+MISC--: region symbol symbol prediction region contains symbol probability at least symbol
+OWNX--: regions different symbol nested when symbol so symbol lower level confidence than symbol we symbol
+OWNX--: if symbol contains only single label ideal outcome case classification we may ask how small symbol made before we must enlarge symbol adding second label corresponding value symbol confidence we assert predicted label
+OWNX--: we explain s conformal algorithm designed line setting we predict labels objects successively seeing each label after we predicted before we predict next one
+OWNX--: our prediction symbol symbol th label symbol may use observed features symbol symbol th object preceding examples symbol
+MISC--: size prediction region symbol may also depend details
+CONT--: readers most interested implementing conformal algorithm may wish turn directly elementary examples then turn back earlier more general material needed
+OWNX--: we explain s line picture leads new concept validity prediction confidence
+OWNX--: classically method finding symbol prediction regions was considered valid if had symbol probability containing label predicted because law large numbers would then correct symbol time when repeatedly applied independent datasets
+OWNX--: but line picture we repeatedly apply method not independent datasets but accumulating dataset
+OWNX--: after using symbol symbol predict symbol we use symbol symbol predict symbol so
+OWNX--: symbol line method valid symbol predictions must correct
+OWNX--: under minimal assumptions conformal prediction valid this new powerful sense
+OWNX--: one setting where conformal prediction valid new line sense one examples symbol sampled independently constant population i e fixed but unknown probability distribution symbol
+MISC--: also valid under slightly weaker assumption examples probabilistically exchangeable see s under other line compression models including widely used gaussian linear model see s
+MISC--: validity conformal prediction under models demonstrated appendix
+OWNX--: addition validity method producing symbol prediction regions we also interested its efficiency
+MISC--: efficient if prediction region usually relatively small therefore informative
+OWNX--: classification we would like see prediction region so small contains only single predicted label symbol
+OWNX--: regression we would like see very narrow interval around predicted number symbol
+OWNX--: claim confidence conformal prediction region valid under exchangeability no matter what probability distribution symbol examples follow no matter what nonconformity measure used construct conformal prediction region
+MISC--: but efficiency conformal prediction will depend symbol nonconformity measure
+OWNX--: if we think we know symbol we may choose nonconformity measure will efficient if we right
+OWNX--: if we prior probabilities symbol we may use prior probabilities construct point predictor symbol nonconformity measure
+OWNX--: regression case we might use symbol mean posterior distribution symbol given first symbol examples symbol classification case we might use label greatest posterior probability
+MISC--: this strategy first guaranteeing validity under relatively weak assumption then seeking efficiency under stronger assumptions conforms advice long given john tukey others citation
+MISC--: conformal prediction studied detail algorithmic learning random world vovk gammerman shafer citation
+MISC--: recent exposition gammerman vovk citation emphasizes connections theory randomness bayesian methods induction
+OWNX--: this article we emphasize line concept validity meaning exchangeability generalization other line compression models
+MISC--: we leave aside many important topics treated algorithmic learning random world including extensions beyond line picture

@@ -1,0 +1,30 @@
+MISC--: labeling food organic entails claim about its production but silent its calorie content
+MISC--: nevertheless people infer organic cookies lower calories eaten more often than conventional cookies study number
+MISC--: inferences observed even when nutrition label conveys identical calorie content more pronounced among perceivers high pro environmentalism
+MISC--: moreover when evaluating person weight loss goal forgoing exercise deemed more acceptable when person just chosen organic rather than conventional dessert study number
+OWNX--: results reflect organic natural healthy association capable biasing everyday judgments about diet exercise
+MISC--: americans waistlines grown so their appetite organic foods u s
+MISC--: sales organics rose approximately number billion number number billion number citation meanwhile roughly one third u s adults now qualify obese citation
+MISC--: yet scant research explored implications organic production claims judgments decisions related weight gain
+MISC--: although organic claims license inferences about lower levels conventional pesticides synthetic additives foods citation they silent calorie content
+MISC--: might consumers nevertheless assume organics contain fewer calories well
+MISC--: tendency overgeneralize health claims suggests this possibility
+MISC--: previous research demonstrated margarine advertised no cholesterol healthy judged lower fat citation nutrient based claims promote calorie underestimation thought important factor obesity crisis citation
+MISC--: not clear however whether effects would extend organic claims speak production process not nutrient content per se citation
+MISC--: consistent activation theory citation specific nutrient claims e g no cholesterol been shown affect judgments closely associated nutrients e g fat but not more general distal concepts e g cancer risk citation
+MISC--: this perspective organic other production related claims may not expected activate calories other nutrient related concepts
+MISC--: other hand number different theories suggest organic claims might indeed bias specifically reduce calorie judgments
+MISC--: first strong associations exist between concepts organic healthy contemporary america associations promoted marketers reflected survey data most americans endorse organics healthier citation
+MISC--: moreover natural foods opposed those altered humans some significant way tend seen inherently good healthy citation further supporting associations between organic production healthy attributes
+MISC--: given calorie restriction nearly synonymous healthy u s citation associations might lead consumers assume foods produced organically contain fewer calories than their conventional counterparts despite fact organic designation entails no claim citation
+MISC--: second because calorie estimation cognitively demanding task citation consumers might even substitute associatively related attribute healthy organic means simplifying complex calorie judgments citation
+MISC--: third consumers might go beyond literal meaning producer s utterance citation infer producer who adheres organic production standards might also care about other health related aspects product again supporting more general inferences about product s healthy attributes citation
+MISC--: fourth logic halo effects citation more generally suggests consumers might judge products one positive attribute more favorably other attributes even when they not substantively related if so organics might judged lower calorie extent perceivers hold favorable attitudes toward organic production
+MISC--: because natural foods tend seen inherently good healthy citation organic halos seem plausible given back nature connotations organic production
+OWNX--: although above considerations all point generalized positive effects organic claims strength effects might moderated perceivers general attitudes toward organic foods
+AIMX--: attitudes likely show more variation than attitudes toward health related nutrient claims e g no cholesterol low fat might vary partly function individual differences pro environmentalism citation
+MISC--: if so people high pro environmentalism might more affected organic claims reflecting positive halo effects should increase positivity attitude toward initial attribute here organic production
+OWNX--: despite different underlying assumptions all considerations converge same core prediction organic claims might reduce calorie judgments making consumption organic foods seem more compatible weight loss goal
+AIMX--: present studies test this prediction assessing effect organic claims perceived calorie content consumption recommendations well impact organic consumption perceived need exercise
+OWNX--: we also explore whether individuals high pro environmentalism especially likely show this effect consistent halo logic outlined above
+CONT--: note however alternative prediction also plausible those high pro environmentalism may know more about organics rendering them less susceptible unwarranted inferences organic claims

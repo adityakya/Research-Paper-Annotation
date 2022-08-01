@@ -1,0 +1,10 @@
+OWNX--: method stable random projections tool efficiently computing symbol distances using low memory where symbol tuning parameter
+OWNX--: method boils down statistical estimation task various estimators been proposed based geometric mean harmonic mean fractional power etc
+OWNX--: this study proposes optimal quantile estimator whose main operation selecting considerably less expensive than taking fractional power main operation previous estimators
+OWNX--: our experiments report optimal quantile estimator nearly one order magnitude more computationally efficient than previous estimators
+MISC--: large scale learning tasks storing computing pairwise distances serious bottleneck this estimator should desirable
+MISC--: addition its computational advantages optimal quantile estimator exhibits nice theoretical properties
+MISC--: more accurate than previous estimators when symbol
+OWNX--: we derive its theoretical error bounds establish explicit i e no hidden constants sample complexity bound
+OWNX--: method stable random projections citation efficient tool computing pairwise distances massive high dimensional data provides promising mechanism tackle some challenges modern machine learning
+OWNX--: this paper we provide easy implement algorithm stable random projections both statistically accurate computationally efficient

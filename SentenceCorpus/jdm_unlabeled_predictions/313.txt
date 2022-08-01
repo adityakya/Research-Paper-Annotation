@@ -1,0 +1,10 @@
+OWNX--: calibration probability confidence judgments concerns association between judgments some estimate correct probabilities events
+MISC--: researchers rely estimates using relative frequencies computed aggregating data over observations
+AIMX--: we show this approach creates conceptual problems may result confounding explanatory variables unstable estimates
+BASE--: circumvent problems we propose using probability estimates obtained statistical models specifically mixed models binary data analysis calibration
+AIMX--: we illustrate this methodology re analyzing data published study comparing results this approach those based relative frequencies
+MISC--: model based estimates avoid problems confounding variables provided more precise estimates resulting better inferences
+MISC--: there substantial literature about quality probability confidence judgments citation
+MISC--: specific property probability judgments their calibration been accepted common standard validity empirical literature citation
+MISC--: judgments said calibrated if p number percent all events assigned subjective probability p materialize
+OWNX--: this paper focuses some conceptual methodological problems associated standard calibration analyses

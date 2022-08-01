@@ -1,0 +1,28 @@
+MISC--: alternative splicing gene duplication both processes diversify protein repertoire
+MISC--: recent examples shown sequence changes introduced may comparable those introduced gd
+OWNX--: addition two processes inversely correlated at genomic scale large gene families depleted splice variants vice versa
+MISC--: all together data strongly suggest both phenomena result interchangeability between their effects
+OWNX--: here we tested extent this applies respect various protein characteristics
+MISC--: amounts gd per gene anticorrelated even when accounting different gene functions degrees sequence divergence
+OWNX--: contrast two processes appear independent their influence variation mrna expression
+MISC--: further we conducted detailed comparison effect sequence changes both alternative splice variants gene duplicates protein structure particular size location types sequence substitutions insertions deletions
+AIMX--: we find general alternative splicing affects protein sequence structure more drastic way than gene duplication subsequent divergence
+OWNX--: our results reveal interesting paradox between anticorrelation gd at genomic level their impact at protein level shows little no equivalence terms effects protein sequence structure function
+OWNX--: we discuss possible explanations relate order appearance gd gene family selection pressure imposed environment
+MISC--: alternative splicing gene duplication two main contributors diversity protein repertoire enormous impact protein sequence structure function citation citation
+MISC--: interestingly several recent studies point direct equivalence between gd
+MISC--: there some cases where alternative splice variants one organism similar gene duplicates another organism citation citation
+MISC--: example eukaryotic splicing factor u af at least two functional splice variants human u af u af b differ seven amino acids rna recognition motif
+MISC--: fugu orthologue u af no splice variant instead there duplicate gene u af b changes identical those found human splice variant u af b citation
+MISC--: further changes introduced sequence constrained need preserve stable functional three dimensional fold citation
+MISC--: indeed structural studies shown insertions deletions between gene duplicates tend happen at sequence locations where they less damaging citation loops at solvent accessible locations
+MISC--: restrictions will apply irrespective source changes thus may introduce certain degree similarity between sequence changes associated gd
+MISC--: finally recent studies shown gd inversely correlated genome wide scale citation citation i e small gene families tend more genes alternative splice variants than do large families
+OWNX--: findings together i e anecdotal examples structural constraints anticorrelation at genomic level suggest gd interchangeable sources functional diversification citation
+MISC--: genes would not need produce additional variants form duplicates vice versa
+OWNX--: here we first tested anticorrelation between gd respect sequence divergence function gene expression
+AIMX--: second we studied interchangeability hypothesis at protein structure level asked what extent gd introduce changes sequence equivalent their nature effect structure function
+OWNX--: this end we conducted large scale comparison effects gd human mouse proteins
+MISC--: vast majority cases two processes result different protein modifications different functional implications
+OWNX--: this finding while consistent different molecular mechanisms underlying both phenomena contradicts anticorrelation observed at genomic level
+OWNX--: we discuss some possible explanations this paradox

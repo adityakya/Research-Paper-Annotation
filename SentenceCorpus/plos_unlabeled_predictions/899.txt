@@ -1,0 +1,46 @@
+MISC--: natural proteins often partake several highly specific protein protein interactions
+MISC--: they thus subject multiple opposing forces during evolutionary selection
+OWNX--: functional multispecific proteins need stable complex each interaction partner at same time maintain affinity toward all partners
+OWNX--: how this multispecificity acquired through natural evolution
+AIMX--: answer this compelling question we study prototypical multispecific protein calmodulin evolved interact hundreds target proteins
+OWNX--: starting high resolution structures sixteen cam target complexes we employ state art computational methods predict hundred cam sequences best suited interaction each individual cam target
+OWNX--: then we design cam sequences most compatible each possible combination two three all sixteen targets simultaneously producing almost low energy cam sequences
+OWNX--: comparing sequences their energies we gain insight into how nature managed find compromise between need favorable interaction energies need multispecificity
+OWNX--: we observe designing more partners simultaneously yields cam sequences better match natural sequence profiles thus emphasizing importance strategies nature
+OWNX--: furthermore we show cam binding interface nicely partitioned into positions critical affinity all cam target complexes those molded provide interaction specificity
+OWNX--: we reveal several basic categories sequence level tradeoffs enable compromise necessary promiscuity this protein
+OWNX--: we also thoroughly quantify tradeoff between interaction energetics multispecificity find facilitating seemingly competing interactions requires only small deviation optimal energies
+OWNX--: we conclude multispecific proteins been subjected rigorous optimization process fine tuned their sequences interactions precise set targets thus conferring their multiple cellular functions
+MISC--: proteins engage numerous protein protein interactions together regulate outcome all biological processes cell
+MISC--: some estimates over third all mammalian proteins participate two more highly specific protein protein interactions citation
+MISC--: proteins interact large number partners play central role modular organization protein interaction networks citation
+MISC--: proteins usually referred protein hubs tend more essential than others cell survival citation usually exhibit slower rates evolution citation
+OWNX--: moreover comprehensive biological activity proteins typically requires them recognize precise set targets specific way
+MISC--: example each subfamily g protein regulators interacts only specific subset g proteins citation
+MISC--: proteins diverse binding capacity also been termed multispecific proteins citation citation
+MISC--: central function multispecific proteins within interaction networks imposes constraints their amino acid sequences especially their protein protein interfaces i e regions used mediate intermolecular interactions various targets
+MISC--: there exist only few studies characterized great detail molecular structural features multispecific protein interfaces citation this mostly due sparse representation protein protein complexes protein data bank
+MISC--: thorough understanding atomic level principles governing multispecific interactions extremely important not only advancement basic science but also design new pharmaceuticals modify protein protein interactions
+MISC--: furthermore molecular insights will provide critical feedback systems biology research views protein protein interactions high level network approach citation
+MISC--: calmodulin paradigm multispecific protein more than three hundred cam targets identified date citation
+OWNX--: cam central player formula signaling pathways control gene transcription protein phosphorylation nucleotide metabolism ion transport
+MISC--: this formula sensor protein translates changes formula concentration into activity many downstream targets including kinases phosphatases enzymes ion channels citation
+MISC--: remarkably cam targets display considerable variability sequence structure
+MISC--: cam binding regions within target proteins generally rich hydrophobic positively charged residues
+OWNX--: nevertheless no consensus cam binding sequence exists all cam target proteins
+MISC--: recent structural studies revealed there several binding modes accessible cam allowing this protein interact its targets formula saturated state citation citation partially saturated formula state citation formula free state citation citation
+MISC--: formula saturated form cam usually binds stretch formula amino acids unfolded absence cam becomes helical upon interaction protein citation
+OWNX--: this conventional binding mode cam undergoes conformational change embraces target helix its two globular domains burying substantial hydrophobic surface area providing favorable hydrogen bond salt bridge interactions target
+MISC--: formula saturated cam binds its targets high affinity displaying formula values formula formula m range citation
+MISC--: this affinity reduced at least fold absence formula allowing quick dissociation cam its targets when formula depleted
+MISC--: multitude binding constraints placed cam during evolution likely produced sequence may not optimal binding any particular cam target but rather presents compromise essential interaction large number partners
+OWNX--: this study we employ computational design approach citation understand how compromises required functional promiscuity citation achieved both level amino acid sequences level binding energetics
+OWNX--: first we computationally evolve cam interact single targets second we evolve this protein bind multiple partners simultaneously
+MISC--: recently similar analysis was performed twenty multispecific proteins whose interactions two seven targets were considered citation citation
+MISC--: contrast those works we report much more comprehensive investigation single multispecific protein cam
+OWNX--: we examine interactions sixteen different cam target complexes exhibit conventional binding mode
+OWNX--: using structures complexes we perform separate cam design calculations obtain formula low energy cam sequences optimal either single target some combination targets
+MISC--: rigorous quantitative statistical comparisons designed cam sequences their energies allows us draw conclusions regarding cam evolution suggest strategies design binders both promiscuous yet highly specific
+MISC--: particular we characterize cam binding interface partitioning its residues into those critical binding affinity those important multispecificity
+AIMX--: furthermore we analyze sorts sequence compromises required yield proteins promiscuous interactions show how this fits past explanations ability cam accommodate many targets
+OWNX--: finally we examine energetic compromises inherently crucial multispecificity citation we find our results also shed light unexpected findings previous experimental protein design research

@@ -1,0 +1,33 @@
+MISC--: learning machines hierarchical structures hidden variables singular statistical models because they nonidentifiable their fisher information matrices singular
+MISC--: singular statistical models neither does bayes posteriori distribution converge normal distribution nor does maximum likelihood estimator satisfy asymptotic normality
+CONT--: this main reason been difficult predict their generalization performance trained states
+AIMX--: this paper we study four errors bayes generalization error bayes training error gibbs generalization error gibbs training error prove there universal mathematical relations among errors
+AIMX--: formulas proved this paper equations states statistical estimation because they hold any true distribution any parametric model any priori distribution
+AIMX--: also we show bayes gibbs generalization errors estimated bayes gibbs training errors we propose widely applicable information criteria applied both regular singular statistical models
+MISC--: recently many learning machines being used information processing systems
+MISC--: example layered neural networks normal mixtures binomial mixtures bayes networks boltzmann machines reduced rank regressions hidden markov models stochastic context free grammars being employed pattern recognition time series prediction robotic control human modeling biostatistics
+MISC--: although their generalization performances determine accuracy information systems been difficult estimate generalization errors based training errors because learning machines singular statistical models
+MISC--: parametric model called regular if mapping parameter probability distribution one one if its fisher information matrix always positive definite
+MISC--: if statistical model regular then bayes posteriori distribution converges normal distribution maximum likelihood estimator satisfies asymptotic normality
+OWNX--: based properties relation between generalization error training error was clarified some information criteria were proposed
+MISC--: other hand if mapping parameter probability distribution not one one if fisher information matrix singular then parametric model called singular
+MISC--: general if learning machine hierarchical structure hidden variables then singular
+MISC--: therefore almost all learning machines singular
+MISC--: singular learning machines log likelihood function not approximated any quadratic form parameter result conventional relationship between generalization errors training errors does not hold either maximum likelihood method citation citation citation bayes estimation citation
+MISC--: singularities strongly affect generalization performances citation learning dynamics citation
+MISC--: therefore order establish mathematical foundation singular learning theory necessary construct formulas hold even singular learning machines
+MISC--: recently we proved citation citation generalization error bayes estimation asymptotically equal symbol where symbol rational number determined zeta function learning machine symbol number training samples
+MISC--: regular statistical models symbol where symbol dimension parameter space whereas singular statistical models symbol depends strongly learning machine true distribution priori probability distribution
+MISC--: practical applications true distribution often unknown hence been difficult estimate generalization error training error
+OWNX--: estimate generalization error when we do not any information about true distribution we need general formula holds independently singularities
+OWNX--: this paper we study four errors bayes generalization error symbol bayes training error symbol gibbs generalization error symbol gibbs training error symbol prove formulas symbol where symbol denotes expectation value symbol inverse temperature posteriori distribution
+MISC--: equations assert increased error training generalization proportion difference between bayes gibbs training errors
+MISC--: should emphasized formulas hold any true distribution any learning machine any priori probability distribution any singularities therefore they reflect universal laws statistical estimation
+OWNX--: also based formula we propose widely applicable information criteria waic applied both regular singular learning machines
+OWNX--: other words we apply waic without any knowledge about true distribution
+AIMX--: this paper consists six parts
+OWNX--: section we describe main results this paper
+OWNX--: section we propose widely applicable information criteria show how apply them statistical estimation
+OWNX--: section we prove main results mathematically rigorous way
+AIMX--: sections we discuss conclude this paper
+MISC--: proofs lemmas quite technical hence they presented appendix

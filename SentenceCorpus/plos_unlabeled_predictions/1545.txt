@@ -1,0 +1,40 @@
+OWNX--: intrinsically disordered regions serve molecular recognition elements play important role control many cellular processes signaling pathways
+MISC--: useful able predict positions disordered regions protein chains
+MISC--: statistical analysis disordered residues was done considering unique protein chains taken pdb database
+MISC--: this database percent residues disordered
+OWNX--: statistics were obtained separately n c termini well central part protein chain
+MISC--: been shown frequencies occurrence disordered residues types at termini protein chains differ ones middle part protein chain
+MISC--: our systematic analysis disordered regions pdb revealed disordered patterns different lengths
+MISC--: each them disordered occurrences at least five protein chains identity less than percent
+OWNX--: vast majority all occurrences each disordered pattern disordered
+MISC--: this allows one use library disordered patterns predicting status residue given protein ordered disordered
+OWNX--: we analyzed occurrence selected patterns three eukaryotic three bacterial proteomes
+MISC--: prediction protein structure function one general directions structural genomics
+MISC--: special interest prediction so called disordered regions protein chain
+MISC--: disordered regions often play important functional role
+MISC--: should emphasized one type disordered regions structured only when they bind other molecules citation under changing conditions biochemical medium citation citation but other kinds disordered regions always disordered never become structured
+MISC--: disordered regions protein chains often cause complications upon expression purification crystallization proteins
+MISC--: at present more than proteins disordered regions described disprot database citation
+MISC--: proteins domains either entirely unstructured native state lengthy disordered regions
+MISC--: at functionally important protein regions proteins outside globular domains i e just disordered regions citation citation
+MISC--: since disordered regions protein chain play important role protein functioning much attention being paid their examination prediction citation citation
+MISC--: indeed been shown disordered proteins certain properties distinguish them proteins well defined structures citation
+OWNX--: abundance intrinsic disorder pdb was discussed recent study citation
+MISC--: typically disordered regions low aromatic content high net charge well low sequence complexity high flexibility citation citation
+MISC--: prediction methods aim identify disordered regions through analysis amino acid sequences using mainly physico chemical properties amino acids citation citation evolutionary conservation citation citation
+MISC--: suggested if one same pattern corresponds disordered regions protein structures then highly probable pattern will disordered other proteins
+MISC--: search disordered patterns important task prediction disordered regions search functioning considered motifs
+MISC--: identification essential features within protein domains greatly facilitate their functional characterization
+MISC--: there well established databases protein motif domain information prosite interpro pfam citation citation
+MISC--: creation library disordered patterns one primary tasks this respect
+MISC--: there no information about library
+MISC--: until now we known pest motif most cases degradation motif citation rgd motif found extracellular matrix proteins fibronectin fibrinogen prothrombin tenascin thrombospondin vitronectin etc citation citation
+MISC--: exposed rgd motif constitutes major recognition site integrin binding citation
+OWNX--: this work we been interested stretches disordered residues
+MISC--: rule stretches short loops inside globular domains present only one type disorder because disordered proteins range molten globules chains having no structural preferences whatsoever residues several hundreds even thousands residues citation citation citation
+MISC--: we analyzed disordered regions created library disordered motifs their positions protein chains entire protein databank citation
+MISC--: taking into account consideration library disordered patterns will help improving accuracies predictions residues structured unstructured inside given region
+MISC--: moreover our new statistics occurrence unstructured residues will useful those who dealing prediction status residues ordered disordered
+MISC--: combining motif discovery disorder protein segment identification pdb new promising approach further studying understanding functional role obtained patterns different proteomes
+MISC--: question about specificity patterns more important biological functioning
+OWNX--: we analyzed occurrence obtained patterns some eukaryotic proteomes some bacterial proteomes

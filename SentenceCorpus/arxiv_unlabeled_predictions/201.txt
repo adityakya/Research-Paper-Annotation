@@ -1,0 +1,31 @@
+OWNX--: we discuss multi task online learning when decision maker deal simultaneously symbol tasks
+MISC--: tasks related modeled imposing symbol tuple actions taken decision maker needs satisfy certain constraints
+OWNX--: we give natural examples restrictions then discuss general class tractable constraints we introduce computationally efficient ways selecting actions essentially reducing line shortest path problem
+OWNX--: we briefly discuss tracking bandit versions problem extend model various ways including non additive global losses uncountably infinite sets tasks
+MISC--: multi task learning recently received considerable attention see citation
+MISC--: multi task learning problems one simultaneously learns several tasks related some sense
+MISC--: relationship tasks been modeled different ways literature
+OWNX--: our setting decision maker chooses action simultaneously each symbol given tasks repeated manner each tasks corresponds game we will use interchangeably concepts game task relatedness accounted putting some hard constraints simultaneous actions
+MISC--: motivating example consider distance selling company designs several commercial offers its numerous customers customers ordered say age
+MISC--: company choose whom send offer
+MISC--: loss earnings suffered whenever customer does not receive commercial offer would been best him
+MISC--: basic marketing considerations suggest offers given customers similar age should not very different so company selects batch offers satisfy constraint
+MISC--: additional budget constraint may limit further set batches company may select
+OWNX--: after offers sent out customers responses observed at least partially new offers selected sent
+MISC--: we model situations playing many repeated games simultaneously restriction vector actions selected at time needs belong previously given set
+MISC--: this set determined beforehand budget marketing constraints discussed above
+MISC--: goal decision maker minimize total accumulated regret across many games through time perform long run almost well best constant vector actions satisfying constraint
+MISC--: problem playing repeatedly several games simultaneously been considered citation who studies convergence nash equilibria but does not address issue computational feasibility when large number games played
+MISC--: line multi task learning problems were also studied citation citation
+OWNX--: latter reference we consider minimizing regret simultaneously parallel enforcing however some hard constraints
+OWNX--: citation we measure total loss sum losses suffered each game but assume all tasks performed at each round this assumption however relaxed section where we consider global losses more general than sums losses main additional difficulty we face requirement decision maker chooses restricted subset vectors actions
+MISC--: previous models restrictions were only considered comparison class but not way decision maker plays
+MISC--: we formulate problem framework line regret minimization see citation survey
+MISC--: main challenge construct strategy playing many games simultaneously small regret strategy manageable computational complexity
+OWNX--: we show various natural examples computational problem may reduced online shortest path problem associated graph well known efficient algorithms exist we however propose specific scheme implementation slightly more effective results extended easily tracking case goal decision maker perform well best strategy change vector actions taken restricted set at limited number times
+OWNX--: we also consider bandit version problem when decision maker instead observing losses all actions all games only learns sum losses chosen actions
+OWNX--: finally we also consider cases when there infinitely many tasks indexed real numbers
+MISC--: cases decision maker chooses function certain restricted class functions
+AIMX--: we show examples natural extensions cases we consider finitely many tasks discuss computational issues closely related theory exact simulation continuous time markov chains
+AIMX--: we concentrate exponentially weighted average forecasters because when compared its most likely competitors follow leader type algorithms they better performance guarantees especially case bandit feedback
+MISC--: besides two families forecasters pointed out citation usually implementation complexities same order

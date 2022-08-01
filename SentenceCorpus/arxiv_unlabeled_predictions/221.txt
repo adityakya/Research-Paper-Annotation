@@ -1,0 +1,47 @@
+OWNX--: given iid data unknown distribution we consider problem predicting future items
+MISC--: adaptive way estimate probability density recursively subdivide domain appropriate data dependent granularity
+MISC--: bayesian inference one assigns data independent prior probability subdivide leads prior over infinite ly many trees
+OWNX--: we derive exact fast simple inference algorithm prior data evidence predictive distribution effective model dimension moments other quantities
+OWNX--: we prove asymptotic convergence consistency results illustrate behavior our model some prototypical functions
+OWNX--: we consider problem inference iid data symbol particular unknown distribution symbol data sampled
+MISC--: case continuous domain this means inferring probability density data
+OWNX--: without structural assumption symbol this hard impossible since finite amount data never sufficient uniquely select density model infinite dimensional space densities model class
+MISC--: parametric estimation one assumes symbol belongs finite dimensional family
+OWNX--: two dimensional family gaussians characterized mean variance prototypical figure
+MISC--: maximum likelihood ml estimate symbol distribution maximizes data likelihood
+MISC--: maximum likelihood overfits if family too large especially if infinite dimensional
+MISC--: remedy penalize complex distributions assigning prior nd order probability densities symbol
+MISC--: maximizing model posterior map proportional likelihood times prior prevents overfitting
+MISC--: full bayesian procedure keeps complete posterior inference
+OWNX--: typically summaries like mean variance posterior reported paranodot how choose prior finite small compact low dimensional spaces uniform prior often works map reduces ml
+MISC--: non parametric case one typically devises hierarchy finite dimensional model classes increasing dimension
+MISC--: selecting dimension maximal posterior often works well due bayes factor phenomenon citation case true model low dimensional higher dimensional complex model classes automatically penalized since they contain fewer good models
+MISC--: full bayesian treatment one would assign prior probability e g symbol dimension symbol mix over dimension
+MISC--: probably simplest oldest model interval domain divide interval uniformly into bins assume constant distribution within each bin take frequency estimate probability each bin figure dirichlet posterior bayesian inference
+MISC--: there heuristics choosing number bins function data size
+MISC--: simplicity easy computability bin model very appealing practitioners
+MISC--: drawbacks distributions discontinuous its restriction one dimension at most low dimension curse dimensionality uniform more generally fixed discretization heuristic choice number bins
+OWNX--: we present full bayesian solution problems except non continuity problem
+OWNX--: our model regarded extension polya trees citation
+MISC--: there plenty alternative bayesian models overcome some all limitations
+MISC--: examples continuous dirichlet process mixtures citation bernstein polynomials citation bayesian field theory citation randomized polya trees citation bayesian bins boundary averaging citation bayesian kernel density estimation other mixture models citation universal priors citation but exact analytical solutions infeasible
+MISC--: markov chain monte carlo sampling citation expectation maximization algorithms citation variational methods citation efficient map m d l approximations citation kernel density estimation citation often used obtain approximate numerical solutions but computation time global convergence remain critical issues
+MISC--: there course also plenty non bayesian density estimators see references citation general citation density tree estimation particular
+AIMX--: idea model class discussed this paper very simple some e g equal probability we chose symbol either uniform split domain two parts equal volume assign prior each part recursively i e each part again either uniform split
+MISC--: finitely many splits symbol piecewise constant function infinitely many splits virtually any distribution
+MISC--: while prior over symbol neutral about uniform versus split we will see posterior favors split if only if data clearly indicates non uniformity
+OWNX--: method full bayesian non heuristic tree approach adaptive binning we present very simple fast algorithm computing all quantities interest
+OWNX--: note we not arguing our model performs better practice than more advanced models above
+OWNX--: main distinguishing feature our model allows fast exact analytical solution
+MISC--: s likely use building block complex problems where computation time bayesian integration major issues
+OWNX--: any case if since polya tree model deserves attention also our model should
+OWNX--: section we introduce our model compare polya trees
+OWNX--: we also discuss some example domains like intervals strings volumes classification tasks
+OWNX--: section derives recursions posterior data evidence
+OWNX--: section proves convergence consistency
+OWNX--: section we introduce further quantities interest including effective model dimension tree size height cell volume moments present recursions them
+OWNX--: proper case infinite trees discussed section where we analytically solve infinite recursion at data separation level
+OWNX--: section collects everything together presents algorithm
+OWNX--: section we numerically illustrate behavior our model some prototypical functions
+OWNX--: section contains brief summary conclusions outlook including natural generalizations our model
+MISC--: see citation program code

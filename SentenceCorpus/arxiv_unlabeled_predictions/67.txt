@@ -1,0 +1,26 @@
+OWNX--: process training support vector machines svms decomposition methods working set selection important technique some exciting schemes were employed into this field
+AIMX--: improve working set selection we propose new model working set selection sequential minimal optimization smo decomposition methods
+OWNX--: this model selects symbol symbol working set without reselection
+OWNX--: some properties given simple proof experiments demonstrate proposed method general faster than existing methods
+MISC--: past few years there been huge interest support vector machines svms citation because they excellent generalization performance wide range problems
+MISC--: key work training svms solve follow quadratic optimization problem
+OWNX--: where symbol vector all ones symbol upper bound all variables symbol symbol kernel function
+MISC--: notable effects been taken into training svms citation
+CONT--: unlike most optimization methods update whole vector symbol each iteration decomposition method modifies only subset symbol per iteration
+MISC--: each iteration variable indices split into working set symbol its complement symbol
+MISC--: then sub problem variables symbol solved thereby leaving values remaining variables symbol unchanged
+OWNX--: this method leads small sub problem minimized each iteration
+MISC--: extreme case sequential minimal optimization smo citation restricts working set only two elements
+MISC--: comparative tests against other algorithms done platt citation indicates smo often much faster better scaling properties
+MISC--: since only few components updated per iteration difficult problems decomposition method suffers slow convergence
+MISC--: better method working set selection reduce number iterations hence important research issue
+MISC--: some methods were proposed solve this problem reduce time training svms citation
+AIMX--: this paper we proposed we propose new model select working set
+OWNX--: this model specially selects symbol without reselection
+MISC--: another word once symbol selected they will not tested selected during following working set selection
+MISC--: experiments demonstrate new model general faster than existing methods
+AIMX--: this paper organized following
+OWNX--: section ii we give literature review smo decomposition method existing working set selection both discussed
+OWNX--: new method working set selection then presented section iii
+MISC--: section iv experiments corresponding analysis given
+OWNX--: finally section v concludes this paper

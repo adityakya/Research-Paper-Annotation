@@ -1,0 +1,39 @@
+MISC--: combining mutual information criterion forward feature selection strategy offers good trade off between optimality selected feature subset computation time
+MISC--: however requires set parameter s mutual information estimator determine when halt forward procedure
+MISC--: two choices difficult make because dimensionality subset increases estimation mutual information becomes less less reliable
+AIMX--: this paper proposes use resampling methods k fold cross validation permutation test address both issues
+MISC--: resampling methods bring information about variance estimator information then used automatically set parameter calculate threshold stop forward procedure
+OWNX--: procedure illustrated synthetic dataset well real world examples
+MISC--: feature selection consists choosing among set input features variables subset features maximum prediction power output
+MISC--: more formally let us consider symbol random input vector symbol continuous random output variable predicted symbol
+MISC--: task feature selection consists finding features symbol most relevant predict value symbol citation
+MISC--: selecting features important practice especially when distance based methods like k nearest neighbors k nn radial basis function networks rbfn support vector machines svm depending kernel considered
+MISC--: methods indeed quite sensitive irrelevant inputs their performances tend decrease when useless variables added data
+MISC--: when data high dimensional i e initial number variables large exhaustive search optimal feature set course intractable
+MISC--: cases furthermore most methods work backwards eliminating useless features perform badly
+MISC--: backward elimination procedure instance pruning methods multilayer perceptron citation svm based feature selection citation weighting methods like generalized relevance learning vector quantization algorithm citation require building model all initial features
+MISC--: high dimensional data this will often lead large computation times overfitting convergence problems more generally issues related curse dimensionality
+OWNX--: approaches furthermore bound specific prediction model
+MISC--: contrast forward feature selection procedure applied using any model begins small feature subsets
+OWNX--: procedure furthermore simple often efficient
+CONT--: nevertheless when data high dimensional becomes difficult perform forward search using prediction model directly
+OWNX--: this because every candidate feature subset prediction model must fit involving resampling techniques grid searching optimal structural parameters
+MISC--: cheaper alternative estimate relevance each candidate subset statistical information theoretic measure without using prediction model itself
+MISC--: combined use forward feature search information theoretic based relevance criterion generally considered good option when nonlinear effects prevent using correlation coefficient citation
+MISC--: this context mutual information estimated using nearest neighbour based approach been shown effective citation
+MISC--: nevertheless this approach just like most feature selection methodologies faces two difficulties
+MISC--: first one generic all feature selection methods lies optimal choice number features select
+MISC--: most time number features select chosen priori so maximize relevance criterion
+CONT--: former approach leaves no room optimization while latter may very sensitive estimation relevance criterion
+MISC--: second difficulty concerns choice parameter s estimation relevance criterion
+MISC--: indeed most criteria except maybe correlation coefficient at least one structural parameter like number units kernel width prediction model number neighbours number bins nonparametric relevance estimator etc
+MISC--: often result selection highly depends value those parameter s
+OWNX--: aim this paper provide automatic procedure choose two above mentioned important parameters i e number features select forward search structural parameter s relevance criterion estimation
+MISC--: this procedure will detailed situation where mutual information used relevance criterion estimated through nearest neighbours
+MISC--: resampling methods will used obtain this automatic choice
+MISC--: those methods increase computational cost forward search but provide meaningful information about quality estimations setting parameters will shown permutation test used automatically stop forward procedure combination permutation k fold resampling allows choosing optimal number neighbors estimation mutual information
+AIMX--: remaining this paper organized follows
+OWNX--: section introduces mutual information permutation test k fold resampling briefly reviews how they used together
+OWNX--: section illustrates challenges choosing number neighbours mutual information estimation number features select forward search
+OWNX--: section then presents proposed approach
+OWNX--: performances method real world data reported section

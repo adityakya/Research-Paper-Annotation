@@ -1,0 +1,33 @@
+AIMX--: games prediction expert advice considered this paper
+OWNX--: we present some modification kalai vempala algorithm following perturbed leader case unrestrictedly large one step gains
+AIMX--: we show general case cumulative gain any probabilistic prediction algorithm much worse than gain some expert pool
+OWNX--: nevertheless we give lower bound this cumulative gain general case construct universal algorithm optimal performance we also prove case when one step gains experts pool limited deviations performance our algorithm close performance best expert
+MISC--: experts algorithms used online prediction repeated decision making repeated game playing
+MISC--: any algorithm based pool experts
+MISC--: at any step symbol each expert gives its recommendation
+MISC--: this master decision performed
+MISC--: after losses rewards symbol assigned each expert symbol environment adversary
+MISC--: master algorithm also receives some loss reward depending master decision
+MISC--: goal master algorithm perform almost well best expert hindsight long run
+AIMX--: prediction expert advice considered this paper proceeds follows
+OWNX--: we asked perform sequential actions at times symbol
+OWNX--: at each time step symbol we observe results actions experts form their gains losses steps symbol
+OWNX--: after at beginning step symbol learner makes decision follow one experts say expert symbol
+MISC--: at end step symbol learner receives same gain loss expert symbol at step symbol
+BASE--: we use notations definitions citation citation
+MISC--: let symbol cumulative loss expert symbol at time symbol
+MISC--: given symbol symbol at time symbol natural idea solve expert problem follow leader i e select expert symbol performed best past
+MISC--: following simple example kalai vempala citation shows learner perform much worse than each expert let current losses two experts steps symbol symbol symbol
+MISC--: follow leader algorithm always chooses wrong prediction
+OWNX--: method following perturbed leader was discovered hannan citation
+OWNX--: kalai vempala citation rediscovered this method published simple proof main result hannan
+MISC--: they called algorithm this type fpl following perturbed leader
+MISC--: hutter poland citation presented further developments fpl algorithm countable class experts arbitrary weights adaptive learning rate
+OWNX--: fpl algorithm outputs prediction expert symbol minimizes symbol symbol xi t i symbol i m symbol t symbol p t e t symbol symbol symbol symbol symbol n symbol i symbol t symbol s i t symbol t symbol b t symbol s tb t symbol t symbol s i t symbol i symbol s i t seems too restrictive
+OWNX--: appendix we consider some applications results sections this paper
+OWNX--: we define two financial experts learning fractional brownian motion whose one step gains at any step not restricted advance
+OWNX--: this application at bottom our special interest zero sum games unbounded gains section
+AIMX--: this paper we present some modification kalai vempala algorithm case unrestrictedly large one step gains not bounded advance
+AIMX--: we show general case cumulative gain any probabilistic prediction algorithm much worse than gain some expert pool
+OWNX--: nevertheless we give lower bound cumulative gain any probabilistic algorithm general case prove our universal algorithm optimal performance we also prove case when one step gains experts pool limited deviations particular when they bounded performance our algorithm close performance best expert
+OWNX--: this result some improvement results mentioned above

@@ -1,0 +1,50 @@
+MISC--: paired end sequencing emerging key technique assessing genome rearrangements structural variation genome wide scale
+MISC--: this technique particularly useful detecting copy neutral rearrangements inversions translocations common cancer produce novel fusion genes
+AIMX--: we address question how much sequencing required detect rearrangement breakpoints localize them precisely using both theoretical models simulation
+OWNX--: we derive formula probability fusion gene exists cancer genome given collection paired end sequences this genome
+OWNX--: we use this formula compute fusion gene probabilities several breast cancer samples we find we able accurately predict fusion genes samples relatively small number fragments large size
+OWNX--: we further demonstrate how ability detect fusion genes depends distribution gene lengths we evaluate how different parameters sequencing strategy impact breakpoint detection breakpoint localization fusion gene detection even presence errors suggest false rearrangements
+MISC--: results will useful calibrating future cancer sequencing efforts particularly large scale studies many cancer genomes enabled next generation sequencing technologies
+MISC--: cancer disease driven selection somatic mutations
+MISC--: mutations range single nucleotide changes large scale chromosomal aberrations deletion duplications inversions translocations
+MISC--: while many mutations been cataloged cancer cells via cytogenetics gene resequencing array based techniques there now great interest using genome sequencing provide comprehensive understanding mutations cancer genomes
+MISC--: cancer genome atlas one sequencing initiative focuses sequencing efforts pilot phase point mutations coding regions
+OWNX--: this approach largely ignores copy neutral genome rearrangements including translocations inversions
+MISC--: rearrangements create novel fusion genes observed leukemias lymphomas sarcomas citation citation
+MISC--: canonical example fusion gene bcr abl results characteristic translocation many patients chronic myelogenous leukemia citation
+MISC--: advent gleevec drug targeted bcr abl fusion gene proven successful treatment cml patients citation invigorating search other fusion genes might provide tumor specific biomarkers drug targets
+MISC--: until recently was generally believed recurrent translocations their resulting fusion genes occurred only hematological disorders sarcomas few suggesting recurrent events were prevalent across all tumor types including solid tumors citation citation
+MISC--: this view been challenged discovery fusion between tmprss gene several members erg protein family prostate cancer citation eml alk fusion lung cancer citation
+MISC--: studies raise question what other recurrent rearrangements remain discovered
+OWNX--: one strategy genome wide high resolution identification fusion genes other large scale rearrangements paired end sequencing clones other fragments genomic dna tumor samples
+MISC--: resulting end sequence pairs paired reads mapped back reference human genome sequence
+MISC--: if mapped locations ends clone invalid then genomic rearrangement suggested
+MISC--: this strategy was initially described end sequence profiling approach citation later used assess genetic structural variation citation citation
+MISC--: innovative approach utilizing sage like sequencing concatenated short paired end tags successfully identified fusion transcripts cdna libraries citation
+OWNX--: present forthcoming next generation dna sequencers hold promise extremely high throughput sequencing paired end reads
+MISC--: example illumina genome analyzer will soon able produce millions paired reads approximately bp fragments length bp citation while solid system applied biosystems promises bp reads each end size selected dna fragments many sizes citation
+MISC--: similar strategies coupling generation paired end tags sequencing also been described citation citation
+OWNX--: whole genome paired end sequencing approaches allow genome wide survey all potential fusion genes other rearrangements tumor
+MISC--: this approach holds several advantages over transcript protein profiling cancer studies
+CONT--: first discovery fusion genes using mrna expression citation cdna sequencing mass spectrometry citation depends fusion genes being transcribed under specific cellular conditions present sample at time assay
+MISC--: conditions might different than those experienced cells during tumor development
+MISC--: second measurement fusions at dna sequence level focuses gene fusions due genomic rearrangements thus less impeded splicing artifacts trans splicing citation
+OWNX--: finally genome sequencing identify more subtle regulatory fusions result when promoter one gene fused coding region another gene case c myc oncogene fusion immunoglobin gene promoter burkitt s lymphoma citation
+AIMX--: this paper we address number theoretical practical considerations assessing cancer genome organization using paired end sequencing approaches
+OWNX--: we largely concerned detecting rearrangement breakpoint where pair non adjacent coordinates reference genome adjacent cancer genome
+OWNX--: particular we extend this idea breakpoint examine ability detect fusion genes
+OWNX--: specifically if clone end sequences mapping distant locations identifies rearrangement cancer genome does this rearrangement lead formation fusion gene
+MISC--: obviously sequencing clone will answer this question but this requires additional effort cost may problematic e g most next generation sequencing technologies do not archive genome clone library later analysis
+OWNX--: we derive formula probability fusion between pair genomic regions given set all mapped clones empirical distribution clone lengths
+OWNX--: probabilities useful prioritizing follow up experiments validate fusion genes
+OWNX--: test experiment mcf breast cancer cell line pairs genes were found near clones aberrantly mapping end sequences
+OWNX--: however our analysis revealed only pairs genes high probability fusion six were tested five experimentally confirmed
+MISC--: advent high throughput sequencing strategies raises important experimental design questions using technologies understand cancer genome organization
+MISC--: obviously sequencing more clones improves probability detecting fusion genes breakpoints
+MISC--: however even latest sequencing technologies would neither practical nor cost effective shotgun sequence assemble genomes thousands tumor samples
+MISC--: thus important maximize probability detecting fusion genes least amount sequencing
+MISC--: this probability depends multiple factors including number length end sequenced clones length genes fused possible errors breakpoint localization
+AIMX--: here we derive several formulae elucidate trade offs experimental design both current next generation sequencing technologies
+OWNX--: our probability calculations simulations demonstrate even current paired end technology we obtain extremely high probability breakpoint detection very low number reads
+MISC--: example more than percent all breakpoints detected paired end sequencing less than clones
+MISC--: additionally next generation sequencers potentially detect rearrangements greater than percent probability localize breakpoints rearrangements intervals less than bp single run machine

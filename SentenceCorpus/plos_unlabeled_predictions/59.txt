@@ -1,0 +1,36 @@
+MISC--: cellular signaling networks subject transcriptional proteolytic regulation under both physiological pathological conditions
+MISC--: example expression proteins subject covalent modification phosphorylation known altered upon cellular differentiation during carcinogenesis
+MISC--: however unclear how moderate alterations protein expression bring about large changes signal transmission example observed case haploinsufficiency where halving expression signaling proteins abrogates cellular function
+OWNX--: modeling fundamental motif signal transduction phosphorylation dephosphorylation cycle we show minor alterations concentration protein subject phosphorylation affect signal transmission highly ultrasensitive fashion
+MISC--: this ultrasensitization strongly favored substrate sequestration catalyzing enzymes observed experimentally measured enzymatic rate constants
+OWNX--: furthermore we show coordinated transcription multiple proteins within protein kinase cascade results even more pronounced all none behavior respect signal transmission
+OWNX--: finally we demonstrate ultrasensitization account specificity modularity regulation cellular signal transduction
+OWNX--: ultrasensitization result all none cell fate decisions highly specific cellular regulation
+MISC--: additionally switch like phenomena ultrasensitization known contribute bistability oscillations noise reduction cellular heterogeneity
+OWNX--: cellular signal transduction exhibits two layers regulation upstream stimuli extracellular peptide hormones activate intracellular signaling intermediates turn induce intracellular responses indicated figure
+AIMX--: this type regulation usually operates time scale minutes will termed fast regulation this paper
+MISC--: fast regulation involves posttranslational modification pre existing protein pools order transduce signals nucleus
+MISC--: responses induced fast regulation activated transcription factors often turn alter total abundance their own activators intermediates heterologous cascades e g owing induced mrna protein synthesis degradation
+MISC--: example signal transduction pathways immune system alter concentration their own constituents transcriptional positive negative feedback bring about sensitization citation desensitization citation
+MISC--: likewise cyclic guanosine monophosphate signaling affects heterologous mitogenic cascades via transcriptional crosstalk inducing mkp phosphatase cyclin dependent kinase inhibitors citation
+MISC--: owing long half lives most mrnas citation proteins citation this type regulation operates time scale hours most cases thus will referred slow regulation here
+OWNX--: figure shows simplified view signal transduction upstream stimuli hormones induce gene expression turn alters cellular signal processing
+CONT--: previous theoretical experimental studies mainly analyzed how fast regulation influences slow regulation while downstream effects i e impact slow regulation fast regulation less well investigated
+MISC--: however slow regulation probably equally important since expression phosphoproteins altered during variety physiological processes differentiation citation development citation apoptosis citation long term potentiation citation cell cycle citation circadian rhythm citation
+MISC--: furthermore deregulated expression wild type phosphoproteins been shown correlated diseases diabetes citation cancer citation
+MISC--: at first glance one may expect altered expression intermediate affects steady state signal transmission via intermediate linear fashion
+OWNX--: however recent research suggests strong nonlinearity observed at least some cases variety tumor suppressor genes involved cellular signal transduction do not follow knudson s two hit hypothesis i e they do not require homozygotic loss both alleles support tumor progression
+MISC--: instead loss single copy i e halving protein expression sufficient abrogate tumor suppressor function this phenomenon been termed haploinsufficiency citation citation
+MISC--: this suggests expression signaling proteins affects signal transmission highly switch like fashion
+MISC--: increased signal transmission elicited transcriptional induction been referred sensitization citation ultrasensitive regulation will referred here ultrasensitization
+CONT--: available experimental data suggest ultrasensitization physiologically advantageous receptor tyrosine kinases elicit different cellular responses known induce broadly overlapping sets immediate early genes although amplitude immediate early gene induction receptor specific citation citation
+CONT--: ultrasensitization allows cells discriminate minor differences immediate early gene expression thus confers specificity receptor tyrosine kinase signaling
+MISC--: addition even saturating hormone concentrations induce repress vast majority target mrnas less than fold
+MISC--: thus stimulus response hormone induced transcription exhibits significant basal activation so mrna induction relatively insensitive towards extracellular hormone concentrations citation
+OWNX--: cases ultrasensitization dramatically increase cellular effects extracellular hormone administration may help establish all none cell fate decisions
+MISC--: finally strong nonlinearities ultrasensitization known contribute bistability oscillations noise reduction cellular heterogeneity
+MISC--: phosphorylation most common mode eukaryotic information transfer been estimated one third all cellular proteins phosphorylated citation
+OWNX--: several haploinsufficient tumor suppressors encode phosphoproteins phosphatases we were interested whether ultrasensitization occur simple phosphorylation dephosphorylation cycle
+OWNX--: we show here pronounced ultrasensitization possible experimentally measured kinetic constants particularly parameter range where substrate enzyme ratio majority substrate subject phosphorylation sequestered catalyzing enzymes
+OWNX--: furthermore we show coordinated transcription multiple proteins within kinase cascade result even more pronounced ultrasensitization
+OWNX--: finally we demonstrate ultrasensitization account specificity modularity regulation cellular signal transduction

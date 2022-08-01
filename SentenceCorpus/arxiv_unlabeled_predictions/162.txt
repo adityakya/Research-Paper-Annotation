@@ -1,0 +1,15 @@
+MISC--: repeatability efficiency corner detector determines how likely useful real world application
+MISC--: repeatability importand because same scene viewed different positions should yield features correspond same real world d locations citation
+OWNX--: efficiency important because this determines whether detector combined further processing operate at frame rate
+AIMX--: three advances described this paper
+AIMX--: first we present new heuristic feature detection using machine learning we derive feature detector this fully process live pal video using less than available processing time
+MISC--: comparison most other detectors cannot even operate at frame rate harris detector sift
+OWNX--: second we generalize detector allowing optimized repeatability little loss efficiency
+OWNX--: third we carry out rigorous comparison corner detectors based above repeatability criterion applied d scenes
+AIMX--: we show despite being principally constructed speed stringent tests our heuristic detector significantly outperforms existing feature detectors
+MISC--: finally comparison demonstrates using machine learning produces significant improvements repeatability yielding detector both very fast very high quality
+OWNX--: parstart c orner detection used first step many vision tasks tracking localisation slam simultaneous localisation mapping image matching recognition
+MISC--: this need driven development large number corner detectors
+MISC--: however despite massive increase computing power since inception corner detectors still true when processing live video streams at full frame rate existing feature detectors leave little if any time further processing
+MISC--: applications described above corners typically detected matched into database thus important same real world points detected repeatably multiple views citation
+MISC--: amount variation viewpoint under this condition should hold depends application

@@ -1,0 +1,24 @@
+OWNX--: we develop new collaborative filtering cf method combines both previously known users preferences ie standard cf well product user attributes ie classical function approximation predict given user s interest particular product
+OWNX--: our method generalized low rank matrix completion problem where we learn function whose inputs pairs vectors standard low rank matrix completion problem being special case where inputs function row column indices matrix
+OWNX--: we solve this generalized matrix completion problem using tensor product kernels we also formally generalize standard kernel properties
+OWNX--: benchmark experiments movie ratings show advantages our generalized matrix completion method over standard matrix completion one no information about movies people well over standard multi task single task learning methods
+MISC--: collaborative filtering cf refers task predicting preferences given user based their previously known preferences well preferences other users
+MISC--: book recommender system example one would like suggest new books customer based what he others recently read purchased
+OWNX--: this formulated problem filling matrix customers rows objects e g books columns missing entries corresponding preferences one would like infer
+MISC--: simplest case preference could binary variable thumbs up down perhaps even more quantitative assessment scale
+MISC--: standard cf assumes nothing known about users objects apart preferences expressed so far
+OWNX--: setting most common assumption preferences decomposed into small number factors both users objects resulting search low rank matrix approximates partially observed matrix preferences
+MISC--: this problem usually difficult non convex problem only heuristic algorithms exist citation
+MISC--: alternatively convex formulations been obtained relaxing rank constraint constraining trace norm matrix citation
+MISC--: many practical applications cf however description users objects through attributes e g gender age measures similarity available
+MISC--: case tempting take advantage both known preferences descriptions model preferences users
+MISC--: important benefit framework over pure cf potentially allows prediction preferences new users new objects
+OWNX--: seen learning preference function examples this problem solved virtually any algorithm supervised classification regression taking input pair user object
+OWNX--: if we suppose example positive definite kernel between pairs deduced description users object then learning algorithms like support vector machines kernel ridge regression applied
+MISC--: algorithms minimize empirical risk over ball reproducing kernel hilbert space rkhs defined pairwise kernel
+MISC--: both rank constraint rkhs norm restriction act regularization based prior hypothesis about nature preferences inferred
+MISC--: rank constraint based hypothesis preferences modelled limited number factors describe users objects
+MISC--: rkhs norm constraint assumes preferences vary smoothly between similar users similar objects where similarity assessed terms kernel pairs
+AIMX--: main contribution this work propose framework combines both regularizations one hand interpolates between pure cf approach pure attribute based approaches other hand
+OWNX--: particular framework encompasses low rank matrix factorization collaborative filtering multi task learning classical regression classification over product spaces
+OWNX--: we show benchmark experiment movie recommendations resulting algorithm lead significant improvements over other state art methods

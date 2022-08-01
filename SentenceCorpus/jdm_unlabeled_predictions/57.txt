@@ -1,0 +1,21 @@
+OWNX--: ratio bias phenomenon observed psychologist seymour epstein colleagues systematic manifestation irrationality
+MISC--: when offered choice between two lotteries individuals consistently choose lottery greater number potential successes even when offers smaller probability success
+AIMX--: current study we conduct experiments confirm this phenomenon test existence bias distinct general irrationality
+OWNX--: moreover we examine effect introducing monetary incentive varying size depending treatment extent irrational choices within this framework
+OWNX--: we confirm existence bias
+MISC--: moreover existence incentive significantly reduces extent irrationality exhibited this effect roughly linear response changes size incentive within magnitudes investigated
+OWNX--: consider following problem you asked draw red marble either two urns
+MISC--: urn contains number marbles number red
+MISC--: urn b contains number marbles number red
+MISC--: urn do you choose
+MISC--: rational actor maximizing probability choosing red marble will choose urn
+MISC--: psychologist seymour epstein colleagues citation documented many individuals choose urn b when presented this choice similar choices
+OWNX--: epstein named this ratio bias phenomenon appears individuals biased toward choices large numbers potential successes rather than large probabilities potential successes
+MISC--: present investigation explores ratio bias phenomenon along two dimensions
+OWNX--: first we test errors within this framework symmetric fashion
+MISC--: referring example above we not only present participants decisions like one but also decisions urn larger number marbles greater probability success therefore optimal choice
+OWNX--: if we observe similar frequencies errors two circumstances then we conclude there no real ratio bias phenomenon but rather observation random error both directions
+OWNX--: if frequency irrational decisions differs across treatments however then we conclude ratio bias phenomenon exists
+MISC--: second dimension interest incentives
+MISC--: participant ratio bias experiment confronts decision well suited introduction small monetary incentive testing its marginal effect
+OWNX--: we implement combination within between subjects design test effect monetary incentives decision making well varying size incentive test effect incentive magnitude decision optimality

@@ -1,0 +1,75 @@
+MISC--: many ai researchers cognitive scientists argued analogy core cognition
+MISC--: most influential work computational modeling analogy making structure mapping theory smt its implementation structure mapping engine sme
+MISC--: limitation sme requirement complex hand coded representations
+OWNX--: we introduce latent relation mapping engine lrme combines ideas sme latent relational analysis lra order remove requirement hand coded representations
+MISC--: lrme builds analogical mappings between lists words using large corpus raw text automatically discover semantic relations among words
+OWNX--: we evaluate lrme set twenty analogical mapping problems ten based scientific analogies ten based common metaphors
+MISC--: lrme achieves human level performance twenty problems
+OWNX--: we compare lrme variety alternative approaches find they not able reach same level performance
+AIMX--: when we faced problem we try recall similar problems we faced past so we transfer our knowledge past experience current problem
+OWNX--: we make analogy between past situation current situation we use analogy transfer knowledge shortcite gentner minsky holyoak hofstadter hawkins
+MISC--: his survey computational modeling analogy making french citation cites structure mapping theory smt shortcite gentner its implementation structure mapping engine sme citation most influential work modeling analogy making
+OWNX--: sme analogical mapping symbol source symbol target symbol
+MISC--: source more familiar more known more concrete whereas target relatively unfamiliar unknown abstract
+OWNX--: analogical mapping used transfer knowledge source target
+MISC--: gentner citation argues there two kinds similarity attributional similarity relational similarity
+MISC--: distinction between attributes relations may understood terms predicate logic
+MISC--: attribute predicate one argument large symbol meaning symbol large
+MISC--: relation predicate two more arguments collides symbol meaning symbol collides symbol
+MISC--: structure mapping engine prefers mappings based relational similarity over mappings based attributional similarity shortcite falkenhainer
+MISC--: example sme able build mapping representation solar system source representation rutherford bohr model atom target
+MISC--: sun mapped nucleus planets mapped electrons mass mapped charge
+OWNX--: note this mapping emphasizes relational similarity
+MISC--: sun nucleus very different terms their attributes sun very large nucleus very small
+MISC--: likewise planets electrons little attributional similarity
+MISC--: other hand planets revolve around sun like electrons revolve around nucleus
+MISC--: mass sun attracts mass planets like charge nucleus attracts charge electrons
+MISC--: gentner citation provides evidence children rely primarily attributional similarity mapping gradually switching over relational similarity they mature
+MISC--: she uses terms mere appearance refer mapping based mostly attributional similarity analogy refer mapping based mostly relational similarity literal similarity refer mixture attributional relational similarity
+OWNX--: since we use analogical mappings solve problems make predictions we should focus structure especially causal relations look beyond surface attributes things shortcite gentner
+MISC--: analogy between solar system rutherford bohr model atom illustrates importance going beyond mere appearance underlying structures
+OWNX--: figures show lisp representations used sme input analogy between solar system atom shortcite falkenhainer
+MISC--: chalmers french hofstadter citation criticize sme s requirement complex hand coded representations
+MISC--: they argue most hard work done human who creates high level hand coded representations rather than sme gentner forbus their colleagues attempted avoid hand coding their recent work sme
+MISC--: cogsketch system generate lisp representations simple sketches citation
+MISC--: gizmo system generate lisp representations qualitative physics models citation
+MISC--: learning reader system generate lisp representations natural language text shortcite forbus
+MISC--: systems do not require lisp input
+MISC--: however cogsketch user interface requires person who draws sketch identify basic components sketch hand label them terms knowledge base derived opencyc
+MISC--: forbus et al citation note opencyc contains more than hand coded concepts they added further hand coded concepts opencyc order support cogsketch
+MISC--: gizmo system requires user hand code physical model using methods qualitative physics shortcite yan
+MISC--: learning reader uses more than phrasal patterns were derived researchcyc shortcite forbus
+OWNX--: evident sme still requires substantial hand coded knowledge
+AIMX--: work we present this paper effort avoid complex hand coded representations
+OWNX--: our approach combine ideas sme shortcite falkenhainer latent relational analysis lra shortcite turney
+OWNX--: we call resulting algorithm latent relation mapping engine lrme
+MISC--: we represent semantic relation between two terms using vector elements derived pattern frequencies large corpus raw text
+MISC--: because semantic relations automatically derived corpus lrme does not require hand coded representations relations
+MISC--: only needs list terms source list terms target
+MISC--: given two lists lrme uses corpus build representations relations among terms then constructs mapping between two lists
+MISC--: tables show input output lrme analogy between solar system ruther ford bohr model atom
+OWNX--: although some human effort involved constructing input lists considerably less effort than sme requires its input contrast figures table scientific analogies analogy between solar system rutherford bohr model atom may seem esoteric but we believe analogy making ubiquitous our daily lives
+MISC--: potential practical application this work task identifying semantic roles shortcite gildea
+MISC--: since roles relations not attributes appropriate treat semantic role labeling analogical mapping problem
+MISC--: example judgement semantic frame contains semantic roles judge evaluee reason statement frame contains roles speaker addressee message topic medium shortcite gildea
+OWNX--: task identifying semantic roles automatically label sentences their roles following examples shortcite gildea if we training set labeled sentences testing set unlabeled sentences then we may view task labeling testing sentences problem creating analogical mappings between training sentences sources testing sentences targets
+MISC--: table shows how she blames government failing do enough help
+MISC--: might mapped they blame company polluting environment
+OWNX--: once mapping been found we transfer knowledge form semantic role labels source target section we briefly discuss hypotheses behind design lrme
+OWNX--: we then precisely define task performed lrme specific form analogical mapping section
+OWNX--: lrme builds latent relational analysis lra hence we summarize lra section
+OWNX--: we discuss potential applications lrme section
+OWNX--: evaluate lrme we created twenty analogical mapping problems ten science analogy problems shortcite holyoak ten common metaphor problems shortcite lakoff
+MISC--: table one science analogy problems
+OWNX--: our intended solution given table
+OWNX--: validate our intended solutions we gave our colleagues lists terms table asked them generate mappings between lists
+OWNX--: section presents results this experiment
+OWNX--: across twenty problems average agreement our intended solutions table was
+OWNX--: lrme algorithm outlined section along its evaluation twenty mapping problems
+MISC--: lrme achieves accuracy
+MISC--: difference between this performance human average not statistically significant
+OWNX--: section examines variety alternative approaches analogy mapping task
+OWNX--: best approach achieves accuracy but this approach requires hand coded part speech tags
+MISC--: this performance significantly below lrme human performance
+OWNX--: section we discuss some questions raised results preceding sections
+OWNX--: related work described section future work limitations considered section we conclude section

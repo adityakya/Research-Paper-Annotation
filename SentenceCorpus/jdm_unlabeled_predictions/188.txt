@@ -1,0 +1,47 @@
+MISC--: subjects performed decision task citation both well rested experimentally sleep deprived state
+OWNX--: we found two main results number final choice accuracy was unaffected sleep deprivation yet number estimated decision model differed significantly following sleep deprivation
+MISC--: following sleep deprivation subjects placed significantly less weight new information forming their beliefs
+MISC--: because altered decision process still maintains decision accuracy may suggest increased accident error rates attributed reduced sleep modern society stem reduced auxiliary function performance e g slowed reaction time reduced motor skills other components decision making rather than inability integrate multiple pieces information
+MISC--: large volume evidence suggests individuals industrialized nations becoming increasingly sleep deprived
+MISC--: according recent poll conducted national sleep foundation average american adult slept less than number hours per night number
+MISC--: nightly average was number number hours number number hours per night number citation
+MISC--: this trend significant implications given known effects sleep deprivation decreased motor cognitive performance reduced vigilance reaction time worsened mood reduced ability think flexibly citation
+MISC--: indeed even number hours habitual sleep per night leads significantly diminished cognitive performance relative number number hours citation causes us wonder about more hidden decision effects sleep loss
+OWNX--: nearly number million americans close number percent all adults estimated suffer some level sleep deprivation so effects sleep deprivation decision making widespread implications
+MISC--: many occupations promote culture sleep deprivation e g emergency personnel air traffic controllers medical residents military personnel long haul truck drivers shift workers
+MISC--: sleep deprivation costs u s economy number billion dollars annually lost productivity citation
+MISC--: additionally results increased workplace accident rates citation increased absenteeism citation greater medical morbidity related costs citation even slower career advancement citation
+MISC--: across numerous settings work home driving public accidents leger citation estimated costs accidents attributable sleepiness at number number billion number dollars
+MISC--: sleep deprivation also been implicated several major historical disasters including space shuttle challenger explosion exxon valdez oil spill chernobyl nuclear plant explosion citation
+MISC--: sum impact sleep deprivation workplace society whole while difficult measure precisely massive
+AIMX--: this paper reports results laboratory study examines effects sleep deprivation information processing
+MISC--: examinations flexible thinking strategy updating risk assessment relatively new sleep research citation
+MISC--: past research utilized complex multi modal tasks operational settings cannot identify specific aspects decision making affected sleep deprivation
+MISC--: example harrison horne citation utilize marketing simulation game they report number hours total sleep deprivation led stereotyped decisions failing integrate previous feedback resulting large financial losses production errors
+MISC--: operational settings similarly global outcome measures reported citation
+MISC--: recent meta analysis number studies found clinical outcomes culmination many decisions were negatively impacted physician sleep loss citation
+MISC--: thus neither laboratory nor applied sleep deprivation studies measured discrete quantifiable decision parameters free confounds
+MISC--: even well known iowa gambling task igt been used examine risky choice behavior sleep literature citation does not allow researcher separate risk attitude subjective probability formation latter results fact there missing information respect outcome probabilities igt
+MISC--: mckenna et al citation addressed this issue showed sleep deprivation desensitizes decision maker risk
+MISC--: general mechanism sleep deprivation alters decision making remains unclear
+MISC--: given many real world decisions involve multiple cognitive processes important separately examine several those components effort determine may specifically impacted sleep deprivation may not
+MISC--: studies examining risk preference cited above examples work
+MISC--: another process found many decisions ability integrate multiple pieces information into decision
+MISC--: sleep deprivation might alter subject tendencies utilize one more pieces information decision making
+AIMX--: arrival new information may elicit impulsive response subjects react new evidence this impulse may altered following sleep deprivation
+AIMX--: current study examines this specific aspect decision making through study bayesian updating
+MISC--: experiment administered subjects both well rested after number number hours microgreek number number sigma number controlled total sleep deprivation
+MISC--: comparison previous economics research we replicate bayes rule experiment grether citation
+MISC--: one examine effects sleep deprivation ability integrate information into decision at least two perspectives each their own strengths weaknesses
+MISC--: one involves asking whether individuals calculate true bayesian probability given base rate probabilities new sample evidence
+MISC--: this requires asking subjects their judgment actual probability event occurring therefore focuses finding ideal answer problem
+OWNX--: although this approach merit our interest was determining weight placed odds evidence when actual forced choice was made i e was more likely occur
+MISC--: scenario more aligned many naturally occurring decision environments everyday life
+MISC--: example one may decide two routes destination faster right now given prior knowledge rate traffic each route new information current day time
+MISC--: surgeon may decide perform emergency procedure given prior knowledge relative success procedure new information current condition patient
+MISC--: short when individuals make real decisions they must often choose specific course action i e dichotomous choice rather than probability estimate
+OWNX--: influence sleep deprivation making decisions our interest
+MISC--: because information updating fundamental component decision making under uncertainty this research relevant wide variety behavioral applications
+MISC--: sleep research indirectly pointed towards failed information assimilation under sleep deprivation citation
+MISC--: however more direct evidence needed harrison horne citation recognize lack sleep deprivation research specific decision models
+MISC--: behavioral economics continues explore decision making one cannot ignore evidence indicating many decision makers often sleep deprived some degree

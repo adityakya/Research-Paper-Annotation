@@ -1,0 +1,37 @@
+MISC--: ordinal regression important type learning properties both classification regression
+MISC--: here we describe simple effective approach adapt traditional neural network learn ordinal categories
+OWNX--: our approach generalization perceptron method ordinal regression
+OWNX--: several benchmark datasets our method nnrank outperforms neural network classification method
+OWNX--: compared ordinal regression methods using gaussian processes support vector machines nnrank achieves comparable performance
+MISC--: moreover nnrank advantages traditional neural networks learning both online batch modes handling very large training datasets making rapid predictions
+MISC--: features make nnrank useful complementary tool large scale data processing tasks information retrieval web page ranking collaborative filtering protein ranking bioinformatics
+MISC--: ordinal regression ranking learning important supervised problem learning ranking ordering instances property both classification metric regression
+MISC--: learning task ordinal regression assign data points into set finite ordered categories
+MISC--: example teacher rates students performance using b c d e symbol b symbol c symbol d symbol e chu ghahramani
+MISC--: ordinal regression different classification due order categories
+MISC--: contrast metric regression response variables categories ordinal regression discrete finite
+MISC--: research ordinal regression dated back ordinal statistics methods s mccullagh mccullagh nelder machine learning research s caruana et al herbrich et al cohen et al
+MISC--: attracted considerable attention recent years due its potential applications many data intensive domains information retrieval herbrich et al web page ranking joachims collaborative filtering goldberg et al basilico hofmann yu et al image retrieval wu et al protein ranking cheng baldi bioinformatics
+MISC--: number machine learning methods been developed redesigned address ordinal regression problem rajaram et al including perceptron crammer singer its kernelized generalization basilico hofmann neural network gradient descent caruana et al burges et al gaussian process chu ghahramani b chu ghahramani schwaighofer et al large margin classifier support vector machine herbrich et al herbrich et al joachims shashua levin chu keerthi aiolli sperduti chu keerthi k partite classifier agarwal roth boosting algorithm freund et al dekel et al constraint classification har peled et al regression trees kramer et al naive bayes zhang et al bayesian hierarchical experts paquet et al binary classification approach frank hall li lin decomposes original ordinal regression problem into set binary classifications optimization nonsmooth cost functions burges et al
+MISC--: most methods roughly classified into two categories pairwise constraint approach herbrich et al joachims dekel et al burges et al multi threshold approach crammer singer shashua levin chu ghahramani
+MISC--: former convert full ranking relation into pairwise order constraints
+MISC--: latter tries learn multiple thresholds divide data into ordinal categories
+MISC--: multi threshold approaches also unified under general extended binary classification framework li lin
+MISC--: ordinal regression methods different advantages disadvantages
+CONT--: prank crammer singer perceptron approach generalizes binary perceptron algorithm ordinal multi class situation fast online algorithm
+MISC--: however like standard perceptron method its accuracy suffers when dealing non linear data while quadratic kernel version prank greatly relieves this problem
+MISC--: one class accurate large margin classifier approaches herbrich et al joachims convert ordinal relations into symbol symbol number data points pairwise ranking constraints structural risk minimization vapnik schoelkopf smola
+OWNX--: thus not applied medium size datasets symbol data points without discarding some pairwise preference relations
+MISC--: may also overfit noise due incomparable pairs
+MISC--: other class powerful large margin classifier methods shashua levin chu keerthi generalize support vector formulation ordinal regression finding symbol thresholds real line divide data into symbol ordered categories
+OWNX--: size this optimization problem linear number training examples
+OWNX--: however like support vector machine used classification prediction speed slow when solution not sparse makes not appropriate time critical tasks
+OWNX--: similarly another state art approach gaussian process method chu ghahramani also difficulty handling large training datasets problem slow prediction speed some situations
+MISC--: here we describe new neural network approach ordinal regression advantages neural network learning learning both online batch mode training very large dataset burges et al handling non linear data good performance rapid prediction
+OWNX--: our method considered generalization perceptron learning crammer singer into multi layer perceptrons neural network ordinal regression
+OWNX--: our method also related classic generalized linear models e g cumulative logit model ordinal regression mccullagh
+OWNX--: unlike neural network method burges et al trained pairs examples learn pairwise order relations our method works individual data points uses multiple output nodes estimate probabilities ordinal categories
+OWNX--: thus our method falls into category multi threshold approach
+BASE--: learning our method proceeds similarly traditional neural networks using back propagation rumelhart et al
+OWNX--: same benchmark datasets our method yields performance better than standard classification neural networks comparable state art methods using support vector machines gaussian processes
+OWNX--: addition our method learn very large datasets make rapid predictions

@@ -1,0 +1,36 @@
+MISC--: when incorporated into polypeptide chain proline differs all other naturally occurring amino acid residues two important respects
+OWNX--: dihedral angle pro constrained values close pro lacks amide hydrogen
+OWNX--: consequently mutations result introduction pro significantly affect protein stability
+OWNX--: present work we describe procedure accurately predict effect pro introduction protein thermodynamic stability
+OWNX--: seventy seven non pro amino acid residues model protein ccdb were individually mutated pro vivo activity each mutant was characterized
+MISC--: decision tree classify mutation perturbing nonperturbing was created correlating stereochemical properties mutants activity data
+OWNX--: stereochemical properties including main chain dihedral angle main chain amide h bonds were determined d models mutant proteins built using modeller
+OWNX--: we assessed performance decision tree large dataset single site pro mutations t lysozyme nssnps other pro substitutions literature
+OWNX--: overall accuracy this algorithm was found percent case ccdb percent case lysozyme percent case nssnps percent case other pro substitution data
+OWNX--: accuracy pro scanning mutagenesis secondary structure assignment was also assessed found at best percent
+MISC--: our prediction procedure will useful annotating uncharacterized nssnps disease associated proteins protein engineering design
+MISC--: proline unique among naturally occurring amino acid residues
+OWNX--: one hand because pro lacks amide proton main chain amide n incapable forming h bonds
+OWNX--: hence substituting residue involved main chain h bond pro could destabilize protein
+MISC--: this property previously been exploited obtain information about residues involved secondary structure citation citation
+OWNX--: other hand rigid pyrrolidine ring constrains main chain dihedral angle narrow range values close
+MISC--: also been observed citation citation pro restricts conformation residue preceding protein sequence
+MISC--: ramachandran map pre proline residue large excluded area between
+MISC--: this restricts conformation l regions
+MISC--: there also small leg density region unique pre proline residues
+MISC--: hence pro potentially increase protein stability because decreases conformational entropy denatured state
+MISC--: addition pro usually conserved proteins often plays important role protein structure function citation citation citation
+MISC--: previous studies pro mutants different proteins shown thermodynamic effects introducing pro depend various factors including residue position value original residue h bonding amide group original residue electrostatic hydrophobic interactions original residue citation citation citation citation
+MISC--: however not yet clear whether introduction pro at given position protein will perturbing nonperturbing effect thermodynamic stability protein
+OWNX--: aim present work generate algorithm based pro scanning mutagenesis data used predict perturbing nonperturbing effect pro substitution at given position any globular protein
+AIMX--: we also examine utility pro scanning mutagenesis infer protein secondary structure
+MISC--: experimental system used this study controller cell division death b protein residue homodimeric protein encoded f plasmid
+MISC--: protein does not contain any disulfides metal ions
+MISC--: protein inhibitor dna gyrase potent cytotoxin escherichia coli
+OWNX--: transformation normal e coli cells plasmid expressing wild type ccdb gene results cell death
+MISC--: if protein inactivated through mutation cells transformed mutant genes will survive
+OWNX--: this work we attempted replace each amino acids homodimeric ccdb pro using high throughput mega primer based site directed mutagenesis
+MISC--: total mutants could generated
+OWNX--: mutant phenotype was assayed function expression level monitoring presence absence cell growth function inducer concentration
+MISC--: based analysis ccdb pro scanning mutagenesis phenotypic data its correlation various structural parameters decision tree was created classify pro substitutions protein into perturbing nonperturbing mutations
+MISC--: decision tree was further validated large phenotypic dataset pro mutants t lysozyme at two different temperatures nonsynonymous single nucleotide polymorphism database pro substitutions associated various diseases pro substitutions extracted protherm database literature

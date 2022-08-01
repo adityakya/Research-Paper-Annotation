@@ -1,0 +1,24 @@
+MISC--: ratio bias rb phenomenon considered provide systematic evidence irrationality
+MISC--: when judging probability low probability event many people judge less likely when expressed ratio small numbers e g number number than when expressed ratio large numbers e g number number
+OWNX--: four experiments show phenomenon increased experimental paradigm misleads subjects regarding aim task inducing equal ratio neglect
+OWNX--: one factor constant across texts experiment number number particular sentence induces subjects neglect equal ratio invites them express feelings about outcome target event rather than giving rational answer
+MISC--: this intent strengthened formulation question experiment number explicitly asks subject express feeling connected lotteries absence third option experiment number number right one expresses indifference between two options
+MISC--: experiment number task lacks only third option simply adding option allows subjects express correct answer rb disappears
+MISC--: ratio bias rb phenomenon occurs when people judge unlikely event less likely more surprising when its probability presented form equivalent ratio smaller e g number number versus larger e g number number numbers citation
+MISC--: phenomenon robust surprising special interest because seems demonstrate many people despite intellectually knowing better prefer behave certain situations according their intuitive impressions citation
+MISC--: phenomenon seems provide compelling evidence existence two independent processing modes sometimes conflict each other often interact manner produces compromises citation
+MISC--: typical experimental paradigm game chance citation subjects indicate two trays red white jellybeans one large e g number red out number jellybeans one small e g number red out number jellybeans they prefer draw hope obtaining winning red jellybean
+MISC--: when two trays offer equal probabilities drawing red jellybean rational decision report no tray preference
+MISC--: however most subjects select tray larger number red jellybeans many despite acknowledging they know better willing pay small sums money privilege doing so citation rather than having selection made randomly
+MISC--: subjects were instructed indicate how they believed most people would behave others perspective how they believed they themselves would behave self perspective
+MISC--: according authors judging others behavior more revealing because circumvents subjects desire present themselves rational people
+MISC--: ratio bias been investigated health domain yamagishi citation pinto prades et al citation
+MISC--: yamagishi citation gave subjects mortality rates well known causes death varying both percentage incidence rate population frame deaths per number number number people within subjects
+MISC--: ratings risk were consistently higher frame number number than frame number regardless actual percentage incidence rate
+MISC--: similarly pinto prades et al citation investigated replicated ratio bias context choices between medical treatments given probability death
+MISC--: many studies rb citation presented subjects choice between number number chance success number number chance success well choice between number number number number
+MISC--: they found many individuals number percent number percent respectively preferred latter choice large urn even though former small urn offered greater probability success
+MISC--: existence bias also been confirmed studies testing effect incentives citation
+MISC--: recent study risky judgments citation also provides support rb effect over conflicting theory construal level theory clt
+MISC--: given statements number people die cancer every day equivalent number number people die cancer every year construal level theory predicts former will result higher risk judgments whereas ratio bias effect predicts higher risk judgments latter statement
+AIMX--: this study showed ratio bias effect seems dominate construal level theory when two compared although one third bonner newell s subjects show opposite effect

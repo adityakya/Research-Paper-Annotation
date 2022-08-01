@@ -1,0 +1,48 @@
+MISC--: bacterial genomes composed more than one chromosome one replicon typically larger harbors more essential genes than others considered primary
+MISC--: greater variability secondary chromosomes among related taxa led theory they serve accessory genome specific niches conditions
+OWNX--: this rationale purifying selection should weaker genes secondary chromosomes because their reduced necessity usage
+OWNX--: test this hypothesis we selected bacterial genomes composed multiple chromosomes two genera burkholderia vibrio quantified evolutionary rates all orthologs within each genus
+MISC--: both evolutionary rate parameters were faster among orthologs found secondary chromosomes than those primary chromosome
+OWNX--: further every bacterial genome multiple chromosomes we studied genes secondary chromosomes exhibited significantly weaker codon usage bias than those primary chromosomes
+OWNX--: faster evolution reduced codon bias could turn result global effects chromosome position genes secondary chromosomes experience reduced dosage expression due their delayed replication selection specific gene attributes
+MISC--: alternatives were evaluated using orthologs common genomes multiple chromosomes genomes single chromosomes
+CONT--: analysis ortholog sets suggested inherently fast evolving genes tend sorted secondary chromosomes when they arise however prolonged evolution secondary chromosome further accelerated substitution rates
+MISC--: summary secondary chromosomes bacteria evolutionary test beds where genes weakly preserved evolve more rapidly likely because they used less frequently
+MISC--: number completely sequenced bacterial genomes grown once surprising discovery multiple chromosomes become commonplace
+MISC--: setting aside issue nomenclature why some bacterial genomes divided into multiple large replicons others comprised only single dna molecule largely unknown citation
+MISC--: understanding origin secondary replicons helps frame question
+MISC--: chromosomes may originate three different mechanisms split single chromosome chromosome duplication acquisition large plasmid essential genes ensures its prolonged maintenance
+MISC--: processes last greatest support because some secondary chromosomes plasmid like origins replication citation
+MISC--: however potential effects genome subdivision require further investigation may explain variation chromosome number evolution bacteria
+OWNX--: one advantage divided genome potential faster replication growth because multiple origins dna replication
+MISC--: example vibrio spp
+MISC--: two chromosomes among fastest rates cell division measured
+MISC--: yet all bacteria single origin replication per chromosome means growth may occur faster than replication problem solved ability initiate new cycles replication before completion previous cycles
+MISC--: result daughter cells may born multiple partially replicated genomes enriched near origin replication citation
+MISC--: bacteria multiple chromosomes face additional challenge maintaining synchronous replication if chromosomes different sizes either their timing their rates replication must vary
+MISC--: vibrio been demonstrated replication smaller second chromosome delayed during cell cycle citation citation citation
+MISC--: this delayed replication effect reduces dosage genes second chromosome during periods rapid growth citation but does not alter final heredity each chromosome
+OWNX--: each cell ultimately one only one copy each chromosome no evidence yet suggests this varies
+MISC--: therefore variation how bacterial chromosomes evolve not at least given current knowledge effect variation their effective numbers sex chromosomes animals citation
+OWNX--: however variation gene dosage during bacterial cell cycle profound effects expression genes well their evolutionary rates
+MISC--: bacteria single chromosome genes distant origin replication tend expressed less than those nearby thus distant genes evolve more rapidly citation
+MISC--: bacteria multiple chromosomes delayed replication smaller replicon could produce similar effect its expression thus its evolution
+MISC--: recent report confirms this effect expression fast growing cells genes late replicating small chromosome v parahaemolyticus expressed significantly less than those large chromosome though expression varies more than would expected measured dosage effects citation
+MISC--: slow growing cells overlapping replication cycles unnecessary hence no dosage expression bias found between chromosomes citation
+MISC--: replication bias within divided genomes could therefore accelerate evolution secondary chromosomes
+MISC--: this variation expression caused genome location either relative origin replication different chromosomes principle exert selection gene position
+MISC--: genes must expressed frequently should near origin replication primary chromosome citation citation
+MISC--: therefore follows vibrio significantly greater fraction growth essential growth contributing genes found large primary chromosome than small chromosome ii near origin relative terminus large chromosome even iii near terminus large chromosome relative small chromosome citation
+CONT--: when grown under optimal conditions dosage bias genes hence their expression exaggerated but under more limiting conditions dosage bias expression do not vary gene position citation citation
+MISC--: moreover growth rate v cholerae slows significantly when replication rate second chromosome genetically amplified citation citation
+MISC--: findings imply selection shaped vibrio genomes contain genes whose functions benefit higher dosage during rapid growth first chromosome genes should expressed less second chromosome citation citation
+MISC--: comparing related genomes multiple chromosomes also suggests their content been segregated priority dispensability
+MISC--: general major chromosome tends significantly more conserved housekeeping genes greater overall synteny greater conservation content citation citation citation
+MISC--: together patterns support general theory secondary chromosomes evolutionary test beds subject reduced purifying selection thus greater rates change
+MISC--: key prediction this theory genes found secondary chromosomes should evolve faster more variably than those primary chromosome
+CONT--: furthermore if genes secondary chromosomes been less needed used over long periods time then they should exhibit less bias towards use favored synonymous codons
+AIMX--: we tested this theory studying evolutionary rates panorthologs defined orthologous genes present single copy subset obeying consensus species phylogeny among two sets monophyletic completely sequenced genomes more than one chromosome
+OWNX--: we then compared rates ortholog families found primary chromosomes those secondary chromosomes calculated codon bias genes evaluated their evolutionary patterns context orthologs sister taxa only single chromosome
+MISC--: we found orthologs secondary chromosomes indeed evolved faster displayed less skew towards purifying selection than those primary chromosomes
+MISC--: increased rates evolution appear consequence reduced selection use specific codons translational efficiency because less frequent expression necessity citation citation citation citation
+MISC--: each prediction general theory secondary chromosomes serve evolutionary test beds accessory genes was therefore met

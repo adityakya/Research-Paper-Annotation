@@ -1,0 +1,26 @@
+MISC--: inferences consistent recognition based decision making may drawn various reasons other than recognition alone
+MISC--: we demonstrate number alternative forced choice decision tasks less more effects reduced performance additional learning not restricted recognition based inference but also seen circumstances where inference knowledge based but item knowledge limited
+MISC--: one reason why effects may not observed more widely dependence effect specific values validity recognition knowledge cues
+AIMX--: we show both recognition knowledge validity may vary function number items recognized
+MISC--: implications findings special nature recognition information investigation recognition based inference discussed
+MISC--: investigations recognition heuristic rh typically involve participants making judgments about items about they limited knowledge relative sizes cities usa
+MISC--: example participant might presented two cities san diego san antonio asked bigger
+MISC--: classic work goldstein gigerenzer citation assumed participant will guess if they recognize neither items they will use whatever additional knowledge available make decision if they recognize both items crucially if they recognize only one items they will choose this item larger without consulting any other cues searching further information recognition heuristic rh
+MISC--: this because items larger size more likely encountered hence more likely recognized recognition magnitude correlation
+MISC--: recognizing one two items thus useful cue choosing recognized item
+MISC--: if both items recognized however additional knowledge needed make decision additional knowledge may very limited
+MISC--: recognition driven inference give rise less more effect lime whereby individuals who recognize many items often perform worse than individuals who recognize fewer items citation
+MISC--: lime counter intuitive finding predicted occur under given circumstances if rh applied citation
+MISC--: counter intuitive nature lime prediction allows strong test rh been used rhetoric device promote heuristic citation
+MISC--: evidence lime also been observed empirically citation but counter this failures observe effect also been cited attempts refute rh citation
+MISC--: at least originally introduced lime mathematical necessity given certain assumptions rather than proof recognition based inference
+MISC--: nevertheless consensus appears observation lime implies recognition heuristic was employed citation use knowledge will dilute reduce size lime citation
+MISC--: here we explore whether limes also mathematical necessities if those assumptions altered somewhat specifically if inference no longer recognition based but instead makes reference some form knowledge
+MISC--: limes need not appear only when rh studied isolation
+MISC--: they also predicted formal models knowledge based inference if those models exploit recognition principle
+MISC--: gigerenzer goldstein citation used appearance effect part their comparison five integration algorithms take best ttb algorithm citation
+OWNX--: ttb all integration algorithms were implemented each case recognition was used cue if only one item was recognized p number
+MISC--: unsurprisingly all six algorithms produced non monotonic relationship between recognition correct inference citation
+BASE--: however we will demonstrate limes produced knowledge based decision making processes use neither recognition driven inference nor related speed retrieval inference schooler hertwig citation shown produces similar advantageous effects moderate over lesser forgetting rates
+AIMX--: first aim this paper prove analytical means limes produced knowledge based decision rules
+OWNX--: they not unique recognition driven inference cannot therefore viewed providing unconditional support this hypothesis

@@ -1,0 +1,41 @@
+MISC--: many protein functions directly linked conformational changes
+MISC--: inside cells equilibria transition rates between different conformations may affected macromolecular crowding
+AIMX--: we recently developed new approach modeling crowding effects enables atomistic representation test proteins
+AIMX--: here this approach applied study how crowding affects equilibria transition rates between open closed conformations seven proteins yeast protein disulfide isomerase adenylate kinase orotidine phosphate decarboxylase trp repressor hemoglobin dna glucosyltransferase ap hydrolase
+MISC--: each protein molecular dynamics simulations open closed states separately run
+OWNX--: representative open closed conformations then used calculate crowding induced changes chemical potential two states
+OWNX--: difference chemical potential change between two states finally predicts effects crowding population ratio two states
+MISC--: crowding found reduce open population various extents
+OWNX--: presence crowders radius occupying percent volume open closed population ratios ypdi adk odcase trpr reduced percent percent percent percent respectively
+MISC--: reductions remaining three proteins percent
+MISC--: expected four proteins experiencing stronger crowding effects those larger conformational changes between open closed states
+MISC--: larger proteins also tend experience stronger crowding effects than smaller ones e g comparing ypdi trpr
+MISC--: potentials mean force along open closed reaction coordinate apo ligand bound odcase altered crowding suggesting transition rates also affected
+MISC--: quantitative results qualitative trends will serve valuable guides expected crowding effects protein conformation changes inside cells
+MISC--: increasingly recognized protein dynamics serves critical link between structure function citation citation
+MISC--: important manifestation protein dynamics sampling alternative conformations
+MISC--: conformational changes triggered substrate binding citation post translational modifications phosphorylation citation
+MISC--: increasingly structures same proteins at different functional states becoming available
+MISC--: structures provide atomistic details conformational changes
+MISC--: example adenylate kinase enzyme catalyzes phosphoryl transfer atp amp undergoes significant conformational transition open conformation apo form closed conformation ligand bound form citation citation
+OWNX--: main differences between two conformations occur atp amp binding domains core domain relatively rigid
+MISC--: other examples well characterized conformational transitions include proteins responsible signal transduction across cell membranes citation citation ion channels citation
+MISC--: biophysical characterizations protein conformational changes mostly been carried out under dilute conditions
+MISC--: however environments where proteins perform their biological functions i e extracellular space cell membrane cytoplasm crowded macromolecules
+MISC--: example cytoplasm escherichia coli contains about g l macromolecules citation estimated occupy over percent total volume
+OWNX--: cell membranes membrane proteins occupy similar level total surface area citation
+OWNX--: how crowded cellular environments affect equilibria transition rates between different conformations proteins still poorly understood
+MISC--: qualitatively one expects macromolecular crowding will significantly modify energy landscapes conformational changes favoring more compact structures over more open ones citation
+MISC--: effects crowding been scrutinized experimentally
+MISC--: molecular dynamics simulations also been carried out investigate energy landscapes number proteins under crowding context either conformational change citation folding unfolding transition citation citation
+OWNX--: speed up conformational sampling proteins studies were represented at coarse grained level
+MISC--: recently we developed approach citation citation referred postprocessing opens door atomistic modeling proteins under crowding
+MISC--: this approach motions test protein simulated absence crowders
+OWNX--: conformations this simulation then used calculate change chemical potential if they transferred crowded solution
+MISC--: dependence change chemical potential reaction coordinates then captures influence crowding energy landscape
+MISC--: postprocessing approach been applied study effects crowding protein folding binding stability citation citation citation open closed equilibrium hiv protease dimer citation
+MISC--: latter application been shown postprocessing approach yields results identical those obtained direct simulations protein presence crowders citation citation
+BASE--: here we apply postprocessing approach investigate impact macromolecular crowding open closed equilibria seven proteins adk citation citation yeast protein disulfide isomerase citation citation orotidine phosphate decarboxylase citation trp repressor citation hemoglobin citation dna glucosyltransferase citation ap hydrolase citation citation
+MISC--: biological functions subcellular locations proteins listed table
+OWNX--: we find crowding reduce open closed population ratios various extents potentials mean force along open closed reaction coordinate apo ligand bound odcase hence transition rates similarly affected
+MISC--: biological implications results discussed below

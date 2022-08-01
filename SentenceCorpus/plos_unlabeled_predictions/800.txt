@@ -1,0 +1,31 @@
+MISC--: identification pathways involved structural transitions biomolecular systems often complicated transient nature conformations visited across energy barriers multiplicity paths accessible multidimensional energy landscape
+OWNX--: this task becomes even more challenging exploring molecular systems order megadaltons
+MISC--: coarse grained models lend themselves analytical solutions appear only possible means approaching cases
+AIMX--: motivated utility elastic network models describing collective dynamics biomolecular systems growing theoretical experimental evidence support intrinsic accessibility functional substates we introduce new method adaptive anisotropic network model exploring functional transitions
+CONT--: application bacterial chaperonin groel comparisons experimental data results action minimization algorithm previous simulations support utility aanm computationally efficient yet physically plausible tool unraveling potential transition pathways sampled large complexes assemblies
+MISC--: important outcome assessment critical inter residue interactions formed broken near transition state most involve conserved residues
+MISC--: many proteins assume more than one functional conformation stabilized ligand binding changes environmental conditions
+MISC--: typical example bacterial chaperonin groel citation widely studied atp regulated molecular machine member heat shock protein hsp family
+MISC--: groel assists unfolding refolding misfolded partially folded proteins citation citation
+MISC--: composed two back back stacked rings each containing seven subunits kda
+MISC--: each subunit turn composed three domains equatorial intermediate apical
+MISC--: groel works together co chaperonin groes
+MISC--: activity groel groes complex entails series allosteric transitions structure triggered atp binding hydrolysis described figure absence nucleotide binding both rings assume closed state designated t t state two rings
+MISC--: cooperative binding seven atp molecules subunits one rings hereafter referred cis ring drives conformational change subunits open state thus leading r t form cis trans rings
+MISC--: r t form exposes number hydrophobic residues at apical domains cis ring subunits
+OWNX--: groups attract unfolded partially folded peptide encapsulated cylindrical chamber following attachment groes
+MISC--: atp hydrolysis provides energy needed process substrate leads state r t this process terminated upon binding seven atp molecules adjoining ring hence term negative cooperative effect induced atp binding
+AIMX--: structure adp atp molecules bound respective cis trans rings favors opening groes cap release peptide adp molecules start new cycle this time roles former cis trans rings being inverted
+OWNX--: interest understand molecular basis negative cooperative effect triggered upon binding seven atp molecules trans ring
+OWNX--: atp binding induces this case structural change cap binding region at distance
+OWNX--: understanding mechanism this allosteric signaling fundamental importance because critical role chaperonins play preventing aggregation regulating folding vs degradation events
+MISC--: several studies been published allosteric pathways dynamics groel citation citation since original determination adp bound complex citation
+MISC--: studies provide valuable insights into successive states involved chaperonin cycle
+OWNX--: elucidation allosteric transition mechanisms been challenge however both experimentally computationally due transient nature high energy conformers between states multiplicity pathways large size this biomolecular system
+MISC--: several computational methods been developed last two decades exploring structural transition pathways biomolecules
+MISC--: include methods based minimizing path dependent functionals citation citation stochastic path integration citation maxflux method identifying path maximum flux citation citation nudged elastic band method citation determination temperature independent reaction coordinates action minimization citation citation
+MISC--: other groups resorted targeted molecular dynamics simulations presence holonomic constraints citation citation citation monte carlo md based methods sampling ensembles stochastic transition paths
+MISC--: yet identification transition state accompanying conformational rearrangements large inaccessible systems order megadaltons like groel
+MISC--: coarse grained models methods appear only tractable tools cases
+MISC--: perhaps most comprehensive computational study groel allosteric dynamics hyeon lorimer thirumalai where t r r transition been examined brownian dynamics simulations using state dependent self organized polymer model citation
+OWNX--: simulations performed subunit dimers heptamers provided valuable insights heterogeneity transition pathways kinetics salt bridges formation rupture at successive transitions t r r r

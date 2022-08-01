@@ -1,0 +1,44 @@
+MISC--: threshold firing frequency neuron characterizing feature its dynamical behaviour turn determining its role oscillatory activity brain
+OWNX--: two main types dynamics been identified brain neurons
+AIMX--: type dynamics shows continuous relationship between frequency stimulation current thus arbitrarily low frequency at threshold current type shows discontinuous f i stim relationship minimum threshold frequency
+AIMX--: previous study hippocampal neuron model we demonstrated its dynamics could both type type depending ion channel density
+AIMX--: present study we analyse effect varying channel density threshold firing frequency two well studied axon membranes namely frog myelinated axon squid giant axon
+OWNX--: moreover we analyse hippocampal neuron model more detail
+OWNX--: models all based voltage clamp studies thus comprising experimentally measurable parameters
+MISC--: choice analysing effects channel density modifications due their physiological pharmacological relevance
+AIMX--: we show using bifurcation analysis both axon models display exclusively type dynamics independently ion channel density
+MISC--: nevertheless both models region channel density plane characterized n shaped steady state current voltage relationship
+OWNX--: summary our results suggest hippocampal soma two axon membranes represent two distinct kinds membranes membranes channel density dependent switching between type dynamics membranes channel density independent dynamics
+OWNX--: difference between two membrane types suggests functional differences compatible more flexible role soma membrane than axon membrane
+MISC--: now more than years since alan hodgkin categorized firing behaviour his classical study isolated axons crab carcinus maenas citation
+MISC--: many respects his experiments still form basis analysis firing patterns nervous systems
+MISC--: using threshold dynamics maximum frequency parameters he identified two major classes repetitively firing axons class axons start firing very low frequency at threshold stimulation yielding continuous f i stim relationship whereas class axons start firing abruptly relatively high frequency at threshold yielding discontinuous f i stim relationship
+MISC--: basis similar categorization mammalian cortical neurons also been separated into main classes citation citation one exhibiting class characteristics another class characteristics
+MISC--: former class consists primarily pyramidal neurons latter primarily interneurons
+MISC--: this differential classification excitability been shown correlate differential bifurcation behaviour corresponding dynamical models citation citation successfully been used analysing coding properties neurons citation citation
+AIMX--: avoid confusion accordance notation tateno robinson citation we following use terms type type dynamics when referring continuous discontinuous f i stim relationships respectively
+MISC--: this classification takes threshold dynamics regular fast spiking neurons class axons into account but not all behavioural aspects classes citation
+MISC--: intricate interactions between many factors involved dynamical regulation neuronal firing poorly understood citation
+MISC--: dominant idea different combinations ion channel types explain different patterns citation
+BASE--: previous study we proposed complementary explanation citation citation
+OWNX--: we showed both type type behaviour simulated dynamical model hippocampal neuron citation varying membrane density voltage gated na k channels
+OWNX--: model used was four dimensional based detailed experimental voltage clamp study thus comprising experimentally estimated parameters
+MISC--: choice ion channel densities bifurcation parameters was due their physiological pharmacological relevance
+OWNX--: many drugs act specifically blocking channels thereby reducing ion channel density both at somatic at axonal level
+MISC--: perhaps most used local anaesthetic drug lidocaine acts blocking sodium channels axons sensory nerve endings citation
+CONT--: increasing number studies suggest role physiological regulation channel densities even at relatively short time scale citation citation
+MISC--: each type dynamics i e type was found associated distinct regions channel density plane corresponding surface areas oscillation volume formula formula i stim space
+OWNX--: regions high formula low formula values model exhibits type dynamics whereas regions higher formula values model generates type dynamics
+MISC--: bifurcation analysis showed type dynamics model due saddle node invariant circle bifurcations citation citation
+OWNX--: figure portrays bifurcation v i stim plot calculated model using region c values
+MISC--: type dynamics was found due either local andronov hopf bifurcations global double limit cycle bifurcations citation citation
+MISC--: dynamics model associated region b values due double limit cycle subcritical andronov hopf bifurcations while dynamics associated region exclusively due double limit cycle bifurcations
+MISC--: double limit cycle bifurcation implies unstable limit cycle part separating structure separates trajectories turning central stable point those approaching stable limit cycle
+MISC--: however preliminary calculations suggested bifurcation structure at border between regions b c more complex than previously described
+MISC--: when more bifurcation parameters changed more intricate loss stability occurs citation
+OWNX--: thus obtain better understanding processes we reanalysed hippocampal neuron model more detail
+OWNX--: furthermore we extended analysis two other well described excitable membranes i e myelinated axon xenopus laevis citation giant axon loligo forbesi citation
+AIMX--: we found oscillations associated subregion region c hippocampal model show type dynamics oscillations both axon models exclusively show type dynamics
+OWNX--: we investigated mathematical background findings using techniques bifurcation theory
+OWNX--: results suggest hippocampal soma two studied axon membranes represent two distinct types membrane respect excitability pattern membranes channel density dependent switching between type dynamics membranes channel density independent dynamics
+OWNX--: difference between two membrane types suggests functional differences compatible more flexible role soma membrane than axon membrane

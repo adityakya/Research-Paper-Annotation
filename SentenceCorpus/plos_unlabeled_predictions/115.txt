@@ -1,0 +1,48 @@
+MISC--: g protein coupled receptors encoded about percent human genes comprise largest family integral membrane proteins act cell surface receptors responsible transduction endogenous signal into cellular response
+MISC--: although tertiary structural information crucial function annotation drug design there few experimentally determined gpcr structures
+OWNX--: address this issue we employ recently developed threading assembly refinement method generate structure predictions all putative gpcrs human genome
+CONT--: unlike traditional homology modeling approaches tasser modeling does not require solved homologous template structures moreover often refines structures closer native
+MISC--: features essential comprehensive modeling all human gpcrs when close homologous templates absent
+MISC--: based benchmarked confidence score approximately predicted models should correct folds
+MISC--: majority gpcr models share characteristic seven transmembrane helix topology but orfs predicted different structures
+MISC--: this due gpcr fragments predominantly extracellular intracellular domains well database annotation errors
+CONT--: our preliminary validation includes automated modeling bovine rhodopsin only solved gpcr protein data bank
+MISC--: homologous templates excluded final model built tasser global c root mean squared deviation native root mean squared deviation transmembrane helix region
+MISC--: models several representative gpcrs compared mutagenesis affinity labeling data consistent agreement demonstrated
+MISC--: structure clustering predicted models shows gpcrs similar structures tend belong similar functional class even when their sequences diverse
+OWNX--: results demonstrate usefulness robustness silico models gpcr functional analysis
+OWNX--: all predicted gpcr models freely available noncommercial users our web site
+MISC--: g protein coupled receptors integral membrane proteins embedded cell surface transmit signals cells response stimuli light ca odorants amino acids nucleotides peptides proteins mediate many physiological functions through their interaction heterotrimeric g proteins citation citation
+MISC--: many diseases involve malfunction receptors making them important drug targets
+MISC--: human estimated number gpcrs approximately citation corresponding about percent total number human genes citation
+MISC--: however more than percent all modern drugs target gpcrs represent around percent top selling drugs worldwide citation citation
+MISC--: while knowledge protein s structure furnishes important information understanding its function drug design citation progress solving gpcr structures been slow citation
+MISC--: nuclear magnetic resonance spectroscopy x ray crystallography two major techniques used determine protein structures
+MISC--: nmr spectroscopy advantages protein does not need crystallized dynamical information extracted
+OWNX--: however high concentrations dissolved proteins needed yet no complete gpcr structure been solved method
+MISC--: x ray crystallography provide very precise atomic information globular proteins but gpcrs extremely difficult crystallize
+MISC--: fact only single gpcr bovine rhodopsin rod outer segment membrane been solved citation
+MISC--: unlikely significant number high resolution gpcr structures will experimentally solved very near future
+MISC--: this situation limits use structure based approaches drug design restricts research into mechanisms control ligand binding gpcrs activation regulation gpcrs signal transduction mediated gpcrs citation
+MISC--: fortunately demonstrated recent casp experiments citation computer based methods deducing three dimensional structure protein its amino acid sequence been increasingly successful
+MISC--: among three types structure prediction algorithms homology modeling citation citation threading citation citation ab initio folding citation citation cm builds models aligning target sequence evolutionarily related template structure provides most accurate models
+MISC--: however its success largely dictated evolutionary relationship between target template proteins
+MISC--: example proteins greater than percent sequence identity their templates cm models tend quite close native structure root mean squared deviation native their backbone atoms comparable low resolution x ray nmr experiments citation citation
+MISC--: when sequence identity drops below percent termed twilight zone cm model accuracy sharply decreases because lack significant structure match substantial alignment errors
+MISC--: here models provided cm often closer template model based rather than native structure sequence interest
+MISC--: this been significant unsolved problem citation
+MISC--: among all registered human gpcrs there only four sequences sequence identity bovine rh greater than percent
+MISC--: ninety nine percent human gpcrs average sequence identity bovine rh percent lie outside traditional comparative modeling regimen citation
+MISC--: recently citation citation citation citation we developed threading assembly refinement methodology combines threading ab initio algorithms span homologous nonhomologous regimens
+MISC--: large scale comprehensive benchmark test representative proteins protein data bank citation after excluding templates having greater than percent sequence identity target two thirds single domain proteins folded models c rmsd native less than citation citation
+MISC--: significant advance over traditional homology modeling many models improved respect their threading templates
+MISC--: absence additional gpcr crystal structures computer based modeling may provide best alternative obtaining structural information citation citation
+MISC--: this work we exploit tasser predict tertiary structures all gpcr sequences human genome less than amino acids length
+AIMX--: only sequence given gpcr passed tasser no other extrinsic knowledge incorporated into our structure prediction approach
+MISC--: because rearrangements tm helices rh may occur nonhomologous gpcrs ability refine templates most important advantage using tasser comprehensive gpcr modeling
+MISC--: also distinct many other gpcr modeling methods only attempt model tm helical regions citation citation citation tasser generates reasonable predictions loop regions
+MISC--: benchmark tests citation percent loops four more residues tasser models global rmsd less than native
+MISC--: contrast using widely used homology modeling tool modeller citation citation percentage loops this accuracy percent citation
+MISC--: if one considers only accuracy loop conformation itself then percent tasser generated loops local rmsd less than average rmsd loops up residues below
+MISC--: this especially important gpcr modeling extracellular loops often critical determining ligand specificity citation citation
+MISC--: therefore full length tasser models offer substantial advantages over traditional comparative modeling methods likely greater aid understanding ligand signaling interactions gpcrs

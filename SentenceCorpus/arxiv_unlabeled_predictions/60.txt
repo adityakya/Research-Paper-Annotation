@@ -1,0 +1,28 @@
+AIMX--: this paper uncovers explores close relationship between monte carlo optimization parametrized integral mco parametric machine learning pl blackbox oracle based optimization bo
+OWNX--: we make four contributions
+OWNX--: first we prove mco mathematically identical broad class pl problems
+OWNX--: this identity potentially provides new application domain all broadly applicable pl techniques mco
+OWNX--: second we introduce immediate sampling new version probability collectives pc algorithm blackbox optimization
+MISC--: immediate sampling transforms original bo problem into mco problem
+OWNX--: accordingly combining first two contributions we apply all pl techniques bo
+OWNX--: our third contribution we validate this way improving bo demonstrating cross validation bagging improve immediate sampling
+MISC--: finally conventional mc mco procedures ignore relationship between sample point locations associated values integrand only values integrand at those locations considered
+OWNX--: we demonstrate one exploit sample location information using pl techniques example forming fit sample locations associated values integrand
+OWNX--: this provides additional way apply pl techniques improve mco
+AIMX--: this paper uncovers explores some aspects close relationship between monte carlo optimization parametrized integral mco parametric machine learning pl blackbox oracle based optimization bo
+OWNX--: we make four primary contributions
+OWNX--: first we establish mathematical identity equating mco pl
+OWNX--: this identity potentially provides new application domain all broadly applicable pl techniques viz mco
+OWNX--: our second contribution introduction immediate sampling
+OWNX--: this new version probability collectives pc approach blackbox optimization
+MISC--: pc encompasses estimation distribution algorithms edas citation cross entropy ce method citation special cases
+MISC--: however pc broader more fully motivated
+MISC--: this means uncovers overcomes formal shortcomings those other approaches
+MISC--: immediate sampling version pc original bo problem transformed into mco problem
+OWNX--: light our first contribution this means we apply pl immediate sampling
+MISC--: this way symbol pl techniques including cross validation bagging boosting active learning stacking others applied blackbox optimization
+OWNX--: our third contribution we experimentally explore power this identity between mco pl
+OWNX--: experiments we demonstrate cross validation bagging improve performance immediate sampling blackbox optimization
+OWNX--: particular experiments we show cross validation used adaptively set annealing schedule blackbox optimization using immediate sampling without any extra calls oracle
+OWNX--: some cases we show this adaptively formed annealing schedule results better optimization performance than any exponential annealing schedule finally conventional mc mco procedures ignore relationship between sample point locations associated values integrand only values integrand at sample locations considered algorithms we end exploring ways use pl techniques exploit information sample locations instance bayesian fitting surface sample locations associated values integrand
+MISC--: this constitutes yet another way applying pl mco general therefore bo particular

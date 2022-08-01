@@ -1,0 +1,31 @@
+AIMX--: using stochastic dominance approach international dataset about number number catholic subjects we show incentives based absolute belief play crucial role religious practice church attendance prayer
+OWNX--: furthermore we find when both positive heaven negative hell incentives available former much stronger effect than latter
+MISC--: results confirmed using kolmogorov smirnov tests
+MISC--: many studies examined role incentives their effect behavior individuals citation
+MISC--: this study interest falls effect incentives religious behavior sense they increase decrease individual religious performance
+MISC--: religious practice encouraged two types incentives earthly ones afterlife ones
+AIMX--: this paper addresses second group
+MISC--: previous studies analyzed effects afterlife incentives religious behavior
+OWNX--: azzi ehrenberg citation were first propose test theoretical model afterlife religious capital
+MISC--: they analyzed determinants participation religious activities using utility maximizing model
+MISC--: among other results they found afterlife beliefs major determinant church attendance
+MISC--: using several surveys carried out united states they provided empirical support their theory
+MISC--: blomberg et al citation developed model where financial religious contributions motivated both current consumption afterlife considerations
+MISC--: they show afterlife considerations play important role explaining financial religious contributions
+MISC--: pyne citation studied relationship between religiosity fear death
+MISC--: he found individuals who place higher probability existence afterlife invest more religious capital
+MISC--: recently bra xf number garza et al citation estimated role afterlife beliefs production religious commodities concretely church attendance prayer
+MISC--: using ordered logit regressions they found afterlife beliefs crucial determinants but more importantly beliefs heaven much more relevant than beliefs hell positive incentives stronger than negative ones
+OWNX--: however this regression approach does not allow us study joint effect positive negative incentives
+MISC--: when logit model contains interactions among variables two problems appear i computation partial effects becomes problematic ii interpretation estimate effects not straightforward
+MISC--: showed norton et al citation estimated coefficients interaction terms do not reflect interaction effect moreover their statistical significance cannot tested through simple t test
+MISC--: even more problematic interpretation given estimated interaction effect also conditional current value other independent variables
+AIMX--: hence we cannot properly study meaning different interactions logit regression model
+AIMX--: this paper presents different statistical tool stochastic dominance approach citation allows use straightforward interpretation joint effect positive negative incentives
+OWNX--: our analyses confirm main results showed bra xf number garza et al citation revises interactive effects among positive negative incentives
+OWNX--: easy graphical way we show afterlife incentives play crucial role religious performance comparing not only positive negative incentives but combination both compared
+MISC--: study was carried out catholic people
+MISC--: catholic religion church attendance prayer strategies lead heaven prevent hell
+MISC--: church attendance prayer two dimensions religiosity reflect public religious activities versus private intimate prayer activities
+MISC--: while church attendance also non religious motives networking building social ties private prayer activity more pure religious motives
+AIMX--: using stochastic dominance approach we ask whether absolute beliefs eternal bliss heaven eternal damnation hell increase individual s religious investment reflected church attendance prayer whether absolute belief eternal damnation hell more less powerful incentive than eternal bliss heaven intensified religious effort

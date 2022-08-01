@@ -1,0 +1,23 @@
+MISC--: previous research demonstrated bayesian reasoning performance improved if uncertainty information presented natural frequencies rather than single event probabilities
+OWNX--: questionnaire study number college students replicated this effect but also found performance boosting benefits natural frequency presentation occurred primarily participants who scored high numeracy
+CONT--: this finding suggests even comprehension manipulation natural frequencies requires certain threshold numeracy abilities beneficial effects natural frequency presentation may not general previously believed
+MISC--: bayesian reasoning performance improved if uncertainty information presented natural frequencies
+MISC--: gigerenzer hoffrage citation argue evolutionary point view suggests mind tuned frequency formats information format humans encountered long before advent probability theory
+MISC--: although there some disagreement among researchers about reason why natural frequency presentations facilitate bayesian reasoning citation result they do improve performance well established
+AIMX--: current paper we examine whether natural frequency presentation facilitates bayesian reasoning among some people more than others
+MISC--: one result suggests does study bramwell west salmon citation
+MISC--: they presented bayesian pregnancy screening scenario obstetricians midwives pregnant women women s companions
+MISC--: participants were told base rate birth defect hit rate false alarm rate prenatal test
+OWNX--: they were asked estimate posterior probability given abnormal test result baby actually birth defect
+MISC--: accurate responses were more frequent when scenario was presented terms natural frequencies rather than probabilities
+OWNX--: interestingly this effect presentation format was limited obstetricians
+MISC--: other three groups performance was equally poor both presentation formats
+OWNX--: thus facilitative effect natural frequency format does not appear universal
+MISC--: natural frequencies benefit only some types reasoners
+MISC--: one factor may help explain this result numeracy
+MISC--: numeracy skill defined ability process basic probability numerical concepts citation been studied association number decision tasks because many judgments decisions rely heavily mathematical concepts citation
+MISC--: example gurmankin baron armstrong citation found more numerate people more trusting more comfortable physician s risk communication when includes numeric statement risk than when does not whereas less numerate people more trusting if given non numeric risk statements
+CONT--: peters et al citation found compared their counterparts highly numerate individuals more likely retrieve use appropriate numerical principles thus making themselves less susceptible framing effects tasks involving numbers
+MISC--: interest explore whether high numerates benefit more than low numerates uncertainty information presented natural frequencies rather than single event probabilities
+AIMX--: present study college students solved two bayesian reasoning problems
+MISC--: each participant one problem was presented probability format other natural frequency format

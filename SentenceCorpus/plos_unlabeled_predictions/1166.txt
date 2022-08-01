@@ -1,0 +1,51 @@
+MISC--: large scale protein interaction networks typically been discerned using affinity purification followed mass spectrometry yeast two hybrid techniques
+CONT--: generally recognized y h screens detect direct binary interactions while ap ms method captures co complex associations however latter technique known yield prevalent false positives arising number effects including abundance
+OWNX--: we describe novel approach compute propensity two proteins co purify ap ms data set thereby allowing us assess detected level interaction specificity analyzing corresponding distribution interaction scores
+OWNX--: we find two recent ap ms data sets yeast contain enrichments specific high scoring associations compared commensurate random profiles curated direct physical interactions two prominent data bases consistently high scores
+OWNX--: our scored interaction data sets generally more comprehensive than those previous studies when compared against four diverse high quality reference sets
+OWNX--: furthermore we find our scored data sets more enriched curated direct physical associations than y h sets
+OWNX--: high confidence protein interaction network derived ap ms data revealed highly modular we show this topology not result misrepresenting indirect associations direct interactions
+AIMX--: fact we propose modularity y h data sets may underrepresented they contain indirect associations significantly enriched false negatives
+OWNX--: ap ms pin also found contain significant assortative mixing however line previous study we confirm y h interaction data show weak disassortativeness thus revealing more clearly distinctive natures interaction detection methods
+OWNX--: we expect our scored yeast data sets ideal further biological discovery our scoring system will prove useful other ap ms data sets
+MISC--: insights into architectures mechanisms cellular processes obtained elucidation genome wide protein interaction networks describe physical associations between component proteins
+MISC--: maps interactomes exploited enhance many types biological discovery including protein function prediction citation inference disease genes citation identification condition specific response modules citation
+MISC--: yeast saccharomyces cerevisiae been routinely employed model system high throughput studies pins been determined using number platforms including yeast two hybrid screens citation citation affinity purification followed mass spectrometry citation citation protein fragment complementation assays citation
+MISC--: each approach perceives interactions distinct manner
+BASE--: y h pca techniques detect direct binary interactions although pca approach does not rely upon expression reporter gene required y h screens while ap ms techniques purify identify protein complexes
+MISC--: reliability each technique been extensively debated literature comprehensive analyses resulted contrasting conclusions citation citation citation
+MISC--: however generally accepted any measure reliability not absolute largely dependent nature pre defined gold standard reference set
+MISC--: additional complexity arises analysis interpretation ap ms data set because there no standard well defined system distinguish between direct indirect interactions present purified complex
+MISC--: only information available individual purification its composition tagged bait protein associated co purified prey proteins
+MISC--: furthermore constituent proteins identified complex ms methods different platforms often yield varying compositions identical purifications citation citation
+MISC--: another concern compositions purifications influenced protein abundances citation citation citation proteins having higher abundance more likely detected more purifications therefore inferred involved more interactions after tabulation all bait prey pairs citation
+MISC--: address issues number approaches analysis ap ms data sets been employed citation citation citation citation
+MISC--: techniques common goal discerning protein pairs appreciably co purified relative some random background
+MISC--: while each method determines scores representing likelihood observing two proteins together scores computed using different procedures gavin et al calculate log ratios observed co occurrences relative expected citation krogan et al utilize combination machine learning algorithms citation collins et al implement supervised algorithm derived bayesian methods optimized empirically derived parameters citation hart et al determine interaction probabilities based hypergeometric distributions citation
+MISC--: qualities generated pins been found superior comparable data sets constructed straightforward tabulations bait prey interactions citation citation citation
+MISC--: evaluations were generally deduced direct comparisons against complexes manually curated munich information center protein sequences citation
+MISC--: recent study high throughput y h data sets explored characteristic strengths distributions functional interactions non functional interactions order assess extent latter impedes formation functional protein complexes citation
+OWNX--: was conjectured overall impact upon biochemical efficiencies had evolved tolerable limit
+BASE--: motivated use randomization techniques tool measure discover enrichments network motifs citation connectivity correlations citation complex networks we developed shuffling based approach assess levels interaction specificity detected ap ms data sets
+MISC--: this system allows computation pair wise protein co occurrence significance scores comparing experimentally observed numbers those randomized realizations
+MISC--: cs score two proteins provides statistical measure their propensity co purify interact ap ms data set
+CONT--: approach requires no training set machine learning therefore applicable any ap ms data set any species regardless whether any curated information exists not
+OWNX--: found ap ms data sets contain significant enrichments specific high scoring associations
+OWNX--: additionally we showed high quality direct physical interactions curated two prominent data bases significantly high cs scores
+MISC--: therefore while ap ms data sets contain prevalent non specific transient associations our scoring analysis reveals there underlying preference proteins form selective discriminating associations
+OWNX--: our resultant scored interaction data sets were further assessed comparisons against four diverse high quality reference data sets each representing unique manner interaction detection association mechanism curation
+OWNX--: most references we found accuracies our scored interaction sets were manifestly higher than those previous studies
+MISC--: additionally our scored data sets only ones typically outperformed experimental y h interaction sets citation citation
+MISC--: high confidence pin extracted ap ms data gavin et al citation was revealed free abundance effects while those derived data krogan et al citation contained weak abundance biases
+OWNX--: therefore would appear high quality ap ms data sets interaction specificity not coupled protein abundance
+OWNX--: we note converse recently been found true y h interaction data sets citation
+MISC--: high confidence pin derived data gavin et al citation was shown highly modular containing many localized densely connected regions strikingly different commensurate random network
+OWNX--: we also demonstrated observed high modularity not result misinterpreting indirect associations direct interactions rather result direct physical associations
+OWNX--: furthermore we suggest modularity y h interaction data sets may underrepresented indirect associations pins significantly enriched manually curated physical interactions i e they likely false negatives
+MISC--: high confidence ap ms pin shows assortative mixing meaning proteins having similar numbers total interactions prefer interact each other
+MISC--: consequence assortativity high degree proteins hubs prefer associate each other rather than proteins having very small numbers total interactions
+AIMX--: agreement previous study citation we find consolidated y h pin shows weak disassortative mixing while manually curated set high confidence physical binary interactions displays both equal measure assortative disassortative mixing
+OWNX--: therefore high quality ap ms data appear assortative while y h interaction data appear disassortative
+OWNX--: we expect our scored yeast data sets ideal further investigations involving biological discovery our procedure will prove useful analysis current future ap ms data sets variety species
+OWNX--: we compared our high quality ap ms interaction data sets those y h screens perceived number novel insights regarding their substances network properties
+MISC--: certainly their topologies contrasting must reflect their different methods interaction detection

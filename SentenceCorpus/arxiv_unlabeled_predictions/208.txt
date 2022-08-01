@@ -1,0 +1,53 @@
+OWNX--: we study problem decision theoretic online learning dtol
+MISC--: motivated practical applications we focus dtol when number actions very large
+MISC--: previous algorithms learning this framework tunable learning rate parameter barrier using online learning practical applications not understood how set this parameter optimally particularly when number actions large
+AIMX--: this paper we offer clean solution proposing novel completely parameter free algorithm dtol
+AIMX--: we introduce new notion regret more natural applications large number actions
+AIMX--: we show our algorithm achieves good performance respect this new notion regret addition also achieves performance close best bounds achieved previous algorithms optimally tuned parameters according previous notions regret
+AIMX--: this paper we consider problem decision theoretic online learning dtol proposed freund schapire citation
+MISC--: dtol variant problem prediction expert advice citation
+MISC--: this problem learner must assign probabilities fixed set actions sequence rounds
+MISC--: after each assignment each action incurs loss value symbol learner incurs loss equal expected loss actions round where expectation computed according learner s current probability assignment
+MISC--: regret learner action difference between learner s cumulative loss cumulative loss action
+MISC--: goal learner achieve any sequence losses low regret action lowest cumulative loss best action
+MISC--: dtol general framework captures many learning problems interest
+MISC--: example consider tracking hidden state object continuous state space noisy observations citation
+OWNX--: look at tracking dtol framework we set each action path sequence states over state space
+MISC--: loss action at time symbol distance between observation at time symbol state action at time symbol goal learner predict path loss close action lowest cumulative loss
+MISC--: most popular solution dtol problem hedge algorithm citation
+MISC--: hedge each action assigned probability depends cumulative loss this action parameter symbol also called learning rate
+MISC--: appropriately setting learning rate function iteration citation number actions hedge achieve regret upper bounded symbol each iteration symbol where symbol number actions
+MISC--: this bound regret optimal there symbol lower bound citation
+OWNX--: this paper motivated practical applications tracking we consider dtol regime where changeto symbol number actions number actions symbol very large
+MISC--: major barrier using online learning practical problems when symbol large not understood how set learning rate symbol
+MISC--: citation suggest setting symbol fixed function number actions symbol
+OWNX--: however this lead poor performance we illustrate example section degradation performance particularly exacerbated symbol grows larger
+OWNX--: one way address this simultaneously running multiple copies hedge multiple values learning rate choosing output copy performs best online way
+AIMX--: however this solution impractical real applications particularly symbol already very large more details about solutions please see section this paper we take step towards making online learning more practical proposing novel completely adaptive algorithm dtol
+OWNX--: our algorithm called normalhedge
+OWNX--: normalhedge very simple easy implement each round simply involves single line search followed updating weights all actions
+MISC--: second issue using online learning problems tracking where symbol very large regret best action not effective measure performance
+MISC--: problems tracking one expects lot actions close action lowest loss
+OWNX--: actions also low loss measuring performance respect small group actions perform well extremely reasonable see example figure
+AIMX--: this paper we address this issue introducing new notion regret more natural practical applications
+OWNX--: we order cumulative losses all actions lowest highest define regret learner top symbol quantile difference between cumulative loss learner symbol th element sorted list we prove normalhedge regret top symbol quantile actions at most symbol holds simultaneously all symbol symbol
+OWNX--: if we set symbol we get regret best action upper bounded symbol only slightly worse than bound achieved hedge optimally tuned parameters
+OWNX--: notice our regret bound term involving symbol no dependence symbol
+OWNX--: contrast hedge cannot achieve regret bound this nature uniformly all symbol details how hedge modified perform our new notion regret see section
+OWNX--: normalhedge works assigning each action symbol potential actions lower cumulative loss than algorithm assigned potential symbol where symbol regret action symbol symbol adaptive scale parameter adjusted one round next depending loss sequences
+MISC--: actions higher cumulative loss than algorithm assigned potential symbol
+MISC--: weight assigned action each round then proportional derivative its potential
+OWNX--: one also interpret hedge potential based algorithm under this interpretation potential assigned hedge action symbol proportional symbol changeto this potential used hedge other related algorithms differs significantly one we use this potential used hedge differs significantly one we use although other potential based methods been considered context online learning citation our potential function very novel best our knowledge not been studied prior work
+OWNX--: our proof techniques also different previous potential based methods
+MISC--: another useful property normalhedge hedge does not possess assigns zero weight any action whose cumulative loss larger than cumulative loss algorithm itself
+MISC--: other words non zero weights assigned only actions perform better than algorithm
+MISC--: most applications changeto dtol we expect small set actions perform significantly better than most actions changeto regret hedging algorithm guaranteed small this means algorithm will perform better than most actions will therefore assign them zero probability regret algorithm guaranteed small means algorithm will perform better than most actions thus assign them zero probability citation proposed more recent solutions dtol regret hedge best action upper bounded function symbol loss best action function variations losses
+MISC--: bounds sharper than bounds respect symbol
+BASE--: our analysis fact our knowledge any analysis based potential functions style citation do not directly yield kinds bounds
+OWNX--: we therefore leave open question finding adaptive algorithm dtol regret upper bounded function depends loss best action
+AIMX--: rest paper organized follows
+OWNX--: section we provide normalhedge
+OWNX--: section we provide example illustrates suboptimality standard online learning algorithms when parameter not set properly
+OWNX--: section we discuss related work
+OWNX--: section we present some outlines proof
+MISC--: proof details supplementary materials

@@ -1,0 +1,32 @@
+OWNX--: t cell antigen receptor repertoire generated through rearrangements v j genes encoding chains
+MISC--: quantification frequency every v j combination during ontogeny development immune system remain precisely established
+OWNX--: we addressed this issue building model able account v j gene rearrangements during thymus development mice
+OWNX--: so we developed numerical model whole tra trd locus based experimental data estimate how v j genes become accessible rearrangements
+MISC--: progressive opening locus v j gene recombinations modeled through windows accessibility different sizes different speeds progression
+OWNX--: furthermore possibility successive secondary v j rearrangements was included modelling
+OWNX--: model points out some unbalanced v j associations resulting preferential access gene rearrangements non uniform partition accessibility j genes depending their location locus
+OWNX--: model shows successive rearrangements sufficient explain use all v j genes locus
+MISC--: finally model provides information both kinetics rearrangements frequencies each v j associations
+OWNX--: model accounts essential features observed rearrangements tra trd locus may provide reference repertoire v j combinatorial diversity
+MISC--: functional antigen receptors expressed t lymphocytes generated during ontogeny somatic recombination gene segments coding variable joining constant segments citation
+MISC--: recombination mechanism largely dependent both accessibility loci rag enzymatic complex citation citation
+MISC--: murine tra trd locus composite encoding tr chains encompassed more than functional v genes citation
+OWNX--: theory each v genes may target one functional j genes
+CONT--: use v j genes during process recombination been widely debated studies support consensus v j combinations not random use j segments starting at end proceeding end citation citation
+MISC--: accessibility j region controlled tr enhancer located at end c gene citation two promoters t early located at end j region ii j located kb downstream tea
+MISC--: both promoters activated e citation citation citation
+OWNX--: e controls all v j associations whereas two promoters required rearrangements j genes situated at end j region
+MISC--: however analyses tea deleted alleles those blockade tea transcription showed significant alterations j use support hypothesis tea promoter regulate both positively promoters located first kb j genes negatively downstream promoters citation citation citation
+MISC--: particularity tra locus absence allelic exclusion citation its ability undergo multiple cycles secondary rearrangements citation citation
+MISC--: process successive rearrangements stopped either positive selection downregulates recombinase expression citation cell death
+MISC--: therefore impact secondary rearrangements tr gene assembly regulation remains defined
+MISC--: regarding v j gene use suggested first v j association targets secondary one into set j segments located near j segment involved primary rearrangement citation citation
+CONT--: rules governing use v genes not been clearly elucidated
+MISC--: nevertheless observations converge consensus use v segments would progress proximal v genes located near j region towards v genes located distal region citation citation
+MISC--: at this point time mechanism involved control accessibility v genes remains debate citation
+MISC--: current state technology permits analysis some v j combinations essentially those at extremities locus but still fails establish complete estimation v j combinations
+MISC--: main obstacle comes fact some v genes duplicated similar copies v region central part making problematic their unambiguous identification molecular methods citation
+MISC--: consequently numerical modelling v j recombination process may offer valuable support overcome difficulty accessing global view tra repertoire
+MISC--: instance if j genes chosen sequential way model their use results unimodal whereas known experimental data tra trd locus displays two hot spots recombination citation citation
+MISC--: this discrepancy led us build mathematical model parameterized experimental data all v j genes including those distal proximal central positions
+OWNX--: confrontation between data obtained experiments modelling makes possible estimation dynamical parameters accessibility rearrangements frequencies v j associations giving more accurate estimation tra combinatorial diversity

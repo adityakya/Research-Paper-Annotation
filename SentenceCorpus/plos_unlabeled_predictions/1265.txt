@@ -1,0 +1,41 @@
+MISC--: various characteristics complex gene regulatory networks been discovered during last decade e g redundancy exponential indegree distributions scale free outdegree distributions mutational robustness evolvability
+MISC--: although progress been made this field not well understood whether characteristics direct products selection those other evolutionary forces mutational biases biophysical constraints
+AIMX--: elucidate causal factors promoted evolution complex grns we examined effect fluctuating environmental selection some intrinsic constraining factors grn evolution using individual based model
+OWNX--: we found evolution complex grns remarkably promoted fixation beneficial gene duplications under unpredictably fluctuating environmental conditions some internal factors inherent organisms mutational bias gene expression costs constraints expression dynamics also important evolution grns
+MISC--: results indicate various biological properties observed grns could evolve result not only adaptation unpredictable environmental changes but also non adaptive processes owing properties organisms themselves
+AIMX--: our study emphasizes evolutionary models considering intrinsic constraining factors should used null models analyze effect selection grn evolution
+MISC--: genetic basis organismal evolution one fundamental problems biology citation citation
+MISC--: modes selection phenotypes would influence fixation probabilities mutations affect phenotypes citation profile mutations fixed during course evolution would determine architecture genomes genetic systems underlying phenotypes citation
+MISC--: however because genetic systems would modify phenotypic effects mutations properties genetic system would influence rates directions phenotypic evolution well mutational robustness evolvability citation citation
+MISC--: therefore both phenotypes genetic systems evolved mutually influencing each other
+MISC--: gene regulatory networks constitute important parts genetic systems involved various biological processes environmental responses unicellular organisms cell differentiation multicellular organisms citation citation citation
+MISC--: recent theoretical experimental studies revealed complex grns evolved successive gene duplication changes regulatory interactions particularly prokaryotes horizontal gene transfer citation citation
+MISC--: addition recent studies addressed structural features complex grns redundancy scale free outdegree distributions exponential indegree distributions citation citation citation contribution features genetic characteristics mutational robustness evolvability citation citation
+MISC--: one important question regard evolution complex grns evolutionary origin structural mutational properties
+MISC--: various evolutionary processes simultaneously influence grn evolution properties interrelated
+MISC--: thus difficult identify factors promoted evolution properties could evolve result being directly influenced selection also incidentally result other factors citation citation
+MISC--: thus identify factors responsible evolution properties complex grns necessary consider not only selection but also various mutational processes constraining processes
+MISC--: selection phenotype one most important driving forces organismal evolution
+MISC--: however impact phenotypic selection evolution grns unclear
+MISC--: mode selection strongly influences fate mutations profile mutations fixed during course evolution ultimately determines architecture grns
+MISC--: thus important examine how different modes phenotypic selection would affect evolution grns
+MISC--: however there significant limitations our general understanding processes adaptation evolutionary biology
+MISC--: many previous studies evolution mutational robustness respect grns focused fixation phenotypically neutral mutations under stabilizing selection constant optimal environment citation citation
+MISC--: other hand fixation beneficial mutations phenotypic adaptation under changing environments limited citation
+MISC--: many studies suggested some examples grn architectures related mutational robustness evolvability citation citation citation citation
+MISC--: theoretical studies proposed genetic properties appear evolvable traits citation citation citation genetic properties could play significant role organismal evolution citation
+MISC--: however unclear how mutational robustness evolvability influences process grn evolution
+MISC--: certain properties grn might evolved through non adaptive processes mutations biophysical constraints gene regulation citation citation citation citation
+MISC--: mutations particular ultimate source genetic variation
+MISC--: thus biased properties mutations potentially influence tendency organism evolve
+MISC--: example probability transcription factor binding site formation result mutations could vary several orders magnitude mainly owing extensive variation size potential cis regulatory regions among organisms citation citation rate gene deletion could several times higher than rate gene duplication certain organisms citation citation
+OWNX--: moreover been suggested horizontal transfer regulatory genes observed lesser extent than phenotypic genes citation
+MISC--: several studies suggested certain characteristic features complex grns redundancy scale free degree distributions could evolve inevitable outcome mutations citation citation
+MISC--: however previous studies not considered certain essential evolutionary processes selection gene duplication
+MISC--: therefore unclear whether characteristic features complex grns evolved result selection result inherent properties mutations
+OWNX--: purpose this study was identify evolutionary causes various structural mutational properties complex grns redundancy indegree outdegree distributions mutational robustness evolvability
+OWNX--: this purpose we constructed individual based model grn dynamically controls gene expression levels allows populations evolve under various fluctuating conditions selection various kinds mutations gene duplication deletion cis trans regulatory mutation horizontal gene transfer
+OWNX--: this study explore selective conditions promote evolution complex grns we first examine evolution grns under various conditions fluctuating selection
+OWNX--: second showing adaptive mechanisms evolution complex grns we examine fitness effect all mutations arose during evolution
+OWNX--: third explore whether internal factors organisms promote inhibit evolution grns we examined impact gene expression cost constraints expression dynamics several types mutational biases relative rates gene duplication deletion possibility formation new transcription factor binding sites horizontal gene transfers
+OWNX--: finally basis results above analyses we discuss major evolutionary causes various properties complex grns i e redundancy scale free out degree distributions exponential degree distributions mutational robustness evolvability

@@ -1,0 +1,38 @@
+OWNX--: we consider multi label prediction problems large output spaces under assumption output sparsity target label vectors small support
+OWNX--: we develop general theory variant popular error correcting output code scheme using ideas compressed sensing exploiting this sparsity
+OWNX--: method regarded simple reduction multi label regression problems binary regression problems
+AIMX--: we show number subproblems need only logarithmic total number possible labels making this approach radically more efficient than others
+OWNX--: we also state prove robustness guarantees this method form regret transform bounds general also provide more detailed analysis linear prediction setting
+OWNX--: suppose we large database images we want learn predict who what any given one
+MISC--: standard approach this task collect sample images symbol along corresponding labels symbol where symbol if only if person object symbol depicted image symbol then feed labeled sample multi label learning algorithm
+MISC--: here symbol total number entities depicted entire database
+OWNX--: when symbol very large eg symbol symbol simple one against all approach learning single predictor each entity become prohibitively expensive both at training testing time
+BASE--: our motivation present work comes observation although output label space may very high dimensional actual labels often sparse
+CONT--: each image only small number entities may present there may only small amount ambiguity who what they
+AIMX--: this work we consider how this sparsity output space output sparsity eases burden large scale multi label learning exploiting output sparsity subtle but critical point distinguishes output sparsity more common notions sparsity say feature weight vectors we interested sparsity symbol rather than symbol
+MISC--: general symbol may sparse while actual outcome symbol may not eg if there much unbiased noise vice versa symbol may sparse probability one but symbol may large support eg if there little distinction between several labels
+OWNX--: conventional linear algebra suggests we must predict symbol parameters order find value symbol dimensional vector symbol each symbol
+MISC--: crucial observation central area compressed sensing citation methods exist recover symbol just symbol measurements when symbol symbol sparse
+OWNX--: this basis our approach our contributions we show how apply algorithms compressed sensing output coding approach citation
+OWNX--: at high level output coding approach creates collection subproblems form label this subset its complement
+OWNX--: solves problems then uses their solution predict final label
+OWNX--: role compressed sensing our application distinct its more conventional uses data compression
+OWNX--: although we do employ sensing matrix compress training data we ultimately not interested recovering data explicitly compressed this way
+OWNX--: rather we learn predict compressed label vectors then use sparse reconstruction algorithms recover uncompressed labels predictions
+OWNX--: thus we interested reconstruction accuracy predictions averaged over data distribution
+MISC--: main contributions this work formal application compressed sensing prediction problems output sparsity
+CONT--: efficient output coding method number required predictions only logarithmic number labels symbol making applicable very large scale problems
+MISC--: robustness guarantees form regret transform bounds general further detailed analysis linear prediction setting prior work ubiquity multi label prediction problems domains ranging multiple object recognition computer vision automatic keyword tagging content databases spurred development numerous general methods task
+MISC--: perhaps most straightforward approach well known one against all reduction citation but this too expensive when number possible labels large especially if applied power set label space citation
+MISC--: when structure imposed label space eg class hierarchy efficient learning prediction methods often possible citation
+AIMX--: here we focus different type structure namely output sparsity not addressed previous work
+OWNX--: moreover our method general enough take advantage structured notions sparsity eg group sparsity when available citation
+MISC--: recently heuristics been proposed discovering structure large output spaces empirically offer some degree efficiency citation
+MISC--: previously mentioned our work most closely related class output coding method multi class prediction was first introduced shown useful experimentally citation
+OWNX--: relative this work we expand scope approach multi label prediction provide bounds regret error guide design codes
+MISC--: loss based decoding approach citation suggests decoding so minimize loss
+OWNX--: however does not provide significant guidance choice encoding method feedback between encoding decoding we analyze here
+MISC--: output coding approach inconsistent when classifiers used underlying problems being encoded noisy
+MISC--: this proved analyzed citation where also shown using hadamard code creates robust consistent predictor when reduced binary regression
+OWNX--: compared this method our approach achieves same robustness guarantees up constant factor but requires training evaluating exponentially symbol fewer predictors
+OWNX--: our algorithms rely several methods compressed sensing we detail where used

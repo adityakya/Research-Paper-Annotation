@@ -1,0 +1,47 @@
+AIMX--: this paper presents studies deterministic annealing algorithm based quantum annealing variational bayes qavb inference seen extension simulated annealing variational bayes savb inference
+OWNX--: qavb easy savb implement
+MISC--: experiments revealed qavb finds better local optimum than savb terms variational free energy latent dirichlet allocation lda
+MISC--: several studies related machine learning quantum mechanics recently been conducted
+OWNX--: main idea behind been based generalization probability distribution obtained using density matrix self adjoint positive semidefinite matrix trace one
+MISC--: citation connects basic probability rule quantum mechanics called born rule formulates generalized probability using density matrix spectral clustering other machine learning algorithms based spectral theory
+MISC--: citation combined margin maximization scheme probabilistic modeling approach incorporating concepts quantum detection estimation theory citation
+MISC--: citation proposed quantum markov random field using density matrix quantum mechanics applied image restoration
+OWNX--: generalizing bayesian framework based density matrix also been proposed
+MISC--: citation proposed quantum bayes rule conditional density between two probability spaces
+MISC--: warmuth et al generalized bayes rule treat case where prior was density matrix citation unified bayesian probability calculus density matrices rules translation between joints conditionals citation
+MISC--: typically formulas derived quantum mechanics generalization retained conventional theory special case when density matrices been diagonal
+MISC--: computing full posterior distributions over model parameters probabilistic graphical models eg latent dirichlet allocation citation remains difficult quantum bayesian frameworks well classical bayesian frameworks
+OWNX--: this paper we generalize variational bayes inference citation widely used framework probabilistic graphical models based ideas been used quantum mechanics
+MISC--: variational bayes vb inference been widely used approximation bayesian inference probabilistic models discrete latent variables
+MISC--: example probabilistic mixture model mixture gaussians each data point assigned latent class latent variable corresponding data point indicates latent class
+MISC--: vb optimization algorithm minimizes cost function
+MISC--: cost function called negative variational free energy function latent variables
+AIMX--: we called cost function energy this paper
+MISC--: since vb gradient algorithm similar expectation maximization em algorithm suffers local optimal problem practice
+MISC--: deterministic annealing da algorithms been proposed em algorithm citation vb citation based simulated annealing sa citation overcome issue local optima
+OWNX--: we called simulated annealing based vb savb
+MISC--: sa one most well known physics based approaches machine learning
+MISC--: sa based concept statistical mechanics called temperature
+OWNX--: we decrease parameter temperature gradually sa
+OWNX--: because energy landscape becomes flat at high temperature easy change state see fig
+OWNX--: however state trapped at low temperature because valley energy barrier transition probability becomes very low
+MISC--: therefore sa does not necessarily find global optimum practical cooling schedule temperature symbol
+OWNX--: physics quantum annealing qa attracted attention alternative annealing method optimization problems process analogous quantum fluctuations citation
+MISC--: qa expected help states avoid being trapped poor local optima at low temperatures
+AIMX--: main point this paper explain novel da algorithm vb based qa qavb we derived present effects qavb we obtained through experiments
+MISC--: qavb generalization vb savb attained using density matrix
+OWNX--: we describe our motivation deriving qavb terms density matrix section
+OWNX--: here we overview qavb we derived
+OWNX--: interestingly although qavb generalized formulated density matrix algorithm qavb we finally derived does not need operations density matrix eigenvalue decomposition only simple changes savb algorithm
+OWNX--: since savb does not necessarily find global optimum we still need run multiple savbs independently different random initializations where symbol denote number savbs
+OWNX--: here let us consider running dependently not independently multiple savbs where dependently means we run multiple savbs introducing interaction symbol among neighboring savbs randomly numbered symbol symbol symbol see fig b
+MISC--: fig symbol indicates latent class states symbol data points symbol th savb
+MISC--: independent savbs very low transition probability among states i e they been trapped at high temperature shown fig c while dependent qavbs changes state situation
+OWNX--: this because interaction symbol starts zero i e independent gradually increases makes symbol symbol approach each other state will then moved into symbol
+MISC--: if there better state around sub optimal states independent savbs find dependent savbs expected work well
+OWNX--: dependent savbs just qavb where interaction symbol above scheme derived qa mechanisms will explained following section
+AIMX--: this paper organized follows
+OWNX--: section we introduce notations used this paper
+OWNX--: section we motivate qavb terms density matrix
+OWNX--: section explain how we derive qavb present experimental results latent dirichlet allocation lda
+OWNX--: section concludes this paper

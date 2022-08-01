@@ -1,0 +1,24 @@
+OWNX--: persistent activity states observed several neocortical areas after removal sensory stimulus believed neuronal basis working memory
+OWNX--: one possible mechanisms underlie persistent activity recurrent excitation mediated intracortical synaptic connections
+MISC--: recent experimental study revealed connections between pyramidal cells prefrontal cortex exhibit various degrees synaptic depression facilitation
+OWNX--: here we analyze effect synaptic dynamics emergence persistence attractor states interconnected neural networks
+AIMX--: we show different combinations synaptic depression facilitation result qualitatively different network dynamics respect emergence attractor states
+MISC--: this analysis raises possibility framework attractor neural networks extended represent time dependent stimuli
+MISC--: working memory enables us hold trace fleeting stimulus few seconds after gone thus enabling manipulation information over time
+OWNX--: recordings neurons monkeys performing working memory tasks reveal stimulus selective spiking activity persists after removal stimulus
+MISC--: persistent activity states considered neuronal substrate working memory citation
+MISC--: sustained persistent activity believed achieved excitatory interpyramidal connections either prewired formed during learning task citation
+MISC--: vitro studies connections cortex revealed pronounced short term plasticity effects citation
+MISC--: sensory areas cortex dominant effect synaptic depression expressed rapid decay synaptic efficacy following presynaptic firing citation
+MISC--: several theoretical studies investigated effects synaptic depression existence stability attractor states
+MISC--: wang et al citation recently performed experiments investigate short term synaptic plasticity prefrontal cortex one cortical areas where persistent activity observed citation
+OWNX--: they found interpyramidal connections this area exhibit various degrees synaptic facilitation three different classes connections identified
+MISC--: while synaptic facilitation was recently mentioned stabilizing factor network attractors citation there yet no systematic study its effect dynamics recurrent neural networks undergoing transition background persistent states after presentation stimulus
+MISC--: this contribution we consider attractor neural network connections already been formed learning several stimuli citation citation
+MISC--: we assume network comprises set neuronal populations each responding primarily certain stimulus
+OWNX--: this scheme via hebbian learning strengthen synaptic connections within population form stable activity state
+MISC--: drawing recent experimental results citation we assume neurons within each population differ dynamic properties their synapses thus exhibit different temporal response profiles same stimuli
+OWNX--: this firing then lead further differentiation synaptic strengths within population whereby neurons similar synaptic dynamics connected more strongly one another than ones dissimilar synaptic dynamics
+MISC--: we thus consider network comprising several attractor populations each divided into subpopulations different synaptic dynamics
+MISC--: populations interact via both excitatory dynamic synapses inhibition generate rich dynamics response external stimuli
+OWNX--: since synaptic dynamics differ between subpopulations we expect them respond differently different temporal profiles input could result greater computational power network

@@ -1,0 +1,28 @@
+OWNX--: we consider problem minimal correction training set make consistent monotonic constraints
+MISC--: this problem arises during analysis data sets via techniques require monotone data
+OWNX--: we show this problem np hard general equivalent finding maximal independent set special orgraphs
+MISC--: practically important cases problem considered detail
+MISC--: cases when partial order given replies set total order dimension
+OWNX--: we show second case reduced maximization quadratic convex function convex set
+OWNX--: this case we construct approximate polynomial algorithm based convex optimization
+MISC--: keywords machine learning supervised learning monotonic constraints
+MISC--: requirements classifying rule supervised learning problems consist two parts
+MISC--: first part induced set precedents called training set
+MISC--: each element training set pair object reply type
+MISC--: classifying rule mapping objects set replies set should map objects training set pairs consistent replies
+MISC--: second part requirements express our common knowledge classifying rule
+MISC--: one popular types requirements monotonicity considered paper
+OWNX--: some cases two parts requirements not satisfied both then we problem minimal correction training set
+MISC--: let us see what problem
+OWNX--: suppose sets symbol given this sets we partial orders symbol consistently
+OWNX--: we assume more partial order symbol lattice
+OWNX--: any given mapping symbol where symbol we pose problem finding function symbol monotone due partial orders symbol minimizes following functional symbol
+MISC--: let us denote set monotonic functions symbol symbol symbol
+OWNX--: then given mapping symbol our task following symbol every mapping symbol monotone subset symbol extended mapping monotone whole set symbol because symbol lattice
+MISC--: actually every finite subset lattice symbol operation symbol defined function symbol both monotone satisfies symbol
+OWNX--: this we see posed problem we imply symbol
+OWNX--: above said we conclude more this problem equivalent finding maximal subset symbol function symbol restricted subset symbol monotone
+OWNX--: so let us consider following generalization our problem we will call maxcms maximal consistent monotonicity set maxcms finite sets symbol where symbol given each them partial orders symbol defined consistently function symbol given
+MISC--: then every element symbol assigned positive integer weight symbol
+OWNX--: our task find maximal weight subset symbol function symbol restricted symbol monotone i e symbol definition set symbol called acceptable iff function symbol restricted symbol monotone definition set acceptable maximal weight denoted symbol some cases we use this notation mean weight this set
+OWNX--: remainder paper we will consider problem

@@ -1,0 +1,26 @@
+MISC--: genetic screening brca number brca number gives women opportunity early detection surveillance intervention
+MISC--: one key feature genetic testing counseling provision personal lifetime risk
+MISC--: however little attention been paid how women interpret lifetime risk information despite fact they base screening treatment family planning decisions information
+OWNX--: study this vital issue we set out test ability women choose most appropriate interpretation national cancer institute s nci message about lifetime risk developing cancer woman altered brca number brca number genes
+OWNX--: participants included number women who had not undergone genetic testing had cancer number women who had undergone genetic testing had cancer
+MISC--: over number percent women who had not undergone genetic testing had cancer number percent those who had undergone genetic testing had cancer misunderstood nci s information
+OWNX--: furthermore line growing body research we found high numeracy level objective subjective positively associated woman s ability correctly interpret nci s message
+MISC--: genetic screening brca number brca number gene mutations associated higher risk developing breast ovarian cancers gives women shot at early detection surveillance intervention citation
+MISC--: one key feature genetic counseling process provision personal lifetime risk risk developing specific disease during one s lifetime citation
+MISC--: indeed both patients genetic counselors rate communication lifetime risk information pivotal part process citation
+MISC--: this not surprising women who test positive brca number number often rely lifetime risk estimates make future family plans citation decide whether undergo mastectomy despite being cancer free citation
+MISC--: given importance lifetime risk information researchers been interested whether women overestimate underestimate their lifetime risk developing cancer citation
+MISC--: others investigated relationship between risk perception emotional reaction well between risk perception mammography screening whether leaflets genetic testing risk counseling improve women s accuracy estimating their lifetime risk developing cancer citation
+MISC--: although earlier studies examined women s estimation their lifetime risk more fundamental issue how women interpret lifetime risk information
+MISC--: after all if women misunderstand meaning lifetime risk whether they overestimate underestimate incorrectly interpreted risk would less important
+MISC--: indeed research shown people interpret numerical probabilities multiple mutually contradictory ways
+MISC--: researchers citation demonstrated individuals interpret seemingly unambiguous statement there number percent chance rain tomorrow different ways will rain tomorrow number percent region number percent time number percent days like tomorrow citation
+MISC--: since people misconstrue common mundane probabilistic information interpreting probabilistic information like lifetime risk developing cancer proves even greater challenge given added emotional impact
+CONT--: authors knowledge however no previous studies examined how women interpret statements regarding their lifetime risk developing cancer what variables e g numeracy might affect women s ability correctly interpret information
+MISC--: growing corpus research shown numeracy ability understand basic mathematical concepts important quality decisions citation
+MISC--: accordingly researchers long argued numeracy levels play key role host medical decision making might influence way people perceive understand risk citation
+MISC--: recent review citation summarized this idea well low numeracy pervasive constrains informed patient choice impairs risk communication affects medical outcome citation
+MISC--: while data strongly indicate existence relationship between numeracy medical decision making whether numeracy levels affect women s ability interpret lifetime risk data still unanswered question
+OWNX--: light abovementioned research gap existing literature we set out examine two related hypotheses
+OWNX--: we first predicted statement about lifetime risk developing cancer would give rise various interpretations not all would correct
+OWNX--: second we predicted participants higher numeracy levels will better understanding lifetime risk information than their peers lower numeracy levels

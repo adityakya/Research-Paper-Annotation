@@ -1,0 +1,29 @@
+MISC--: mathematics fundamental tool research
+MISC--: although potentially applicable every discipline amount training mathematics students typically receive varies greatly between different disciplines
+MISC--: those disciplines where most researchers do not master mathematics use mathematics may held too much awe
+OWNX--: demonstrate this i conducted online experiment number participants all had experience reading research reports postgraduate degree any subject
+MISC--: participants were presented abstracts two published papers one evolutionary anthropology one sociology
+OWNX--: based abstracts participants were asked judge quality research
+OWNX--: either one other two abstracts was manipulated through inclusion extra sentence taken completely unrelated paper presenting equation made no sense context
+MISC--: abstract included meaningless mathematics tended judged higher quality
+OWNX--: however this nonsense math effect was not found among participants degrees mathematics science technology medicine
+AIMX--: background this paper my own subjective experience mid career move pure mathematics interdisciplinary work social science cultural studies
+AIMX--: areas like sociology evolutionary anthropology i found mathematics often used ways my viewpoint were illegitimate make point would better made only simple logic uncritically take properties mathematical model properties real world include mathematics make paper look more impressive
+CONT--: those areas social sciences humanities broadly recognized mathematics valuable tool mathematical skills may still generally too low optimal use this tool
+CONT--: there may lack understanding what mathematics should used what cannot should not used
+OWNX--: if mathematics held awe unhealthy way its use not subjected sufficient levels critical thinking
+MISC--: within field pure mathematics academic writing expected completely transparent anyone knowledgeable about mathematical concepts involved
+OWNX--: typical reviewer pure mathematics paper will not tolerate sentence paragraph meaning obscure
+MISC--: same cannot said about some other academic disciplines
+MISC--: mathematical physicist alan sokal famously composed paper was deliberately obscure nonsensical he submitted journal social text where editors accepted publication citation
+MISC--: this so called sokal hoax demonstrated there experienced readers research publications who will not necessarily react adversely fact text cannot really made sense
+MISC--: indeed sokal bricmont citation documented book following up hoax obscurity hallmark certain academic traditions associated terms like postmodernism relativism
+OWNX--: however science bashing genres were not responsible abuse mathematics i referred above contrary i found mathematics poorly used fields where tools science held uncritically high regard
+MISC--: acceptance admiration writing actually does not make much sense may found both camps
+MISC--: course my personal impressions may biased
+CONT--: perhaps there no widespread acceptance admiration obscure nonsensical use mathematics social sciences humanities if there perhaps just widespread areas like technology natural sciences where everyone learns how use mathematics
+MISC--: order obtain some hard evidence i conducted experiment
+MISC--: brief i recruited participants research experience varying disciplines
+MISC--: participants were presented two abstracts published papers good journals asked judge quality research presented abstracts
+OWNX--: one two abstracts randomly chosen was manipulated addition extra sentence
+OWNX--: this sentence was taken completely unrelated paper presented equation made no sense context

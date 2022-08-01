@@ -1,0 +1,32 @@
+OWNX--: we consider task opportunistic channel access primary system composed independent gilbert elliot channels where secondary opportunistic user does not dispose priori information regarding statistical characteristics system
+OWNX--: shown this problem may cast into framework model based learning specific class partially observed markov decision processes pomdps we introduce algorithm aimed at striking optimal tradeoff between exploration estimation exploitation requirements
+OWNX--: we provide finite horizon regret bounds this algorithm well numerical evaluation its performance single channel model well case stochastically identical channels
+MISC--: recent years opportunistic spectrum access cognitive radio been focus significant research efforts citation
+MISC--: works propose improve spectral efficiency making smarter use large portion frequency bands remains unused
+MISC--: licensed band cognitive radio goal share bands licensed primary users non primary users called secondary users cognitive users
+MISC--: secondary users must carefully sense primary users s presence adapt their own transmission identify available spectrum resources communicate avoiding disturb primary network
+MISC--: opportunistic spectrum access thus potential significantly increasing spectral efficiency wireless networks
+AIMX--: this paper we focus opportunistic communication model previously considered citation consists symbol channels single secondary user searches idle channels temporarily unused primary users
+OWNX--: symbol channels modeled gilbert elliot channels at each time slot channel either idle occupied availability channel evolves markovian way
+OWNX--: assuming secondary user only sense symbol channels simultaneously citation his main task choose channel sense at each time aiming maximise its expected long term transmission efficiency
+MISC--: under this model channel allocation may interpreted planning task particular class partially observed markov decision process pomdp also called restless bandits citation
+MISC--: works citation assumed statistical information about primary users traffic fully available secondary user
+MISC--: practice however statistical characteristics traffic i e transition probabilities availabilty each channel not fixed priori must somehow estimated secondary user
+OWNX--: secondary user selects channels sense we not faced simple parameter estimation problem but task closer reinforcement learning citation
+OWNX--: we consider scenarios secondary user first carries out exploration phase statistical information regarding model gathered then follows exploitation phase where optimal sensing policy based estimated parameters applied
+MISC--: key issue reach proper balance between exploration exploitation
+MISC--: this issue been considered before citation who proposed asymptotic rule set length exploration phase but without precise evaluation performance this approach
+BASE--: lai et al citation also considered this problem multiple secondary users case but simpler model where each channel modeled independent identically distributed source
+MISC--: field reinforcement learning this class problems known model based reinforcement learning several approaches been proposed recently citation
+CONT--: however none directly applies channel allocation model state channels only partially observed
+OWNX--: our contribution consists proposing strategy termed tiling algorithm adaptively setting length exploration phase
+OWNX--: under this strategy length exploration phase not fixed beforehand exploration phase terminated soon we accumulated enough statistical evidence determine optimal sensing policy
+OWNX--: distinctive feature this approach comes strong performance guarantees form finite horizon regret bounds
+MISC--: sake clarity this strategy described general abstract framework parametric pomdps
+MISC--: remark channel access model corresponds specific example pomdp parameterized transition probabilities availability each channel
+CONT--: approach relies restrictive assumption each possible parameter value solution planning problem fully known not applicable pomdps at large but well suited case channel allocation model
+OWNX--: we provide detailed account use approach two simple instances opportunistic channel access model including case stochastically identical channels considered citation
+MISC--: article organized follows
+OWNX--: channel allocation model formally described section
+MISC--: section tiling algorithm presented its performance terms finite horizon regret bounds obtained
+OWNX--: application opportunistic channel access detailed section both one channel model case stochastically identical channels

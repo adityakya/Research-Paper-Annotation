@@ -1,0 +1,51 @@
+OWNX--: compelling behavioral evidence suggests humans make optimal decisions despite uncertainty inherent perceptual motor tasks
+MISC--: key question neuroscience how populations spiking neurons implement probabilistic computations
+OWNX--: this article we develop comprehensive framework optimal spike based sensory integration working memory dynamic environment
+OWNX--: we propose probability distributions inferred spike per spike recurrently connected networks integrate fire neurons
+MISC--: result networks combine sensory cues optimally track state time varying stimulus memorize accumulated evidence over periods much longer than time constant single neurons
+OWNX--: importantly we propose population responses persistent working memory states represent entire probability distributions not only single stimulus values
+MISC--: memories reflected sustained asynchronous patterns activity make relevant information available downstream neurons within their short time window integration
+MISC--: model neurons act predictive encoders only firing spikes account new information not yet been signaled
+MISC--: thus spike times signal deterministically prediction error contrary rate codes spike times considered random samples underlying firing rate
+MISC--: consequence this coding scheme multitude spike patterns reliably encode same information
+OWNX--: this results weakly correlated poisson like spike trains sensitive initial conditions but robust even high levels external neural noise
+MISC--: this spike train variability reproduces one observed cortical sensory spike trains but cannot equated noise
+MISC--: contrary consequence optimal spike based inference
+OWNX--: contrast we show rate based models perform poorly when implemented stochastically spiking neurons
+MISC--: our senses furnish us information about external world ambiguous corrupted noise
+OWNX--: taking this uncertainty into account crucial successful interaction our environment
+MISC--: psychophysical studies shown animals humans behave optimal bayesian observers i e they integrate noisy sensory cues their own predictions prior beliefs order maximize expected outcome their actions citation citation citation citation
+MISC--: several theoretical investigations explored neural mechanisms could underly probabilistic computations citation citation citation citation citation citation
+MISC--: cortical areas sensory motor variables encoded joint activity populations spiking neurons citation citation whose activity highly variable weakly correlated citation citation
+MISC--: timing individual spikes unreliable while spike counts approximately poisson distributed citation
+MISC--: characteristics inspired rate based models encode probability distributions their average firing rates spike count covariances
+MISC--: previous studies examined analytically empirically how this information encoded population code citation citation citation citation citation citation citation citation how decoded citation citation citation citation citation citation citation citation how population codes combined optimally citation citation
+OWNX--: particular optimal cue combination reduces simple linear combination neural activities broad family neural variability including poisson gaussian noise citation
+CONT--: however most studies neglect crucial dimension perception time
+MISC--: most sensory stimuli vary dynamically natural environment requires sensory representations constructed integrated combined line citation citation
+MISC--: perceptual inference thus cannot based rates spike counts measured during fixed temporal window used most previous population coding frameworks
+CONT--: at same time reliable decisions typically require integration sensory evidence over hundreds milliseconds citation citation largely exceeds integrative time constant single neurons
+MISC--: unclear how leaky devices could compute sums spike counts typical time scale perceptual motor tasks
+MISC--: problem even more crucial if decision delayed compared presentation sensory information
+MISC--: sensory variables direction motion stimulus retained working memory significant periods time even absence sensory input
+MISC--: neural correlates this working memory appear persistent neural activity parietal frontal brain areas exhibit firing statistics similar those found sensory responses citation citation citation
+MISC--: this persistent activity been modeled stable state recurrent neural network dynamics citation
+MISC--: however attractors correspond stereotyped patterns activity only represent single stimulus value
+MISC--: example memorized position object encoded position stable bump activity citation citation
+MISC--: this would imply though information about reliability memorized cue lost cannot used delayed cue combination decision making
+OWNX--: we hypothesize instead stimuli memorized same format sensory input i e probability distribution
+MISC--: question how probability distributions memorized population neurons remains largely unanswered
+OWNX--: here we approach issues using new interpretation population coding context temporal sensory integration
+OWNX--: we consider spikes rather than rates basic unit probabilistic representation
+AIMX--: we show how recurrent networks leaky integrate fire neurons construct combine memorize probability distributions dynamic sensory variables
+OWNX--: spike generation neurons results competition between integration evidence feed forward sensory inputs prediction lateral connections
+MISC--: neuron therefore acts predictive encoder only spiking if its input cannot predicted its own its neighbors past activity
+OWNX--: we demonstrate networks integrate combine sensory inputs optimally i e without losing information track stimulus dynamics spike per spike even absence sensory input over timescales much longer than neural time constants
+OWNX--: this framework thus provides first comprehensive theory optimal spike based sensory integration working memory
+MISC--: contrast rate models implemented poisson spiking neurons this model does not require large levels redundancy compensate noise added stochastic spike generation
+OWNX--: similar cortical sensory neurons model neurons respond sustained asynchronous spiking activity
+MISC--: spike times variable uncorrelated despite deterministic spike generation rule
+MISC--: however contrast rate codes each spike counts
+OWNX--: trial trial variability spike trains does not reflect intrinsic source noise requires averaging but consequence predictive coding
+OWNX--: while spike times unpredictable at level single neuron they deterministically represent probability distribution at level population
+OWNX--: this leads us reinterpret notions signal noise cortical neural responses

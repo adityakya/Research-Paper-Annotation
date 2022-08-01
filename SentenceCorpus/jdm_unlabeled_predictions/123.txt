@@ -1,0 +1,25 @@
+OWNX--: background domain specific risk taking scale dospert widely used instrument measures perceived risk benefit attitude toward risk activities several domains but does not include medical risks
+MISC--: objective develop medical risk domain subscale dospert
+OWNX--: methods sixteen candidate risk items were developed through expert discussion
+AIMX--: we conducted cognitive telephone interviews online survey random digit dialing rdd telephone survey reduce refine scale explore its factor structure obtain estimates reliability
+MISC--: participants eight patients recruited uic medical center waiting rooms participated number number minute cognitive interviews
+MISC--: thirty amazon mechanical turk workers completed online survey
+MISC--: one hundred chicago area residents completed rdd telephone survey
+OWNX--: results basis cognitive interviews we eliminated five items due poor variance participant misunderstanding
+OWNX--: online survey suggested two additional items were negatively correlated scale we considered them candidates removal
+MISC--: factor analysis responses rdd telephone survey non statistical factors led us recommend final set number items represent medical risk domain
+MISC--: final set items included blood donation kidney donation daily medication use allergies knee replacement surgery general anesthesia dentistry clinical trial participation
+MISC--: interitem reliability cronbach s alpha final set number items ranged number number number number depending response task
+OWNX--: older respondents gave lower overall ratings expected benefit activities
+OWNX--: conclusion we refined set items measure risk benefit perceptions medical activities
+MISC--: our next step will add items complete dospert scale confirm scale s psychometric properties determine whether medical risks constitute psychologically distinct domain other risky activities characterize individual differences medical risk attitudes
+MISC--: perceptions risk benefit preference risk important constructs decision making under uncertainty
+MISC--: dospert widely used instrument measures conventional risk attitudes likelihood engaging activities defined objectively risky perceived risk attitudes likelihood engaging activities perceived risky respondent under assumption constructs may differ domain risk citation
+MISC--: dospert encompasses six risk domains ethical gambling health safety investing recreational social risk taking
+MISC--: each domain risk perception benefit perception risk attitude measured using number point category rating scale responses six items per domain
+MISC--: notably although dospert one very few measures recommended use assessing risks health related clinical decisions recent review citation only measure extensive psychometric evidence measures risk perception benefit perception risk attitude dospert s health safety scale focuses preventive safety behaviors wearing seatbelt does not include items sample types risk activities commonly encountered health care settings
+MISC--: example young et al citation found no differences dospert health safety subscale among potential living kidney donors potential recipients transplant specialists despite marked differences their expressed tolerance donation related health risks
+MISC--: blais weber two dospert developers also reported dospert health safety scale may require revision appears primarily measure variance also associated ethical domain perhaps because several health safety items reflect socially proscribed behaviors unprotected sex heavy drinking citation
+AIMX--: goal this study was develop six item add dospert subscale designed measure attitudes toward risky medical activities
+BASE--: this manuscript reports our work developing subscale obtaining initial psychometric results subscale itself through three studies cognitive interviews online pilot survey random digit dialing telephone survey
+MISC--: studies incorporate what been termed substantive validity structural validity phases scale development citation

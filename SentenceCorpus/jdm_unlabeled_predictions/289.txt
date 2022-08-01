@@ -1,0 +1,35 @@
+MISC--: recent years numerous studies comparing intuition deliberation been published
+MISC--: however relatively little known about cognitive processes underlying two decision modes
+OWNX--: two studies we analyzed effects decision mode instructions processes information search integration using eye tracking technology between participants study number within participants study number design
+OWNX--: our findings indicate instruction deliberate does not necessarily lead qualitatively different information processing compared instruction decide intuitively
+OWNX--: we found no difference mean fixation duration distribution short medium long fixations
+OWNX--: short fixations particular prevailed under both decision mode instructions while long fixations indicating conscious calculation based information processing were rarely observed
+MISC--: instruction induced deliberation led higher number fixations more complete information search more repeated information inspections
+OWNX--: we interpret our findings support hypothesis intuitive deliberate decision modes share same basic processes supplemented additional operations deliberate decision mode
+MISC--: according commonly held assumptions individuals sometimes make decisions deliberately sometimes rely their intuition gut feeling
+MISC--: although distinction between two types information processing now widely accepted judgment decision making jdm research citation relatively little known about cognitive affective processes underlie them
+MISC--: different models rely automatic processes might considered account intuition see glockner witteman press overview
+MISC--: models range mainly cognitive evidence accumulation citation sampling citation network models citation more affect based approaches citation
+MISC--: furthermore many theories concern interplay between intuitive deliberate processes
+MISC--: long tradition dual process models postulates clear distinction between intuition deliberation
+MISC--: kahneman frederick citation pointed out dual process models come many flavors but all distinguish cognitive operations quick associative others slow rule governed
+MISC--: despite apparent consensus regarding basic properties intuition deliberation dual process framework been criticized being not sufficiently specified citation
+MISC--: second crucial critique concerns fact evidence dual process theories predominantly based outcome measures while cognitive processes underlying intuition deliberation were mainly neglected citation
+OWNX--: furthermore theorizing dual process theories inconsistent wealth models hard summarize according simple criteria
+MISC--: one suggestion categorizing dual process models into three classes according interplay two decision modes was made evans citation
+MISC--: first class so called pre emptive theories characterized initial selection between two rather distinct kinds processes
+MISC--: instance mode selection models might subsumed under this class citation
+MISC--: second class theories denoted parallel competitive postulates parallel activation both processing modes kind competition among them might result conflicting responses
+MISC--: this assumption most strongly advocated sloman citation other authors hold this view well citation present consistent evidence citation
+MISC--: third class theories so called default interventionist models citation state intuitive processes always activated first default mode deliberate processes may intervene upon intuitive processes
+MISC--: evans citation instance assumes heuristic processes generate default responses analytic processes might intervene scrutinize potentially correct initial response
+MISC--: similar vein network models argue automatic processes build basis every decision only supplemented deliberate processes if necessary citation
+MISC--: number hammond hamm grassia pearson had already suggested intuition deliberation not completely distinct categories cognitive processes between people switch
+MISC--: rather they seen poles cognitive continuum task factors influence how far one moves toward one other pole
+OWNX--: present paper we used eye tracking technology analyze fine grained level how instruction decide intuitively deliberately affects information search integration
+OWNX--: specifically we tested whether decision mode instructions induce qualitatively different information integration processes
+OWNX--: we try relate this at first glance methodological question theoretical issue dual processing models namely whether reasonable assume intuition deliberation distinct whether both might rely similar basic processes just supplemented additional processing steps
+OWNX--: we proceed follows first we discuss dual process theories special focus whether they postulate more distinct more integrated processes
+OWNX--: second we describe probabilistic inference tasks discuss related cue weighting schemes
+OWNX--: third we introduce core eye tracking measure single fixation duration used investigate qualitative differences information processing
+OWNX--: fourth we derive hypotheses both distinct integrated processes perspective

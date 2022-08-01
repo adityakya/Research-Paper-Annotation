@@ -1,0 +1,46 @@
+MISC--: approach classification problem machine learning based building local classification rules developed
+OWNX--: local rules considered projections global classification rules event we want classify
+OWNX--: massive global optimization algorithm used optimization quality criterion
+OWNX--: algorithm polynomial complexity typical case used find all high quality local rules
+OWNX--: other distinctive feature algorithm integration attributes levels selection ordered attributes rules searching original conflicting rules resolution strategy
+MISC--: algorithm practical was tested number data sets uci repository comparison other predicting techniques presented
+MISC--: extraction structural information raw data problem great interest both fundamental applied studies
+OWNX--: this paper will focus one specific example this problem classification
+MISC--: goal predict class particular event
+MISC--: this problem was approached number different disciplines including statistical data analysis citation machine learning citation fuzzy logic citation operations research citation data mining citation
+MISC--: result variety learning techniques was developed
+MISC--: result learning represented number different forms
+OWNX--: form we interested working set rules
+MISC--: should stressed some other forms decision trees fuzzy models many others equivalent set rules
+MISC--: set rules any other form equivalent often preferred form knowledge representation because allows simple answer question what was learned
+OWNX--: this specific set rules was learned data
+OWNX--: algorithm produces only answer often impossible understand what was really learned why this specific answer was produced two mentioned knowledge representations differ follows case result rule learned knowledge represented language richer than one used describe dataset case result value learned knowledge represented same language one used describe dataset citation model based techniques developed citation take training data input produce set rules statements equivalent rules classify any event
+OWNX--: lazy instance based techniques developed citation return result tailored specific event we want classify
+MISC--: techniques events similar given one usually found first then prediction based found instances made
+MISC--: interesting attempt combine model based lazy instance based learning was presented citation
+MISC--: citation greedy lazy model based approach classification was developed result was rule tailored specific observation
+MISC--: while approach gives simple rule answer often much easier understand than complex rules set often works faster classification single event every greedy algorithm not guaranteed find best rule because algorithm may not reach global maximum quality criterion sub optimal rule may returned
+MISC--: work citation approach based brute force rule space scanning was developed
+OWNX--: was used finding nuggets knowledge data each nugget rule high degree correctness
+MISC--: contrast greedy type algorithms massive search algorithms guaranteed find best rule s
+AIMX--: our early work citation we presented approach combined massive model based rule search approach lazy instance based learning
+OWNX--: work we were also interested nuggets knowledge but only those were applicable instance we wanted classify
+OWNX--: result was set rules were applicable classification given event
+MISC--: one may think about rules projection global classification rules set given instance event
+AIMX--: current paper this approach taken next level practical algorithm applicable variety problems presented
+MISC--: number significant improvements been made since early version
+OWNX--: current algorithm includes following new features
+MISC--: highly optimized rule space scanning allows problems significant number attributes solved
+MISC--: integration levels selection procedure ordered continuous literal attributes rule search algorithm
+MISC--: information about dependent attributes directly included into tree search algorithm thus significantly reducing computational complexity
+MISC--: original conflicting rules resolution strategy was especially built work automatically generated rules
+MISC--: create practical algorithm three aspects logical statistical computational complexity need addressed
+OWNX--: section we formulate problem discuss logical formulas represent rules we interested finding
+OWNX--: section we discuss statistical quality criterion used evaluation rule quality specify criteria we use this work
+OWNX--: we also present conflicting rules resolution strategy automatically generated rules
+OWNX--: at end section sketch algorithm presented
+OWNX--: section we discuss selection attributes analysis should stressed some attributes they built section not independent this fact known advance
+OWNX--: section we discuss computational complexity issues approach includes information about dependence attributes into algorithm proposed
+OWNX--: section we discuss error estimation
+OWNX--: section we present data analysis results compare our results results c r citation
+OWNX--: section discussion presented

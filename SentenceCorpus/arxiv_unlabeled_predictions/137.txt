@@ -1,0 +1,30 @@
+MISC--: algorithm selection typically based models algorithm performance learned during separate offline training sequence prohibitively expensive
+AIMX--: recent work we adopted online approach performance model iteratively updated used guide selection sequence problem instances
+OWNX--: resulting exploration exploitation trade off was represented bandit problem expert advice using existing solver this game but this required setting arbitrary bound algorithm runtimes thus invalidating optimal regret solver
+AIMX--: this paper we propose simpler framework representing algorithm selection bandit problem partial information unknown bound losses
+OWNX--: we adapt existing solver this game proving bound its expected regret holds also resulting algorithm selection technique
+OWNX--: we present preliminary experiments set sat solvers mixed sat unsat benchmark
+MISC--: decades research fields machine learning artificial intelligence brought us variety alternative algorithms solving many kinds problems
+MISC--: algorithms often display variability performance quality computational cost depending particular problem instance being solved other words there no single best algorithm
+MISC--: while trial error approach still most popular attempts automate algorithm selection not new citation grown form consistent dynamic field research area meta learning citation
+MISC--: many selection methods follow offline learning scheme availability large training set performance data different algorithms assumed
+OWNX--: this data used learn model maps problem algorithm pairs expected performance some probability distribution performance
+OWNX--: model later used select run each new problem instance only algorithm expected give best results
+MISC--: while this approach might sound reasonable actually ignores computational cost initial training phase collecting representative sample performance data done via solving set training problem instances each instance solved repeatedly at least once each available algorithms more if algorithms randomized
+OWNX--: furthermore training instances assumed representative future ones model not updated after training
+MISC--: other words there obvious trade off between exploration algorithm performances different problem instances aimed at learning model exploitation best algorithm problem combinations based model s predictions
+MISC--: this trade off typically ignored offline algorithm selection size training set chosen heuristically
+BASE--: our previous work citation we kept online view algorithm selection only input available meta learner set algorithms unknown performance sequence problem instances solved
+AIMX--: rather than artificially subdividing problem set into training test set we iteratively update model each time instance solved use guide algorithm selection next instance
+MISC--: bandit problems citation offer solid theoretical framework dealing exploration exploitation trade off online setting
+MISC--: one important obstacle straightforward application bandit problem solver algorithm selection most existing solvers assume bound losses available beforehand
+OWNX--: citation we dealt this issue heuristically fixing bound advance
+AIMX--: this paper we introduce modification existing bandit problem solver citation allows deal unknown bound losses while retaining bound expected regret
+MISC--: this allows us propose simpler version algorithm selection framework gambleta originally introduced citation
+OWNX--: result parameterless online algorithm selection method first our knowledge provable upper bound regret
+AIMX--: rest paper organized follows
+MISC--: section describes tentative taxonomy algorithm selection methods along few examples literature
+OWNX--: section presents our framework representing algorithm selection bandit problem discussing introduction higher level selection among different algorithm selection techniques time allocators
+OWNX--: section introduces modified bandit problem solver unbounded loss games along its bound regret
+OWNX--: section describes experiments sat solvers
+OWNX--: section concludes paper

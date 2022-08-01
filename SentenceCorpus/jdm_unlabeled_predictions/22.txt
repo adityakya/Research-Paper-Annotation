@@ -1,0 +1,18 @@
+CONT--: many controversies medical science framed tension between coherence approach seeks logic explanation correspondence approach emphasizes empirical correctness
+MISC--: many instances coherence based theory leads understanding disease not supported empirical evidence
+MISC--: physicians patients alike tend favor coherence approach even face strong contradictory correspondence evidence
+CONT--: examples include management atrial fibrillation treatment acute bronchitis use vitamin e prevent heart disease
+MISC--: despite frequent occurrence controversy stemming coherence correspondence conflicts medical professionals generally unaware terms philosophical traditions underlie them
+MISC--: learning about coherence correspondence distinction using best both approaches could not only help reconcile controversy but also lead striking advances medical science
+MISC--: theories truth been debated since time aristotle
+MISC--: more recently twentieth century philosophical discussion focused distinction between coherence correspondence theories truth citation
+MISC--: coherence approach seeks logic explanation often through application scientific theory
+MISC--: correspondence approach ignores theory favor empirical correctness
+MISC--: example quality weather forecast predicting rain might judged either regard state art forecast model coherence whether actually rained correspondence
+MISC--: hammond citation argued concepts coherence correspondence necessary understanding organizing research findings field judgment decision making
+MISC--: likewise i argue they necessary understand conflicts medicine
+MISC--: although concepts provide foundation medical research terms coherence correspondence virtually unknown medical investigators physicians alike
+MISC--: distinction between science making logical sense coherence being empirically correct correspondence seldom appears medical literature
+CONT--: this paper examines number medical controversies using framework coherence correspondence hypothesizes failure appreciate differences between coherence correspondence underlying cause controversies
+MISC--: furthermore reframing disagreement terms two different but equally useful approaches may reduce eliminate controversies
+AIMX--: several illustrations medical controversies show both tension between approaches well explicit lack awareness concepts

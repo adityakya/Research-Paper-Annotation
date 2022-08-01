@@ -1,0 +1,55 @@
+MISC--: key factor endemic epidemic dynamics geographical distribution viruses been frequently interpreted light their genetic histories
+MISC--: unfortunately inference historical dispersal migration patterns viruses mainly been restricted model free heuristic approaches provide little insight into temporal setting spatial dynamics
+MISC--: introduction probabilistic models evolution however offers unique opportunities engage this statistical endeavor
+OWNX--: here we introduce bayesian framework inference visualization hypothesis testing phylogeographic history
+OWNX--: implementing character mapping bayesian software samples time scaled phylogenies we enable reconstruction timed viral dispersal patterns while accommodating phylogenetic uncertainty
+MISC--: standard markov model inference extended stochastic search variable selection procedure identifies parsimonious descriptions diffusion process
+OWNX--: addition we propose priors incorporate geographical sampling distributions characterize alternative hypotheses about spatial dynamics
+OWNX--: visualize spatial temporal information we summarize inferences using virtual globe software
+AIMX--: we describe how bayesian phylogeography compares previous parsimony analysis investigation influenza h n origin h n epidemiological linkage among sampling localities
+MISC--: analysis rabies west african dog populations reveals how virus diffusion may enable endemic maintenance through continuous epidemic cycles
+OWNX--: analyses we conclude our phylogeographic framework will make important asset molecular epidemiology easily generalized infer biogeogeography genetic data many organisms
+OWNX--: phylogenetic inference molecular sequences becoming increasingly popular tool trace patterns pathogen dispersal
+MISC--: time scale epidemic spread usually provides ample time rapidly evolving viruses accumulate informative mutations their genomes citation
+MISC--: consequence spatial diffusion among other processes leave measurable footprint sampled gene sequences viruses citation
+MISC--: reconstructing both evolutionary history spatial process sequences provides fundamental understanding evolutionary dynamics underlying epidemics e g citation citation
+MISC--: also hoped insights translated effective intervention prevention strategies citation elucidating key factors viral transmission gene flow over larger distances central formulating strategies e g citation
+MISC--: phylogeographic analyses common approach molecular ecology connecting historical processes evolution spatial distributions traditionally scale over millions years citation
+MISC--: many popular phylogeographic approaches citation citation remiss ignoring interaction between evolutionary processes spatial temporal domains
+MISC--: one first reconstructs phylogeny omitting spatial information then conditions phylogeographic inferences this reconstruction citation citation exploiting non parametric tests evaluate significance this conditional structure e g citation citation citation
+OWNX--: draw conclusions about epidemic origin epidemiological linkage between locations however we require reconstruction dispersal patterns process throughout evolutionary history
+MISC--: considering locations discrete states this boils down well known problem ancestral state inference citation
+MISC--: parsimony popular heuristic approach map characters onto single phylogenetic tree citation
+MISC--: unfortunately parsimony reconstructions ignore important sources model uncertainty including both uncertainty dispersal process well unknown phylogeny citation
+MISC--: addition minimizing number state exchanges over phylogeny misleading when rates evolution rapid when state exchange probabilities unequal citation
+MISC--: probabilistic methods draw explicit model state evolution permitting ability glimpse complete state history over entire phylogeny conveniently draw statistical inferences citation citation
+MISC--: analyses typically employ continuous time markov chain models discrete state evolution analogous common nucleotide codon amino acid substitution models citation
+MISC--: contrast parsimony maximum likelihood based reconstructions incorporate branch length differences calculating conditional probability each ancestral state given observed states at phylogeny tips citation
+MISC--: bayesian reconstruction methods enable further generalization this conditional probability analysis removing necessity fix markov model parameters obtain ancestral states necessity specify fixed tree topology known branch lengths
+OWNX--: bayesian inference integrates conclusions over all possible parameter values but achieve this however requires prior probability distributions all aspects model
+MISC--: while probabilistic methods been previously presented bio phylogeographic context particular bayesian methods integrate over phylogenetic uncertainty markov model parameter uncertainty citation viral phylogeography studies rarely made use developments
+MISC--: this may consequence low awareness existing software implementations arbitrary continuous time markov chain models citation citation lack appreciation uncertainty intrinsic reconstructions ease one formally access epidemiological linkage through probabilistic approaches
+MISC--: recent phylogeographic study influenza h n introduces heuristic non parametric test evaluate whether parsimony inferred migration events between two particular locations occur at significantly high frequency citation
+MISC--: null distributions frequencies arise randomizing tip localities after false discovery rate correction control simultaneous testing issues
+OWNX--: although this procedure addresses concerns about statistical inference sparse frequency matrices multiple comparison correction still results conservative estimate significant migration events
+MISC--: fully probabilistic approaches may further ease statistical inference yet similar tests remain lacking likelihood based phylogeographic models
+MISC--: advances evolutionary inference methodology frequently demonstrated how novel approaches appended sequence analyses many cases starting alignment parameter estimation conditional tree reconstructions
+MISC--: example demographic inference involved genealogy reconstruction estimating time scale evolutionary history coalescent theory quantify demographic impact this tree shape citation
+MISC--: well acknowledged sequential procedures ignore important sources uncertainty because they generally purge error associated each intermediate estimate
+MISC--: advent novel computational techniques like markov chain monte carlo sampling become feasible integrate many models involved simultaneously estimate parameters interest
+MISC--: demographic inference well known example genealogy based population genetics benefited advances citation citation
+MISC--: bayesian mcmc methods also enable ancestral state reconstruction while simultaneously accounting both phylogenetic mapping uncertainty
+MISC--: although this adds much needed credibility ancestral reconstruction citation phylogeographic analysis would benefit even more fully integrating spatial temporal demographic inference
+OWNX--: here we implement ancestral reconstruction discrete states bayesian statistical framework evolutionary hypothesis testing geared towards rooted time measured phylogenies
+MISC--: this allows character mapping natural time scales calibrated under strict relaxed molecular clock combination several models population size change
+AIMX--: we use this full probabilistic approach study viral phylogeography extend bayesian implementation mixture model exchange rates markov model allowed zero some probability
+MISC--: this bayesian stochastic search variable selection enables us construct bayes factor test identifies most parsimonious description phylogeographic diffusion process
+OWNX--: we also demonstrate how geographical distribution sampling locations incorporated prior specifications
+OWNX--: through feature rich visual summaries space time process we demonstrate how this approach offer insights into spatial epidemic history avian influenza h n rabies viruses africa
+MISC--: highly pathogenic avian influenza h n viruses been present over decade southern china spread multiple waves different types poultry countries across asia africa europe citation
+MISC--: result highly pathogenic h n now panzootic disease represents continuous threat human spill over
+MISC--: strong surveillance been place since viruses caused extensive outbreaks but source early dissemination pathways remained uncertain
+MISC--: because parsimony analysis attempted shed light latter citation h n provides ideal example comparison bayesian phylogeographic inference
+MISC--: rabies endemic asia africa where primary reservoir vector rabies virus domestic dog
+MISC--: phylogenetic analysis revealed several genotypes lyssaviruses genotype been found responsible classical rabies fatal disease terrestrial mammals throughout world citation citation
+MISC--: here we explore phylogeographic history rabv domestic dogs west central africa using recently obtained sequence data evaluate role viral dispersal maintaining rabv epidemic cycles

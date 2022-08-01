@@ -1,0 +1,57 @@
+CONT--: clusters genes evolved repeated segmental duplication present difficult challenges throughout genomic analysis sequence assembly functional analysis
+MISC--: improved understanding clusters utmost importance since they been shown source evolutionary innovation been linked multiple diseases including hiv variety cancers
+CONT--: previously zhang etal developed algorithm reconstructing parsimonious evolutionary histories gene clusters using only human genomic sequence data
+OWNX--: this paper we propose probabilistic model evolution gene clusters phylogeny mcmc algorithm reconstruction duplication histories genomic sequences multiple species
+OWNX--: several projects underway obtain high quality bac based assemblies duplicated clusters multiple species we anticipate our method will useful analyzing valuable new data sets
+MISC--: segmental duplications cover about human genome citation
+MISC--: when multiple segmental duplications occur at particular genomic locus they give rise complex gene clusters
+MISC--: many important gene families linked various diseases including cancers alzheimer s disease hiv reside clusters
+MISC--: gene duplication often followed functional diversification citation indeed genes overlapping segmental duplications been shown enriched positive selection citation
+OWNX--: this paper we describe probabilistic model evolution gene clusters phylogeny devise markov chain monte carlo sampling algorithm inference highly probable duplication histories ancestral sequences
+OWNX--: demonstrate usefulness our approach we apply our algorithm simulated sequences human chimp macaque phylogeny well real clusters assembled available bac sequencing data
+OWNX--: previously citation studied reconstruction gene family histories considering tandem duplications inversions only possible events
+MISC--: they also assume genes always copied whole unit
+MISC--: citation demonstrated more complex models needed address evolution gene clusters human genome
+MISC--: more recent work genes been replaced generic atomic segments citation substrates reconstruction algorithms
+MISC--: briefly self alignment constructed local alignment program e g blastz citation only alignments above certain threshold e g human macaque split kept
+MISC--: boundaries alignments mark breakpoints sequences between neighboring breakpoints considered atomic segments fig
+MISC--: due transitivity sequence similarity between atomic segments set atomic segments decomposed into equivalence classes atom types
+MISC--: thus nucleotide sequence transformed into simpler sequence atoms
+MISC--: task duplication history reconstruction find sequence evolutionary events e g duplications deletions speciations starts ancestral sequence atoms no atom type occurs twice ends atomic sequences extant species
+OWNX--: history also directly implies gene trees individual atomic types we call segment trees
+MISC--: trees implicitly rooted reconciled species tree this information easily used reconstruct ancestral sequences at speciation points segment segment see eg citation
+MISC--: common way looking at histories most recent events back time
+OWNX--: this context we start extant sequences unwind events one one until ancestral sequence reached
+MISC--: citation sought solutions this problems small number events given sequence single species
+MISC--: particular they proved necessary condition identify candidates latest duplication operation assuming no reuse breakpoints
+MISC--: after unwinding latest duplication same step repeated identify second latest duplication etc
+MISC--: zhang etal showed following any sequence candidate duplications leads history same number duplication events under no breakpoint reuse assumption
+MISC--: result there may exponential number most parsimonious solutions problem may impossible reconstruct unique history
+MISC--: similar parsimony problem also been recently explored citation context much larger sequences whole genomes broader set operations including inversions translocations etc
+MISC--: their algorithm ma etal reconstruct phylogenetic trees every atomic segment reconcile segment trees species tree infer deletions rooting
+OWNX--: authors give polynomial time algorithm history reconstruction assuming no breakpoint reuse correct atomic segment trees
+MISC--: both methods make use fairly extensive heuristics overcome violations their assumptions allow their algorithms applied real data
+MISC--: no breakpoint reuse assumption often justified argument long sequences unlikely same breakpoint used twice citation
+MISC--: however there evidence breakpoints do not occur uniformly throughout sequence breakpoint reuse frequent citation
+MISC--: moreover breakpoints located close each other may lead short atoms t reliably identified sequence similarity algorithms categorized into atom types
+OWNX--: example our simulated data section approximately atoms shorter than bp may appear additional breakpoint reuses instead
+MISC--: thus no breakpoint reuse useful guide but cannot entirely relied application real data sets
+OWNX--: we also examined assumption correctness segment trees inferred sequences individual segments fig
+AIMX--: segments shorter than bp all segments our simulations trees were incorrectly reconstructed even segments bp long substantial fraction incorrect this paper we present simple probabilistic model sequence evolution duplication we design sampling algorithm explicitly accounts uncertainty estimation segment trees allows breakpoint reuse
+MISC--: results citation suggest spite improved model there may still many solutions similar likelihood
+MISC--: stochastic sampling approach allows us examine multiple solutions same framework extract expectations quantities particular interest e g expected number events individual branches phylogeny local properties ancestral sequences
+OWNX--: addition using data multiple species our approach obtains additional information about ancestral configurations
+OWNX--: our problem closely related problem reconstruction gene trees their reconciliation species trees
+MISC--: recent algorithms gene tree reconstruction e g citation also consider genomic context individual genes
+CONT--: however our algorithms reconstruction duplication histories not only use context additional piece information but derived evolutionary histories also explain how similarities genomic context individual genes evolved
+BASE--: our current approach uses simple hky nucleotide substitution model citation variance rates allowed between individual atomic segments
+MISC--: however future work will possible employ more complex models sequence evolution variable rate site models models codon evolution within same framework
+OWNX--: extensions will allow us identify sites branches under selection gene clusters principled way contribute towards better functional characterization important genomic regions main
+OWNX--: bbl ustar root root main
+MISC--: tex ustar root root documentclass pt article usepackage dvips graphicx usepackage amssymb usepackage natbib usepackage headings fullpage pagestyle headings setlength textfloatsep mm minus pt def etal et al intro
+MISC--: tex methods
+MISC--: tex experiments
+MISC--: tex discussion
+OWNX--: tex paragraph acknowledgements we would like thank devin locke ladeana hillier at washington university st
+MISC--: louis providing us bac sequences chimp orangutan macaque
+OWNX--: we would also like thank webb miller yu zhang helpful discussions this problem bibliographystyle apalike bibliography dups end document methods

@@ -1,0 +1,68 @@
+MISC--: allais paradox common consequence effect been standard challenge normative theories risky choice since its proposal over number years ago
+CONT--: however neither its causes nor conditions necessary create effect well understood
+MISC--: two experiments test effects losses event splitting allais paradox
+MISC--: experiment number found allais paradox occurs both gain mixed gambles reflected loss gambles produced reflection across origin
+MISC--: experiment number found allais paradox eliminated splitting outcomes even when probabilities used do not increase salience common consequence
+MISC--: results experiment number consistent cumulative prospect theory current leading theory risky choice
+MISC--: however results experiment number problematic cumulative prospect theory suggest alternate explanations allais paradox must sought
+MISC--: when expected utility theory eu was first proposed citation was assumed eu was not only normative theory risky decision making but descriptive theory well
+BASE--: however quickly became apparent eu did not work descriptive theory risky choice
+MISC--: one first most famous challenges eu was presented allais number
+MISC--: suppose one given choice between following gambles decision makers allais proposed will generally choose safer certain gamble
+MISC--: however when asked choose between decision makers will generally chose riskier gamble
+MISC--: closer inspection reveals second set gambles obtained first removing common consequence number percent chance winning number million whose presence absence should no effect preference
+MISC--: thus subjects preference reversals nonnormative
+MISC--: allais paradox been demonstrated under many different conditions citation
+MISC--: real robust phenomenon at least when involves standard presentation large monetary gains
+MISC--: however literature results varying presentation paradox mixed
+MISC--: present experiments investigate two circumstances leading explanation allais paradox cumulative prospect theory cpt predicts allais common consequence effect should occur but effect not always previously been found
+MISC--: experiment number addresses issue allais paradox losses while experiment number investigates effects event splitting paradox
+MISC--: number explanations allais paradox been advanced
+MISC--: theories include fanning out theories explain paradox via shape indifference curves unit triangle citation expected cardinality specific utility theories speculate utility function varies number outcomes citation
+OWNX--: however present discussion i will concentrate two particular classes theories probability weighting theories configural weight theories
+MISC--: most common explanation paradox decision makers weight probabilities outcomes via p function overweights small values p underweights large values p original prospect theory citation
+OWNX--: first pair gambles when common consequence cc number million cc high gambles number percent greater chance winning safe gamble overweighted because falls very steep section p function near p number
+MISC--: decision makers thus drawn safe gamble
+MISC--: when common consequence changed number cc low gambles both number percent chance winning riskier gamble number percent chance winning safer gamble fall flat portion p function
+MISC--: difference between them seems small decision makers choose more valuable riskier gamble
+MISC--: under cumulative prospect theory citation p function not applied directly probability outcome but rather cumulative probabilities utility outcome multiplied pthe probability obtaining outcome at least good x minus pthe probability if outcome strictly better than x
+MISC--: thus weight given outcome depends not only probability utility outcome itself but also how good outcome relative other possible outcomes gamble
+MISC--: rather than using cumulative probabilities configural weight models citation directly weight outcome according its rank outcome set smallest outcomes given highest weight
+MISC--: weighting smaller outcomes more heavily than larger ones configural weight model captures intuition people more interested avoiding worst outcomes than they obtaining best outcomes
+MISC--: example transfer attentional exchange tax model citation each lower outcome taxes probability weight each higher outcome
+MISC--: tax model therefore explains allais paradox primarily via transfer probability weights three outcome cc high risky gamble highest outcome weighted less than its probability alone would suggest middle outcome weighted somewhat less lowest outcome more
+OWNX--: decision maker thus prefers safe gamble cc high pair single outcome gamble unaltered probability weight
+MISC--: cc low gambles both gambles two outcomes
+MISC--: thus probability weights undergo similar changes both gambles decision makers simply choose better higher paying risky gamble
+MISC--: although allais paradox been demonstrated wide variety monetary gains few studies used losses mixed gambles had conflicting results
+MISC--: camerer citation found reverse allais paradoxthat greater risk seeking cc high gambles than cc low gamblesfor losses obtained subtracting common amount all outcomes small magnitude gains gambles
+MISC--: neither probability weighting theories nor tax model predict reverse paradox under conditions
+MISC--: however birnbaum citation obtained allais paradox mixed gambles obtained same manner
+MISC--: three other studies found no paradox either losses similarly sized gains citation
+MISC--: thus literature conflicting existence allais paradox losses
+MISC--: moreover no studies i am aware examined effect reflecting paradox across origin rather than shifting
+MISC--: question allais paradox reflected loss gambles will addressed experiment number
+AIMX--: suppose we take standard allais paradox cc low gambles split each gambles into three outcomes instead two normatively split gambles identical standard ones
+OWNX--: because cpt incorporates rank outcome using cumulative probability two sets gambles also identical under cpt therefore predicts paradox should unaltered split
+MISC--: under original pt effects split depend whether decision maker chooses coalesce gambles during editing stage
+MISC--: if so split gambles should treated identically standard ones
+MISC--: if not split should serve increase desirability safe cc low gamble number percent number percent considered separately seem larger than number percent decrease risky cc low gamble thus eliminating paradox
+MISC--: under tax model split will also serve increase value safe cc low gamble outcomes highest payout lose less weight lowest outcome when split into two outcomes than when coalesced one outcome
+MISC--: at same time value cc low risky gamble decreases when split highest outcome loses more weight lowest outcome when lowest outcome split
+MISC--: thus tax model predicts split should reduce eliminate paradox
+MISC--: manipulation known event splitting citation
+MISC--: several studies found event splitting presentation formats constitute event splitting reduce violations eu allais paradox
+MISC--: citation although other studies failed find effect presentation format citation
+MISC--: extent event splitting disrupts something fundamental paradox unclear
+MISC--: possible simply makes common consequence more obvious separating out shared probability obtaining lowest outcome possibility could tested splitting gambles fashion does not make common consequence more apparent
+MISC--: birnbaum citation partially accomplished this examining effects splitting only one two cc low gambles
+CONT--: he found splitting only risky gamble makes common consequence most evident did not eliminate allais paradox while splitting only safe gamble did
+OWNX--: this result argues against suggestion event splitting makes common consequence more evident
+OWNX--: however splitting one two cc low gambles not other still means at least one outcomes easily comparable across gambles
+MISC--: effect splitting allais paradox cc low gambles so none outcomes may easily compared not known will examined experiment number
+OWNX--: all studies examined allais paradox losses event splitting past used simple choice technique subjects demonstrate paradox choosing risky cc high gamble safe cc low gamble
+MISC--: however what important about allais paradox not preference reversal itself but rather increase risk seeking when common consequence removed
+MISC--: set two single choice pairs detect shift risk preference only if presented gambles happen span shiftthat if shift causes decision maker prefer safe cc high gamble but risky cc low gamble
+OWNX--: decision maker who chose risky cc high gamble might well more risk seeking cc low gamblesand therefore experiencing paradoxbut unable demonstrate this using single choice technique
+MISC--: this limitation choice technique poses challenges experimenters if manipulation produces reduction number subjects making allais paradox pattern choices does actually indicate reduction common consequence effect risk preference merely been changed overall
+MISC--: one aim present experiments was examine effects sign event splitting paradox using matching technique more sensitive than choice technique used previous studies

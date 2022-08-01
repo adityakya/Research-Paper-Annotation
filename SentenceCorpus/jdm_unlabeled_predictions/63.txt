@@ -1,0 +1,25 @@
+MISC--: binary sequences characterized various features
+MISC--: two characteristics alternation rate run length repeatedly been shown influence judgments randomness
+MISC--: two characteristics however usually been investigated separately without controlling other feature
+OWNX--: because two features correlated but not identical seems critical analyze their unique impact well their interaction so understand more clearly what influences judgments randomness
+MISC--: this end two experiments perception binary sequences orthogonally manipulated alternation rate maximum run length i e length longest run within sequence
+MISC--: results show alternation rate consistently exerts unique effect judgments randomness but effect alternation rate contingent length longest run within sequence
+MISC--: effect maximum run length was found small less consistent
+MISC--: together findings extend prior randomness research integrating literature realms perception categorization prediction well showing unique joint effects alternation rate maximum run length judgments randomness
+MISC--: everyday life individuals often encounter binary sequences outcomes tossing coins gains losses gambles black red outcomes roulette wheels birth orders families ups downs stock market citation
+OWNX--: whether sequences perceived either random lawful patterned important implications both level cognitive processes e g categorizations inferences level behavioral manifestations e g following up streak
+MISC--: understanding how individuals form judgments randomness therefore critical
+MISC--: present manuscript contributes this goal investigating effects two critical features binary sequences length longest run alternation rate judgments randomness
+MISC--: imagine coin being tossed five times
+OWNX--: first coin comes up heads
+MISC--: then heads again
+MISC--: same true third fourth fifth toss resulting sequence five heads hhhhh
+MISC--: most individuals who perceive this sequence would judge non random because they evaluate randomness not based generating mechanism coin toss but resulting sequence outcomes hhhhh hthth citation
+OWNX--: understand how judgments randomness formed therefore important analyze features outcome sequences
+MISC--: two characteristics binary sequences outcomes alternation rate run length repeatedly been identified determining judgments randomness
+MISC--: usually however two characteristics been investigated separate lines research without controlling other
+MISC--: specifically research perception categorization randomness primarily focused alternation rate citation while neglecting run length
+MISC--: contrast research prediction randomness primarily focused run length citation while neglecting alternation rate
+OWNX--: because two features correlated but not identical we argue critical isolate separate effects two characteristics so understand more clearly what influences judgments randomness
+MISC--: here we offer evidence two characteristics may not only unique effects but effect one may contingent other
+OWNX--: particular we argue effect alternation rate contingent run length

@@ -1,0 +1,59 @@
+OWNX--: this paper addresses problem finding nearest neighbor one r nearest neighbors query object symbol database symbol objects
+OWNX--: contrast most existing approaches we only access hidden space objects live through similarity oracle
+OWNX--: oracle given two reference objects query object returns reference object closest query object
+OWNX--: oracle attempts model behavior human users capable making statements about similarity but not assigning meaningful numerical values distances between objects
+OWNX--: using oracle best we hope obtain every object symbol database sorted list other objects according their distance symbol
+OWNX--: we call position object symbol this list rank symbol respect symbol
+MISC--: difficulty searching using oracle depends non homogeneities underlying space
+OWNX--: we use two different characterizations underlying space capture this property
+OWNX--: first one rank distortion relates pairwise ranks average difference ranks w r t
+OWNX--: other objects more precise definition given section
+MISC--: second one combinatorial framework notion citation defines approximate triangle inequalities ranks more precise definition given section
+MISC--: roughly speaking defines multiplicative factor symbol triangle inequality ranks violated
+OWNX--: utilizing insights ideas we develop hierarchical search algorithm builds data structure allows us retrieve nearest neighbor high probability symbol questions
+OWNX--: learning requires asking symbol questions total we need store symbol bits total
+OWNX--: we also provide approximate nearest neighbor search algorithm
+AIMX--: finally we show lower bound symbol average number questions search phase randomized algorithms when answers all possible questions learning phase given
+OWNX--: we also introduce rank sensitive hash functions gives same hash value similar objects based rank value objects obtained similarity oracle
+OWNX--: one application rsh we demonstrate we retrieve one symbol nearest neighbor query point symbol evaluations hash function where symbol only depends symbol rank distortion
+OWNX--: consider situation where we want search navigate database but we do not know underlying relationships between objects
+CONT--: particular distances may difficult discern may not well defined
+MISC--: situations common objects where human perception may involved
+MISC--: collection pictures faces taken different angles distances illustration dataset
+MISC--: indeed distances between feature vectors might far similarity perceived humans
+OWNX--: notwithstanding either human assistance approximate classification we may able determine relative proximity object respect small number other objects
+MISC--: humans ability compare objects make statements about most similar ones though they probably not assign meaningful numerical value similarity
+MISC--: this led question how design search algorithms based binary similarity decisions type looks more like b than c
+OWNX--: more formally we aim design algorithm given query object eg face efficiently returns object similar object among objects database
+OWNX--: do so we access similarity oracle given two reference objects query object tell two reference objects most similar query object
+OWNX--: we measure performance all our algorithms terms number questions we need ask oracle
+OWNX--: we pre process database during learning phase use resulting answers facilitate search process
+OWNX--: we do not make assumption hidden space database objects live needs metric space
+MISC--: using this oracle one retrieve every object symbol database sorted list other objects according their distance symbol
+OWNX--: we call position object symbol this list rank symbol respect symbol denote symbol
+MISC--: clearly this relationship asymmetric i e symbol general
+MISC--: this setup raises several new questions issues any space described its ranks relationships
+OWNX--: how much does fact rank some object symbol w r t
+OWNX--: some other object symbol symbol rank symbol w r t
+OWNX--: symbol symbol tell us about rank symbol w r t
+MISC--: symbol
+OWNX--: this paper we introduce notion rank distortion see section rigorous definition
+MISC--: rank distortion captures how closely symbol related average symbol
+MISC--: framework introduced citation defines approximate triangle inequalities ranks another way capture relationships
+MISC--: those inequalities roughly tell us how transitive similarity relationship give us notion combinatorial disorder
+OWNX--: if we this information we use partial rank information estimate infer other ranks
+OWNX--: this paper we will first investigate case where we use characterization hidden space input our algorithms
+OWNX--: we develop randomized hierarchical scheme improves existing bounds nearest neighbor search based similarity oracle see section
+OWNX--: we also prove far we know first lower bound average number questions asked randomized nearest neighbor search this setup see section
+OWNX--: then section we ask what done if no characterization hidden space known therefore cannot used input algorithms
+OWNX--: case we cannot estimate limit ranks anymore if we partial rank information
+OWNX--: nevertheless we develop algorithms decompose space dissimilar objects likely get separated similar objects tendency stay together
+OWNX--: this generalizes notion randomized symbol symbol trees citation our setup
+OWNX--: building this intuition we introduce notion rank sensitive hashing rsh section
+OWNX--: similarly locality sensitive hashing we retrieve one symbol nearest neighbors query point very efficiently
+MISC--: hash function itself does not require any characterization subjacent space input
+OWNX--: however smallest value symbol we choose depends rank distortion
+OWNX--: general both criteria combinatorial disorder rank distortion we use characterize hidden space seem capture how homogeneous space
+MISC--: appears less homogeneous more difficult becomes search
+MISC--: particular if rank relationship very asymmetric some objects far every other object information contained about those objects ranks matrix very sparse hard capture
+OWNX--: we apply this idea rsh nn search but we believe this might useful other scenarios well

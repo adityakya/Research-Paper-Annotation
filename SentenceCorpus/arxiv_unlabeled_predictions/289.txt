@@ -1,0 +1,40 @@
+OWNX--: we introduce reduced rank hidden markov model rr hmm generalization hmms model smooth state evolution linear dynamical systems ldss well non log concave predictive distributions continuous observation hmms
+MISC--: rr hmms assume symbol dimensional latent state symbol discrete observations transition matrix rank symbol
+OWNX--: this implies dynamics evolve symbol dimensional subspace while shape set predictive distributions determined symbol
+CONT--: latent state belief represented symbol dimensional state vector inference carried out entirely symbol making rr hmms computationally efficient symbol state hmms yet more expressive
+MISC--: learn rr hmms we relax assumptions recently proposed spectral learning algorithm hmms citation apply learn symbol dimensional observable representations rank symbol rr hmms
+OWNX--: algorithm consistent free local optima we extend its performance guarantees cover rr hmm case
+OWNX--: we show how this algorithm used conjunction kernel density estimator efficiently model high dimensional multivariate continuous data
+OWNX--: we also relax assumption single observations sufficient disambiguate state extend algorithm accordingly
+CONT--: experiments synthetic data toy video well difficult robot vision modeling problem yield accurate models compare favorably standard alternatives simulation quality prediction capability
+MISC--: models stochastic discrete time dynamical systems important applications wide range fields
+MISC--: hidden markov models hmms citation gaussian linear dynamical systems ldss citation two examples latent variable models dynamical systems assume sequential data points noisy incomplete observations latent state evolves over time
+BASE--: hmms model this latent state discrete variable represent belief discrete distribution over states
+MISC--: ldss other hand model latent state set real valued variables restricted linear transition observation functions employ gaussian belief distribution
+MISC--: distributional assumptions hmms ldss also result important differences evolution their belief over time
+MISC--: discrete state hmms good modeling systems mutually exclusive states completely different observation signatures
+MISC--: joint predictive distribution over observations allowed non log concave when predicting simulating future leading what we call competitive inhibition between states see figure below example
+MISC--: competitive inhibition denotes ability model s predictive distribution place probability mass observations while disallowing mixtures those observations
+MISC--: conversely gaussian joint predictive distribution over observations ldss log concave thus does not exhibit competitive inhibition
+MISC--: however ldss naturally model smooth state evolution hmms particularly bad at
+OWNX--: dichotomy between two models hinders our ability compactly model systems exhibit both competitive inhibition smooth state evolution
+AIMX--: we present reduced rank hidden markov model rr hmm smoothly evolving dynamical model ability represent nonconvex predictive distributions relating discrete state continuous state models
+MISC--: hmms approximate smooth state evolution tiling state space very large number low observation variance discrete states specific transition structure
+MISC--: however inference learning model highly inefficient due large number parameters due fact existing hmm learning algorithms expectation maximization em citation prone local minima
+MISC--: rr hmms allow us reap many benefits large state space hmms without incurring associated inefficiency during inference learning
+OWNX--: indeed we show all inference operations rr hmm carried out low dimensional space where dynamics evolve decoupling their computational cost number hidden states
+MISC--: this makes rank symbol rr hmms any number states computationally efficient symbol state hmms but much more expressive
+MISC--: though rr hmm itself novel its low dimensional symbol representation related existing models predictive state representations psrs citation observable operator models ooms citation generalized hmms citation weighted automata citation well representation ldss learned using subspace identification citation
+MISC--: other related models algorithms discussed further section
+MISC--: learn rr hmms data we adapt recently proposed spectral learning algorithm hsu kakade zhang citation henceforth referred hkz learns observable representations hmms using matrix decomposition regression empirically estimated observation probability matrices past future observations
+MISC--: observable representation hmm allows us model sequences series operators without knowing underlying stochastic transition observation matrices
+MISC--: hkz algorithm free local optima asymptotically unbiased finite sample bound symbol error joint probability estimates resulting model
+CONT--: however original algorithm its bounds assume transition model full rank single observations informative about entire latent state i e symbol step observability
+OWNX--: we show how generalize hkz bounds low rank transition matrix case derive tighter bounds depend symbol instead symbol allowing us learn rank symbol rr hmms arbitrarily large symbol symbol time where symbol number samples
+OWNX--: we also describe test method circumventing symbol step observability condition combining observations make them more informative
+CONT--: version this learning algorithm learn general psrs citation though our error bounds don t yet generalize this case
+CONT--: experiments show our learning algorithm recover underlying rr hmm variety synthetic domains
+OWNX--: we also demonstrate rr hmms able compactly model smooth evolution competitive inhibition clock pendulum video well real world mobile robot vision data captured office building
+CONT--: robot vision data fact most real world multivariate time series data exhibits smoothly evolving dynamics requiring multimodal predictive beliefs rr hmms particularly suited
+OWNX--: we compare performance rr hmms ldss hmms simulation prediction tasks
+MISC--: proofs details regarding examples appendix

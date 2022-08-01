@@ -1,0 +1,64 @@
+MISC--: combination therapies often needed effective clinical outcomes management complex diseases but presently they generally based empirical clinical experience
+MISC--: here we suggest novel application search algorithms originally developed digital communication modified optimize combinations therapeutic interventions
+OWNX--: biological experiments measuring restoration decline age heart function exercise capacity drosophila melanogaster we found search algorithms correctly identified optimal combinations four drugs using only one third tests performed fully factorial search
+MISC--: experiments identifying combinations three doses up six drugs selective killing human cancer cells search algorithms resulted highly significant enrichment selective combinations compared random searches
+OWNX--: simulations using network model cell death we found search algorithms identified optimal combinations interventions percent tests compared percent equivalent random search
+MISC--: findings suggest modified search algorithms information theory potential enhance discovery novel therapeutic drug combinations
+MISC--: this report also helps frame biomedical problem will benefit interdisciplinary effort suggests general strategy its solution
+MISC--: problem combination therapy medical algorithmic aspects
+OWNX--: medically we still not able provide effective cures most chronic complex diseases main causes death disability nor we able address progressive age related decline human functional capacity
+MISC--: algorithmically when biological dysfunction involves complex biological networks therapeutic interventions multiple targets likely required
+MISC--: because effect drugs depends dose several doses need studied number possible combinations rises quickly
+MISC--: example many cancer chemotherapy regimens composed more drugs pool more than clinically used anticancer drugs exploring even larger combinations might justified citation
+OWNX--: if we were study all combinations out compounds at different doses we would possibilities
+OWNX--: this example shows problem requires qualitatively new approach rather than simply more efficient screening technology
+MISC--: combined drug interventions common therapeutic strategy complex diseases hypertension cancer
+MISC--: pointed out recently cancer therapy citation most therapies were initially developed effective single agents only later combined clinically
+AIMX--: possible approach exploration new therapeutic activities not present individual drugs based exhaustive study all possible combinations pairs compounds citation
+MISC--: this brute force approach detected many interesting novel pairs compounds citation but resulting exponential expansion number possibilities precludes comprehensive exploration larger combinations
+MISC--: several authors citation citation recently argued future combination therapy lies development accurate quantitative network models capture mechanistic interactions cellular organism physiology
+BASE--: fitzgerald et al citation acknowledge we do not yet know what models will look like systems biology research still data limited this purpose
+MISC--: indeed their recent review does not report any successful application this approach combination therapies
+OWNX--: here we suggest novel solution problem combination drug therapy making use search algorithms originally developed digital communication
+MISC--: when modified several key aspects search strategies used find more effective combined therapeutic interventions without need fully factorial experimental design
+MISC--: algorithms may also provide framework upon information system wide molecular data mechanistic computational networks models superimposed
+CONT--: understand motivation our work important consider even if simulations might play role intended use algorithms not entirely silico but partially vivo vitro using high throughput biological measurements organisms isolated cells respectively
+CONT--: this approach becomes increasingly relevant because high throughput measurement technology initially developed drug companies screening large libraries compounds multi well plate formats now more more available scientific community
+OWNX--: useful regard information processing our experimental systems parallel biological computations since algorithms we using indeed derived algorithms were implemented silico other scientific fields
+OWNX--: parallel measurements suitable multi well high throughput technology
+MISC--: there requirements regarding computational complexity algorithms limit choice suitable approaches
+MISC--: requirements discussed more detail results
+MISC--: both number operations computational costs unique vivo vitro algorithms should considered
+MISC--: algorithm design requires application appropriate structure data
+OWNX--: although there many options represent space possible drug combinations we used tree representation drug combinations nodes linking all possible additions one drug next level
+MISC--: individual drugs form base tree combinations maximum size at top
+OWNX--: when exploring drug combination tree going smaller larger combinations algorithms we suggest we giving more weight lower order drug interactions
+MISC--: this consistent data available adverse drug interactions reported mostly two drug combinations citation citation
+MISC--: estimating optimal size combination different problem examined detail discussion
+OWNX--: beneficial effect combination also due additive components multiple higher order effects
+MISC--: search algorithms we suggest derived sequential decoding algorithms
+MISC--: were chosen part because similarities among data trees searched biological decoding applications
+MISC--: sequential decoding algorithms used convolutional codes nearby nodes data tree related similarly different but partially overlapping combinations drugs
+OWNX--: another feature sequential algorithms fit our purposes use list based memory path taken reach each node
+OWNX--: we provide discussion detailed argument suggesting suitable algorithm should able integrate all available information state system obtained iterative measurements
+MISC--: integration should take place at every iteration within algorithm rather than being weighted average different methods applied separately
+MISC--: presence updated list guide each iteration provides our algorithms natural mean information integration
+AIMX--: both fully factorial dataset we show figure complex structure biological networks being reconstructed systems biology supports this expectation frequent non linearities phenotype measurements along data tree
+OWNX--: therefore we interested algorithms search within solution space presenting substantial non linearities
+MISC--: if relation among drugs combination were linear best algorithm would simply determine best dose single drug measurements use obtain best combination
+MISC--: if contrary non linearities were extreme use stochastic algorithms might preferable
+MISC--: stochastic algorithms cope multiple local minima solution space but they do so incorporating random element
+MISC--: this requires price terms computational cost performance stochastic algorithms therefore often not good more tailored algorithms citation citation
+MISC--: algorithms we suggest cope moderate variable non linearities going back previous nodes tree
+OWNX--: starting stack sequential algorithm was developed search optimal decoding field digital communications citation we describe test algorithms used search optimal combination sizeable number drugs testing only small subset all possible combinations
+MISC--: algorithms useful large combinations where collecting fully factorial datasets not feasible
+AIMX--: we present results obtained simulations computational model cell death experiments using two models complementary biological properties restoring decline age heart function exercise capacity drosophila melanogaster selective killing human cancer cells
+MISC--: first vivo experimental model advantage including complexity whole organism interventions while second vitro model potential markedly higher throughput testing
+MISC--: models also representative two different general types multi drug interventions one type aims at improving function while other based induction cell death selective disruption network function
+OWNX--: results suggest optimal near optimal combinations compounds found systems only small fraction number tests fully factorial design significantly higher efficacy than random searching
+MISC--: summary contributions this work
+MISC--: constructing novel problem statement search drug combinations using novel approach systems biology
+MISC--: collecting exhaustive experimental measurements sufficient solve problem conclusively
+MISC--: constructing computational method solve problem approximately fewer experimental measurements
+OWNX--: suggested algorithms modeled algorithms already used other fields while our main original contribution their novel application
+OWNX--: providing additional experiments support generality approach

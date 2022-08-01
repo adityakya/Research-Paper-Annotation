@@ -1,0 +1,43 @@
+MISC--: members vascular endothelial growth factor family proteins critical regulators angiogenesis
+MISC--: vegf concentration gradients important activation chemotactic guidance capillary sprouting but measurement gradients vivo not currently possible
+OWNX--: we constructed biophysically molecularly detailed computational model study microenvironmental transport two isoforms vegf rat extensor digitorum longus skeletal muscle under vivo conditions
+MISC--: using parameters based experimental measurements model includes vegf secretion muscle fibers binding extracellular matrix binding activation endothelial cell surface vegf receptors internalization
+OWNX--: d cross sections tissue we analyzed predicted vegf distributions gradients receptor binding
+OWNX--: significant vegf gradients were predicted resting skeletal muscle uniform vegf secretion due non uniform capillary distribution
+OWNX--: relative vegf gradients were not sensitive extracellular matrix composition overall vegf expression level but were dependent vegf receptor density affinity internalization rate parameters
+OWNX--: vegf upregulation subset fibers increased vegf gradients simulating transplantation pro angiogenic myoblasts possible therapy ischemic diseases
+MISC--: number relative position overexpressing fibers determined vegf gradients distribution vegf receptor activation
+OWNX--: total vegf expression level tissue unchanged concentrating overexpression into small number adjacent fibers increase number capillaries activated
+OWNX--: vegf concentration gradients predicted resting muscle sufficient cellular sensing tip cell vessel sprout approximately m long
+MISC--: vegf gradients also result heterogeneity activation blood vessel vegf receptors
+OWNX--: this first model vegf tissue transport heterogeneity provides platform design evaluation therapeutic approaches
+MISC--: vascular endothelial growth factor key promoter angiogenesis vivo increases proliferation migration endothelial cells cultured vitro citation
+MISC--: rats there five main splice variants vegf denoted isoforms most prevalent citation
+MISC--: vegf expressed at different levels variety cells throughout body including skeletal muscle citation citation
+MISC--: vegf secreted kda homodimeric glycoprotein containing exon encoded domain allows binding heparin neuropilin
+MISC--: vegf also homodimeric glycoprotein but missing exon encoded domain
+MISC--: because this domain only vegf bind heparan sulfate proteoglycans present high concentrations extracellular matrix basement membrane spaces two splice variants responsible different signaling both physiological cancer angiogenesis citation citation
+MISC--: furthermore due presence high concentrations hspg bm surrounds vegf secreting cells large amount vegf becomes bound sequestered near sources vegf secretion creating steep vegf gradient citation
+MISC--: cellular response vegf occurs when signaling initiated binding vegf its cell surface receptor tyrosine kinases vegfr vegfr
+OWNX--: vegf degraded after internalized two vegf receptors
+MISC--: receptors their interactions vegf each other discussed depth citation
+MISC--: vegf involved both physiological pathological angiogenesis
+MISC--: vegf upregulation necessary physiological angiogenesis under conditions hypoxia via oxygen sensing mechanisms hif pathway citation increased shear stress blood vessels citation
+MISC--: rat extensor digitorum longus muscle during exercise both hypoxia increased shear stress induce angiogenesis through overexpression vegf myocytes citation
+MISC--: because importance vegf many clinical trials under way both pro anti angiogenic therapies citation citation
+MISC--: fda approved anti vegf treatments including avastin antibody vegf macugen rna aptamer binds sequesters human vegf
+MISC--: use vegf pro angiogenic treatment cardiac limb ischemia generated intense interest but direct administration vegf not yet produced effective results humans initial trials transplantation angiogenic cells proven effective but require further work citation citation
+OWNX--: create effective vegf driven pro angiogenic therapy better understanding needed both physiological pathological vegf induced angiogenesis
+MISC--: increasing vegf concentration leads angiogenesis but concentrations vegf beyond critical levels may result formation abnormal vessels hemangiomas citation citation
+CONT--: thus normal blood vessels only formed if microenvironmental amounts vegf carefully maintained above threshold levels therapeutic angiogenesis but below threshold levels abnormal angiogenesis over prolonged period time
+MISC--: furthermore responses vegf depend not only vegf concentration but also vegf gradients enhance vegf induced angiogenesis direct capillary growth citation citation
+OWNX--: therefore not sufficient measure bulk quantities vegf large samples tissue order predict angiogenic behavior
+AIMX--: present study we constructed computational model study extracellular diffusion vegf vivo effects vegf upregulation gradients receptor binding using well characterized rat edl tissue sample environment
+MISC--: we previously constructed models studying kinetics vegf binding receptors cells vitro effect presence nrp placental growth factor citation citation
+MISC--: we also shown using monte carlo methods despite very small concentrations free vegf continuum description terms vegf concentrations justified citation
+MISC--: diffusion vegf vitro also been studied using computational model citation
+OWNX--: however our knowledge this first model vegf diffusion geometrically complex vivo environment includes transport two most abundant vegf isoforms through ecm bm hspg binding kinetics vegf secretion vegf receptor binding internalization kinetics
+OWNX--: nrp was not included this model because there currently no available measurements amount nrp skeletal muscle
+OWNX--: using this model we predict vegf distribution analyze vegf gradients at resolution currently impossible measure experimentally
+OWNX--: use this model will aid understanding mechanisms physiological therapeutic vegf overexpression
+MISC--: this model general may built upon future include additional molecular species new experimental data emerging e g neuropilin expression level skeletal muscle also applied specific drug interactions other tissue types

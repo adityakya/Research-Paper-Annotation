@@ -1,0 +1,14 @@
+MISC--: current study looks at role working memory plays risky choice framing
+OWNX--: eighty six participants took automatic ospan measurement working memory this was followed risky choice framing task
+OWNX--: participants high working memory capacities demonstrated well pronounced framing effects while those low working memory capacities did not
+MISC--: this pattern suggests typical risky choice decision task elaborative encoding task information those high working memory capacity may lead them more biased decision compared those low working memory
+OWNX--: throughout our lives we faced many small large decisions exist within variety contexts
+MISC--: many choices involve some aspect risk like choosing whether invest certain stocks deciding medical treatment options even deciding whether risk human lives
+MISC--: most studied examples risk decision making involve risky choices presented within positive negative framework risky choice framing effects
+MISC--: risky choice framing effects derived prospect theory predictions citation become one most studied examples rational decision making
+MISC--: according prospect theory presentation outcome either loss gain affects amount risk person willing accept
+MISC--: this effect attributed differences perceived subjective value captured value function concave gains yielding risk aversive preferences convex losses yielding risk seeking preferences
+MISC--: most widely tested example tversky kahneman citation presented participants asian disease problem wherein number lives were at stake
+MISC--: participants were then presented set alternatives one risk free other risky
+MISC--: alternatives were framed either positively negatively terms people would saved die
+MISC--: their findings revealed despite identical expected values most participants preferred risk free alternative when problem was framed positively risky alternative when framed negatively

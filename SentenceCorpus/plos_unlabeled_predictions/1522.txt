@@ -1,0 +1,41 @@
+MISC--: important step understanding gene regulation identify dna binding sites recognized each transcription factor
+MISC--: conventional approaches prediction tf binding sites involve definition consensus sequences position specific weight matrices rely statistical analysis dna sequences known binding sites
+AIMX--: here we present method called sitesleuth dna structure prediction computational chemistry machine learning applied develop models tf binding sites
+MISC--: this approach binary classifiers trained discriminate between true false binding sites based sequence specific chemical structural features dna
+OWNX--: features determined via molecular dynamics calculations we consider each base different local neighborhoods
+OWNX--: each tfs escherichia coli at least five dna binding sites documented regulondb tf binding sites portions non coding genome sequence mapped feature vectors used training
+OWNX--: according cross validation analysis comparison computational predictions against chip chip data available tf fis sitesleuth outperforms three conventional approaches match matrix search method berg von hippel
+OWNX--: sitesleuth also outperforms qpmeme method similar sitesleuth involves learning algorithm
+OWNX--: main advantage sitesleuth lower false positive rate
+MISC--: important step characterizing genetic regulatory network cell identify dna binding sites recognized each transcription factor protein encoded genome
+MISC--: tf typically activates represses genes associating specific dna sequences
+BASE--: although other factors metabolite binding partners protein protein interactions affect gene expression citation important identify sequences directly recognized tfs best our ability understand genes controlled tfs
+MISC--: better understanding gene regulation plays central role cellular responses environmental changes key manipulating cellular behavior variety useful purposes metabolic engineering applications citation
+MISC--: number computational methods been developed predicting tf binding sites given set known binding sites citation citation
+MISC--: commonly used methods involve definition consensus sequence construction position specific weight matrix where dna binding sites represented letter sequences alphabet t c g
+MISC--: more sophisticated approaches further constrain set potential binding sites given tf considering addition pwms contribution each nucleotide free energy protein binding citation additional biologically relevant information nucleotide correlation between different positions sequence citation sequence specific binding energies citation
+MISC--: perhaps not widely used sequence analysis idea employing structural data predicting tf binding sites been considered citation citation
+MISC--: most methods use protein dna structures rather than dna itself
+MISC--: acquiring training sets large enough useful problematic even well studied tfs only small sets known binding sites typically available citation
+MISC--: new high throughput technologies been used identify large numbers binding sites particular tfs citation citation but there remains need methods predict tf binding sites given small number positive examples
+MISC--: methods used example complement analysis high throughput data
+MISC--: binding sites detected high throughput vitro methods protein binding microarrays citation compared predicted binding sites prioritize studies aimed at confirming importance sites regulating gene expression vivo
+MISC--: fine three dimensional structure dna sequence dependent tf dna interactions depend various physicochemical parameters contacts between nucleotides amino acid residues base pair geometry citation
+MISC--: parameters not accounted conventional methods predicting tf binding sites rely sequence information alone
+MISC--: letter representations dna sequences do not capture biophysics underlying tf dna interactions
+OWNX--: given tf does not read off letters dna sequence but interacts particular sequence because its chemical structural features we hypothesized better predictions tf binding sites might generated explicitly accounting features algorithm predicting tf binding sites
+MISC--: mechanisms tfs recognize dna sequences divided into two classes indirect readout direct readout citation
+MISC--: indirect readout tf recognizes dna sequence via conformation sequence determined local geometry base pair steps distortion flexibility dna sequence protein dna interactions citation citation
+MISC--: direct readout tf recognizes dna sequence through direct contacts between specific bases sequence amino acid residues tf citation citation
+OWNX--: two classes recognition mechanisms not mutually exclusive
+OWNX--: this study we introduce method sitesleuth predicting tf binding sites basis sequence dependent structural chemical features short dna sequences
+OWNX--: using molecular dynamics methods calculate features we map set known potential binding sites given tf vectors structural chemical features
+OWNX--: we use features positive negative examples tf binding sites train support vector machine discriminate between true false binding sites
+MISC--: negative examples derived randomly selected non coding dna sequences
+MISC--: positive examples taken regulondb citation collects information about tfs escherichia coli
+OWNX--: classifiers e coli tfs developed through sitesleuth approach evaluated cross validation classifier fis tested against chromatin immunoprecipitation chip assays fis binding sites citation
+MISC--: combining chip microarray technology chip chip assays provide information about dna protein binding vivo genome wide scale citation
+MISC--: we also evaluate performance sitesleuth against four other computational methods method berg von hippel citation matrix search citation match citation qpmeme citation
+MISC--: bvh matrix search match methods rely pwm approach capture tf preferences binding sites
+OWNX--: qpmeme method similar sitesleuth employs learning algorithm
+OWNX--: case fis we show sitesleuth generates significantly fewer estimated false positives provides higher prediction accuracy than other computational approaches

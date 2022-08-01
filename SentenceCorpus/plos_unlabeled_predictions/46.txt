@@ -1,0 +1,55 @@
+MISC--: acetylcholinesterase rapidly hydrolyzes acetylcholine neuromuscular junctions other cholinergic synapses terminate neuronal signal
+MISC--: physiological conditions ache exists tetramers associated proline rich attachment domain either collagen like q subunit proline rich membrane anchoring protein
+MISC--: crystallographic studies revealed different tetramer forms may present not clear whether one both relevant under physiological conditions
+MISC--: recently crystal structure tryptophan amphiphilic tetramerization domain ache associated prad mimics interface between colq ache tetramer became available
+AIMX--: this study we built complete tetrameric mouse ache t colq atomic structure model based crystal structure wat prad complex
+MISC--: structure was optimized using energy minimization
+MISC--: block normal mode analysis was done investigate low frequency motions complex correlate structure model two known crystal structures ache tetramer
+OWNX--: significant low frequency motions among catalytic domains four ache subunits were observed while wat prad part held complex together
+MISC--: normal mode involvement analysis revealed two lowest frequency modes were primarily involved conformational changes leading two crystal structures
+MISC--: first normal modes account more than percent conformational changes both cases
+MISC--: evidence further supports idea flexible tetramer model ache
+OWNX--: this model used study implications association ache colq
+MISC--: acetylcholinesterase rapidly hydrolyzes acetylcholine terminate neurotransmissions at cholinergic synapses citation citation
+MISC--: reaction very fast approaching diffusion limit
+MISC--: ache three different molecular forms due alternate splicing scheme at c terminus citation
+MISC--: t subtype residue c terminal t peptide only form expressed brain adult muscles normal adult mammals citation
+MISC--: vertebrate cholinergic synapses tetramers ache t associated either collagen like q subunit transmembrane proline rich membrane anchoring protein citation citation
+MISC--: colq structural protein anchors ache t synaptic basal lamina citation citation prima membrane protein anchors ache t membrane neuronal synapses brain citation
+MISC--: they both contain proline rich attachment domain near n terminus site interacting t peptide ache
+MISC--: prad three five consecutive proline residues been shown synthetic polyproline could replace prad its association ache t tetramers citation
+MISC--: ache t t peptide absolutely required its association prad citation
+MISC--: sequence t peptide highly conserved throughout vertebrates cysteine at position c terminus series seven aromatic residues including four equally spaced tryptophans
+MISC--: because t peptide constitutes autonomous interacting domain been named tryptophan amphiphilic tetramerization domain
+MISC--: this notation ache t equivalent ache wat citation
+MISC--: recently crystal structure prad wat complex was solved at resolution citation
+MISC--: complex expected wat prad stoichiometry
+MISC--: four parallel helical wat chains wrap around single antiparallel prad helix itself left handed polyproline ii conformation
+OWNX--: each wat helix assumes coiled coil conformation all four them form left handed supercoil around prad
+MISC--: www motif wat makes repetitive hydrophobic stacking hydrogen bond interactions prad
+MISC--: four wat chains related fold screw axis around prad
+MISC--: strength prad wat interaction very tight no monomer wat detected range m citation
+MISC--: remains unknown how four ache subunits arranged tetramer associated prad
+MISC--: low resolution crystallographic studies revealed two distinct three dimensional structures ache tetramer citation
+MISC--: both crystal structures show dimer dimers i e there no fold symmetry relate all four subunits
+OWNX--: one structure two ache dimers close all four c terminal sequences aligning same direction other structure space between two dimers large four c terminal sequences aligned antiparallel middle
+OWNX--: crystals were grown trypsin digested collagen tailed ache should both wat prad preserved although electronic densities were seen was not possible resolve them
+MISC--: was suggested flexibility ache tetramers might related regulation catalysis citation citation
+MISC--: test this reaction rate calculations were conducted using two tetramer structures morphed intermediate structure
+MISC--: results showed rate per active site was reduced due active site occlusion sink sink competition compared monomeric form but could partly compensated electrostatic enhancements tetramers citation
+MISC--: rate reduction due active site occlusion was particularly notable compact tetramer citation
+MISC--: efforts combine prad wat structure two ache tetramer structures were not very successful
+MISC--: problem was both tetramer structures four ache subunits lacked fold symmetry seen wat prad complex crystal structure citation
+MISC--: since four wat chains staggered structure impossible without substantial distortion wat prad complex ache tetramer structures dock wat prad complex along fold axis between pairs ache dimers
+MISC--: fact superhelical axis wat prad complex structure at angle about this fold axis citation
+OWNX--: considering tight association between prad wat weak affinity ache dimer limited contact between two dimers tetramer reasonable assume prad wat interaction dominates over inter subunit interaction association ache tetramer colq
+MISC--: fact ache only exists soluble monomer if wat sequence deleted citation indicating dimerization forces weak
+OWNX--: previous study subunit association cholinesterases this interaction was identified weak hydrophobic interaction compared strong interaction seen between wat prad citation
+MISC--: also been shown if two proteins example ache alkaline phosphatase both wat sequences at their c termini mixed prad at various ratios tetramers containing three subunits one protein one other underrepresented citation
+OWNX--: this points symmetric ache t colq complex form physiological conditions
+MISC--: since two crystal structures ache tetramer were generated experimentally they accessible physiological model through conformational changes
+OWNX--: this study we built ache t colq complex model strictly following prad wat interaction
+MISC--: although molecular dynamics useful tool observe dynamics conformational changes size system poses too much challenge this case citation
+MISC--: block normal mode analysis uses coarse grained representation protein reduce computational cost been shown useful tool predicting low frequency motions seen large protein assemblies example swelling virus capsid citation citation ratchet motion ribosome citation collective motions hiv transcriptase citation myosin citation citation atpase citation citation chaperonin groel citation etc low frequency motions often related conformational changes required biological functions protein assemblies
+AIMX--: here we applied bnma ache t colq complex model calculated lowest normal modes
+MISC--: projecting conformational changes onto normal modes was found two ache tetramer crystal structures could rationalized using low frequency normal modes

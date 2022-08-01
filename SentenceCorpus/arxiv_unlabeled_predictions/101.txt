@@ -1,0 +1,25 @@
+AIMX--: this paper we propose spreading activation approach collaborative filtering sa cf
+MISC--: using opinion spreading process similarity between any users obtained
+MISC--: algorithm remarkably higher accuracy than standard collaborative filtering cf using pearson correlation
+OWNX--: furthermore we introduce free parameter symbol regulate contributions objects user user correlations
+MISC--: numerical results indicate decreasing influence popular objects further improve algorithmic accuracy personality
+CONT--: we argue better algorithm should simultaneously require less computation generate higher accuracy
+AIMX--: accordingly we further propose algorithm involving only top symbol similar neighbors each target user both less computational complexity higher algorithmic accuracy keywords recommendation systems bipartite network collaborative filtering
+MISC--: advent internet exponential growth world wide web routers confront people information overload citation
+MISC--: we facing too much data able effectively filter out pieces information most appropriate us
+OWNX--: promising way provide personal recommendations filter out information
+MISC--: recommendation systems use opinions users help them more effectively identify content interest potentially overwhelming set choices citation
+MISC--: motivated practical significance e commerce society various kinds algorithms been proposed correlation based methods citation content based methods citation spectral analysis citation principle component analysis citation network based methods citation so
+MISC--: review current progress see ref
+MISC--: citation references therein
+MISC--: one most successful technologies recommendation systems called collaborative filtering cf been developed extensively investigated over past decade citation
+MISC--: when predicting potential interests given user approach first identifies set similar users past records then makes prediction based weighted combination those similar users opinions
+MISC--: despite its wide applications collaborative filtering suffers several major limitations including system scalability accuracy citation
+MISC--: recently some physical dynamics including mass diffusion citation heat conduction citation trust based model citation found their applications personal recommendations
+MISC--: physical approaches been demonstrated both high accuracy low computational complexity citation
+MISC--: however algorithmic accuracy computational complexity may very sensitive statistics data sets
+MISC--: example algorithm presented ref
+MISC--: citation runs much faster than standard cf if number users much larger than objects while when number objects huge advantage this algorithm vanishes because its complexity mainly determined number objects see ref
+MISC--: citation details
+MISC--: order increase system scalability accuracy standard cf we introduce network based recommendation algorithm spreading activation namely sa cf
+MISC--: addition two free parameters symbol symbol presented increase accuracy personality

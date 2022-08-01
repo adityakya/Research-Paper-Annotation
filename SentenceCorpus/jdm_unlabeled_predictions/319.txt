@@ -1,0 +1,12 @@
+MISC--: currently disparity exists between process level models decision researchers use describe predict decision behavior methods implemented metrics collected test models
+MISC--: current work seeks remedy this disparity combining advantages work decision research mouse tracing paradigms contingent information display cognitive psychology eye tracking paradigms reading scene perception
+OWNX--: particular we introduce new decision moving window paradigm presents stimulus information contingent eye fixations
+OWNX--: we provide data first application this method risky decision making show how compares basic eye tracking mouse tracing methods
+OWNX--: we also enumerate practical theoretical analytic advantages this method offers above beyond both mouse tracing occlusion basic eye tracking information without occlusion
+AIMX--: we include use new metrics offer more precision than those typically calculated mouse tracing data well those not possible feasible within mouse tracing paradigm
+MISC--: decision researchers must often rely outcome measures i e choice preference etc
+MISC--: infer how decisions made individuals
+MISC--: advent increased computing power availability usability allowed decision researchers develop methods examine underlying processes attention information acquisition deliberation etc
+MISC--: rather than relying solely observable outcomes
+MISC--: process tracing paradigms information boards mouse tracing methods citation eye tracking methods citation verbal protocols citation been utilized decision research mechanisms capturing decision process
+MISC--: need verify theoretical advances specify how i e process addition what i e outcome produced great interest tracing methods citation

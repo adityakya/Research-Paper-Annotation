@@ -1,0 +1,71 @@
+MISC--: risk maps estimating spatial distribution infectious diseases required guide public health policy local global scales
+MISC--: advent model based geostatistics allowed maps generated formal statistical framework providing robust metrics map uncertainty enhances their utility decision makers
+MISC--: many settings decision makers require spatially aggregated measures over large regions mean prevalence within country administrative region national populations living under different levels risk
+MISC--: existing mbg mapping approaches provide suitable metrics local uncertainty fidelity predictions at each mapped pixel but not been adapted measuring uncertainty over large areas due largely series fundamental computational constraints
+CONT--: here authors present new efficient approximating algorithm generate first time necessary joint simulation prevalence values across very large prediction spaces needed global scale mapping
+OWNX--: this new approach implemented conjunction established model p falciparum allowing robust estimates mean prevalence at any specified level spatial aggregation
+OWNX--: model used provide estimates national populations at risk under three policy relevant prevalence thresholds along accompanying model based measures uncertainty
+AIMX--: overcoming previously unchallenged computational barriers this study illustrates how mbg approaches already at forefront infectious disease mapping extended provide large scale aggregate measures appropriate decision makers
+MISC--: risk maps estimating spatial distribution infectious diseases relation underlying populations required support public health decision making at local global scales citation citation
+MISC--: advancement theory increasing availability computation growing recognition importance robust handling uncertainty all contributed emergence recent years new paradigm mapping disease use special family generalised linear models known model based geostatistics generally implemented bayesian framework citation citation
+MISC--: mbg models take point observations disease prevalence dispersed survey locations generate continuous maps interpolating prevalence at unsampled locations across raster grid surfaces
+MISC--: most striking advantage mbg disease mapping its handling uncertainty
+MISC--: interpolating sparse often imperfectly sampled survey data predict disease prevalence across wide regions results inherently uncertain risk maps level uncertainty varying spatially function density quality sample size available survey data moderated underlying spatial variability disease question
+MISC--: mbg approaches allow sources uncertainty propagated final mapped output predicting probability distribution prevalence at each location interest
+MISC--: where predictions made small uncertainty distributions will tightly concentrated around central value where uncertainty large they will more dispersed
+MISC--: techniques been used generate robust informative risk maps malaria citation citation well range other infectious diseases citation citation at scales varying national global
+MISC--: some studies extended handling variation through space also include temporal dimension allowing disease risk modelled quantified over time well space citation citation
+MISC--: implementation mbg models over even relatively small areas extremely computationally expensive
+MISC--: not only matrix algebra operations required generate predictions at each individual pixel costly compared simpler interpolation methods citation citation but this cost must multiplied many times because prediction uncertainty evaluated generating many equally probable realisations prevalence at each pixel
+MISC--: implementations mbg disease models over large areas therefore tend via per pixel computation whereby complete maps built up generating predictive realisations each pixel independently
+MISC--: this allows computational task broken down into many small more easily manageable operations
+MISC--: approach yields appropriate measures local uncertainty set realisations each pixel represents posterior predictive distribution prevalence summary statistics mean inter quartile range percent credible intervals readily extracted providing user valid uncertainty information each individual location considered isolation
+MISC--: there often need evaluate disease prevalence aggregated across spatial regions temporal periods combinations both citation citation
+MISC--: this may quantify compare mean prevalence between countries administrative units example measure shift mean prevalence between start end intervention period policy change
+MISC--: addition mbg prevalence models used estimate derived quantities population totals living regions at different levels risk burden disease cases expected within individual countries continents function underlying prevalence citation quantities definition exist only over aggregated space time units
+CONT--: not possible however construct posterior distributions aggregate quantities using per pixel approach
+MISC--: estimate mean region made up multiple pixels uncertainty around this estimate correlation between all pixels region must known
+CONT--: per pixel approach each pixel modelled independent its neighbours ignoring any spatial temporal correlation
+MISC--: failing account correlation between pixels leads gross underestimates uncertainty aggregated quantity especially over large regions citation
+OWNX--: solution problem outlined above replace per pixel simulation prevalence realisations simultaneous joint simulation all pixels aggregated recreating appropriate spatial temporal correlation between them citation
+OWNX--: crucially set pixel values then aggregated any way used input derived aggregated quantities realisations aggregations will appropriate posterior predictive distributions
+MISC--: whilst conceptually simple extension local regional simulation induces fundamental computational constraint necessary calculations no longer disaggregated into separate tasks each pixel
+MISC--: this constraint thus far prevented any use mbg disease mapping evaluation aggregate quantities over very large areas despite profound public health importance measures
+MISC--: where examples joint simulation mbg disease mapping exist they tend either over very small spatial regions citation achieved simply breaking larger regions down manually into smaller more manageable tiles citation
+AIMX--: this paper we use new approximate algorithm joint simulation quantify first time aggregated uncertainty over space time global scale mbg disease model plasmodium falciparum malaria prevalence citation
+OWNX--: we exemplify how this approach allows uncertainty prevalence predictions enumerated at continental national sub national scales at public health decisions usually made
+OWNX--: we then extend model architecture estimate second quantity particular epidemiological interest national populations at risk under different policy relevant strata p falciparum transmission intensity
+MISC--: par estimates form fundamental metric malaria decision makers at national international levels citation citation also been used assess equity donor funding distributions citation chart changing exposure human populations disease citation provide baselines predicted changes exposure under climate change scenarios citation
+MISC--: range techniques been used estimate par including use mbg other prevalence models delineate risk strata relation underlying population distributions citation citation citation citation
+MISC--: none studies incorporated inherent uncertainty prevalence estimates however resulting par estimates presented point values no uncertainty metrics
+OWNX--: here we use joint simulation framework generate posterior predictive distributions par living under conditions low medium high stable transmission within each malaria endemic country allowing uncertainty inherent estimates quantified formal statistical framework
+AIMX--: par estimates presented full this paper making them available any interested parties support theoretical applied epidemiological public health applications
+OWNX--: remainder this introductory section we outline computational challenges large scale joint simulation review existing approaches overcoming them
+BASE--: methods section we present our algorithm efficient joint simulation over very large grids detail its implementation testing global p falciparum model its extension estimating par
+OWNX--: results section provides outcome testing validation procedures examples jointly simulated realisations continental national locally aggregated estimates p falciparum prevalence
+OWNX--: we present our national level estimates par exemplify how accompanying uncertainty metrics communicated effectively enhance their utility decision makers
+OWNX--: we conclude discussing strengths weaknesses our modelling architecture implications future disease mapping useful directions further research
+MISC--: general form mbg models defined follows formulasuch disease survey formula individuals at given location number observed infected formula modelled binomially distributed probability infections given formula underlying prevalence disease question modelled transformation via inverse link function formula unknown gaussian process formula citation citation
+MISC--: gaussian process context disease mapping convenient probability distribution d surfaces describing probabilities associated different forms surface
+MISC--: using bayesian inference gaussian process updated take account input data providing refined description probabilities
+OWNX--: possible surfaces then drawn this updated gaussian process after passing through inverse link function provide realisations target disease surface
+MISC--: gaussian process take wide range forms central tendency at any location governed underlying mean function formula whilst textural properties governed covariance function formula
+MISC--: symbol formula denotes set formula parameters define form covariance mean include covariate coefficients
+OWNX--: mbg aim estimate joint posterior distribution model parameters formula values formula evaluated at all locations times prediction required generally across nodes regular raster grid
+OWNX--: computationally this task split into two distinct phases
+MISC--: firstly markov chain monte carlo used generate realisations joint posterior formula formula at only formula space time locations formula where data exist denoted formula
+OWNX--: this intuitive because only at locations fit gaussian process evaluated this means mcmc must only consider multivariate normal distribution dimension formula generally several orders magnitude smaller than if all prediction locations across raster grid were considered
+OWNX--: realisation formula formula provides skeleton gaussian process evaluated at all prediction locations across raster grid second computational stage
+MISC--: conditional skeleton realisations value formula at each prediction location time formula sampled its posterior predictive distribution formulawhere posterior predictive mean covariance parameters given standard conditioning formulas multivariate normal variables citation formulaformulaby carrying out this two step procedure over many realisations samples built up target posterior predictive distribution formula
+MISC--: per pixel implementation predictive distributions formula formula formula formula at all formula prediction locations output raster realised independently generate local models uncertainty
+MISC--: this case largest single computational component population factorisation data data covariance matrix formula typical disease prevalence data sets where formula hundreds thousands relatively minor task could generally achieved standard desktop computer
+MISC--: subsequent sampling posterior predictive distribution trivial posterior predictive mean covariance refer single prediction location sampling therefore amounts drawing univariate normal distribution
+MISC--: total computation each pixel therefore modest cost generating maps grows simply proportion number pixels involved formula
+MISC--: switching per pixel implementation joint simulation over many prediction locations increases profoundly computational challenge
+MISC--: efficiency per pixel approach arises effective reduction formula one each pixel considered isolation
+MISC--: joint simulation requires formula preserved total number prediction points many millions if large areas considered at reasonably fine spatial resolution
+MISC--: addition formula formula data data covariance matrix formula formula prediction prediction formula formula data prediction covariance matrices must populated
+MISC--: more importantly subsequent sampling posterior predictive multivariate normal distribution prediction prediction covariance matrix must factorised citation
+MISC--: computational cost this operation proportional cube formula
+MISC--: put this non linear scaling context if direct joint simulation raster grid could computed one minute grid would take approximately seconds
+CONT--: practice scaling factors along those memory storage requirements mean direct joint simulation using equations outlined above generally limited predictions at maximum around points citation citation at least two orders magnitude too few global scale mapping at sub km resolution even at single time period

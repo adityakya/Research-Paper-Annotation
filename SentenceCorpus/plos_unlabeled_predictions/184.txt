@@ -1,0 +1,40 @@
+MISC--: prokaryotes shine dalgarno sequences nucleotides upstream start codons messenger rnas complementary ribosomal rna facilitate initiation protein synthesis
+MISC--: location sd sequences relative start codons stability hybridization between mrna rrna correlate rate synthesis
+OWNX--: thus accurate characterization sd sequences enhances our understanding how organism s transcriptome relates its cellular proteome
+OWNX--: we implemented individual nearest neighbor hydrogen bond model oligo oligo hybridization created new metric relative spacing identify both location hybridization potential sd sequences simulating binding between mrnas single stranded s rrna tails
+OWNX--: prokaryote genomes we identified genes out where strongest binding translation initiation region included start codon deviating expected location sd sequence five ten bases upstream
+OWNX--: we designated rs genes
+OWNX--: additional analysis uncovered unusual bias start codon majority rs genes used gug not aug furthermore rs genes whose sd sequence was associated free energy release less than kcal mol were within nucleotides upstream frame initiation codons
+MISC--: most likely explanation unexpected location sd sequence genes mis annotation start codon
+OWNX--: this way new rs metric provides improved method gene sequence annotation
+OWNX--: remaining strong rs genes appear their sd sequences unexpected location includes start codon
+OWNX--: thus our rs metric provides new way explore role rrna mrna nucleotide hybridization translation initiation
+MISC--: shine dalgarno citation sequenced end escherichia coli s s ribosomal rna observed part sequence accucc was complementary motif ggaggu located initiation codons several messenger rnas
+OWNX--: they combined this observation previously published experimental evidence suggested complementarity between tail s rrna region start codon mrna was sufficient create stable double stranded structure could position ribosome correctly mrna during translation initiation
+MISC--: motif mrnas ggaggu variations also complementary parts s rrna tail since been referred shine dalgarno sequence
+MISC--: shine dalgarno s theory was bolstered steitz jakes citation eventually experimentally verified hui de boer citation jacob et al citation
+OWNX--: since shine dalgarno s publication two different approaches been used identify position sd sequences prokaryotes sequence similarity free energy calculations
+MISC--: methods based sequence similarity include searching upstream start codons sub strings sd sequences at least three nucleotides long citation
+MISC--: identification errors arise this approach several reasons citation
+OWNX--: threshold similarity does not exist clearly delineate actual sd sequences spurious sites significant but low degree similarity sd sequence
+MISC--: lack certainty led number observations gene sequences appear partition themselves into two categories those obvious sd sequences those without
+MISC--: inability sequence techniques pinpoint exact location sd sequence poses problem because its location believed affect translation initiation citation citation
+MISC--: second approach using free energy calculations based thermodynamic considerations proposed mechanism s binding mrna overcomes limitations sequence analysis
+MISC--: watson crick hybridization occurs between terminal single stranded nucleotides s rrna sd sequence mrna significant effect translation citation citation
+OWNX--: formation hydrogen bonds between aligned complementary nucleotides basis watson crick hybridization results more stable double stranded structure lower free energy than participating single stranded sequences
+MISC--: one long standing implementation this model mfold citation quantifies degree hybridization stability rna secondary structure calculating change energy citation citation
+BASE--: this method estimating free energy been adapted identify sd sequences repeatedly calculating g values progressive alignments rrna tail mrna region upstream start codon citation citation citation citation
+OWNX--: all studies observed trough negative g upstream start codon whose location largely coincident sd consensus sequence
+MISC--: this second approach both identify sd sequence pinpoint its exact location having minimal g value
+CONT--: however exact location sd sequence dependent nucleotide indexing scheme algorithm i e nucleotide designated position
+OWNX--: normalize indexing further extend free energy analysis through start codon into coding region genes we created new metric relative spacing
+OWNX--: this metric localizes binding across entire translation initiation region relative rrna tail enabling us characterize binding involves start codon well sequences downstream
+MISC--: rs also independent length rrna tail this property allows comparison binding locations between species
+BASE--: examining sequences downstream start codons we could explore mrnas lack any upstream region leaderless mrnas citation citation
+MISC--: lack any untranslated leader mrnas prompted searches other sequence motifs could interact s rrna
+MISC--: one downstream box hypothesis citation been disproved citation
+MISC--: thus there continued search explanation highly conserved sequences initiation codon been observed many leaderless mrnas citation citation citation
+OWNX--: this study we use rs metric identify positions minimal g troughs genes species prokaryotes test its usefulness means improve existing annotation tools i e identifying sd sequences
+OWNX--: we observe genes where strongest binding entire tir takes place one nucleotide downstream start codon at rs
+MISC--: genes unusually strong binding
+OWNX--: we then determine if genes were mis annotated conclude

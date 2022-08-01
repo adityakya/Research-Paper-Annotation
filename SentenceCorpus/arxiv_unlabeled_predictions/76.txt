@@ -1,0 +1,28 @@
+MISC--: supervised learning deals inference distribution over output label space symbol conditioned points observation space symbol given training dataset symbol pairs symbol
+CONT--: however lot applications interest acquisition large amounts observations easy while process generating labels time consuming costly
+OWNX--: one way deal this problem active learning where points labelled selected aim creating model better performance than model trained equal number randomly sampled points
+OWNX--: this paper we instead propose deal labelling cost directly learning goal defined minimisation cost function expected model performance total cost labels used
+OWNX--: this allows development general strategies specific algorithms though main focus paper optimal stopping we also aim provide background further developments discussion related field active learning
+OWNX--: much classical machine learning deals case where we wish learn target concept form function symbol when all we finite set examples symbol
+OWNX--: however many practical settings turns out each example symbol set only observations symbol available while availability observations symbol restricted sense either this paper we deal second case where we actually obtain labels any symbol but doing so incurs cost
+MISC--: active learning algorithms i e citation deal indirectly this selecting examples expected increase accuracy most
+MISC--: however basic question whether new examples should queried at all seldom addressed
+AIMX--: this paper deals labelling cost explicitly
+MISC--: we introduce cost function represents trade off between final performance terms generalisation error querying costs terms number labels queried
+OWNX--: this used two ways
+MISC--: firstly basis creating cost dependent stopping rules
+MISC--: secondly basis comparison metric learning algorithms associated stopping algorithms
+OWNX--: expound further we decide when stop estimating expected performance gain querying additional examples comparing cost acquiring more labels
+MISC--: one main contributions development methods achieving this bayesian framework
+OWNX--: while due nature problem there potential misspecification we nevertheless show experimentally stopping times we obtain close optimal stopping times
+OWNX--: we also use trade off order address lack principled method comparing different active learning algorithms under conditions similar real world usage
+OWNX--: comparison method choosing stopping times independently test set needed
+MISC--: combining stopping rules active learning algorithms allows us objectively compare active learning algorithms range different labelling costs
+AIMX--: paper organised follows
+OWNX--: section introduces proposed cost function when labels costly while section discusses related work
+OWNX--: section derives bayesian stopping method utilises proposed cost function
+OWNX--: some experimental results illustrating proposed evaluation methodology demonstrating use introduced stopping method presented section
+CONT--: proposed methods not flawless however
+MISC--: example algorithm independent stopping rule requires use iid
+CONT--: examples may interfere its coupling active learning algorithm
+OWNX--: we conclude discussion applicability merits deficiencies proposed approach optimal stopping principled testing active learning

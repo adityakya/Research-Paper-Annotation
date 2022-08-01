@@ -1,0 +1,31 @@
+MISC--: when introduced into novel environment mammals establish preferred place marked highest number visits highest cumulative time spent
+MISC--: examination exploratory behavior reference this home base highlights important features its organization
+MISC--: might therefore fruitful search other types marked places mouse exploratory behavior examine their influence overall behavior
+MISC--: examination path curvatures mice exploring large empty arena revealed presence circumscribed locales marked performance tortuous paths full twists turns
+OWNX--: we term places knots behavior performed them knot scribbling
+MISC--: there typically no more than one knot per session distinct boundaries maintained both within across sessions
+MISC--: knots mostly situated place introduction into arena here away walls
+OWNX--: knots not characterized features home base except high speed during inbound low speed during outbound paths
+MISC--: establishment knots enhanced injecting mouse saline placing exposed portion arena suggesting stress arousal associated consolidate long term contingency between particular locale knot scribbling
+MISC--: environment devoid proximal cues mice mark locale associated arousal twisting turning
+MISC--: this creates self generated often centrally located landmark
+MISC--: tortuosity path traced during behavior implies almost concurrent multiple views environment
+MISC--: knot scribbling could therefore function way obtain overview entire environment allowing re calibration mouse s locale map compass directions
+MISC--: rich vestibular input generated scribbling could improve interpretation visual scene
+MISC--: when introduced into novel environment rats establish preferred place characterized highest frequency visits highest cumulative dwell time upper bound number stops per roundtrip performed low outbound trajectory speed high inbound trajectory speed speed relationship reversed later stages session citation citation
+MISC--: existence highly organized behavior across whole arena reference this so called home base citation illustrates influence preferred place might overall organization exploratory behavior prompts search other types preferred places may similar influence organization exploratory behavior
+MISC--: contrast situation rats there ambiguity regarding establishment home bases mice while some studies mention home bases their establishment mostly low occurrence forced exploration setup
+MISC--: even though mice readily establish home bases near physical objects citation citation near nesting material citation they reported fail establish distinct home bases during forced exploration relatively featureless environment citation citation
+MISC--: when mice used control group another study were injected saline placed exposed portion large open field arena they established preferred places typically not more than one per session they visited sporadically tracing them tortuous path full twists turns bends looked like knot
+OWNX--: we termed places knots behavior performed them knot scribbling
+MISC--: this knot phenomenon appeared its full blown form saline injected mice was subsequently uncovered albeit less striking form also intact mice
+AIMX--: present study we describe full blown knot phenomenon saline injected mice only then verify existence knots intact mice
+OWNX--: uncover knots we utilize basic feature locomotor path its curvature
+OWNX--: depending size window used measuring path curvature this measure discloses various features path texture overall large scale curvature fine grained tortuosity citation
+AIMX--: present study we use window size makes fine grained tortuosity path conspicuous possible
+MISC--: curvature been measured previously only cumulative measure paths without coupling particular degree curvature particular topographical locations citation citation
+OWNX--: uncover knots we first calculate fine grained path curvature each data point path traced mouse
+OWNX--: then we partition arena into small cm unit areas summate each unit area curvature path included within unit area
+OWNX--: magnitude path curvature per unit area then color coded visualization paths thus highlighting unit areas marked highest curvature
+OWNX--: having uncovered high curvature locale we then design use algorithms define its boundaries quantify some its features
+OWNX--: finally we ask whether knots we discover also endowed classical home base features consider their function

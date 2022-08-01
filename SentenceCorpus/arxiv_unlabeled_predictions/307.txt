@@ -1,0 +1,51 @@
+MISC--: we analyze convergence behaviour recently proposed algorithm regularized estimation called dual augmented lagrangian dal
+MISC--: our analysis based new interpretation dal proximal minimization algorithm
+OWNX--: we theoretically show under some conditions dal converges super linearly non asymptotic global sense
+MISC--: due special modelling sparse estimation problems context machine learning assumptions we make milder more natural than those made conventional analysis augmented lagrangian algorithms
+MISC--: addition new interpretation enables us generalize dal wide varieties sparse estimation problems
+OWNX--: we experimentally confirm our analysis large scale symbol regularized logistic regression problem extensively compare efficiency dal algorithm previously proposed algorithms both synthetic benchmark datasets
+MISC--: sparse estimation through convex regularization become common practice many application areas including bioinformatics natural language processing
+OWNX--: however facing rapid increase size data sets we analyze everyday clearly needed development optimization algorithms tailored machine learning applications
+MISC--: regularization based sparse estimation methods estimate unknown variables through minimization loss term data fit term plus regularization term
+AIMX--: this paper we focus convex methods i e both loss term regularization term convex functions unknown variables
+MISC--: regularizers may non differentiable some points non differentiability promote various types sparsity solution
+MISC--: although problem convex there three factors challenge straight forward application general tools convex optimization citation context machine learning
+OWNX--: first factor diversity loss functions
+MISC--: arguably squared loss most commonly used field signal image reconstruction many algorithms sparse estimation been developed citation
+MISC--: however variety loss functions much wider machine learning name few logistic loss other log linear loss functions
+MISC--: note functions not necessarily strongly convex like squared loss
+OWNX--: see table list loss functions we consider
+OWNX--: second factor nature data matrix we call design matrix this paper
+MISC--: regression problem design matrix defined stacking input vectors along rows
+OWNX--: if input vectors numerical e g gene expression data design matrix dense no structure
+OWNX--: addition characteristics matrix e g condition number unknown until data provided
+OWNX--: therefore we would like minimize assumptions about design matrix sparse structured well conditioned
+MISC--: third factor large number unknown variables parameters compared observations
+MISC--: this situation regularized estimation methods commonly applied
+CONT--: this factor may been overlooked context signal denoising number observations number parameters equal
+MISC--: various methods been proposed efficient sparse estimation see citation references therein
+MISC--: many previous studies focus non differentiability regularization term
+OWNX--: contrast we focus couplings between variables non separability caused design matrix
+MISC--: fact if optimization problem decomposed into smaller e g containing single variable problems optimization easy
+MISC--: recently citation showed so called iterative shrinkage thresholding ist method see citation seen iterative separable approximation process
+AIMX--: this paper we show recently proposed dual augmented lagrangian dal algorithm citation considered exact up finite tolerance version iterative approximation process discussed citation
+MISC--: our formulation based connection between proximal minimization citation augmented lagrangian al algorithm citation
+MISC--: proximal minimization framework also allows us rigorously study convergence behaviour dal
+OWNX--: we show dal converges super linearly under some mild conditions means number iterations we need obtain symbol accurate solution grows no greater than logarithmically symbol
+MISC--: due generality framework our analysis applies wide variety practically important regularizers
+MISC--: our analysis improves classical result convergence augmented lagrangian algorithms citation taking special structures sparse estimation into account
+BASE--: addition we make no asymptotic arguments citation citation instead our convergence analysis build top recent result citation
+MISC--: augmented lagrangian formulations also been considered citation citation sparse signal reconstruction
+MISC--: what differentiates dal approach citation those studied earlier al algorithm applied dual problem see secref sec dalreview results inner minimization problem solved efficiently exploiting sparsity intermediate solutions see secref sec dall
+MISC--: applying al formulation dual problem also plays important role convergence analysis because some loss functions e g logistic loss not strongly convex primal see secref sec analysis
+MISC--: recently citation compared primal dual augmented lagrangian algorithms symbol problems reported dual formulation was more efficient
+MISC--: see also citation related discussions
+AIMX--: this paper organized follows
+OWNX--: secref sec framework we mathematically formulate sparse estimation problem we review dal algorithm
+OWNX--: we derive dal algorithm proximal minimization framework secref sec proximal view discuss special instances dal algorithm discussed secref sec instances
+OWNX--: secref sec analysis we theoretically analyze convergence behaviour dal algorithm
+OWNX--: we discuss previously proposed algorithms secref sec algorithms contrast them dal
+OWNX--: secref sec results we confirm our analysis simulated symbol regularized logistic regression problem
+OWNX--: moreover we extensively compare recently proposed algorithms symbol regularized logistic regression including dal synthetic benchmark datasets under variety conditions
+OWNX--: finally we conclude paper secref sec summary
+MISC--: most proofs given appendix

@@ -1,0 +1,54 @@
+OWNX--: three experiments demonstrate how processing negations contingent evaluation context negative information presented
+OWNX--: addition strategy used process negations induced different affective reactions toward stimuli leading inconsistency preference
+OWNX--: participants were presented stimuli described either stating presence positive features explicitly positive alternative negating presence negative features non negative alternative
+MISC--: alternatives were presented either joint je separate evaluation se
+MISC--: experiment number showed non negative stimuli were judged less attractive than positive ones je but not se
+MISC--: experiment number revealed non negative stimuli induced less clear less positive feeling when they were paired explicitly positive stimuli rather than evaluated separately
+MISC--: non negative options were also found less easy judge than positive ones je but not se
+MISC--: finally experiment number showed people process negations using two different models depending evaluation mode
+OWNX--: through memory task we found je people process non negative attributes negations negative features whereas se they directly process non negative attributes positive features
+OWNX--: positive qualities stimulus described either direct indirect fashion sometimes difference between two perspectives small subtle
+MISC--: instance if person tells you cereal breakfast not high fat you may either think low fat moderately fatty
+CONT--: therefore above sentence leaves room interpretations since explicitly communicated what not present lot fats but does not tell how lean those cereals
+OWNX--: possible evaluation context cereal described may affect way they judged
+MISC--: other words people may evaluate same cereal less attractive if they told cereal brand not high fat cereal brand b fat free than if they simply told cereal brand not high fat
+AIMX--: present paper will show specific context negations processed effect people s inferences about negation meaning their affective reactions turn their preferences
+OWNX--: we hypothesize affective reactions induced non negative information e g cereal not high fat contingent evaluation context negation presented
+OWNX--: particular we aim show effect evaluation context affective reactions induced different ways negations processed depending whether explicitly positive comparison form affirmative sentence present not
+MISC--: inconsistency preference may important implications several domains like instance personnel selection products advertisement
+MISC--: numerous studies last few decades shown strong link between people s affective reactions their subsequent behaviors
+MISC--: citation therefore if context negation evaluated may influence individuals feelings then may also affect their actual choices
+OWNX--: our hypotheses supported previous work processing negations
+MISC--: there been long debate how negations actually processed whether they increase accessibility information congruent actual state affairs cereal not high fat negated state affairs cereal high fat citation
+MISC--: debate led elaboration two models offer completely different accounts way negations processed citation
+MISC--: first model closer explanation offered propositional theories language comprehension citation
+MISC--: this model called schema plus tag model citation
+OWNX--: states individuals process negation processing core message schema e g cereal high fat then complete negation tag
+MISC--: stated mayo et al citation this model entails two important implications
+MISC--: first people process core schema attach negation tag therefore allowing dissociation between them at later point time
+OWNX--: second implication pertains associations schema activates should congruent negated state affairs high fat instead being consistent actual state affairs not high fat
+MISC--: indeed under schema plus tag model people supposed attach negation schema only after schema congruent associations been activated
+MISC--: consequence they end up understanding negation its meaning but at same time they activate series associations incongruent intended meaning negation
+OWNX--: alternatively proposers experiential simulation model suggested second way process negation fusing negation tag into core schema
+OWNX--: this case sentence cereal not high fat should processed cereal low fat
+MISC--: main consequence using this model fusing negation core concept allows people activate associations congruent actual state affairs
+MISC--: therefore fusion model should reinforce intended meaning message make more convincing
+MISC--: macdonald just citation proposed mechanism accounts fusion negation tag into core schema
+MISC--: they suggested negation tag should inhibit activation concepts congruent negated state affairs
+MISC--: more recently kaup et al citation suggested alternative mechanism may account negation tag core schema fusion process
+MISC--: proposed mechanism entails negated state affairs simulated auxiliary representational system
+OWNX--: this way representation negated state affairs not integrated representation described world
+MISC--: instead people should able juxtapose two representations so they take into account negated information
+MISC--: other words kaup et al suggested simulation negated state affairs should mentally rejected fact simulated but not integrated representation described world
+MISC--: mayo et al citation suggested individuals might use either schema plus tag model fusion model depending inferences allowed sentence negation included
+MISC--: particular mayo colleagues found existence schema accommodates meaning original negation critical determining how negation will encoded
+AIMX--: present study we aim show use either one other model may contingent context negation presented
+OWNX--: series three studies we asked participants judge explicitly positive stimuli characterized having positive features non negative stimuli characterized not having negative features
+OWNX--: participants were presented either one both options thereby using joint je versus separate se evaluation paradigm
+MISC--: previous studies demonstrated numerous ways preferences elicited je se inconsistent citation
+OWNX--: understand kind stimuli used present study consider example cereal we presented earlier
+MISC--: both message saying cereal not high fat message saying cereal fat free communicate similar non negative value i e both cases cereal does not lot fat this positive people s health but different ways
+MISC--: throughout three studies we find people presented either one other type description do not necessarily evaluate them equally good their quest healthy food
+OWNX--: positive non negative descriptions lead similar judgments se
+MISC--: however we find non negative description perceived less favorable way than positive description when they presented together
+MISC--: difference appears depend how negation processed joint versus separate evaluation

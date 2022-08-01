@@ -1,0 +1,76 @@
+MISC--: recent improvements technology made dna sequencing dramatically faster more efficient than ever before
+MISC--: new technologies produce highly accurate sequences but one drawback most efficient technology produces shortest read lengths
+MISC--: short read sequencing been applied successfully resequence human genome those other species but not whole genome sequencing novel organisms
+OWNX--: here we describe sequencing assembly novel clinical isolate pseudomonas aeruginosa strain pab using very short read technology
+OWNX--: reads each nucleotides length we assembled genome into one scaffold ordered contiguous sequences containing nucleotides including one contig spanning nucleotides plus additional unordered contigs containing nucleotides
+OWNX--: our method includes novel gene boosting algorithm uses amino acid sequences predicted proteins build better assembly
+MISC--: this study demonstrates feasibility very short read sequencing sequencing bacterial genomes particularly those related species been sequenced previously expands potential application this new technology most known prokaryotic species
+MISC--: genome sequencing technology moved into new era introduction extremely fast sequencing technologies produce over one billion base pairs dna single run
+MISC--: some fastest methods today based strategies cyclic reversible termination citation ligation based sequencing citation produce shortest read lengths ranging bp
+MISC--: lengths sufficient resequencing projects including efforts sample human population but they yet prove useful sequencing novel species
+MISC--: difficulty no existing assembly algorithms accurately reconstruct genome short reads citation
+MISC--: first published report bacterial genome sequence short reads used pyrosequencing technology was able generate reads averaging bp
+MISC--: study citation demonstrated feasibility assembling small bacterial genome mycoplasma genitalium reads covered genome fold
+MISC--: this combination coverage read length allowed margulies et al generate contiguous stretchs dna averaging kilobases
+MISC--: results using pyrosequencing improved steadily read lengths increased bp longer but difficulty de novo assembly raised questions about utility alternative sequencing technologies those produce reads shorter than bp genome sequencing projects
+MISC--: assembly novel strains species where genome not previously been sequenced very short reads proven more difficult although simulation studies indicated should possible citation
+OWNX--: recent study showed combination pyrosequencing reads paired end sequencing could used assemble million base pair genome into just contigs linked together scaffolds citation
+MISC--: another recent effort used hybrid strategy mixed pyrosequencing traditional sanger sequencing produce draft assemblies marine microbes citation
+MISC--: contrast very short reads generated solexa sequence analyzer thus far been useful primarily polymorphism discovery human genome resequencing polymorphism discovery caernohabditis elegans citation other applications chip seq citation identifies genomic regions bound transcription factors
+MISC--: very short reads currently bp produced crt technologies solexa present far more difficult assembly problem
+MISC--: standard assembly algorithms arachne citation citation celera assembler citation cannot process short reads at all spurring development several new algorithms designed short reads including ssake citation velvet citation edena citation allpaths citation
+MISC--: latter methods handle solexa data but they produce highly fragmented assemblies when provided whole genome data bacterial genome
+MISC--: inherent problem very short reads every repetitive sequence longer than read length causes breaks assembly
+OWNX--: demonstrate feasibility assembling bacterial genome bp reads using related genomes assist process we chose pseudomonas aeruginosa strain pab highly virulent strain isolated frostbite patient
+MISC--: p aeruginosa ubiquitous environmental bacteria clinical importance leading cause gram negative nosocomial infections citation citation
+MISC--: several p aeruginosa genomes been sequenced previously including two laboratory strains pao originally isolated wound pa isolated burn citation citation
+MISC--: pa pao percent identical across mbp shared both genomes their similarity pab allowed us improve assembly provided means check its accuracy
+OWNX--: one our goals sequencing pab was identify genomic differences contribute its altered pathogenicity
+MISC--: here we report assembly p aeruginosa pab entirely bp reads using novel assembly strategy takes advantage related genomes homologous protein sequences
+MISC--: assembly very high quality comparable better than draft assemblies produced using earlier sequencing technologies
+CONT--: this study shows novel bacterial genome sequenced entirely very short read technology without use paired end sequences assembled into high quality genome
+MISC--: even at fold coverage amount sequence represents just one quarter single sequencing run solexa instrument brings sequencing cost easily within reach most scientists
+OWNX--: making all our assembly software free open source we hope further bring down barriers desktop whole genome sequencing
+OWNX--: we generated random shotgun reads p aeruginosa pab using solexa technology
+OWNX--: all reads were exactly bp length
+OWNX--: we used four distinct computational steps assemble genome pab
+OWNX--: initial step we used comparative assembly algorithm amoscmp citation aligns all reads reference genome then builds contigs based alignments
+CONT--: algorithm gains efficiency avoiding costly all versus all overlapping step particularly difficult very short reads due high incidence false overlaps citation
+MISC--: we modified amoscmp tuning mummer software citation run within amoscmp look exact matches reference genome at least bp allowing at most two mismatches each read
+OWNX--: we found careful trimming reads based their matches reference produced better assemblies than un trimmed reads
+OWNX--: initial assembly used reads leaving singletons
+OWNX--: pab genome closer pa than pao we therefore used pa primary reference orienting contigs
+OWNX--: our second step was novel enhancement comparative assembly strategy we used multiple reference genomes
+OWNX--: we used complete genomes both pao citation pa citation separately build multiple comparative assemblies found pa produced better assembly comprising contigs containing bp
+MISC--: bulk sequence was contained contigs longer than kbp collectively covered bp
+MISC--: there were bp pa genome were not covered initial assembly due divergence between two strains
+MISC--: however gaps comparative assembly based pao occurred different locations due differences between strains
+MISC--: best assembly based pao comprised contigs covering bp
+OWNX--: we aligned two assemblies one another identify locations where contig pao based assembly might span two more contigs pa based assembly
+OWNX--: each case we filled gap sequence pao assembly using minimus assembler citation stitch together contigs
+OWNX--: this algorithm closed gaps reducing number contigs all but were bp
+MISC--: bulk genome bp was contained just contigs bp longer
+OWNX--: note overlapping contigs between two assemblies did not agree perfectly
+OWNX--: order produce clean merged assembly we re mapped reads contigs using amoscmp create consistent multi alignments
+OWNX--: third step used novel algorithm gene boosted assembly
+BASE--: this step we took contigs previous step identified protein coding genes using our annotation pipeline based glimmer citation blast citation
+BASE--: because amino acid sequences much more conserved than nucleotide sequences we were able use predicted protein sequences fill gaps even where dna sequences diverged
+OWNX--: annotation pipeline identified proteins longest contigs
+OWNX--: initial annotation we identified those genes extended beyond ends contigs spanned gaps between contigs
+OWNX--: we extracted amino acid sequences corresponding gap positions small buffer sequence included each side each gap
+OWNX--: next we used tblastn citation align each protein sequence all unused reads translated all frames
+OWNX--: this step identified each gap small set reads would fill missing protein sequence tblastn results provided initial locations multiple alignment
+OWNX--: we then used new program abba assemble reads together flanking contigs close gaps
+MISC--: this gene boosted assembly protocol extended many contigs closed gaps ranging length bp reducing number long contigs
+AIMX--: separate test we conducted gene boosted assembly pab using only annotated proteins pa without any reference genomic sequence
+OWNX--: this experiment we aligned all translated reads each protein used abba assemble each one
+MISC--: proteins abba produced single contig covered entire reference protein another proteins assembled into few contigs
+OWNX--: thus out pab proteins assembled using pure gene boosting approach additional proteins would likely assembled if we used large set proteins boosting
+MISC--: this demonstrates absence closely related genome sequence gene boosted assembly use protein sequences diverge much more slowly than genomic dna assemble most genes new bacterial strain although results will lack global genome structure information
+OWNX--: fourth step our method identified any remaining dna sequences were unique pab outside predicted gene regions
+OWNX--: we separately constructed pure de novo assemblies million solexa reads using ssake edena velvet
+MISC--: velvet assembly was best three creating contigs longest being bp
+OWNX--: we used mummer align contigs long contigs our scaffold previous step identified cases where de novo contigs spanned gaps extended contigs
+OWNX--: this step allowed us close gaps reducing number contigs our main scaffold
+OWNX--: after removing velvet contigs were already contained our scaffold we had unplaced de novo contigs spanning bp
+MISC--: longest unplaced contig was bp

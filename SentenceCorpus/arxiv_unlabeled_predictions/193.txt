@@ -1,0 +1,18 @@
+MISC--: grammar inference deals determining preferable simple models grammars consistent set observations
+MISC--: there large body research grammar inference within theory formal languages
+MISC--: however there surprisingly little known grammar inference graph grammars
+AIMX--: this paper we take further step this direction work within framework node label controlled nlc graph grammars
+MISC--: specifically we characterize given set disjoint isomorphic subgraphs graph symbol whether not there nlc graph grammar rule generate subgraphs obtain symbol
+MISC--: this generalizes previous results assuming set isomorphic subgraphs disjoint instead non touching
+MISC--: this leads naturally consider more involved non confluent graph grammar rules
+MISC--: grammar inference also called grammar induction general line research where one concerned determining simple grammar consistent given set possible impossible outcomes
+MISC--: hence one goes back derivation instead determining generative power grammar one determines grammar given generated output
+CONT--: this topic well studied formal languages especially respect context free languages see eg citation however relatively little known graph grammars
+MISC--: topic inference graph grammars considered citation uses their so called subdue scheme developed citation
+MISC--: citation rigorous approach grammar inference within framework node label controlled nlc graph grammars citation natural well studied class graph grammars initiated
+MISC--: there characterized given set symbol non touching isomorphic graphs graph symbol whether not there graph grammar consisting one rule able generate graphs symbol obtain symbol
+OWNX--: we continue this research generalize this result case where graphs disjoint instead non touching
+OWNX--: generalization requires one deal number issues
+OWNX--: most notably one deal non confluency issues generated graph depends order touching subgraphs generated addconf due space constraints proofs results omitted but found extended version
+MISC--: 
+AIMX--: this paper

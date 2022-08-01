@@ -1,0 +1,35 @@
+MISC--: lightness illusions fundamental human perception yet why we see them still focus much research
+OWNX--: here we address question modelling not human physiology perception directly typically case but our natural visual world need robust behaviour
+OWNX--: artificial neural networks were trained predict reflectance surfaces synthetic ecology consisting d dead leaves scenes under non uniform illumination
+OWNX--: networks learned solve this task accurately robustly given only ambiguous sense data
+MISC--: addition direct consequence their experience networks also made systematic errors their behaviour commensurate human illusions includes brightness contrast assimilation although assimilation only emerged when virtual ecology included d opposed d scenes
+OWNX--: subtle variations illusions also found human perception were observed asymmetry brightness contrast
+OWNX--: data suggest illusions arise humans because natural stimuli ambiguous this ambiguity resolved empirically encoding statistical relationship between images scenes past visual experience
+OWNX--: since resolving stimulus ambiguity challenge faced all visual systems corollary findings human illusions must experienced all visual animals regardless their particular neural machinery
+MISC--: data also provide more formal definition illusion condition true source stimulus differs what its most likely source
+MISC--: illusions not fundamentally different non illusory percepts all being direct manifestations statistical relationship between images scenes
+OWNX--: understanding how we generate accurate perceptions surfaces often best informed understanding why we sometimes do not
+MISC--: thus illusions lightness essential tools vision research
+MISC--: many natural environments light levels vary across space over time
+MISC--: important able perceive surfaces independently this varying light intensity order forage predate successfully example
+CONT--: number models lightness perception been proposed but most fail deal complex stimuli only demonstrate narrow range behaviours
+MISC--: instance one well known heuristic model predicts human lightness perceptions first subdividing stimuli into multiple local frameworks based instance junction analysis co planarity well other classic gestalt factors
+MISC--: then within each framework ratio patch s intensity maximum intensity patch s local framework used predict reflectance combining bright white large white area rule citation
+MISC--: rules well defined effective simple stimuli but application rule not been studied more complex images citation
+MISC--: indeed hard see how model could applied even moderately complex stimuli much less natural scenes under spatially heterogeneous illumination without extremely complex edge classification rules yet undefined
+OWNX--: furthermore human based heuristics provide little insight into physiological computational principles vision relevant all visual animals
+MISC--: more computational approaches other hand less descriptive more quantitative make fewer assumptions
+MISC--: example artificial neural networks been trained extract scene information object shape movement simple synthetic images citation citation statistical approach using gibbs sampling markov random fields been used separate reflectance illumination simple images citation
+MISC--: most models however unable explain brightness contrast assimilation simultaneously without recourse one more adjustable weighting factors
+MISC--: one approach blakeslee mccourt filter model citation
+MISC--: applying set filters model produces results correspond closely psychophysical results wide range illusory stimuli
+OWNX--: same model however fails predict asymmetry brightness contrast where darker surrounds cause larger illusions than equally lighter surrounds we discuss later
+CONT--: while asymmetries not captured odog model presently implemented permitting different gain parameters applied outputs independent channels off channels would constitute logical first step toward accommodating differences citation
+MISC--: also important stress model does not attempt predict reflectance surfaces only perceived brightness stimulus therefore unable explain lightness constancy more natural scenes under spatially heterogeneous illumination
+MISC--: related machine vision work includes separation luminance changes into those caused shading those caused paint surface using filters mixture gaussians citation localised mixture experts set multiscale filters been used extract intrinsic components image including de noising citation
+MISC--: however studies do not attempt explain human perception lightness illusions
+OWNX--: thus explanations why how we see lightness illusions remain incomplete
+OWNX--: here we take different approach rationalising human illusions extension lightness perception generally
+OWNX--: rather than modelling human perception known primate physiology typical most models we instead model empirical process vision resolves most fundamental challenge visual ecology inherent ambiguity visual stimuli
+OWNX--: we make no assumptions about particular physiology cognition but instead model process development learning stimuli feedback environment
+MISC--: this analogous experiential learning any animal whose behaviour guided visually must learn resolve perceptual ambiguity order survive

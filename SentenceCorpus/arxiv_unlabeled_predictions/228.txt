@@ -1,0 +1,28 @@
+CONT--: experimental verification been method choice verifying stability multi agent reinforcement learning marl algorithm number agents grows theoretical analysis becomes prohibitively complex
+MISC--: cooperative agents where ultimate goal optimize some global metric stability usually verified observing evolution global performance metric over time
+MISC--: if global metric improves eventually stabilizes considered reasonable verification system s stability
+CONT--: main contribution this note establishing need better experimental frameworks measures assess stability large scale adaptive cooperative systems
+AIMX--: we show experimental case study where stability global performance metric rather deceiving hiding underlying instability system later leads significant drop performance
+OWNX--: we then propose alternative metric relies agents local policies show experimentally our proposed metric more effective than traditional global performance metric exposing instability marl algorithms
+MISC--: term convergence reinforcement learning context refers stability learning process underlying model over time
+MISC--: similar single agent reinforcement learning algorithms q learning citation convergence multi agent reinforcement learning marl algorithm important property received considerable attention citation
+MISC--: however proving convergence marl algorithm via theoretical analysis significantly more challenging than proving convergence single agent case
+MISC--: presence other agents also learning deem environment non stationary therefore violating foundational assumption single agent learning
+MISC--: fact proving convergence marl algorithm even player action single stage games arguably simplest class multi agent systems domains been challenging citation
+MISC--: consequence experimental verification usually method choice number agents grows theoretical analysis becomes prohibitively complex
+MISC--: cooperative agents researchers typically verified stability marl algorithm observing evolution some global performance metric overtime citation
+MISC--: this not surprising since ultimate goal cooperative system optimize some global metric
+MISC--: examples global performance metrics include percentage total number delivered packets routing problems citation average turn around time tasks task allocation problems citation average reward received agents general citation
+MISC--: if global metric improves over time eventually appears stabilize usually considered reasonable verification convergence citation
+MISC--: even if underlying agent policies not stable one could argue at end global performance all matters cooperative system
+AIMX--: this paper challenges above widely used practice establishes need better experimental frameworks measures assessing stability large scale cooperative systems
+AIMX--: we show experimental case study where stability global performance metric hide underlying instability system
+MISC--: this hidden instability later leads significant drop global performance metric itself
+OWNX--: we propose alternative measure relies agents local policies policy entropy
+OWNX--: we experimentally show proposed metric more effective than traditional global performance metric exposing instability marl algorithms large scale multi agent systems
+AIMX--: paper organized follows
+AIMX--: section describes case study we will using throughout paper
+OWNX--: section reviews marl algorithms particular focus wpl giga wolf two algorithms we use our experimental evaluation
+OWNX--: section presents our initial experimental results where global performance metric leads misleading conclusion marl algorithm converges
+OWNX--: section presents our proposed measure illustrates how used expose hidden instability marl algorithm
+OWNX--: we conclude section

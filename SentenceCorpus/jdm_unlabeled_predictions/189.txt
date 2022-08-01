@@ -1,0 +1,36 @@
+MISC--: ninety eight australian students participated functional replication study published dijksterhuis et al citation
+OWNX--: results indicated unconscious thought does not necessarily lead better normative decision making performance than conscious thought contrary results found dijksterhuis et al since other studies showed positive though statistically not significant effect unconscious thought meta analysis comprising total number experiments was conducted
+MISC--: suggests there little evidence advantage normative decision making using unconscious thought
+MISC--: however discussion potential moderators shows further study would help identify situations unconscious thought truly helpful those not
+MISC--: series studies dijksterhuis colleagues citation established surprising counterintuitive finding unconscious thought leads better decision making performance complex problems than conscious thought
+MISC--: unconscious thought defined cognitive affective task relevant processes take place outside conscious awareness citation
+MISC--: second postulate reverse true simple decision consciously thinking about them better
+AIMX--: this paper concerned only first
+MISC--: common denominator all experiments described dijksterhuis colleagues experimental technique
+MISC--: participants split two three groups provided number pieces information about number options choose instance four apartments flatmates
+MISC--: each option described same number attributes usually attributes choice option
+OWNX--: example attribute all choice options apartments might size
+MISC--: typically attributes conceptualized dichotomously either apartment spacious not
+MISC--: all pieces information about all choice options presented either lists e g newell wong cheung rakow press individually randomized e g this study individually fixed order citation fixed amount time
+MISC--: prior information presentation participants informed they will choose one options citation b rate each option e g lerouge submitted
+MISC--: then following presentation information participants either immediately make choice between options think about their choice fixed amount time citation distracted same amount time before making their decision
+MISC--: principal claim when number factors ought considered high indicated number attributes decision therefore complex unconscious thought will lead better decision performance than conscious deliberation
+MISC--: better decision making i call normative here defined choosing ranking higher options more positive features
+MISC--: however although most dijksterhuis colleagues experiments found effect hypothesized direction effects often failed reach statistical significance when comparing unconscious conscious group directly
+OWNX--: example first reported experiment dijksterhuis number study critical comparison did not reach statistical significance p less than number
+OWNX--: this context important point out sequence experiments carried out dijksterhuis only first two published citation were exclusively directed at establishing differences between decision success under unconscious versus conscious thought
+MISC--: other experiments primarily investigated further aspects what was become theory unconscious thought citation
+OWNX--: example experiments number number dijksterhuis bos nordgren van baaren s citation study dealt deliberation without attention effect required two conditions complex simple one were differentiated number information bits participants received
+CONT--: however even though studies did not primarily contrast conscious unconscious thought they frequently provided data supporting notion unconscious thought superior form integrating large amount information
+MISC--: conscious thought according dijksterhuis very useful monitoring information respect particular criterion example minimal amount space must available apartment
+MISC--: engage logical operations work quantities precise fashion case mathematical operations
+MISC--: other hand limited capacity thus unsuitable integrate large amounts information
+MISC--: unconscious thought other hand claimed possess virtually infinite processing capacity process information divergently employ natural weighing mechanism acquired information
+MISC--: alleged differences between two forms thought been described six principles some additional characteristics dijksterhuis nordgren citation who re stated basic tenet unconscious thought works well complex decision situations multiple sources relevant information
+MISC--: despite its empirical successes its advanced conceptual development theory unconscious thought not been without criticism
+MISC--: shanks number example claimed unconscious thought effects were artefact differential rates forgetting rather than product different forms processing
+MISC--: theory was also criticised limited sample size supporting studies concern was voiced about applicability theory clinical context citation dijksterhuis colleagues pointed out theory was not intended
+MISC--: addition criticisms currently published data fairly limited they almost exclusively include studies one laboratory
+MISC--: purpose present article two fold
+OWNX--: first aim provide replication data unconscious decision making effect english speaking sample english stimulus material
+MISC--: study was also designed gather additional information rule out potential alternative explanations unconscious thought effect

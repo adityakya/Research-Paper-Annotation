@@ -1,0 +1,19 @@
+MISC--: we propose people weight fluent easy process information more heavily than disfluent information when making judgments
+OWNX--: cue fluency was manipulated independent objective cue validity three studies findings support our hypothesis
+MISC--: experiment number participants weighted consumer review more heavily when was written clear font than less clear font
+MISC--: experiment number participants placed more weight information when was focus than when was blurry
+MISC--: experiment number participants placed more weight financial information brokerage firms easy pronounce names than those hard pronounce names
+OWNX--: studies demonstrate fluency affects cue weighting independent objective cue validity
+MISC--: when making judgments decisions people numerous pieces information i e cues available aid decision process
+MISC--: when deciding whether patient diabetes doctor might examine patient s symptoms family health history lab results
+MISC--: stockbroker might consider companies profit margins quarterly projections recent activity
+MISC--: judge jurist might consider testimony several witnesses various other pieces evidence
+MISC--: so much information available how do we decide cues weight most heavily
+MISC--: conventional models suggest decision makers should weight information based objective cue validity
+MISC--: according normative principles weighted additive citation additive difference citation weighted averaging models citation people should consider all available cues might inform particular judgment
+MISC--: they should then differentially weight each cue based upon how successfully cue predicts outcome
+CONT--: however this approach cannot perfectly explain how naive decision makers who unaware cue validities might make judgments decisions
+MISC--: nor explain how people s judgments often result overweighting less valid information citation
+CONT--: given learning cue validities time consuming inaccurate citation we propose people might use cue s fluency ease processed additional basis weighting cues
+MISC--: fluency based account cue weighting does not require decision makers know objective cue validities
+MISC--: instead this explanation highlights rather simple tendency placing more weight information feels easy process

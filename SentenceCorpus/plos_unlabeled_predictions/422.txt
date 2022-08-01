@@ -1,0 +1,89 @@
+MISC--: yeast two hybrid screens important method mapping pairwise physical interactions between proteins
+MISC--: fraction interactions detected independent screens very small outstanding challenge determine reason low overlap
+OWNX--: low overlap arise either high false discovery rate high false negative rate
+OWNX--: we extend capture recapture theory provide first unified model false positive false negative rates two hybrid screens
+MISC--: analysis yeast worm fly data indicates percent percent reported interactions likely false positives
+OWNX--: membrane proteins higher false discovery rates average signal transduction proteins lower rates
+MISC--: overall false negative rate ranges percent worm percent fly arises roughly percent false negative rate due statistical undersampling percent percent false negative rate due proteins appear systematically lost assays
+MISC--: finally statistical model selection conclusively rejects erd s r nyi network model favor power law model yeast truncated power law worm fly degree distributions
+MISC--: much genome sequencing coverage estimates were essential planning human genome sequencing project coverage estimates developed here will valuable guiding future proteomic screens
+OWNX--: all software datasets available datasets s s figures s s tables s s also available our web site link
+MISC--: maps pairwise protein protein interactions being generated increasing numbers two hybrid method citation
+MISC--: genome scale two hybrid screens now been conducted saccharomyces cerevisiae citation citation caenorhabditis elegans citation drosophila melanogaster citation
+MISC--: more recently screens been reported herpesviruses human citation citation
+MISC--: datasets stimulated large scale analysis topology protein interaction networks
+MISC--: limitations data both false positives false negatives continue make difficult infer network properties citation citation including distinctions basic difference between erd s r nyi power law citation citation other network degree distributions citation
+OWNX--: recent review points out challenges estimating false positive rates false negative rates completion full coverage protein interaction networks citation
+MISC--: virtually every published method falls back estimate based intersections datasets
+MISC--: false positive rates methods large variance when assays little overlap indeed could not used analyze existing large scale maps worm fly
+MISC--: estimates false negative rates based overlap datasets may even larger uncertainty
+MISC--: finally global estimates false positive false negative rates say little about protein specific properties including whether certain classes proteins behave well badly two hybrid screens
+OWNX--: goal this work develop apply statistical model two hybrid pairwise interaction screens
+MISC--: previous methods typically summarize presence absence interaction binary variable possibly split off high confidence core dataset
+OWNX--: method we describe reaches back raw counts observed bait prey clones
+MISC--: this frees statistical method need external gold standard true positive true negative interactions even second dataset
+MISC--: permits protein specific predictions first time permit tests hypotheses some classes proteins more less likely nonspecific interactions
+MISC--: finally estimates false negative rates permit statistically grounded confidence intervals total number pairwise interactions present model organism proteomes
+MISC--: flowchart two hybrid screen orients discussion showing where true positive interaction partners lost where false positive spurious interactions may arise
+MISC--: two hybrid assay one protein fused binding domain yeast transcription factor second protein fused activation domain
+MISC--: physical interactions between bait prey proteins reconstitute transcription factor activity
+MISC--: due expense assay not every protein may selected made into bait prey construct
+OWNX--: furthermore some constructs may not functional at all due improper folding incompatibility two hybrid system
+MISC--: missing interactions important consider when estimating total number interactions proteome
+MISC--: high throughput two hybrid screens used multiplexed pairwise tests either testing single bait versus pool preys citation citation pooling both baits preys citation
+MISC--: unnormalized prey pools generated mrna extracted growing cells
+MISC--: access clone collections pools normalized designing baits preys individually each protein protein domain then mixing preys equal proportion
+MISC--: yeast screen considered here citation tested normalized bait pools versus normalized prey pools each pool having approximately genes
+OWNX--: fly screen worm screen each tested one bait turn versus both normalized unnormalized pools
+MISC--: testing occurs using mating transformation express both bait prey construct single yeast cell
+OWNX--: true positive interactions drive reporter genes permit yeast cell grow selective media
+MISC--: yeast cells whose bait prey constructs do not interact expected drop out during population expansion
+MISC--: true positives may also lost during population expansion at least two reasons
+MISC--: first mating transformation may lack enough cells ensure every combination tested
+MISC--: second particular construct may domain specific misfolding making functional some interactions but nonfunctional others
+MISC--: true interactions not represented cells following population expansion systematic false negatives particular screen
+MISC--: false negatives due insufficient mating transformation due nonfunctional domains could principle discriminated repeating mating transformation step selective population expansion
+MISC--: without this additional step however losses during population expansion combine yield systematic false negative rate termed p syst p syst representing true positive rate interacting pair survive population expansion
+MISC--: some cells expressing noninteracting proteins may also survive population expansion final population cells will mixture true positives false positives
+MISC--: figure mass fraction true positive cells false positive cells ratio false positives total number true negatives false positive rate
+MISC--: usually however ratio respect total number observed interactions defined false discovery rate synonymous parameter
+OWNX--: ongoing point contention two hybrid screens possibility two proteins never interact vivo host organism might strong reproducible interaction vitro engineered two hybrid system
+OWNX--: conversely proteins strong two hybrid interaction might nevertheless fail interact vivo
+OWNX--: purposes this work we assume cases rare we classify any pair proteins reproducible two hybrid interaction true positive
+MISC--: while total false positive fraction may large represents sum over many different false positive pairs
+MISC--: most models including ours assume any particular false positive rare vanishing probability observing specific false positive interaction more than once
+MISC--: interactions detected pooled screens often require sequencing identify interacting partners although advanced pooling designs may improve deconvolution efficiency citation
+MISC--: cost constraints limit number interactions sampled sequencing
+MISC--: if number clones selected sequencing smaller than number true interaction partners bait some true partners will certainly lost
+OWNX--: limited sampling depth also truncates observed degree distribution baits
+MISC--: false negative rate due undersampling termed p samp figure
+MISC--: false discovery rates typically been estimated comparing datasets citation citation suggesting up percent false positives but analyses confound false positive false negative error sources
+OWNX--: estimated error rates large uncertainty because few interactions observed multiple datasets
+MISC--: example comparing uetz ito two hybrid datasets yeast reveals only percent total interactions common citation comparing two hybrid interactions mass spectrometry interactions reveals only percent common citation
+MISC--: similarly comparison two fly screens reveals few interactions common citation citation
+MISC--: cross species comparisons also revealed little overlap reported interactions citation although protein network evolution additional confounding factors
+OWNX--: efforts estimate true number interaction partners protein used contingency tables observing interaction multiple screens
+MISC--: methods require all interactions true positives example excluding singleton observations citation reduce estimated interaction count
+MISC--: notable exception previous work context mass spectrometry protein complexes citation used bayesian model infer global parameters screen specific false positive false negative rates
+OWNX--: parameters then provided posterior estimates probability true interaction given results one more screens
+MISC--: this work important using number trials successes rather than single summary yes no observation its probability model serves motivation developing similar models more complicated two hybrid sampling process involving strong protein specific effects
+MISC--: quantitative predictions amount work required identify some fraction true interactions would analogous formulas genome sequencing citation would useful planning new experiments citation
+MISC--: new work presented here uses raw screening data estimate false negative rate undersampling together false positive rate
+MISC--: schematic illustrates sampling process
+MISC--: interactions sampled replacement two sets one representing true positives other true negatives
+OWNX--: observations number times each interaction sampled we summarize three variables n total number samples drawn w number unique interactions within n samples s number interactions observed exactly once
+OWNX--: observations we estimate unknown values k total number true interaction partners f number false positives within sample n we also estimate parameter representing fraction false positives mixture well parameters representing probability distribution k simplicity illustration suggests sampling interactions entire network reality this sampling process occurs separately each bait estimation k f performed separately each bait
+MISC--: this estimation problem akin estimating population sizes species counts capture recapture experiments estimating vocabulary size word counts estimating number distinct alleles at particular locus estimating number facts scientific literature citation citation
+MISC--: classic capture recapture theory permits heterogeneous capturability rates here analogous different probabilities observing each true interaction partner bait
+MISC--: canonical estimator simple form w s k citation citation where k number partners observed exactly twice
+OWNX--: classic estimator fails two hybrid setting because does not account false positives
+OWNX--: our knowledge false positives never been discussed capture recapture setting
+OWNX--: false positives will vastly inflate interaction count adding number singleton observations s total observed count w standard estimator high variance when number observations small yielding small value denominator k
+OWNX--: estimator fails converge when each partner observed only once yielding n w s k
+OWNX--: we present front back statistical model both false positive false negative error rates two hybrid screens
+MISC--: glossary model terms provided
+CONT--: overall approach start estimating parameters mixture model true positives false positives following population expansion
+OWNX--: this permits us estimate bait specific false discovery rates false negative rates due undersampling
+OWNX--: we then back calculate false negative rate due systematic effects
+OWNX--: putting results together yields overall estimate false negative rate screen basis comparing interaction lists produced different efforts
+AIMX--: along way we examine issues our model able address quantitatively selecting best model protein degree distribution correlating false discovery rates bait properties sticky promiscuous domains hydrophobic regions determining relative performance prey libraries generated cdna libraries orfeome collections

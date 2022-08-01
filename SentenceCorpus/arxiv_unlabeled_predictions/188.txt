@@ -1,0 +1,50 @@
+MISC--: we consider least square linear regression problem regularization symbol norm problem usually referred lasso
+AIMX--: this paper we first present detailed asymptotic analysis model consistency lasso low dimensional settings
+OWNX--: various decays regularization parameter we compute asymptotic equivalents probability correct model selection
+OWNX--: specific rate decay we show lasso selects all variables should enter model probability tending one exponentially fast while selects all other variables strictly positive probability
+AIMX--: we show this property implies if we run lasso several bootstrapped replications given sample then intersecting supports lasso bootstrap estimates leads consistent model selection
+MISC--: this novel variable selection procedure referred bolasso extended high dimensional settings provably consistent two step procedure
+OWNX--: regularization symbol norm attracted lot interest recent years statistics machine learning signal processing
+MISC--: context least square linear regression problem usually referred lasso citation basis pursuit citation
+MISC--: much early effort been dedicated algorithms solve optimization problem efficiently either through first order methods citation through homotopy methods leads entire regularization path i e set solutions all values regularization parameters at cost single matrix inversion citation
+MISC--: well known property regularization symbol norm sparsity solutions i e leads loading vectors many zeros thus performs model selection top regularization
+OWNX--: recent works citation looked precisely at model consistency lasso i e if we know data were generated sparse loading vector does lasso actually recover sparsity pattern when number observations grows
+MISC--: case fixed number covariates i e low dimensional settings lasso does recover sparsity pattern if only if certain simple condition generating covariance matrices satisfied citation
+MISC--: particular low correlation settings lasso indeed consistent
+MISC--: however presence strong correlations between relevant variables irrelevant variables lasso cannot model consistent shedding light potential problems procedures variable selection
+MISC--: various extensions lasso been designed fix its inconsistency based thresholding citation data dependent weights citation two step procedures citation
+AIMX--: main contribution this paper propose analyze alternative approach based resampling
+MISC--: note recent work citation also looked at resampling methods lasso but focuses resampling weights symbol norm rather than resampling observations see mysec support more details
+AIMX--: this paper we first derive detailed asymptotic analysis sparsity pattern selection lasso estimation procedure extends previous analysis citation focusing specific decay regularization parameter
+MISC--: namely low dimensional settings where number variables symbol much smaller than number observations symbol we show when decay symbol proportional symbol then lasso will select all variables should enter model relevant variables probability tending one exponentially fast symbol while selects all other variables irrelevant variables strictly positive probability
+MISC--: if several datasets generated same distribution were available then latter property would suggest consider intersection supports lasso estimates each dataset all relevant variables would always selected all datasets while irrelevant variables would enter models randomly intersecting supports sufficiently many different datasets would simply eliminate them
+MISC--: however practice only one dataset given but resampling methods bootstrap exactly dedicated mimic availability several datasets resampling same unique dataset citation
+AIMX--: this paper we show when using bootstrap intersecting supports we actually get consistent model estimate without consistency condition required regular lasso
+OWNX--: we refer this new procedure bolasso bo otstrap enhanced l east b s olute s hrinkage o perator
+OWNX--: finally our bolasso framework could seen voting scheme applied supports bootstrap lasso estimates however our procedure may rather considered consensus combination scheme we keep largest subset variables all regressors agree terms variable selection our case provably consistent also allows get rid potential additional hyperparameter
+MISC--: we consider two usual ways using bootstrap regression settings namely bootstrapping pairs bootstrapping residuals citation
+OWNX--: mysec support we show two types bootstrap lead consistent model selection low dimensional settings
+OWNX--: moreover mysec simulations we provide empirical evidence high dimensional settings bootstrapping pairs does not lead consistent estimation while bootstrapping residuals still does
+OWNX--: while we currently unable prove consistency bootstrapping residuals high dimensional settings we prove mysec highdim model consistency related two step procedure lasso run once original data larger regularization parameter then bootstrap replications pairs residuals run within support first lasso estimation
+OWNX--: we show mysec highdim this procedure consistent
+OWNX--: order do so we consider new sufficient conditions consistency lasso do not rely sparse eigenvalues citation low correlations citation finer conditions citation
+MISC--: particular our new assumptions allow prove lasso will select not only few variables when regularization parameter properly chosen but always same variables high probability
+MISC--: mysec algorithms we derive efficient algorithms bootstrapped versions lasso
+MISC--: when bootstrapping pairs we simply run efficient homotopy algorithm lars citation multiple times however when bootstrapping residuals more efficient ways may designed obtain running time complexity less than running lars multiple times
+OWNX--: finally mysec experiments low mysec experiments high we illustrate our results synthetic examples low dimensional high dimensional settings
+MISC--: this work follow up earlier work citation particular refines extends analysis high dimensional settings boostrapping residuals paragraph notations symbol symbol we denote symbol its symbol norm defined symbol
+OWNX--: we also denote symbol its symbol norm
+OWNX--: rectangular matrices symbol we denote symbol its largest singular value symbol largest magnitude all its elements symbol its frobenius norm
+OWNX--: we let denote symbol symbol largest smallest eigenvalue symmetric matrix symbol
+MISC--: symbol symbol denotes sign symbol defined symbol if symbol symbol if symbol symbol if symbol
+MISC--: vector symbol symbol denotes vector signs elements symbol
+MISC--: given set symbol symbol indicator function set symbol
+OWNX--: we also denote symbol symbol smallest magnitude non zero elements symbol
+MISC--: moreover given vector symbol subset symbol symbol symbol denotes vector symbol elements symbol indexed symbol
+MISC--: similarly matrix symbol symbol denotes submatrix symbol composed elements symbol whose rows symbol columns symbol
+MISC--: moreover symbol denotes cardinal set symbol
+OWNX--: positive definite matrix symbol size symbol two disjoint subsets indices symbol symbol included symbol we denote symbol matrix symbol conditional covariance variables indexed symbol given variables indexed symbol gaussian vector covariance matrix symbol
+AIMX--: finally we let denote symbol symbol general probability measures expectations paragraph least square regression symbol norm penalization throughout this paper we consider symbol pairs observations symbol symbol
+OWNX--: data given form vector symbol design matrix symbol
+OWNX--: we consider normalized square loss function symbol symbol ell symbol symbol symbol hat j j dots p hat w j symbol symbol p n
+OWNX--: when this ratio much smaller than one mysec lowdim we refer this setting low dimensional estimation while other cases where this ratio potentially much larger than one we refer this setting high dimensional problem see mysec highdim

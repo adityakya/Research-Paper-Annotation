@@ -1,0 +1,33 @@
+AIMX--: this paper presents theoretical analysis sample selection bias correction
+MISC--: sample bias correction technique commonly used machine learning consists reweighting cost error each training point biased sample more closely reflect unbiased distribution
+MISC--: this relies weights derived various estimation techniques based finite samples
+OWNX--: we analyze effect error estimation accuracy hypothesis returned learning algorithm two estimation techniques cluster based estimation technique kernel mean matching
+OWNX--: we also report results sample bias correction experiments several data sets using techniques
+OWNX--: our analysis based novel concept distributional stability generalizes existing concept point based stability
+OWNX--: much our work proof techniques used analyze other importance weighting techniques their effect accuracy when using distributionally stable algorithm
+MISC--: standard formulation machine learning problems learning algorithm receives training test samples drawn according same distribution
+MISC--: however this assumption often does not hold practice
+MISC--: training sample available biased some way may due variety practical reasons cost data labeling acquisition
+MISC--: problem occurs many areas astronomy econometrics species habitat modeling
+MISC--: common instance this problem points drawn according test distribution but not all them made available learner
+MISC--: this called sample selection bias problem
+MISC--: remarkably often possible correct this bias using large amounts unlabeled data
+MISC--: problem sample selection bias correction linear regression been extensively studied econometrics statistics citation pioneering work emcite heckman
+MISC--: several recent machine learning publications citation also dealt this problem
+OWNX--: main correction technique used all publications consists reweighting cost training point errors more closely reflect test distribution
+MISC--: this fact technique commonly used statistics machine learning variety problems this type citation
+MISC--: exact weights this reweighting could optimally correct bias but practice weights based estimate sampling probability finite data sets
+CONT--: thus important determine what extent error this estimation affect accuracy hypothesis returned learning algorithm
+OWNX--: our knowledge this problem not been analyzed general manner
+AIMX--: this paper gives theoretical analysis sample selection bias correction
+BASE--: our analysis based novel concept distributional stability generalizes point based stability introduced analyzed previous authors citation
+OWNX--: we show large families learning algorithms including all kernel based regularization algorithms support vector regression svr citation kernel ridge regression citation distributionally stable we give expression their stability coefficient both symbol symbol distance
+OWNX--: we then analyze two commonly used sample bias correction techniques cluster based estimation technique kernel mean matching kmm citation
+OWNX--: each techniques we derive bounds difference error rate hypothesis returned distributionally stable algorithm when using estimation technique versus using perfect reweighting
+OWNX--: we briefly discuss compare bounds also report results experiments both estimation techniques several publicly available machine learning data sets
+OWNX--: much our work proof techniques used analyze other importance weighting techniques their effect accuracy when used combination distributionally stable algorithm
+AIMX--: remaining sections this paper organized follows
+OWNX--: section describes detail sample selection bias correction technique
+OWNX--: section introduces concept distributional stability proves distributional stability kernel based regularization algorithms
+OWNX--: section analyzes effect estimation error using distributionally stable algorithms both cluster based kmm estimation techniques
+OWNX--: section reports results experiments several data sets comparing estimation techniques

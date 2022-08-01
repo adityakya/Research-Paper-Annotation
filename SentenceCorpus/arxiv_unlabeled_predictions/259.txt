@@ -1,0 +1,102 @@
+MISC--: trailing backward compatibility
+MISC--: sty file
+MISC--: recent years analysis complexity learning gaussian mixture models sampled data received
+MISC--: significant attention computational machine learning theory communities
+AIMX--: this paper we present first result showing polynomial time learning multidimensional gaussian mixture distributions
+MISC--: possible when separation between component means arbitrarily small
+AIMX--: specifically we present algorithm learning parameters mixture symbol identical
+MISC--: spherical gaussians symbol dimensional space arbitrarily small separation between components
+MISC--: polynomial dimension inverse component separation other input
+MISC--: parameters fixed number components symbol
+OWNX--: algorithm uses projection symbol dimensions then reduction symbol dimensional case
+MISC--: relies theoretical analysis showing two symbol dimensional mixtures whose densities close symbol norm must similar
+MISC--: means mixing coefficients
+MISC--: produce necessary lower bound symbol norm terms
+OWNX--: distances between corresponding means we analyze behavior fourier transform
+MISC--: mixture gaussians one dimension around origin turns out closely related
+MISC--: properties vandermonde matrix obtained component means
+MISC--: analysis minors
+MISC--: vandermonde matrix together basic
+OWNX--: function approximation results allows us provide lower bound norm
+MISC--: mixture fourier domain hence bound original space
+OWNX--: additionally we present separate argument
+MISC--: reconstructing variance
+MISC--: mixture models particularly gaussian mixture models widely used tool many problems statistical inference citation
+MISC--: basic problem estimate parameters mixture distribution mixing
+MISC--: coefficients means variances within
+MISC--: some pre specified precision number sampled data points
+CONT--: while history gaussian mixture models goes back citation recent years theoretical aspects mixture learning attracted considerable attention
+MISC--: theoretical computer science starting
+MISC--: pioneering work citation who showed mixture symbol spherical
+MISC--: gaussians symbol dimensions learned time polynomial symbol
+MISC--: provided certain separation conditions between component means separation order symbol satisfied
+MISC--: this work been refined
+MISC--: extended number recent papers
+OWNX--: first result citation was later improved order symbol
+MISC--: citation spherical gaussians citation general gaussians
+MISC--: separation requirement was
+MISC--: further reduced made independent symbol order symbol citation spherical
+MISC--: gaussians order symbol citation logconcave distributions
+MISC--: related work citation separation requirement was reduced symbol
+MISC--: extension pca
+MISC--: called isotropic pca was introduced citation learn mixtures gaussians when any pair
+MISC--: gaussian components separated hyperplane having very small overlap along hyperplane direction so called pancake layering problem
+MISC--: slightly different direction recent work citation made important contribution subject providing polynomial time
+MISC--: algorithm pac style learning
+MISC--: mixture gaussian distributions arbitrary separation between means
+OWNX--: authors used
+MISC--: grid search over space parameters
+MISC--: construct hypothesis mixture
+MISC--: gaussians density close actual mixture generating data
+OWNX--: we note problem analyzed citation viewed
+MISC--: density estimation within certain family distributions different most other work
+AIMX--: subject including our paper address parameter learning
+OWNX--: we also note several recent papers dealing related problems learning mixture product distributions
+MISC--: heavy tailed distributions
+MISC--: see example citation
+MISC--: statistics literature citation showed optimal convergence rate mle estimator finite mixture normal distributions symbol where symbol sample size if number mixing components symbol known advance symbol when number mixing components known up upper bound
+CONT--: however this result does not address computational aspects especially high dimension
+OWNX--: this paper we develop polynomial time fixed symbol algorithm identify parameters
+MISC--: mixture symbol identical spherical gaussians potentially unknown variance arbitrarily small separation
+MISC--: between components
+OWNX--: best our knowledge this
+BASE--: first result this kind except simultaneous independent work citation analyzes case mixture
+OWNX--: two gaussians arbitrary covariance matrices using method moments
+OWNX--: we note results citation
+OWNX--: our paper somewhat orthogonal
+AIMX--: each paper deals special case ultimate goal two arbitrary gaussians citation
+OWNX--: symbol identical spherical gaussians unknown variance our case show polynomial learnability
+MISC--: mixture arbitrary number components arbitrary variance
+MISC--: all other existing algorithms parameter estimation require minimum separation between components
+MISC--: increasing function at least one symbol symbol
+OWNX--: our result also implies density estimate bound
+MISC--: along lines citation
+OWNX--: we note however we do pay price our procedure similarly citation
+OWNX--: super exponential symbol
+OWNX--: despite limitations we believe our paper makes step towards understanding
+MISC--: fundamental problem polynomial learnability gaussian mixture distributions
+OWNX--: we also think technique used paper obtain lower bound may independent interest
+AIMX--: main algorithm our paper involves grid search over certain space parameters specifically means
+MISC--: mixing coefficients mixture completely separate argument given estimate variance
+MISC--: giving appropriate lower upper bounds
+AIMX--: norm difference two mixture distributions terms their means we show grid
+OWNX--: search guaranteed find mixture nearly correct values parameters
+OWNX--: prove we need provide lower upper bounds norm mixture
+AIMX--: key point our paper
+MISC--: lower bound showing two mixtures different means cannot produce
+OWNX--: similar density functions
+MISC--: this bound obtained reducing problem dimensional mixture
+MISC--: distribution analyzing
+MISC--: behavior fourier transform closely related characteristic function whose coefficients moments
+MISC--: random variable up multiplication power imaginary unit symbol
+MISC--: difference between densities near zero
+OWNX--: we use certain properties minors vandermonde
+MISC--: matrices show norm mixture fourier domain bounded below
+OWNX--: since symbol norm invariant under fourier transform this provides lower bound norm
+MISC--: mixture original space
+BASE--: we also note work citation where vandermonde matrices appear analysis mixture
+OWNX--: distributions context proving consistency method moments fact we rely result citation
+MISC--: provide estimate variance
+OWNX--: finally our lower bound together upper bound some results non parametric density estimation
+MISC--: spectral projections mixture distributions allows us set up grid search algorithm over
+MISC--: space parameters desired guarantees

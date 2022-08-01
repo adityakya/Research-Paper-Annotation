@@ -1,0 +1,48 @@
+MISC--: we conducted analysis number item maximization scale citation goal establishing its factor structure reliability validity
+OWNX--: we also investigated psychometric properties several proposed refined versions scale
+OWNX--: four sets analyses reported
+MISC--: first analysis confirms number part factor structure scale assesses its reliability
+MISC--: second analysis identifies those items do not perform well basis internal external judgmental criteria develops three shorter versions scale
+MISC--: third analysis three refined versions scale cross validated confirm dimensionality reliability validity
+MISC--: fourth analysis uses experiment investment decision making context assess reliability nomological validity refined scales
+OWNX--: analyses lead us conclude shorter number item maximization scale performs best should used future researchers
+MISC--: hoped clarification conceptual underpinnings maximization construct development refined scale will enhance its use among researchers across several social science disciplines
+MISC--: researchers long recognized decision making adaptive process individuals making tradeoffs between accuracy effort citation
+MISC--: however schwartz et al citation suggested tendency optimize when making decisions may manifest dispositional variable they formalized distinction between maximizers satisficers individual difference
+MISC--: whereas some people consistently try choose best others tend satisfice settle options simply good enough citation
+MISC--: schwartz his colleagues citation proposed this difference may represent general behavioral tendency they developed scale capture distinction between decision makers who tend maximize those who tend satisfice
+MISC--: schwartz et al citation validated maximization scale across number survey experimental studies
+MISC--: was administered over number participants u s canada ranging age number number coming diverse ethnic backgrounds
+MISC--: results indicated maximizers tend pursue best option not simply option good enough constantly asking themselves this best outcome rather than this good outcome
+MISC--: addition examination relation between scores maximization scale range psychological correlates including regret happiness depression optimism self esteem perfectionism neuroticism subjective well being showed not only do maximizers exhibit different style decision making satisficers but they also appear experience different emotional concomitants decisions
+MISC--: they experience higher levels regret dissatisfaction than satisficers less happy more depressed less optimistic than satisficers citation
+MISC--: they also more affected social comparison especially upward social comparison than satisficers
+MISC--: thus maximizing strategy seems not only associated choice process but also experience after choice been made perhaps including satisfaction life whole
+MISC--: phenomenon wherein context choice affects context experience elsewhere been referred leakage citation
+MISC--: iyengar her colleagues citation subsequently studied college seniors looking jobs found students possessing maximizing tendencies pursued more job opportunities obtained starting salaries almost number percent higher than those offered satisficers
+MISC--: despite their relative success however maximizers were less satisfied outcomes their job search more pessimistic stressed overwhelmed depressed job search process
+MISC--: other domains researchers examined impact maximization gift giving behavior citation retirement investing citation post decisional regret citation
+MISC--: since maximization scale was first published been employed numerous studies different countries maximization construct appears growing interest researchers various domains citation
+MISC--: given this increasing interest reexamination maximization scale its measurement properties warranted
+AIMX--: current paper examines reliability factor structure validity maximization scale also proposes several refined shorter forms scale
+MISC--: development shorter forms maximization scale important because especially when maximization not focal interest research short scale will allow researchers include this construct large multivariate studies without making survey instruments excessively long citation
+MISC--: perhaps more important existing maximization scale candidate refinement because both past research employing scale current set analyses reported below suggest original number item scale contains several items tend not perform well psychometrically thus should considered elimination
+MISC--: addition original schwartz et al citation study suggested scale could analyzed into three distinct factors one reflecting choice difficulty one reflecting difficulty large numbers options one reflecting high standards
+MISC--: nothing been done since confirm existence three factors
+MISC--: further analysis warranted both because factors suggest different psychological processes because original schwartz et al citation results were less than ideal respect factor structure
+CONT--: analysis below suggests shorter number item version maximization scale not only performs adequately but actually performs at level superior original number item scale
+MISC--: we also define more carefully examine three dimensions maximization reported schwartz et al citation conclude they differentially predictive various psychological characteristics respondents
+CONT--: therefore future researchers advised examine not only peoples maximization scores but their sub dimension scores well
+MISC--: having shorter yet more valid reliable instrument measure people s tendency maximize should enhance research efforts examine how people s tendencies maximize satisfice during choice process affect their decisions choices ultimately their happiness well being
+OWNX--: order re examine original maximization scale develop refined shorter version exhibits superior psychometric properties we conduct four sets analyses
+MISC--: analysis number examines internal consistency dimensional purity maximization scale using ten pre existing datasets included maximization construct
+CONT--: analysis number uses same ten datasets develop refined shorter versions maximization scale number item number item number item versions
+BASE--: analyses number number independently establish reliability validity newly developed scales recommended smith et al citation analysis number we cross validate newly developed refined scales using ten datasets previously employed plus two new datasets analysis number we collect additional data assess validate further newly developed refined maximization scales
+MISC--: bearden netemeyer citation summarized psychometric qualities sound measurement instrument content validity dimensionality internal consistency reliability construct validity
+OWNX--: this paper we evaluate maximization scale using all criteria then develop several refined forms scale comparison purposes
+BASE--: process revising maximization scale we followed set rules procedures consistent past work citation
+OWNX--: our analyses we rely internal external judgmental criteria proposed stanton et al citation
+MISC--: internal criteria relate internal consistency dimensionality measured construct external criteria explicitly concerned construct validity judgmental criteria deal assessment content validity readability citation
+MISC--: furthermore we follow procedure recommended smith et al citation order avoid common sins short scale development
+MISC--: research presented here based analysis pre existing datasets new data
+MISC--: there were number pre existing datasets representing total over number number respondents were obtained several authors across several disciplines both u s overseas see table number

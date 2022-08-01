@@ -1,0 +1,51 @@
+MISC--: intrapersonal externality exists when individual s decisions affect outcomes her future decisions
+MISC--: result decreasing increasing average returns rate consumption occurs addiction exercise
+MISC--: experimentation using harvard game models intrapersonal externalities found differences decision making between drug users control subjects leading argument externalities influence course illicit drug use
+MISC--: nevertheless unclear how participants who behave optimally conceptualise problem
+OWNX--: we report two experiments using simplified harvard game tested differences contingency knowledge between participants who chose optimally participants who did not
+MISC--: those who demonstrated optimal performance exhibited both pattern correct responses systematic errors questions about payoff schedules
+MISC--: pattern suggested they learned explicit knowledge change reinforcement trail trial basis
+OWNX--: they did not need full knowledge historical interaction leading each payoff
+MISC--: we also found no evidence choice differences between participants who were given guaranteed payment participants who were paid contingent their performance but those given guaranteed payment were able report more contingency knowledge experiment progressed suggesting they explored more rather than settling into routine
+OWNX--: experiment number showed using fixed inter trial interval did not change results
+MISC--: experiments long suggested when humans make decisions they sometimes ignore even major consequences
+MISC--: some situations consequences systematically ignored
+MISC--: one situation intrapersonal externalities citation where changes utility options available future self not taken into account when making decision same way externalities economics refer situations consequences others not taken into account when individuals make decisions
+MISC--: overlooked intrapersonal externalities lead under investment activities exhibit increasing average returns rate consumption example exercise becomes increasingly rewarding increased practice also positive effects how rewarding other life activities over investment activities exhibit decreasing average returns rate consumption use addictive substances becomes decreasingly rewarding increased use also negatively effects perceived rewards other life activities
+MISC--: experiment reported herrnstein colleagues citation participants were presented repeated binary choice task using payoff schedules similar those shown figure number
+MISC--: payoff each choice was determined proportion previous ten choices was allocated each option where choosing optimal long term option would lead lower immediate payoff but would slightly increase payoff both options over each next ten trials leading higher overall payoff
+MISC--: conversely choosing optimal short term option would lead higher immediate payoff but would decrease payoff over next ten trials relative optimal option
+MISC--: consistently choosing long term option ultimately leads highest payoff although any single trial short term option would give greatest number points
+OWNX--: authors found most participants did not learn optimise their behaviour choosing instead option greatest short term payoff
+MISC--: herrnstein vaughan citation suggested choices made according principle melioration global rate reinforcement ignored
+MISC--: not new postulate addicts do not fully take into account internalities although past models generally used hyperbolic time discounting theoretical reason inconsistent preferences citation
+MISC--: nevertheless ecological validity intrapersonal externalities was supported heyman dunn citation who found patients recovering drug clinics were more likely choose sub optimally than control participants suggesting addicts may worse than others taking into account full consequences their decisions
+MISC--: further evidence link between intrapersonal externalities addictions come neuropsychological research found level prefrontal brain activity associated performance task citation
+MISC--: this same area implicated studies using iowa gambling task citation related abuse various substances including alcohol stimulants citation
+OWNX--: this suggests intervention at this behavioural level could effective reducing addictive behaviour if method were found improve decisions tasks involving intrapersonal externalities
+MISC--: series laboratory experiments tried without success guide participants choose optimally
+MISC--: warry remington sonuga barke citation attempted reduce motivation participants choose sub optimally reducing immediate differential between two options
+OWNX--: they found this helped however end their experiment participants were still choosing around chance levels authors noted extrapolation their data suggested participants would reach asymptote at level was non optimal
+MISC--: two experiments also attempted guide participants explicit understanding payoff schedules providing fairly explicit hint how participants could maximize their payoffs
+OWNX--: herrnstein colleagues citation found choices were only briefly improved hint but soon returned sub optimal levels
+MISC--: kudadjie gyamfi rachlin citation provided similar hint but found no corresponding improvement at all
+MISC--: nevertheless tunney shanks citation showed participants could overcome sub optimal behaviour long they were given regular feedback about how their behaviour compared optimal outcome they were given around number number trials learn schedules
+OWNX--: this suggests suboptimal choices harvard game not stable decision making bias but rather due failure fully learn payoff schedules
+MISC--: normally experiments studying intrapersonal externalities participants choices either affect number points gained citation number choices remaining until end experiment citation
+MISC--: however stillwell tunney citation modified schedules so both number points gained number choices remaining until end experiment were affected participants choices
+OWNX--: this allowed two outcomes each decision separated so immediate effects were visible through number points gained each trial number choices remaining until end experiment decreased at differing rates depending upon participant s history choices
+MISC--: other words choosing myopically led earning high payoffs through experiment but ultimately experiment ended prematurely participant lost opportunity earn further payoffs
+MISC--: separating consequences each decision made outcomes each decision more easily discernible so participants learned choose optimally much earlier than previous experiments
+MISC--: this also hints suboptimal behaviour task failure fully understand payoff schedules
+MISC--: nature outcomes choices made may not so easily divided into separate simple categories
+MISC--: so if results laboratory intrapersonal externality experiments useful understanding suboptimal decision making occurs addictions process whereby participants learn choose optimally simpler version needs understood
+MISC--: one process could result conscious insight into payoff schedules participants able report
+MISC--: this mirrors research into iowa gambling task found participants were able explicitly report their understanding task citation
+MISC--: present experiments attempted test explicit knowledge payoff schedules find out what participants who behave optimally able report about payoff schedules
+MISC--: experiments tested participants knowledge asking series questions designed cover every scenario task
+MISC--: they used quantitative test participants understanding been shown more sensitive than qualitative tests citation
+MISC--: experiments also tested whether making participants payment contingent number points they gained during task had effect their choices
+MISC--: particularly economics literature seen crucial incentivize participants this way citation
+MISC--: participants contingent condition were paid based number points they earned whereas those certain condition were paid fixed amount
+MISC--: possible giving points contingent payments could cause participants more motivation thus gain more points participants would not explore fully they would otherwise so would settle suboptimal strategy leading fewer points citation
+CONT--: if however not motivation failure leads poor performance experiments using intrapersonal externalities but rather cognitive failure understand payoff schedules then difference might not expected

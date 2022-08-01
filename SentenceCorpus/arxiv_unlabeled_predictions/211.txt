@@ -1,0 +1,22 @@
+MISC--: many reinforcement learning exploration techniques overly optimistic try explore every state
+MISC--: exploration impossible environments unlimited number states
+BASE--: i propose use simulated exploration optimistic model discover promising paths real exploration
+OWNX--: this reduces needs real exploration
+MISC--: reinforcement learning citation agent collects rewards environment
+MISC--: environment not known advance
+MISC--: agent explore learn where go
+MISC--: reward could received when taking action state
+MISC--: agent aims maximize her long term reward environment
+MISC--: she should not miss any state important reward shorter path
+MISC--: there many existing exploration techniques citation optimistic face uncertainty
+MISC--: their optimism assumes greater reward will obtained when taking unknown action
+MISC--: problem how do exploration environments unlimited number states
+MISC--: environments not possible try every action every possible state
+OWNX--: i study new way do exploration environments unlimited number states
+OWNX--: i use simulated exploration incentive real exploration
+MISC--: simulated exploration proposes promising paths explore
+OWNX--: i describe how use this kind exploration section
+OWNX--: my experiments section demonstrate how simulated exploration reduced needed amount real exploration
+MISC--: i also discuss when possible
+MISC--: many works touched related problems
+OWNX--: they inspired me i discuss them section

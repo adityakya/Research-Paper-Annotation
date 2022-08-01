@@ -1,0 +1,16 @@
+MISC--: assumption people possess repertoire strategies solve inference problems they face been made repeatedly
+MISC--: experimental findings two previous studies strategy selection reexamined learning perspective argues people learn select strategies making probabilistic inferences
+MISC--: this learning process modeled strategy selection learning ssl theory assumes people develop subjective expectancies strategies they
+MISC--: they select strategies proportional their expectancies updated basis experience
+MISC--: study newell weston shanks citation shown people did not anticipate success strategy beginning experiment
+OWNX--: instead behavior observed at end experiment was result learning process described ssl theory
+MISC--: second study broder schiffer citation ssl theory able provide explanation why participants only slowly adapted new environments dynamic inference situation
+MISC--: reanalysis previous studies illustrates importance learning probabilistic inferences
+MISC--: how do people make probabilistic inferences inferring selling price car severity illness likely winner tennis match
+MISC--: different strategies applied make inferences integrating all available information predict criterion
+MISC--: fact many researchers argued people equipped repertoire different cognitive strategies making judgments decisions citation
+MISC--: do people apply different strategies solving probabilistic inferences
+MISC--: if so how do they select their strategy repertoire
+MISC--: cost benefit approach strategy selection argues people trade off strategies anticipated costs benefits
+MISC--: contrast i will argue selection achieved via learning people learn success failure strategies through experience select strategy based past success
+MISC--: i will describe computational theory specifies this learning process citation will use explain people s probabilistic inferences two previous studies

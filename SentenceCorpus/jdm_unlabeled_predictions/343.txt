@@ -1,0 +1,56 @@
+OWNX--: we compared turkish english students soccer forecasting english soccer matches
+MISC--: although turkish students knew very little about english soccer they selected teams basis familiarity team its identified city their prediction success was surprisingly similar knowledgeable english students consistent goldstein gigerenzer s citation characterization recognition heuristic
+MISC--: turkish students made forecasts some matches additional information half time scores
+OWNX--: this further study where british students predicting matches foreign teams could choose whether not use half time information we found predictions could made recognition alone were influenced half time information
+MISC--: we consider implications findings context goldstein gigerenzer s citation suggestion no other information reverse choice determined recognition recent more qualified statement citation indicating two processes recognition evaluation guide adaptive selection recognition heuristic
+MISC--: how does knowledge affect judgment decision making
+MISC--: while much judgment research considered role expertise goldstein gigerenzer citation made startling claim under certain circumstances ignorance benefit judges attempting make inferences their knowledge
+MISC--: example goldstein gigerenzer citation asked both american german students bigger city san antonio san diego
+OWNX--: sixty two percent americans correctly named san diego but number percent german students were correct
+CONT--: all german students had heard san diego but only about half had heard san antonio
+MISC--: half german students would therefore able apply recognition heuristic if you recognise one not other pick city you recognise
+MISC--: people usually hear about bigger cities foreign countries before smaller ones i e recognition correlates criterion being predicted this cue will some validity
+MISC--: because american students had heard both cities they couldn t utilise this cue had rely other apparently less valid cues
+MISC--: terms accuracy seems when comes using knowledge make inferences less sometimes mean more
+MISC--: specifically when validity recognition cue exceeds validity knowledge applied when both items recognised less more effect predicted
+MISC--: corroborate this less more effect goldstein gigerenzer citation administered two quizzes number university chicago students one about biggest number german cities one about biggest number american cities
+MISC--: each quiz was comprised number randomly selected pairs biggest number cities country
+MISC--: they found american students were slightly more accurate about german cities than american cities
+MISC--: furthermore goldstein gigerenzer citation cited hoffrage citation who apparently found german students were slightly more accurate albeit non significantly at making decisions about american cities than about german cities
+MISC--: despite lifetime experience learning about cities one s native country seems one more accurate when making decisions about cities country considerably less familiar
+MISC--: since initial experiments further research citation extended our understanding conditions when less more effect may occur
+MISC--: another experiment confirm recognition heuristic predicted inferences goldstein gigerenzer citation found subjects adhered predictions recognition heuristic number percent occasions was applicable concluded recognition heuristic captured vast majority inferences
+MISC--: more general theoretical point goldstein gigerenzer citation drew demonstrations very simple one reason heuristic using very limited knowledge make surprisingly accurate decisions
+MISC--: even ignorance sometimes helpful because simple mental heuristic like recognition heuristic operates so take advantage structure information make good inferences
+MISC--: particular recognition heuristic successful when ignorance specifically lack recognition systematically rather than randomly distributed when strongly correlated criterion
+MISC--: particular interest us here goldstein gigerenzer s citation suggestion recognition heuristic uses noncompensatory rule
+MISC--: even when other information about recognized alternative available never overrides weight placed simple recognition if one object recognized other not then inference determined no other information about recognized object searched therefore no other information reverse choice determined recognition citation
+MISC--: consistent their suggestion recognition heuristic utilises non compensatory decision rule goldstein gigerenzer citation reported evidence use recognition cue was unaffected presence other conflicting information
+MISC--: we give more detailed account their study general discussion but short they taught their respondents cities soccer teams were bigger than those without number percent possible city pairings
+CONT--: yet when confronted choice between city they recognised knew did not soccer team one they did not recognise but might soccer team respondents chose recognised city number percent pairs
+MISC--: thus additional diagnostic information about soccer teams city sizes had no measurable impact decisions where recognition heuristic was applicable
+MISC--: number subsequently published studies clearly show recognition at least general sense plays role prediction citation including soccer matches citation
+MISC--: studies did not test non compensatory use recognition critical distinguishing recognition heuristic similar but distinct proposals availability heuristic citation attribute judgment relative ease retrieval fluency heuristic citation assumes most fluently processed item highest criterion value
+MISC--: nevertheless other studies challenged non compensatory use recognition
+MISC--: example newell shanks citation found two cue learning experiments people did not place any special status recognition
+MISC--: most their subjects learned use recognition based information when was good predictor essentially ignore when was poor predictor
+MISC--: they found little evidence recognition treated any differently other cues environment
+MISC--: note although results show laboratory induced recognition may overruled given information supplied experimenter they do not show natural pre experimental recognition over ruled information drawn memory
+MISC--: their recent review research into recognition heuristic gigerenzer goldstein citation discuss what they identify misunderstanding number pp number number emphasise studies focusing inferences given information experimentally induced recognition beyond domain recognition heuristic
+MISC--: newell shanks s citation study others tested non compensatory use recognition citation been criticised pachur broder marewski citation who argued most studies testing non compensatory use recognition used experimental situations differ potentially critical ways situations goldstein gigerenzer citation formulated heuristic
+MISC--: according pachur et al citation ideal test recognition heuristic uses natural cue knowledge rather than teaching same laboratory setting choices elicited failing even goldstein gigerenzer s test non compensatory cue use natural pre experimental recognition failing newell shanks s two cue learning experiments
+MISC--: moreover according pachur et al research should test cases where recognition good predictor criterion also preclude possibility knowledge other than cue knowledge could inform decisions conclusive criterion knowledge e g knowing recognized city very small so guessing another unrecognized city bigger could allow decision makers make judgments without engaging inductive inference goldstein were theorizing about
+MISC--: experiments presented here investigate how people use recognition exempt issues raised pachur et al although like goldstein gigerenzer citation we do test impact information givens namely presented information rather than information drawn memory
+MISC--: while this issue was not referred goldstein gigerenzer citation was mentioned gigerenzer goldstein citation first introduced recognition heuristic
+MISC--: further emphasized gigerenzer goldstein citation who identify presumption recognition heuristic applies inferences givens misconception describe tests recognition heuristic using inferences given information going beyond domain recognition heuristic
+MISC--: although their own test impact conflicting information tested subjects use given information experimenter supplied cue validity citation did not provide what gigerenzer goldstein citation describe cue information about unrecognized objects may why goldstein gigerenzer citation made no reference notion their own test was beyond domain recognition heuristic
+MISC--: indeed they concluded this result supports hypothesis recognition heuristic was applied noncompensatory way p number
+OWNX--: our first study we examined judgmental predictions two different groups subjects who like american german students studied goldstein gigerenzer would expected different knowledge domain
+AIMX--: this study conducted number long before we read about recognition heuristic was cited goldstein gigerenzer citation rather fortuitously we must admit illustrated surprising benefit ignorance judgment
+OWNX--: we studied turkish english students predictions english soccer matches
+OWNX--: we expected turkish subjects very little knowledge domain while british subjects would good deal knowledge
+OWNX--: although predicting soccer matches not quite same making inferences about city sizes we were able test accuracy subjects predictive inferences comparing forecasts outcomes games
+OWNX--: given turkish subjects very limited knowledge english soccer we envisaged relative familiarity names english cities towns often make up names soccer clubs might very often their only basis making forecasts
+AIMX--: so although we did not recognition heuristic mind when we designed this study we measured subjects familiarity city names including those they had no familiarity at all order examine relationship between this variable their forecasts
+OWNX--: we were also able study effect providing additional diagnostic information turkish subjects judgments
+MISC--: after they made their initial forecasts we provided them half time scores matches investigate whether their forecasts additional information reflected any integration additional information their judgment

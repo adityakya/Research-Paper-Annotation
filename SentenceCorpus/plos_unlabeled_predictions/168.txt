@@ -1,0 +1,30 @@
+MISC--: convoluted cortex primates instantly recognizable its principal morphologic features yet puzzling its complex finer structure
+OWNX--: various hypotheses been proposed about mechanisms its formation
+OWNX--: based analysis databases quantitative architectonic connection data primate prefrontal cortices we offer support hypothesis tension exerted corticocortical connections significant factor shaping cerebral cortical landscape
+MISC--: moreover forces generated cortical folding influence laminar morphology appear previously unsuspected impact cellular migration during cortical development
+MISC--: evidence significant role mechanical factors cortical morphology opens possibility constructing computational models cortical develoment based physical principles
+MISC--: models particularly relevant understanding relationship cortical morphology connectivity normal brains structurally altered brains diseases developmental origin schizophrenia autism
+MISC--: popular image human brain closely associated intricate folds cerebral cortex
+MISC--: this cortical landscape been described measured interpreted since age phrenology citation
+MISC--: mammalian cerebral cortex evolved expanded tangentially citation citation folded accommodate large surface area measuring cm humans three times larger than inner surface skull citation citation
+MISC--: classic studies described cortical morphology citation citation frequently reference its geometric regularity citation citation
+MISC--: various hypotheses were proposed development convolutions active growth citation pressure friction expanding cortex tangentially against skull underlying brain structures citation mechanical bulging unequal regional expansion citation citation citation
+MISC--: other concepts suggested cortical buckling results differential laminar growth citation citation convolutions shaped through attached axonal fibers citation
+MISC--: more specifically been proposed but not yet rigorously tested d shape brain reflects viscoelastic tension exerted axonal fibers citation
+OWNX--: according this hypothesis global competition mechanical forces results formation gyri between densely linked regions sulci between weakly connected unconnected regions
+MISC--: axonal tension hypothesis particularly attractive since implies characteristic cortical morphology arises automatically interconnections different cortical areas without need individual specification convolutions
+MISC--: moreover cortical folding through axonal tension implicitly achieves desirable reduction volume cortical fibers citation
+MISC--: mechanical factors been invoked most models development cortical convolutions citation citation citation citation citation but see also discussion active growth convolutions citation
+MISC--: mechanical forces may also role observed trends laminar cortical morphology citation citation deformation neurons citation blood vessels citation different parts cortical landscape
+MISC--: nevertheless rapid progress research into genetic control brain development during recent decades sidelined mechanical concepts favor genetic models explaining morphology convoluted cortex citation
+MISC--: beause apparent complexity cortical morphology fact many aspects cortical development still poorly understood there great need establishing systematic reliable quantitative data architecture brain order evaluate different morphological concepts
+AIMX--: here we address two questions related role mechanical factors cortical morphology overall pattern connections adult convoluted cortex consistent hypothesis axonal tension underlies formation cortical convolutions
+MISC--: systematic variations adult cortical architecture related cortical convolutions
+MISC--: both questions addressed through analysis quantitative data connections architecture prefrontal cortex adult nonhuman primates
+MISC--: quantitative tract tracing animals convoluted cortex offers most detailed reliable information currently available about density trajectories cortical projections
+MISC--: retrograde tract tracing particular ideal this purpose because each projection neuron labeled transport tracer through individual axons injection site back parent cell body
+MISC--: count labeled neurons therefore provides good estimate number axons link given pair cortices
+OWNX--: over last two decades we systematically accumulated quantitative data connections prefrontal cortex gyrencephalic nonhuman primate rhesus monkey
+OWNX--: addition we obtained quantitative architectonic data all prefrontal areas same species citation
+OWNX--: using databases we provide quantitative evidence consistent key role mechanical factors three interrelated aspects cortical morphology formation cortical convolutions through axonal tension shaping laminar morphology through cortical folding nonuniform distribution neurons cortical layers may result interaction tensile compressive folding forces neuronal migration during development
+BASE--: some findings were previously reported conference proceedings citation

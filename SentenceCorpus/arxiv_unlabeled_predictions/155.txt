@@ -1,0 +1,40 @@
+AIMX--: this paper generalizes traditional statistical concept prediction intervals arbitrary probability density functions high dimen sional feature spaces introducing significance level distributions provides interval independent probabilities continuous random variables
+MISC--: advantage transformation probability density function into significance level distribution enables one class classification outlier detection direct manner
+MISC--: prediction interval interval will specified degree confidence contain future realizations terminology pattern recognition feature vectors citation
+MISC--: appeal this concept its clear stochastic meaning
+MISC--: great disadvantage this definition usually too restricted example multimodal distributions
+MISC--: intuitively clear this case more than one interval probable feature vectors exist would better speak prediction regions
+MISC--: even more complicated situation high dimensional feature spaces
+OWNX--: this lack generality probably reason why prediction intervals rarely used pattern recognition
+MISC--: this actually pity because prediction regions would very useful example recognition outliers citation detection novelty normality
+MISC--: instead prediction intervals numerous other methods used this purpose
+MISC--: they grouped roughly into two categories distance based novelty normality score based approaches citation methods introduce separate rejection class combination classifier citation
+MISC--: if applying method i propose here outlier detection belongs first category probability normality score
+MISC--: before going into details i will give short overview related works
+MISC--: simple distance based methods rely concept neighborhood point example symbol nearest neighborhood citation
+MISC--: outliers those points there less than symbol points within distance symbol dataset
+OWNX--: citation propose method choose this threshold symbol automatically based upon dataset
+MISC--: idea consider outliers set points highest distances their symbol th nearest neighbors
+MISC--: course here also threshold necessary but now statistical reasoning quartile symbol th nearest neighbor distance distribution simplifies choice
+MISC--: more recent article based this idea published citation who apply weighted sum symbol th nearest distances per point
+MISC--: although idea quite simple methods low computation costs
+CONT--: furthermore they make only minor assumptions about underlying distribution
+MISC--: another category algorithms related outlier detection robust regression
+MISC--: outlier detection here more means end because goal avoid outliers influence estimation regression function
+OWNX--: this means this case sufficient detect outliers indirectly
+MISC--: citation example apply outlier score control influence point parameter estimation process regression function
+MISC--: this purpose weights introduced estimated based assumption noise gaussian distributed
+MISC--: this often sufficient example most sensor signals
+CONT--: algorithm real time capable but far away generality
+OWNX--: this method also belongs category one
+MISC--: idea second category very different
+CONT--: at first glance seems impossible use classifiers detect outliers because classifiers need estimation their parameters samples inliers outliers
+MISC--: usually only samples inliers available
+MISC--: idea create enclosing cloud outlier samples synthetically random generator
+MISC--: afterwards possible train classifier
+MISC--: citation example apply neural network this purpose
+MISC--: other classifiers also possible example svm citation
+MISC--: regardless applied classifier probabilistic methods need generation hull measure degree generated sample point outlier
+MISC--: citation example use this purpose simple prediction intervals symbol ranges
+MISC--: conclusion both categories solve same problem find appropriate zero level set inlier generating density
+OWNX--: subsequent sections i will show this problem mapped choice significance level possible generalize traditional statistical concept prediction intervals prediction regions

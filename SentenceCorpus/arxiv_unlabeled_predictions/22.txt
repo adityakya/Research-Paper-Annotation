@@ -1,0 +1,30 @@
+MISC--: prediction complex notion different predictors people computer programs probabilistic theories pursue very different goals
+AIMX--: this paper i will review some popular kinds prediction argue theory competitive line learning benefit kinds prediction now foreign
+MISC--: standard goal predictor learning theory incur small loss given loss function measuring discrepancy between predictions actual outcomes
+MISC--: competitive line learning concentrates relative version this goal predictor perform almost well best strategies given benchmark class prediction strategies
+MISC--: predictions interpreted decisions made small decision maker i e one whose decisions do not affect future outcomes
+MISC--: predictions probability forecasts considered foundations probability statements rather than decisions loss function replaced procedure testing forecasts
+AIMX--: two main approaches foundations probability measure theoretic formulated kolmogorov game theoretic developed von mises ville former now dominant mathematical probability theory but latter appears better adapted uses learning theory discussed this paper
+MISC--: important achievement kolmogorov s school foundations probability was construction universal testing procedure realization levin there exists forecasting strategy produces ideal forecasts
+MISC--: levin s ideal forecasting strategy however not computable
+MISC--: its more practical versions obtained results game theoretic probability theory
+MISC--: wide class forecasting protocols shown any computable game theoretic law probability there exists computable forecasting strategy produces ideal forecasts far this law probability concerned
+OWNX--: choosing suitable laws probability we ensure forecasts agree reality requisite ways
+MISC--: probability forecasts known agree reality used making good decisions most straightforward procedure select decisions optimal under forecasts principle minimum expected loss
+MISC--: this gives inter alia powerful tool competitive line learning i will describe its use designing prediction algorithms satisfy property universal consistency its more practical versions
+AIMX--: conclusion paper i will discuss some limitations competitive line learning possible directions further research thispagestyle empty iffullthe changes i made abstract compared citation talk replaced paper throughout
+AIMX--: this abstract still refers outcomes rather than observations data main part paper blueend
+AIMX--: this paper based my invited talk at th annual conference learning theory pittsburgh pa june
+MISC--: recent years colt invited talks tended aim at establishing connections between traditional concerns learning community work done other communities game theory statistics information theory optimization
+MISC--: following this tradition i will argue some ideas foundations probability fruitfully applied competitive line learning
+AIMX--: this paper i will use following informal taxonomy predictions reminiscent shafer s citation figure taxonomy probabilities d predictions mere decisions
+MISC--: they never true false but good bad
+MISC--: their quality typically evaluated loss function s predictions statements about reality
+MISC--: they tested if found inadequate rejected false f predictions frequentist predictions intermediate between d pre dic tions s predictions
+MISC--: they successful if they match fre quen cies various observed events
+MISC--: traditionally learning theory general competitive line learning particular consider d predictions
+OWNX--: i will start section simple asymptotic result about d predictions there exists universally consistent line prediction algorithm randomized if loss function not required convex prediction
+OWNX--: section devoted s prediction section f prediction
+OWNX--: we will see s prediction more fundamental than serve tool f prediction
+OWNX--: section explains how f prediction so indirectly s prediction relevant d prediction
+OWNX--: section i will prove result section about universal consistency well its non asymptotic version

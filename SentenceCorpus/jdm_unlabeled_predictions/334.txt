@@ -1,0 +1,23 @@
+MISC--: recognition heuristic assumes people make inferences based output recognition memory
+MISC--: while much work been devoted establishing recognition heuristic viable description how people make inferences more work needed fully integrate research recognition heuristic research broader cognitive psychology literature
+OWNX--: this article we outline four challenges should met this integration take place close call address four challenges collectively rather than piecemeal
+MISC--: goldstein gigerenzer citation proposed recognition heuristic mechanism describe inferential judgments
+MISC--: briefly this heuristic asserts inference made merely basis presence absence information memory if one two objects recognized other not then infer recognized object higher value citation
+MISC--: elegance recognition heuristic decision rule lies its simplicity not only does purport inferences achieved through simple rule but also appears intuitive process model
+MISC--: development recognition heuristic goldstein gigerenzer citation fueled over decade research within behavioral decision making
+MISC--: while recognition heuristic been well received many researchers citation others been rather critical its accuracy describing underlying psychological processes citation
+MISC--: criticisms notwithstanding recognition heuristic led focus recognition based inference much like other heuristics representativeness managed permanent place within judgment decision making vernacular citation
+MISC--: while construct representativeness proved transformational judgment decision making research arguably run its course useful theoretical construct citation
+MISC--: question however whether recognition heuristic will follow similar path
+OWNX--: this article we present four closely related challenges researchers investigating recognition heuristic well call fundamental shift research strategy
+OWNX--: we argue challenges should met our call strategy shift taken up if theoretical progress research recognition heuristic move forward
+MISC--: before going into detail few comments warranted
+OWNX--: first our four challenges our call research strategy shift not intended criticisms but rather proposals future research directions
+AIMX--: second while we frame challenges our call strategy shift respect recognition heuristic they may apply related models inference including classics availability heuristic
+CONT--: importantly likely meeting challenges will require extending revising recognition heuristic whether this heuristic will then still named recognition heuristic immaterial our points because hintzman citation observed explanatory burden carried proposed mechanism not what they called p number
+OWNX--: finally some our challenges intended consider full import memory processes judgment decision making
+MISC--: literature memory theory provides fertile ground enriching extending theories judgment decision making
+MISC--: while recent work decision theory emphasized adaptive role recognition may play facilitating accurate judgment errors biases commonplace amongst memory phenomena including effects false memories citation misinformation citation imagination inflation citation reality source monitoring errors citation amongst many others citation
+MISC--: inasmuch memory processes exploited purposes judgment decision making then understanding full range effects associated common usage memory seems relevant understanding judgment decision making
+MISC--: similar vein inasmuch there multiple strategies may deployed guiding judgment decision making assumed framework recognition heuristic been developed there need developing cognitive architectures both accommodate multiple strategies model how people select amongst them
+MISC--: example not sufficient postulate some choices made relying recognition memory one must model precisely possible how decision maker come utilize recognition opposed some other process

@@ -1,0 +1,49 @@
+MISC--: understanding mechanisms cell function drug action major endeavor pharmaceutical industry
+MISC--: drug effects governed intrinsic properties drug specific signaling transduction network host
+MISC--: here we describe unbiased phosphoproteomic based approach identify drug effects monitoring drug induced topology alterations
+MISC--: our proposed method drug effects investigated under diverse stimulations signaling network
+OWNX--: starting generic pathway made logical gates we build cell type specific map constraining fit key phopshoprotein signals under experimental conditions
+MISC--: fitting performed via integer linear program formulation solution standard ilp solvers procedure drastically outperforms previous fitting schemes
+MISC--: then knowing cell s topology we monitor same key phosphoprotein signals under presence drug we re optimize specific map reveal drug induced topology alterations
+OWNX--: prove our case we make topology hepatocytic cell line hepg we evaluate effects drugs selective inhibitors epidermal growth factor receptor non selective drug
+OWNX--: we confirm effects easily predictable drugs main target but we also uncover unanticipated effects due either drug promiscuity cell s specific topology
+MISC--: interesting finding selective egfr inhibitor gefitinib inhibits signaling downstream interleukin alpha pathway effect cannot extracted binding affinity based approaches
+OWNX--: our method represents unbiased approach identify drug effects small medium size pathways scalable larger topologies any type signaling interventions
+OWNX--: method reveal drug effects pathways cornerstone identifying mechanisms drug s efficacy
+MISC--: target based drug discovery predominant focus pharmaceutical industry
+MISC--: primary objective selectively target protein within diseased cells order ameliorate undesired phenotype e g unrestrained cell proliferation inflammatory cytokine release
+OWNX--: ideally other pathways within diseased cells well similar phenotypes other cell types should remain unaffected therapeutic approach
+MISC--: however despite plethora new potential targets emerged sequencing human genome rather few proven effective clinic citation
+MISC--: major limitation inability understand mechanisms drug actions either due complex signaling transduction networks cells due complicated profile drug potency selectivity
+MISC--: finding drug s targets traditionally based high throughput vitro assays using recombinant enzymes protein fragments citation
+MISC--: main goal characterize drug s biochemical activity depict them drug interaction maps citation
+MISC--: most cases once target known vivo effect signaling pathway validated measuring drug s efficiency inhibit activity downstream protein
+MISC--: however beyond measurement little know how rest signaling network affected
+MISC--: addition vivo drug effects hardly calculated vitro assays several reasons most kinase inhibitors promiscuous citation there discrepancy between vivo vitro binding affinities drugs citation there additional discrepancy between vivo binding affinities vivo inhibitor activity phosphorylation downstream signals
+MISC--: address drug effects more physiological conditions novel genomic proteomic tools recently been developed citation
+CONT--: genomic arena large scale mrna analysis enhanced computational approaches drug target deconvolution been developed
+MISC--: despite holistic advantages genomic approaches offer proteomic based discovery step closer function cell
+OWNX--: towards this goal affinity chromatography offers viable strategy vivo target identification
+OWNX--: this approach utilizes solid support linked bait enrich cellular binding proteins identified mass spectrometry citation
+MISC--: however experiments usually require large amounts starting protein biased toward more abundant proteins result several hits due nonspecific interactions citation citation
+MISC--: order circumvent non specific interaction problem another bait based strategy uses quantitative ms dirty inhibitors baits immobilize kinome citation citation
+OWNX--: while this approach significantly reduces non specific interaction problem also limits target searching space those kinases highest affinity bait
+MISC--: more recently quantitative ms based proteomics using silac technology citation extends search space all targets do not bind covalently drug
+OWNX--: however incorporation silac s isotopes requires population doublings thus excludes application primary cells limited replication capabilities
+MISC--: taken together all techniques listed above best case scenario list affinities all targets drug but no information provided whether this binding affinity capable inhibiting transmission signal downstream protein how those preferential bindings collectively affect signaling network cell
+OWNX--: here we describe significantly different approach identify drug effects where drugs evaluated alterations they cause signaling pathways
+OWNX--: instead identifying binding partners we monitor pathway alterations following key phosphorylation events under several treatments cytokines
+MISC--: workflow presented figure
+MISC--: experimental front using bead based multiplexed assays citation we measure key phosphorylation events under more than different conditions generated combinatorial treatment stimuli selective inhibitors
+MISC--: based signaling response priori set possible reactions we create cell type specific pathway using efficient optimization formulation known integer linear programming
+CONT--: this approach builds upon boolean optimization approach proposed citation
+MISC--: ilp solved using standard commercial software packages guaranteed global optimality
+OWNX--: evaluate drug effects we subject cells same stimuli presence drugs we tract alterations same key phosphorylation events
+OWNX--: then we reapply ilp formulation without priori assumption drug target we monitor changes pathway topology without drug presence
+OWNX--: demonstrate our approach we construct generic map optimize fit phosphoproteomic data transformed hepatocytic cell lines hepg
+MISC--: then we identify effects four drugs dual egfr erbb inhibitor lapatinib citation two potent egfr kinase inhibitors erlotinib citation gefitinib citation dirty raf kinase inhibitor sorafenib citation
+OWNX--: when our method applied those drugs we find their main target effect we also uncover several unknown but equally active off target effects
+OWNX--: case gefitinib we find surprising inhibition cjun il pathway
+OWNX--: contrast previously developed techniques our method based actual effect phosphorylation events carefully spread into signaling network
+AIMX--: theoretically applied any type intracellular perturbations atp based allosteric kinase inhibitors rnai shrna etc computational front our ilp based approach performs faster more efficient than current algorithms pathway optimization citation identify main drug effects well unknown off target effects areas pathways constrained between activated receptors measured phosphorylated proteins
+MISC--: our fast unbiased characterization modes drug actions shed light into potential mechanisms drug s efficacy toxicity

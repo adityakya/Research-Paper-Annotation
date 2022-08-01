@@ -1,0 +1,46 @@
+OWNX--: schelling citation observed macro level patterns do not necessarily reflect micro level intentions desires goals
+MISC--: his classic model neighborhood segregation initiated large influential literature individuals no desire segregated those who belong other social groups nevertheless wind up clustering their own type
+MISC--: most extensions schelling s model replicated this result
+CONT--: there important mismatch however between theory observation received relatively little attention
+MISC--: whereas schelling inspired models typically predict large degrees segregation starting virtually any initial condition empirical literature documents considerable heterogeneity measured levels segregation
+OWNX--: this paper introduces mechanism produce significantly higher levels integration therefore brings predicted distributions segregation more line real world observation
+MISC--: classic schelling model agents simulated world want stay move new location depending proportion neighbors they judge acceptable
+OWNX--: contrast classic model agents classifications their neighbors acceptable not depend lexicographically recognition first group type e g ethnic stereotyping second
+OWNX--: face recognition model nests classic schelling when agents no recognition memory judgments about acceptability prospective neighbor rely solely his her group type schelling model
+OWNX--: very small amount recognition memory however eventually leads different classifications turn produce dramatic macro level effects resulting significantly higher levels integration
+OWNX--: novel implication face recognition model concerns large potential impact policy interventions generate modest numbers face face encounters members other social groups
+MISC--: based his counterintuitive observation concerning neighborhood segregation nobel laureate thomas schelling citation established what would become large influential literature connecting various subfields social sciences
+MISC--: schelling s observations was this even absence intrinsic aversion those who belong other groups without anyone explicitly aiming locate themselves segregated community high levels segregation could nevertheless result modest desire avoid being too much relative minority
+OWNX--: when one observes sharp ethnic segregation exists regrettably large number us cities schelling argued we ought not conclude this necessarily result anti ethnic sentiment among either majority minority group members
+MISC--: schelling s classic segregation model shows example when people happy any location at up half their neighbors belong different ethnic group one should nevertheless predict dramatic segregation into nearly homogeneous ethnic blocs no individual explicitly sought wished
+MISC--: incongruity macro consequences do not reflect individual objectives overarching theme referred title schelling s citation micromotives macrobehavior
+OWNX--: particular relevance judgment decision making researchers we hope this link lack link was schelling s argument between individual level decision making process macro spatial dynamics
+MISC--: one might dismiss relevance schelling s very simple model complexity real world neighborhoods other social communities academic departments where methodological splits into subgroups sometimes lead conflict segregation e g empirical versus theoretical divides common economics departments social psychologists interacting quite separately other sub disciplines within psychology departments
+OWNX--: yet schelling s model widely used inform analyses policies at virtually all levels local state federal government well among private firms non profits universities dealing segregation many kinds
+CONT--: although schelling s neighborhood segregation model gave rise substantial new literature remains active this day there important mismatch between theory empirical observation received relatively little attention
+OWNX--: schelling s model predicts high levels segregation starting virtually anywhere within very large set initial conditions parameter values
+MISC--: yet empirical studies documenting various forms segregation e g ethnic types among cities gender types among work places methodological types among academic institutions reveal considerable variation extent social groups observed engage inter group mixing
+MISC--: whereas world presents observers rich variety heterogeneous segregation outcomes schelling s theory does not easily account this variation systematic function variables parameters within model raises interesting questions
+MISC--: schelling model squared real world data
+MISC--: there extensions schelling model come closer reality predicting heterogeneous segregation levels vary systematically observable factors environment
+AIMX--: this paper presents extension
+OWNX--: we augment schelling s classic model endowing agents recognition memory
+MISC--: this capacity enables simulated agents apply face recognition heuristic
+OWNX--: face refers evolved capacity key our model namely recording faces into recognition memory
+MISC--: at same time acronym face fast acceptance common experience refers insight shared local experience facilitate rapid formation relationships thus transform assessments others underlying quality process recognized face quality its associated memory i e positive negative absolutely over rules inference would been made stereotyping based group identity
+MISC--: according this definition fast acceptance common experience refers rapidly formed recognition based classifications others quality e g acceptable versus unacceptable neighbor without regard group identity when classifying those whom face face experience taken place past
+MISC--: when classifying those whose faces unrecognized classification continues strictly according group identity i e ethnic stereotyping
+MISC--: when unrecognized other person classified face recognition heuristic reduces stereotyping based solely group identity exactly same classic schelling model
+MISC--: however when there even small amount shared experience quality shared experience past determines how other people classified
+MISC--: classifications based recognition memory lexicographically over rule group identity basis classification unrecognized agents both face classic schelling models
+OWNX--: given plausibility assumption context specific experience past influence classification others came surprise us we could not find any previous attempts extend schelling model this direction
+CONT--: model shows when agents possess face recognition lasts short single period encoding maximum only number individual faces out substantially larger population this alone enough produce significantly higher levels integration
+AIMX--: key comparison investigated this paper concerns this variable degree recognition memory e g no recognition memory classic schelling model versus any positive number periods faces those one encounters remains coded memory
+MISC--: introducing variable recognition memory representation heterogeneity real world environments sometimes few sometimes many opportunities random face face encounters other type agents model investigates novel source systematic variation into otherwise classic model segregation
+OWNX--: motivation studying effect recognition classification segregation better understand why some real world environments succeed at achieving sustained levels cross group interaction i e high levels integration while others seem locked into stubbornly unchanging pattern segregation
+OWNX--: model intended contribute substantively constructively policy analysis simple message namely we relatively cheaply design institutions produce modest opportunities face face encounters members other groups
+BASE--: then extent people use acceptance rule based partially recognition random face face inter group mixing could potentially generate large stable levels integration too pessimistically ruled out vast majority studies based schelling s model
+AIMX--: paper structured follows
+BASE--: we outline classic schelling model neighborhood segregation review previous research related our extension this paradigm present limitations classic schelling model mismatch between its predictions real world segregation data motivate our extension
+AIMX--: we then introduce face recognition heuristic specify recognition augmented schelling model encompassing model nests classic schelling model special case
+OWNX--: subsequently we present series agent based simulations demonstrating effect agents recognition memory decision rules micro level their spatial distribution environment macro level

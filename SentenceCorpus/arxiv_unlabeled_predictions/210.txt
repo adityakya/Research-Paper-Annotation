@@ -1,0 +1,29 @@
+OWNX--: symbol adic modification split lbg classification method presented first clusterings then cluster centers computed locally minimise energy function
+MISC--: outcome fixed dataset independent prime number symbol finitely many exceptions
+MISC--: methods applied construction symbol adic classifiers context learning
+MISC--: field symbol symbol adic numbers interest hierarchical classification because its inherent hierarchical structure citation
+MISC--: great amount work deals finding symbol adic data representation e g citation
+MISC--: citation use more general symbol adic numbers encoding hierarchical data was advocated order able include case non binary dendrograms into scheme without having resort larger prime number symbol
+MISC--: this was applied citation special case data consisting words over given alphabet where proximity words defined length common initial part
+MISC--: there agglomerative hierarchic symbol adic clustering algorithm was described
+MISC--: however question finding optimal clusterings symbol adic data was not raised
+MISC--: already citation performance classical symbol adic classification algorithms was compared segmentation moving images
+OWNX--: was observed symbol adic ones were often more efficient
+MISC--: learning algorithms using symbol adic neural networks described citation
+OWNX--: inspired citation our main concern this article will symbol adic adaptation so called split lbg method finds energy optimal clusterings data
+MISC--: name lbg refers initials authors citation where described first
+OWNX--: their method find cluster centers then group data around centers
+MISC--: next step cluster centers split more clusters obtained
+MISC--: this process repeated until desired class number attained
+OWNX--: symbol adic data this approach does not make sense first all cluster centers general not unique secondly because dendrogram already determined data arbitrary choice cluster centers not possible this lead incomplete clusterings
+OWNX--: hence we first find clusterings refining direction highest energy reduction until class number exceeds prescribed bound
+MISC--: thereafter candidates cluster centers computed they minimise cluster energy
+MISC--: result sub optimal method symbol adic classification splits given cluster into its maximal proper subclusters
+OWNX--: variant discards first all quasi singletons i e clusters energy below threshold value
+MISC--: posteriori choice centers turns out useful constructing efficient classifiers
+MISC--: first application some methods described here event history data building stocks described citation
+MISC--: there classification algorithm performed different symbol adic encodings data order compare dynamics some sampled municipal building stocks
+OWNX--: after introducing notations section we briefly describe classical split lbg method section
+MISC--: section reformulates minimisation task split lbg symbol adic setting describes corresponding algorithms
+OWNX--: issue choice prime symbol dealt section
+OWNX--: section constructs classifiers presents adaptive learning method accumulated clusters large energy split

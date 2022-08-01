@@ -1,0 +1,38 @@
+MISC--: overprecision most robust type overconfidence
+OWNX--: we present new method significantly reduces this bias offers insight into its underlying cause
+OWNX--: three experiments overprecision was significantly reduced forcing participants consider all possible outcomes event
+MISC--: each participant was presented entire range possible outcomes divided into intervals estimated each interval s likelihood including true answer
+OWNX--: superiority this subjective probability interval estimate spies method robust range widths interval grain sizes
+CONT--: its carryover effects observed even subsequent estimates made using conventional number percent confidence interval method judges who first made spies judgments considered broader range values subsequent conventional interval estimates well
+MISC--: federal home loan mortgage corporation otherwise known freddie mac provides online calculator its website help potential clients determine whether they should buy home rent one
+MISC--: among factors included this calculation estimated appreciation value home question defined website yearly percentage rate asset increases value
+MISC--: user enter percentage value according her best judgment her potential home will increase decrease
+MISC--: however when negative value i e forecast house s value will go down was entered was followed error message please fix following errors appreciation rate must number between number number number number
+CONT--: design this online calculator conveyed freddie mac s belief housing prices change only between number percent number percent any rate outside this range being improbable
+MISC--: however according federal housing finance agency citation average yearly appreciation rate houses united states was consistently outside this range second quarter number through first quarter number falling low number number percent even lower than number percent some states
+MISC--: this forecasting error among others resulted freddie mac s near failure before its take over u s government number
+MISC--: citation failure freddie mac anticipate depreciation u s house prices but one many examples overprecision judgment
+MISC--: overprecision form overconfidence found both prevalent particularly impervious debiasing citation
+MISC--: also referred overconfidence interval estimates citation overprecision excessive certainty one knows truth
+MISC--: among its documented consequences errors clinical diagnosis citation excessive market trading citation excessive conviction individual climate scientists they know future trajectory climate change citation
+MISC--: overprecision typically measured eliciting confidence interval range values judge confident certain degree will include true value question citation
+MISC--: research repeatedly found confidence people their beliefs exceeds their accuracy meaning confidence intervals they produce too narrow citation
+OWNX--: this pattern observed novice well expert judgments citation
+MISC--: attempts debias overprecision had limited success
+MISC--: koriat lichtenstein fischhoff citation argued people s excessive confidence their beliefs driven more extensive search they conduct supporting evidence than evidence contradicts their beliefs
+MISC--: their experiments participants were presented two possible answers question chose answer they thought was correct reported their confidence accuracy their chosen answer
+MISC--: they were grossly overconfident when they expressed very high confidence
+OWNX--: however when asked consider evidence contradicting their answers before reporting their confidence participants reported lower confidence levels
+OWNX--: soll klayman citation manipulated this search evidence asking their participants specify fractile cutoffs at top bottom ends range possible values
+MISC--: so instead asking their participants specify ends number percent confidence interval they asked their participants number number low enough there was number percent chance true answer was above number number so high there was number percent chance true answer was below
+OWNX--: using this approach soll klayman were able modestly reduce overprecision
+MISC--: other research tried reduce overconfidence focusing format question citation
+MISC--: this research found interval evaluation based probability judgments fixed intervals produces less overconfidence than interval production
+MISC--: example participants asked create number percent confidence intervals produce excessively narrow intervals but other participants who subsequently estimate their confidence participant created intervals report less than number percent confidence their accuracy
+OWNX--: building findings winman hansson juslin citation proposed adaptive interval assessment adina method eliciting judgments
+OWNX--: using this method desired confidence level interval determined advance
+OWNX--: interval produced around specific value generated either judge peer at random judge estimates probability this interval contains correct answer
+MISC--: if this probability higher than desired confidence level narrower interval presented next similarly if initial probability lower than desired probability then wider interval presented
+MISC--: this procedure repeated until probability assigned interval matches desired confidence level
+OWNX--: authors found resulting intervals this procedure displayed less overprecision than intervals were produced directly
+BASE--: unfortunately this reduction overprecision appeared tied assessment format subsequent assessments made different response format e g confidence intervals reverted their old overly precise form suggesting change methods did not affect cognitive process estimates were produced

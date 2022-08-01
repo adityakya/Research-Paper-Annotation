@@ -1,0 +1,28 @@
+MISC--: progress understanding brain mechanisms underlying vision requires construction computational models not only emulate brain s anatomy physiology but ultimately match its performance visual tasks
+OWNX--: recent years natural images become popular study vision been used show apparently impressive progress building models
+OWNX--: here we challenge use uncontrolled natural images guiding progress
+OWNX--: particular we show simple v like model neuroscientist s null model should perform poorly at real world visual object recognition tasks outperforms state art object recognition systems standard ostensibly natural image recognition test
+OWNX--: counterpoint we designed simpler recognition test better span real world variation object pose position scale we show this test correctly exposes inadequacy v like model
+OWNX--: taken together results demonstrate tests based uncontrolled natural images seriously misleading potentially guiding progress wrong direction
+OWNX--: instead we reexamine what means images natural argue renewed focus core problem object recognition real world image variation
+MISC--: visual object recognition extremely difficult computational problem
+OWNX--: core problem each object world cast infinite number different d images onto retina object s position pose lighting background vary relative viewer
+MISC--: yet brain solves this problem effortlessly
+OWNX--: progress understanding brain s solution object recognition requires construction artificial recognition systems ultimately aim emulate our own visual abilities often biological inspiration
+MISC--: computational approaches critically important because they provide experimentally testable hypotheses because instantiation working recognition system represents particularly effective measure success understanding object recognition
+MISC--: however major challenge assessing recognition performance models
+OWNX--: ideally artificial systems should able do what our own visual systems but unclear how evaluate progress toward this goal
+MISC--: practice this amounts choosing image set against test performance
+BASE--: although controversial popular recent approach study vision use natural images citation citation citation part because they ostensibly capture essence problems encountered real world
+MISC--: example computational vision caltech image set emerged gold standard testing natural object recognition performance citation
+MISC--: set consists large number images divided into object categories plus additional background category
+CONT--: while number specific concerns been raised this set its images still currently widely used neuroscientists both theoretical experimental contexts
+MISC--: logic caltech sheer number categories diversity those images place high bar object recognition systems require them solve computational crux object recognition
+MISC--: because there object categories chance performance less than percent correct
+MISC--: recent years several object recognition models shown what appears impressively high performance this test better than percent correct citation citation citation suggesting approaches while still well below human performance at least heading right direction
+OWNX--: however we argue here caution not clear what extent natural image tests actually engage core problem object recognition
+MISC--: specifically while caltech set certainly contains large number images variations object view position size etc between within object category poorly defined not varied systematically
+MISC--: furthermore image backgrounds strongly covary object category
+OWNX--: majority images also composed photographs human decided how shot should framed thus placement objects within image not random set may not properly reflect variation found real world
+OWNX--: furthermore if caltech object recognition task hard not easy know what makes hard different kinds variation all inextricably mixed together
+MISC--: problems not unique caltech set but also apply other uncontrolled natural image sets

@@ -1,0 +1,33 @@
+MISC--: while combinatorial models transcriptional regulation inferred metazoan systems priori biological knowledge validation requires extensive time consuming experimental work
+CONT--: thus there need computational methods evaluate hypothesized cis regulatory codes before difficult task experimental verification undertaken
+OWNX--: we developed novel computational framework integrates transcription factor binding site gene expression information evaluate whether hypothesized transcriptional regulatory model likely target given set co expressed genes
+OWNX--: our basic approach simultaneously predict cis regulatory modules associated given gene set quantify enrichment combinatorial subsets transcription factor binding site motifs comprising hypothesized trm within predicted crms
+OWNX--: model system we examined trm experimentally demonstrated drive expression two genes sub population cells developing drosophila mesoderm somatic muscle founder cells
+OWNX--: this trm was previously hypothesized general mode regulation genes expressed this cell population
+OWNX--: contrast present analyses suggest modified form this cis regulatory code applies only subset founder cell genes those whose gene expression responds specific genetic perturbations similar manner gene original model was based
+AIMX--: we confirmed this hypothesis experimentally discovering six new crms driving expression embryonic mesoderm four drive expression founder cells
+MISC--: central challenge determining structure genetic regulatory networks development systematic methods assessing whether set transcription factors co regulates given set co expressed genes
+MISC--: although classical genetics approaches allow identification key regulating tfs determination their approximate ordering within genetic hierarchy demonstrating collection tfs forms combinatorial code acting directly drive gene expression required laborious experimental identification perturbation numerous individual cis regulatory modules
+MISC--: speed this process several groups recently demonstrated computational approaches rapidly identify crms considerable accuracy citation citation especially when performing computational searches collection tfs known priori co regulate
+MISC--: this perhaps best exemplified dramatic progress made several groups discovering crms genes expressed during segmentation drosophila melanogaster embryo citation citation citation citation system where years genetic screens identified regulating tfs citation
+MISC--: most biological systems however set co regulating tfs either merely hypothesized entirely unknown
+MISC--: therefore order silico approaches effectively identify cis component regulation novel biological systems additional computational methods needed identify trans component regulation
+AIMX--: address this question metazoan systems we developed initial statistical framework evaluating hypothesized transcriptional regulatory models
+MISC--: model system we examined regulation class drosophila myoblast genes regulatory model been previously hypothesized citation citation extensive transcriptional profiling datasets been generated citation
+MISC--: muscle founder cells sub population mononucleate myoblasts specified wingless decapentaplegic ras signal transduction cascades acting combination within somatic mesoderm citation citation
+OWNX--: prior experimental work using gene even skipped mark single fc each embryonic hemisegment provided detailed model integration three signaling pathways at transcriptional level tfs activated wg dpp ras pathways t cell factor mothers against dpp pointed respectively were demonstrated bind transcriptional enhancer driving expression eve within dorsal fcs citation citation citation citation
+OWNX--: additional tissue specificity was shown provided two mesodermal selector tfs twist tinman
+OWNX--: thus this single enhancer combinatorial model transcriptional regulation genes expressed fcs was hypothesized where exogenous signaling cues endogenous tissue specific tfs jointly establish appropriate expression domain
+MISC--: guided this genetic analysis eve expression series gene expression profiles been determined purified embryonic myoblasts estrada et al citation
+OWNX--: addition profiling wild type cells investigators performed expression array analyses myoblasts wg dpp ras notch pathways were variably perturbed informative gain function loss function genetic manipulations
+MISC--: each genetic perturbations was predicted based example eve increase decrease expression those genes localized expression fcs
+OWNX--: expression arrays were then combined into single weighted ranking was used predict additional fc genes
+BASE--: estrada et al citation performed over situ hybridizations predicted fc genes top this composite fc ordering their experiments yielded list validated fc genes
+BASE--: present work we utilize expression data estrada et al citation evaluate roles dtcf mad pnt twi tin generalized regulators fc gene expression
+MISC--: previous computational scan windows sequence containing five tfs successfully identified additional enhancer gene heartbroken drove expression dorsal fcs contained matches five transcription factor binding site motifs demonstrating example eve was not unique citation
+OWNX--: however generality model could not established those two examples alone we therefore developed method quantifying enrichment five tfbs motifs localized windows non coding sequences flanking intronic fc genes
+OWNX--: importantly this approach we term codefinder quantifies relevance not only each tf individually but also all combinations given set tfs
+OWNX--: this analysis we hypothesized eve trm unlikely apply all fc genes
+OWNX--: rather we found three tfs pnt twi tin likely regulate specific subset fc genes share characteristic changes their gene expression profiles response genetic perturbations used estrada et al citation
+OWNX--: thus combining tfbs gene expression data our analysis allows refinement initial model subset original tfs appears regulate subset fc genes
+OWNX--: test this hypothesis we empirically validated four candidate fc enhancers conform our modified trm

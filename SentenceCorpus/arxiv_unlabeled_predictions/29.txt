@@ -1,0 +1,59 @@
+MISC--: there at least two kinds similarity
+MISC--: relational similarity correspondence between relations contrast attributional similarity correspondence between attributes
+OWNX--: when two words high degree attributional similarity we call them synonyms
+OWNX--: when two pairs words high degree relational similarity we say their relations analogous
+MISC--: example word pair mason stone analogous pair carpenter wood
+AIMX--: this paper introduces latent relational analysis lra method measuring relational similarity
+MISC--: lra potential applications many areas including information extraction word sense disambiguation information retrieval
+MISC--: recently vector space model vsm information retrieval been adapted measuring relational similarity achieving score collection college level multiple choice word analogy questions
+MISC--: vsm approach relation between pair words characterized vector frequencies predefined patterns large corpus
+OWNX--: lra extends vsm approach three ways patterns derived automatically corpus singular value decomposition svd used smooth frequency data automatically generated synonyms used explore variations word pairs
+MISC--: lra achieves analogy questions statistically equivalent average human score
+MISC--: related problem classifying semantic relations lra achieves similar gains over vsm
+MISC--: there at least two kinds similarity
+MISC--: attributional similarity correspondence between attributes relational similarity correspondence between relations citation
+OWNX--: when two words high degree attributional similarity we call them synonyms
+OWNX--: when two word pairs high degree relational similarity we say they analogous
+MISC--: verbal analogies often written form b c d meaning b c d example traffic street water riverbed
+MISC--: traffic flows over street water flows over riverbed
+MISC--: street carries traffic riverbed carries water
+MISC--: there high degree relational similarity between word pair traffic street word pair water riverbed
+MISC--: fact this analogy basis several mathematical theories traffic flow citation
+OWNX--: section we look more closely at connections between attributional relational similarity
+MISC--: analogies mason stone carpenter wood seems relational similarity reduced attributional similarity since mason carpenter attributionally similar stone wood
+MISC--: general this reduction fails
+MISC--: consider analogy traffic street water riverbed
+MISC--: traffic water not attributionally similar
+MISC--: street riverbed only moderately attributionally similar
+MISC--: many algorithms been proposed measuring attributional similarity between two words citation
+MISC--: measures attributional similarity been studied extensively due their applications problems recognizing synonyms citation information retrieval citation determining semantic orientation citation grading student essays citation measuring textual cohesion citation word sense disambiguation citation
+MISC--: other hand since measures relational similarity not well developed measures attributional similarity potential applications relational similarity not well known
+MISC--: many problems involve semantic relations would benefit algorithm measuring relational similarity
+OWNX--: we discuss related problems natural language processing information retrieval information extraction more detail section
+AIMX--: this paper builds vector space model vsm information retrieval
+MISC--: given query search engine produces ranked list documents
+MISC--: documents ranked order decreasing attributional similarity between query each document
+MISC--: almost all modern search engines measure attributional similarity using vsm citation namecite turneylittman adapt vsm approach measuring relational similarity
+MISC--: they used vector frequencies patterns corpus represent relation between pair words
+OWNX--: section presents vsm approach measuring similarity
+OWNX--: section we present algorithm measuring relational similarity we call latent relational analysis lra
+MISC--: algorithm learns large corpus unlabeled unstructured text without supervision
+MISC--: lra extends vsm approach namecite turneylittman three ways connecting patterns derived automatically corpus instead using fixed set patterns singular value decomposition svd used smooth frequency data given word pair traffic street lra considers transformations word pair generated replacing one words synonyms traffic road traffic highway
+OWNX--: section presents our experimental evaluation lra collection multiple choice word analogy questions sat college entrance exam
+MISC--: example typical sat question appears table
+MISC--: educational testing literature first pair mason stone called stem analogy
+MISC--: correct choice called solution incorrect choices distractors
+OWNX--: we evaluate lra testing its ability select solution avoid distractors
+MISC--: average performance college bound senior high school students verbal sat questions corresponds accuracy about
+MISC--: lra achieves accuracy about
+MISC--: same questions vsm attained one application relational similarity classifying semantic relations noun modifier pairs citation
+OWNX--: section we evaluate performance lra set noun modifier pairs namecite nastase
+MISC--: problem classify noun modifier pair laser printer according semantic relation between head noun printer modifier laser
+MISC--: pairs been manually labeled classes semantic relations
+MISC--: example laser printer classified instrument printer uses laser instrument printing
+OWNX--: we approach task classifying semantic relations noun modifier pairs supervised learning problem
+MISC--: pairs divided into training testing sets testing pair classified according label its single nearest neighbour training set
+OWNX--: lra used measure distance i e similarity nearness
+MISC--: lra achieves accuracy class problem class problem
+MISC--: same noun modifier pairs vsm had accuracies class class citation
+OWNX--: we discuss experimental results limitations lra future work section we conclude section

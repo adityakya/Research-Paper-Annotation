@@ -1,0 +1,44 @@
+MISC--: contrary common belief more information always better gigerenzer et al citation showed simple decision strategies rely little information quite successful
+MISC--: success simple strategies depends both bets about structure environment core capacities human mind recognition memory citation
+MISC--: however interplay between environment mind s core capacities rarely been precisely modeled
+OWNX--: we illustrate how environment mind interactions could formally modeled within cognitive architecture act r citation
+MISC--: act r integrated theory mind tuned statistical structure environment account variety phenomena learning problem solving decision making
+AIMX--: here we focus studying decision strategies show how success theses strategies particular environments depends characteristics core cognitive capacities recognition short term memory
+MISC--: six million dollar man was among most popular television shows number s at least among eight twelve year old american boys
+MISC--: credits open spectacular crash rocket jet tumbling into fireball
+MISC--: team surgeons hovers over steve austin test pilot working feverishly replace his injured legs right arm eye superbly engineered bionic substitutes
+OWNX--: voice over we hear gentlemen we rebuild him
+OWNX--: we technology
+OWNX--: we capability make world s first bionic man
+MISC--: steve austin will man
+MISC--: better than he was before
+MISC--: better stronger faster
+OWNX--: we cut next steve austin six million dollar man racing across field seeing objects at distance his better than telescope eye
+OWNX--: like steve austin s doctors most us believe we would better off if we were stronger faster
+OWNX--: similarly we would better off at least would had better college transcripts if we had been blessed bionic cognitive abilities unfailing memories ability hold complex equations mind
+MISC--: another view humble cognitive capacities human mind those limitations forgetting may serve important functions
+OWNX--: arguably most important function memory not simply store all information we encounter but provide us important information specific situations
+MISC--: this view human memory system organized way facilitates retrieval information recent frequent citation sensitive context citation
+OWNX--: this way system retrieves memories information we most likely need
+MISC--: many word processors incorporate timesaving feature illustrates this view forgetting
+MISC--: when user goes open document file program presents file buffer list recently opened files user select
+OWNX--: whenever desired file included list user spared effort searching through file hierarchy
+CONT--: this device work efficiently however word processor must provide users files they actually want
+MISC--: does so forgetting files considered unlikely needed basis assumption time since file was last opened negatively correlated its likelihood being needed now
+MISC--: similarly if you want remember where you parked your car quite useful forget where you parked before
+MISC--: there growing evidence also other domains language acquisition cognitive limits beneficial citation while too much thinking even hurt performance example sports experts citation implicit category learning decaro thomas beilock press
+MISC--: line this view mind adaptation environment program fast frugal heuristics takes position humans possess repertoire cognitive strategies heuristics solve specific problems citation
+MISC--: gigerenzer et al called this collection cognitive strategies adaptive toolbox
+MISC--: rationality heuristics not logical but ecological success anchored both structure environment core capacities human mind citation
+OWNX--: cognitive strategy simple exploiting core capacities recognition recall memory human mind through evolution learning highly automatized requiring little no effort
+MISC--: goldstein gigerenzer citation consider heuristics adaptive strategies evolved tandem fundamental psychological mechanisms p number
+MISC--: within fast frugal program this interplay between environment mind rarely been explored detailed models core capacities
+MISC--: models heuristics presupposed specific core capacities mind recognition memory without embedding core capacity directly into model
+MISC--: other words models heuristics many other models decision making underspecified regard how decision making will affected interaction between mind s core capacities structure environment
+AIMX--: goal this paper illustrate how cognitive modeling capture environment mind interactions thereby inform decision making research
+OWNX--: particular we employ formal cognitive architecture act r citation explore this issue
+MISC--: principle other cognitive models memory could used purpose analyzing relation between environment memory performance inference strategies
+OWNX--: fact we believe main findings regarding memory function ecological rationality inference strategies would remain largely same long reasonable model memory was used
+MISC--: one model rem citation descends sam citation but enriched bayesian analysis spirit j r anderson s rational analysis citation
+MISC--: another good candidate would minerva dm citation been shown account wide variety judgment phenomena including example availability representativeness heuristics
+MISC--: relation between act r other models will discussed more detail general discussion where we will also illustrate how act r could extended topics tasks beyond those examined here

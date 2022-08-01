@@ -1,0 +1,42 @@
+AIMX--: this paper addresses general problem domain adaptation arises variety applications where distribution labeled sample available somewhat differs test data
+AIMX--: building previous work emcite bendavid we introduce novel distance between distributions discrepancy distance tailored adaptation problems arbitrary loss functions
+OWNX--: we give rademacher complexity bounds estimating discrepancy distance finite samples different loss functions
+OWNX--: using this distance we derive novel generalization bounds domain adaptation wide family loss functions
+OWNX--: we also present series novel adaptation bounds large classes regularization based algorithms including support vector machines kernel ridge regression based empirical discrepancy
+OWNX--: this motivates our analysis problem minimizing empirical discrepancy various loss functions we also give novel algorithms
+OWNX--: we report results preliminary experiments demonstrate benefits our discrepancy minimization algorithms domain adaptation
+MISC--: standard pac model citation other theoretical models learning training test instances assumed drawn same distribution
+MISC--: this natural assumption since when training test distributions substantially differ there no hope generalization
+MISC--: however practice there several crucial scenarios where two distributions more similar learning more effective
+OWNX--: one scenario domain adaptation main topic our analysis
+MISC--: problem domain adaptation arises variety applications natural language processing citation speech processing citation computer vision citation many other areas
+OWNX--: quite often little no labeled data available target domain but labeled data source domain somewhat similar target well large amounts unlabeled data target domain at one s disposal
+OWNX--: domain adaptation problem then consists leveraging source labeled target unlabeled data derive hypothesis performing well target domain
+MISC--: number different adaptation techniques been introduced past publications just mentioned other similar work context specific applications
+MISC--: example standard technique used statistical language modeling other generative models part speech tagging parsing based maximum posteriori adaptation uses source data prior knowledge estimate model parameters citation
+MISC--: similar techniques other more refined ones been used training maximum entropy models language modeling conditional models citation
+MISC--: first theoretical analysis domain adaptation problem was presented emcite bendavid who gave vc dimension based generalization bounds adaptation classification tasks
+MISC--: perhaps most significant contribution this work was definition application distance between distributions symbol distance particularly relevant problem domain adaptation estimated finite samples finite vc dimension previously shown emcite kifer
+MISC--: this work was later extended emcite blitzer who also gave bound error rate hypothesis derived weighted combination source data sets specific case empirical risk minimization
+MISC--: theoretical study domain adaptation was presented emcite nips where analysis deals related but distinct case adaptation multiple sources where target mixture source distributions
+AIMX--: this paper presents novel theoretical algorithmic analysis problem domain adaptation
+MISC--: builds work emcite bendavid extends several ways
+OWNX--: we introduce novel distance discrepancy distance tailored comparing distributions adaptation
+OWNX--: this distance coincides symbol distance classification but used compare distributions more general tasks including regression other loss functions
+MISC--: already pointed out crucial advantage symbol distance estimated finite samples when set regions used finite vc dimension
+OWNX--: we prove same holds discrepancy distance fact give data dependent versions statement sharper bounds based rademacher complexity
+OWNX--: we give new generalization bounds domain adaptation point out some their benefits comparing them previous bounds
+OWNX--: we further combine properties discrepancy distance derive data dependent rademacher complexity learning bounds
+OWNX--: we also present series novel results large classes regularization based algorithms including support vector machines svms citation kernel ridge regression krr citation
+OWNX--: we compare pointwise loss hypothesis returned algorithms when trained sample drawn target domain distribution versus hypothesis selected algorithms when training sample drawn source distribution
+OWNX--: we show difference pointwise losses bounded term depends directly empirical discrepancy distance source target distributions
+CONT--: learning bounds motivate idea replacing empirical source distribution another distribution same support but smallest discrepancy respect target empirical distribution viewed reweighting loss each labeled point
+OWNX--: we analyze problem determining distribution minimizing discrepancy both classification square loss regression
+OWNX--: we show how problem cast linear program lp loss derive specific efficient combinatorial algorithm solve dimension one
+OWNX--: we also give polynomial time algorithm solving this problem case square loss proving cast semi definite program sdp
+OWNX--: finally we report results preliminary experiments showing benefits our analysis discrepancy minimization algorithms
+OWNX--: section we describe learning set up domain adaptation introduce notation rademacher complexity concepts needed presentation our results
+OWNX--: section introduces discrepancy distance analyzes its properties
+OWNX--: section presents our generalization bounds our theoretical guarantees regularization based algorithms
+OWNX--: section describes analyzes our discrepancy minimization algorithms
+OWNX--: section reports results our preliminary experiments

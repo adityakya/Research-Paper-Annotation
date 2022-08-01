@@ -1,0 +1,13 @@
+MISC--: people make systematic predictable mistakes regarding estimations average speed journey time
+CONT--: addition people been shown commit time saving bias underestimating time saved when increasing low speed overestimating time saved when increasing relatively high speed
+OWNX--: misestimations been shown relate biases judgments speed required arrive at specific time choosing unduly high speed
+MISC--: professional drivers taxi drivers might less susceptible biases due their increased driving experience
+AIMX--: current study we interviewed taxi drivers about journey they were currently making examined their estimations journey time average speed time savings
+CONT--: compared group non professional car drivers taxi drivers showed same considerable misestimations driving speed journey time time savings non professionals
+MISC--: however overestimations time savings among taxi drivers were smaller than those made car drivers
+OWNX--: we discuss practical significance findings
+OWNX--: estimating driving speed not easy task
+MISC--: research mean speed estimation indicates people make systematic errors estimating average speed
+MISC--: example when judging mean speed trip included two parts one higher speed one lower speed people overestimate weight higher speed underestimate impact lower speed average speed entire trip citation
+OWNX--: example when drivers were asked estimate mean speed journey when was possible drive at high speed e g number kph most trip except limited part trip where speed limit was significantly lower e g number kph mean speed entire route was overestimated citation
+MISC--: contrast previous theoretical assertions people assign equal weights different speeds when estimating mean speed trip citation studies found people actually assign different weights different speeds usually overweighting higher speeds underweighting lower speeds citation

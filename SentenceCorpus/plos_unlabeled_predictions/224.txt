@@ -1,0 +1,35 @@
+OWNX--: intrinsic mitochondrial pathway caspase activation essential apoptosis induction various stimuli including cytotoxic stress
+OWNX--: depends cellular context whether cytochrome c released mitochondria induces caspase activation gradually all none fashion whether caspase activation irreversibly commits cells apoptosis
+OWNX--: analyzing quantitative kinetic model we show inhibition caspase casp inhibitors apoptosis results implicit positive feedback since cleaved casp augments its own activation sequestering iaps away casp
+OWNX--: we demonstrate this positive feedback brings about bistability cooperates casp mediated feedback cleavage casp generate irreversibility caspase activation
+OWNX--: our calculations also unravel how cell specific protein expression brings about observed qualitative differences caspase activation
+MISC--: finally known regulators pathway shown efficiently shift apoptotic threshold stimulus suggesting bistable caspase cascade computes multiple inputs into all none caspase output
+AIMX--: cellular inhibitory proteins frequently inhibit consecutive intermediates cellular signaling cascades feedback mechanism described this paper likely widespread principle how cells achieve ultrasensitivity bistability irreversibility
+OWNX--: apoptosis evolutionary conserved form cell suicide allows multicellular organisms eliminate damaged excess cells order maintain tissue homeostasis
+OWNX--: dysregulation apoptosis associated various pathological conditions including cancer neurodegenerative disorders
+MISC--: aspartate specific cysteine proteases also known caspases central executioners apoptosis
+MISC--: most cases apoptotic stimuli activate initiator caspases whose substrates effector caspases ultimatively cause cellular demise cleaving various cellular substrates citation
+OWNX--: figure schematically depicts so called extrinsic intrinsic apoptotic pathways elicit apoptosis cleaving thereby activating caspase major cellular effector caspase
+MISC--: extrinsic pathway initiated ligand binding death receptors then oligomerize recruit various proteins including pro casp into so called death inducing signaling complex
+MISC--: formation death inducing signaling complex leads autoprocessing pro casp into active casp then cleaves casp
+OWNX--: cytotoxic stress death receptor stimulated casp engage intrinsic mitochondrial apoptosis pathway inducing translocation proapoptotic bcl family members bax bid mitochondria
+OWNX--: this event negatively regulated antiapoptotic bcl family members results release proapoptotic proteins mitochondria into cytosol
+OWNX--: cytosolic cyto c then elicits oligomerization apaf into active high molecular weight complex apoptosome recruits stimulates casp thereby allows activation effector caspases casp
+OWNX--: smac inhibitors apoptosis x linked iap establish additional layer regulation intrinsic pathway xiap inhibits catalytic activities casp casp through reversible binding cytosolic smac relieves this inhibition sequestering xiap away caspases citation
+OWNX--: experimental studies revealed qualitative behaviour caspase activation intrinsic pathway depends cellular context
+MISC--: cyto c added cytosolic extracts activates casp all none fashion some cells citation citation while gradual activation was observed other systems citation citation
+MISC--: cyto c release mitochondria reversible event citation does not affect mitochondrial function citation citation been suggested downstream caspase activation irreversibly commits cells apoptosis citation citation
+MISC--: accordingly cyto c induced casp activation remained elevated even after strong decline cytosolic cyto c citation after apo cyto c inhibitor apoptosome formation was added citation
+MISC--: furthermore time course caspase activation via intrinsic pathway equals irreversible commitment apoptosis citation citation caspase inhibition allows long term cellular recovery proliferation after removal apoptotic stimuli citation citation citation citation
+MISC--: finally fas treated jurkat t cells enter apoptosis intrinsic pathway escaped commitment death judged maintenance clonogenic potential if casp was inhibited citation
+MISC--: contrary casp activation was found reversible event glycochenodeoxycholate treated hepatocytes citation
+MISC--: qualitative differences caspase activation suggest intrinsic pathway bistable some cells but monostable others
+OWNX--: while simple monostable systems respond gradual reversible manner complex bistable systems exhibit true all none responses some cases irreversibility
+MISC--: bistability thought require positive circuit may established either positive feedback double negative feedback
+OWNX--: once threshold stimulus exceeded positive circuits allow bistable systems switch low activation levels high activation levels all none fashion
+MISC--: bistable systems display hysteresis meaning different stimulus response curves obtained depending upon whether system began its off its state
+MISC--: some cases state maintained indefinitely after stimulus removed so system shows irreversible activation citation
+MISC--: experimental studies confirmed bistability indeed occurs natural artificial biological networks citation citation
+MISC--: recent mathematical modeling demonstrated bistability arise hidden implicit feedback loops usually not explicitly drawn biochemical reaction schemes citation citation
+OWNX--: similarily we present model showing inhibition casp casp iaps results implicit positive feedback bistability
+AIMX--: cellular inhibitory proteins frequently inhibit consecutive intermediates cellular signaling cascades mechanism described this paper likely widespread principle how cells achieve ultrasensitivity bistability irreversibility

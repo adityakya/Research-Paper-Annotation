@@ -1,0 +1,43 @@
+MISC--: computational methods discovery sequence elements enriched target set compared background set fundamental molecular biology research
+MISC--: one example discovery transcription factor binding motifs inferred chip chip measurements
+MISC--: several major challenges sequence motif discovery still require consideration need principled approach partitioning data into target background sets lack rigorous models exact p value measuring motif enrichment need appropriate framework accounting motif multiplicity tendency many existing methods report presumably significant motifs even when applied randomly generated data
+AIMX--: this paper we present statistical framework discovering enriched sequence elements ranked lists resolves four issues
+OWNX--: we demonstrate implementation this framework software application termed drim identifies sequence motifs lists ranked dna sequences
+OWNX--: we applied drim chip chip cpg methylation data obtained following results
+MISC--: identification novel putative transcription factor binding sites yeast chip chip data
+MISC--: biological function some them was further investigated gain new insights transcription regulation networks yeast
+MISC--: example our discoveries enable elucidation network tf aro
+MISC--: another finding concerns systematic tf binding enhancement sequences containing ca repeats
+MISC--: discovery novel motifs human cancer cpg methylation data
+MISC--: remarkably most motifs similar dna sequence elements bound polycomb complex promotes histone methylation
+OWNX--: our findings thus support model histone methylation cpg methylation mechanistically linked
+AIMX--: overall we demonstrate statistical framework embodied drim software tool highly effective identifying regulatory sequence elements variety applications ranging expression chip chip cpg methylation data
+OWNX--: drim publicly available at link
+AIMX--: this paper examines problem discovering interesting sequence motifs biological sequence data
+OWNX--: widely accepted more formal definition this task given target set background set sequences identify sequence motifs enriched target set compared background set
+AIMX--: purpose this paper extend this formulation make more flexible so enable determination target background set data driven manner
+OWNX--: discovery sequences attributes enriched target set compared background set become increasingly useful wide range applications molecular biology research
+MISC--: example discovery dna sequence motifs overabundant set promoter regions co expressed genes suggest explanation this co expression
+MISC--: another example discovery dna sequences enriched set promoter regions certain transcription factor binds strongly inferred chromatin immuno precipitation microarray citation measurements
+MISC--: same principle may extended many other applications discovery genomic elements enriched set highly methylated cpg island sequences citation
+MISC--: due its importance this task discovering enriched dna subsequences capturing their corresponding motif profile gained much attention literature
+CONT--: any approach motif discovery must address several fundamental issues
+OWNX--: first issue way motifs represented
+MISC--: there several strategies motif representation using k mer iupac symbols where each symbol represents fixed set possible nucleotides at single position using position weight matrix specifies probability observing each nucleotide at each motif position
+MISC--: both representations assume base position independence
+MISC--: alternatively higher order representations capture positional dependencies been proposed
+MISC--: while representations circumvent position independence assumption they more vulnerable overfitting lack data determining model parameters
+OWNX--: method described this paper uses k mer model symbols above iupac
+MISC--: second issue devising motif scoring scheme
+MISC--: many strategies scoring motifs been suggested literature
+CONT--: one simple yet powerful approach uses hypergeometric distribution identifying enriched motif kernels set sequences then expanding motifs using em algorithm citation
+AIMX--: framework described this paper natural extension approach citation
+MISC--: ymf citation citation exhaustive search algorithm associates each motif z score
+MISC--: alignace citation uses gibbs sampling algorithm finding global sequence alignments produces map score
+OWNX--: this score internal metric used determine significance alignment
+MISC--: meme citation uses expectation maximization strategy outputs log likelihood relative entropy associated each motif
+MISC--: once scoring scheme devised defined motif search space scanned motifs significantly high scores identified
+MISC--: determine statistical significance obtained scores many methods resort simulations ad hoc thresholds
+MISC--: several excellent reviews narrate different strategies motif detection use quantitative benchmarking compare their performance citation citation
+AIMX--: related aspect motif discovery outside scope this paper focuses properties clusters modules tf binding sites
+MISC--: examples approaches search combinatorial patterns modules underlying tf binding gene expression include citation citation

@@ -1,0 +1,17 @@
+MISC--: classification problem described joint density symbol models symbol bayesian similarity measure been shown optimal similarity measure nearest neighbor classification
+AIMX--: this paper analyzes demonstrates several additional properties conditional distribution
+MISC--: paper first shows we reconstruct up class labels class posterior distribution symbol given symbol gives procedure recovering class labels gives asymptotically bayes optimal classification procedure
+MISC--: also shows given optimal similarity measure how construct classifier outperforms nearest neighbor classifier achieves bayes optimal classification rates
+MISC--: paper then analyzes bayesian similarity framework where classifier faces number related classification tasks multitask learning illustrates reconstruction class posterior distribution not possible general
+MISC--: finally paper identifies distinct class classification problems using symbol shows using symbol solve those problems bayes optimal solution
+MISC--: statistical models similarity become increasingly important recent work information retrieval citation case based reasoning citation pattern recognition citation computer vision citation
+OWNX--: particular interest bayesian similarity discriminatively trained model symbol we will abbreviate symbol
+MISC--: models been demonstrated work well number pattern recognition visual object recognition problems citation
+MISC--: easy see nearest neighbor classification using symbol minimizes risk class labels symbol symbol differ therefore optimal nearest neighbor classification citation
+CONT--: however beyond observation there been several kinds analysis bayesian similarity
+MISC--: first presented mahamud citation analysis considering single instance classification problem determined joint distribution symbol class labels symbol feature vectors symbol
+MISC--: authors also argue existence useful invariance properties bayesian similarity functions when those functions specific form citation
+MISC--: second analysis based hierarchical bayesian framework presented breuel citation effectively considers bayesian similarity context distribution related classification tasks
+AIMX--: this paper analyzes relationship between bayesian similarity symbol class posterior distribution symbol both non hierarchical hierarchical cases uses those results construct asymptotically bayes optimal classification procedure using bayesian similarity
+MISC--: also presents new statistical model kinds discrimination tasks described citation demonstrates bayesian similarity bayes optimal solution those tasks
+OWNX--: implications results applications bayesian similarity will discussed at end

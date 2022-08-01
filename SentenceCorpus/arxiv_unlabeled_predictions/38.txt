@@ -1,0 +1,42 @@
+MISC--: much recent work bioinformatics focused inference various types biological networks representing gene regulation metabolic processes protein protein interactions etc
+MISC--: common setting involves inferring network edges supervised fashion set high confidence edges possibly characterized multiple heterogeneous data sets protein sequence gene expression etc
+OWNX--: here we distinguish between two modes inference this setting direct inference based upon similarities between nodes joined edge indirect inference based upon similarities between one pair nodes another pair nodes
+OWNX--: we propose supervised approach direct case translating into distance metric learning problem
+OWNX--: relaxation resulting convex optimization problem leads support vector machine svm algorithm particular kernel pairs we call metric learning pairwise kernel
+OWNX--: we demonstrate using several real biological networks this direct approach often improves upon state art svm indirect inference tensor product pairwise kernel
+MISC--: increasingly molecular systems biology concerned describing various types subcellular networks
+OWNX--: include protein protein interaction networks metabolic networks gene regulatory signaling pathways genetic interaction networks
+MISC--: while some networks partly deciphered high throughput experimental methods fully constructing any network requires lengthy biochemical validation
+MISC--: therefore automatic prediction edges other available data protein sequences global network topology gene expression profiles importance either speed up elucidation important pathways complement high throughput methods subject high levels noise citation
+MISC--: edges network inferred relevant data at least two complementary ways
+MISC--: concreteness consider network protein protein interactions derived some noisy high throughput technology
+OWNX--: our confidence correctness particular edge symbol symbol this network increases if we observe example two proteins symbol symbol localize same cellular compartment share similar evolutionary patterns citation
+OWNX--: generally this type direct inference two genes proteins predicted interact if they bear some direct similarity each other available data
+OWNX--: alternative mode inference we call indirect inference relies upon similarities between pairs genes proteins
+OWNX--: example above our confidence symbol symbol increases if we find some other high confidence edge symbol symbol pair symbol resembles symbol some meaningful fashion
+OWNX--: note this model two connected proteins symbol symbol might not similar one another
+MISC--: example if goal detect edges regulatory network using time series expression data one would expect time series regulated protein delayed time compared regulatory protein
+MISC--: therefore this case learning phase would involve learning this feature other pairs regulatory regulated proteins
+MISC--: most common application indirect inference approach case protein protein interaction involves comparing amino acid sequences symbol symbol versus symbol symbol e g citation
+MISC--: indirect inference amounts straightforward application machine learning paradigm problem edge inference each edge example task learn example discriminate between true false edges
+MISC--: not surprisingly therefore several machine learning algorithms been applied predict network edges properties protein pairs
+MISC--: example context machine learning support vector machines svm kernel methods ben hur noble citation describe how map embedding individual proteins onto embedding pairs proteins
+MISC--: mapping defines two pairs proteins similar each other when each protein pair similar one corresponding protein other pair
+MISC--: practice mapping defined deriving kernel function pairs proteins kernel function symbol individual proteins obtained tensorization initial feature space
+OWNX--: we therefore call this pairwise kernel shown below tensor product pairwise kernel tppk symbol less attention been paid use machine learning approaches direct inference paradigm
+MISC--: two exceptions works yamanishi et al citation vert et al citation who derive supervised machine learning algorithms optimize measure similarity underlies direct approach learning examples interacting non interacting pairs
+MISC--: yamanishi et al employ kernel canonical correlation analysis embed proteins into feature space where distances expected correlate presence absence interactions between protein pairs
+CONT--: vert et al highlight similarity this approach problem distance metric learning citation while proposing algorithm purpose
+MISC--: both direct inference approaches however suffer two important drawbacks
+MISC--: first they based optimization proxy function slightly different objective embedding namely finding distance metric interacting non interacting pairs fall above below some threshold
+MISC--: second methods citation citation applicable only when known part network used training defined subset proteins network
+OWNX--: other words order apply methods we must complete set high confidence edges one set proteins we infer edges rest network
+MISC--: this setting unrealistic
+MISC--: practice our training data will generally consist known positive negative edges distributed throughout target network
+AIMX--: this paper we propose convex formulation supervised learning direct inference paradigm overcomes both limitations mentioned above
+AIMX--: we show slight relaxation this formulation bears surprising similarities supervised approach citation sense amounts defining kernel between pairs proteins kernel between individual proteins
+OWNX--: we therefore call our method metric learning pairwise kernel mlpk
+MISC--: important property this formulation svm possibility learn several data types simultaneously combining kernels particular importance various bioinformatics applications citation
+AIMX--: we validate mlpk approach task reconstructing two yeast networks network metabolic pathways co complex network
+MISC--: each case network inferred variety genomic proteomic data including protein amino acid sequences gene expression levels over large set experiments protein cellular localization
+OWNX--: we show mlpk approach nearly always provides better prediction performance than state art tppk approach

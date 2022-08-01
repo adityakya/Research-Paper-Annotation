@@ -1,0 +1,25 @@
+MISC--: previous model based analysis metabolic network geobacter sulfurreducens suggested existence several redundant pathways
+OWNX--: here we identified eight sets redundant pathways included redundancy assimilation acetate conversion pyruvate into acetyl coa
+OWNX--: equivalent pathways two other sub optimal pathways were studied using single gene deletion mutants those pathways evaluation predictive capacity model
+OWNX--: growth phenotypes mutants were studied under different conditions electron donor acceptor availability
+MISC--: comparison model predictions resulting experimental phenotypes indicated pyruvate ferredoxin oxidoreductase only activity able convert pyruvate into acetyl coa
+CONT--: however results modeling showed two acetate activation pathways present not only active but needed due additional role acetyl coa transferase tca cycle probably reflecting adaptation bacteria acetate utilization
+OWNX--: other cases data reconciliation suggested additional capacity constraints were confirmed biochemical assays
+MISC--: results demonstrate need experimentally verify activity key enzymes when developing silico models microbial physiology based sequence based reconstruction metabolic networks
+MISC--: geobacter species interest because their natural role carbon mineral cycling their ability remediate organic metal contaminants subsurface their capacity harvest electricity waste organic matter citation citation
+MISC--: geobacter sulfurreducens citation most commonly investigated species this genus because genetic system citation complete genome sequence citation whole genome microarrays citation genome scale proteomics citation available
+MISC--: furthermore functional genomics studies provided insight into mechanisms extracellular electron transport onto important electron acceptors fe oxides electrodes citation citation
+MISC--: g
+MISC--: sulfurreducens use either acetate hydrogen sole electron donors fe reduction fumarate malate also used terminal electron acceptors citation
+MISC--: understanding acetate metabolism geobacter species required because acetate secreted fermenting organisms dominant electron donor geobacteraceae soils sediments citation because recent studies shown addition acetate uranium contaminated aquifers stimulate situ bioremediation uranium contamination geobacter species citation citation
+MISC--: previous studies demonstrated geobacter species closely related desulfuromonas acetoxidans oxidize acetate via tca cycle citation citation
+MISC--: however many other aspects acetate metabolism central metabolism general still poorly understood
+MISC--: better understand physiology g sulfurreducens constraint based genome scale metabolic model was constructed used investigate unique physiology associated reduction extracellular electron acceptors fe citation
+OWNX--: genome scale model enabled assessment impact global proton balance during fe reduction biomass energy yields successfully predicted lower biomass yields observed during growth mutant fumarate reductase had been deleted citation
+MISC--: furthermore network reconstruction revealed existence number redundant alternate pathways central metabolism g sulfurreducens citation
+MISC--: recent genetic silico studies shown presence redundant metabolic pathways well isozymes enable metabolic networks withstand genetic perturbations citation citation
+OWNX--: experimental evidence alternate optimal pathways been observed e coli where four metabolic gene deletion mutants had significantly different metabolic flux distributions but similar overall growth rates citation
+MISC--: hence systematic investigation role redundant pathways using silico models provide key insights into properties metabolic networks
+OWNX--: here we report coupled computational experimental evaluation potential redundant pathways during acetate metabolism g sulfurreducens
+OWNX--: we demonstrate need redundancy acetate assimilation pathways due coupling between tca cycle acetate activation acetyl coa also inactivity some predicted alternatives pyruvate oxidation acetyl coa
+OWNX--: we also show using this information constrain model its predictive capacity improved

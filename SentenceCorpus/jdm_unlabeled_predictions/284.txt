@@ -1,0 +1,33 @@
+OWNX--: important open problem how values compared make simple choices
+MISC--: natural hypothesis brain carries out computations associated value comparisons manner consistent drift diffusion model ddm since this model been able account large amount data other domains
+OWNX--: we investigated ability four different versions ddm explain data real binary food choice task under conditions high low time pressure
+OWNX--: we found seven parameter version ddm account choice reaction time data high accuracy both high low time pressure conditions
+MISC--: changes associated introduction time pressure could traced changes two key model parameters barrier height noise slope drift process
+MISC--: drift diffusion model ddm one cornerstones modern psychology citation increasingly behavioral neuroscience citation
+MISC--: model received increased attention over last years several reasons
+MISC--: first provided more accurate descriptions accuracy reaction time data than alternative models wide range psychological tasks including perceptual discrimination go no go tasks citation
+MISC--: second model special case many its competitors sign its generality citation
+MISC--: finally model been applied explain neurophysiological data various perceptual discrimination tasks citation compelling neuronal interpretation
+OWNX--: important open problem behavioral neuroscience how brain compares values make simple choices
+MISC--: this problem particularly interesting because there ample evidence suggesting comparison process not deterministic does not always choose best option citation
+MISC--: success ddm realm perceptual decision making lead several groups neuroeconomics speculate same computational model might used brain make simple value based choices citation
+MISC--: this type choice refers situations brain chooses among several possible stimuli associated different reward values at consumption e g alternative food items assigning value every item under consideration comparing values select one them
+OWNX--: this paper investigates extent ddm explain accuracy reaction time data real simple food choices
+MISC--: subjects made real choices between pairs appetitive snack foods had eat food they chose randomly selected trial
+MISC--: this task conceptually similar previous experiments perceptual discrimination citation human subjects had decide two stimuli was brightest
+OWNX--: key difference our experiment our subjects made choices between stimuli associated different levels reward at consumption instance value based choice
+MISC--: interesting ask whether both types tasks described same computational model because given large degree specialization brain there no priori reason same algorithms would used perceptual reward domains
+MISC--: we compare four different versions ddm vary number free parameters they contain whether barriers constant decrease time speed up decision making citation
+CONT--: since best fitting model likely depend speed decisions made we carry out separate model fitting comparisons two different time pressure experimental conditions allow us identify aspects ddm responsible any changes performance
+OWNX--: we found popular seven parameter version ratcliff ddm model citation account data high accuracy both high low time pressure conditions
+OWNX--: furthermore we also found changes associated introduction time pressure could traced changes two key model parameters barrier height noise slope drift process
+MISC--: understanding conditions under ddm explain behavioral data simple value based choice important several reasons
+OWNX--: first necessary first step exploring extent this model account underlying neural computations
+MISC--: second since ddm been shown provide accurate description data other domains finding ddm also provides good computational description value based choices provides insight into nature some basic algorithms might at work many different psychological processes
+MISC--: best our knowledge performance ddm not been tested before realm value based choice although been extensively tested other realms
+MISC--: fact best our knowledge provided accurate quantitative characterization key aspects data every domain been applied
+MISC--: example ddm been tested human non human primates using newsome shadlen random dot motion perceptual discrimination task citation
+MISC--: few studies explored ability models related ddm explain various common choice patterns
+MISC--: example several studies explored ability decision field theory variant ddm account patterns choice multi attribute settings choices among lotteries but not provided full experimental test against data citation
+MISC--: other studies investigated ability competing accumulator model accomplish similar goals citation
+MISC--: although previous studies shown relatively simple computational models decision making account some stylized facts behavioral literature their full properties realm simple value based choice not been investigated

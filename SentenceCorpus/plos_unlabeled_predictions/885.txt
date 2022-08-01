@@ -1,0 +1,52 @@
+MISC--: co expression networks routinely used study human diseases like obesity diabetes
+MISC--: systematic comparison networks between species potential elucidate common mechanisms conserved between human rodent species well those species specific characterizing evolutionary plasticity
+OWNX--: we developed semi parametric meta analysis approach combining gene gene co expression relationships across expression profile datasets multiple species
+OWNX--: simulation results showed semi parametric method robust against noise
+MISC--: when applied human mouse rat liver co expression networks our method out performed existing methods identifying gene pairs coherent biological functions
+OWNX--: we identified network conserved across species highlighted cell cell signaling cell adhesion sterol biosynthesis main biological processes represented genome wide association study candidate gene sets blood lipid levels
+OWNX--: we further developed heterogeneity statistic test network differences among multiple datasets demonstrated genes species specific interactions tend under positive selection throughout evolution
+MISC--: finally we identified human specific sub network regulated rxrg been validated play different role hyperlipidemia type diabetes between human mouse
+CONT--: taken together our approach represents novel step forward integrating gene co expression networks multiple large scale datasets leverage not only common information but also differences dataset specific
+MISC--: advent expression profiling other high throughput technologies enabled us systematically study complex human diseases simultaneously measuring tens thousands molecular species any given cell based system citation
+MISC--: now routine organize large scale gene expression data into co expression networks shed light functional relationships among genes between genes disease traits citation citation citation citation
+MISC--: analysis co expression networks used study any tissue organ long samples organs collected population setting
+OWNX--: given mouse rat populations commonly used study human diseases this manner important understand mechanisms conserved between human rodent species especially we seek better predictions efficacy drug targets identified mouse rat human populations
+MISC--: addition identifying mechanisms differ between humans rodents help improve design interpretation toxicity studies involve rodent models
+MISC--: meta analysis statistical synthesis data aggregating results set comparable studies citation
+MISC--: used systematically examine similarities differences between molecular profiling studies carried out populations different species citation
+MISC--: gene co expression network relationship between gene pairs usually measured correlation coefficients different forms pearson correlation spearman correlation mutual information
+MISC--: therefore problem combining comparing co expression relationships across multiple datasets framed context meta analysis correlation coefficients various methods already been introduced
+MISC--: one method fisher s inverse formula test computes combined statistic p values correlation coefficients obtained individual datasets formula
+OWNX--: under fairly general conditions this statistic follows formula distribution formula degrees freedom under joint null hypothesis no correlation making possible compute p values combined statistic
+MISC--: another widely used meta analysis method involves computing weighted average common metric derived correlation coefficients individual datasets
+MISC--: statistic then used test homogeneity over individual measures statistical significance
+MISC--: datasets this type meta analysis typically weighted accuracy effect size they provide function individual sample sizes
+MISC--: once mean effect size calculated its statistical significance assessed estimating pooled variance mean effect size
+MISC--: defining effect size hedges olkin citation rosenthal rubin citation both advocated converting correlation coefficient into standard normal metric using fisher s z transformation then calculating weighted average transformed scores
+OWNX--: depending whether effect sizes assumed equal not multiple datasets fixed effect well random effect models employed
+MISC--: fixed effect models effect size population fixed but unknown constant therefore assumed same all datasets included meta analysis
+MISC--: random effect models effect sizes may vary dataset dataset assumed random sample all population effect sizes
+MISC--: hunter schmidt citation introduced single random effects method based untransformed correlation coefficients
+OWNX--: one important feature this type method heterogeneity effect sizes estimated provides way assess difference correlation coefficients across multiple datasets
+MISC--: schulze citation provided thorough review meta analysis methods their applications
+MISC--: meta analysis co expression networks diverse datasets those constructed different species one central issue often unreasonable assume every gene pair unique true effect size across evolutionarily diverse species
+MISC--: although random effect models provide more realistic way accommodate cross species variation still assumes parametric distribution population effect sizes
+MISC--: circumvent this problem non parametric meta analysis method was introduced identification conserved co expression modules human fly worm yeast citation
+OWNX--: this method pearson correlation coefficients expression profiles between every gene pair were computed each organism then rank transformed according their correlations all other genes
+MISC--: probabilistic test based order statistics was then applied evaluate probability observing particular configuration ranks across different organisms chance
+OWNX--: advantage this method two fold because method based non parametric statistics makes no assumption underlying distribution correlation coefficients across multiple datasets effect size defined gene centric fashion any given gene correlations all other genes considered
+MISC--: however method also several limitations including loss power general given non parametric formulization citation citation meta analysis results cannot represented same format individual datasets given there no concept mean effect size
+MISC--: details individual methods presented methods section
+MISC--: their pros cons summarized supplementary table s
+OWNX--: this paper we develop method meta analysis diverse datasets generated across multiple species
+OWNX--: our method semi parametric nature requiring fewer assumptions distribution effect size than purely parametric approach while retaining better statistical power than fully non parametric method
+MISC--: also defines effect size gene centric allows computation mean effect size leads heterogeneity statistic test differences correlation structures among distinct datasets
+MISC--: unlike most network alignment algorithms citation citation citation citation citation connectivity based approaches citation our method does not rely networks inferred priori individual datasets but instead focuses development rigorous statistics test directly relationship between every gene pair
+OWNX--: simulation results showed our method robust against noises
+AIMX--: when applied human mouse rat cross species meta analysis liver co expression networks we demonstrate our method out performs existing methods identifying functionally coherent gene pairs conserved among three species
+OWNX--: our method also leads identification modules co expressed genes represent core functions liver been conserved throughout evolution
+OWNX--: both highly replicated less confident genome wide association study candidate genes blood lipid levels found enriched conserved modules providing systematic way elucidate mechanisms affecting blood lipid levels
+MISC--: application our test homogeneity leads identification single sub network driven apoe distinguishes two nearly identical experimental cross populations whose genetic backgrounds only vary respect gene apoe
+OWNX--: we further demonstrate genes involved human rodent specific liver interactions tend under positive selection throughout evolution
+MISC--: finally we identified human specific sub network regulated rxrg been validated play different role hyperlipidemia type diabetes between human mouse
+CONT--: taken together our approach represents novel step forward integrating gene co expression networks multiple large scale datasets leverage not only conserved information but also differences dataset specific

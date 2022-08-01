@@ -1,0 +1,78 @@
+MISC--: minimum description length mdl principle selects model shortest code data plus model
+OWNX--: we show countable class models mdl predictions close true distribution strong sense
+MISC--: result completely general
+MISC--: no independence ergodicity stationarity identifiability other assumption model class need made
+MISC--: more formally we show any countable class models distributions selected mdl map asymptotically predict merge true measure class total variation distance
+MISC--: implications non iid domains like time series forecasting discriminative learning reinforcement learning discussed
+MISC--: minimum description length mdl principle recommends use among competing models one allows compress data model most citation
+MISC--: better compression more regularity been detected hence better will predictions
+MISC--: mdl principle regarded formalization ockham s razor says select simplest model consistent data
+OWNX--: we consider sequential prediction problems i e having observed sequence symbol predict symbol then observe symbol symbol
+MISC--: classical prediction concerned symbol multi step lookahead symbol total prediction symbol
+AIMX--: this paper we consider last hardest case
+OWNX--: infamous problem this category black raven paradox citation having observed symbol black ravens what likelihood all ravens black
+MISC--: more computer science problem infinite horizon reinforcement learning where predicting infinite future necessary evaluating policy
+MISC--: see section other applications
+MISC--: let symbol countable class models linebreak theories linebreak hypotheses linebreak probabilities over sequences symbol sorted w r t their complexity codelength symbol say containing unknown true sampling distribution symbol
+OWNX--: our main result will arbitrary measurable spaces symbol but keep things simple introduction let us illustrate mdl finite symbol
+OWNX--: this case we define symbol symbol probability data sequence symbol
+OWNX--: possible code symbol symbol bits eg using huffman coding
+OWNX--: since symbol sampled symbol this code optimal shortest among all prefix codes
+OWNX--: since we do not know symbol we could select symbol leads shortest code observed data symbol
+OWNX--: order able reconstruct symbol code we need know symbol been chosen so we also need code symbol takes symbol bits
+OWNX--: hence symbol coded symbol bits
+MISC--: mdl selects model minimizer mdl x arg min q m q x k q given symbol true predictive probability symbol symbol
+OWNX--: since symbol unknown we use symbol substitute
+OWNX--: our main concern how close latter former
+OWNX--: we measure distance between two predictive distributions d h p q x sum z x h big p z x q z x big symbol symbol
+MISC--: easy see symbol monotone increasing symbol twice total variation distance tvd defined req tvd
+MISC--: mdl closely related bayesian prediction so comparison existing results bayes interesting
+MISC--: bayesians use symbol prediction where symbol bayesian mixture prior weights symbol symbol
+MISC--: natural choice symbol
+OWNX--: following results shown sum l e d h p mdl x x l h cdot k p sum l e d h p bayes x l h cdot
+MISC--: w p d infty p mdl x x d infty p bayes x left mbox almost surely mbox l x infty right
+MISC--: where expectation symbol w r t symbol
+MISC--: left statements symbol imply symbol almost surely including some form convergence rate
+MISC--: bayes been proven citation mdl proof citation adapted
+MISC--: far asymptotics concerned right results symbol much stronger require more sophisticated proof techniques
+MISC--: bayes result follows citation
+AIMX--: proof mdl primary novel contribution this paper more precisely arbitrary measurable symbol total variation distance
+MISC--: another general consistency result presented citation
+MISC--: consistency shown only probability predictive implications result unclear
+OWNX--: stronger almost sure result alluded but given reference citation contains only results iid sequences do not generalize arbitrary classes
+MISC--: so existing results discrete mdl far less satisfactory than elegant bayesian prediction tvd
+OWNX--: results above hold completely arbitrary countable model classes symbol
+MISC--: no independence ergodicity stationarity identifiability other assumption need made
+MISC--: bulk previous results mdl continuous model classes citation
+MISC--: much been shown classes independent identically distributed iid random variables citation
+MISC--: many results naturally generalize stationary ergodic sequences like symbol th order markov
+MISC--: instance asymptotic consistency been shown citation
+MISC--: there many applications violating assumptions some them presented below section
+MISC--: one often hear exaggerated claim e g unlike bayes mdl used even if true distribution symbol not symbol
+MISC--: indeed used but question wether this any good
+OWNX--: there some results supporting this claim eg if symbol closure symbol but similar results exist bayes
+MISC--: essentially symbol needs at least close some symbol mdl work there interesting environments not even close being stationary ergodic iid
+MISC--: non iid data pervasive citation includes all time series prediction problems like weather forecasting stock market prediction citation
+MISC--: indeed also perfect examples non ergodic processes
+MISC--: too much green house gases massive volcanic eruption asteroid impact another world war could change climate economy irreversibly
+MISC--: life also not ergodic one inattentive second car irreversible consequences
+MISC--: also stationarity easily violated multi agent scenarios environment itself contains learning agent non stationary during relevant learning phase
+MISC--: extensive games multi agent reinforcement learning classical examples citation
+MISC--: often assumed true distribution uniquely identified asymptotically
+MISC--: non ergodic environments asymptotic distinguishability depend realized observations prevent prior reduction partitioning symbol
+MISC--: even if principally possible practically burdensome do so eg presence approximate symmetries
+MISC--: indeed this problem primary reason considering predictive mdl
+OWNX--: mdl might never identify true distribution but our main result shows sequentially selected models become predictively indistinguishable
+OWNX--: countability symbol severest restriction our result
+MISC--: nevertheless countable case useful
+MISC--: semi parametric problem class symbol symbol say reduced countable class symbol our result holds where symbol bayes nml other estimate symbol citation
+MISC--: alternatively symbol could reduced countable class considering only computable parameters symbol
+OWNX--: essentially all interesting model classes contain countable topologically dense subset
+MISC--: under certain circumstances mdl still works non computable parameters citation
+MISC--: alternatively one may simply reject non computable parameters philosophical grounds citation
+MISC--: finally techniques countable case might aid proving general results continuous symbol possibly along lines citation
+AIMX--: paper organized follows section we provide some insights how mdl bayes work restricted settings what breaks down general countable symbol how circumvent problems
+OWNX--: formal development starts section introduces notation our main result
+OWNX--: proof finite symbol presented section denumerable symbol section
+OWNX--: section we show how result applied sequence prediction classification regression discriminative learning reinforcement learning
+OWNX--: section discusses some mdl variations

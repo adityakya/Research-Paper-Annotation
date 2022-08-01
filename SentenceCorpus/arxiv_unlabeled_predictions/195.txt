@@ -1,0 +1,38 @@
+MISC--: frequent episode discovery popular framework pattern discovery event streams
+MISC--: episode partially ordered set nodes each node associated event type
+MISC--: efficient separate algorithms exist episode discovery when associated partial order total serial episode trivial parallel episode
+AIMX--: this paper we propose efficient algorithms discovering frequent episodes general partial orders
+MISC--: algorithms easily specialized discover serial parallel episodes
+MISC--: also algorithms flexible enough specialized mining space certain interesting subclasses partial orders
+MISC--: we point out there inherent combinatorial explosion frequent partial order mining most importantly frequency alone not sufficient measure interestingness
+OWNX--: we propose new interestingness measure general partial order episodes discovery method based this measure filtering out uninteresting partial orders
+OWNX--: simulations demonstrate effectiveness our algorithms
+MISC--: frequent episode discovery citation popular framework discovering temporal patterns symbolic time series data applications several domains like manufacturing citation telecommunication citation www citation biology citation finance citation intrusion detection citation text mining citation etc
+MISC--: data this framework single long time ordered stream events each temporal pattern called episode essentially small partially ordered collection nodes each node associated symbol called event type
+CONT--: partial order episode constrains time order events should appear data order events constitute occurrence episode
+MISC--: patterns total order their nodes called serial episodes while those empty partial order called parallel episodes citation
+MISC--: task unearth all episodes whose frequency data exceeds user defined threshold
+MISC--: currently separate algorithms exist literature discovering frequent serial parallel episodes data streams citation while no algorithms available case episodes general partial orders
+MISC--: related work found context sequential patterns citation where data consists multiple sequences sequential pattern small partially ordered collection symbols
+MISC--: sequential pattern considered frequent if there enough sequences data pattern occurs atleast once
+OWNX--: contrast frequent episode discovery we looking patterns repeat often single long stream events
+MISC--: this makes computational task quite different sequential patterns
+AIMX--: this paper we develop algorithms discovering frequent episodes general partial order constraints over their nodes
+OWNX--: we restrict our attention subclass patterns called injective episodes where event type cannot appear more than once given episode
+MISC--: this facilitates design efficient algorithms no restriction whatsoever partial orders episodes
+MISC--: further our algorithms handle usual expiry time constraints episode occurrences limit time spans valid occurrences some user defined maximum value
+MISC--: our algorithms easily specialized either discover only frequent serial episodes only frequent parallel episodes
+OWNX--: moreover we also specialize method focus discovery process certain classes partial order episodes satisfy what we call maximal subepisode property serial episodes parallel episodes specific examples classes obey this property
+MISC--: we point out here one difficulties efficient discovery general partial orders there inherent combinatorial explosion number frequent episodes any given size
+OWNX--: this because any partial order episode symbol nodes there exponential number subepisodes also size symbol all would occur at least often episode note this problem does not arise eg frequent serial episode discovery because symbol node serial episode cannot any symbol node serial subepisode
+MISC--: thus frequency alone insufficient measure interestingness episodes general partial orders
+OWNX--: tackle this we propose new measure called bidirectional evidence captures some notion entropy relative frequencies pairs events occurring either order observed occurrences episode
+MISC--: mining procedure now requires user defined threshold bidirectional evidence addition usual frequency threshold
+OWNX--: we demonstrate utility our algorithms through extensive empirical studies
+AIMX--: paper organized follows
+OWNX--: sec we briefly review frequent episodes formalism define injective episodes
+MISC--: sec describes finite state automata its associated properties tracking occurrences injective episodes
+MISC--: algorithms counting frequencies partial order episodes described sec
+MISC--: candidate generation described sec
+OWNX--: sec describes our new interestingness measure
+OWNX--: we present simulation results sec conclude sec

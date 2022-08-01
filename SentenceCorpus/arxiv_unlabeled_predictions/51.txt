@@ -1,0 +1,62 @@
+MISC--: we propose simple randomized strategies sequential decision prediction under imperfect monitoring when decision maker forecaster does not access past outcomes but rather feedback signal
+MISC--: proposed strategies consistent sense they achieve asymptotically best possible average reward among all fixed actions
+MISC--: was rustichini citation who first proved existence consistent predictors
+MISC--: forecasters presented here offer first constructive proof consistency
+MISC--: moreover proposed algorithms computationally efficient
+OWNX--: we also establish upper bounds rates convergence
+MISC--: case deterministic feedback signals rates optimal up logarithmic terms
+MISC--: sequential decision problems decision maker forecaster tries predict outcome certain unknown process at each discrete time instance takes action accordingly
+OWNX--: depending outcome predicted event action taken decision maker receives reward
+MISC--: very often probabilistic modeling underlying process difficult
+MISC--: situations prediction problem formalized repeated game between decision maker environment
+MISC--: this formulation goes back s when hannan citation blackwell citation showed decision maker randomized strategy guarantees regardless outcome sequence average asymptotic reward high maximal reward one could get knowing empirical distribution outcome sequence advance
+MISC--: strategies called hannan consistent
+MISC--: prove this result hannan blackwell assumed decision maker full access past outcomes
+OWNX--: this case termed full information perfect monitoring case
+MISC--: however many important applications decision maker limited information about past elements sequence predicted
+MISC--: various models limited feedback been considered literature
+MISC--: perhaps best known them so called multi armed bandit problem forecaster only informed its own reward but not actual outcome see ba nos citation megiddo citation foster vohra citation auer cesa bianchi freund schapire citation hart mas colell citation
+MISC--: example shown citation hannan consistency achievable this case well
+MISC--: sequential decision problems like ones considered this paper been studied different fields under various names repeated games regret minimization line learning prediction individual sequences sequential prediction
+MISC--: vocabulary different sub communities differ
+OWNX--: ours perhaps closest used learning theorists
+MISC--: general introduction survey sequential prediction problem we refer cesa bianchi lugosi citation
+AIMX--: this paper we consider general model information available forecaster general given possibly randomized function outcome decision forecaster
+CONT--: well understood under what conditions hannan consistency achievable this setup see piccolboni schindelhauer citation cesa bianchi lugosi stoltz citation
+OWNX--: roughly speaking this possible whenever after suitable transformations problem reward matrix expressed linear function matrix expected feedback signals
+OWNX--: however this condition not always satisfied then natural question what best achievable performance decision maker
+OWNX--: this question was answered rustichini citation who characterized maximal achievable average reward guaranteed asymptotically all possible outcome sequences almost sure sense
+OWNX--: however rustichini s proof achievability not constructive
+MISC--: uses abstract approachability theorems due mertens sorin zamir citation seems unlikely his proof method give rise computationally efficient prediction algorithms noted conclusion citation
+MISC--: simplified efficient approachability based strategy special case where feedback function action nature alone was shown mannor shimkin citation
+MISC--: general case simplified approachability based strategy citation falls short maximal achievable average reward characterized rustuchini citation
+AIMX--: goal this paper develop computationally efficient forecasters general prediction problem under imperfect monitoring achieve best possible asymptotic performance
+MISC--: we introduce several forecasting strategies exploit some specific properties problem at hand
+OWNX--: we separate four cases according whether feedback signal only depends outcome both outcome forecaster s action whether feedback signal deterministic not
+OWNX--: we design different prediction algorithms all four cases
+MISC--: product we also obtain finite horizon performance bounds explicit guaranteed rates convergence terms number symbol rounds prediction game played
+MISC--: case deterministic feedback signals rates optimal up logarithmic factors
+OWNX--: random feedback signal case we do not know if possible construct forecasters significantly smaller regret
+MISC--: motivating example prediction problem arises naturally multi access channels prevalent both wired wireless networks
+MISC--: networks communication medium shared between multiple decision makers
+MISC--: often technically difficult synchronize between decision makers
+CONT--: channel sharing protocols particular several variants spread spectrum allow multiple agents use same channel channels may interfere each other simultaneously
+MISC--: more specifically consider wireless system where multiple agents choose channel transmit data at any given time
+MISC--: quality each channel may different interference other users using this channel other close channels may affect base station reception
+MISC--: transmitting agent may choose channel use how much power spend every transmission
+MISC--: agent tradeoff between amount power wasted transmission cost having its message only partially received
+MISC--: transmitting agent may not receive immediate feedback how much data were received base station even if feedback received often happens much higher layer communication protocol
+MISC--: instead transmitting agent monitor transmissions other agents
+MISC--: however since transmitting agent physically far base station other agents information about channels chosen other agents amount power they used imperfect
+MISC--: this naturally abstracts online learning problem imperfect monitoring
+AIMX--: paper structured follows
+OWNX--: next section we formalize prediction problem we investigate introduce target quantity best achievable reward notion regret
+OWNX--: section we describe some analytical properties key function symbol defined section
+OWNX--: this function represents worst possible average reward given vector observations needed our analysis
+OWNX--: section we consider simplest special case when actions forecaster do not influence feedback signal moreover deterministic
+OWNX--: this case basically easy full information case we obtain regret bound order symbol high probability where symbol number rounds prediction game
+OWNX--: section we study random feedback signals but still restriction only determined outcome
+OWNX--: here we able obtain regret order symbol
+OWNX--: most general case dealt section
+MISC--: forecaster introduced there regret order symbol
+OWNX--: finally section we show this may improved symbol case deterministic feedback signals known optimal see citation

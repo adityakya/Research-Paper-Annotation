@@ -1,0 +1,73 @@
+MISC--: many pathogens exist phenotypically distinct strains interact each other through competition hosts
+MISC--: general models describe multi strain systems extremely difficult analyze because their state spaces enormously large
+CONT--: reduced models been proposed but so far all them necessarily allow coinfections require immunity mediated solely reduced infectivity potentially problematic assumption
+OWNX--: here we suggest new state space reduction approach allows immunity mediated either reduced infectivity reduced susceptibility naturally used models without coinfections
+OWNX--: our approach utilizes general framework status based models
+OWNX--: cornerstone our method introduction immunity variables describe multi strain systems more naturally than traditional tracking susceptible infected hosts
+OWNX--: models expressed this way approximated natural way truncation method akin moment closure allowing us sharply reduce size state space thus consider models many strains tractable manner
+OWNX--: applying our method phenomenon antigenic drift influenza we propose potentially general mechanism could constrain viral evolution one dimensional manifold two dimensional trait space
+MISC--: our framework broadens class multi strain systems adequately described reduced models
+MISC--: permits computational even analytical investigation thus serves useful tool understanding evolution ecology multi strain pathogens
+MISC--: microbial pathogens tremendously diverse
+MISC--: pathogens cause one same disease may differ remarkably both their genotype their phenotype like hiv aids citation influenza citation malaria citation meningitis citation
+MISC--: phenotypically different variants same pathogen called strains
+MISC--: if several strains exist host population they interact each other two ways
+MISC--: first type interaction may referred ecological interference citation citation
+MISC--: many infectious diseases host infected one strain removed duration disease population hosts susceptible pathogen
+OWNX--: this because immune system host becomes activated upon infection first strain so hard second strain enter replicate this host infected host may physically removed susceptible population dying staying at home
+MISC--: ecological interference takes place even between unrelated pathogens citation
+MISC--: second type interaction referred cross immunity interference specific different strains same pathogen confer full partial immunity each other
+MISC--: this means host infected one strain becomes substantially less susceptible certain other strains pathogen prolonged period time after initial infection cleared
+MISC--: cross immunity highest between phenotypically similar strains
+MISC--: since phenotypic similarity usually implies recent common ancestry pathogen s ecology thus intrinsically entangled its evolution
+OWNX--: understanding dynamics multi strain pathogens at general theoretical level turns out extremely difficult
+MISC--: numerous models been proposed during past twenty years
+MISC--: although models share many similarities they substantially differ particulars often resulting conflicting model predictions
+MISC--: consequence there little agreement how best gain insights into ecology evolution multi strain pathogens
+MISC--: models multi strain pathogens either equation agent based
+MISC--: agent individual based models recently become increasingly elaborate interesting citation citation largely due increase computational capabilities
+OWNX--: since models however not designed analytical tractability we do not dwell this type model here
+MISC--: virtually all equation based models disease dynamics traced back compartment model introduced kermack mckendrick citation
+MISC--: models also known sir models reflecting host population s partitioning into susceptible infected recovered individuals
+MISC--: problem arises immediately when attempting extend this classical sir framework multiple strains number state variables typically also parameters increases exponentially number strains citation citation
+CONT--: this presents not only computational challenges but also draws attention fundamental conceptual difficulty even moderately large number strains resultant number state variables quickly surpasses any realistic host population size
+MISC--: most compartments model therefore consist few individuals if they occupied at all effects demographic stochasticity must then not neglected
+MISC--: avoid this complication existing approaches modeling multi strain pathogens attempted reduce number model compartments
+MISC--: usually reductions valid only under certain sets assumptions may may not adequate depending modeled phenomenon
+MISC--: thus important expand set assumptions under reduced models applicable
+BASE--: our work presented here contributes this goal
+MISC--: traditionally full models been developed based assumption reduced susceptibility implies immune hosts able block off infection completely certain probability citation citation
+MISC--: other hand all existing reduced models rely assumption reduced infectivity implies all hosts immune not get infected same probability but those possess immunity become less infectious than those who do not citation citation
+MISC--: reality most likely lies somewhere between two abstractions
+OWNX--: nevertheless we discuss model section reduced susceptibility assumption seems more plausible
+AIMX--: this study we develop state space reduction approach applied under either assumptions models without coinfections
+OWNX--: our approach differs existing ones produces collection models approximate full models desired degree accuracy
+MISC--: number variables needed resulting approximations grows algebraically number n strains rather than exponentially when n large difference between e g n n enormous former growing much more slowly than latter
+OWNX--: if coinfections reduced infectivity assumed our approach produces model equivalent gog grenfell citation
+AIMX--: illustrate utility our approach reduced models general we demonstrate its application phenomenon drift influenza using reduced models we able simulate up strains
+OWNX--: influenza multi strain pathogen whose epidemiology evolution display intricate interaction pattern
+MISC--: because human immune system produce protective antibodies against influenza s surface glycoprotein hemagglutinin individuals gain lifelong immunity against each strain virus they been infected citation citation
+MISC--: this results complex partitioning human host population according immunity individuals different influenza strains
+MISC--: ensuing frequency dependent selection thought drive evolution influenza giving rise process known antigenic drift citation
+MISC--: lapedes farber citation shown antigenic space influenza approximately five dimensional
+MISC--: subsequently smith et al citation argued first two principal dimensions most important
+MISC--: moreover follows results smith et al temporal evolution influenza s h n subtype proceeds along single line antigenic space i e antigenic clusters corresponding different years well separated along first principal dimension
+MISC--: this agrees observation phylogenetic tree subtype h n possesses single trunk citation
+MISC--: other words even though h n subtype experiences substantial genetic diversity during each epidemic season only one progeny strain survives longer run
+MISC--: accordingly number coexisting h n strains does not grow year year
+MISC--: few recent studies attempted model thereby explain phenomenon antigenic drift influenza apart individual based models most studies consider one dimensional strain space some sort traveling wave behavior observed citation citation citation
+MISC--: constrain evolution virus one dimension two dimensional strain space been necessary require strain space was essentially unviable except relatively thin region along one axis citation
+MISC--: recent study koelle et al citation took different approach succeeded constraining diversity virus living high dimensional sequence space
+MISC--: authors explicitly mapped viral genotypes phenotypes showed single trunk phylogeny influenza may consequence neutral network structure influenza genotype space
+MISC--: however open question properties phenotype space sufficient constrain viral diversity course its evolution
+MISC--: recker et al citation suggest one explanation
+MISC--: they argue succession antigenically distinct variants may intrinsic feature dynamics limited set antigenic types always present host population thus decoupled genetic evolution virus
+OWNX--: here we suggest alternative conceptual scenario follows more traditional view antigenic drift genetic evolution tightly connected
+OWNX--: however we deliberately avoid problem mapping genotypes phenotypes instead assume relatively simple structure phenotype space rectangular lattice
+OWNX--: our model offers straightforward explanation what could happening phenotype space order diversity virus constrained long run
+BASE--: our work thus complementary koelle et al citation
+MISC--: our two dimensional phenotype space each coordinate captures changes conformations epitope local region surface hemagglutinin molecule interacts immune system citation citation
+OWNX--: we then investigate scenario immune response hosts depends two epitopes full immune protection gained against all strains sharing epitopic conformation previous infection
+BASE--: this respect our model closely related models studied gupta colleagues citation citation citation
+AIMX--: we show evolutionary trajectory influenza virus our model follows line even though model s strain space two dimensional
+MISC--: this finding agrees observed single trunk phylogeny influenza s h n subtype citation

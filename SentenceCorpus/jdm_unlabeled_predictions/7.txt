@@ -1,0 +1,48 @@
+MISC--: environmental events natural disasters may influence public s affective reactions decisions
+OWNX--: shortly after number tsunami disaster we assessed how affect elicited thinking about this disaster influenced risk perceptions future time perspective swedish undergraduates not directly affected disaster
+OWNX--: experimental manipulation was used increase salience affect associated disaster
+OWNX--: study number we found participants reminded about tsunami had sense their life was more finite included fewer opportunities than participants control condition not reminded about tsunami
+OWNX--: study number we found similar effects risk perceptions
+OWNX--: addition we showed manipulations ease thought influenced extent affect influenced risk perceptions greater ease thoughts being associated greater perceived risks
+OWNX--: major societal events natural disasters terrorist attacks influence our thoughts feelings
+MISC--: face major environmental event many people tend react emotion emotion laden decisions citation
+CONT--: number east asian tsunami disaster had profound psychological impact many countries not only those were directly hit tsunami waves
+MISC--: sweden pop number million had unusually high number tourists visiting area at time disaster resulting over six hundred swedes being killed missing
+MISC--: tsunami disaster was therefore considered major national tragedy sweden citation
+MISC--: consequence this tragedy media attention received citation was many swedes felt deeply involved saddened citation
+MISC--: feelings elicited event may also impact everyday decisions
+MISC--: previous research judgment decision making shown preferences constructed basis various contextual factors citation people tend rely their affective reactions when making decisions citation
+MISC--: affect defined here specific quality goodness badness experienced feeling state without awareness demarcating positive negative quality stimulus
+MISC--: reliance feelings judgment decision making earlier been described affect heuristic citation
+MISC--: most previous research affect decision making focused integral affect citation
+MISC--: however many judgments other sources affect also present
+MISC--: large number studies shows affective states unrelated judgmental target influence judgments decisions nonetheless citation
+MISC--: famous example johnson tversky citation found incidental affect i e mood state induced reading newspaper article influenced subsequent risk judgments
+MISC--: however effect incidental affect judgments not stable unchangeable unavoidable fact should rather seen constructive process where individual tries determine if their affective reactions target reliable relevant source information citation
+MISC--: at core this argument lies notion when asked make evaluative judgment individuals seek information determine how they should make this judgment
+MISC--: people tend use whatever information available them at time making decision citation
+MISC--: absence other relevant more salient information people use their affective reactions target evaluate object citation
+MISC--: people positive moods tend evaluate objects more favorably than participants negative mood citation
+MISC--: one important point here people incorrectly attribute their incidental moods reaction target
+MISC--: this misattribution corrected changed introducing information questions diagnostic value affective reaction judgment
+OWNX--: instance schwarz clore s citation study participants were given simple reminder about cause sunny vs cloudy weather their moods resulted mood no longer influencing judgments well being
+MISC--: importantly though was diagnostic value affective reaction judgment task not affective reaction itself was affected this manipulation citation
+MISC--: incidental mood only one many sources experiential information used judgments
+MISC--: meta cognitive experience ease fluency information processing been shown important experiential factor informing judgments decisions citation
+MISC--: study effect fluency decision making participants were more likely defer choice when they generated more reasons making choice citation
+OWNX--: studies perceptual fluency subjective ease perceptual processing found if color statement printed makes easy read this impact perceived truthfulness statement citation
+MISC--: thus schwarz citation notes seems subjective experiences accompany our thought processes informative their own right
+MISC--: consequently meta cognitive feelings may further modulate impact affect judgments
+OWNX--: supporting this study lerner gonzalez citation showed fluency manipulations influenced effect specific emotions risk perception
+OWNX--: conceptual model guiding this research described following way number we expect major environmental events natural disaster may influence experienced affect even among individuals not directly affected disaster number experienced affect will turn impact various affective cognitive judgments number effects affect incidental judgment task diminished introducing information fluency manipulations questions diagnostic value experienced feelings judgments
+MISC--: specifically we tested prediction affect elicited thinking about recent major natural disaster would influence judgments well being citation future pessimistic optimistic thinking citation mood congruent manner citation
+MISC--: previous research documented effects laboratory induced mood using standardized mood induction procedures autobiographical recall affect inducing scenarios
+OWNX--: we extended this research inducing affect through procedure participants were asked think about recent relevant major environmental disaster
+OWNX--: our research strategy compared ratings affect ratings future personal societal events two groups participants one reminded about tsunami control group
+OWNX--: we hypothesized reminding participants about tsunami would elicit negative affect associated event
+OWNX--: we further anticipated this affect would spill over judgments well being well optimistic pessimistic thinking
+CONT--: study number participants both conditions completed measure future pessimism future time perspective ftp scale lang carstensen number rated their well being citation
+MISC--: ftp scale was originally developed individual difference measure perceived time remaining life citation
+OWNX--: study number we used ftp scale dependent variable we expected find individuals reminded about tsunami perceived life more finite limited than participants control condition
+MISC--: study number half participants tsunami remind condition were given additional experimental manipulation citation
+MISC--: participants then made risk estimates various future positive negative events citation

@@ -1,0 +1,52 @@
+MISC--: participants decided whom two patients prioritize surgery three studies
+MISC--: factual quantitative information about patients e g probability surviving surgery was given vignette form case descriptions visual analogue scales vas s
+MISC--: differentiation consolidation theory predicts not only attractiveness facts but also mental representations objective facts themselves will restructured post decision processes support decision citation
+OWNX--: after decision participants were asked reproduce objective facts about patients
+OWNX--: results showed distortions objective facts were used consolidate prior decision
+MISC--: consolidation process relied facts initially favoring non chosen alternative facts rated less rather than more important
+MISC--: differentiation consolidation diff con theory process theory human decision making
+MISC--: models decision making process involving different kinds sub processes leading final decision citation
+MISC--: according theory human decision makers structure restructure both evaluations facts about decision alternatives when they make decision after decision
+OWNX--: goal process reach sufficient support chosen alternative
+MISC--: example positively evaluated aspect initially preferred alternative bolstered make alternative seem even better when decision been reached
+MISC--: post decision consolidation phase this process continues strengthen decision when afterthoughts outcomes follow
+MISC--: theory shares process attractiveness restructuring approach decision making number other models human decision making citation some were reviewed brownstein citation simon snow read citation
+MISC--: empirical decision research shown time after time value attractiveness evaluation diagnostic value facts restructured before after decision supporting theories citation
+MISC--: chosen alternative upgraded attractiveness diagnostic value evidence pro alternative citation non chosen alternative downgraded before after decision
+MISC--: however there lack empirical investigations consolidation facts themselves
+MISC--: if decision maker given objective travel time e g number min fact one alternative decision between two job offers she he may change evaluation this fact e g relaxing boring process making decision
+OWNX--: this evaluation does not mean quantitative facts representation must change
+MISC--: decision maker should able communicate exact travel time e g number min within non systematic random error even if there was evaluative restructuring no facts restructuring
+MISC--: facts consolidation appears when quantitative qualitative facts decision problem communicated reproduced distorted way support decision
+CONT--: hindsight paradigm introduced fischhoff citation uses judgment approach some similarity present decision approach but focus post event outcome phase
+OWNX--: fischhoff other researchers following him studied how memory person s prior quantitative probability judgments kind self generated quantitative fact was distorted after outcome knowledge
+OWNX--: they found general quantitative distortions were direction we knew all before bias
+MISC--: mather shafir jonhson citation studied post decision memory attributions chosen non chosen alternatives after decision alternatives described qualitative features varying attractiveness
+MISC--: they found features positive attractiveness were attributed comparatively more often chosen alternative than non chosen alternative
+OWNX--: opposite was found negative features
+MISC--: when alternative was assigned participants memory attributions were less supportive assigned option than option was chosen voluntary
+OWNX--: this shows decision process had selective effect memories evaluative features
+MISC--: gurkmankin levy hershey citation had their participants make treatment choices yes no concerning medical treatment side effects success rate number percent
+MISC--: however since all patients different he doctor t certain this your probability citation
+OWNX--: this instruction communicated uncertainty about probability fact was used distortions supporting participant s choice
+MISC--: instead investigating qualitative evaluative features uncertain probabilities present studies will investigate precise quantitative facts well defined attributes find out if facts distorted post decision memory reproductions
+OWNX--: specify present studies were designed test diff con prediction facts restructured post decision consolidation
+MISC--: if hypothesis confirmed sub processes restructuring process will investigated
+MISC--: one example subprocesses restructuring mental representations both chosen non chosen alternative
+MISC--: chosen alternative restructured greater extent than non chosen alternative
+MISC--: this new problem not been focused past since attractiveness facts diagnosticity facts were focus not facts themselves
+MISC--: earlier studies differentiation consolidation shown attractiveness restructuring does not normally appear most important decisive attribute support choice
+MISC--: instead this kind restructuring focuses important conflict attributes favor non chosen alternative
+MISC--: fact attractiveness consolidation processes real life decision sometimes turn disadvantages chosen alternative into advantages after decision
+MISC--: this was first reported svenson hill citation later verified salo svenson citation another real life context
+MISC--: we do not expect drastic restructuring facts but according diff con we predict no systematic changes most important decisive attribute but systematic changes other attributes particular changes facts supporting non chosen alternative
+OWNX--: we also want introduce visual analogue scale vas way new decision process research
+OWNX--: this scale been used primarily health care measure pain other contexts quantitative response scale
+OWNX--: but present context will used give information about facts
+MISC--: according diff con theory decision sufficiently involving important trigger differentiation consolidation processes
+OWNX--: therefore we will use difficult engaging medical problem following empirical studies
+OWNX--: we predict number facts consolidation will restructure distort reproductions quantitative facts support chosen alternative number quantitative facts restructuring will follow same pattern attractiveness restructuring concern predominantly other attributes than most important decisive attribute particular conflict attributes number facts restructuring achieved through changes both chosen increasing facts support non chosen alternative weakening facts support non chosen alternative
+OWNX--: we also want number introduce facts presented vas scales
+MISC--: design will balanced order control response regression effects easily confounded true restructuring processes depending prior decision
+OWNX--: first study economics students serve participants we use vas visual analogue scale present medical vignette case
+OWNX--: second study replicates first study group participants who familiar medical problems vas

@@ -1,0 +1,34 @@
+OWNX--: individuals generally reluctant trade goods phenomenon identified endowment effect
+AIMX--: this paper focuses consumers puzzling reluctance exchange gambles particular lottery tickets identical distribution i e same odds winning identifies ticket s vividness important moderator
+CONT--: three studies demonstrate individuals more willing exchange less vivid lottery tickets e g tickets concealed envelopes tickets unknown number compared more vivid tickets e g tickets not concealed envelopes tickets known number when offered incentive exchange
+MISC--: moreover this effect mediated anticipated regret less regret anticipated when exchanging less vivid tickets thus increasing individuals willingness exchange tickets
+OWNX--: throughout our lives we gamble
+MISC--: some gambles explicit like horse races lottery tickets
+MISC--: others like purchasing house getting plane getting married more implicit
+OWNX--: once we either chosen received gamble we await outcome
+OWNX--: would we willingly exchange one gamble another would we rather stick what we got simply because ours fear tempting fate
+MISC--: imagine example you received lottery ticket sealed envelope
+OWNX--: you then offered number bonus exchange your ticket another ticket identical distribution
+MISC--: what would you do
+MISC--: rational thing exchange tickets since ticket plus number more valuable than ticket
+MISC--: but would you
+MISC--: would your decision exchange different if ticket was not sealed envelope
+MISC--: endowment effect literature citation would predict people would not willing exchange due loss experienced giving up pre owned object citation
+MISC--: however trade between identical goods should not evoke loss indeed most people would exchange example one pen identical pen citation one candy identical one citation when offered small incentive do so
+MISC--: contrast people generally reluctant exchange lottery tickets identical distribution i e tickets equal chance winning even when offered incentive do so citation
+MISC--: according bar hillel neter citation anticipation ex post regret exchanging ticket losing lottery prevents people exchanging
+OWNX--: understanding willingness exchange gambles important since many our everyday choices represented purchasing insurance purchasing new innovative products going unfamiliar restaurant choosing seat plane
+MISC--: example going unfamiliar restaurant ordering exotic non traditional entree one gambling quality food nature experience restaurant
+MISC--: once people chosen gamble let restaurant entree insurance plan would they reluctant trade them they would when offered trade other goods
+AIMX--: this paper investigates potential moderator reluctance exchange gambles namely their vividness
+AIMX--: specifically i propose more vivid gambles evoke more thoughts about consequences playing out gamble turn induce greater anticipated regret when offered exchange
+OWNX--: when easy imagine consequences gamble e g winning lottery one likely anticipate greater regret exchanging gamble possibly changing consequences gamble e g losing lottery result exchange
+OWNX--: result this greater anticipated regret reduces likelihood exchanging gambles
+MISC--: example when deciding among unfamiliar restaurants being close restaurant opposed deciding when still at home increases vividness restaurants making regret more salient turn reduces likelihood switching one gamble i e restaurant another even when offered incentive switch e g promotional offer
+AIMX--: this paper focuses specific type gambles namely lottery tickets
+MISC--: proposed less vivid tickets evoke fewer thoughts about tickets potentially winning lottery make harder imagining ticket winning
+MISC--: result less vivid tickets evoke less anticipated regret exchanging thus possibly losing lottery
+OWNX--: this reduced anticipated ex post regret leads turn increased willingness exchange less vivid tickets
+OWNX--: next section reviews literature endowment effect regret vividness
+CONT--: then i present three studies test effect ticket s vividness amount nature winning related thoughts study number willingness exchange tickets studies number number using two types lotteries two manipulations vividness
+MISC--: study number additionally tests mediating role anticipated regret when analyzing effect tickets vividness willingness exchange them

@@ -1,0 +1,26 @@
+OWNX--: we propose general method called truncated gradient induce sparsity weights online learning algorithms convex loss functions
+MISC--: this method several essential properties degree sparsity continuous parameter controls rate sparsification no sparsification total sparsification
+OWNX--: approach theoretically motivated instance regarded online counterpart popular symbol regularization method batch setting
+OWNX--: we prove small rates sparsification result only small additional regret respect typical online learning guarantees
+OWNX--: approach works well empirically
+OWNX--: we apply approach several datasets find datasets large numbers features substantial sparsity discoverable
+OWNX--: we concerned machine learning over large datasets
+OWNX--: example largest dataset we use here over symbol sparse examples symbol features using about symbol bytes
+MISC--: this setting many common approaches fail simply because they cannot load dataset into memory they not sufficiently efficient
+MISC--: there roughly two approaches work parallelize batch learning algorithm over many machines eg citation
+MISC--: stream examples online learning algorithm eg citation citation citation citation
+AIMX--: this paper focuses second approach
+MISC--: typical online learning algorithms at least one weight every feature too much some applications couple reasons space constraints
+MISC--: if state online learning algorithm overflows ram not efficiently run
+MISC--: similar problem occurs if state overflows l cache
+MISC--: test time constraints computation
+MISC--: substantially reducing number features yield substantial improvements computational time required evaluate new sample
+AIMX--: this paper addresses problem inducing sparsity learned weights while using online learning algorithm
+MISC--: there several ways do this wrong our problem
+MISC--: example simply adding symbol regularization gradient online weight update doesn t work because gradients don t induce sparsity
+MISC--: essential difficulty gradient update form symbol where symbol symbol two floats
+MISC--: very few float pairs add symbol any other default value so there little reason expect gradient update accidentally produce sparsity
+MISC--: simply rounding weights symbol problematic because weight may small due being useless small because been updated only once either at beginning training because set features appearing also sparse
+MISC--: rounding techniques also play havoc standard online learning guarantees
+OWNX--: black box wrapper approaches eliminate features test impact elimination not efficient enough
+MISC--: approaches typically run algorithm many times particularly undesirable large datasets

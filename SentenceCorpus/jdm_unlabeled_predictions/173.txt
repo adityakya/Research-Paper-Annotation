@@ -1,0 +1,45 @@
+MISC--: mere exposure familiarity effect tendency people feel more positive about stimuli they previously been exposed
+MISC--: eurovision song contest two stage event some contestants final will more familiar viewers than others
+OWNX--: thus viewers voting likely influenced this effect
+OWNX--: previous work attempting demonstrate this effect this context been unable control contestant quality
+CONT--: current study used novel procedure analyse way contestant countries distributed their points function how viewers voted those countries between number number showed contestants did better if they previously appeared semifinal was seen voters
+AIMX--: this evidence mere exposure effect alongside previously studied factors cultural geographical closeness influences way viewers vote eurovision
+MISC--: mere exposure effect tendency people like something more result repeated exposure greater degree prior exposure more potent effect
+MISC--: mere exposure been most famously studied robert zajonc since his initial studies been found tremendously robust effect one been demonstrated huge array different contexts
+MISC--: example zajonc citation demonstrated repeated exposure nonsense words chinese ideographs photographs was enough induce positive evaluations objects
+MISC--: subsequent studies found familiarity effects also influence liking sounds shapes people names citation
+MISC--: amongst other things mere exposure been shown affect food preference infants citation ratings journals academics citation gambling citation voting behaviour elections citation
+MISC--: often been observed studies interpersonal attraction where repeatedly encountering individual increases ratings how attractive likable they citation
+MISC--: mere exposure appears effective even when stimuli presented subliminally citation
+MISC--: already mentioned mere exposure effect been shown affect voting behaviour citation
+OWNX--: olivola todorov found both familiarity perceptions competency were associated share votes achieved political candidates senate elections usa
+MISC--: verhulst et al re examined this analysis gave greater primacy familiarity
+MISC--: they concluded perceptions competency were mediator familiarity suggested greater familiarity may result candidates being perceived more competent
+MISC--: judgements familiarity happen part at preconscious level citation verhulst et al proposed perceptions competency this context may rationalisation preconscious perceptions familiarity
+MISC--: most studies familiarity mere exposure effect happen within laboratory setting
+CONT--: even studies looked at voting behaviour where seems data should available at population level mostly limited themselves working laboratory
+MISC--: this may due difficulty measuring exactly how familiar candidates voters prior elections well myriad uncontrollable extraneous variables influence way individuals vote
+MISC--: example those who more likely win elections receive more press coverage making them more familiar voters citation
+MISC--: however prior familiarity candidates well estimated eurovision song contest
+MISC--: eurovision yearly extravaganza european countries some geographically close countries strong links europe represented musical act country
+MISC--: contest televised takes place over course evening during time viewers vote act they thought best
+MISC--: votes within country collated after each country distributes its points number number number number various acts countries cannot vote their own act
+OWNX--: since number eurovision used two stage voting system
+OWNX--: number number there was single semifinal during first stage semifinal voters were equally unfamiliar all contestants
+BASE--: second stage final voters had already seen those acts had go through semifinal while they were unfamiliar finalists who got bypass semifinal
+MISC--: since number there been two semifinals all contestant countries bar host four main financial contributors compete determine who will appear final half semifinal number half semifinal number
+MISC--: viewer figures consistently show people more likely watch semifinal their own country competes citation
+MISC--: this phenomenon means voters will more familiar finalists who appeared same semifinal their own countries
+MISC--: both formats citation allow estimates familiarity candidates contestants estimates would very hard achieve most studies real world voting
+MISC--: abakoumkin citation looked at data number number found those countries appeared semifinal achieved higher marks than those had not
+OWNX--: although he concluded this was due familiarity likely finalists had compete qualify were higher standard than those did not weaker entrants would been weeded out
+CONT--: result difficult say any certainty whether familiarity effect actually at work this context
+MISC--: voting eurovision been subject much debate number studies been conducted looking at way countries tend vote within blocs determined cultural closeness citation
+MISC--: doosje haslam citation identified reciprocal voting patterns particularly countries more collectivist economically weaker
+OWNX--: addition spierdijk vellekoop citation found geographic proximity religious linguistic cultural congruence presence substantial immigrant population contestant country all influence way countries distribute their points
+MISC--: some commentators argued factors go beyond quality songs performances undermine purity contest though others countered natural voters prefer songs countries they share cultural connections including presumably overlap musical tastes citation
+MISC--: other studies eurovision found expert judging panels less affected kinds factors than televoters citation acts appear later final tend receive more points citation
+MISC--: current study examines whether mere exposure effect also influences voting behaviour
+MISC--: although this been researched previously citation inability account quality competitors means still open question
+OWNX--: rather than simply comparing competitors were semifinal those were not this study looks only at participants who qualified via semifinal
+MISC--: assumed voters will more familiar those countries appeared same semifinal their own consequently they will more likely vote them
